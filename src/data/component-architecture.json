@@ -1,0 +1,126 @@
+{
+  "组件层次结构": {
+    "layouts": {
+      "BaseLayout.astro": {
+        "作用": "基础布局，包含HTML头部、字体、样式等",
+        "props": ["title", "description", "canonical", "ogImage", "lang"],
+        "包含": ["SEOHead", "Header", "Footer", "Scripts"]
+      },
+      "HomePage.astro": {
+        "作用": "首页专用布局", 
+        "继承": "BaseLayout",
+        "包含": ["Hero", "GameSections", "About", "FAQ"]
+      },
+      "GamePage.astro": {
+        "作用": "游戏页面布局",
+        "继承": "BaseLayout", 
+        "包含": ["GameHero", "GameSections", "GameAbout"]
+      }
+    },
+    "components": {
+      "Header.astro": {
+        "作用": "网站头部导航",
+        "props": ["currentLang"],
+        "包含": ["Logo", "Navigation", "LanguageSelector"]
+      },
+      "Footer.astro": {
+        "作用": "网站底部",
+        "包含": ["FooterNavigation", "Copyright", "SocialShare"]
+      },
+      "SEOHead.astro": {
+        "作用": "SEO相关meta标签",
+        "props": ["meta", "structuredData", "hreflang"]
+      },
+      "Logo.astro": {
+        "作用": "网站标志",
+        "props": ["variant"]
+      },
+      "Navigation.astro": {
+        "作用": "主导航菜单",
+        "props": ["items", "currentPath"]
+      },
+      "LanguageSelector.astro": {
+        "作用": "语言选择器",
+        "props": ["languages", "currentLang"]
+      },
+      "GameCard.astro": {
+        "作用": "游戏卡片",
+        "props": ["game", "variant"],
+        "variants": ["grid", "list", "featured"]
+      },
+      "GameGrid.astro": {
+        "作用": "游戏网格布局",
+        "props": ["games", "title", "variant"]
+      },
+      "GameIframe.astro": {
+        "作用": "游戏iframe容器",
+        "props": ["game", "autoLoad"]
+      },
+      "GameRating.astro": {
+        "作用": "游戏评分显示",
+        "props": ["rating", "maxRating", "votes"]
+      },
+      "SoundSample.astro": {
+        "作用": "音频样本展示",
+        "props": ["sample"]
+      },
+      "Breadcrumb.astro": {
+        "作用": "面包屑导航",
+        "props": ["items"]
+      },
+      "ContentRenderer.astro": {
+        "作用": "动态内容渲染器",
+        "props": ["content"]
+      }
+    },
+    "scripts": {
+      "navigation.js": "移动端导航切换",
+      "gameLoader.js": "游戏iframe延迟加载",
+      "languageSelector.js": "语言切换功能",
+      "analytics.js": "Google Analytics配置"
+    }
+  },
+  "数据结构规范": {
+    "Game": {
+      "必需字段": ["id", "slug", "title", "description", "image", "iframe"],
+      "可选字段": ["subtitle", "keywords", "rating", "category", "content"],
+      "meta字段": ["title", "description", "canonical", "ogImage"]
+    },
+    "Navigation": {
+      "结构": [{"label": "string", "url": "string", "children": "array"}]
+    },
+    "Language": {
+      "结构": {"code": "string", "url": "string", "label": "string"}
+    },
+    "SoundSample": {
+      "结构": {"title": "string", "image": "string", "audio": "string"}
+    },
+    "Content": {
+      "类型": ["paragraph", "heading", "list", "image", "video"],
+      "结构": {"type": "string", "content": "string", "level": "number", "items": "array"}
+    }
+  },
+  "文件组织": {
+    "src/": {
+      "components/": "可复用组件",
+      "layouts/": "页面布局",
+      "data/": "静态数据文件",
+      "utils/": "工具函数",
+      "types/": "TypeScript类型定义",
+      "styles/": "样式文件"
+    },
+    "命名约定": {
+      "组件": "PascalCase.astro",
+      "布局": "PascalCase.astro", 
+      "数据": "kebab-case.json",
+      "样式": "kebab-case.css",
+      "工具": "camelCase.ts"
+    }
+  },
+  "重用原则": {
+    "组件复用": "单一职责，最大化复用",
+    "数据驱动": "通过props和数据文件配置",
+    "样式一致": "使用设计系统变量",
+    "SEO友好": "保持原有URL和meta结构"
+  }
+}

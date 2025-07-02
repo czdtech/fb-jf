@@ -1,0 +1,23 @@
+---
+export interface Props {
+  breadcrumb: string;
+}
+
+const { breadcrumb } = Astro.props;
+
+// 解析面包屑字符串 "home > Game Name"
+const parts = breadcrumb.split(' > ').map(part => part.trim());
+---
+
+<p>
+  {parts.map((part, index) => (
+    <>
+      {index === 0 ? (
+        <a href="/" style="float:left;">{part}</a>
+      ) : (
+        <span>{part}</span>
+      )}
+      {index < parts.length - 1 && <span> > </span>}
+    </>
+  ))}
+</p>

@@ -1,0 +1,33 @@
+---
+import type { ContentSection } from '@/types';
+
+export interface Props {
+  content: ContentSection[];
+}
+
+const { content } = Astro.props;
+---
+
+{content.map((section) => {
+  if (section.type === 'paragraph') {
+    return <p set:html={section.content} />;
+  }
+  
+  if (section.type === 'heading') {
+    const Tag = `h${section.level || 3}` as any;
+    return <Tag set:html={section.content} />;
+  }
+  
+  if (section.type === 'list') {
+    const ListTag = section.listType === 'ordered' ? 'ol' : 'ul';
+    return (
+      <ListTag>
+        {section.items?.map((item) => (
+          <li set:html={item} />
+        ))}
+      </ListTag>
+    );
+  }
+  
+  return null;
+})}

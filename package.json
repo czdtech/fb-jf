@@ -1,14 +1,22 @@
 {
-  "name": "1-23",
+  "name": "fiddlebops-refactored",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "extract-games": "node scripts/extract-games.js",
+    "generate-pages": "node scripts/generate-pages.js",
+    "rebuild-all": "npm run extract-games && npm run generate-pages",
+    "backup-pages": "cp -r src/pages src/pages-backup-$(date +%Y%m%d%H%M%S)"
   },
   "dependencies": {
     "astro": "^5.1.8"
+  },
+  "devDependencies": {
+    "@stagewise/toolbar": "^0.4.9",
+    "@types/node": "^20.0.0"
   }
 }

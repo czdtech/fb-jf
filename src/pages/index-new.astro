@@ -1,0 +1,730 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import GameCard from '@/components/GameCard.astro';
+import GameIframe from '@/components/GameIframe.astro';
+import SoundSample from '@/components/SoundSample.astro';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+
+const { navigation, homepage, games, seoTemplates } = extractedData;
+
+
+// 多语言配置
+const hreflangLinks = navigation.languages.map(lang => ({
+  code: lang.code === 'en' ? 'x-default' : lang.code,
+  url: `https://www.playfiddlebops.com${lang.url}`
+}));
+
+// 结构化数据
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "Game",
+  "name": homepage.meta.title,
+  "alternateName": "playfiddlebops.com",
+  "url": homepage.meta.canonical,
+  "description": homepage.meta.description
+};
+---
+
+<BaseLayout 
+  meta={homepage.meta}
+  lang="en" 
+  hreflang={hreflangLinks}
+  structuredData={structuredData}
+>
+  <Header 
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath="/"
+  />
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero scroll-animate">
+      <div class="container">
+        <div class="hero-content">
+          <h1 class="hero-title">🎵 {homepage.hero.title}</h1>
+          <p class="hero-description">{homepage.hero.description}</p>
+          <div class="hero-actions">
+            <button class="btn btn-primary btn-xl">
+              <i class="fas fa-play"></i>
+              Start Creating
+            </button>
+            <button class="btn btn-glass btn-xl">
+              <i class="fas fa-gamepad"></i>
+              View All Games
+            </button>
+          </div>
+        </div>
+
+        <!-- Three Column Layout: New Games | Main Game | Popular Games -->
+        <div class="hero-game-section">
+          <!-- Left Column - New Games -->
+          <div class="sidebar-games left-sidebar">
+            <div class="sidebar-section">
+              <h3 class="sidebar-title">✨ New Games</h3>
+              <div class="sidebar-game-list">
+                {games.new.slice(0, 4).map((game) => (
+                  <GameCard game={game} variant="sidebar" />
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <!-- Center Column - Main Game -->
+          <div class="main-game-container">
+            <GameIframe 
+              id="Fiddlebops-iframe"
+              src={homepage.hero.mainGame.iframe}
+              backgroundImage={homepage.hero.mainGame.backgroundImage}
+            />
+          </div>
+
+          <!-- Right Column - Popular Games -->
+          <div class="sidebar-games right-sidebar">
+            <div class="sidebar-section">
+              <h3 class="sidebar-title">🔥 Popular Games</h3>
+              <div class="sidebar-game-list">
+                {games.popular.slice(0, 4).map((game) => (
+                  <GameCard game={game} variant="sidebar" />
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trending Games -->
+    <section class="trending-section scroll-animate">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">🔥 Trending Games</h2>
+          <a href="/games/" class="btn btn-secondary">
+            View All
+            <i class="fas fa-arrow-right"></i>
+          </a>
+        </div>
+        
+        <div class="game-grid-container">
+          {games.trending.slice(0, 6).map((game) => (
+            <div class="scroll-animate music-element">
+              <GameCard game={game} variant="grid" />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+      <div class="container">
+        <h2>About Fiddlebops Incredibox</h2>
+        <div class="about-content">
+          <h3>I. Fiddlebops Basic Information & Gameplay</h3>
+          <p><strong>Game Name:</strong> Fiddlebops</p>
+          <p><strong>Genre/Tags:</strong> Music Creation, Rhythm, Experimental, Educational, Family Friendly, Casual, Singleplayer, Creative</p>
+          <p><strong>Platforms:</strong> Web (Browser)</p>
+          <p><strong>Release Date:</strong> Approx. November 7, 2024</p>
+          <p><strong>Price/Access:</strong> Free</p>
+          <hr>
+          <h4>1. Creation Mechanics</h4>
+          <ul>
+            <li><strong>Core Mechanic:</strong> Select cute Fiddlebops characters, each representing a unique instrument sound or musical element. Combine sounds by dragging and dropping characters onto performance spots or a timeline.</li>
+            <li><strong>Sound Combination:</strong> Combine multiple Fiddlebops for multi-layered music. Different combinations yield varied musical textures.</li>
+            <li><strong>Rhythm & Timing:</strong> Likely uses a grid-based placement or simple timeline for controlling sound timing and rhythm.</li>
+            <li><strong>Looping & Repetition:</strong> May include mechanisms for looping sounds to create repeating musical phrases.</li>
+            <li><strong>Exploration & Experimentation:</strong> Encourages free exploration of sound combinations, emphasizing creative fun.</li>
+          </ul>
+          <hr>
+          <h3>II. Fiddlebops Modding & Community Content</h3>
+          <h4>1. Overview of Popular Game Mods</h4>
+          <ul>
+            <li><a href="/fiddlebops-but-sprunki/">Fiddlebops but Sprunki</a></li>
+            <li><a href="/fiddlebops-fix/">Fiddlebops Fix</a></li>
+            <li><a href="/fiddlebops-polos/">Fiddlebops Polos</a></li>
+            <li><a href="/fiddlebops-but-dandys-world/">Fiddlebops But Dandy's World</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sound Samples Section -->
+    <section class="sound-samples-section scroll-animate">
+      <div class="container">
+        <div class="section-header center-only">
+          <div>
+            <h2 class="section-title">🎵 Sound Samples</h2>
+            <p class="section-description">
+              Explore the diverse sounds of Fiddlebops, each sample crafted to provide rich material for your music creation
+            </p>
+          </div>
+        </div>
+        
+        <div class="sound-samples-grid">
+          {homepage.soundSamples.map((sample, index) => (
+            <div class="scroll-animate music-element" style={`animation-delay: ${index * 100}ms;`}>
+              <SoundSample sample={sample} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Video Section -->
+    <section class="video-section scroll-animate">
+      <div class="container">
+        <div class="section-header center-only">
+          <div>
+            <h2 class="section-title">📺 Featured Videos</h2>
+            <p class="section-description">
+              Watch exciting Fiddlebops gameplay videos and learn tips for creating amazing music tracks
+            </p>
+          </div>
+        </div>
+        
+        <div class="video-grid">
+          <div class="video-card glass">
+            <div class="video-wrapper">
+              <iframe 
+                id="video1"
+                src="https://www.youtube.com/embed/4Oj-dVLSA70" 
+                title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)" 
+                style="border: none; width: 100%; height: 100%;"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen>
+              </iframe>
+            </div>
+            <div class="video-info">
+              <h3>🎵 Fiddlebops Complete Demo</h3>
+              <p>4K HD gameplay demonstration with subtitles</p>
+            </div>
+          </div>
+          
+          <div class="video-card glass">
+            <div class="video-wrapper">
+              <iframe 
+                id="video2"
+                src="https://www.youtube.com/embed/JlMa-fRBOwE" 
+                title="Every Incredibox Fiddlebops in 8 Minutes" 
+                style="border: none; width: 100%; height: 100%;"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" 
+                allowfullscreen>
+              </iframe>
+            </div>
+            <div class="video-info">
+              <h3>⚡ 8-Minute Highlights</h3>
+              <p>Quick overview of all Fiddlebops content highlights</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section scroll-animate">
+      <div class="container">
+        <div class="section-header center-only">
+          <div>
+            <h2 class="section-title">❓ Frequently Asked Questions</h2>
+            <p class="section-description">
+              Common questions about Fiddlebops Incredibox answered for you
+            </p>
+          </div>
+        </div>
+        
+        <div class="faq-grid">
+          <div class="faq-item glass scroll-animate">
+            <h3 class="faq-question">🎮 What is Fiddlebops Incredibox?</h3>
+            <p class="faq-answer">
+              Fiddlebops is a fan-made project inspired by Incredibox. Here, you can experience the joy of music mixing and create unique musical works through an intuitive interface.
+            </p>
+          </div>
+          
+          <div class="faq-item glass scroll-animate">
+            <h3 class="faq-question">💰 Is Fiddlebops Incredibox free?</h3>
+            <p class="faq-answer">
+              Yes, Fiddlebops Incredibox is completely free. Players can play online without any downloads required.
+            </p>
+          </div>
+          
+          <div class="faq-item glass scroll-animate">
+            <h3 class="faq-question">📱 Do I need to download or install anything?</h3>
+            <p class="faq-answer">
+              No downloads required. The game runs directly in your browser and supports both desktop and mobile devices.
+            </p>
+          </div>
+          
+          <div class="faq-item glass scroll-animate">
+            <h3 class="faq-question">🎵 Do I need a music background?</h3>
+            <p class="faq-answer">
+              Not at all! Fiddlebops Incredibox is designed for people without musical backgrounds. It's more like a musical toy and creative tool.
+            </p>
+          </div>
+          
+          <div class="faq-item glass scroll-animate">
+            <h3 class="faq-question">🚀 How do I start creating music?</h3>
+            <p class="faq-answer">
+              Players can drag characters onto the stage and combine their unique sounds to create musical compositions. Try different character combinations to unlock hidden melodies and bonus content.
+            </p>
+          </div>
+          
+          <div class="faq-item glass scroll-animate">
+            <h3 class="faq-question">🎤 Is it suitable for music lovers?</h3>
+            <p class="faq-answer">
+              Absolutely! Fiddlebops provides music enthusiasts with a creative and fun platform to explore musical expression.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Comments Section -->
+    <section class="comments-section scroll-animate">
+      <div class="container">
+        <div class="section-header center-only">
+          <div>
+            <h2 class="section-title">💬 Community Discussion</h2>
+            <p class="section-description">
+              Share your creative insights and connect with other music creators
+            </p>
+          </div>
+        </div>
+        
+        <div class="comments-container glass">
+          {import.meta.env.PROD ? (
+            <script src="https://giscus.app/client.js"
+              data-repo="nom74100/giscus-comment"
+              data-repo-id="R_kgDOOmg4aQ"
+              data-category="Announcements"
+              data-category-id="DIC_kwDOOmg4ac4Cp6AJ"
+              data-mapping="pathname"
+              data-strict="0"
+              data-reactions-enabled="1"
+              data-emit-metadata="0"
+              data-input-position="bottom"
+              data-theme="preferred_color_scheme"
+              data-lang="zh-CN"
+              data-loading="lazy"
+              crossorigin="anonymous"
+              async>
+            </script>
+          ) : (
+            <div class="dev-placeholder">
+              <div style="text-align: center; padding: 2rem; color: #666; background: rgba(255,255,255,0.1); border-radius: 12px; border: 1px dashed #ddd;">
+                <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">💬 评论区</h3>
+                <p style="margin: 0; font-size: 0.9rem;">开发环境下已禁用，生产环境将显示 Giscus 评论系统</p>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+/* ==========================================================================
+   首页特定样式 - 基于新设计系统
+   ========================================================================== */
+
+/* Hero Section 样式 */
+.hero {
+  background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-gray-50) 100%);
+  padding: var(--space-24) 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="50" cy="50" r="1" fill="%23a855f7" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.hero-content {
+  text-align: center;
+  margin-bottom: var(--space-16);
+}
+
+.hero-actions {
+  display: flex;
+  gap: var(--space-4);
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: var(--space-8);
+}
+
+.hero-game-section {
+  display: grid;
+  grid-template-columns: 250px 1fr 250px;
+  gap: var(--space-4);
+  align-items: start;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.main-game-container {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  margin: 0;
+  background-color: #fff;
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+}
+
+.sidebar-games {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  height: fit-content;
+}
+
+.left-sidebar,
+.right-sidebar {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-section {
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-backdrop);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--border-radius-xl);
+  padding: var(--space-4);
+  box-shadow: var(--shadow-lg);
+  transition: all var(--duration-200) var(--ease-in-out);
+  flex: 1;
+}
+
+.sidebar-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-4) 0;
+  color: var(--color-gray-900);
+}
+
+.sidebar-game-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+/* 趋势游戏区域 */
+.trending-section {
+  padding: var(--space-20) 0;
+  background: var(--color-gray-50);
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-12);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-header .btn {
+  flex-shrink: 0;
+}
+
+.game-grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-6);
+}
+
+/* 音频样本区域 */
+.sound-samples-section {
+  padding: var(--space-20) 0;
+  background: linear-gradient(135deg, var(--color-gray-900) 0%, var(--color-primary-900) 100%);
+  color: white;
+}
+
+.sound-samples-section .section-title {
+  color: white;
+  background: var(--gradient-cool);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.sound-samples-section .section-description {
+  color: var(--color-gray-300);
+}
+
+.sound-samples-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-6);
+}
+
+/* 视频区域 */
+.video-section {
+  padding: var(--space-20) 0;
+  background: var(--color-gray-50);
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: var(--space-8);
+}
+
+.video-card {
+  border-radius: var(--border-radius-xl);
+  overflow: hidden;
+  padding: var(--space-6);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.video-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+}
+
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  margin-bottom: var(--space-4);
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-info h3 {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-2) 0;
+  color: var(--color-gray-900);
+}
+
+.video-info p {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+  margin: 0;
+}
+
+/* FAQ 区域 */
+.faq-section {
+  padding: var(--space-20) 0;
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: var(--space-6);
+}
+
+.faq-item {
+  padding: var(--space-6);
+  border-radius: var(--border-radius-xl);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.faq-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.faq-question {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-3) 0;
+  color: var(--color-primary-700);
+}
+
+.faq-answer {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0;
+}
+
+/* 评论区域 */
+.comments-section {
+  padding: var(--space-20) 0;
+  background: var(--color-gray-50);
+}
+
+.comments-container {
+  padding: var(--space-8);
+  border-radius: var(--border-radius-xl);
+  min-height: 400px;
+}
+
+/* 响应式设计 */
+@media (max-width: 1200px) {
+  .hero-game-section {
+    grid-template-columns: 220px 1fr 220px;
+    gap: var(--space-3);
+  }
+}
+
+@media (max-width: 1024px) {
+  .hero-game-section {
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+  }
+  
+  .main-game-container {
+    order: 0;
+    width: 100%;
+  }
+  
+  .left-sidebar {
+    order: 1;
+  }
+  
+  .right-sidebar {
+    order: 2;
+  }
+  
+  .sidebar-games {
+    flex-direction: row;
+    overflow-x: auto;
+    padding-bottom: var(--space-4);
+    height: auto;
+  }
+  
+  .sidebar-section {
+    min-width: 280px;
+    flex-shrink: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-game-container {
+    height: 330px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: var(--space-16) 0;
+  }
+  
+  .hero-title {
+    font-size: var(--font-size-3xl) !important;
+  }
+  
+  .hero-description {
+    font-size: var(--font-size-lg) !important;
+  }
+  
+  .hero-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-actions .btn {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-4);
+    text-align: center;
+  }
+  
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+  
+  .game-grid-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .sound-samples-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+  
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .faq-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .sidebar-games {
+    flex-direction: column;
+  }
+  
+  .sidebar-section {
+    min-width: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-actions .btn {
+    padding: var(--space-4) var(--space-6);
+    font-size: var(--font-size-base);
+  }
+  
+  .sound-samples-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 动画增强 */
+.music-element:hover {
+  animation: none !important;
+}
+
+.scroll-animate {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all var(--duration-700) var(--ease-out);
+}
+
+.scroll-animate.animate {
+  opacity: 1;
+  transform: translateY(0);
+}
+</style>

@@ -1,0 +1,60 @@
+---
+import GamePageLayout from '@/layouts/GamePageLayout.astro';
+
+const meta = {
+  title: "Sprunki Retake 🔥 Play Sprunki Retake Online",
+  description: "If you love rhythm games and have a penchant for horror elements, Sprunki Retake will definitely get you hooked!",
+  keywords: "Sprunki Retake, Sprunki Retake online, 音乐游戏, 恐怖元素",
+  canonical: "https://www.playfiddlebops.com/sprunki-retake/",
+  ogImage: "https://www.playfiddlebops.com/Sprunki Retake.png"
+};
+
+const gameData = {
+  title: "Sprunki Retake",
+  description: "如果你喜欢节奏游戏并且对恐怖元素情有独钟，Sprunki Retake 绝对会让你欲罢不能！",
+  iframe: "https://www.minijuegos.com/embed/sprunki-retake",
+  backgroundImage: "/Sprunki Retake.png",
+  rating: {
+    score: 4.3,
+    votes: 524
+  },
+  features: [
+    "恐怖音效创作 - 使用那些令人毛骨悚然的音效来创造你独特的恐怖音乐",
+    "个性化角色 - 解锁各种酷炫角色，每个都有自己专属的恐怖声音",
+    "混音大师 - 移动和混合角色来创造独特的节奏，挑战你的音乐创造力",
+    "彩蛋惊喜 - 发现隐藏的声音组合来解锁有趣的动画和额外内容",
+    "沉浸式体验 - 沉浸在充满黑暗和神秘的诡异氛围中",
+    "图形升级 - 图形绚丽多彩，动画流畅，将 Sprunki 的世界栩栩如生地呈现"
+  ],
+  howToPlay: [
+    "探索广阔的关卡，挖掘隐藏路径和秘密区域，寻找各种宝藏和收藏品",
+    "每个关卡都有独特的挑战，需要你快速思考和战略规划，解决谜题、战斗怪物、完成任务",
+    "自定义角色的外观和能力，创造完全符合你游戏风格的专属英雄",
+    "使用恐怖音效创作独特的音乐作品，体验混音的乐趣"
+  ]
+};
+
+const aboutContent = `
+<h3>关于 Sprunki Retake</h3>
+<p>简单来说，Sprunki Retake 是 Sprunki 系列中的强力续作！想象一下在一个诡异的世界中，你不仅要跟着节拍摇摆，还要准备迎接突如其来的惊吓。光是想想就很刺激对吧？</p>
+
+<hr>
+
+<h4>游戏亮点</h4>
+<ul>
+  <li><strong>恐怖音效：</strong> 使用那些令人毛骨悚然的音效来创造你独特的恐怖音乐，简直太酷了！</li>
+  <li><strong>个性化角色：</strong> 解锁各种酷炫角色，每个都有自己专属的恐怖声音，完美融入你的音乐创作中！</li>
+  <li><strong>混音大师：</strong> 移动和混合角色来创造独特的节奏，挑战你的音乐创造力！</li>
+  <li><strong>彩蛋惊喜：</strong> 发现隐藏的声音组合来解锁有趣的动画和额外内容，保证让你惊喜连连！</li>
+  <li><strong>自由发挥：</strong> 尽情实验各种声音，创作属于你自己的原创恐怖作品！</li>
+  <li><strong>沉浸式体验：</strong> 沉浸在充满黑暗和神秘的诡异氛围中，保证你的肾上腺素飙升！</li>
+</ul>
+
+<hr>
+
+<h4>总结</h4>
+<p>Sprunki Retake 成功继承了前作的精髓，同时带来了更多新鲜刺激的元素。无论你是 Sprunki 的老粉丝还是新玩家，都能在 Sprunki Retake 的世界中找到属于自己的乐趣！准备好尖叫了吗？让我们开始吧！</p>
+`;
+---
+
+<GamePageLayout meta={meta} gameData={gameData} aboutContent={aboutContent} />

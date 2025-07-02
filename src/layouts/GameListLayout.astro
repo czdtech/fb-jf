@@ -1,0 +1,798 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import GameCard from '@/components/GameCard.astro';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+
+const { navigation } = extractedData;
+
+export interface Props {
+  meta: {
+    title: string;
+    description: string;
+    keywords?: string;
+    canonical: string;
+    ogImage: string;
+  };
+  pageData: {
+    title: string;
+    description: string;
+    games: Array<{
+      title: string;
+      url: string;
+      image: string;
+      description?: string;
+    }>;
+    currentPage?: number;
+    totalPages?: number;
+    prevUrl?: string;
+    nextUrl?: string;
+  };
+}
+
+const { meta, pageData } = Astro.props;
+
+// 多语言配置
+const hreflangLinks = navigation.languages.map(lang => ({
+  code: lang.code === 'en' ? 'x-default' : lang.code,
+  url: meta.canonical.replace('https://www.playfiddlebops.com', '') + (lang.code !== 'en' ? lang.url.replace('/', '') + '/' : '')
+}));
+
+// 结构化数据
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": pageData.title,
+  "alternateName": "playfiddlebops.com",
+  "url": meta.canonical,
+  "description": meta.description
+};
+---
+
+<BaseLayout 
+  meta={meta} 
+  hreflang={hreflangLinks}
+  structuredData={structuredData}
+>
+  <Header 
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath={meta.canonical.replace('https://www.playfiddlebops.com', '')}
+  />
+
+  <main>
+    <!-- Hero Section -->
+    <section class="games-hero scroll-animate">
+      <div class="container">
+        <div class="games-hero-content">
+          <div class="breadcrumb">
+            <a href="/" class="breadcrumb-link">首页</a>
+            <span class="breadcrumb-separator">></span>
+            <span class="breadcrumb-current">{pageData.title}</span>
+          </div>
+          
+          <h1 class="games-title">{pageData.title}</h1>
+          <p class="games-description">{pageData.description}</p>
+          
+          <div class="games-stats">
+            <div class="stat-item">
+              <span class="stat-number">{pageData.games.length}</span>
+              <span class="stat-label">款游戏</span>
+            </div>
+            <div class="stat-divider">•</div>
+            <div class="stat-item">
+              <span class="stat-number">免费</span>
+              <span class="stat-label">畅玩</span>
+            </div>
+            <div class="stat-divider">•</div>
+            <div class="stat-item">
+              <span class="stat-number">无需</span>
+              <span class="stat-label">下载</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Games Grid Section -->
+    <section class="games-grid-section scroll-animate">
+      <div class="container">
+        <div class="games-filter-bar">
+          <div class="filter-left">
+            <h2 class="filter-title">所有游戏</h2>
+            <span class="filter-count">共 {pageData.games.length} 款游戏</span>
+          </div>
+          
+          <div class="filter-right">
+            <button class="filter-btn active" data-filter="all">
+              <i class="fas fa-th"></i>
+              全部
+            </button>
+            <button class="filter-btn" data-filter="popular">
+              <i class="fas fa-fire"></i>
+              热门
+            </button>
+            <button class="filter-btn" data-filter="new">
+              <i class="fas fa-star"></i>
+              最新
+            </button>
+          </div>
+        </div>
+        
+        <div class="games-grid">
+          {pageData.games.map((game, index) => (
+            <div class="scroll-animate music-element" style={`animation-delay: ${(index % 12) * 50}ms;`}>
+              <GameCard 
+                game={{
+                  id: game.title.toLowerCase().replace(/\s+/g, '-'),
+                  slug: game.url.replace('https://www.playfiddlebops.com', '').replace(/\//g, ''),
+                  title: game.title,
+                  description: game.description || `玩 ${game.title} - 免费在线音乐创作游戏`,
+                  image: game.image,
+                  iframe: game.url,
+                  category: 'music',
+                  meta: {
+                    title: game.title,
+                    description: game.description || `玩 ${game.title} - 免费在线音乐创作游戏`,
+                    canonical: game.url,
+                    ogImage: game.image
+                  }
+                }} 
+                variant="grid" 
+              />
+            </div>
+          ))}
+        </div>
+        
+        <!-- 如果游戏数量为0 -->
+        {pageData.games.length === 0 && (
+          <div class="empty-state">
+            <div class="empty-icon">🎮</div>
+            <h3 class="empty-title">暂无游戏</h3>
+            <p class="empty-description">很抱歉，当前分类下暂时没有游戏。请稍后再来查看！</p>
+            <a href="/" class="btn btn-primary">
+              <i class="fas fa-home"></i>
+              返回首页
+            </a>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- Pagination Section -->
+    {pageData.totalPages && pageData.totalPages > 1 && (
+      <section class="pagination-section">
+        <div class="container">
+          <div class="pagination">
+            {pageData.prevUrl && (
+              <a href={pageData.prevUrl} class="pagination-btn pagination-prev">
+                <i class="fas fa-chevron-left"></i>
+                上一页
+              </a>
+            )}
+            
+            <div class="pagination-info">
+              <span class="pagination-current">{pageData.currentPage}</span>
+              <span class="pagination-separator">/</span>
+              <span class="pagination-total">{pageData.totalPages}</span>
+            </div>
+            
+            {pageData.nextUrl && (
+              <a href={pageData.nextUrl} class="pagination-btn pagination-next">
+                下一页
+                <i class="fas fa-chevron-right"></i>
+              </a>
+            )}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- Featured Categories Section -->
+    <section class="featured-categories-section scroll-animate">
+      <div class="container">
+        <div class="section-header center-only">
+          <div>
+            <h2 class="section-title">🎯 游戏分类</h2>
+            <p class="section-description">
+              探索不同类型的音乐创作游戏，找到最适合你的创作风格
+            </p>
+          </div>
+        </div>
+        
+        <div class="categories-grid">
+          <div class="category-card glass scroll-animate">
+            <div class="category-icon">🔥</div>
+            <h3 class="category-title">热门游戏</h3>
+            <p class="category-description">最受欢迎的音乐创作游戏</p>
+            <a href="/popular-games/" class="category-link">
+              <span>探索热门</span>
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+          
+          <div class="category-card glass scroll-animate" style="animation-delay: 100ms;">
+            <div class="category-icon">✨</div>
+            <h3 class="category-title">最新游戏</h3>
+            <p class="category-description">最新发布的创意音乐游戏</p>
+            <a href="/new-games/" class="category-link">
+              <span>发现新作</span>
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+          
+          <div class="category-card glass scroll-animate" style="animation-delay: 200ms;">
+            <div class="category-icon">🚀</div>
+            <h3 class="category-title">趋势游戏</h3>
+            <p class="category-description">正在崛起的流行游戏</p>
+            <a href="/trending-games/" class="category-link">
+              <span>查看趋势</span>
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tips Section -->
+    <section class="tips-section scroll-animate">
+      <div class="container">
+        <div class="section-header center-only">
+          <div>
+            <h2 class="section-title">💡 游戏小贴士</h2>
+            <p class="section-description">
+              让你的音乐创作之旅更加精彩的实用建议
+            </p>
+          </div>
+        </div>
+        
+        <div class="tips-grid">
+          <div class="tip-card glass scroll-animate">
+            <div class="tip-number">01</div>
+            <h3 class="tip-title">尝试不同组合</h3>
+            <p class="tip-text">不要害怕实验，尝试将不同的音乐元素组合在一起，你可能会创造出意想不到的美妙旋律。</p>
+          </div>
+          
+          <div class="tip-card glass scroll-animate" style="animation-delay: 100ms;">
+            <div class="tip-number">02</div>
+            <h3 class="tip-title">从简单开始</h3>
+            <p class="tip-text">如果你是新手，建议从简单的节拍开始，逐渐添加更多的乐器和声音效果。</p>
+          </div>
+          
+          <div class="tip-card glass scroll-animate" style="animation-delay: 200ms;">
+            <div class="tip-number">03</div>
+            <h3 class="tip-title">保存你的作品</h3>
+            <p class="tip-text">记得保存或录制你喜欢的音乐作品，这样你可以随时分享给朋友或继续完善。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+/* ==========================================================================
+   游戏列表页面特定样式 - 基于新设计系统
+   ========================================================================== */
+
+/* Games Hero Section */
+.games-hero {
+  background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-gray-50) 100%);
+  padding: var(--space-20) 0 var(--space-16) 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.games-hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="50" cy="50" r="1" fill="%23a855f7" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.games-hero-content {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  margin-bottom: var(--space-6);
+  font-size: var(--font-size-sm);
+}
+
+.breadcrumb-link {
+  color: var(--color-primary-600);
+  text-decoration: none;
+  font-weight: var(--font-weight-medium);
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.breadcrumb-link:hover {
+  color: var(--color-primary-700);
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  color: var(--color-gray-400);
+}
+
+.breadcrumb-current {
+  color: var(--color-gray-600);
+}
+
+.games-title {
+  font-size: var(--font-size-5xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-6) 0;
+  line-height: var(--line-height-tight);
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.games-description {
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+  margin: 0 0 var(--space-8) 0;
+  line-height: var(--line-height-relaxed);
+}
+
+.games-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-1);
+}
+
+.stat-number {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary-600);
+}
+
+.stat-label {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+  font-weight: var(--font-weight-medium);
+}
+
+.stat-divider {
+  color: var(--color-gray-400);
+  font-size: var(--font-size-xl);
+}
+
+/* Games Grid Section */
+.games-grid-section {
+  padding: var(--space-20) 0;
+}
+
+.games-filter-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-12);
+  padding: var(--space-6);
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-backdrop);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--border-radius-xl);
+  box-shadow: var(--glass-shadow);
+}
+
+.filter-left {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+}
+
+.filter-title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-900);
+  margin: 0;
+}
+
+.filter-count {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+}
+
+.filter-right {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.filter-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-gray-600);
+  background: transparent;
+  border: 1px solid var(--color-gray-300);
+  border-radius: var(--border-radius-lg);
+  cursor: pointer;
+  transition: all var(--duration-200) var(--ease-in-out);
+}
+
+.filter-btn:hover {
+  color: var(--color-primary-600);
+  border-color: var(--color-primary-300);
+  background: var(--color-primary-50);
+}
+
+.filter-btn.active {
+  color: var(--color-primary-600);
+  border-color: var(--color-primary-500);
+  background: var(--color-primary-100);
+}
+
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-6);
+}
+
+/* Empty State */
+.empty-state {
+  text-align: center;
+  padding: var(--space-20) var(--space-8);
+}
+
+.empty-icon {
+  font-size: var(--font-size-6xl);
+  margin-bottom: var(--space-6);
+}
+
+.empty-title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-4) 0;
+}
+
+.empty-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0 0 var(--space-8) 0;
+  line-height: var(--line-height-relaxed);
+}
+
+/* Pagination Section */
+.pagination-section {
+  padding: var(--space-16) 0;
+  background: var(--color-gray-50);
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-6);
+}
+
+.pagination-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-6);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-primary-600);
+  background: white;
+  border: 1px solid var(--color-primary-300);
+  border-radius: var(--border-radius-lg);
+  text-decoration: none;
+  transition: all var(--duration-200) var(--ease-in-out);
+}
+
+.pagination-btn:hover {
+  color: white;
+  background: var(--color-primary-600);
+  border-color: var(--color-primary-600);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.pagination-info {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  padding: var(--space-3) var(--space-4);
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--border-radius-lg);
+  backdrop-filter: var(--glass-backdrop);
+}
+
+.pagination-current {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary-600);
+}
+
+.pagination-separator {
+  color: var(--color-gray-400);
+}
+
+.pagination-total {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+}
+
+/* Featured Categories Section */
+.featured-categories-section {
+  padding: var(--space-20) 0;
+  background: var(--color-gray-50);
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-12);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-6);
+}
+
+.category-card {
+  padding: var(--space-8);
+  border-radius: var(--border-radius-xl);
+  text-align: center;
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.category-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+}
+
+.category-icon {
+  font-size: var(--font-size-4xl);
+  margin-bottom: var(--space-4);
+}
+
+.category-title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-3) 0;
+}
+
+.category-description {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  margin: 0 0 var(--space-6) 0;
+  line-height: var(--line-height-relaxed);
+}
+
+.category-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-primary-600);
+  text-decoration: none;
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.category-link:hover {
+  color: var(--color-primary-700);
+}
+
+/* Tips Section */
+.tips-section {
+  padding: var(--space-20) 0;
+}
+
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-6);
+}
+
+.tip-card {
+  padding: var(--space-8);
+  border-radius: var(--border-radius-xl);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.tip-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.tip-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--space-12);
+  height: var(--space-12);
+  background: var(--gradient-primary);
+  color: white;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  border-radius: var(--border-radius-full);
+  margin-bottom: var(--space-4);
+}
+
+.tip-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-3) 0;
+}
+
+.tip-text {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 1024px) {
+  .games-filter-bar {
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+  
+  .filter-left {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .filter-right {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .games-hero {
+    padding: var(--space-16) 0 var(--space-12) 0;
+  }
+  
+  .games-title {
+    font-size: var(--font-size-3xl) !important;
+  }
+  
+  .games-description {
+    font-size: var(--font-size-lg) !important;
+  }
+  
+  .games-stats {
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  
+  .stat-divider {
+    display: none;
+  }
+  
+  .breadcrumb {
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+  
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+  
+  .games-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .tips-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .pagination {
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+  
+  .filter-right {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 480px) {
+  .games-filter-bar {
+    padding: var(--space-4);
+  }
+  
+  .filter-btn {
+    font-size: var(--font-size-xs);
+    padding: var(--space-2) var(--space-3);
+  }
+  
+  .category-card {
+    padding: var(--space-6);
+  }
+  
+  .tip-card {
+    padding: var(--space-6);
+  }
+}
+
+/* 动画增强 */
+.music-element:hover {
+  animation: none !important;
+}
+
+.scroll-animate {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all var(--duration-700) var(--ease-out);
+}
+
+.scroll-animate.animate {
+  opacity: 1;
+  transform: translateY(0);
+}
+</style>

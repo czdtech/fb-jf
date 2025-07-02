@@ -1,0 +1,33 @@
+---
+import GameListLayout from '@/layouts/GameListLayout.astro';
+import extractedData from '@/data/extracted-data.json';
+
+const { games } = extractedData;
+
+const meta = {
+  title: "所有游戏 - FiddleBops 游戏世界",
+  description: "探索 FiddleBops 的完整游戏库，包含热门、最新和趋势音乐创作游戏。免费在线畅玩，无需下载！",
+  keywords: "FiddleBops, 音乐游戏, 创作游戏, 免费游戏, 在线游戏",
+  canonical: "https://www.playfiddlebops.com/games/",
+  ogImage: "https://www.playfiddlebops.com/tw.jpg"
+};
+
+// 合并所有游戏数据
+const allGames = [
+  ...games.popular,
+  ...games.new,
+  ...games.trending
+].filter((game, index, self) => 
+  index === self.findIndex(g => g.title === game.title)
+); // 去重
+
+const pageData = {
+  title: "所有游戏",
+  description: "探索我们完整的音乐创作游戏库，从热门经典到最新趋势，找到最适合你的创作工具",
+  games: allGames,
+  currentPage: 1,
+  totalPages: 1
+};
+---
+
+<GameListLayout meta={meta} pageData={pageData} />

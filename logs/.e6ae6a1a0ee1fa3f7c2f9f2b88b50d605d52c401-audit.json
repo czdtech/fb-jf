@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jiang/Desktop/Aicoding/test/fiddlebops/logs/.e6ae6a1a0ee1fa3f7c2f9f2b88b50d605d52c401-audit.json",
+    "files": [
+        {
+            "date": 1751442947406,
+            "name": "/Users/jiang/Desktop/Aicoding/test/fiddlebops/logs/mcp-puppeteer-2025-07-02.log",
+            "hash": "7def111228fe6e0412ac3f2f71ccd134f91e3b5b914fa8635d2896d7d326b226"
+        }
+    ],
+    "hashType": "sha256"
+}

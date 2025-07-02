@@ -1,0 +1,921 @@
+/**
+ * FiddleBops 组件样式系统
+ * 基于设计令牌的组件实现
+ */
+
+/* ==========================================================================
+   语言选择器组件
+   ========================================================================== */
+
+.language-selector {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-3);
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-backdrop);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--border-radius-lg);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+  cursor: pointer;
+  transition: all var(--duration-200) var(--ease-in-out);
+}
+
+.language-selector:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.4);
+  transform: translateY(-1px);
+}
+
+.language-icon {
+  font-size: var(--font-size-base);
+  opacity: 0.8;
+}
+
+.language-text {
+  flex: 1;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.language-select {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  color: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  opacity: 0;
+  z-index: 10;
+}
+
+.language-select:focus {
+  outline: none;
+}
+
+.language-arrow {
+  font-size: 10px;
+  opacity: 0.6;
+  transition: transform var(--duration-200) var(--ease-in-out);
+}
+
+.language-selector:hover .language-arrow {
+  transform: translateY(1px);
+}
+
+/* ==========================================================================
+   基础重置和全局样式
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-normal);
+  color: var(--color-gray-900);
+  background-color: var(--color-gray-50);
+  margin: 0;
+  padding: 0;
+}
+
+/* ==========================================================================
+   容器系统
+   ========================================================================== */
+
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--space-4);
+  padding-right: var(--space-4);
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: var(--container-sm);
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: var(--container-md);
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: var(--container-lg);
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: var(--container-xl);
+  }
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: var(--container-2xl);
+  }
+}
+
+/* ==========================================================================
+   按钮组件系统
+   ========================================================================== */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-6);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-tight);
+  text-decoration: none;
+  border: var(--border-width-1) solid transparent;
+  border-radius: var(--border-radius-lg);
+  cursor: pointer;
+  transition: all var(--duration-200) var(--ease-in-out);
+  user-select: none;
+  white-space: nowrap;
+}
+
+.btn:focus {
+  outline: 2px solid var(--color-primary-500);
+  outline-offset: 2px;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* 按钮变体 */
+.btn-primary {
+  background: var(--gradient-primary);
+  color: white;
+  box-shadow: var(--shadow-md);
+}
+
+.btn-primary:hover:not(:disabled) {
+  box-shadow: var(--shadow-lg), var(--shadow-glow);
+  transform: translateY(-1px);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--color-primary-600);
+  border-color: var(--color-primary-600);
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background: var(--color-primary-50);
+  transform: translateY(-1px);
+}
+
+.btn-glass {
+  background: var(--glass-bg);
+  color: var(--color-gray-900);
+  border: var(--border-width-1) solid var(--glass-border);
+  backdrop-filter: var(--glass-backdrop);
+  -webkit-backdrop-filter: var(--glass-backdrop);
+  box-shadow: var(--glass-shadow);
+}
+
+.btn-glass:hover:not(:disabled) {
+  background: var(--glass-bg-strong);
+  transform: translateY(-1px);
+}
+
+/* 按钮尺寸 */
+.btn-sm {
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--font-size-sm);
+}
+
+.btn-lg {
+  padding: var(--space-4) var(--space-8);
+  font-size: var(--font-size-lg);
+}
+
+.btn-xl {
+  padding: var(--space-5) var(--space-10);
+  font-size: var(--font-size-xl);
+}
+
+/* ==========================================================================
+   游戏卡片组件
+   ========================================================================== */
+
+.game-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: var(--border-radius-xl);
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.game-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl), var(--shadow-glow);
+}
+
+.game-card-image {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.game-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--duration-500) var(--ease-in-out);
+}
+
+.game-card:hover .game-card-image img {
+  transform: scale(1.05);
+}
+
+.game-card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--gradient-primary);
+  opacity: 0;
+  transition: opacity var(--duration-300) var(--ease-in-out);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.game-card:hover .game-card-overlay {
+  opacity: 0.8;
+}
+
+.game-card-play-button {
+  width: var(--space-16);
+  height: var(--space-16);
+  background: white;
+  border-radius: var(--border-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(0.8);
+  transition: transform var(--duration-300) var(--ease-beat);
+  border: none;
+  cursor: pointer;
+  box-shadow: var(--shadow-md);
+}
+
+.game-card:hover .game-card-play-button {
+  transform: scale(1);
+}
+
+/* 移动端触摸优化 */
+@media (max-width: 768px) {
+  .game-card-overlay {
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  
+  .game-card-play-button {
+    transform: scale(0.9);
+    pointer-events: auto;
+  }
+  
+  .game-card-play-button:active {
+    transform: scale(0.95);
+    box-shadow: var(--shadow-lg);
+  }
+  
+  /* 移动端点击时增强反馈 */
+  .game-card:active {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+  }
+}
+
+.game-card-content {
+  padding: var(--space-6);
+}
+
+.game-card-title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-2) 0;
+  line-height: var(--line-height-tight);
+}
+
+.game-card-description {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+  margin: 0;
+  line-height: var(--line-height-relaxed);
+}
+
+/* 游戏卡片变体 */
+.game-card-grid {
+  max-width: 320px;
+}
+
+.game-card-sidebar {
+  flex-direction: row;
+  max-width: none;
+  padding: var(--space-3);
+}
+
+.game-card-sidebar .game-card-image {
+  width: 80px;
+  height: 60px;
+  flex-shrink: 0;
+  aspect-ratio: 4 / 3;
+}
+
+.game-card-sidebar .game-card-content {
+  padding: 0 0 0 var(--space-3);
+}
+
+.game-card-sidebar .game-card-title {
+  font-size: var(--font-size-sm);
+  margin-bottom: var(--space-1);
+}
+
+.game-card-sidebar .game-card-description {
+  font-size: var(--font-size-xs);
+}
+
+/* 侧边栏卡片移动端优化 */
+@media (max-width: 768px) {
+  .game-card-sidebar .game-card-overlay {
+    opacity: 0.2;
+  }
+  
+  .game-card-sidebar .game-card-play-button {
+    width: var(--space-8);
+    height: var(--space-8);
+    transform: scale(0.8);
+  }
+  
+  .game-card-sidebar:active .game-card-play-button {
+    transform: scale(0.9);
+  }
+}
+
+.game-card-featured {
+  max-width: 600px;
+}
+
+.game-card-featured .game-card-content {
+  padding: var(--space-8);
+}
+
+.game-card-featured .game-card-title {
+  font-size: var(--font-size-3xl);
+}
+
+/* ==========================================================================
+   游戏网格组件
+   ========================================================================== */
+
+.game-grid {
+  padding: var(--space-12) 0;
+}
+
+.game-grid-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+}
+
+.game-grid-title {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-gray-900);
+  margin: 0;
+}
+
+.game-grid-more {
+  color: var(--color-primary-600);
+  text-decoration: none;
+  font-weight: var(--font-weight-medium);
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.game-grid-more:hover {
+  color: var(--color-primary-700);
+}
+
+.game-grid-container {
+  display: grid;
+  gap: var(--space-6);
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.game-grid-sidebar .game-grid-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.game-grid-trending .game-grid-container {
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+}
+
+/* ==========================================================================
+   游戏 iframe 组件
+   ========================================================================== */
+
+.game-iframe-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: var(--border-radius-xl);
+  overflow: hidden;
+  background: var(--color-gray-900);
+  box-shadow: var(--shadow-2xl);
+}
+
+.game-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+.game-iframe-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gradient-primary);
+  color: white;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-medium);
+}
+
+.game-iframe-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(10px);
+  opacity: 0.3;
+  z-index: -1;
+}
+
+/* ==========================================================================
+   导航组件
+   ========================================================================== */
+
+.header {
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-backdrop);
+  -webkit-backdrop-filter: var(--glass-backdrop);
+  border-bottom: var(--border-width-1) solid var(--glass-border);
+  position: sticky;
+  top: 0;
+  z-index: var(--z-index-sticky);
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4) 0;
+}
+
+.nav-brand {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary-600);
+  text-decoration: none;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link {
+  color: var(--color-gray-700);
+  text-decoration: none;
+  font-weight: var(--font-weight-medium);
+  transition: color var(--duration-200) var(--ease-in-out);
+  position: relative;
+}
+
+.nav-link:hover {
+  color: var(--color-primary-600);
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--gradient-primary);
+  transition: width var(--duration-300) var(--ease-in-out);
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: var(--space-2);
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    display: none;
+  }
+  
+  .nav-toggle {
+    display: block;
+  }
+}
+
+/* ==========================================================================
+   页脚组件
+   ========================================================================== */
+
+.footer {
+  background: var(--color-gray-900);
+  color: var(--color-gray-300);
+  padding: var(--space-16) 0 var(--space-8) 0;
+  margin-top: var(--space-24);
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-8);
+}
+
+.footer-section h3 {
+  color: white;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-4) 0;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: var(--space-2);
+}
+
+.footer-links a {
+  color: var(--color-gray-400);
+  text-decoration: none;
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.footer-links a:hover {
+  color: var(--color-primary-400);
+}
+
+.footer-bottom {
+  border-top: var(--border-width-1) solid var(--color-gray-800);
+  margin-top: var(--space-8);
+  padding-top: var(--space-8);
+  text-align: center;
+  color: var(--color-gray-500);
+  font-size: var(--font-size-sm);
+}
+
+/* ==========================================================================
+   音频样本组件
+   ========================================================================== */
+
+.sound-sample {
+  position: relative;
+  background: white;
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+  transition: all var(--duration-300) var(--ease-rhythm);
+  cursor: pointer;
+}
+
+.sound-sample:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.sound-sample-image {
+  width: 100%;
+  aspect-ratio: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+.sound-sample-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--duration-500) var(--ease-in-out);
+}
+
+.sound-sample:hover .sound-sample-image img {
+  transform: scale(1.1);
+}
+
+.sound-sample-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity var(--duration-300) var(--ease-in-out);
+}
+
+.sound-sample:hover .sound-sample-overlay {
+  opacity: 1;
+}
+
+.sound-sample-play {
+  width: var(--space-12);
+  height: var(--space-12);
+  background: white;
+  border: none;
+  border-radius: var(--border-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform var(--duration-200) var(--ease-beat);
+}
+
+.sound-sample-play:hover {
+  transform: scale(1.1);
+}
+
+.sound-sample-title {
+  padding: var(--space-3);
+  font-weight: var(--font-weight-medium);
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+}
+
+/* ==========================================================================
+   Hero Section
+   ========================================================================== */
+
+.hero {
+  padding: var(--space-24) 0;
+  background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-gray-50) 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="50" cy="50" r="1" fill="%23a855f7" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.hero .container {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-content {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto var(--space-16) auto;
+}
+
+.hero-title {
+  font-size: var(--font-size-5xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-6) 0;
+  line-height: var(--line-height-tight);
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-description {
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+  margin: 0 0 var(--space-8) 0;
+  line-height: var(--line-height-relaxed);
+}
+
+/* ==========================================================================
+   关于部分样式
+   ========================================================================== */
+
+.about {
+  padding: var(--space-16) 0;
+}
+
+.about h2 {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-8) 0;
+  text-align: center;
+}
+
+.about h3 {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-primary-700);
+  margin: var(--space-8) 0 var(--space-4) 0;
+}
+
+.about h4 {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-800);
+  margin: var(--space-6) 0 var(--space-3) 0;
+}
+
+.about p {
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--space-4) 0;
+}
+
+.about ul {
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--space-4) 0;
+  padding-left: var(--space-6);
+}
+
+.about a {
+  color: var(--color-primary-600);
+  text-decoration: none;
+  font-weight: var(--font-weight-medium);
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.about a:hover {
+  color: var(--color-primary-700);
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: var(--font-size-3xl);
+  }
+  
+  .hero-description {
+    font-size: var(--font-size-lg);
+  }
+  
+  .game-grid-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .game-card-featured .game-card-title {
+    font-size: var(--font-size-2xl);
+  }
+  
+  .about h2 {
+    font-size: var(--font-size-2xl);
+  }
+  
+  .about h3 {
+    font-size: var(--font-size-xl);
+  }
+}
+
+/* ==========================================================================
+   动画和过渡效果
+   ========================================================================== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp var(--duration-500) var(--ease-out);
+}
+
+.animate-pulse {
+  animation: pulse var(--duration-1000) var(--ease-in-out) infinite;
+}
+
+.animate-float {
+  animation: float 3s var(--ease-in-out) infinite;
+}
+
+/* 滚动触发的动画 */
+.scroll-animate {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all var(--duration-700) var(--ease-out);
+}
+
+.scroll-animate.animate {
+  opacity: 1;
+  transform: translateY(0);
+}

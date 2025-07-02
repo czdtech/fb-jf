@@ -1,0 +1,60 @@
+---
+import type { Game } from '@/types';
+import GameCard from './GameCard.astro';
+
+export interface Props {
+  games: Game[];
+  title: string;
+  variant?: 'trending' | 'sidebar';
+  moreLink?: string;
+  className?: string;
+}
+
+const { games, title, variant = 'trending', moreLink, className = '' } = Astro.props;
+---
+
+{variant === 'trending' && (
+  <section class={`games ${className}`}>
+    <div class="container">
+      <h2>{title}</h2>
+      <div class="game-grid">
+        {games.map((game) => (
+          <GameCard game={game} variant="grid" />
+        ))}
+      </div>
+      {moreLink && (
+        <div class="more">
+          <a href={moreLink}>More Games</a>
+        </div>
+      )}
+    </div>
+  </section>
+)}
+
+{variant === 'sidebar' && (
+  <div class={`game-iframe-${variant === 'sidebar' ? (title.includes('Popular') ? 'pop' : 'new') : 'trending'} ${className}`}>
+    <h3>&#9658; {title}</h3>
+    <ul>
+      {games.map((game) => (
+        <GameCard game={game} variant="sidebar" />
+      ))}
+    </ul>
+  </div>
+)}
+
+<style>
+.more {
+  width: 130px;
+  margin: 40px auto 0 auto;
+  border: 1px solid #eee;
+  border-radius: 7px;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  font-weight: 900;
+  font-size: 20px;
+}
+.more a:hover {
+  color: #fff;
+}
+</style>

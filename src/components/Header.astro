@@ -1,0 +1,88 @@
+---
+import type { NavigationItem, Language } from '@/types';
+
+export interface Props {
+  navigation: NavigationItem[];
+  languages: Language[];
+  currentLang?: string;
+  currentPath?: string;
+}
+
+const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.props;
+---
+
+<header class="header">
+    <div class="container">
+        <nav class="nav">
+            <a href="/" class="nav-brand">
+                FiddleBops
+            </a>
+            
+            <button class="nav-toggle" aria-label="Toggle Navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            
+            <ul class="nav-menu">
+                {navigation.map((item) => (
+                    <li>
+                        <a href={item.url} class={`nav-link ${currentPath === item.url ? 'active' : ''}`}>
+                            {item.label}
+                        </a>
+                    </li>
+                ))}
+            </ul>
+            
+            <div class="nav-language">
+                <div class="language-selector glass" onclick="document.getElementById('languageSelector').focus(); document.getElementById('languageSelector').click();">
+                    <span class="language-icon">🌐</span>
+                    <span class="language-text" id="languageText">
+                        {languages.find(lang => lang.code === currentLang)?.label || 'English'}
+                    </span>
+                    <select id="languageSelector" class="language-select">
+                        {languages.map((lang) => (
+                            <option 
+                                value={lang.code}
+                                data-lang={lang.code} 
+                                data-url={lang.url}
+                                selected={lang.code === currentLang}
+                            >
+                                {lang.label}
+                            </option>
+                        ))}
+                    </select>
+                    <span class="language-arrow">▼</span>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+<script>
+function goToLink(event) {
+  const select = event.target;
+  const selectedOption = select.options[select.selectedIndex];
+  const url = selectedOption.getAttribute('data-url');
+  if (url) {
+    window.location.href = url;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const select = document.querySelector('#languageSelector');
+  if (select) {
+    select.addEventListener('change', goToLink);
+    
+    // 设置当前语言
+    const htmlLang = document.documentElement.lang;
+    const options = Array.from(select.options);
+    
+    const currentOption = options.find(option =>
+      option.getAttribute('data-lang') === htmlLang
+    );
+    
+    if (currentOption) {
+      currentOption.selected = true;
+    }
+  }
+});
+</script>

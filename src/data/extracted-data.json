@@ -1,0 +1,163 @@
+{
+  "navigation": {
+    "main": [
+      {"label": "Home", "url": "/"},
+      {"label": "ALL Games", "url": "/games/"},
+      {"label": "Sprunki Retake", "url": "/sprunki-retake/"},
+      {"label": "Sprunki Phase 5", "url": "/sprunki-phase-5/"},
+      {"label": "Sprunki Craft", "url": "/sprunki-craft/"}
+    ],
+    "languages": [
+      {"code": "en", "url": "/", "label": "English"},
+      {"code": "zh-CN", "url": "/zh/", "label": "简体中文"},
+      {"code": "es", "url": "/es/", "label": "Español"},
+      {"code": "fr", "url": "/fr/", "label": "Français"},
+      {"code": "de", "url": "/de/", "label": "Deutsch"},
+      {"code": "ja", "url": "/ja/", "label": "日本語"},
+      {"code": "ko", "url": "/ko/", "label": "한국어"}
+    ]
+  },
+  "homepage": {
+    "meta": {
+      "title": "FiddleBops - Play FiddleBops Incredibox Game",
+      "description": "Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.",
+      "keywords": "fiddlebops, incredibox, music creation, rhythm, experimental, educational",
+      "canonical": "https://www.playfiddlebops.com/",
+      "ogImage": "https://www.playfiddlebops.com/tw.jpg"
+    },
+    "hero": {
+      "title": "Welcome to Fiddlebops Incredibox!",
+      "description": "Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music.",
+      "mainGame": {
+        "iframe": "https://fiddlebops.netlify.app/",
+        "backgroundImage": "/tw.jpg"
+      }
+    },
+    "soundSamples": [
+      {"title": "Beat 1", "image": "/img-1.png", "audio": "/beat1.wav"},
+      {"title": "Beat 3", "image": "/img-2.png", "audio": "/beat3.wav"},
+      {"title": "Beat 5", "image": "/img-3.png", "audio": "/beat5.wav"},
+      {"title": "Effect 3", "image": "/img-4.png", "audio": "/effect3.wav"},
+      {"title": "Effect 4", "image": "/img-5.png", "audio": "/effect4.wav"},
+      {"title": "Effect 5", "image": "/img-6.png", "audio": "/effect5.wav"},
+      {"title": "Voice 2", "image": "/img-7.png", "audio": "/voice2.wav"},
+      {"title": "Voice 3", "image": "/img-8.png", "audio": "/voice3.wav"},
+      {"title": "Voice 5", "image": "/img-9.png", "audio": "/voice5.wav"},
+      {"title": "Bonus 1", "image": "/img-10.png", "audio": "/bonus1.wav"}
+    ]
+  },
+  "games": {
+    "popular": [
+      {
+        "title": "Sprunki Red Sun",
+        "url": "https://www.playfiddlebops.com/sprunki-red-sun/",
+        "image": "/sprunki-red-sun.png"
+      },
+      {
+        "title": "Sprunki Abgerny",
+        "url": "https://www.playfiddlebops.com/sprunki-abgerny/",
+        "image": "/sprunki-abgerny.png"
+      },
+      {
+        "title": "Sprunki Sonic",
+        "url": "https://www.playfiddlebops.com/sprunki-sonic/",
+        "image": "/Sprunki Sonic.png"
+      },
+      {
+        "title": "fiddlebops",
+        "url": "https://www.playfiddlebops.com/",
+        "image": "/tw.jpg"
+      }
+    ],
+    "new": [
+      {
+        "title": "Pikmin No Sprunki",
+        "url": "https://www.playfiddlebops.com/pikmin-no-sprunki/",
+        "image": "/pikmin-no-sprunki.png"
+      },
+      {
+        "title": "The Haze Pixelbox",
+        "url": "https://www.playfiddlebops.com/the-haze-pixelbox/",
+        "image": "/the-haze-pixelbox.png"
+      },
+      {
+        "title": "Yojou Sprunki Mustard",
+        "url": "https://www.playfiddlebops.com/yojou-sprunki-mustard/",
+        "image": "/yojou-sprunki-mustard.png"
+      },
+      {
+        "title": "Sprunki Retake Bonus Characters",
+        "url": "https://www.playfiddlebops.com/sprunki-retake-bonus-characters/",
+        "image": "/sprunki-retake-bonus-characters.png"
+      }
+    ],
+    "trending": [
+      {
+        "title": "AYOCS Sprunkr",
+        "url": "https://www.playfiddlebops.com/ayocs-sprunkr/",
+        "image": "/ayocs-sprunkr.png"
+      },
+      {
+        "title": "Incredibox Donki Abgerny",
+        "url": "https://www.playfiddlebops.com/incredibox-donki-abgerny/",
+        "image": "/incredibox-donki-abgerny.png"
+      },
+      {
+        "title": "Sprunki Pyramixed",
+        "url": "https://www.playfiddlebops.com/sprunki-pyramixed-version/",
+        "image": "/sprunki-pyramixed-version.png"
+      },
+      {
+        "title": "Sprunki Squid Remix",
+        "url": "https://www.playfiddlebops.com/sprunki-squid-remix/",
+        "image": "/sprunki-squid-remix.png"
+      },
+      {
+        "title": "Sprunki 1996",
+        "url": "https://www.playfiddlebops.com/sprunki-1996/",
+        "image": "/sprunki-1996.png"
+      },
+      {
+        "title": "Sprunki rotrizi 5.0",
+        "url": "https://www.playfiddlebops.com/sprunki-rotrizi-5/",
+        "image": "/sprunki-rotrizi-5.png"
+      },
+      {
+        "title": "Sprunki Parasite ParaSprunki 15",
+        "url": "https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/",
+        "image": "/sprunki-parasite-parasprunki-15.png"
+      },
+      {
+        "title": "Incredibox Sprunksters",
+        "url": "https://www.playfiddlebops.com/incredibox-sprunksters/",
+        "image": "/incredibox-sprunksters.png"
+      },
+      {
+        "title": "Sprunki Babies",
+        "url": "https://www.playfiddlebops.com/sprunki-babies/",
+        "image": "/sprunki-babies.png"
+      },
+      {
+        "title": "Pikmin No Sprunki",
+        "url": "https://www.playfiddlebops.com/pikmin-no-sprunki/",
+        "image": "/pikmin-no-sprunki.png"
+      }
+    ]
+  },
+  "seoTemplates": {
+    "gamePage": {
+      "titleTemplate": "{gameTitle} - Play {gameTitle} Online",
+      "descriptionTemplate": "{gameDescription}",
+      "ogImageTemplate": "https://www.playfiddlebops.com/{gameSlug}.png",
+      "canonicalTemplate": "https://www.playfiddlebops.com/{gameSlug}/",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Game",
+        "name": "{gameTitle}",
+        "alternateName": "playfiddlebops.com",
+        "url": "https://www.playfiddlebops.com/{gameSlug}/",
+        "description": "{gameDescription}"
+      }
+    }
+  }
+}

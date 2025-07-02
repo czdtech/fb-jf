@@ -1,0 +1,50 @@
+---
+export interface Props {
+  className?: string;
+}
+
+const { className = '' } = Astro.props;
+---
+
+<footer class={`footer ${className}`}>
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>FiddleBops</h3>
+        <p>创造音乐，传递快乐</p>
+        <p>免费在线音乐创作平台</p>
+      </div>
+      
+      <div class="footer-section">
+        <h3>快速链接</h3>
+        <ul class="footer-links">
+          <li><a href="/">首页</a></li>
+          <li><a href="/games/">所有游戏</a></li>
+          <li><a href="/about/">关于我们</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h3>法律信息</h3>
+        <ul class="footer-links">
+          <li><a href="/privacy/">隐私政策</a></li>
+          <li><a href="/terms-of-service/">服务条款</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h3>联系我们</h3>
+        <p>邮箱: chongzhidatech@gmail.com</p>
+        <div class="footer-social">
+          <a href="#" class="social-link" aria-label="社交媒体">
+            <i class="fas fa-music"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>© 2025 FiddleBops. 版权所有</p>
+    </div>
+  </div>
+</footer>

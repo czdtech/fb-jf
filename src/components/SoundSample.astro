@@ -1,0 +1,31 @@
+---
+import type { SoundSample } from '@/types';
+
+export interface Props {
+  sample: SoundSample;
+}
+
+const { sample } = Astro.props;
+---
+
+<div class="game">
+  <div class="game-logo">
+    <img src={sample.image} alt={sample.title}>
+  </div>
+  <p>{sample.title}</p>
+  <audio controls preload="none" class="w-[100px] max-w-full" crossorigin="anonymous">
+    <source src={`https://www.playfiddlebops.com${sample.audio}`} type="audio/wav">
+  </audio>
+</div>
+
+<style>
+audio {
+  width: 210px;
+}
+
+@media screen and (max-width: 768px) {
+  audio {
+    width: 120px;
+  }
+}
+</style>

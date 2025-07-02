@@ -1,0 +1,147 @@
+---
+import type { SEOMeta, Language } from '@/types';
+
+export interface Props {
+  meta: SEOMeta;
+  lang?: string;
+  hreflang?: Language[];
+  structuredData?: Record<string, any>;
+}
+
+const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{meta.title}</title>
+    <meta name="description" content={meta.description}>
+    {meta.keywords && <meta name="keywords" content={meta.keywords}>}
+    <meta name="robots" content="index, follow"/>
+    <link rel="canonical" href={meta.canonical}/>
+    
+    <!-- hreflang 标签 -->
+    {hreflang.map((lang) => (
+        <link rel="alternate" hreflang={lang.code} href={lang.url} />
+    ))}
+    
+    <!-- 结构化数据 -->
+    {structuredData && (
+        <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    )}
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content={meta.title}/>
+    <meta property="og:description" content={meta.description}/>
+    <meta property="og:url" content={meta.canonical}/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content={meta.ogImage}/>
+    <meta property="og:type" content="website"/>
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content={meta.canonical}/>
+    <meta name="twitter:title" content={meta.title}/>
+    <meta name="twitter:description" content={meta.description}/>
+    <meta name="twitter:image" content={meta.ogImage}/>
+
+    <!-- 图标和样式 -->
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    
+    <!-- 设计系统样式 -->
+    <link rel="stylesheet" href="/src/styles/design-tokens.css" />
+    <link rel="stylesheet" href="/src/styles/components.css" />
+    
+    <!-- 字体 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- 分析代码 (生产环境) -->
+    {import.meta.env.PROD && (
+      <>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9JME3P55QJ');
+        </script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733" crossorigin="anonymous"></script>
+        <meta name="google-adsense-account" content="ca-pub-1444054360166733" />
+      </>
+    )}
+    
+    <!-- 开发环境占位符 -->
+    {import.meta.env.DEV && (
+      <script>
+        // 开发环境 - 分析和广告代码占位符
+        console.log('🔧 开发模式：分析和广告代码已禁用');
+        
+        // 模拟 gtag 函数防止错误
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function() {
+          console.log('📊 [DEV] gtag 调用:', arguments);
+        };
+      </script>
+    )}
+    
+    <!-- 导航脚本 -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const navToggle = document.querySelector('.nav-toggle');
+        const navMenu = document.querySelector('.nav-menu');
+        
+        navToggle?.addEventListener('click', function() {
+          navMenu?.classList.toggle('active');
+        });
+      });
+    </script>
+</head>
+<body>
+    <slot />
+    
+    <!-- 社交分享 (仅生产环境) -->
+    {import.meta.env.PROD && (
+      <>
+        <style>
+        @media screen and (max-width: 980px) {
+            .a2a_floating_style.a2a_vertical_style { display: none; }
+        }
+        @media screen and (min-width: 980px) {
+            .a2a_floating_style.a2a_default_style { display: none; }
+        }
+        </style>
+        <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+            <a class="a2a_button_x"></a>
+            <a class="a2a_button_reddit"></a>
+            <a class="a2a_button_facebook"></a>
+            <a class="a2a_button_telegram"></a>
+            <a class="a2a_button_whatsapp"></a>
+            <a class="a2a_button_linkedin"></a>
+            <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+        </div>
+        <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+            <a class="a2a_button_x"></a>
+            <a class="a2a_button_reddit"></a>
+            <a class="a2a_button_facebook"></a>
+            <a class="a2a_button_telegram"></a>
+            <a class="a2a_button_whatsapp"></a>
+            <a class="a2a_button_linkedin"></a>
+            <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+        </div>
+        <script defer src="https://static.addtoany.com/menu/page.js"></script>
+      </>
+    )}
+    
+    <!-- 设计系统交互脚本 -->
+    <script src="/src/scripts/interactions.js"></script>
+    
+    <!-- Stagewise 工具栏 (仅开发环境) -->
+    <script type="module" src="/src/scripts/stagewise.js"></script>
+</body>
+</html>
