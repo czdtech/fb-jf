@@ -48,6 +48,10 @@
   --color-info-600: #2563eb;
   --color-info-700: #1d4ed8;
 
+  /* 基础色系 */
+  --color-white: #ffffff;
+  --color-black: #000000;
+
   /* 中性色系 */
   --color-gray-50: #f9fafb;
   --color-gray-100: #f3f4f6;

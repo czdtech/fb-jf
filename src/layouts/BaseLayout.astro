@@ -1,5 +1,7 @@
 ---
 import type { SEOMeta, Language } from '@/types';
+import '../styles/design-tokens.css';
+import '../styles/components.css';
 
 export interface Props {
   meta: SEOMeta;
@@ -51,9 +53,7 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
     <!-- 图标和样式 -->
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
     
-    <!-- 设计系统样式 -->
-    <link rel="stylesheet" href="/src/styles/design-tokens.css" />
-    <link rel="stylesheet" href="/src/styles/components.css" />
+    <!-- 设计系统样式已通过 import 引入 -->
     
     <!-- 字体预加载优化 -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

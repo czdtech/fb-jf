@@ -27,7 +27,7 @@
     },
     "hero": {
       "title": "Welcome to Fiddlebops Incredibox!",
-      "description": "Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music.",
+      "description": "Start your musical journey!\nFiddlebops is a fan-made project inspired by Incredibox.\nHere, you can freely mix and match various sounds to create your own unique music.",
       "mainGame": {
         "iframe": "https://fiddlebops.netlify.app/",
         "backgroundImage": "/tw.jpg"

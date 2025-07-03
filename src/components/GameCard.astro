@@ -3,7 +3,7 @@ import type { Game } from '@/types';
 
 export interface Props {
   game: Game;
-  variant?: 'grid' | 'list' | 'featured' | 'sidebar';
+  variant?: 'grid' | 'list' | 'featured' | 'sidebar' | 'trending';
 }
 
 const { game, variant = 'grid' } = Astro.props;
@@ -13,20 +13,19 @@ const gameUrl = game.slug ? (game.slug.startsWith('http') ? game.slug : `/${game
 ---
 
 {variant === 'sidebar' && (
-  <div class="game-card game-card-sidebar">
-    <div class="game-card-image">
+  <a href={gameUrl} class="game-card game-card-sidebar">
+    <div class="game-card-image-wrapper">
       <img src={game.image} alt={game.title}>
       <div class="game-card-overlay">
-        <button class="game-card-play-button">
+        <div class="game-card-play-button">
           <i class="fas fa-play"></i>
-        </button>
+        </div>
+      </div>
+      <div class="game-card-title-popup">
+        <span class="game-card-title-text">{game.title}</span>
       </div>
     </div>
-    <div class="game-card-content">
-      <h3 class="game-card-title">{game.title}</h3>
-      <p class="game-card-description">{game.description || "体验这款精彩的音乐创作游戏"}</p>
-    </div>
-  </div>
+  </a>
 )}
 
 {variant === 'grid' && (
@@ -61,4 +60,21 @@ const gameUrl = game.slug ? (game.slug.startsWith('http') ? game.slug : `/${game
       <p class="game-card-description">{game.description || "体验这款精彩的音乐创作游戏"}</p>
     </div>
   </div>
+)}
+
+{variant === 'trending' && (
+  <a href={gameUrl} class="game-card game-card-trending">
+    <div class="game-card-image-container">
+      <img src={game.image} alt={game.title}>
+      <div class="game-card-trending-overlay">
+        <div class="game-card-trending-play">
+          <i class="fas fa-play"></i>
+        </div>
+        <div class="game-card-trending-gradient"></div>
+        <div class="game-card-trending-info">
+          <h3 class="game-card-trending-title">{game.title}</h3>
+        </div>
+      </div>
+    </div>
+  </a>
 )}

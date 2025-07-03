@@ -14,17 +14,15 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
 <header class="header">
     <div class="container">
         <nav class="nav">
+            <!-- Logo -->
             <a href="/" class="nav-brand">
-                FiddleBops
+                <span class="brand-text">FiddleBops</span>
             </a>
             
-            <button class="nav-toggle" aria-label="Toggle Navigation">
-                <i class="fas fa-bars"></i>
-            </button>
-            
-            <ul class="nav-menu">
+            <!-- Desktop Navigation -->
+            <ul class="nav-menu desktop-only">
                 {navigation.map((item) => (
-                    <li>
+                    <li class="nav-item">
                         <a href={item.url} class={`nav-link ${currentPath === item.url ? 'active' : ''}`}>
                             {item.label}
                         </a>
@@ -32,7 +30,8 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
                 ))}
             </ul>
             
-            <div class="nav-language">
+            <!-- Desktop Language Selector -->
+            <div class="nav-language desktop-only">
                 <div class="language-selector glass" onclick="document.getElementById('languageSelector').focus(); document.getElementById('languageSelector').click();">
                     <span class="language-icon">🌐</span>
                     <span class="language-text" id="languageText">
@@ -53,11 +52,58 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
                     <span class="language-arrow">▼</span>
                 </div>
             </div>
+            
+            <!-- Mobile Menu Toggle -->
+            <button class="mobile-menu-toggle" aria-label="Toggle Navigation" aria-expanded="false">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
         </nav>
+    </div>
+    
+    <!-- Mobile Navigation Overlay -->
+    <div class="mobile-nav-overlay" aria-hidden="true">
+        <div class="mobile-nav-content">
+            <!-- Mobile Navigation Menu -->
+            <ul class="mobile-nav-menu">
+                <li class="mobile-nav-header">
+                    <span class="mobile-nav-title">Navigation</span>
+                </li>
+                {navigation.map((item) => (
+                    <li class="mobile-nav-item">
+                        <a href={item.url} class={`mobile-nav-link ${currentPath === item.url ? 'active' : ''}`}>
+                            <span class="nav-icon">🎵</span>
+                            {item.label}
+                        </a>
+                    </li>
+                ))}
+            </ul>
+            
+            <!-- Mobile Language Selector -->
+            <div class="mobile-language-section">
+                <div class="mobile-nav-header">
+                    <span class="mobile-nav-title">Language</span>
+                </div>
+                <div class="mobile-language-grid">
+                    {languages.map((lang) => (
+                        <button 
+                            class={`mobile-language-item ${lang.code === currentLang ? 'active' : ''}`}
+                            data-lang={lang.code}
+                            data-url={lang.url}
+                        >
+                            <span class="language-flag">{lang.flag || '🌐'}</span>
+                            <span class="language-name">{lang.label}</span>
+                        </button>
+                    ))}
+                </div>
+            </div>
+        </div>
     </div>
 </header>
 
 <script>
+// Desktop language selector
 function goToLink(event) {
   const select = event.target;
   const selectedOption = select.options[select.selectedIndex];
@@ -67,7 +113,9 @@ function goToLink(event) {
   }
 }
 
+// Mobile navigation and language functionality
 document.addEventListener('DOMContentLoaded', () => {
+  // Desktop language selector
   const select = document.querySelector('#languageSelector');
   if (select) {
     select.addEventListener('change', goToLink);
@@ -84,5 +132,67 @@ document.addEventListener('DOMContentLoaded', () => {
       currentOption.selected = true;
     }
   }
+  
+  // Mobile menu toggle
+  const mobileToggle = document.querySelector('.mobile-menu-toggle');
+  const mobileOverlay = document.querySelector('.mobile-nav-overlay');
+  const body = document.body;
+  
+  if (mobileToggle && mobileOverlay) {
+    mobileToggle.addEventListener('click', () => {
+      const isOpen = mobileToggle.getAttribute('aria-expanded') === 'true';
+      
+      // Toggle states
+      mobileToggle.setAttribute('aria-expanded', !isOpen);
+      mobileOverlay.setAttribute('aria-hidden', isOpen);
+      
+      // Toggle classes
+      mobileToggle.classList.toggle('active');
+      mobileOverlay.classList.toggle('active');
+      body.classList.toggle('nav-open');
+    });
+    
+    // Close mobile menu when clicking outside
+    mobileOverlay.addEventListener('click', (e) => {
+      if (e.target === mobileOverlay) {
+        closeMobileMenu();
+      }
+    });
+    
+    // Close mobile menu with escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && mobileOverlay.classList.contains('active')) {
+        closeMobileMenu();
+      }
+    });
+    
+    function closeMobileMenu() {
+      mobileToggle.setAttribute('aria-expanded', 'false');
+      mobileOverlay.setAttribute('aria-hidden', 'true');
+      mobileToggle.classList.remove('active');
+      mobileOverlay.classList.remove('active');
+      body.classList.remove('nav-open');
+    }
+    
+    // Mobile navigation links
+    const mobileNavLinks = document.querySelectorAll('.mobile-nav-link');
+    mobileNavLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        // Close menu when navigation link is clicked
+        setTimeout(closeMobileMenu, 150);
+      });
+    });
+  }
+  
+  // Mobile language selector
+  const mobileLanguageItems = document.querySelectorAll('.mobile-language-item');
+  mobileLanguageItems.forEach(item => {
+    item.addEventListener('click', () => {
+      const url = item.getAttribute('data-url');
+      if (url) {
+        window.location.href = url;
+      }
+    });
+  });
 });
 </script>
