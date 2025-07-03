@@ -13,7 +13,7 @@ const { navigation, homepage, games, seoTemplates } = extractedData;
 
 
 // 多语言配置
-const hreflangLinks = navigation.languages.map(lang => ({
+const hreflangLinks = navigation.languages.map((lang: any) => ({
   code: lang.code === 'en' ? 'x-default' : lang.code,
   url: `https://www.playfiddlebops.com${lang.url}`
 }));
@@ -49,16 +49,6 @@ const structuredData = {
         <div class="hero-content">
           <h1 class="hero-title">🎵 {homepage.hero.title}</h1>
           <p class="hero-description">{homepage.hero.description}</p>
-          <div class="hero-actions">
-            <button class="btn btn-primary btn-xl">
-              <i class="fas fa-play"></i>
-              Start Creating
-            </button>
-            <button class="btn btn-glass btn-xl">
-              <i class="fas fa-gamepad"></i>
-              View All Games
-            </button>
-          </div>
         </div>
 
         <!-- Three Column Layout: New Games | Main Game | Popular Games -->
@@ -68,7 +58,7 @@ const structuredData = {
             <div class="sidebar-section">
               <h3 class="sidebar-title">✨ New Games</h3>
               <div class="sidebar-game-list">
-                {games.new.slice(0, 4).map((game) => (
+                {games.new.slice(0, 4).map((game: any) => (
                   <GameCard game={game} variant="sidebar" />
                 ))}
               </div>
@@ -89,7 +79,7 @@ const structuredData = {
             <div class="sidebar-section">
               <h3 class="sidebar-title">🔥 Popular Games</h3>
               <div class="sidebar-game-list">
-                {games.popular.slice(0, 4).map((game) => (
+                {games.popular.slice(0, 4).map((game: any) => (
                   <GameCard game={game} variant="sidebar" />
                 ))}
               </div>
@@ -111,7 +101,7 @@ const structuredData = {
         </div>
         
         <div class="game-grid-container">
-          {games.trending.slice(0, 6).map((game) => (
+          {games.trending.slice(0, 6).map((game: any) => (
             <div class="scroll-animate music-element">
               <GameCard game={game} variant="grid" />
             </div>
@@ -166,7 +156,7 @@ const structuredData = {
         </div>
         
         <div class="sound-samples-grid">
-          {homepage.soundSamples.map((sample, index) => (
+          {homepage.soundSamples.map((sample: any, index: number) => (
             <div class="scroll-animate music-element" style={`animation-delay: ${index * 100}ms;`}>
               <SoundSample sample={sample} />
             </div>
@@ -337,9 +327,12 @@ const structuredData = {
 /* Hero Section 样式 */
 .hero {
   background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-gray-50) 100%);
-  padding: var(--space-24) 0;
+  padding: var(--space-4) 0 var(--space-8) 0;
   position: relative;
   overflow: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .hero::before {
@@ -356,7 +349,21 @@ const structuredData = {
 
 .hero-content {
   text-align: center;
-  margin-bottom: var(--space-16);
+  margin-bottom: var(--space-6);
+  flex-shrink: 0;
+}
+
+.hero-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1.2;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 .hero-actions {
@@ -374,12 +381,16 @@ const structuredData = {
   align-items: start;
   max-width: 1400px;
   margin: 0 auto;
+  flex: 1;
+  min-height: 0;
 }
 
 .main-game-container {
   position: relative;
   width: 100%;
-  height: 600px;
+  height: calc(100vh - 280px);
+  max-height: 600px;
+  min-height: 350px;
   margin: 0;
   background-color: #fff;
   border-radius: var(--border-radius-lg);
@@ -608,12 +619,13 @@ const structuredData = {
 @media (max-width: 1024px) {
   .hero-game-section {
     grid-template-columns: 1fr;
-    gap: var(--space-6);
+    gap: var(--space-4);
   }
   
   .main-game-container {
     order: 0;
     width: 100%;
+    height: 450px;
   }
   
   .left-sidebar {
@@ -639,17 +651,24 @@ const structuredData = {
 
 @media (max-width: 768px) {
   .main-game-container {
-    height: 330px !important;
+    height: 380px !important;
+  }
+  
+  .hero-content {
+    margin-bottom: var(--space-4);
   }
 }
 
 @media (max-width: 768px) {
   .hero {
-    padding: var(--space-16) 0;
+    padding: var(--space-4) 0 var(--space-8) 0;
   }
   
   .hero-title {
-    font-size: var(--font-size-3xl) !important;
+    font-size: var(--font-size-2xl) !important;
+    line-height: 1.2;
+    word-break: break-word;
+    hyphens: auto;
   }
   
   .hero-description {
@@ -702,14 +721,43 @@ const structuredData = {
 }
 
 @media (max-width: 480px) {
-  .hero-actions .btn {
-    padding: var(--space-4) var(--space-6);
-    font-size: var(--font-size-base);
+  .hero {
+    padding: var(--space-2) 0 var(--space-6) 0;
+  }
+  
+  .hero-content {
+    margin-bottom: var(--space-2);
+  }
+  
+  .hero-title {
+    font-size: var(--font-size-xl) !important;
+    line-height: 1.3;
+  }
+  
+  .main-game-container {
+    height: 320px !important;
   }
   
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+
+/* 防止字体加载跳动 */
+* {
+  font-display: swap;
+}
+
+/* 图片预设尺寸防止布局偏移 */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.game-iframe-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* 动画增强 */
