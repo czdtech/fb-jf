@@ -8,24 +8,190 @@ export interface Props {
 const { sample } = Astro.props;
 ---
 
-<div class="game">
-  <div class="game-logo">
-    <img src={sample.image} alt={sample.title}>
+<div class="sound-sample-card glass">
+  <div class="sound-sample-image-container">
+    <img src={sample.image} alt={sample.title} class="sound-sample-image">
+    <div class="sound-sample-overlay">
+      <div class="sound-sample-play-icon">
+        <i class="fas fa-volume-up"></i>
+      </div>
+    </div>
   </div>
-  <p>{sample.title}</p>
-  <audio controls preload="none" class="w-[100px] max-w-full" crossorigin="anonymous">
-    <source src={`https://www.playfiddlebops.com${sample.audio}`} type="audio/wav">
-  </audio>
+  <div class="sound-sample-content">
+    <h3 class="sound-sample-title">{sample.title}</h3>
+    <div class="sound-sample-audio-container">
+      <audio controls preload="none" class="sound-sample-audio" crossorigin="anonymous">
+        <source src={`https://www.playfiddlebops.com${sample.audio}`} type="audio/wav">
+      </audio>
+    </div>
+  </div>
 </div>
 
 <style>
-audio {
-  width: 210px;
+/* Sound Sample Card Styles */
+.sound-sample-card {
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  box-shadow: 
+    0 8px 32px rgba(0, 0, 0, 0.12),
+    0 2px 8px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.5);
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.15) 0%,
+    rgba(255, 255, 255, 0.05) 100%
+  );
 }
 
-@media screen and (max-width: 768px) {
-  audio {
-    width: 120px;
+.sound-sample-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    var(--color-primary-400) 0%,
+    var(--color-primary-600) 50%,
+    var(--color-primary-400) 100%
+  );
+  opacity: 0.6;
+}
+
+.sound-sample-image-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.sound-sample-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sound-sample-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 0.1) 0%,
+    rgba(0, 0, 0, 0.3) 100%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sound-sample-play-icon {
+  width: var(--space-12);
+  height: var(--space-12);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(255, 255, 255, 0.85) 100%
+  );
+  border-radius: var(--border-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary-600);
+  font-size: var(--font-size-lg);
+  box-shadow: 
+    0 4px 12px rgba(0, 0, 0, 0.15),
+    0 2px 4px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.sound-sample-content {
+  padding: var(--space-4);
+  text-align: center;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.08) 0%,
+    rgba(255, 255, 255, 0.02) 100%
+  );
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.sound-sample-title {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-3) 0;
+  line-height: var(--line-height-tight);
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+.sound-sample-audio-container {
+  display: flex;
+  justify-content: center;
+}
+
+.sound-sample-audio {
+  width: 100%;
+  max-width: 200px;
+  height: 36px;
+  border-radius: var(--border-radius-md);
+  outline: none;
+  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 
+    inset 0 1px 3px rgba(0, 0, 0, 0.1),
+    0 1px 2px rgba(255, 255, 255, 0.5);
+}
+
+.sound-sample-audio::-webkit-media-controls-panel {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: var(--border-radius-md);
+}
+
+.sound-sample-audio::-webkit-media-controls-play-button,
+.sound-sample-audio::-webkit-media-controls-mute-button {
+  background-color: var(--color-primary-600);
+  border-radius: var(--border-radius-sm);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .sound-sample-audio {
+    max-width: 160px;
+    height: 28px;
+  }
+  
+  .sound-sample-content {
+    padding: var(--space-3);
+  }
+  
+  .sound-sample-title {
+    font-size: var(--font-size-sm);
+  }
+}
+
+@media (max-width: 480px) {
+  .sound-sample-audio {
+    max-width: 140px;
+    height: 28px;
+  }
+  
+  .sound-sample-play-icon {
+    width: var(--space-10);
+    height: var(--space-10);
+    font-size: var(--font-size-base);
+  }
+  
+  .sound-sample-content {
+    padding: var(--space-3);
   }
 }
 </style>
