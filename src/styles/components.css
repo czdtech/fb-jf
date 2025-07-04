@@ -962,7 +962,7 @@ body {
   text-decoration: none;
   color: var(--color-primary-600);
   font-weight: var(--font-weight-bold);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-2xl);
   transition: all var(--duration-200) var(--ease-in-out);
 }
 
@@ -1001,7 +1001,7 @@ body {
     text-decoration: none;
     color: var(--color-gray-700);
     font-weight: var(--font-weight-medium);
-    font-size: var(--font-size-sm);
+    font-size: var(--font-size-base);
     padding: var(--space-2) var(--space-4);
     border-radius: var(--border-radius-md);
     transition: all var(--duration-200) var(--ease-in-out);

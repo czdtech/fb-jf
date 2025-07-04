@@ -53,12 +53,6 @@ const structuredData = {
           <h1 class="hero-title">{homepage.hero.title}</h1>
           <p class="hero-description">{homepage.hero.description}</p>
 
-          <!-- 简洁特性 -->
-          <div class="hero-features">
-            <span class="feature-item">🎮 Play Instantly</span>
-            <span class="feature-item">🎵 Create Music</span>
-            <span class="feature-item">🆓 100% Free</span>
-          </div>
         </div>
 
         <!-- Three Column Layout: New Games | Main Game | Popular Games -->
@@ -81,6 +75,7 @@ const structuredData = {
               id="Fiddlebops-iframe"
               src={homepage.hero.mainGame.iframe}
               backgroundImage={homepage.hero.mainGame.backgroundImage}
+              gameTitle="FiddleBops"
             />
           </div>
 
@@ -96,6 +91,7 @@ const structuredData = {
             </div>
           </div>
         </div>
+
       </div>
     </section>
 
@@ -329,17 +325,106 @@ const structuredData = {
   <Footer />
 </BaseLayout>
 
+<!-- 音符点击动画 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const musicNotes = ['♪', '♫', '♬', '♩', '♭', '♯', '𝄞'];
+  
+  function createNote(x, y) {
+    const note = document.createElement('div');
+    const randomNote = musicNotes[Math.floor(Math.random() * musicNotes.length)];
+    note.textContent = randomNote;
+    note.className = 'click-note';
+    
+    // 随机颜色（紫色系）
+    const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899', '#f472b6'];
+    const randomColor = colors[Math.floor(Math.random() * colors.length)];
+    
+    // 设置样式
+    note.style.cssText = `
+      position: fixed;
+      left: ${x}px;
+      top: ${y}px;
+      color: ${randomColor};
+      font-size: ${Math.random() * 8 + 16}px;
+      font-weight: bold;
+      pointer-events: none;
+      z-index: 9999;
+      user-select: none;
+      transform: translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg);
+    `;
+    
+    document.body.appendChild(note);
+    
+    // 动画
+    const animation = note.animate([
+      {
+        opacity: 1,
+        transform: `translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg) scale(1)`,
+        filter: 'blur(0px)'
+      },
+      {
+        opacity: 0.7,
+        transform: `translate(-50%, -150%) rotate(${Math.random() * 60 - 30}deg) scale(1.2)`,
+        filter: 'blur(0px)'
+      },
+      {
+        opacity: 0,
+        transform: `translate(-50%, -200%) rotate(${Math.random() * 90 - 45}deg) scale(0.8)`,
+        filter: 'blur(2px)'
+      }
+    ], {
+      duration: 1200,
+      easing: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
+    });
+    
+    animation.onfinish = () => {
+      if (note.parentNode) {
+        note.parentNode.removeChild(note);
+      }
+    };
+  }
+  
+  // 点击事件监听（带节流）
+  let lastClick = 0;
+  document.body.addEventListener('click', function(e) {
+    const now = Date.now();
+    if (now - lastClick < 200) return;
+    lastClick = now;
+    
+    // 创建1-3个音符
+    const noteCount = Math.floor(Math.random() * 3) + 1;
+    
+    for (let i = 0; i < noteCount; i++) {
+      setTimeout(() => {
+        const offsetX = (Math.random() - 0.5) * 40;
+        const offsetY = (Math.random() - 0.5) * 40;
+        createNote(e.clientX + offsetX, e.clientY + offsetY);
+      }, i * 100);
+    }
+  });
+});
+</script>
+
 <style>
 /* ==========================================================================
    首页特定样式 - 基于新设计系统
    ========================================================================== */
 
 /* ==========================================================================
+   统一页面背景
+   ========================================================================== */
+
+body {
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 50%, #f0f9ff 100%);
+  min-height: 100vh;
+}
+
+/* ==========================================================================
    真正的游戏网站业界顶流设计 - 简洁、直接、高效
    ========================================================================== */
 
 .hero {
-  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
   padding-top: calc(80px + var(--space-8));
   padding-bottom: var(--space-16);
   position: relative;
@@ -380,15 +465,6 @@ const structuredData = {
   hyphens: auto;
 }
 
-/* 简洁特性展示 */
-.hero-features {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-6);
-  flex-wrap: wrap;
-  margin-bottom: var(--space-8);
-}
 
 .feature-item {
   font-size: var(--font-size-base);
@@ -434,10 +510,6 @@ const structuredData = {
     padding: 0 var(--space-2);
   }
 
-  .hero-features {
-    gap: var(--space-4);
-    margin-bottom: var(--space-6);
-  }
 
   .feature-item {
     font-size: var(--font-size-sm);
@@ -463,10 +535,6 @@ const structuredData = {
     padding: 0 var(--space-1);
   }
 
-  .hero-features {
-    gap: var(--space-3);
-    justify-content: center;
-  }
 
   .feature-item {
     font-size: var(--font-size-xs);
@@ -596,7 +664,6 @@ const structuredData = {
 /* Trending Games Section */
 .trending-section {
   padding: var(--space-20) 0;
-  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
 }
 
 .section-header {
@@ -681,20 +748,6 @@ const structuredData = {
 /* 音频样本区域 */
 .sound-samples-section {
   padding: var(--space-20) 0;
-  background: linear-gradient(135deg, var(--color-gray-900) 0%, var(--color-primary-900) 100%);
-  color: white;
-}
-
-.sound-samples-section .section-title {
-  color: white;
-  background: var(--gradient-cool);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.sound-samples-section .section-description {
-  color: var(--color-gray-300);
 }
 
 .sound-samples-grid {
@@ -706,7 +759,6 @@ const structuredData = {
 /* 视频区域 */
 .video-section {
   padding: var(--space-20) 0;
-  background: var(--color-gray-50);
 }
 
 .video-grid {
@@ -794,7 +846,6 @@ const structuredData = {
 /* 评论区域 */
 .comments-section {
   padding: var(--space-20) 0;
-  background: var(--color-gray-50);
 }
 
 .comments-container {

@@ -4,18 +4,27 @@ export interface Props {
   src?: string;
   backgroundImage?: string;
   autoLoad?: boolean;
+  gameTitle?: string;
+  gameDescription?: string;
 }
 
 const {
   id = "Fiddlebops-iframe",
   src = "",
   backgroundImage = "/tw.jpg",
-  autoLoad = false
+  autoLoad = false,
+  gameTitle = "FiddleBops - A Musical Creation Game",
+  gameDescription = "Interactive music creation interface based on Incredibox"
 } = Astro.props;
 ---
 
 <div class="game-iframe-sprunki" style={`background-image: url(${backgroundImage})`}>
   <div class="game-overlay"></div>
+  
+  <!-- 预连接优化 -->
+  <link rel="preconnect" href={new URL(src).origin}>
+  <link rel="dns-prefetch" href={new URL(src).origin}>
+  
   <iframe
     id={id}
     src={autoLoad ? src : ""}
@@ -25,8 +34,28 @@ const {
     allowfullscreen
     width="100%"
     height="100%"
+    loading="eager"
+    style="background-color: #000000; position: absolute; top: 0; left: 0; z-index: 5; opacity: 0; pointer-events: none; transition: opacity 0.3s ease-in-out;"
+    title={gameTitle}
   ></iframe>
-  {!autoLoad && <button id="playButton">Play</button>}
+  
+  {!autoLoad && (
+    <div class="game-cover-overlay" id="gameCover">
+      <div class="game-cover-content">
+        <h3 class="game-cover-title" data-text={gameTitle}>{gameTitle}</h3>
+        <button id="playButton" class="game-start-button">
+          <span class="button-icon">▶</span>
+          <span>Play</span>
+        </button>
+      </div>
+      
+      <!-- 加载指示器 -->
+      <div class="game-loading-indicator" id="loadingIndicator" style="display: none;">
+        <div class="loading-spinner"></div>
+        <p class="loading-text">Loading Game...</p>
+      </div>
+    </div>
+  )}
 </div>
 
 {!autoLoad && (
@@ -34,11 +63,48 @@ const {
     let iframeLoaded = false;
     const iframe = document.getElementById(iframeId);
     const playButton = document.getElementById("playButton");
+    const loadingIndicator = document.getElementById("loadingIndicator");
 
     function loadIframe() {
       if (!iframeLoaded) {
+        // 显示加载指示器
+        if (loadingIndicator) {
+          loadingIndicator.style.display = "flex";
+        }
+        
+        // 隐藏播放按钮
+        if (playButton) {
+          playButton.style.display = "none";
+        }
+        
+        // 开始加载iframe
         iframe.src = iframeSrc;
-        playButton.style.display = "none";
+        
+        // 监听iframe加载完成
+        iframe.onload = function() {
+          setTimeout(() => {
+            // 显示iframe
+            iframe.style.opacity = "1";
+            iframe.style.pointerEvents = "auto";
+            
+            const gameCover = document.getElementById("gameCover");
+            if (gameCover) {
+              gameCover.style.opacity = "0";
+              gameCover.style.pointerEvents = "none";
+              setTimeout(() => {
+                gameCover.style.display = "none";
+              }, 300);
+            }
+          }, 500); // 给游戏一点时间完全加载
+        };
+        
+        // 错误处理
+        iframe.onerror = function() {
+          if (loadingIndicator) {
+            loadingIndicator.innerHTML = '<p style="color: #ff4444;">Loading failed, please try again</p>';
+          }
+        };
+        
         iframeLoaded = true;
         iframe.focus();
       }
@@ -54,7 +120,6 @@ const {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #fff;
   position: relative;
   background-repeat: no-repeat;
   background-position: center center;
@@ -70,50 +135,340 @@ const {
   bottom: 0;
   background: linear-gradient(
     135deg,
-    rgba(248, 250, 252, 0.45) 0%,
-    rgba(241, 245, 249, 0.45) 25%,
-    rgba(226, 232, 240, 0.45) 50%,
-    rgba(203, 213, 225, 0.45) 75%,
-    rgba(148, 163, 184, 0.45) 100%
+    rgba(248, 250, 252, 0.4) 0%,
+    rgba(241, 245, 249, 0.35) 25%,
+    rgba(226, 232, 240, 0.35) 50%,
+    rgba(203, 213, 225, 0.35) 75%,
+    rgba(148, 163, 184, 0.4) 100%
   );
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
   z-index: 1;
   pointer-events: none;
 }
 
-#playButton {
+/* 游戏封面遮罩 - 景深分层 */
+.game-cover-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--duration-300) var(--ease-in-out);
+}
+
+.game-cover-overlay:hover {
+  background: transparent;
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+}
+
+.game-cover-content {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-6);
+  padding: var(--space-8);
+  background: transparent;
+  border: 3px solid;
+  border-image: linear-gradient(45deg, 
+    #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffc93c, #ff6b6b
+  ) 1;
+  border-radius: 0;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  box-shadow: 
+    0 0 30px rgba(255, 107, 107, 0.3),
+    0 0 60px rgba(78, 205, 196, 0.2),
+    inset 0 0 30px rgba(255, 255, 255, 0.1);
+  transform: translateY(0) rotateX(0deg);
+  transition: all var(--duration-300) var(--ease-rhythm);
+  position: relative;
+  overflow: visible;
+  min-width: 280px;
+}
+
+.game-cover-content::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  background: linear-gradient(45deg, 
+    rgba(255, 107, 107, 0.1), 
+    rgba(78, 205, 196, 0.1), 
+    rgba(69, 183, 209, 0.1), 
+    rgba(150, 206, 180, 0.1), 
+    rgba(255, 201, 60, 0.1),
+    rgba(255, 107, 107, 0.1)
+  );
+  border: 3px solid;
+  border-image: linear-gradient(45deg, 
+    #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffc93c, #ff6b6b
+  ) 1;
+  animation: musicPulse 2s ease-in-out infinite;
+  z-index: -1;
+}
+
+.game-cover-content::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 4px;
+  height: 40px;
+  background: linear-gradient(to top, #ff6b6b, #4ecdc4, #45b7d1);
+  transform: translate(-50%, -50%);
+  border-radius: 2px;
+  animation: musicBar 1.5s ease-in-out infinite;
+}
+
+@keyframes musicPulse {
+  0%, 100% { 
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  50% { 
+    transform: scale(1.05);
+    opacity: 0.8;
+  }
+}
+
+@keyframes musicBar {
+  0%, 100% { 
+    height: 20px;
+    opacity: 0.6;
+  }
+  25% { 
+    height: 40px;
+    opacity: 1;
+  }
+  50% { 
+    height: 30px;
+    opacity: 0.8;
+  }
+  75% { 
+    height: 50px;
+    opacity: 1;
+  }
+}
+
+
+.game-cover-overlay:hover .game-cover-content {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 
+    0 0 40px rgba(255, 107, 107, 0.5),
+    0 0 80px rgba(78, 205, 196, 0.3),
+    0 0 120px rgba(69, 183, 209, 0.2);
+}
+
+.game-cover-overlay:hover .game-cover-content::before {
+  animation: musicPulse 1s ease-in-out infinite;
+}
+
+.game-cover-overlay:hover .game-cover-content::after {
+  animation: musicBar 0.8s ease-in-out infinite;
+}
+
+
+
+.game-cover-title {
+  font-size: clamp(var(--font-size-2xl), 4vw, var(--font-size-4xl));
+  font-weight: var(--font-weight-black);
+  margin: 0;
+  background: linear-gradient(
+    135deg,
+    #ffffff 0%,
+    #e2e8f0 30%,
+    #a855f7 70%,
+    #ec4899 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  letter-spacing: -0.03em;
+  line-height: var(--line-height-tight);
+  position: relative;
+  transform: translateZ(0);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.game-cover-title::before {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.8) 0%,
+    rgba(226, 232, 240, 0.8) 30%,
+    rgba(168, 85, 247, 0.8) 70%,
+    rgba(236, 72, 153, 0.8) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: blur(1px);
+  z-index: -1;
+  opacity: 0;
+  transition: opacity var(--duration-300) var(--ease-rhythm);
+}
+
+.game-cover-overlay:hover .game-cover-title {
+  transform: translateZ(0) scale(1.05);
+}
+
+.game-cover-overlay:hover .game-cover-title::before {
+  opacity: 1;
+}
+
+.game-start-button {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: linear-gradient(135deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
+  color: white;
+  padding: var(--space-4) var(--space-8);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: var(--border-radius-full);
+  cursor: pointer;
+  transition: all var(--duration-200) var(--ease-rhythm);
+  box-shadow: 
+    0 8px 25px rgba(147, 51, 234, 0.4),
+    0 4px 12px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+  transform: translateY(0);
+  position: relative;
+  overflow: hidden;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.game-start-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  transition: left var(--duration-400) var(--ease-rhythm);
+}
+
+.game-start-button:hover::before {
+  left: 100%;
+}
+
+.game-start-button:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 
+    0 12px 35px rgba(147, 51, 234, 0.5),
+    0 6px 18px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+  background: linear-gradient(135deg, var(--color-primary-700) 0%, #6d28d9 100%);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.game-start-button:active {
+  transform: translateY(-1px) scale(1.02);
+  box-shadow: 
+    0 6px 20px rgba(147, 51, 234, 0.4),
+    0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.button-icon {
+  font-size: var(--font-size-lg);
+  transition: all var(--duration-200) var(--ease-rhythm);
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+}
+
+.game-start-button:hover .button-icon {
+  transform: translateX(2px) scale(1.1);
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* 加载指示器样式 */
+.game-loading-indicator {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+  z-index: 15;
   color: white;
-  padding: 15px 30px;
-  font-size: 1.2em;
-  border: none;
-  border-radius: 12px;
-  cursor: pointer;
-  z-index: 20;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);
-  font-weight: 600;
-  letter-spacing: 0.5px;
+  text-align: center;
 }
 
-#playButton:hover {
-  background: linear-gradient(135deg, #ff5722 0%, #e68900 100%);
-  transform: translate(-50%, -50%) scale(1.05);
-  box-shadow: 0 6px 20px rgba(255, 107, 53, 0.6);
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-top: 3px solid var(--color-primary-500);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
 }
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-text {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
 
 @media screen and (max-width: 980px) {
   .game-iframe-sprunki {
     width: 100%;
+  }
+  
+  .game-cover-title {
+    font-size: clamp(var(--font-size-2xl), 6vw, var(--font-size-4xl));
+  }
+  
+  .game-start-button {
+    padding: var(--space-3) var(--space-5);
+    font-size: var(--font-size-base);
   }
 }
 
 @media screen and (max-width: 768px) {
   .game-iframe-sprunki {
     max-height: 330px;
+  }
+  
+  .game-cover-title {
+    font-size: clamp(var(--font-size-xl), 7vw, var(--font-size-3xl));
+  }
+  
+  .game-start-button {
+    padding: var(--space-2) var(--space-4);
+    font-size: var(--font-size-sm);
+    gap: var(--space-1);
   }
 }
 </style>
