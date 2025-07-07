@@ -1,0 +1,176 @@
+---
+interface Props {
+  communityMods: Array<{
+    title: string
+    slug: string
+    image: string
+  }>
+  musicDelayStart: number
+}
+
+const { communityMods, musicDelayStart } = Astro.props
+---
+
+<!-- Community Games - Directly below iframe -->
+<div class="hero-community-inline">
+  <div class="hero-community-grid-inline">
+    {
+      communityMods.map((mod: any, index: number) => (
+        <div class={`music-element hero-music-delay-${musicDelayStart + index}`}>
+          <a href={`/${mod.slug}/`} class="hero-community-card-inline">
+            <div class="hero-community-image-inline">
+              <img src={mod.image} alt={mod.title} />
+              <div class="hero-community-overlay-inline" />
+              <div class="hero-community-title-inline">
+                <h3>{mod.title}</h3>
+              </div>
+            </div>
+          </a>
+        </div>
+      ))
+    }
+  </div>
+</div>
+
+<style>
+  /* ==========================================================================
+   Community Games Styles - 直接位于主游戏下方
+   ========================================================================== */
+
+  .hero-community-inline {
+    /* 内联社区游戏容器 */
+    width: 100%;
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: var(--space-3);
+  }
+
+  .hero-community-grid-inline {
+    /* 内联社区游戏网格布局 */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-3);
+    padding: 0;
+    width: 100%;
+  }
+
+  .hero-community-card-inline {
+    /* 内联社区游戏卡片 */
+    display: block;
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border-radius: var(--border-radius-md);
+    overflow: hidden;
+    text-decoration: none;
+    transition: all var(--duration-300) var(--ease-rhythm);
+    background: var(--color-white);
+    box-shadow:
+      0 2px 8px rgba(0, 0, 0, 0.08),
+      0 1px 3px rgba(0, 0, 0, 0.04);
+  }
+
+  .hero-community-card-inline:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      0 6px 20px rgba(0, 0, 0, 0.12),
+      0 2px 6px rgba(0, 0, 0, 0.08);
+  }
+
+  .hero-community-image-inline {
+    /* 内联社区游戏图片容器 */
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-community-image-inline img {
+    /* 内联社区游戏图片 */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform var(--duration-500) var(--ease-in-out);
+  }
+
+  .hero-community-card-inline:hover .hero-community-image-inline img {
+    transform: scale(1.05);
+  }
+
+  .hero-community-overlay-inline {
+    /* 内联社区游戏覆盖层 */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.3) 50%,
+      transparent 100%
+    );
+    z-index: 1;
+  }
+
+  .hero-community-title-inline {
+    /* 内联社区游戏标题容器 */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: var(--space-2);
+    z-index: 2;
+  }
+
+  .hero-community-title-inline h3 {
+    color: white;
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-semibold);
+    line-height: var(--line-height-tight);
+    margin: 0;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+    text-align: center;
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 1024px) {
+    .hero-community-grid-inline {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-3);
+      padding: var(--space-3);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero-community-grid-inline {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-2);
+      padding: var(--space-3);
+    }
+
+    .hero-community-title-inline h3 {
+      font-size: var(--font-size-2xs);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-community-grid-inline {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-2);
+      padding: var(--space-2);
+    }
+
+    .hero-community-card-inline {
+      aspect-ratio: 3 / 2;
+    }
+
+    .hero-community-title-inline {
+      padding: var(--space-1);
+    }
+
+    .hero-community-title-inline h3 {
+      font-size: var(--font-size-2xs);
+    }
+  }
+</style>

@@ -1,0 +1,162 @@
+---
+interface Props {
+  games: any[]
+  musicDelayStart?: number
+}
+
+const { games, musicDelayStart = 10 } = Astro.props
+
+// 导入游戏卡片组件
+import GameCard from '@/components/GameCard.astro'
+---
+
+<!-- Trending Games Section - Integrated into Hero -->
+<div class="hero-trending">
+  <div class="hero-trending__header">
+    <h2 class="hero-trending__title">🔥 Trending Games</h2>
+  </div>
+
+  <div class="hero-trending__container">
+    <div class="hero-trending__grid">
+      {
+        games.slice(0, 12).map((game: any, index: number) => (
+          <div
+            class={`scroll-animate music-element hero-music-delay-${index + musicDelayStart}`}
+          >
+            <GameCard game={game} variant="trending" />
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</div>
+
+<style>
+  /* ==========================================================================
+   Trending Games - Integrated into Hero Section
+   ========================================================================== */
+
+  .hero-trending {
+    margin-top: var(--space-12);
+    width: 100%;
+  }
+
+  .hero-trending__header {
+    text-align: center;
+    margin-bottom: var(--space-8);
+  }
+
+  .hero-trending__title {
+    font-size: var(--font-size-4xl);
+    font-weight: var(--font-weight-bold);
+    margin: 0 0 var(--space-4) 0;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-trending__container {
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(248, 250, 252, 0.9) 50%,
+      rgba(241, 245, 249, 0.95) 100%
+    );
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-4);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.1),
+      0 1px 3px rgba(0, 0, 0, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.6);
+    position: relative;
+    overflow: hidden;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .hero-trending__container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--gradient-primary);
+    opacity: 0.7;
+  }
+
+  .hero-trending__grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: var(--space-4);
+  }
+
+  /* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+  @media (max-width: 1200px) {
+    .hero-trending__grid {
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+      gap: var(--space-3);
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .hero-trending {
+      margin-top: var(--space-8);
+    }
+
+    .hero-trending__grid {
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero-trending {
+      margin-top: var(--space-6);
+    }
+
+    .hero-trending__title {
+      font-size: var(--font-size-2xl);
+    }
+
+    .hero-trending__grid {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(6, 1fr);
+      gap: var(--space-3);
+    }
+
+    .hero-trending__container {
+      padding: var(--space-3);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-trending {
+      margin-top: var(--space-4);
+    }
+
+    .hero-trending__title {
+      font-size: var(--font-size-xl);
+      margin-bottom: var(--space-3);
+    }
+
+    .hero-trending__grid {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(6, 1fr);
+      gap: var(--space-2);
+    }
+
+    .hero-trending__container {
+      padding: var(--space-2);
+    }
+  }
+</style>

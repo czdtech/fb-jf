@@ -1,0 +1,193 @@
+---
+import GameCard from '@/components/GameCard.astro'
+
+interface Props {
+  title: string
+  games: any[]
+  variant: 'left' | 'right'
+  musicDelayStart: number
+}
+
+const { title, games, variant, musicDelayStart } = Astro.props
+---
+
+<!-- Hero Games Sidebar -->
+<div class={`hero-sidebar hero-sidebar--${variant}`}>
+  <div class={`hero-sidebar__content music-element hero-music-delay-${musicDelayStart}`}>
+    <h3 class="hero-sidebar__title">{title}</h3>
+    <div class="hero-sidebar__games">
+      {
+        games.slice(0, 4).map((game: any, index: number) => (
+          <div class={`music-element hero-music-delay-${musicDelayStart + index + 1}`}>
+            <GameCard game={game} variant="compact" />
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</div>
+
+<style>
+  .hero-sidebar {
+    /* 侧边栏基础样式 */
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-6);
+    height: fit-content;
+  }
+
+  .hero-sidebar--left,
+  .hero-sidebar--right {
+    /* 侧边栏特定样式 */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-sidebar__content {
+    /* 侧边栏内容容器 - 使用玻璃拟态效果 */
+    background: var(--hero-sidebar-glass-bg);
+    backdrop-filter: var(--hero-sidebar-glass-blur);
+    -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+    border: var(--hero-sidebar-glass-border);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-4);
+    box-shadow: var(--hero-sidebar-glass-shadow);
+    transition: all var(--duration-300) var(--ease-in-out);
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-sidebar__content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--gradient-primary);
+    opacity: 0.7;
+  }
+
+  .hero-sidebar__content:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      0 12px 40px rgba(0, 0, 0, 0.15),
+      0 4px 12px rgba(0, 0, 0, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+
+  .hero-sidebar__title {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-bold);
+    margin: 0 0 var(--space-4) 0;
+    color: var(--color-gray-900);
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    position: relative;
+    padding-bottom: var(--space-3);
+    text-align: center;
+  }
+
+  .hero-sidebar__title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 3px;
+    background: var(--gradient-primary);
+    border-radius: var(--border-radius-full);
+  }
+
+  .hero-sidebar__games {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 1024px) {
+    .hero-sidebar--left {
+      order: 1;
+    }
+
+    .hero-sidebar--right {
+      order: 2;
+    }
+
+    .hero-sidebar {
+      flex-direction: row;
+      overflow-x: auto;
+      padding-bottom: var(--space-4);
+      height: auto;
+    }
+
+    .hero-sidebar__content {
+      min-width: 280px;
+      flex-shrink: 0;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero-sidebar {
+      flex-direction: column;
+    }
+
+    .hero-sidebar__content {
+      min-width: auto;
+    }
+
+    .hero-sidebar__games {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-2);
+    }
+
+    .hero-sidebar__title {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-4);
+      padding-bottom: var(--space-2);
+    }
+
+    .hero-sidebar__title::after {
+      width: 30px;
+      height: 2px;
+    }
+
+    .hero-sidebar__content {
+      padding: var(--space-3);
+    }
+
+    .hero-sidebar__content:hover {
+      transform: none;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-sidebar__games {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-1);
+    }
+
+    .hero-sidebar__title {
+      font-size: var(--font-size-base);
+      margin-bottom: var(--space-3);
+      padding-bottom: var(--space-1);
+    }
+
+    .hero-sidebar__title::after {
+      width: 25px;
+      height: 2px;
+    }
+
+    .hero-sidebar__content {
+      padding: var(--space-2);
+    }
+  }
+</style>

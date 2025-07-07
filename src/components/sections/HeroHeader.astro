@@ -1,0 +1,86 @@
+---
+interface Props {
+  title: string
+  description: string
+}
+
+const { title, description } = Astro.props
+---
+
+<!-- Hero Header: 标题和描述 -->
+<div class="hero-header">
+  <h1 class="hero-header__title">{title}</h1>
+  <p class="hero-header__description">{description}</p>
+</div>
+
+<style>
+  .hero-header {
+    /* 内容区域 */
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto var(--space-8) auto;
+  }
+
+  .hero-header__title {
+    font-size: clamp(2.5rem, 6vw, 3.5rem);
+    font-weight: var(--font-weight-black);
+    line-height: var(--line-height-tight);
+    margin: 0 0 var(--space-6) 0;
+    color: var(--color-gray-900);
+    letter-spacing: -0.01em;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-header__description {
+    font-size: var(--font-size-xl);
+    line-height: var(--line-height-relaxed);
+    color: var(--color-gray-600);
+    margin: 0 0 var(--space-8) 0;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: pre-line;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .hero-header {
+      margin-bottom: var(--space-4);
+    }
+
+    .hero-header__title {
+      font-size: clamp(2rem, 8vw, 2.5rem);
+      margin-bottom: var(--space-4);
+    }
+
+    .hero-header__description {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-6);
+      max-width: 100%;
+      line-height: 1.5;
+      text-align: left;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-header {
+      margin-bottom: var(--space-2);
+    }
+
+    .hero-header__title {
+      font-size: clamp(1.75rem, 9vw, 2rem);
+    }
+
+    .hero-header__description {
+      font-size: var(--font-size-base);
+      line-height: 1.4;
+      letter-spacing: 0.01em;
+      text-align: center;
+    }
+  }
+</style>

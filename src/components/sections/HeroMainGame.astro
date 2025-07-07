@@ -1,0 +1,64 @@
+---
+interface Props {
+  mainGame: {
+    iframe: string
+    backgroundImage: string
+  }
+  musicDelay?: number
+}
+
+const { mainGame, musicDelay = 3 } = Astro.props
+
+// 导入组件
+import GameIframe from '@/components/GameIframe.astro'
+---
+
+<!-- Main Game iframe -->
+<div class={`hero-main-game music-element hero-music-delay-${musicDelay}`}>
+  <GameIframe
+    id="Fiddlebops-iframe"
+    src={mainGame.iframe}
+    backgroundImage={mainGame.backgroundImage}
+    gameTitle="FiddleBops"
+  />
+</div>
+
+<style>
+  /* ==========================================================================
+   Main Game Area Styles
+   ========================================================================== */
+
+  .hero-main-game {
+    /* 主游戏容器 */
+    position: relative;
+    width: 100%;
+    height: 650px;
+    margin: 0;
+    background: var(--hero-game-container-bg);
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
+  }
+
+  /* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+  @media (max-width: 1024px) {
+    .hero-main-game {
+      width: 100%;
+      height: 450px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero-main-game {
+      height: 380px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-main-game {
+      height: 320px;
+    }
+  }
+</style>
