@@ -32,10 +32,8 @@
   );
   --hero-sidebar-glass-blur: blur(20px) saturate(180%);
   --hero-sidebar-glass-border: 1px solid rgba(255, 255, 255, 0.3);
-  --hero-sidebar-glass-shadow:
-    0 8px 32px rgba(0, 0, 0, 0.1),
-    0 1px 3px rgba(0, 0, 0, 0.08),
-    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  --hero-sidebar-glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.6);
 
   /* 主游戏容器背景 */
   --hero-game-container-bg: #ffffff;
@@ -104,9 +102,7 @@
 
 .hero-sidebar-effect:hover {
   transform: translateY(-2px);
-  box-shadow:
-    0 12px 40px rgba(0, 0, 0, 0.15),
-    0 4px 12px rgba(0, 0, 0, 0.1),
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15), 0 4px 12px rgba(0, 0, 0, 0.1),
     inset 0 1px 0 rgba(255, 255, 255, 0.8);
   border-color: rgba(255, 255, 255, 0.4);
 }
@@ -120,7 +116,8 @@
 
 /* === 音符动画效果 === */
 @keyframes hero-music-pulse {
-  0%, 100% {
+  0%,
+  100% {
     transform: scale(1);
     opacity: 0.6;
   }
@@ -131,7 +128,8 @@
 }
 
 @keyframes hero-music-bar {
-  0%, 100% {
+  0%,
+  100% {
     height: var(--hero-music-bar-height-min);
     opacity: 0.6;
   }
@@ -151,7 +149,8 @@
 
 /* 音符动画工具类 */
 .hero-music-pulse {
-  animation: hero-music-pulse var(--hero-music-pulse-duration) ease-in-out infinite;
+  animation: hero-music-pulse var(--hero-music-pulse-duration) ease-in-out
+    infinite;
 }
 
 .hero-music-bar {
@@ -179,7 +178,8 @@
   left: -10px;
   right: -10px;
   bottom: -10px;
-  background: linear-gradient(45deg,
+  background: linear-gradient(
+    45deg,
     rgba(255, 107, 107, 0.1),
     rgba(78, 205, 196, 0.1),
     rgba(69, 183, 209, 0.1),
@@ -188,9 +188,16 @@
     rgba(255, 107, 107, 0.1)
   );
   border: 3px solid;
-  border-image: linear-gradient(45deg,
-    #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffc93c, #ff6b6b
-  ) 1;
+  border-image: linear-gradient(
+      45deg,
+      #ff6b6b,
+      #4ecdc4,
+      #45b7d1,
+      #96ceb4,
+      #ffc93c,
+      #ff6b6b
+    )
+    1;
   border-radius: var(--border-radius-lg);
   z-index: -1;
 }
@@ -217,12 +224,72 @@
 }
 
 /* 音符动画延迟工具类 */
-.hero-music-delay-1 { animation-delay: calc(var(--hero-music-animation-delay-base) * 1); }
-.hero-music-delay-2 { animation-delay: calc(var(--hero-music-animation-delay-base) * 2); }
-.hero-music-delay-3 { animation-delay: calc(var(--hero-music-animation-delay-base) * 3); }
-.hero-music-delay-4 { animation-delay: calc(var(--hero-music-animation-delay-base) * 4); }
-.hero-music-delay-5 { animation-delay: calc(var(--hero-music-animation-delay-base) * 5); }
-.hero-music-delay-6 { animation-delay: calc(var(--hero-music-animation-delay-base) * 6); }
+.hero-music-delay-1 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 1);
+}
+.hero-music-delay-2 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 2);
+}
+.hero-music-delay-3 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 3);
+}
+.hero-music-delay-4 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 4);
+}
+.hero-music-delay-5 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 5);
+}
+.hero-music-delay-6 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 6);
+}
+.hero-music-delay-7 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 7);
+}
+.hero-music-delay-8 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 8);
+}
+.hero-music-delay-9 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 9);
+}
+.hero-music-delay-10 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 10);
+}
+.hero-music-delay-11 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 11);
+}
+.hero-music-delay-12 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 12);
+}
+.hero-music-delay-13 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 13);
+}
+.hero-music-delay-14 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 14);
+}
+.hero-music-delay-15 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 15);
+}
+.hero-music-delay-16 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 16);
+}
+.hero-music-delay-17 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 17);
+}
+.hero-music-delay-18 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 18);
+}
+.hero-music-delay-19 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 19);
+}
+.hero-music-delay-20 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 20);
+}
+.hero-music-delay-21 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 21);
+}
+.hero-music-delay-22 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 22);
+}
 
 /* 音符动画控制 - 兼容原有系统 */
 .music-element:hover {
@@ -255,7 +322,8 @@
   left: -2px;
   right: -2px;
   bottom: -2px;
-  background: linear-gradient(45deg,
+  background: linear-gradient(
+    45deg,
     rgba(255, 107, 107, 0.1),
     rgba(78, 205, 196, 0.1),
     rgba(69, 183, 209, 0.1)
@@ -787,22 +855,18 @@ body {
   position: relative;
   display: block;
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 3;
   border-radius: var(--border-radius-xl);
   overflow: hidden;
   text-decoration: none;
   transition: all var(--duration-300) var(--ease-rhythm);
   background: var(--color-white);
-  box-shadow:
-    0 4px 16px rgba(0, 0, 0, 0.1),
-    0 1px 3px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
 .game-card-trending:hover {
   transform: translateY(-6px) scale(1.03);
-  box-shadow:
-    0 16px 40px rgba(0, 0, 0, 0.15),
-    0 4px 12px rgba(0, 0, 0, 0.1),
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15), 0 4px 12px rgba(0, 0, 0, 0.1),
     0 0 0 2px rgba(99, 102, 241, 0.1);
 }
 
@@ -851,9 +915,7 @@ body {
   justify-content: center;
   color: var(--color-primary-600);
   font-size: var(--font-size-xl);
-  box-shadow:
-    0 8px 24px rgba(0, 0, 0, 0.2),
-    0 2px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2), 0 2px 8px rgba(0, 0, 0, 0.15);
   transition: transform var(--duration-300) var(--ease-beat);
   z-index: 3;
 }
@@ -893,6 +955,114 @@ body {
   line-height: var(--line-height-tight);
   margin: 0;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+  text-align: center;
+}
+
+/* Compact Games Card - 4:3 Ratio for Sidebar */
+.game-card-compact {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  text-decoration: none;
+  transition: all var(--duration-300) var(--ease-rhythm);
+  background: var(--color-white);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.game-card-compact:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12), 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+.game-card-compact-image {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.game-card-compact-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--duration-500) var(--ease-in-out);
+}
+
+.game-card-compact:hover .game-card-compact-image img {
+  transform: scale(1.05);
+}
+
+.game-card-compact-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(168, 85, 247, 0.8);
+  opacity: 0;
+  transition: opacity var(--duration-300) var(--ease-in-out);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.game-card-compact:hover .game-card-compact-overlay {
+  opacity: 1;
+}
+
+.game-card-compact-play {
+  width: var(--space-12);
+  height: var(--space-12);
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: var(--border-radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary-600);
+  font-size: var(--font-size-lg);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: transform var(--duration-300) var(--ease-beat);
+  transform: scale(0.8);
+}
+
+.game-card-compact:hover .game-card-compact-play {
+  transform: scale(1);
+}
+
+.game-card-compact-gradient {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50%;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0.3) 50%,
+    transparent 100%
+  );
+  z-index: 1;
+}
+
+.game-card-compact-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-3);
+  z-index: 3;
+}
+
+.game-card-compact-title {
+  color: white;
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-tight);
+  margin: 0;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
   text-align: center;
 }
 
@@ -1504,12 +1674,6 @@ body.nav-open {
 }
 
 /* ==========================================================================
-   Hero Section (设计令牌和工具类已完全整合至此文件)
-   ========================================================================== */
-
-/* Hero 设计令牌和工具类已完全整合至此文件顶部 */
-
-/* ==========================================================================
    关于部分样式
    ========================================================================== */
 
@@ -1610,7 +1774,8 @@ body.nav-open {
 }
 
 @keyframes pulse {
-  0%, 100% {
+  0%,
+  100% {
     transform: scale(1);
   }
   50% {
@@ -1619,7 +1784,8 @@ body.nav-open {
 }
 
 @keyframes float {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {

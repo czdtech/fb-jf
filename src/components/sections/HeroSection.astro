@@ -1,24 +1,49 @@
 ---
 interface Props {
   hero: {
-    title: string;
-    description: string;
+    title: string
+    description: string
     mainGame: {
-      iframe: string;
-      backgroundImage: string;
-    };
-  };
+      iframe: string
+      backgroundImage: string
+    }
+  }
   games: {
-    new: any[];
-    popular: any[];
-  };
+    new: any[]
+    popular: any[]
+    trending: any[]
+  }
 }
 
-const { hero, games } = Astro.props;
+const { hero, games } = Astro.props
 
 // 导入组件
-import GameCard from '@/components/GameCard.astro';
-import GameIframe from '@/components/GameIframe.astro';
+import GameCard from '@/components/GameCard.astro'
+import GameIframe from '@/components/GameIframe.astro'
+
+// Community Mods游戏数据
+const communityMods = [
+  {
+    title: 'Fiddlebops but Sprunki',
+    slug: 'fiddlebops-but-sprunki',
+    image: '/fiddlebops-but-sprunki.png',
+  },
+  {
+    title: 'Fiddlebops Fix',
+    slug: 'fiddlebops-fix',
+    image: '/fiddlebops-fix.png',
+  },
+  {
+    title: 'Fiddlebops Polos',
+    slug: 'fiddlebops-polos',
+    image: '/fiddlebops-polos.png',
+  },
+  {
+    title: "Fiddlebops But Dandy's World",
+    slug: 'fiddlebops-but-dandys-world',
+    image: '/fiddlebops-but-dandys-world.png',
+  },
+]
 ---
 
 <!-- Hero Section: 重构后的组件化设计 -->
@@ -35,14 +60,18 @@ import GameIframe from '@/components/GameIframe.astro';
     <div class="hero-section__games">
       <!-- Left Column - New Games -->
       <div class="hero-section__sidebar hero-section__sidebar--left">
-        <div class="hero-section__sidebar-content music-element hero-music-delay-1">
+        <div
+          class="hero-section__sidebar-content music-element hero-music-delay-1"
+        >
           <h3 class="hero-section__sidebar-title">✨ New Games</h3>
           <div class="hero-section__sidebar-games">
-            {games.new.slice(0, 4).map((game: any, index: number) => (
-              <div class={`music-element hero-music-delay-${index + 2}`}>
-                <GameCard game={game} variant="sidebar" />
-              </div>
-            ))}
+            {
+              games.new.slice(0, 4).map((game: any, index: number) => (
+                <div class={`music-element hero-music-delay-${index + 2}`}>
+                  <GameCard game={game} variant="compact" />
+                </div>
+              ))
+            }
           </div>
         </div>
       </div>
@@ -59,42 +88,87 @@ import GameIframe from '@/components/GameIframe.astro';
 
       <!-- Right Column - Popular Games -->
       <div class="hero-section__sidebar hero-section__sidebar--right">
-        <div class="hero-section__sidebar-content music-element hero-music-delay-2">
+        <div
+          class="hero-section__sidebar-content music-element hero-music-delay-2"
+        >
           <h3 class="hero-section__sidebar-title">🔥 Popular Games</h3>
           <div class="hero-section__sidebar-games">
-            {games.popular.slice(0, 4).map((game: any, index: number) => (
-              <div class={`music-element hero-music-delay-${index + 4}`}>
-                <GameCard game={game} variant="sidebar" />
-              </div>
-            ))}
+            {
+              games.popular.slice(0, 4).map((game: any, index: number) => (
+                <div class={`music-element hero-music-delay-${index + 4}`}>
+                  <GameCard game={game} variant="compact" />
+                </div>
+              ))
+            }
           </div>
         </div>
       </div>
     </div>
 
+    <!-- Community Games Section - Fiddlebops Mods -->
+    <div class="hero-section__community">
+      <div class="hero-section__community-grid">
+        {
+          communityMods.map((mod: any, index: number) => (
+            <div class={`music-element hero-music-delay-${index + 7}`}>
+              <a href={`/${mod.slug}/`} class="hero-section__community-card">
+                <div class="hero-section__community-image">
+                  <img src={mod.image} alt={mod.title} />
+                  <div class="hero-section__community-overlay" />
+                  <div class="hero-section__community-title">
+                    <h3>{mod.title}</h3>
+                  </div>
+                </div>
+              </a>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+
+    <!-- Trending Games Section - Integrated into Hero -->
+    <div class="hero-section__trending">
+      <div class="hero-section__trending-header">
+        <h2 class="hero-section__trending-title">🔥 Trending Games</h2>
+      </div>
+
+      <div class="hero-section__trending-container">
+        <div class="hero-section__trending-grid">
+          {
+            games.trending.slice(0, 12).map((game: any, index: number) => (
+              <div
+                class={`scroll-animate music-element hero-music-delay-${index + 10}`}
+              >
+                <GameCard game={game} variant="trending" />
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
 <script>
   // 简化的音符动画交互效果
-  document.addEventListener('DOMContentLoaded', function() {
-    const musicElements = document.querySelectorAll('.music-element');
+  document.addEventListener('DOMContentLoaded', function () {
+    const musicElements = document.querySelectorAll('.music-element')
 
     // 保留鼠标悬停的音符动画增强
     musicElements.forEach(element => {
-      element.addEventListener('mouseenter', function(this: HTMLElement) {
-        this.classList.add('hero-music-pulse-hover');
-      });
+      element.addEventListener('mouseenter', function (this: HTMLElement) {
+        this.classList.add('hero-music-pulse-hover')
+      })
 
-      element.addEventListener('mouseleave', function(this: HTMLElement) {
-        this.classList.remove('hero-music-pulse-hover');
-      });
-    });
-  });
+      element.addEventListener('mouseleave', function (this: HTMLElement) {
+        this.classList.remove('hero-music-pulse-hover')
+      })
+    })
+  })
 </script>
 
 <style>
-/**
+  /**
  * HeroSection Component
  *
  * 背景层级：
@@ -109,321 +183,624 @@ import GameIframe from '@/components/GameIframe.astro';
  * - --hero-sidebar-glass-*: 玻璃拟态效果
  */
 
-/* ==========================================================================
+  /* ==========================================================================
    Hero Section - 组件化设计
    ========================================================================== */
 
-.hero-section {
-  /* 使用页面级背景，只需要设置布局和间距 */
-  padding-top: calc(80px + var(--space-8));
-  padding-bottom: var(--space-8);
-  min-height: 85vh;
-  display: flex;
-  align-items: center;
-}
-
-.hero-section__container {
-  /* 布局容器 */
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: var(--space-4);
-  padding-right: var(--space-4);
-  position: relative;
-  z-index: 1;
-}
-
-.hero-section__content {
-  /* 内容区域 */
-  text-align: center;
-  max-width: 900px;
-  margin: 0 auto var(--space-8) auto;
-}
-
-.hero-section__title {
-  font-size: clamp(2.5rem, 6vw, 3.5rem);
-  font-weight: var(--font-weight-black);
-  line-height: var(--line-height-tight);
-  margin: 0 0 var(--space-6) 0;
-  color: var(--color-gray-900);
-  letter-spacing: -0.01em;
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.hero-section__description {
-  font-size: var(--font-size-xl);
-  line-height: var(--line-height-relaxed);
-  color: var(--color-gray-600);
-  margin: 0 0 var(--space-8) 0;
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  white-space: pre-line;
-  word-break: break-word;
-  hyphens: auto;
-}
-
-.hero-section__games {
-  /* 游戏区域布局 */
-  display: grid;
-  grid-template-columns: 250px 1fr 250px;
-  gap: var(--space-4);
-  align-items: start;
-  max-width: 1400px;
-  margin: 0 auto;
-  flex: 1;
-  min-height: 0;
-}
-
-.hero-section__main-game {
-  /* 主游戏容器 */
-  position: relative;
-  width: 100%;
-  height: 600px;
-  margin: 0;
-  background: var(--hero-game-container-bg);
-  border-radius: var(--border-radius-lg);
-  overflow: hidden;
-}
-
-.hero-section__sidebar {
-  /* 侧边栏基础样式 */
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-6);
-  height: fit-content;
-}
-
-.hero-section__sidebar--left,
-.hero-section__sidebar--right {
-  /* 侧边栏特定样式 */
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-
-.hero-section__sidebar-content {
-  /* 侧边栏内容容器 - 使用玻璃拟态效果 */
-  background: var(--hero-sidebar-glass-bg);
-  backdrop-filter: var(--hero-sidebar-glass-blur);
-  -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
-  border: var(--hero-sidebar-glass-border);
-  border-radius: var(--border-radius-lg);
-  padding: var(--space-4);
-  box-shadow: var(--hero-sidebar-glass-shadow);
-  transition: all var(--duration-300) var(--ease-in-out);
-  flex: 1;
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-section__sidebar-content::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 2px;
-  background: var(--gradient-primary);
-  opacity: 0.7;
-}
-
-.hero-section__sidebar-content:hover {
-  transform: translateY(-2px);
-  box-shadow:
-    0 12px 40px rgba(0, 0, 0, 0.15),
-    0 4px 12px rgba(0, 0, 0, 0.1),
-    inset 0 1px 0 rgba(255, 255, 255, 0.8);
-  border-color: rgba(255, 255, 255, 0.4);
-}
-
-.hero-section__sidebar-title {
-  font-size: var(--font-size-xl);
-  font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-4) 0;
-  color: var(--color-gray-900);
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  position: relative;
-  padding-bottom: var(--space-3);
-  text-align: center;
-}
-
-.hero-section__sidebar-title::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 40px;
-  height: 3px;
-  background: var(--gradient-primary);
-  border-radius: var(--border-radius-full);
-}
-
-.hero-section__sidebar-games {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--space-3);
-}
-
-/* ==========================================================================
-   响应式设计
-   ========================================================================== */
-
-@media (max-width: 1200px) {
-  .hero-section__games {
-    grid-template-columns: 220px 1fr 220px;
-    gap: var(--space-3);
-  }
-}
-
-@media (max-width: 1024px) {
-  .hero-section__games {
-    grid-template-columns: 1fr;
-    gap: var(--space-4);
-  }
-
-  .hero-section__main-game {
-    order: 0;
-    width: 100%;
-    height: 450px;
-  }
-
-  .hero-section__sidebar--left {
-    order: 1;
-  }
-
-  .hero-section__sidebar--right {
-    order: 2;
-  }
-
-  .hero-section__sidebar {
-    flex-direction: row;
-    overflow-x: auto;
-    padding-bottom: var(--space-4);
-    height: auto;
-  }
-
-  .hero-section__sidebar-content {
-    min-width: 280px;
-    flex-shrink: 0;
-  }
-}
-
-@media (max-width: 768px) {
   .hero-section {
-    padding-top: calc(80px + var(--space-4));
+    /* 使用页面级背景，只需要设置布局和间距 */
+    padding-top: calc(80px + var(--space-8));
     padding-bottom: var(--space-8);
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+  }
+
+  .hero-section__container {
+    /* 布局容器 */
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--space-4);
+    padding-right: var(--space-4);
+    position: relative;
+    z-index: 1;
   }
 
   .hero-section__content {
-    margin-bottom: var(--space-4);
-    padding: 0 var(--space-4);
+    /* 内容区域 */
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto var(--space-8) auto;
   }
 
   .hero-section__title {
-    font-size: clamp(2rem, 8vw, 2.5rem);
-    margin-bottom: var(--space-4);
+    font-size: clamp(2.5rem, 6vw, 3.5rem);
+    font-weight: var(--font-weight-black);
+    line-height: var(--line-height-tight);
+    margin: 0 0 var(--space-6) 0;
+    color: var(--color-gray-900);
+    letter-spacing: -0.01em;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
   }
 
   .hero-section__description {
-    font-size: var(--font-size-lg);
-    margin-bottom: var(--space-6);
-    max-width: 100%;
-    line-height: 1.5;
-    text-align: left;
-    padding: 0 var(--space-2);
+    font-size: var(--font-size-xl);
+    line-height: var(--line-height-relaxed);
+    color: var(--color-gray-600);
+    margin: 0 0 var(--space-8) 0;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: pre-line;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  .hero-section__games {
+    /* 游戏区域布局 */
+    display: grid;
+    grid-template-columns: 250px 1fr 250px;
+    gap: var(--space-4);
+    align-items: start;
+    max-width: 1400px;
+    margin: 0 auto;
+    flex: 1;
+    min-height: 0;
   }
 
   .hero-section__main-game {
-    height: 380px;
+    /* 主游戏容器 */
+    position: relative;
+    width: 100%;
+    height: 600px;
+    margin: 0;
+    background: var(--hero-game-container-bg);
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
   }
 
   .hero-section__sidebar {
+    /* 侧边栏基础样式 */
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-6);
+    height: fit-content;
+  }
+
+  .hero-section__sidebar--left,
+  .hero-section__sidebar--right {
+    /* 侧边栏特定样式 */
+    height: 100%;
+    display: flex;
     flex-direction: column;
   }
 
   .hero-section__sidebar-content {
-    min-width: auto;
+    /* 侧边栏内容容器 - 使用玻璃拟态效果 */
+    background: var(--hero-sidebar-glass-bg);
+    backdrop-filter: var(--hero-sidebar-glass-blur);
+    -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+    border: var(--hero-sidebar-glass-border);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-4);
+    box-shadow: var(--hero-sidebar-glass-shadow);
+    transition: all var(--duration-300) var(--ease-in-out);
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-section__sidebar-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--gradient-primary);
+    opacity: 0.7;
+  }
+
+  .hero-section__sidebar-content:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      0 12px 40px rgba(0, 0, 0, 0.15),
+      0 4px 12px rgba(0, 0, 0, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+
+  .hero-section__sidebar-title {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-bold);
+    margin: 0 0 var(--space-4) 0;
+    color: var(--color-gray-900);
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    position: relative;
+    padding-bottom: var(--space-3);
+    text-align: center;
+  }
+
+  .hero-section__sidebar-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 3px;
+    background: var(--gradient-primary);
+    border-radius: var(--border-radius-full);
   }
 
   .hero-section__sidebar-games {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-2);
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
   }
 
-  .hero-section__sidebar-title {
-    font-size: var(--font-size-lg);
-    margin-bottom: var(--space-4);
-    padding-bottom: var(--space-2);
+  /* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+  @media (max-width: 1200px) {
+    .hero-section__games {
+      grid-template-columns: 220px 1fr 220px;
+      gap: var(--space-3);
+    }
+
+    .hero-section__trending-grid {
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+      gap: var(--space-3);
+    }
+
+    .hero-section__community-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-3);
+    }
+
+    .hero-section__community-container {
+    }
   }
 
-  .hero-section__sidebar-title::after {
-    width: 30px;
-    height: 2px;
+  @media (max-width: 1024px) {
+    .hero-section__games {
+      grid-template-columns: 1fr;
+      gap: var(--space-4);
+    }
+
+    .hero-section__main-game {
+      order: 0;
+      width: 100%;
+      height: 450px;
+    }
+
+    .hero-section__sidebar--left {
+      order: 1;
+    }
+
+    .hero-section__sidebar--right {
+      order: 2;
+    }
+
+    .hero-section__sidebar {
+      flex-direction: row;
+      overflow-x: auto;
+      padding-bottom: var(--space-4);
+      height: auto;
+    }
+
+    .hero-section__sidebar-content {
+      min-width: 280px;
+      flex-shrink: 0;
+    }
+
+    .hero-section__trending {
+      margin-top: var(--space-8);
+    }
+
+    .hero-section__trending-grid {
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+    }
+
+    .hero-section__community {
+      margin-top: var(--space-6);
+    }
+
+    .hero-section__community-container {
+    }
   }
 
-  .hero-section__sidebar-content {
-    padding: var(--space-3);
+  @media (max-width: 768px) {
+    .hero-section {
+      padding-top: calc(80px + var(--space-4));
+      padding-bottom: var(--space-8);
+    }
+
+    .hero-section__content {
+      margin-bottom: var(--space-4);
+      padding: 0 var(--space-4);
+    }
+
+    .hero-section__title {
+      font-size: clamp(2rem, 8vw, 2.5rem);
+      margin-bottom: var(--space-4);
+    }
+
+    .hero-section__description {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-6);
+      max-width: 100%;
+      line-height: 1.5;
+      text-align: left;
+      padding: 0 var(--space-2);
+    }
+
+    .hero-section__main-game {
+      height: 380px;
+    }
+
+    .hero-section__sidebar {
+      flex-direction: column;
+    }
+
+    .hero-section__sidebar-content {
+      min-width: auto;
+    }
+
+    .hero-section__sidebar-games {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-2);
+    }
+
+    .hero-section__sidebar-title {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-4);
+      padding-bottom: var(--space-2);
+    }
+
+    .hero-section__sidebar-title::after {
+      width: 30px;
+      height: 2px;
+    }
+
+    .hero-section__sidebar-content {
+      padding: var(--space-3);
+    }
+
+    .hero-section__sidebar-content:hover {
+      transform: none;
+    }
+
+    .hero-section__trending {
+      margin-top: var(--space-6);
+    }
+
+    .hero-section__trending-title {
+      font-size: var(--font-size-2xl);
+    }
+
+    .hero-section__trending-grid {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(6, 1fr);
+      gap: var(--space-3);
+    }
+
+    .hero-section__trending-container {
+      padding: var(--space-3);
+    }
+
+    .hero-section__community {
+      margin-top: var(--space-4);
+    }
+
+    .hero-section__community-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-2);
+    }
+
+    .hero-section__community-title {
+      font-size: var(--font-size-xl);
+    }
+
+    .hero-section__community-description {
+      font-size: var(--font-size-sm);
+    }
+
+    .hero-section__community-container {
+    }
   }
 
-  .hero-section__sidebar-content:hover {
-    transform: none;
-  }
-}
+  @media (max-width: 480px) {
+    .hero-section {
+      padding-top: calc(80px + var(--space-2));
+      padding-bottom: var(--space-6);
+    }
 
-@media (max-width: 480px) {
-  .hero-section {
-    padding-top: calc(80px + var(--space-2));
-    padding-bottom: var(--space-6);
+    .hero-section__content {
+      margin-bottom: var(--space-2);
+      padding: 0 var(--space-3);
+    }
+
+    .hero-section__title {
+      font-size: clamp(1.75rem, 9vw, 2rem);
+    }
+
+    .hero-section__description {
+      font-size: var(--font-size-base);
+      line-height: 1.4;
+      letter-spacing: 0.01em;
+      text-align: center;
+      padding: 0 var(--space-1);
+    }
+
+    .hero-section__main-game {
+      height: 320px;
+    }
+
+    .hero-section__sidebar-games {
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-1);
+    }
+
+    .hero-section__sidebar-title {
+      font-size: var(--font-size-base);
+      margin-bottom: var(--space-3);
+      padding-bottom: var(--space-1);
+    }
+
+    .hero-section__sidebar-title::after {
+      width: 25px;
+      height: 2px;
+    }
+
+    .hero-section__sidebar-content {
+      padding: var(--space-2);
+    }
+
+    .hero-section__trending {
+      margin-top: var(--space-4);
+    }
+
+    .hero-section__trending-title {
+      font-size: var(--font-size-xl);
+      margin-bottom: var(--space-3);
+    }
+
+    .hero-section__trending-grid {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(6, 1fr);
+      gap: var(--space-2);
+    }
+
+    .hero-section__trending-container {
+      padding: var(--space-2);
+    }
+
+    .hero-section__community {
+      margin-top: var(--space-3);
+    }
+
+    .hero-section__community-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-2);
+      padding: var(--space-2);
+    }
+
+    .hero-section__community-title {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-2);
+    }
+
+    .hero-section__community-description {
+      font-size: var(--font-size-sm);
+    }
+
+    .hero-section__community-item {
+      padding: var(--space-3);
+      gap: var(--space-2);
+    }
+
+    .hero-section__community-name {
+      font-size: var(--font-size-sm);
+    }
   }
 
-  .hero-section__content {
-    margin-bottom: var(--space-2);
-    padding: 0 var(--space-3);
+  /* ==========================================================================
+   Trending Games - Integrated into Hero Section
+   ========================================================================== */
+
+  .hero-section__trending {
+    margin-top: var(--space-12);
+    width: 100%;
   }
 
-  .hero-section__title {
-    font-size: clamp(1.75rem, 9vw, 2rem);
-  }
-
-  .hero-section__description {
-    font-size: var(--font-size-base);
-    line-height: 1.4;
-    letter-spacing: 0.01em;
+  .hero-section__trending-header {
     text-align: center;
-    padding: 0 var(--space-1);
+    margin-bottom: var(--space-8);
   }
 
-  .hero-section__main-game {
-    height: 320px;
+  .hero-section__trending-title {
+    font-size: var(--font-size-4xl);
+    font-weight: var(--font-weight-bold);
+    margin: 0 0 var(--space-4) 0;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
   }
 
-  .hero-section__sidebar-games {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-1);
+  .hero-section__trending-container {
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(248, 250, 252, 0.9) 50%,
+      rgba(241, 245, 249, 0.95) 100%
+    );
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-4);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.1),
+      0 1px 3px rgba(0, 0, 0, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.6);
+    position: relative;
+    overflow: hidden;
+    max-width: 1400px;
+    margin: 0 auto;
   }
 
-  .hero-section__sidebar-title {
-    font-size: var(--font-size-base);
-    margin-bottom: var(--space-3);
-    padding-bottom: var(--space-1);
-  }
-
-  .hero-section__sidebar-title::after {
-    width: 25px;
+  .hero-section__trending-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     height: 2px;
+    background: var(--gradient-primary);
+    opacity: 0.7;
   }
 
-  .hero-section__sidebar-content {
-    padding: var(--space-2);
+  .hero-section__trending-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: var(--space-4);
   }
-}
+
+  /* ==========================================================================
+     Community Games - Fiddlebops Mods Section
+     ========================================================================== */
+
+  .hero-section__community {
+    margin-top: var(--space-8);
+    width: 100%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-section__community-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-3);
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(248, 250, 252, 0.9) 50%,
+      rgba(241, 245, 249, 0.95) 100%
+    );
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-3);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.1),
+      0 1px 3px rgba(0, 0, 0, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.6);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-section__community-grid::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--gradient-primary);
+    opacity: 0.7;
+  }
+
+  /* Community Games 自定义卡片样式 */
+  .hero-section__community-card {
+    display: block;
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
+    text-decoration: none;
+    transition: all var(--duration-300) var(--ease-rhythm);
+    background: var(--color-white);
+    box-shadow:
+      0 2px 8px rgba(0, 0, 0, 0.08),
+      0 1px 3px rgba(0, 0, 0, 0.04);
+  }
+
+  .hero-section__community-card:hover {
+    transform: translateY(-3px);
+    box-shadow:
+      0 8px 24px rgba(0, 0, 0, 0.12),
+      0 3px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .hero-section__community-image {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-section__community-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform var(--duration-500) var(--ease-in-out);
+  }
+
+  .hero-section__community-card:hover .hero-section__community-image img {
+    transform: scale(1.1);
+  }
+
+  .hero-section__community-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.3) 50%,
+      transparent 100%
+    );
+    z-index: 1;
+  }
+
+  .hero-section__community-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: var(--space-3);
+    z-index: 2;
+  }
+
+  .hero-section__community-title h3 {
+    color: white;
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-semibold);
+    line-height: var(--line-height-tight);
+    margin: 0;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+    text-align: center;
+  }
+
+  /* ==========================================================================
+   响应式设计
+   ========================================================================== */
 </style>

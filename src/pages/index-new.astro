@@ -1,45 +1,43 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
-import Header from '@/components/Header.astro';
-import Footer from '@/components/Footer.astro';
-import GameCard from '@/components/GameCard.astro';
-import GameIframe from '@/components/GameIframe.astro';
-import SoundSample from '@/components/SoundSample.astro';
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Header from '@/components/Header.astro'
+import Footer from '@/components/Footer.astro'
+import GameCard from '@/components/GameCard.astro'
+import GameIframe from '@/components/GameIframe.astro'
+import SoundSample from '@/components/SoundSample.astro'
 
 // 导入Section组件
-import HeroSection from '@/components/sections/HeroSection.astro';
-import HowToPlaySection from '@/components/sections/HowToPlaySection.astro';
-import TrendingGamesSection from '@/components/sections/TrendingGamesSection.astro';
-import AboutSection from '@/components/sections/AboutSection.astro';
-import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro';
-import VideosSection from '@/components/sections/VideosSection.astro';
-import FAQSection from '@/components/sections/FAQSection.astro';
-import CommentsSection from '@/components/sections/CommentsSection.astro';
+import HeroSection from '@/components/sections/HeroSection.astro'
+import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
+import AboutSection from '@/components/sections/AboutSection.astro'
+import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
+import VideosSection from '@/components/sections/VideosSection.astro'
+import FAQSection from '@/components/sections/FAQSection.astro'
+import CommentsSection from '@/components/sections/CommentsSection.astro'
 
 // Hero设计系统已整合至 components.css
 
 // 导入数据
-import extractedData from '@/data/extracted-data.json';
+import extractedData from '@/data/extracted-data.json'
 
-const { navigation, homepage, games, seoTemplates } = extractedData;
-
+const { navigation, homepage, games, seoTemplates } = extractedData
 
 // 多语言配置
 const hreflangLinks = navigation.languages.map((lang: any) => ({
   code: lang.code === 'en' ? 'x-default' : lang.code,
   url: `https://www.playfiddlebops.com${lang.url}`,
-  label: lang.label
-}));
+  label: lang.label,
+}))
 
 // 结构化数据
 const structuredData = {
-  "@context": "https://schema.org",
-  "@type": "Game",
-  "name": homepage.meta.title,
-  "alternateName": "playfiddlebops.com",
-  "url": homepage.meta.canonical,
-  "description": homepage.meta.description
-};
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: homepage.meta.title,
+  alternateName: 'playfiddlebops.com',
+  url: homepage.meta.canonical,
+  description: homepage.meta.description,
+}
 ---
 
 <BaseLayout
@@ -58,9 +56,6 @@ const structuredData = {
   <main>
     <!-- Hero Section -->
     <HeroSection hero={homepage.hero} games={games} />
-
-    <!-- Trending Games Section -->
-    <TrendingGamesSection games={games} />
 
     <!-- How to Play Section -->
     <HowToPlaySection />
@@ -86,26 +81,27 @@ const structuredData = {
 
 <!-- 引入交互系统 -->
 <script>
-  import '@/scripts/interactions.js';
+  import '@/scripts/interactions.js'
 </script>
 
 <!-- 音符点击动画 -->
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const musicNotes = ['♪', '♫', '♬', '♩', '♭', '♯', '𝄞'];
+  document.addEventListener('DOMContentLoaded', function () {
+    const musicNotes = ['♪', '♫', '♬', '♩', '♭', '♯', '𝄞']
 
-  function createNote(x: number, y: number) {
-    const note = document.createElement('div');
-    const randomNote = musicNotes[Math.floor(Math.random() * musicNotes.length)];
-    note.textContent = randomNote;
-    note.className = 'click-note';
+    function createNote(x: number, y: number) {
+      const note = document.createElement('div')
+      const randomNote =
+        musicNotes[Math.floor(Math.random() * musicNotes.length)]
+      note.textContent = randomNote
+      note.className = 'click-note'
 
-    // 随机颜色（紫色系）
-    const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899', '#f472b6'];
-    const randomColor = colors[Math.floor(Math.random() * colors.length)];
+      // 随机颜色（紫色系）
+      const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899', '#f472b6']
+      const randomColor = colors[Math.floor(Math.random() * colors.length)]
 
-    // 设置样式
-    note.style.cssText = `
+      // 设置样式
+      note.style.cssText = `
       position: fixed;
       left: ${x}px;
       top: ${y}px;
@@ -116,125 +112,127 @@ document.addEventListener('DOMContentLoaded', function() {
       z-index: 9999;
       user-select: none;
       transform: translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg);
-    `;
+    `
 
-    document.body.appendChild(note);
+      document.body.appendChild(note)
 
-    // 动画
-    const animation = note.animate([
-      {
-        opacity: 1,
-        transform: `translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg) scale(1)`,
-        filter: 'blur(0px)'
-      },
-      {
-        opacity: 0.7,
-        transform: `translate(-50%, -150%) rotate(${Math.random() * 60 - 30}deg) scale(1.2)`,
-        filter: 'blur(0px)'
-      },
-      {
-        opacity: 0,
-        transform: `translate(-50%, -200%) rotate(${Math.random() * 90 - 45}deg) scale(0.8)`,
-        filter: 'blur(2px)'
+      // 动画
+      const animation = note.animate(
+        [
+          {
+            opacity: 1,
+            transform: `translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg) scale(1)`,
+            filter: 'blur(0px)',
+          },
+          {
+            opacity: 0.7,
+            transform: `translate(-50%, -150%) rotate(${Math.random() * 60 - 30}deg) scale(1.2)`,
+            filter: 'blur(0px)',
+          },
+          {
+            opacity: 0,
+            transform: `translate(-50%, -200%) rotate(${Math.random() * 90 - 45}deg) scale(0.8)`,
+            filter: 'blur(2px)',
+          },
+        ],
+        {
+          duration: 1200,
+          easing: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)',
+        }
+      )
+
+      animation.onfinish = () => {
+        if (note.parentNode) {
+          note.parentNode.removeChild(note)
+        }
       }
-    ], {
-      duration: 1200,
-      easing: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
-    });
-
-    animation.onfinish = () => {
-      if (note.parentNode) {
-        note.parentNode.removeChild(note);
-      }
-    };
-  }
-
-  // 点击事件监听（带节流）- 全局音符效果
-  let lastClick = 0;
-  document.body.addEventListener('click', function(e) {
-    const now = Date.now();
-    if (now - lastClick < 200) return;
-    lastClick = now;
-
-    // 创建1-3个音符（在所有地方都创建点击位置音符）
-    const noteCount = Math.floor(Math.random() * 3) + 1;
-
-    for (let i = 0; i < noteCount; i++) {
-      setTimeout(() => {
-        const offsetX = (Math.random() - 0.5) * 40;
-        const offsetY = (Math.random() - 0.5) * 40;
-        createNote(e.clientX + offsetX, e.clientY + offsetY);
-      }, i * 100);
     }
-  });
-});
+
+    // 点击事件监听（带节流）- 全局音符效果
+    let lastClick = 0
+    document.body.addEventListener('click', function (e) {
+      const now = Date.now()
+      if (now - lastClick < 200) return
+      lastClick = now
+
+      // 创建1-3个音符（在所有地方都创建点击位置音符）
+      const noteCount = Math.floor(Math.random() * 3) + 1
+
+      for (let i = 0; i < noteCount; i++) {
+        setTimeout(() => {
+          const offsetX = (Math.random() - 0.5) * 40
+          const offsetY = (Math.random() - 0.5) * 40
+          createNote(e.clientX + offsetX, e.clientY + offsetY)
+        }, i * 100)
+      }
+    })
+  })
 </script>
 
 <style>
-/* ==========================================================================
+  /* ==========================================================================
    首页特定样式 - 基于新设计系统
    ========================================================================== */
 
-/* ==========================================================================
+  /* ==========================================================================
    统一页面背景
    ========================================================================== */
 
-body {
-  /* 应用Hero背景设计到整个页面 */
-  background: var(--hero-main-bg);
-  min-height: 100vh;
-  position: relative;
-}
+  body {
+    /* 应用Hero背景设计到整个页面 */
+    background: var(--hero-main-bg);
+    min-height: 100vh;
+    position: relative;
+  }
 
-body::before {
-  /* 页面级装饰纹理 */
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: var(--hero-texture-bg);
-  opacity: var(--hero-texture-opacity);
-  pointer-events: none;
-  z-index: -1;
-}
+  body::before {
+    /* 页面级装饰纹理 */
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--hero-texture-bg);
+    opacity: var(--hero-texture-opacity);
+    pointer-events: none;
+    z-index: -1;
+  }
 
-/* ==========================================================================
+  /* ==========================================================================
    简洁响应式设计 - 游戏网站专用
    ========================================================================== */
 
+  /* 防止字体加载跳动 */
+  * {
+    font-display: swap;
+  }
 
-/* 防止字体加载跳动 */
-* {
-  font-display: swap;
-}
+  /* 图片预设尺寸防止布局偏移 */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 
-/* 图片预设尺寸防止布局偏移 */
-img {
-  max-width: 100%;
-  height: auto;
-}
+  .game-iframe-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
 
-.game-iframe-container img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
+  /* 动画增强 */
+  .music-element:hover {
+    animation: none !important;
+  }
 
-/* 动画增强 */
-.music-element:hover {
-  animation: none !important;
-}
+  .scroll-animate {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all var(--duration-700) var(--ease-out);
+  }
 
-.scroll-animate {
-  opacity: 0;
-  transform: translateY(30px);
-  transition: all var(--duration-700) var(--ease-out);
-}
-
-.scroll-animate.animate {
-  opacity: 1;
-  transform: translateY(0);
-}
+  .scroll-animate.animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
 </style>
