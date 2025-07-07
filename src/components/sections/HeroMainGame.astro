@@ -29,10 +29,10 @@ import GameIframe from '@/components/GameIframe.astro'
    ========================================================================== */
 
   .hero-main-game {
-    /* 主游戏容器 */
+    /* 主游戏容器 - 保持4:3比例 */
     position: relative;
     width: 100%;
-    height: 650px;
+    aspect-ratio: 4 / 3;
     margin: 0;
     background: var(--hero-game-container-bg);
     border-radius: var(--border-radius-lg);
@@ -45,20 +45,20 @@ import GameIframe from '@/components/GameIframe.astro'
 
   @media (max-width: 1024px) {
     .hero-main-game {
-      width: 100%;
-      height: 450px;
+      /* 保持4:3比例 - 响应式 */
+      aspect-ratio: 4 / 3;
     }
   }
 
   @media (max-width: 768px) {
     .hero-main-game {
-      height: 380px;
+      aspect-ratio: 4 / 3;
     }
   }
 
   @media (max-width: 480px) {
     .hero-main-game {
-      height: 320px;
+      aspect-ratio: 4 / 3;
     }
   }
 </style>

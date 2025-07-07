@@ -148,9 +148,9 @@ const communityMods = [
   }
 
   .hero-section__games {
-    /* 游戏区域布局 */
+    /* 游戏区域布局 - 缩小边栏宽度 */
     display: grid;
-    grid-template-columns: 250px 1fr 250px;
+    grid-template-columns: 200px 1fr 200px;
     gap: var(--space-4);
     align-items: start;
     max-width: 100%;
@@ -166,14 +166,14 @@ const communityMods = [
 
   @media (min-width: 1400px) {
     .hero-section__games {
-      grid-template-columns: 280px 1fr 280px;
+      grid-template-columns: 220px 1fr 220px;
       gap: var(--space-6);
     }
   }
 
   @media (max-width: 1200px) {
     .hero-section__games {
-      grid-template-columns: 220px 1fr 220px;
+      grid-template-columns: 180px 1fr 180px;
       gap: var(--space-3);
     }
   }
