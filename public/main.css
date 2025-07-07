@@ -2,7 +2,6 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #364869; /* Very light yellow background */
     color: #333;
     overflow-x: hidden; /* Prevent horizontal scroll */
 }
@@ -19,7 +18,7 @@ a {
 }
 a:hover{color:#333;}
 header {
-    background-color: #364869; /* Light orange header */
+    background: transparent; /* Use transparent to inherit page background */
     padding: 10px 0;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     overflow: hidden;

@@ -1,0 +1,165 @@
+---
+// Comments Section 组件
+// 展示社区讨论和评论系统
+---
+
+<section class="comments-section scroll-animate">
+  <div class="container">
+    <div class="section-header center-only">
+      <div>
+        <h2 class="section-title">💬 Community Discussion</h2>
+        <p class="section-description">
+          Share your creative insights and connect with other music creators
+        </p>
+      </div>
+    </div>
+
+    <div class="comments-container glass">
+      {import.meta.env.PROD ? (
+        <script src="https://giscus.app/client.js"
+          data-repo="nom74100/giscus-comment"
+          data-repo-id="R_kgDOOmg4aQ"
+          data-category="Announcements"
+          data-category-id="DIC_kwDOOmg4ac4Cp6AJ"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="zh-CN"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+        </script>
+      ) : (
+        <div class="dev-placeholder">
+          <div style="text-align: center; padding: 2rem; color: #666; background: rgba(255,255,255,0.1); border-radius: 12px; border: 1px dashed #ddd;">
+            <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">💬 评论区</h3>
+            <p style="margin: 0; font-size: 0.9rem;">开发环境下已禁用，生产环境将显示 Giscus 评论系统</p>
+          </div>
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+/* ==========================================================================
+   Comments Section - Modern Glass Design
+   ========================================================================== */
+
+/* Section Header Styles - 从父页面继承 */
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Glass Effect - 玻璃拟态效果 */
+.glass {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(248, 250, 252, 0.9) 50%,
+    rgba(241, 245, 249, 0.95) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.comments-section {
+  padding: var(--space-12) 0;
+}
+
+.comments-container {
+  padding: var(--space-8);
+  border-radius: var(--border-radius-xl);
+  min-height: 400px;
+}
+
+/* Dev Placeholder Styles */
+.dev-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+}
+
+/* Comments Section Responsive Design */
+@media (max-width: 768px) {
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-3);
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+
+  .comments-container {
+    padding: var(--space-6);
+    min-height: 300px;
+  }
+
+  .dev-placeholder {
+    min-height: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .comments-container {
+    padding: var(--space-4);
+    min-height: 250px;
+  }
+
+  .dev-placeholder {
+    min-height: 150px;
+  }
+
+  .dev-placeholder div {
+    padding: 1.5rem !important;
+  }
+
+  .dev-placeholder h3 {
+    font-size: 1rem !important;
+  }
+
+  .dev-placeholder p {
+    font-size: 0.8rem !important;
+  }
+}
+</style>

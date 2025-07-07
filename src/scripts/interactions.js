@@ -60,20 +60,20 @@ class FiddleBopsInteractions {
       let currentStep = 0;
       let animationCount = 0;
       const maxAnimations = 2; // 限制动画次数
-      
+
       const animate = () => {
         if (animationCount >= maxAnimations) return;
-        
+
         const step = rhythmPattern[currentStep];
         element.style.transform = `scale(${step.scale})`;
         element.style.transition = `transform ${step.duration}ms cubic-bezier(0.25, 0.46, 0.45, 0.94)`;
-        
+
         currentStep = (currentStep + 1) % rhythmPattern.length;
-        
+
         if (currentStep === 0) {
           animationCount++;
         }
-        
+
         if (animationCount < maxAnimations) {
           setTimeout(animate, step.duration);
         }
@@ -95,7 +95,7 @@ class FiddleBopsInteractions {
     document.querySelectorAll('.sound-sample').forEach(sample => {
       const audio = sample.querySelector('audio');
       const playButton = sample.querySelector('.sound-sample-play');
-      
+
       if (audio && playButton) {
         // 播放/暂停切换
         playButton.addEventListener('click', (e) => {
@@ -127,7 +127,7 @@ class FiddleBopsInteractions {
     if (audio.paused) {
       // 先暂停其他正在播放的音频
       this.pauseAllAudio();
-      
+
       audio.play();
       container.classList.add('playing');
       this.startAudioVisualization(container);
@@ -164,7 +164,7 @@ class FiddleBopsInteractions {
   startAudioVisualization(container) {
     const waves = this.createWaveAnimation();
     container.appendChild(waves);
-    
+
     // 添加律动效果
     container.style.animationName = 'pulse';
     container.style.animationDuration = '1s';
@@ -175,7 +175,7 @@ class FiddleBopsInteractions {
   stopAudioVisualization(container) {
     const waves = container.querySelector('.wave-animation');
     if (waves) waves.remove();
-    
+
     container.style.animation = '';
   }
 
@@ -190,7 +190,7 @@ class FiddleBopsInteractions {
       <div class="wave wave-2"></div>
       <div class="wave wave-3"></div>
     `;
-    
+
     // 添加CSS样式
     if (!document.querySelector('#wave-styles')) {
       const style = document.createElement('style');
@@ -203,18 +203,18 @@ class FiddleBopsInteractions {
           transform: translate(-50%, -50%);
           pointer-events: none;
         }
-        
+
         .wave {
           position: absolute;
           border: 2px solid rgba(168, 85, 247, 0.6);
           border-radius: 50%;
           animation: wave-expand 2s infinite;
         }
-        
+
         .wave-1 { animation-delay: 0s; }
         .wave-2 { animation-delay: 0.7s; }
         .wave-3 { animation-delay: 1.4s; }
-        
+
         @keyframes wave-expand {
           0% {
             width: 20px;
@@ -230,7 +230,7 @@ class FiddleBopsInteractions {
       `;
       document.head.appendChild(style);
     }
-    
+
     return waves;
   }
 
@@ -275,13 +275,13 @@ class FiddleBopsInteractions {
     const rect = card.getBoundingClientRect();
     const x = event.clientX - rect.left;
     const y = event.clientY - rect.top;
-    
+
     const centerX = rect.width / 2;
     const centerY = rect.height / 2;
-    
+
     const rotateX = (y - centerY) / centerY * -10;
     const rotateY = (x - centerX) / centerX * 10;
-    
+
     card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateZ(20px)`;
   }
 
@@ -307,7 +307,7 @@ class FiddleBopsInteractions {
    */
   setupNavigation() {
     const navLinks = document.querySelectorAll('.nav-link');
-    
+
     navLinks.forEach(link => {
       link.addEventListener('mouseenter', () => {
         this.animateNavLink(link);
@@ -317,7 +317,7 @@ class FiddleBopsInteractions {
     // 移动端导航切换
     const navToggle = document.querySelector('.nav-toggle');
     const navMenu = document.querySelector('.nav-menu');
-    
+
     if (navToggle && navMenu) {
       navToggle.addEventListener('click', () => {
         this.toggleMobileNav(navMenu);
@@ -333,7 +333,7 @@ class FiddleBopsInteractions {
     const ripple = document.createElement('span');
     ripple.className = 'nav-ripple';
     link.appendChild(ripple);
-    
+
     setTimeout(() => {
       ripple.remove();
     }, 600);
@@ -344,7 +344,7 @@ class FiddleBopsInteractions {
    */
   toggleMobileNav(menu) {
     menu.classList.toggle('active');
-    
+
     // 添加动画类
     if (menu.classList.contains('active')) {
       menu.style.animation = 'slideDown 300ms ease-out';
@@ -366,7 +366,7 @@ class FiddleBopsInteractions {
     document.querySelectorAll('a[href^="/"]').forEach(link => {
       link.addEventListener('click', (e) => {
         if (e.ctrlKey || e.metaKey) return;
-        
+
         e.preventDefault();
         this.playPageExitAnimation(() => {
           window.location.href = link.href;
@@ -380,11 +380,11 @@ class FiddleBopsInteractions {
    */
   playPageLoadAnimation() {
     const elements = document.querySelectorAll('header, main > section');
-    
+
     elements.forEach((element, index) => {
       element.style.opacity = '0';
       element.style.transform = 'translateY(30px)';
-      
+
       setTimeout(() => {
         element.style.transition = 'all 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94)';
         element.style.opacity = '1';
@@ -409,24 +409,22 @@ class FiddleBopsInteractions {
       opacity: 0;
       transition: opacity 400ms ease-out;
     `;
-    
+
     document.body.appendChild(overlay);
-    
+
     requestAnimationFrame(() => {
       overlay.style.opacity = '1';
     });
-    
+
     setTimeout(callback, 400);
   }
 
   /**
-   * 音乐可视化背景
+   * 音乐可视化背景 - 全页面浮动音符
    */
   setupMusicVisualization() {
-    const hero = document.querySelector('.hero');
-    if (hero) {
-      this.createFloatingNotes(hero);
-    }
+    // 将浮动音符效果应用到整个页面
+    this.createFloatingNotes(document.body);
   }
 
   /**
@@ -434,29 +432,29 @@ class FiddleBopsInteractions {
    */
   createFloatingNotes(container) {
     const notes = ['♪', '♫', '♬', '♩', '♮'];
-    
+
     // 移除自动间隔，改为点击时触发
     container.addEventListener('click', () => {
       // 创建3-5个音符的爆发效果
       const noteCount = Math.floor(Math.random() * 3) + 3;
-      
+
       for (let i = 0; i < noteCount; i++) {
         setTimeout(() => {
           const note = document.createElement('div');
           note.textContent = notes[Math.floor(Math.random() * notes.length)];
           note.style.cssText = `
-            position: absolute;
+            position: fixed;
             font-size: ${Math.random() * 20 + 20}px;
             color: rgba(168, 85, 247, ${Math.random() * 0.3 + 0.1});
-            left: ${Math.random() * 100}%;
-            top: 100%;
+            left: ${Math.random() * 100}vw;
+            top: 100vh;
             pointer-events: none;
-            z-index: 1;
+            z-index: 9998;
             animation: floatUp ${Math.random() * 3 + 4}s linear forwards;
         `;
-        
-          container.appendChild(note);
-          
+
+          document.body.appendChild(note);
+
           // 移除音符
           setTimeout(() => {
             note.remove();
@@ -464,7 +462,7 @@ class FiddleBopsInteractions {
         }, i * 100); // 每个音符间隔100ms出现
       }
     });
-    
+
     // 添加浮动动画CSS
     if (!document.querySelector('#float-notes-styles')) {
       const style = document.createElement('style');
@@ -518,7 +516,7 @@ class FiddleBopsInteractions {
    */
   setupLazyLoading() {
     const lazyIframes = document.querySelectorAll('iframe[data-src]');
-    
+
     if ('IntersectionObserver' in window) {
       const lazyIframeObserver = new IntersectionObserver((entries) => {
         entries.forEach((entry) => {
@@ -564,14 +562,14 @@ const additionalStyles = `
     margin-left: -50px;
     margin-top: -50px;
   }
-  
+
   @keyframes ripple {
     to {
       transform: scale(2);
       opacity: 0;
     }
   }
-  
+
   @keyframes slideDown {
     from {
       opacity: 0;
@@ -582,7 +580,7 @@ const additionalStyles = `
       transform: translateY(0);
     }
   }
-  
+
   @keyframes slideUp {
     from {
       opacity: 1;
@@ -593,11 +591,11 @@ const additionalStyles = `
       transform: translateY(-10px);
     }
   }
-  
+
   .sound-sample.playing {
     box-shadow: 0 0 30px rgba(168, 85, 247, 0.5);
   }
-  
+
   .sound-sample.playing .sound-sample-image::after {
     content: '';
     position: absolute;
@@ -608,7 +606,7 @@ const additionalStyles = `
     background: linear-gradient(45deg, transparent 30%, rgba(168, 85, 247, 0.1) 50%, transparent 70%);
     animation: shimmer 2s infinite;
   }
-  
+
   @keyframes shimmer {
     0% { transform: translateX(-100%); }
     100% { transform: translateX(100%); }

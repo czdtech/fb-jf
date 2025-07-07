@@ -1,0 +1,198 @@
+---
+// FAQ Section 组件
+// 展示 Fiddlebops 常见问题和答案
+---
+
+<section class="faq-section scroll-animate">
+  <div class="container">
+    <div class="section-header center-only">
+      <div>
+        <h2 class="section-title">❓ Frequently Asked Questions</h2>
+        <p class="section-description">
+          Common questions about Fiddlebops Incredibox answered for you
+        </p>
+      </div>
+    </div>
+
+    <div class="faq-grid">
+      <div class="faq-item glass scroll-animate">
+        <h3 class="faq-question">🎮 What is Fiddlebops Incredibox?</h3>
+        <p class="faq-answer">
+          Fiddlebops is a fan-made project inspired by Incredibox. Here, you can experience the joy of music mixing and create unique musical works through an intuitive interface.
+        </p>
+      </div>
+
+      <div class="faq-item glass scroll-animate">
+        <h3 class="faq-question">💰 Is Fiddlebops Incredibox free?</h3>
+        <p class="faq-answer">
+          Yes, Fiddlebops Incredibox is completely free. Players can play online without any downloads required.
+        </p>
+      </div>
+
+      <div class="faq-item glass scroll-animate">
+        <h3 class="faq-question">📱 Do I need to download or install anything?</h3>
+        <p class="faq-answer">
+          No downloads required. The game runs directly in your browser and supports both desktop and mobile devices.
+        </p>
+      </div>
+
+      <div class="faq-item glass scroll-animate">
+        <h3 class="faq-question">🎵 Do I need a music background?</h3>
+        <p class="faq-answer">
+          Not at all! Fiddlebops Incredibox is designed for people without musical backgrounds. It's more like a musical toy and creative tool.
+        </p>
+      </div>
+
+      <div class="faq-item glass scroll-animate">
+        <h3 class="faq-question">🚀 How do I start creating music?</h3>
+        <p class="faq-answer">
+          Players can drag characters onto the stage and combine their unique sounds to create musical compositions. Try different character combinations to unlock hidden melodies and bonus content.
+        </p>
+      </div>
+
+      <div class="faq-item glass scroll-animate">
+        <h3 class="faq-question">🎤 Is it suitable for music lovers?</h3>
+        <p class="faq-answer">
+          Absolutely! Fiddlebops provides music enthusiasts with a creative and fun platform to explore musical expression.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ==========================================================================
+   FAQ Section - Modern Glass Design
+   ========================================================================== */
+
+/* Section Header Styles - 从父页面继承 */
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Glass Effect - 玻璃拟态效果 */
+.glass {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(248, 250, 252, 0.9) 50%,
+    rgba(241, 245, 249, 0.95) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.faq-section {
+  padding: var(--space-12) 0;
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: var(--space-6);
+}
+
+.faq-item {
+  padding: var(--space-6);
+  border-radius: var(--border-radius-xl);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.faq-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.faq-question {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-3) 0;
+  color: var(--color-primary-700);
+}
+
+.faq-answer {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0;
+}
+
+/* FAQ Section Responsive Design */
+@media (max-width: 768px) {
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-3);
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+
+  .faq-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .faq-item {
+    padding: var(--space-4);
+  }
+
+  .faq-question {
+    font-size: var(--font-size-base);
+  }
+
+  .faq-answer {
+    font-size: var(--font-size-sm);
+  }
+}
+
+@media (max-width: 480px) {
+  .faq-item {
+    padding: var(--space-3);
+  }
+
+  .faq-question {
+    font-size: var(--font-size-sm);
+    margin-bottom: var(--space-2);
+  }
+
+  .faq-answer {
+    font-size: var(--font-size-xs);
+    line-height: var(--line-height-normal);
+  }
+}
+</style>

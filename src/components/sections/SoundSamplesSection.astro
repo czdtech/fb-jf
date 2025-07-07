@@ -1,0 +1,161 @@
+---
+import SoundSample from '@/components/SoundSample.astro';
+
+// TypeScript接口定义
+interface Props {
+  soundSamples: any[];
+}
+
+const { soundSamples } = Astro.props;
+---
+
+<!-- Sound Samples Section -->
+<section class="sound-samples-section scroll-animate">
+  <div class="container">
+    <div class="section-header center-only">
+      <div>
+        <h2 class="section-title">🎵 Sound Samples</h2>
+        <p class="section-description">
+          Explore the diverse sounds of Fiddlebops, each sample crafted to provide rich material for your music creation
+        </p>
+      </div>
+    </div>
+
+    <div class="sound-samples-container">
+      <div class="sound-samples-grid">
+        {soundSamples.map((sample: any) => (
+          <div class="sound-sample-wrapper">
+            <SoundSample sample={sample} />
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ==========================================================================
+   Sound Samples Section - Modern Glass Design
+   ========================================================================== */
+
+.sound-samples-section {
+  padding: var(--space-12) 0;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sound-samples-container {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.98) 0%,
+    rgba(248, 250, 252, 0.95) 50%,
+    rgba(241, 245, 249, 0.98) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: var(--border-radius-lg);
+  padding: var(--space-8);
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.12),
+    0 4px 12px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7),
+    inset 0 0 20px rgba(255, 255, 255, 0.1);
+  position: relative;
+  overflow: hidden;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.sound-samples-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--color-primary-500) 20%,
+    var(--color-primary-600) 50%,
+    var(--color-primary-500) 80%,
+    transparent 100%
+  );
+  opacity: 0.8;
+}
+
+.sound-samples-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: var(--space-8);
+}
+
+.sound-sample-wrapper {
+  /* Static wrapper without animations */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-3);
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+
+  .sound-samples-container {
+    padding: var(--space-6);
+  }
+
+  .sound-samples-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: var(--space-6);
+  }
+}
+
+@media (max-width: 480px) {
+  .sound-samples-container {
+    padding: var(--space-4);
+  }
+
+  .sound-samples-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-4);
+  }
+}
+</style>

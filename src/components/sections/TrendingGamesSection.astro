@@ -1,0 +1,162 @@
+---
+import GameCard from '@/components/GameCard.astro';
+
+
+// TypeScript接口定义
+interface Props {
+  games: {
+    trending: any[];
+  };
+}
+
+const { games } = Astro.props;
+---
+
+<!-- Trending Games -->
+<section class="trending-section scroll-animate">
+  <div class="container">
+    <div class="section-header center-only">
+      <div>
+        <h2 class="section-title">🔥 Trending Games</h2>
+      </div>
+    </div>
+
+    <div class="trending-games-container">
+      <div class="game-grid-container">
+        {games.trending.slice(0, 12).map((game: any) => (
+          <div class="scroll-animate music-element">
+            <GameCard game={game} variant="trending" />
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ==========================================================================
+   Trending Games Section - Modern Glass Design
+   ========================================================================== */
+
+.trending-section {
+  /* 使用页面级背景，只需要设置布局和间距 */
+  padding-top: var(--space-12);
+  padding-bottom: var(--space-12);
+  min-height: auto;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-header .btn {
+  flex-shrink: 0;
+}
+
+/* Trending Games Container - Match hero section width */
+.trending-games-container {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(248, 250, 252, 0.9) 50%,
+    rgba(241, 245, 249, 0.95) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: var(--border-radius-lg);
+  padding: var(--space-4);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  position: relative;
+  overflow: hidden;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.trending-games-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gradient-primary);
+  opacity: 0.7;
+}
+
+.game-grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: var(--space-4);
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+  .game-grid-container {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: var(--space-3);
+  }
+}
+
+@media (max-width: 768px) {
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-3);
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+
+  .game-grid-container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: var(--space-3);
+  }
+
+  .trending-games-container {
+    padding: var(--space-3);
+  }
+}
+
+@media (max-width: 480px) {
+  .trending-games-container {
+    padding: var(--space-3);
+  }
+}
+</style>

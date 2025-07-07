@@ -1,0 +1,335 @@
+---
+// HowToPlaySection 组件不需要 props，所有内容都是静态的
+
+---
+
+<!-- How to Play Section -->
+<section class="how-to-play-section scroll-animate">
+  <div class="container">
+    <div class="section-header center-only">
+      <div>
+        <h2 class="section-title">🎮 How to Play</h2>
+        <p class="section-description">
+          Learn the basics of FiddleBops and start creating amazing music compositions
+        </p>
+      </div>
+    </div>
+
+    <div class="how-to-play-container">
+      <div class="how-to-play-grid">
+        <!-- How to Create -->
+        <div class="how-to-play-card glass scroll-animate">
+          <div class="how-to-play-header">
+            <div class="how-to-play-icon">🎨</div>
+            <h3 class="how-to-play-title">How to Create</h3>
+          </div>
+          <div class="how-to-play-content">
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Drag and drop music elements</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Layer beats and sound effects</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Right-click to remove elements</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sound Categories -->
+        <div class="how-to-play-card glass scroll-animate">
+          <div class="how-to-play-header">
+            <div class="how-to-play-icon">🎵</div>
+            <h3 class="how-to-play-title">Sound Categories</h3>
+          </div>
+          <div class="how-to-play-content">
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Beats</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Effects</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Melodies</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Voices</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="how-to-play-card glass scroll-animate">
+          <div class="how-to-play-header">
+            <div class="how-to-play-icon">🎮</div>
+            <h3 class="how-to-play-title">Controls</h3>
+          </div>
+          <div class="how-to-play-content">
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Use mouse to drag and drop on desktop</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Use touch to drag and drop on mobile devices</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">•</span>
+              <span>Discover special combinations to unlock animations</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ==========================================================================
+   How to Play Section - Modern Glass Design
+   ========================================================================== */
+
+/* Section Header Styles - 从父页面继承 */
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.how-to-play-section {
+  /* 使用页面级背景，只需要设置布局和间距 */
+  padding-top: var(--space-12);
+  padding-bottom: var(--space-12);
+  min-height: auto;
+}
+
+.how-to-play-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.how-to-play-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: var(--space-6);
+}
+
+.how-to-play-card {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(248, 250, 252, 0.9) 50%,
+    rgba(241, 245, 249, 0.95) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: var(--border-radius-lg);
+  padding: var(--space-6);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  transition: all var(--duration-300) var(--ease-rhythm);
+  position: relative;
+  overflow: hidden;
+}
+
+.how-to-play-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--color-primary-500) 20%,
+    var(--color-primary-600) 50%,
+    var(--color-primary-500) 80%,
+    transparent 100%
+  );
+  opacity: 0.8;
+}
+
+.how-to-play-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.how-to-play-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.how-to-play-icon {
+  width: var(--space-12);
+  height: var(--space-12);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  border-radius: var(--border-radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.how-to-play-title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0;
+  color: var(--color-gray-900);
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.how-to-play-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.how-to-play-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-2);
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: var(--border-radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all var(--duration-200) var(--ease-in-out);
+}
+
+.how-to-play-item:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateX(4px);
+}
+
+.how-to-play-bullet {
+  color: var(--color-primary-600);
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-lg);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.how-to-play-item span:last-child {
+  color: var(--color-gray-700);
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-relaxed);
+  font-weight: var(--font-weight-medium);
+}
+
+/* How to Play Responsive Design */
+@media (max-width: 1024px) {
+  .how-to-play-grid {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--space-4);
+  }
+
+  .how-to-play-card {
+    padding: var(--space-5);
+  }
+}
+
+@media (max-width: 768px) {
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-3);
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+
+  .how-to-play-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-4);
+  }
+
+  .how-to-play-card {
+    padding: var(--space-4);
+  }
+
+  .how-to-play-title {
+    font-size: var(--font-size-lg);
+  }
+
+  .how-to-play-icon {
+    width: var(--space-10);
+    height: var(--space-10);
+    font-size: var(--font-size-lg);
+  }
+}
+
+@media (max-width: 480px) {
+  .how-to-play-card {
+    padding: var(--space-3);
+  }
+
+  .how-to-play-header {
+    flex-direction: column;
+    text-align: center;
+    gap: var(--space-2);
+  }
+
+  .how-to-play-item {
+    padding: var(--space-2);
+  }
+
+  .how-to-play-item span:last-child {
+    font-size: var(--font-size-xs);
+  }
+}
+</style>

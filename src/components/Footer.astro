@@ -11,32 +11,32 @@ const { className = '' } = Astro.props;
     <div class="footer-content">
       <div class="footer-section">
         <h3>FiddleBops</h3>
-        <p>创造音乐，传递快乐</p>
-        <p>免费在线音乐创作平台</p>
+        <p>Create Music, Share Joy</p>
+        <p>Free Online Music Creation Platform</p>
       </div>
       
       <div class="footer-section">
-        <h3>快速链接</h3>
+        <h3>Quick Links</h3>
         <ul class="footer-links">
-          <li><a href="/">首页</a></li>
-          <li><a href="/games/">所有游戏</a></li>
-          <li><a href="/about/">关于我们</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/games/">All Games</a></li>
+          <li><a href="/about/">About Us</a></li>
         </ul>
       </div>
       
       <div class="footer-section">
-        <h3>法律信息</h3>
+        <h3>Legal</h3>
         <ul class="footer-links">
-          <li><a href="/privacy/">隐私政策</a></li>
-          <li><a href="/terms-of-service/">服务条款</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/terms-of-service/">Terms of Service</a></li>
         </ul>
       </div>
       
       <div class="footer-section">
-        <h3>联系我们</h3>
-        <p>邮箱: chongzhidatech@gmail.com</p>
+        <h3>Contact Us</h3>
+        <p>Email: chongzhidatech@gmail.com</p>
         <div class="footer-social">
-          <a href="#" class="social-link" aria-label="社交媒体">
+          <a href="#" class="social-link" aria-label="Social Media">
             <i class="fas fa-music"></i>
           </a>
         </div>
@@ -44,7 +44,150 @@ const { className = '' } = Astro.props;
     </div>
     
     <div class="footer-bottom">
-      <p>© 2025 FiddleBops. 版权所有</p>
+      <p>© 2025 FiddleBops. All rights reserved.</p>
     </div>
   </div>
 </footer>
+
+<style>
+/* ==========================================================================
+   Footer 组件样式 - 传统简洁设计
+   ========================================================================== */
+
+.footer {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(248, 250, 252, 0.9) 50%,
+    rgba(241, 245, 249, 0.95) 100%
+  );
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  color: var(--color-gray-700);
+  padding: var(--space-12) 0 var(--space-4);
+  margin-top: var(--space-16);
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--space-4);
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-8);
+  margin-bottom: var(--space-8);
+}
+
+.footer-section h3 {
+  color: var(--color-gray-900);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: var(--space-4);
+}
+
+.footer-section p {
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin-bottom: var(--space-2);
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: var(--space-2);
+}
+
+.footer-links a {
+  color: var(--color-gray-600);
+  text-decoration: none;
+  transition: color var(--duration-300) var(--ease-in-out);
+}
+
+.footer-links a:hover {
+  color: var(--color-primary-400);
+}
+
+.footer-social {
+  display: flex;
+  gap: var(--space-4);
+  margin-top: var(--space-4);
+}
+
+.social-link {
+  width: var(--space-8);
+  height: var(--space-8);
+  background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+  text-decoration: none;
+  transition: all var(--duration-300) var(--ease-in-out);
+  box-shadow: 0 2px 8px rgba(147, 51, 234, 0.3);
+}
+
+.social-link:hover {
+  background-color: var(--color-primary-600);
+  color: var(--color-white);
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: var(--space-8);
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  color: var(--color-gray-500);
+  font-size: var(--font-size-sm);
+}
+
+/* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .footer {
+    padding: var(--space-8) 0 var(--space-4);
+  }
+  
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+    text-align: center;
+  }
+  
+  .footer-social {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer {
+    padding: var(--space-6) 0 var(--space-4);
+  }
+  
+  .footer-content {
+    gap: var(--space-4);
+  }
+  
+  .footer-section h3 {
+    font-size: var(--font-size-base);
+  }
+  
+  .footer-section p {
+    font-size: var(--font-size-sm);
+  }
+  
+  .footer-links a {
+    font-size: var(--font-size-sm);
+  }
+}
+</style>

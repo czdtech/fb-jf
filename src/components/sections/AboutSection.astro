@@ -1,0 +1,342 @@
+---
+// About Section 组件 - 无需额外 props，内容为静态
+---
+
+<!-- About Section -->
+<section class="about scroll-animate" id="about">
+  <div class="container">
+    <div class="section-header center-only">
+      <div>
+        <h2 class="section-title">📖 About Fiddlebops Incredibox</h2>
+        <p class="section-description">
+          Discover the world of Fiddlebops - a creative music-making experience that brings joy through interactive sound creation
+        </p>
+      </div>
+    </div>
+
+    <div class="about-container">
+      <div class="about-content glass scroll-animate">
+        <h3 class="about-section-title">🎮 I. Fiddlebops Basic Information & Gameplay</h3>
+
+        <div class="about-info-grid">
+          <div class="about-info-item">
+            <span class="about-label">Game Name:</span>
+            <span class="about-value">Fiddlebops</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Genre/Tags:</span>
+            <span class="about-value">Music Creation, Rhythm, Experimental, Educational, Family Friendly, Casual, Singleplayer, Creative</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Platforms:</span>
+            <span class="about-value">Web (Browser)</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Release Date:</span>
+            <span class="about-value">Approx. November 7, 2024</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Price/Access:</span>
+            <span class="about-value">Free</span>
+          </div>
+        </div>
+
+        <div class="about-divider"></div>
+
+        <h4 class="about-subsection-title">🎵 1. Creation Mechanics</h4>
+        <div class="about-features">
+          <div class="about-feature-item">
+            <h5>🎯 Core Mechanic</h5>
+            <p>Select cute Fiddlebops characters, each representing a unique instrument sound or musical element. Combine sounds by dragging and dropping characters onto performance spots or a timeline.</p>
+          </div>
+          <div class="about-feature-item">
+            <h5>🎼 Sound Combination</h5>
+            <p>Combine multiple Fiddlebops for multi-layered music. Different combinations yield varied musical textures.</p>
+          </div>
+          <div class="about-feature-item">
+            <h5>⏱️ Rhythm & Timing</h5>
+            <p>Likely uses a grid-based placement or simple timeline for controlling sound timing and rhythm.</p>
+          </div>
+          <div class="about-feature-item">
+            <h5>🔄 Looping & Repetition</h5>
+            <p>May include mechanisms for looping sounds to create repeating musical phrases.</p>
+          </div>
+          <div class="about-feature-item">
+            <h5>🎨 Exploration & Experimentation</h5>
+            <p>Encourages free exploration of sound combinations, emphasizing creative fun.</p>
+          </div>
+        </div>
+
+        <div class="about-divider"></div>
+
+        <h3 class="about-section-title">🛠️ II. Fiddlebops Modding & Community Content</h3>
+        <h4 class="about-subsection-title">🌟 1. Overview of Popular Game Mods</h4>
+        <div class="about-mods-grid">
+          <a href="/fiddlebops-but-sprunki/" class="about-mod-item">
+            <span class="about-mod-icon">🎮</span>
+            <span class="about-mod-name">Fiddlebops but Sprunki</span>
+          </a>
+          <a href="/fiddlebops-fix/" class="about-mod-item">
+            <span class="about-mod-icon">🔧</span>
+            <span class="about-mod-name">Fiddlebops Fix</span>
+          </a>
+          <a href="/fiddlebops-polos/" class="about-mod-item">
+            <span class="about-mod-icon">🎵</span>
+            <span class="about-mod-name">Fiddlebops Polos</span>
+          </a>
+          <a href="/fiddlebops-but-dandys-world/" class="about-mod-item">
+            <span class="about-mod-icon">🌍</span>
+            <span class="about-mod-name">Fiddlebops But Dandy's World</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* ==========================================================================
+   About Section - Modern Glass Design
+   ========================================================================== */
+
+.about {
+  padding-top: var(--space-12);
+  padding-bottom: var(--space-12);
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-8);
+  text-align: center;
+}
+
+.section-header.center-only {
+  justify-content: center;
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-4) 0;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-description {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+  margin: 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.about-content {
+  padding: var(--space-8);
+  border-radius: var(--border-radius-lg);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.about-content:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-xl);
+}
+
+.about-section-title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-6) 0;
+  color: var(--color-primary-700);
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.about-subsection-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin: var(--space-6) 0 var(--space-4) 0;
+  color: var(--color-gray-800);
+}
+
+.about-info-grid {
+  display: grid;
+  gap: var(--space-4);
+  margin-bottom: var(--space-6);
+}
+
+.about-info-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: var(--border-radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all var(--duration-200) var(--ease-in-out);
+}
+
+.about-info-item:hover {
+  background: rgba(255, 255, 255, 0.7);
+  transform: translateX(4px);
+}
+
+.about-label {
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-primary-600);
+  font-size: var(--font-size-sm);
+}
+
+.about-value {
+  color: var(--color-gray-700);
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-relaxed);
+}
+
+.about-divider {
+  height: 2px;
+  background: var(--gradient-primary);
+  border-radius: var(--border-radius-full);
+  margin: var(--space-8) 0;
+  opacity: 0.3;
+}
+
+.about-features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-4);
+  margin-bottom: var(--space-6);
+}
+
+.about-feature-item {
+  padding: var(--space-4);
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: var(--border-radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.about-feature-item:hover {
+  background: rgba(255, 255, 255, 0.6);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.about-feature-item h5 {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-2) 0;
+  color: var(--color-primary-600);
+}
+
+.about-feature-item p {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0;
+}
+
+.about-mods-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-4);
+}
+
+.about-mod-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-4);
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: var(--border-radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  text-decoration: none;
+  transition: all var(--duration-300) var(--ease-rhythm);
+}
+
+.about-mod-item:hover {
+  background: rgba(255, 255, 255, 0.7);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-primary-200);
+}
+
+.about-mod-icon {
+  font-size: var(--font-size-xl);
+  flex-shrink: 0;
+}
+
+.about-mod-name {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-gray-700);
+}
+
+.about-mod-item:hover .about-mod-name {
+  color: var(--color-primary-600);
+}
+
+/* About Section Responsive Design */
+@media (max-width: 768px) {
+  .section-header {
+    flex-direction: column;
+    gap: var(--space-3);
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+
+  .section-title {
+    font-size: var(--font-size-2xl) !important;
+  }
+
+  .about-content {
+    padding: var(--space-6);
+  }
+
+  .about-section-title {
+    font-size: var(--font-size-xl);
+  }
+
+  .about-subsection-title {
+    font-size: var(--font-size-base);
+  }
+
+  .about-info-item {
+    grid-template-columns: 1fr;
+    gap: var(--space-1);
+  }
+
+  .about-features {
+    grid-template-columns: 1fr;
+  }
+
+  .about-mods-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .about-content {
+    padding: var(--space-4);
+  }
+
+  .about-mods-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-mod-item {
+    padding: var(--space-3);
+  }
+}
+</style>
