@@ -20,7 +20,7 @@ import CommentsSection from '@/components/sections/CommentsSection.astro'
 // 导入数据
 import extractedData from '@/data/extracted-data.json'
 
-const { navigation, homepage, games, seoTemplates } = extractedData
+const { navigation, homepage, games } = extractedData
 
 // 多语言配置
 const hreflangLinks = navigation.languages.map((lang: any) => ({
@@ -82,6 +82,155 @@ const structuredData = {
 <!-- 引入交互系统 -->
 <script>
   import '@/scripts/interactions.js'
+</script>
+
+<!-- 音频播放器脚本 -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('Initializing audio player...');
+
+    let currentAudio: HTMLAudioElement | null = null;
+    let currentCard: HTMLElement | null = null;
+
+    // 找到所有音频卡片
+    const cards = document.querySelectorAll('.sound-sample-card');
+    console.log(`Found ${cards.length} sound sample cards`);
+
+    cards.forEach((card, index) => {
+      const audioId = card.dataset.sampleId;
+      const audio = document.getElementById(audioId) as HTMLAudioElement;
+      const playBtn = card.querySelector('.play-btn') as HTMLElement;
+
+      console.log(`Card ${index}: audioId=${audioId}, audio=${!!audio}, button=${!!playBtn}`);
+
+      if (audio && playBtn) {
+        // 设置播放按钮点击事件
+        playBtn.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          console.log('Play button clicked:', audioId);
+
+          // 如果当前有其他音频在播放，先停止
+          if (currentAudio && currentAudio !== audio) {
+            currentAudio.pause();
+            currentAudio.currentTime = 0;
+            if (currentCard) {
+              currentCard.classList.remove('playing');
+              const currentBtn = currentCard.querySelector('.play-btn') as HTMLElement;
+              if (currentBtn) currentBtn.classList.remove('playing');
+            }
+          }
+
+          if (audio.paused) {
+            // 播放音频
+            console.log('Starting audio playback...');
+
+            // 显示加载状态
+            playBtn.classList.add('loading');
+            card.classList.add('loading');
+
+            audio.play().then(() => {
+              console.log('Audio started successfully');
+              playBtn.classList.remove('loading');
+              card.classList.remove('loading');
+              playBtn.classList.add('playing');
+              card.classList.add('playing');
+
+              currentAudio = audio;
+              currentCard = card as HTMLElement;
+
+              // 创建音符动画
+              createMusicNotes(playBtn);
+            }).catch((error: Error) => {
+              console.error('Audio play error:', error);
+              playBtn.classList.remove('loading');
+              card.classList.remove('loading');
+              alert('音频播放失败：' + error.message);
+            });
+          } else {
+            // 暂停音频
+            console.log('Pausing audio...');
+            audio.pause();
+            playBtn.classList.remove('playing');
+            card.classList.remove('playing');
+            currentAudio = null;
+            currentCard = null;
+          }
+        });
+
+        // 音频结束事件
+        audio.addEventListener('ended', function() {
+          console.log('Audio ended');
+          playBtn.classList.remove('playing');
+          card.classList.remove('playing');
+          currentAudio = null;
+          currentCard = null;
+        });
+
+        // 音频错误事件
+        audio.addEventListener('error', function(e: Event) {
+          console.error('Audio error:', e);
+          playBtn.classList.remove('loading', 'playing');
+          card.classList.remove('loading', 'playing');
+        });
+      }
+    });
+
+    // 创建音符动画函数
+    function createMusicNotes(button: HTMLElement) {
+      const rect = button.getBoundingClientRect();
+      const centerX = rect.left + rect.width / 2;
+      const centerY = rect.top + rect.height / 2;
+
+      const notes = ['♪', '♫', '♬', '♩'];
+      const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899'];
+
+      for (let i = 0; i < 3; i++) {
+        setTimeout(() => {
+          const note = document.createElement('div');
+          const randomNote = notes[Math.floor(Math.random() * notes.length)];
+          const randomColor = colors[Math.floor(Math.random() * colors.length)];
+
+          note.textContent = randomNote;
+          note.style.cssText = `
+            position: fixed;
+            left: ${centerX + (Math.random() - 0.5) * 40}px;
+            top: ${centerY + (Math.random() - 0.5) * 40}px;
+            color: ${randomColor};
+            font-size: ${Math.random() * 8 + 16}px;
+            font-weight: bold;
+            pointer-events: none;
+            z-index: 9999;
+            user-select: none;
+            transform: translate(-50%, -50%);
+          `;
+
+          document.body.appendChild(note);
+
+          // 动画
+          const animation = note.animate([
+            {
+              opacity: 1,
+              transform: 'translate(-50%, -50%) scale(1)',
+            },
+            {
+              opacity: 0,
+              transform: 'translate(-50%, -200%) scale(0.8)',
+            }
+          ], {
+            duration: 2000,
+            easing: 'ease-out'
+          });
+
+          animation.onfinish = () => {
+            if (document.body.contains(note)) {
+              document.body.removeChild(note);
+            }
+          };
+        }, i * 200);
+      }
+    }
+  });
 </script>
 
 <!-- 音符点击动画 -->

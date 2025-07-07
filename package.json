@@ -13,10 +13,11 @@
     "backup-pages": "cp -r src/pages src/pages-backup-$(date +%Y%m%d%H%M%S)"
   },
   "dependencies": {
-    "astro": "^5.1.8"
+    "astro": "^5.11.0",
+    "tslib": "^2.8.1"
   },
   "devDependencies": {
-    "@stagewise/toolbar": "^0.4.9",
-    "@types/node": "^20.0.0"
+    "@stagewise/toolbar": "^0.5.0",
+    "@types/node": "^24.0.10"
   }
 }

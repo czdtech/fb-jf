@@ -60,6 +60,7 @@ export interface SoundSample {
   title: string;
   image: string;
   audio: string;
+  category: string;
 }
 
 // 首页数据类型

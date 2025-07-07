@@ -9,7 +9,7 @@
       <div>
         <h2 class="section-title">❓ Frequently Asked Questions</h2>
         <p class="section-description">
-          Common questions about Fiddlebops Incredibox answered for you
+          Get answers about FiddleBops gameplay, character mechanics, browser compatibility, music creation tips, and how to unlock all 25 characters including the 5 special bonus ones
         </p>
       </div>
     </div>
@@ -67,16 +67,15 @@
 
 /* Section Header Styles - 从父页面继承 */
 .section-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: var(--space-8);
   text-align: center;
+  max-width: 900px;
+  margin: 0 auto var(--space-8) auto;
 }
 
 .section-header.center-only {
-  justify-content: center;
   text-align: center;
+  max-width: 900px;
+  margin: 0 auto var(--space-8) auto;
 }
 
 .section-title {
@@ -90,12 +89,16 @@
 }
 
 .section-description {
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-relaxed);
   color: var(--color-gray-600);
-  margin: 0;
-  max-width: 600px;
+  margin: 0 0 var(--space-8) 0;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
+  white-space: pre-line;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 /* Glass Effect - 玻璃拟态效果 */
@@ -153,14 +156,19 @@
 /* FAQ Section Responsive Design */
 @media (max-width: 768px) {
   .section-header {
-    flex-direction: column;
-    gap: var(--space-3);
-    text-align: center;
     margin-bottom: var(--space-6);
   }
 
   .section-title {
     font-size: var(--font-size-2xl) !important;
+  }
+
+  .section-description {
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--space-6);
+    max-width: 100%;
+    line-height: 1.5;
+    text-align: left;
   }
 
   .faq-grid {
@@ -193,6 +201,13 @@
   .faq-answer {
     font-size: var(--font-size-xs);
     line-height: var(--line-height-normal);
+  }
+
+  .section-description {
+    font-size: var(--font-size-base);
+    line-height: 1.4;
+    letter-spacing: 0.01em;
+    text-align: center;
   }
 }
 </style>

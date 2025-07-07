@@ -16,7 +16,7 @@ const { soundSamples } = Astro.props;
       <div>
         <h2 class="section-title">🎵 Sound Samples</h2>
         <p class="section-description">
-          Explore the diverse sounds of Fiddlebops, each sample crafted to provide rich material for your music creation
+          Listen to authentic FiddleBops character sounds: Beats from Garrett and Mr. Moon, Effects from Cyborg Throat Singing, Melodies from Blues Clues Radio 2011, and Vocals from Mike Ehrmantraut
         </p>
       </div>
     </div>
@@ -43,16 +43,15 @@ const { soundSamples } = Astro.props;
 }
 
 .section-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: var(--space-8);
   text-align: center;
+  max-width: 900px;
+  margin: 0 auto var(--space-8) auto;
 }
 
 .section-header.center-only {
-  justify-content: center;
   text-align: center;
+  max-width: 900px;
+  margin: 0 auto var(--space-8) auto;
 }
 
 .section-title {
@@ -66,12 +65,16 @@ const { soundSamples } = Astro.props;
 }
 
 .section-description {
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-relaxed);
   color: var(--color-gray-600);
-  margin: 0;
-  max-width: 600px;
+  margin: 0 0 var(--space-8) 0;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
+  white-space: pre-line;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 .sound-samples-container {
@@ -93,7 +96,6 @@ const { soundSamples } = Astro.props;
     inset 0 0 20px rgba(255, 255, 255, 0.1);
   position: relative;
   overflow: hidden;
-  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -117,20 +119,60 @@ const { soundSamples } = Astro.props;
 
 .sound-samples-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: var(--space-8);
+  grid-template-columns: repeat(5, 1fr);
+  gap: 32px;
+  margin: 0 auto;
 }
 
 .sound-sample-wrapper {
-  /* Static wrapper without animations */
+  display: flex;
+  min-height: 280px;
+}
+
+.sound-sample-wrapper > * {
+  width: 100%;
+}
+
+/* Category-specific styling for visual organization */
+.sound-samples-grid .sound-sample-wrapper:nth-child(1),
+.sound-samples-grid .sound-sample-wrapper:nth-child(2),
+.sound-samples-grid .sound-sample-wrapper:nth-child(3),
+.sound-samples-grid .sound-sample-wrapper:nth-child(4),
+.sound-samples-grid .sound-sample-wrapper:nth-child(5) {
+  /* Beats row */
+}
+
+.sound-samples-grid .sound-sample-wrapper:nth-child(6),
+.sound-samples-grid .sound-sample-wrapper:nth-child(7),
+.sound-samples-grid .sound-sample-wrapper:nth-child(8),
+.sound-samples-grid .sound-sample-wrapper:nth-child(9),
+.sound-samples-grid .sound-sample-wrapper:nth-child(10) {
+  /* Effects row */
+}
+
+/* Add subtle category separators */
+.sound-samples-grid .sound-sample-wrapper:nth-child(5n+1)::before {
+  content: attr(data-category);
+  position: absolute;
+  top: -40px;
+  left: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-gray-600);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 /* Responsive Design */
+@media (max-width: 1200px) {
+  .sound-samples-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+}
+
 @media (max-width: 768px) {
   .section-header {
-    flex-direction: column;
-    gap: var(--space-3);
-    text-align: center;
     margin-bottom: var(--space-6);
   }
 
@@ -138,13 +180,36 @@ const { soundSamples } = Astro.props;
     font-size: var(--font-size-2xl) !important;
   }
 
+  .section-description {
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--space-6);
+    max-width: 100%;
+    line-height: 1.5;
+    text-align: left;
+  }
+
   .sound-samples-container {
     padding: var(--space-6);
   }
 
   .sound-samples-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: var(--space-6);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .sound-sample-wrapper {
+    min-height: 250px;
+  }
+}
+
+@media (max-width: 600px) {
+  .sound-samples-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  
+  .sound-sample-wrapper {
+    min-height: 220px;
   }
 }
 
@@ -155,7 +220,18 @@ const { soundSamples } = Astro.props;
 
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-4);
+    gap: 12px;
+  }
+  
+  .sound-sample-wrapper {
+    min-height: 200px;
+  }
+
+  .section-description {
+    font-size: var(--font-size-base);
+    line-height: 1.4;
+    letter-spacing: 0.01em;
+    text-align: center;
   }
 }
 </style>

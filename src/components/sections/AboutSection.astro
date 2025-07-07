@@ -1,5 +1,7 @@
 ---
-// About Section 组件 - 无需额外 props，内容为静态
+// TypeScript接口定义
+interface Props {
+}
 ---
 
 <!-- About Section -->
@@ -7,10 +9,9 @@
   <div class="container">
     <div class="section-header center-only">
       <div>
-        <h2 class="section-title">📖 About Fiddlebops Incredibox</h2>
+        <h2 class="section-title">📖 About FiddleBops Incredibox</h2>
         <p class="section-description">
-          Discover the world of Fiddlebops - a creative music-making experience
-          that brings joy through interactive sound creation
+          Released November 7, 2024, this comedy-focused Incredibox mod features 25 absurd characters including Garrett, Mr. Moon, and Skibidi Biden, creating chaotic music at an energetic 206 BPM
         </p>
       </div>
     </div>
@@ -18,76 +19,118 @@
     <div class="about-container">
       <div class="about-content glass scroll-animate">
         <h3 class="about-section-title">
-          🎮 I. Fiddlebops Basic Information & Gameplay
+          🎮 I. FiddleBops Game Information
         </h3>
 
         <div class="about-info-grid">
           <div class="about-info-item">
-            <span class="about-label">Game Name:</span>
-            <span class="about-value">Fiddlebops</span>
-          </div>
-          <div class="about-info-item">
-            <span class="about-label">Genre/Tags:</span>
-            <span class="about-value"
-              >Music Creation, Rhythm, Experimental, Educational, Family
-              Friendly, Casual, Singleplayer, Creative</span
-            >
-          </div>
-          <div class="about-info-item">
-            <span class="about-label">Platforms:</span>
-            <span class="about-value">Web (Browser)</span>
+            <span class="about-label">Official Name:</span>
+            <span class="about-value">FiddleBops (Fanon Incredibox Mod)</span>
           </div>
           <div class="about-info-item">
             <span class="about-label">Release Date:</span>
-            <span class="about-value">Approx. November 7, 2024</span>
+            <span class="about-value">November 7th, 2024</span>
           </div>
           <div class="about-info-item">
-            <span class="about-label">Price/Access:</span>
-            <span class="about-value">Free</span>
+            <span class="about-label">BPM:</span>
+            <span class="about-value">206 BPM (103 in half-time)</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Character Count:</span>
+            <span class="about-value">25 Characters (20 Main + 5 Bonuses)</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Mod Type:</span>
+            <span class="about-value">"Joke" Mod with Absurd Characters</span>
+          </div>
+          <div class="about-info-item">
+            <span class="about-label">Creators:</span>
+            <span class="about-value">Kautaruma, SkyFactorial, BezieAnims, Maddie (Jukebox), RubysArt_, Shackle, radio_cative, personaladventure</span>
           </div>
         </div>
 
         <div class="about-divider"></div>
 
-        <h4 class="about-subsection-title">🎵 1. Creation Mechanics</h4>
+        <h4 class="about-subsection-title">🎭 II. Character Categories</h4>
         <div class="about-features">
           <div class="about-feature-item">
-            <h5>🎯 Core Mechanic</h5>
+            <h5>🥁 Beats (5 Characters)</h5>
             <p>
-              Select cute Fiddlebops characters, each representing a unique
-              instrument sound or musical element. Combine sounds by dragging
-              and dropping characters onto performance spots or a timeline.
+              <strong>This Is Garrett</strong> - Slaps his belly for kick drums and opens mouth for snares<br>
+              <strong>Green Drum Machine</strong> - Christmas snowwoman with bongo drums<br>
+              <strong>Mr. Moon</strong> - Apple "Full Moon Face" emoji with 3D animation<br>
+              <strong>Snaire</strong> & <strong>Combi</strong> - Additional rhythmic elements
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎼 Sound Combination</h5>
+            <h5>🌟 Effects (5 Characters)</h5>
             <p>
-              Combine multiple Fiddlebops for multi-layered music. Different
-              combinations yield varied musical textures.
+              <strong>YTPMV Elf</strong>, <strong>Cyborg Throat Singing</strong>, <strong>Lil' Purp</strong>,<br>
+              <strong>Braylen B. Bothamious I</strong>, <strong>Tina The Beepboxer</strong><br>
+              Each provides unique sound effects and atmospheric elements
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>⏱️ Rhythm & Timing</h5>
+            <h5>🎹 Melodies (5 Characters)</h5>
             <p>
-              Likely uses a grid-based placement or simple timeline for
-              controlling sound timing and rhythm.
+              <strong>Blues Clues Radio 2011</strong>, <strong>Marcello</strong>, <strong>Eucerin</strong>,<br>
+              <strong>Uncanny Melody</strong>, <strong>Keisha</strong><br>
+              Create the main melodic lines and musical themes
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🔄 Looping & Repetition</h5>
+            <h5>🎤 Voices (5 Characters)</h5>
             <p>
-              May include mechanisms for looping sounds to create repeating
-              musical phrases.
+              <strong>Skibidi Biden</strong>, <strong>Sporbb The Animator</strong>,<br>
+              <strong>Tronic the Chipmunk</strong>, <strong>Mike Ehrmantraut</strong>,<br>
+              <strong>Blue Vest Munchie</strong> - Vocal elements and character expressions
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎨 Exploration & Experimentation</h5>
+            <h5>🎆 Bonus Characters (5 Special)</h5>
             <p>
-              Encourages free exploration of sound combinations, emphasizing
-              creative fun.
+              <strong>Words With Friends Tile</strong>, <strong>Fred Figglehorn</strong>,<br>
+              <strong>Scrub Daddy GF</strong>, <strong>Jummbox</strong>, <strong>Boykixxer</strong><br>
+              Unlockable through special combinations and secret methods
             </p>
           </div>
         </div>
+
+        <div class="about-divider"></div>
+
+        <h4 class="about-subsection-title">🎨 III. Game Features & Design</h4>
+        <div class="about-features">
+          <div class="about-feature-item">
+            <h5>😂 Comedy-Focused Design</h5>
+            <p>
+              Intentionally absurd character names and designs create a humorous experience.
+              Characters like "Skibidi Biden" and "Scrub Daddy GF" exemplify the mod's comedic approach.
+            </p>
+          </div>
+          <div class="about-feature-item">
+            <h5>🎵 High-Energy Music</h5>
+            <p>
+              206 BPM creates fast-paced, energetic compositions. The tempo encourages
+              dynamic and lively musical creations unlike traditional Incredibox versions.
+            </p>
+          </div>
+          <div class="about-feature-item">
+            <h5>🎪 Special Animations</h5>
+            <p>
+              Characters feature unique animations: Garrett's belly slapping, Green Drum Machine's
+              leg dangling, Mr. Moon's 3D transformations bring personalities to life.
+            </p>
+          </div>
+          <div class="about-feature-item">
+            <h5>🔒 Anti-Piracy Protection</h5>
+            <p>
+              The mod includes special anti-piracy measures to protect the creators' work
+              and ensure proper distribution through authorized channels.
+            </p>
+          </div>
+        </div>
+
+        
       </div>
     </div>
   </div>
@@ -104,16 +147,15 @@
   }
 
   .section-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: var(--space-8);
     text-align: center;
+    max-width: 900px;
+    margin: 0 auto var(--space-8) auto;
   }
 
   .section-header.center-only {
-    justify-content: center;
     text-align: center;
+    max-width: 900px;
+    margin: 0 auto var(--space-8) auto;
   }
 
   .section-title {
@@ -127,16 +169,19 @@
   }
 
   .section-description {
-    font-size: var(--font-size-lg);
+    font-size: var(--font-size-xl);
+    line-height: var(--line-height-relaxed);
     color: var(--color-gray-600);
-    margin: 0;
-    max-width: 600px;
+    margin: 0 0 var(--space-8) 0;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
+    white-space: pre-line;
+    word-break: break-word;
+    hyphens: auto;
   }
 
   .about-container {
-    max-width: 1200px;
     margin: 0 auto;
   }
 
@@ -246,17 +291,23 @@
     margin: 0;
   }
 
+
   /* About Section Responsive Design */
   @media (max-width: 768px) {
     .section-header {
-      flex-direction: column;
-      gap: var(--space-3);
-      text-align: center;
       margin-bottom: var(--space-6);
     }
 
     .section-title {
       font-size: var(--font-size-2xl) !important;
+    }
+
+    .section-description {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-6);
+      max-width: 100%;
+      line-height: 1.5;
+      text-align: left;
     }
 
     .about-content {
@@ -284,6 +335,13 @@
   @media (max-width: 480px) {
     .about-content {
       padding: var(--space-4);
+    }
+
+    .section-description {
+      font-size: var(--font-size-base);
+      line-height: 1.4;
+      letter-spacing: 0.01em;
+      text-align: center;
     }
   }
 </style>
