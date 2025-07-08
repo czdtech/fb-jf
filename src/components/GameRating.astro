@@ -1,33 +1,264 @@
 ---
-import type { GameRating } from '@/types';
-
-export interface Props {
-  rating: GameRating;
+interface Props {
+  rating?: {
+    score: number
+    maxScore: number
+    votes: number
+    stars: number
+  }
+  variant?: 'default' | 'detailed' | 'compact'
 }
 
-const { rating } = Astro.props;
+const { rating, variant = 'default' } = Astro.props
 
-// 生成星级评分
-const fullStars = Math.floor(rating.score);
-const hasHalfStar = rating.score % 1 !== 0;
-const emptyStars = rating.maxScore - fullStars - (hasHalfStar ? 1 : 0);
+// 如果没有评分数据，不显示组件
+if (!rating) return null
+
+// 计算星星显示
+const fullStars = Math.floor(rating.score)
+const hasHalfStar = rating.score % 1 >= 0.5
+const emptyStars = rating.maxScore - fullStars - (hasHalfStar ? 1 : 0)
 ---
 
-<div class="stars">
-  <!-- 满星 -->
-  {Array.from({ length: fullStars }, (_, i) => (
-    <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223;" class="svelte-bpq1qa">
-      <path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path>
-    </svg>
-  ))}
-  
-  <!-- 空星 -->
-  {Array.from({ length: emptyStars }, (_, i) => (
-    <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa">
-      <path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path>
-    </svg>
-  ))}
-  
-  <!-- 评分文本 -->
-  {rating.score}/{rating.maxScore} ({rating.votes} votes)
-</div>
+{rating && (
+  <div class={`game-rating game-rating--${variant}`}>
+    {variant === 'detailed' && (
+      <div class="rating-header">
+        <h4 class="rating-title">Player Rating</h4>
+      </div>
+    )}
+
+    <div class="rating-content">
+      <div class="rating-stars">
+        <!-- 满星 -->
+        {Array.from({ length: fullStars }, (_, i) => (
+          <span class="rating-star rating-star--filled">
+            <i class="fas fa-star"></i>
+          </span>
+        ))}
+
+        <!-- 半星 -->
+        {hasHalfStar && (
+          <span class="rating-star rating-star--half">
+            <i class="fas fa-star-half-alt"></i>
+          </span>
+        )}
+
+        <!-- 空星 -->
+        {Array.from({ length: emptyStars }, (_, i) => (
+          <span class="rating-star rating-star--empty">
+            <i class="far fa-star"></i>
+          </span>
+        ))}
+      </div>
+
+      <div class="rating-info">
+        <span class="rating-score">
+          {rating.score.toFixed(1)}/{rating.maxScore}
+        </span>
+        {variant !== 'compact' && (
+          <span class="rating-votes">
+            ({rating.votes.toLocaleString()} {rating.votes === 1 ? 'review' : 'reviews'})
+          </span>
+        )}
+      </div>
+    </div>
+
+    {variant === 'detailed' && (
+      <div class="rating-breakdown">
+                          <div class="rating-bar-container">
+           {Array.from({ length: rating.maxScore }, (_, i) => (
+             <div class="rating-bar-item">
+               <span class="rating-bar-label">{rating.maxScore - i}</span>
+               <div class="rating-bar">
+                 <div
+                   class="rating-bar-fill"
+                   style={`width: ${(rating.maxScore - i) <= rating.stars ? 80 : 20}%`}
+                 ></div>
+               </div>
+               <span class="rating-bar-percentage">{(rating.maxScore - i) <= rating.stars ? 80 : 20}%</span>
+             </div>
+           ))}
+        </div>
+      </div>
+    )}
+  </div>
+)}
+
+<style>
+  /* ==========================================================================
+   Game Rating Component
+   ========================================================================== */
+
+  .game-rating {
+    font-family: var(--font-family-sans);
+  }
+
+  /* Default variant */
+  .game-rating--default {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+  }
+
+  /* Compact variant */
+  .game-rating--compact {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--font-size-sm);
+  }
+
+  /* Detailed variant */
+  .game-rating--detailed {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-6);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .rating-header {
+    margin-bottom: var(--space-4);
+  }
+
+  .rating-title {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin: 0;
+  }
+
+  .rating-content {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+
+  .game-rating--compact .rating-content {
+    gap: var(--space-2);
+    margin-bottom: 0;
+  }
+
+  /* Stars */
+  .rating-stars {
+    display: flex;
+    gap: var(--space-1);
+  }
+
+  .rating-star {
+    transition: all var(--duration-200) var(--ease-in-out);
+  }
+
+  .rating-star--filled {
+    color: #fbbf24;
+  }
+
+  .rating-star--half {
+    color: #fbbf24;
+  }
+
+  .rating-star--empty {
+    color: var(--color-gray-300);
+  }
+
+  .game-rating--compact .rating-star {
+    font-size: var(--font-size-sm);
+  }
+
+  /* Rating info */
+  .rating-info {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  .rating-score {
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+  }
+
+  .rating-votes {
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-500);
+  }
+
+  /* Rating breakdown (for detailed variant) */
+  .rating-breakdown {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: var(--space-4);
+  }
+
+  .rating-bar-container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .rating-bar-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    font-size: var(--font-size-sm);
+  }
+
+  .rating-bar-label {
+    font-weight: var(--font-weight-medium);
+    color: var(--color-gray-700);
+    min-width: 20px;
+  }
+
+  .rating-bar {
+    flex: 1;
+    height: 8px;
+    background: var(--color-gray-200);
+    border-radius: var(--border-radius-full);
+    overflow: hidden;
+  }
+
+  .rating-bar-fill {
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
+    transition: width var(--duration-300) var(--ease-in-out);
+  }
+
+  .rating-bar-percentage {
+    color: var(--color-gray-600);
+    min-width: 35px;
+    text-align: right;
+  }
+
+  /* Hover effects */
+  .game-rating--detailed:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  }
+
+  .rating-star:hover {
+    transform: scale(1.1);
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .game-rating--detailed {
+      padding: var(--space-4);
+    }
+
+    .rating-content {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: var(--space-2);
+    }
+
+    .game-rating--default .rating-content,
+    .game-rating--compact .rating-content {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+</style>

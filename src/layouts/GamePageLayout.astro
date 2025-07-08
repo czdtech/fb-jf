@@ -1,63 +1,127 @@
 ---
-import BaseLayout from './BaseLayout.astro';
-import Header from '@/components/Header.astro';
-import Footer from '@/components/Footer.astro';
-import GameCard from '@/components/GameCard.astro';
-import GameIframe from '@/components/GameIframe.astro';
+import BaseLayout from './BaseLayout.astro'
+import Header from '@/components/Header.astro'
+import Footer from '@/components/Footer.astro'
+import GameRating from '@/components/GameRating.astro'
+
+// 导入新的游戏页面Section组件
+import GameHeroSection from '@/components/sections/GameHeroSection.astro'
+import GameMainSection from '@/components/sections/GameMainSection.astro'
+import GameFeaturesSection from '@/components/sections/GameFeaturesSection.astro'
+import GameHowToPlaySection from '@/components/sections/GameHowToPlaySection.astro'
+import GameRelatedSection from '@/components/sections/GameRelatedSection.astro'
 
 // 导入数据
-import extractedData from '@/data/extracted-data.json';
+import extractedData from '@/data/extracted-data.json'
 
-const { navigation, games } = extractedData;
+const { navigation, games } = extractedData
 
 export interface Props {
   meta: {
-    title: string;
-    description: string;
-    keywords?: string;
-    canonical: string;
-    ogImage: string;
-  };
+    title: string
+    description: string
+    keywords?: string
+    canonical: string
+    ogImage: string
+  }
   gameData: {
-    title: string;
-    description: string;
-    iframe: string;
-    backgroundImage: string;
+    id: string
+    slug: string
+    title: string
+    description: string
+    iframe: string
+    backgroundImage: string
+    category: string
     rating?: {
-      score: number;
-      votes: number;
-    };
-    features?: string[];
-    howToPlay?: string[];
-  };
-  aboutContent?: string;
+      score: number
+      maxScore: number
+      votes: number
+      stars: number
+    }
+    features?: string[]
+    howToPlay?: string[]
+  }
+  gameContent?: any
+  breadcrumb?: {
+    home: string
+    current: string
+  }
+  pageType?: string
+  isDemo?: boolean
+  schemaData?: any
 }
 
-const { meta, gameData, aboutContent } = Astro.props;
+const {
+  meta,
+  gameData,
+  gameContent,
+  breadcrumb,
+  pageType,
+  isDemo,
+  schemaData,
+} = Astro.props
 
 // 多语言配置
 const hreflangLinks = navigation.languages.map(lang => ({
   code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: meta.canonical.replace('https://www.playfiddlebops.com', '') + (lang.code !== 'en' ? lang.url.replace('/', '') + '/' : '')
-}));
+  url:
+    meta.canonical.replace('https://www.playfiddlebops.com', '') +
+    (lang.code !== 'en' ? lang.url.replace('/', '') + '/' : ''),
+  label: lang.label,
+}))
 
-// 结构化数据
-const structuredData = {
-  "@context": "https://schema.org",
-  "@type": "Game",
-  "name": gameData.title,
-  "alternateName": "playfiddlebops.com",
-  "url": meta.canonical,
-  "description": meta.description
-};
+// 增强的结构化数据，使用来自games-extended.json的schema数据
+const structuredData = schemaData
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'Game',
+      ...schemaData,
+      // 添加评分信息到结构化数据
+      ...(gameData.rating && {
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: gameData.rating.score,
+          bestRating: gameData.rating.maxScore,
+          ratingCount: gameData.rating.votes,
+        },
+      }),
+    }
+  : {
+      '@context': 'https://schema.org',
+      '@type': 'Game',
+      name: gameData.title,
+      alternateName: 'playfiddlebops.com',
+      url: meta.canonical,
+      description: meta.description,
+      ...(gameData.rating && {
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: gameData.rating.score,
+          bestRating: gameData.rating.maxScore,
+          ratingCount: gameData.rating.votes,
+        },
+      }),
+    }
+
+// 从URL中提取当前游戏的slug
+const currentGameSlug = gameData.slug
+
+// 提取特色内容 - 增强支持，支持多种数据结构
+const featuresContent = gameContent?.features
+const otherContent = gameContent?.other
+const introductionContent = gameContent?.introduction
+const gameplayContent = gameContent?.gameplay
+
+// 优先显示 other 内容，如果没有则使用 introduction
+const displayContent = otherContent || introductionContent || gameplayContent
 ---
 
-<BaseLayout 
-  meta={meta} 
+<BaseLayout
+  meta={meta}
   hreflang={hreflangLinks}
   structuredData={structuredData}
 >
-  <Header 
+  <Header
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"
@@ -65,579 +129,380 @@ const structuredData = {
   />
 
   <main>
-    <!-- Hero Section -->
-    <section class="game-hero scroll-animate">
-      <div class="container">
-        <div class="game-hero-content">
-          <div class="breadcrumb">
-            <a href="/" class="breadcrumb-link">首页</a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">{gameData.title}</span>
-          </div>
-          
-          <h1 class="game-title">{gameData.title}</h1>
-          <p class="game-description">{gameData.description}</p>
-          
-          {gameData.rating && (
-            <div class="game-rating">
-              <div class="stars">
-                {Array.from({ length: 5 }, (_, i) => (
-                  <svg 
-                    width="16" 
-                    height="16" 
-                    viewBox="0 -960 960 960" 
-                    xmlns="http://www.w3.org/2000/svg"
-                    class={`star ${i < Math.floor(gameData.rating.score) ? 'filled' : 'empty'}`}
-                  >
-                    <path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z"/>
-                  </svg>
-                ))}
-              </div>
-              <span class="rating-text">{gameData.rating.score}/5 ({gameData.rating.votes} votes)</span>
-            </div>
-          )}
-        </div>
-      </div>
-    </section>
+    <!-- Game Hero Section: 游戏标题和介绍 -->
+    <GameHeroSection
+      gameData={gameData}
+      navigation={navigation}
+      breadcrumb={breadcrumb}
+    />
 
-    <!-- Game Section -->
-    <section class="game-section scroll-animate">
-      <div class="container">
-        <div class="game-layout">
-          <!-- 主游戏区域 -->
-          <div class="game-main">
-            <div class="game-iframe-container">
-              <GameIframe 
-                id="main-game-iframe"
-                src={gameData.iframe}
-                backgroundImage={gameData.backgroundImage}
-              />
+    <!-- Game Main Section: 三栏布局 - 游戏主体和侧边栏 -->
+    <GameMainSection gameData={gameData} games={games} />
+
+    <!-- Game Rating Section: 详细评分显示 -->
+    {
+      gameData.rating && (
+        <section class="game-rating-section scroll-animate">
+          <div class="container">
+            <div class="rating-wrapper music-element hero-music-delay-12">
+              <GameRating rating={gameData.rating} variant="detailed" />
             </div>
           </div>
-          
-          <!-- 侧边栏 -->
-          <div class="game-sidebar">
-            <div class="sidebar-section">
-              <h3 class="sidebar-title">🔥 热门游戏</h3>
-              <div class="sidebar-game-list">
-                {games.popular.slice(0, 4).map((game) => (
-                  <GameCard game={game} variant="sidebar" />
-                ))}
+        </section>
+      )
+    }
+
+    <!-- Game Features Section: 使用增强的特色功能显示 -->
+    <GameFeaturesSection
+      features={gameData.features}
+      featuresContent={featuresContent}
+      gameTitle={gameData.title}
+    />
+
+    <!-- How to Play Section: 游戏玩法说明 -->
+    <GameHowToPlaySection
+      howToPlay={gameData.howToPlay}
+      gameTitle={gameData.title}
+    />
+
+    <!-- Enhanced Content Section: 来自games-extended.json的其他详细内容 -->
+    {
+      displayContent && (
+        <section class="game-enhanced-content-section scroll-animate">
+          <div class="container">
+            <div class="content-wrapper music-element hero-music-delay-25">
+              <div class="content-inner hero-sidebar-effect">
+                <h2 class="content-title">
+                  <i class="fas fa-gamepad" />
+                  {displayContent.title}
+                </h2>
+                <div class="content-body">
+                  {displayContent.content.map((section: any, index: number) => {
+                    if (section.type === 'paragraph') {
+                      return (
+                        <div
+                          class={`content-paragraph music-element hero-music-delay-${26 + index}`}
+                        >
+                          <p>{section.text}</p>
+                        </div>
+                      )
+                    } else if (section.type === 'steps') {
+                      return (
+                        <div
+                          class={`steps-container music-element hero-music-delay-${26 + index}`}
+                        >
+                          <h3 class="steps-title">Step-by-Step Guide:</h3>
+                          {section.items.map((step: any, stepIndex: number) => (
+                            <div
+                              class={`step-item music-element hero-music-delay-${27 + index + stepIndex}`}
+                            >
+                              <div class="step-number">{stepIndex + 1}</div>
+                              <div class="step-content">
+                                <h4 class="step-title">{step.title}</h4>
+                                <p class="step-description">
+                                  {step.description}
+                                </p>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      )
+                    } else if (section.type === 'list') {
+                      return (
+                        <div
+                          class={`enhanced-feature-list music-element hero-music-delay-${26 + index}`}
+                        >
+                          {section.items.map((item: any, itemIndex: number) => (
+                            <div
+                              class={`enhanced-feature-item music-element hero-music-delay-${27 + index + itemIndex}`}
+                            >
+                              <div class="feature-icon">
+                                <i class="fas fa-check-circle" />
+                              </div>
+                              <div class="feature-content">
+                                <h4 class="feature-title">{item.title}</h4>
+                                <p class="feature-description">
+                                  {item.description}
+                                </p>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      )
+                    }
+                    return null
+                  })}
+                </div>
               </div>
             </div>
-
-            <div class="sidebar-section">
-              <h3 class="sidebar-title">✨ 最新游戏</h3>
-              <div class="sidebar-game-list">
-                {games.new.slice(0, 4).map((game) => (
-                  <GameCard game={game} variant="sidebar" />
-                ))}
-              </div>
-            </div>
           </div>
-        </div>
-      </div>
-    </section>
+        </section>
+      )
+    }
 
-    <!-- Features Section -->
-    {gameData.features && gameData.features.length > 0 && (
-      <section class="features-section scroll-animate">
-        <div class="container">
-          <h2 class="section-title">🎮 游戏特色</h2>
-          <div class="features-grid">
-            {gameData.features.map((feature, index) => (
-              <div class="feature-card glass" style={`animation-delay: ${index * 100}ms;`}>
-                <div class="feature-icon">✨</div>
-                <p class="feature-text">{feature}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-    )}
-
-    <!-- How to Play Section -->
-    {gameData.howToPlay && gameData.howToPlay.length > 0 && (
-      <section class="how-to-play-section scroll-animate">
-        <div class="container">
-          <h2 class="section-title">🕹️ 游戏玩法</h2>
-          <div class="how-to-play-grid">
-            {gameData.howToPlay.map((step, index) => (
-              <div class="play-step glass scroll-animate" style={`animation-delay: ${index * 150}ms;`}>
-                <div class="step-number">{index + 1}</div>
-                <p class="step-text">{step}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-    )}
-
-    <!-- About Section -->
-    {aboutContent && (
-      <section class="about" id="about">
-        <div class="container">
-          <h2>关于 {gameData.title}</h2>
-          <div class="about-content">
-            <Fragment set:html={aboutContent} />
-          </div>
-        </div>
-      </section>
-    )}
-
-    <!-- Related Games -->
-    <section class="related-games-section scroll-animate">
-      <div class="container">
-        <div class="section-header">
-          <h2 class="section-title">🚀 相关游戏推荐</h2>
-          <a href="/games/" class="btn btn-secondary">
-            查看全部
-            <i class="fas fa-arrow-right"></i>
-          </a>
-        </div>
-        
-        <div class="game-grid-container">
-          {games.trending.slice(0, 6).map((game, index) => (
-            <div class="scroll-animate music-element" style={`animation-delay: ${index * 100}ms;`}>
-              <GameCard game={game} variant="grid" />
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-
-    <!-- Comments Section -->
-    <section class="comments-section scroll-animate">
-      <div class="container">
-        <div class="section-header center-only">
-          <div>
-            <h2 class="section-title">💬 游戏讨论</h2>
-            <p class="section-description">
-              分享您的游戏体验，与其他玩家交流心得
-            </p>
-          </div>
-        </div>
-        
-        <div class="comments-container glass">
-          <script src="https://giscus.app/client.js"
-            data-repo="nom74100/giscus-comment"
-            data-repo-id="R_kgDOOmg4aQ"
-            data-category="Announcements"
-            data-category-id="DIC_kwDOOmg4ac4Cp6AJ"
-            data-mapping="pathname"
-            data-strict="0"
-            data-reactions-enabled="1"
-            data-emit-metadata="0"
-            data-input-position="bottom"
-            data-theme="preferred_color_scheme"
-            data-lang="zh-CN"
-            data-loading="lazy"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </div>
-      </div>
-    </section>
+    <!-- Related Games Section: 相关游戏推荐 -->
+    <GameRelatedSection games={games} currentGameSlug={currentGameSlug} />
   </main>
 
   <Footer />
 </BaseLayout>
 
+<!-- 引入交互系统 -->
+<script>
+  import '@/scripts/interactions.js'
+</script>
+
 <style>
-/* ==========================================================================
-   游戏页面特定样式 - 基于新设计系统
+  /* ==========================================================================
+   Game Rating Section
    ========================================================================== */
 
-/* Game Hero Section */
-.game-hero {
-  background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-gray-50) 100%);
-  padding: var(--space-16) 0 var(--space-8) 0;
-  position: relative;
-  overflow: hidden;
-}
-
-.game-hero::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="50" cy="50" r="1" fill="%23a855f7" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
-  opacity: 0.5;
-  pointer-events: none;
-}
-
-.game-hero-content {
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-  position: relative;
-  z-index: 1;
-}
-
-.breadcrumb {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-2);
-  margin-bottom: var(--space-6);
-  font-size: var(--font-size-sm);
-}
-
-.breadcrumb-link {
-  color: var(--color-primary-600);
-  text-decoration: none;
-  font-weight: var(--font-weight-medium);
-  transition: color var(--duration-200) var(--ease-in-out);
-}
-
-.breadcrumb-link:hover {
-  color: var(--color-primary-700);
-  text-decoration: underline;
-}
-
-.breadcrumb-separator {
-  color: var(--color-gray-400);
-}
-
-.breadcrumb-current {
-  color: var(--color-gray-600);
-}
-
-.game-title {
-  font-size: var(--font-size-4xl);
-  font-weight: var(--font-weight-bold);
-  color: var(--color-gray-900);
-  margin: 0 0 var(--space-4) 0;
-  line-height: var(--line-height-tight);
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.game-description {
-  font-size: var(--font-size-lg);
-  color: var(--color-gray-600);
-  margin: 0 0 var(--space-6) 0;
-  line-height: var(--line-height-relaxed);
-}
-
-.game-rating {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-3);
-  margin-bottom: var(--space-4);
-}
-
-.stars {
-  display: flex;
-  gap: var(--space-1);
-}
-
-.star {
-  transition: fill var(--duration-200) var(--ease-in-out);
-}
-
-.star.filled {
-  fill: #ffd223;
-}
-
-.star.empty {
-  fill: #9E9E9E;
-}
-
-.rating-text {
-  font-size: var(--font-size-sm);
-  color: var(--color-gray-600);
-  font-weight: var(--font-weight-medium);
-}
-
-/* Game Section */
-.game-section {
-  padding: var(--space-16) 0;
-}
-
-.game-layout {
-  display: grid;
-  grid-template-columns: 1fr 300px;
-  gap: var(--space-8);
-  align-items: start;
-}
-
-.game-main {
-  position: relative;
-}
-
-.game-sidebar {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-6);
-}
-
-.sidebar-section {
-  background: var(--glass-bg);
-  backdrop-filter: var(--glass-backdrop);
-  border: 1px solid var(--glass-border);
-  border-radius: var(--border-radius-xl);
-  padding: var(--space-6);
-  box-shadow: var(--glass-shadow);
-}
-
-.sidebar-title {
-  font-size: var(--font-size-lg);
-  font-weight: var(--font-weight-semibold);
-  margin: 0 0 var(--space-4) 0;
-  color: var(--color-gray-900);
-}
-
-.sidebar-game-list {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-3);
-}
-
-/* Features Section */
-.features-section {
-  padding: var(--space-20) 0;
-  background: var(--color-gray-50);
-}
-
-.features-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: var(--space-6);
-}
-
-.feature-card {
-  padding: var(--space-6);
-  border-radius: var(--border-radius-xl);
-  text-align: center;
-  transition: all var(--duration-300) var(--ease-rhythm);
-}
-
-.feature-card:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-lg);
-}
-
-.feature-icon {
-  font-size: var(--font-size-3xl);
-  margin-bottom: var(--space-3);
-}
-
-.feature-text {
-  font-size: var(--font-size-base);
-  color: var(--color-gray-700);
-  line-height: var(--line-height-relaxed);
-  margin: 0;
-}
-
-/* How to Play Section */
-.how-to-play-section {
-  padding: var(--space-20) 0;
-}
-
-.how-to-play-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: var(--space-6);
-}
-
-.play-step {
-  padding: var(--space-6);
-  border-radius: var(--border-radius-xl);
-  display: flex;
-  align-items: center;
-  gap: var(--space-4);
-  transition: all var(--duration-300) var(--ease-rhythm);
-}
-
-.play-step:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-lg);
-}
-
-.step-number {
-  width: var(--space-12);
-  height: var(--space-12);
-  background: var(--gradient-primary);
-  color: white;
-  border-radius: var(--border-radius-full);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: var(--font-weight-bold);
-  font-size: var(--font-size-lg);
-  flex-shrink: 0;
-}
-
-.step-text {
-  font-size: var(--font-size-base);
-  color: var(--color-gray-700);
-  line-height: var(--line-height-relaxed);
-  margin: 0;
-}
-
-/* Related Games Section */
-.related-games-section {
-  padding: var(--space-20) 0;
-  background: var(--color-gray-50);
-}
-
-.section-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: var(--space-12);
-  text-align: center;
-}
-
-.section-header.center-only {
-  justify-content: center;
-  text-align: center;
-}
-
-.section-title {
-  font-size: var(--font-size-3xl);
-  font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-4) 0;
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.section-description {
-  font-size: var(--font-size-lg);
-  color: var(--color-gray-600);
-  margin: 0;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.game-grid-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: var(--space-6);
-}
-
-/* Comments Section */
-.comments-section {
-  padding: var(--space-20) 0;
-}
-
-.comments-container {
-  padding: var(--space-8);
-  border-radius: var(--border-radius-xl);
-  min-height: 400px;
-}
-
-/* 响应式设计 */
-@media (max-width: 1024px) {
-  .game-layout {
-    grid-template-columns: 1fr;
-    gap: var(--space-6);
+  .game-rating-section {
+    padding: var(--space-8) 0;
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.95),
+      rgba(248, 250, 252, 0.98)
+    );
   }
-  
-  .game-sidebar {
-    flex-direction: row;
-    overflow-x: auto;
-    padding-bottom: var(--space-4);
-  }
-  
-  .sidebar-section {
-    min-width: 250px;
-    flex-shrink: 0;
-  }
-}
 
-@media (max-width: 768px) {
-  .game-hero {
-    padding: var(--space-12) 0 var(--space-6) 0;
+  .rating-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
   }
-  
-  .game-title {
-    font-size: var(--font-size-2xl) !important;
+
+  /* ==========================================================================
+   Enhanced Content Section - 来自games-extended.json的详细内容
+   ========================================================================== */
+
+  .game-enhanced-content-section {
+    padding: var(--space-12) 0;
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.9),
+      rgba(248, 250, 252, 0.95)
+    );
   }
-  
-  .game-description {
-    font-size: var(--font-size-base) !important;
+
+  .content-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
   }
-  
-  .breadcrumb {
-    flex-direction: column;
-    gap: var(--space-1);
+
+  .content-inner {
+    padding: var(--space-8);
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
   }
-  
-  .section-header {
-    flex-direction: column;
+
+  .content-inner:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      0 20px 60px rgba(0, 0, 0, 0.15),
+      0 8px 24px rgba(0, 0, 0, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .content-title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-6);
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .content-title i {
+    color: var(--color-primary-600);
+    background: none;
+    -webkit-text-fill-color: var(--color-primary-600);
+  }
+
+  .content-body {
+    line-height: var(--line-height-relaxed);
+    color: var(--color-gray-700);
+  }
+
+  .content-paragraph {
+    margin-bottom: var(--space-6);
+  }
+
+  .content-paragraph p {
+    font-size: var(--font-size-lg);
+    line-height: var(--line-height-relaxed);
+    color: var(--color-gray-700);
+  }
+
+  /* Steps Container - 增强样式 */
+  .steps-container {
+    margin: var(--space-8) 0;
+  }
+
+  .steps-title {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-6);
+    text-align: center;
+  }
+
+  .step-item {
+    display: flex;
     gap: var(--space-4);
-    text-align: center;
+    margin-bottom: var(--space-6);
+    padding: var(--space-5);
+    border-radius: var(--border-radius-lg);
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(var(--color-primary-500-rgb), 0.2);
+    transition: all var(--duration-300) var(--ease-in-out);
   }
-  
-  .section-title {
-    font-size: var(--font-size-2xl) !important;
-  }
-  
-  .features-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .how-to-play-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .game-grid-container {
-    grid-template-columns: 1fr;
-  }
-  
-  .game-sidebar {
-    flex-direction: column;
-  }
-  
-  .sidebar-section {
-    min-width: auto;
-  }
-  
-  .play-step {
-    flex-direction: column;
-    text-align: center;
-  }
-}
 
-@media (max-width: 480px) {
-  .feature-card {
-    padding: var(--space-4);
+  .step-item:hover {
+    background: rgba(255, 255, 255, 0.9);
+    border-color: rgba(var(--color-primary-500-rgb), 0.3);
+    transform: translateX(var(--space-2));
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
   }
-  
-  .play-step {
-    padding: var(--space-4);
-  }
-  
+
   .step-number {
-    width: var(--space-10);
-    height: var(--space-10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
+    color: white;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-xl);
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(147, 51, 234, 0.3);
+  }
+
+  .step-content {
+    flex: 1;
+  }
+
+  .step-title {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-2);
+  }
+
+  .step-description {
+    color: var(--color-gray-600);
+    line-height: var(--line-height-relaxed);
     font-size: var(--font-size-base);
   }
-}
 
-/* 动画增强 */
-.music-element:hover {
-  animation: none !important;
-}
+  /* Enhanced Feature List */
+  .enhanced-feature-list {
+    display: grid;
+    gap: var(--space-4);
+    margin: var(--space-8) 0;
+  }
 
-.scroll-animate {
-  opacity: 0;
-  transform: translateY(30px);
-  transition: all var(--duration-700) var(--ease-out);
-}
+  .enhanced-feature-item {
+    display: flex;
+    gap: var(--space-4);
+    padding: var(--space-5);
+    border-radius: var(--border-radius-lg);
+    background: rgba(255, 255, 255, 0.8);
+    border-left: 4px solid var(--color-primary-500);
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
 
-.scroll-animate.animate {
-  opacity: 1;
-  transform: translateY(0);
-}
+  .enhanced-feature-item:hover {
+    background: rgba(255, 255, 255, 0.95);
+    transform: translateX(var(--space-2));
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  }
+
+  .enhanced-feature-item .feature-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
+    border-radius: var(--border-radius-full);
+    color: white;
+    font-size: var(--font-size-lg);
+    flex-shrink: 0;
+  }
+
+  .enhanced-feature-item .feature-content {
+    flex: 1;
+  }
+
+  .enhanced-feature-item .feature-title {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-2);
+  }
+
+  .enhanced-feature-item .feature-description {
+    color: var(--color-gray-600);
+    line-height: var(--line-height-relaxed);
+    font-size: var(--font-size-base);
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .game-enhanced-content-section {
+      padding: var(--space-10) 0;
+    }
+
+    .content-inner {
+      padding: var(--space-6);
+    }
+
+    .content-title {
+      font-size: var(--font-size-xl);
+      flex-direction: column;
+      gap: var(--space-2);
+    }
+
+    .step-item {
+      flex-direction: column;
+      text-align: center;
+      padding: var(--space-4);
+    }
+
+    .step-number {
+      margin: 0 auto var(--space-3);
+      width: 40px;
+      height: 40px;
+      font-size: var(--font-size-lg);
+    }
+
+    .enhanced-feature-item {
+      flex-direction: column;
+      text-align: center;
+      padding: var(--space-4);
+    }
+
+    .enhanced-feature-item .feature-icon {
+      margin: 0 auto var(--space-3);
+    }
+  }
 </style>
