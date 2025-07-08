@@ -1,0 +1,280 @@
+---
+import Header from './header.astro';
+import NewGames from './new-games.astro';
+import PopularGames from './popular-games.astro';
+import TrendingGames from './trending-games.astro';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprunki 1996 - Play Sprunki 1996 Online</title>
+    <meta name="keywords" content="Sprunki 1996">
+    <meta name="description" content="Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox.">
+    <meta name="robots" content="index, follow"/>
+
+    <link rel="canonical" href="https://www.playfiddlebops.com/sprunki-1996/"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Sprunki 1996 - Play Sprunki 1996 Online",
+      "alternateName": "playfiddlebops.com",
+      "url": "https://www.playfiddlebops.com/sprunki-1996/",
+      "description": "Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox."
+    }
+    </script>
+
+    <meta property="og:title" content="Sprunki 1996 - Play Sprunki 1996 Online "/>
+    <meta property="og:description" content="Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox."/>
+    <meta property="og:url" content="https://www.playfiddlebops.com/sprunki-1996/"/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/sprunki-1996.png"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="https://www.playfiddlebops.com/sprunki-1996/"/>
+    <meta name="twitter:title" content="Sprunki 1996 - Play Sprunki 1996 Online "/>
+    <meta name="twitter:description" content="Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox."/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/sprunki-1996.png"/>
+
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    <link rel="stylesheet" href="/main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+      audio {width:210px}
+.game-card .game-iframe-sprunki {
+  float:left;
+    width: 69%;
+    margin:0;
+    padding:0;
+     height:600px;
+     background-color:#fff;
+     position: relative;
+     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3)), url(/sprunki-1996.png);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size:cover;
+}
+      .game .game-l-2 img {
+    width: 100%!important;
+    height:auto;
+    margin: 0 auto;}
+      @media screen and (max-width: 980px){
+        .game-card .game-iframe-sprunki {
+     width:100%;}
+      }
+      @media screen and (max-width: 768px){
+        audio {width: 120px}
+        .game-card .game-iframe-sprunki {
+     height:330px!important;
+}
+        }
+    </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+      const navToggle = document.querySelector('.nav-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+    
+      navToggle.addEventListener('click', function() {
+        navMenu.classList.toggle('active');
+      });
+
+    });
+    </script>
+    <script>
+        let iframeLoaded = false; // Track if iframe is loaded
+        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
+        const playButton = document.getElementById("playButton");
+        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
+
+        function loadIframe() {
+            iframe.src = "https://turbowarp.org/1149082786/embed";
+             playButton.style.display = "none"; //Hide button
+            iframeLoaded = true; // Set to true so it's not loaded again
+            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
+
+            gameImageContainer.style.backgroundImage = "none";
+        }
+          playButton.addEventListener("click", loadIframe); // Listen for click
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9JME3P55QJ');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+     crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1444054360166733">
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki">
+                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About Sprunki 1996</h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > Sprunki 1996</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>   4.0/5  (122 votes)</div>
+
+    <p>Hey! Remember those cool, slightly glitchy screens from 90s computers? Want to relive that vibe and maybe make some music while you're at it? Then Sprunki 1996 is totally gonna blow your mind! This fan-made Incredibox mod, crafted by the awesome Draker using Scratch, is like a time machine straight back to the golden age of pixel art and retro electronic tunes!</p>
+
+    <h3>So, What Exactly is Sprunki 1996?</h3>
+
+    <p>Basically, Sprunki 1996 is a music creation game where you use characters and sounds styled like 90s computer programs. It's not just a reskin of Sprunki; it has its own unique lore – pretending to be a "lost" 1996 application developed by a fictional company called "Sunset Entertainment & Technologies"! This wild backstory, combined with pixelated visuals, VHS-style glitches, and classic drum machine beats, instantly transports you back in time!</p>
+
+    <h3>How Do You Rock This Retro Music Box?</h3>
+
+    <p>Playing Sprunki 1996 is still super intuitive, but with double the fun:</p>
+
+    <ol>
+        <li><strong>Boot Up:</strong> Click that nostalgic "open ok it!!!" button on the first screen to officially enter the world of Sprunki 1996.</li>
+        <li><strong>Meet the Crew:</strong> You'll see 20 Sprunki characters given a retro makeover, plus 2 extra new faces waiting for you!</li>
+        <li><strong>Drag to Drop Beats:</strong> Grab these pixelated cuties and drag 'em onto the stage. They'll immediately start performing, laying down beats, melodies, and effects straight out of the 90s underground electronic scene.</li>
+        <li><strong>Mix & Experiment:</strong> Try all sorts of character combos, layering different sounds to create your very own retro electronic masterpiece.</li>
+        <li><strong>Switch Styles (Heads Up!):</strong> Want something different? Drag that black square button from the bottom right onto the stage, and Sprunki 1996 flips into "Horror Mode"! Want to go back? Just hit the "pray" button. (This mode switch is genius!)</li>
+        <li><strong>Reset the Loop:</strong> Need a fresh start? The "loop" button easily resets all melodies and characters.</li>
+        <li><strong>Mute/Solo Control:</strong> Want to highlight a specific sound or temporarily remove one? No worries, the game offers these basic controls too.</li>
+    </ol>
+
+    <h3>Why is Sprunki 1996 Such a Hit?</h3>
+
+    <ul>
+        <li><strong>Total 90s Vibe:</strong> From the VHS-style graphics to the retro designs, sounds, and animations, Sprunki 1996 absolutely nails the nostalgic atmosphere!</li>
+        <li><strong>Unique Pixel Art:</strong> Who can resist charming pixel people? This retro yet polished visual style really stands out.</li>
+        <li><strong>Authentic 90s Music Experience:</strong> It's not just the look; the sounds capture that 90s electronic feel, letting you create genuinely retro tracks.</li>
+        <li><strong>Super Convenient:</strong> It's completely free, no downloads or installs needed, runs right in your browser, and even works on mobile! Sites like playfiddlebops.com or TwoPlayerGames make it easy to find.</li>
+        <li><strong>Sparks Creativity:</strong> Simple controls hide endless possibilities for music creation, letting your imagination run wild.</li>
+    </ul>
+
+    <h3>Let's Wrap It Up:</h3>
+
+    <p>Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a unique 90s retro computer aesthetic combined with simple, fun music creation gameplay to offer a fresh experience for fans of Sprunki and Incredibox. Whether you want to relive the golden days of the 90s or try a novel way of making music, Sprunki 1996 is definitely worth exploring. Go boot up your "old computer" and start creating your own retro beats in the pixelated world of Sprunki 1996! Have fun!</p>
+
+
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+      <div class="container">
+           <nav>
+               <ul>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-service/">Terms of service</a></li>
+                </ul>
+           </nav>
+           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+      function goToLink(event) {
+        const select = event.target;
+        const selectedOption = select.options[select.selectedIndex];
+        const url = selectedOption.getAttribute('data-url');
+        if (url) {
+          window.location.href = url;
+        }
+      }
+  
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select');
+        if (select) {
+          select.addEventListener('change', goToLink);
+  
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang;
+          const options = Array.from(select.options);
+  
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(option =>
+            option.getAttribute('data-lang') === htmlLang
+          );
+  
+          if (currentOption) {
+            currentOption.selected = true;
+          } else {
+            // If no exact match is found, try to find a default option (data-lang="en" or "/")
+            let defaultOption = options.find(option =>
+              option.getAttribute('data-lang') === 'en' // common default
+            );
+  
+            if (!defaultOption) {
+              defaultOption = options.find(option =>
+                option.getAttribute('data-lang') === '/' // older convention
+              );
+            }
+  
+  
+            if (defaultOption) {
+              defaultOption.selected = true;
+            }
+          }
+        }
+      });
+      </script>
+<style>
+/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
+@media screen and (max-width: 980px) {
+    .a2a_floating_style.a2a_vertical_style { display: none; }
+}
+@media screen and (min-width: 980px) {
+    .a2a_floating_style.a2a_default_style { display: none; }
+}
+</style>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+</body>
+</html>

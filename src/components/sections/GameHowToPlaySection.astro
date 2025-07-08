@@ -1,0 +1,346 @@
+---
+interface Props {
+  howToPlay?: string[]
+  gameTitle: string
+}
+
+const { howToPlay, gameTitle } = Astro.props
+
+// 如果没有提供玩法说明，使用默认的
+const defaultSteps = [
+  'Choose your favorite characters to start creating',
+  'Drag and drop characters onto the stage to start performing',
+  'Try different combinations to create unique beats',
+  'Adjust volume and effects to perfect your creation',
+  'Save and share your musical masterpiece'
+]
+
+const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultSteps
+---
+
+{displaySteps && displaySteps.length > 0 && (
+  <section class="game-howtoplay-section scroll-animate">
+    <div class="container">
+      <div class="section-header music-element hero-music-delay-20">
+        <h2 class="section-title">
+          <i class="fas fa-gamepad"></i>
+          How to Play
+        </h2>
+        <p class="section-subtitle">
+          Quick guide to get started with {gameTitle}
+        </p>
+      </div>
+
+      <div class="steps-container">
+        {displaySteps.map((step, index) => (
+          <div class={`step-card music-element hero-music-delay-${21 + index}`}>
+            <div class="step-content hero-sidebar-effect">
+              <div class="step-number">
+                <span>{index + 1}</span>
+                <div class="number-glow"></div>
+              </div>
+              <div class="step-info">
+                <h3 class="step-title">Step {index + 1}</h3>
+                <p class="step-text">{step}</p>
+              </div>
+              <div class="step-arrow">
+                <i class="fas fa-arrow-right"></i>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <!-- Pro Tips -->
+      <div class="pro-tips music-element hero-music-delay-30">
+        <div class="tips-content hero-sidebar-effect">
+          <h3 class="tips-title">
+            <i class="fas fa-lightbulb"></i>
+            Pro Tips
+          </h3>
+          <div class="tips-grid">
+            <div class="tip-item">
+              <i class="fas fa-headphones"></i>
+              <span>Use headphones for the best audio experience</span>
+            </div>
+            <div class="tip-item">
+              <i class="fas fa-save"></i>
+              <span>Save your creations regularly</span>
+            </div>
+            <div class="tip-item">
+              <i class="fas fa-users"></i>
+              <span>Share your music with friends</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+)}
+
+<style>
+  /* ==========================================================================
+   Game How To Play Section
+   ========================================================================== */
+
+  .game-howtoplay-section {
+    padding: var(--space-12) 0;
+    position: relative;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: var(--space-10);
+  }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-3);
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-3);
+    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .section-title i {
+    color: var(--color-primary-600);
+    background: none;
+    -webkit-text-fill-color: var(--color-primary-600);
+  }
+
+  .section-subtitle {
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-600);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* Steps Container */
+  .steps-container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-6);
+    max-width: 800px;
+    margin: 0 auto var(--space-12);
+  }
+
+  .step-card {
+    position: relative;
+  }
+
+  .step-content {
+    display: flex;
+    align-items: center;
+    gap: var(--space-6);
+    padding: var(--space-6);
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .step-content:hover {
+    transform: translateX(8px);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12),
+                0 6px 16px rgba(0, 0, 0, 0.08),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .step-number {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+    border-radius: var(--border-radius-full);
+    color: white;
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-bold);
+    box-shadow: 0 8px 24px rgba(147, 51, 234, 0.3);
+    flex-shrink: 0;
+  }
+
+  .number-glow {
+    position: absolute;
+    inset: -4px;
+    background: linear-gradient(45deg, var(--color-primary-400), var(--color-primary-600));
+    border-radius: var(--border-radius-full);
+    opacity: 0;
+    transition: opacity var(--duration-300) var(--ease-in-out);
+    z-index: -1;
+  }
+
+  .step-content:hover .number-glow {
+    opacity: 0.3;
+  }
+
+  .step-info {
+    flex: 1;
+  }
+
+  .step-title {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-2);
+  }
+
+  .step-text {
+    font-size: var(--font-size-base);
+    color: var(--color-gray-600);
+    line-height: var(--line-height-relaxed);
+    margin: 0;
+  }
+
+  .step-arrow {
+    color: var(--color-primary-500);
+    font-size: var(--font-size-lg);
+    opacity: 0;
+    transform: translateX(-10px);
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
+
+  .step-content:hover .step-arrow {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  /* Pro Tips */
+  .pro-tips {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .tips-content {
+    padding: var(--space-8);
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
+
+  .tips-content:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15),
+                0 8px 24px rgba(0, 0, 0, 0.1),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .tips-title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-6);
+    text-align: center;
+    justify-content: center;
+  }
+
+  .tips-title i {
+    color: #fbbf24;
+  }
+
+  .tips-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--space-4);
+  }
+
+  .tip-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-4);
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: var(--border-radius-lg);
+    transition: all var(--duration-200) var(--ease-in-out);
+  }
+
+  .tip-item:hover {
+    background: rgba(255, 255, 255, 0.8);
+    transform: translateY(-2px);
+  }
+
+  .tip-item i {
+    color: var(--color-primary-600);
+    font-size: var(--font-size-lg);
+  }
+
+  .tip-item span {
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-700);
+    font-weight: var(--font-weight-medium);
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .game-howtoplay-section {
+      padding: var(--space-10) 0;
+    }
+
+    .section-title {
+      font-size: var(--font-size-2xl);
+      flex-direction: column;
+      gap: var(--space-2);
+    }
+
+    .section-subtitle {
+      font-size: var(--font-size-base);
+    }
+
+    .step-content {
+      flex-direction: column;
+      text-align: center;
+      gap: var(--space-4);
+    }
+
+    .step-content:hover {
+      transform: translateY(-4px);
+    }
+
+    .step-arrow {
+      display: none;
+    }
+
+    .tips-content {
+      padding: var(--space-6);
+    }
+
+    .tips-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-3);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .steps-container {
+      gap: var(--space-4);
+    }
+
+    .step-content {
+      padding: var(--space-4);
+    }
+
+    .step-number {
+      width: 50px;
+      height: 50px;
+      font-size: var(--font-size-lg);
+    }
+
+    .tips-content {
+      padding: var(--space-4);
+    }
+
+    .tip-item {
+      padding: var(--space-3);
+    }
+  }
+</style>

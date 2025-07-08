@@ -1,0 +1,60 @@
+---
+import gamesData from '@/data/games-extended.json'
+import GamePageLayout from '@/layouts/GamePageLayout.astro'
+
+export async function getStaticPaths() {
+  // 直接从 allGames 数组获取完整的游戏数据
+  const allGames = gamesData.allGames
+
+  // 生成路径参数
+  return allGames.map(game => ({
+    params: { slug: game.slug },
+    props: { gameData: game },
+  }))
+}
+
+const { gameData } = Astro.props
+
+// 使用类型安全的方式访问扩展数据
+const extendedData = gameData as any
+
+// 使用完整的games-extended.json数据结构
+const layoutProps = {
+  meta: {
+    title: extendedData.seo?.title || gameData.meta.title,
+    description: extendedData.seo?.description || gameData.meta.description,
+    keywords: extendedData.seo?.keywords || gameData.title,
+    canonical: extendedData.seo?.canonical || gameData.meta.canonical,
+    ogImage: extendedData.seo?.ogImage || gameData.meta.ogImage,
+  },
+  gameData: {
+    id: gameData.id,
+    slug: gameData.slug,
+    title: gameData.title,
+    description: gameData.description,
+    iframe: gameData.iframe,
+    backgroundImage: gameData.image,
+    category: gameData.category,
+    // 使用扩展数据 - 增强的评分信息
+    rating: extendedData.rating
+      ? {
+          score: extendedData.rating.score,
+          maxScore: extendedData.rating.maxScore,
+          votes: extendedData.rating.votes,
+          stars: extendedData.rating.stars,
+        }
+      : undefined,
+    features: extendedData.features,
+    howToPlay: extendedData.howToPlay,
+  },
+  // 传递完整的内容数据
+  gameContent: extendedData.content,
+  breadcrumb: extendedData.breadcrumb,
+  pageType: extendedData.pageType,
+  isDemo: extendedData.isDemo || false,
+  // 传递SEO schema数据
+  schemaData: extendedData.seo?.schema,
+}
+---
+
+<GamePageLayout {...layoutProps} />

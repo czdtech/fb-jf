@@ -1,0 +1,348 @@
+---
+interface Props {
+  features?: string[]
+  gameTitle: string
+  // 新增：支持来自 games-extended.json 的详细特色内容
+  featuresContent?: {
+    title: string
+    content: Array<{
+      type: string
+      text?: string
+      items?: Array<{
+        title: string
+        description: string
+      }>
+    }>
+  }
+}
+
+const { features, gameTitle, featuresContent } = Astro.props
+
+// 如果有详细的特色内容，优先使用；否则使用简单的特色列表或默认内容
+const hasDetailedFeatures = featuresContent && featuresContent.content.length > 0
+
+// 默认特色功能
+const defaultFeatures = [
+  '🎵 Rich music creation tools',
+  '🎭 Diverse character selection',
+  '🔄 Unlimited creative possibilities',
+  '💫 Unique visual effects',
+  '🎮 Easy to learn controls',
+  '🌟 Community-created content',
+]
+
+const displayFeatures = features && features.length > 0 ? features : defaultFeatures
+---
+
+{
+  (hasDetailedFeatures || (displayFeatures && displayFeatures.length > 0)) && (
+    <section class="game-features-section scroll-animate">
+      <div class="container">
+        <div class="section-header music-element hero-music-delay-12">
+          <h2 class="section-title">
+            <i class="fas fa-star" />
+            {hasDetailedFeatures ? featuresContent.title : 'Game Features'}
+          </h2>
+          <p class="section-subtitle">
+            {hasDetailedFeatures
+              ? `Discover what makes ${gameTitle} special`
+              : `Explore the amazing features of ${gameTitle}`
+            }
+          </p>
+        </div>
+
+        {hasDetailedFeatures ? (
+          <!-- 使用来自 games-extended.json 的详细特色内容 -->
+          <div class="detailed-features-content">
+            {featuresContent.content.map((section: any, sectionIndex: number) => {
+              if (section.type === 'paragraph') {
+                return (
+                  <div class={`feature-paragraph music-element hero-music-delay-${13 + sectionIndex}`}>
+                    <p class="feature-description-text">{section.text}</p>
+                  </div>
+                )
+              } else if (section.type === 'list') {
+                return (
+                  <div class="enhanced-features-grid">
+                    {section.items.map((item: any, index: number) => (
+                      <div class={`enhanced-feature-card music-element hero-music-delay-${13 + sectionIndex + index}`}>
+                        <div class="feature-content hero-sidebar-effect">
+                          <div class="feature-icon">
+                            <i class="fas fa-sparkles" />
+                          </div>
+                          <div class="feature-text-content">
+                            <h4 class="feature-title">{item.title}</h4>
+                            <p class="feature-description">{item.description}</p>
+                          </div>
+                          <div class="feature-glow" />
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                )
+              }
+              return null
+            })}
+          </div>
+        ) : (
+          <!-- 使用简单的特色列表 -->
+          <div class="features-grid">
+            {displayFeatures.map((feature, index) => (
+              <div class={`feature-card music-element hero-music-delay-${13 + index}`}>
+                <div class="feature-content hero-sidebar-effect">
+                  <div class="feature-icon">
+                    <i class="fas fa-check-circle" />
+                  </div>
+                  <p class="feature-text">{feature}</p>
+                  <div class="feature-glow" />
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  /* ==========================================================================
+   Game Features Section
+   ========================================================================== */
+
+  .game-features-section {
+    padding: var(--space-12) 0;
+    position: relative;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: var(--space-10);
+  }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-3);
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-3);
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .section-title i {
+    color: var(--color-primary-600);
+    background: none;
+    -webkit-text-fill-color: var(--color-primary-600);
+  }
+
+  .section-subtitle {
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-600);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* 详细特色内容样式 */
+  .detailed-features-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .feature-paragraph {
+    margin-bottom: var(--space-8);
+    text-align: center;
+  }
+
+  .feature-description-text {
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-700);
+    line-height: var(--line-height-relaxed);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .enhanced-features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: var(--space-6);
+    margin-bottom: var(--space-8);
+  }
+
+  .enhanced-feature-card {
+    position: relative;
+    height: 100%;
+  }
+
+  .enhanced-feature-card .feature-content {
+    position: relative;
+    padding: var(--space-6);
+    height: 100%;
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
+    overflow: hidden;
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-4);
+  }
+
+  .enhanced-feature-card .feature-content:hover {
+    transform: translateY(-4px);
+    box-shadow:
+      0 20px 60px rgba(0, 0, 0, 0.15),
+      0 8px 24px rgba(0, 0, 0, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .feature-text-content {
+    flex: 1;
+  }
+
+  .feature-title {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-2);
+  }
+
+  .feature-description {
+    font-size: var(--font-size-base);
+    color: var(--color-gray-600);
+    line-height: var(--line-height-relaxed);
+  }
+
+  /* 原有的简单特色网格样式 */
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--space-6);
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .feature-card {
+    position: relative;
+    height: 100%;
+  }
+
+  .feature-card .feature-content {
+    position: relative;
+    padding: var(--space-6);
+    height: 100%;
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--space-4);
+  }
+
+  .feature-card .feature-content:hover {
+    transform: translateY(-4px);
+    box-shadow:
+      0 20px 60px rgba(0, 0, 0, 0.15),
+      0 8px 24px rgba(0, 0, 0, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .feature-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
+    border-radius: var(--border-radius-full);
+    color: white;
+    font-size: var(--font-size-xl);
+    box-shadow: 0 8px 24px rgba(147, 51, 234, 0.3);
+    flex-shrink: 0;
+  }
+
+  .feature-text {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-gray-700);
+    line-height: var(--line-height-relaxed);
+    margin: 0;
+    flex: 1;
+    display: flex;
+    align-items: center;
+  }
+
+  .feature-glow {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      45deg,
+      transparent,
+      rgba(147, 51, 234, 0.1),
+      transparent
+    );
+    transform: translateX(-100%);
+    transition: transform 0.8s;
+    pointer-events: none;
+  }
+
+  .feature-content:hover .feature-glow {
+    transform: translateX(100%);
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .game-features-section {
+      padding: var(--space-10) 0;
+    }
+
+    .section-title {
+      font-size: var(--font-size-2xl);
+      flex-direction: column;
+      gap: var(--space-2);
+    }
+
+    .section-subtitle {
+      font-size: var(--font-size-base);
+    }
+
+    .enhanced-features-grid,
+    .features-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-4);
+    }
+
+    .enhanced-feature-card .feature-content {
+      flex-direction: column;
+      text-align: center;
+      padding: var(--space-5);
+    }
+
+    .feature-card .feature-content {
+      padding: var(--space-5);
+    }
+
+    .feature-icon {
+      width: 50px;
+      height: 50px;
+      font-size: var(--font-size-lg);
+    }
+
+    .feature-text {
+      font-size: var(--font-size-base);
+    }
+  }
+</style>

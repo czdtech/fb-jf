@@ -1,0 +1,271 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import GameCard from '@/components/GameCard.astro';
+import extractedData from '@/data/extracted-data.json';
+
+const { navigation } = extractedData;
+
+// 示例游戏数据
+const sampleGame = {
+  id: "demo-game",
+  slug: "demo-game",
+  title: "Demo 音乐游戏",
+  description: "这是一个展示新设计系统的示例游戏卡片，拥有精美的视觉效果和流畅的交互动画。",
+  image: "/tw.jpg",
+  iframe: "https://fiddlebops.netlify.app/",
+  category: "demo",
+  meta: {
+    title: "Demo Game - FiddleBops",
+    description: "设计系统演示游戏",
+    canonical: "https://www.playfiddlebops.com/demo-game/",
+    ogImage: "https://www.playfiddlebops.com/tw.jpg"
+  }
+};
+
+const meta = {
+  title: "FiddleBops 设计系统演示",
+  description: "展示 FiddleBops 全新设计系统的组件和交互效果",
+  keywords: "设计系统, UI组件, 音乐主题, 现代设计",
+  canonical: "https://www.playfiddlebops.com/design-system-demo/",
+  ogImage: "https://www.playfiddlebops.com/tw.jpg"
+};
+---
+
+<BaseLayout meta={meta}>
+  <Header 
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="zh-CN"
+    currentPath="/design-system-demo/"
+  />
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero scroll-animate">
+      <div class="container">
+        <div class="hero-content">
+          <h1 class="hero-title">🎵 FiddleBops 设计系统</h1>
+          <p class="hero-description">
+            全新的音乐主题设计语言，融合现代美学与情感交互，为创造音乐的快乐而设计。
+          </p>
+          <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
+            <button class="btn btn-primary btn-lg">开始体验</button>
+            <button class="btn btn-glass btn-lg">查看文档</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 色彩系统展示 -->
+    <section style="padding: 4rem 0;" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold;">🎨 色彩系统</h2>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+          <div style="padding: 2rem; border-radius: 1rem; background: var(--gradient-primary); color: white; text-align: center;">
+            <h3 style="margin: 0 0 0.5rem 0;">主渐变色</h3>
+            <p style="margin: 0; opacity: 0.9;">创意与激情的融合</p>
+          </div>
+          <div style="padding: 2rem; border-radius: 1rem; background: var(--gradient-secondary); color: white; text-align: center;">
+            <h3 style="margin: 0 0 0.5rem 0;">次渐变色</h3>
+            <p style="margin: 0; opacity: 0.9;">清新与现代的结合</p>
+          </div>
+          <div style="padding: 2rem; border-radius: 1rem; background: var(--gradient-tertiary); color: white; text-align: center;">
+            <h3 style="margin: 0 0 0.5rem 0;">第三渐变色</h3>
+            <p style="margin: 0; opacity: 0.9;">和谐与平衡的体现</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 按钮组件展示 -->
+    <section style="padding: 4rem 0; background: var(--color-gray-50);" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold;">🔘 按钮组件</h2>
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-bottom: 2rem;">
+          <button class="btn btn-primary">主要按钮</button>
+          <button class="btn btn-secondary">次要按钮</button>
+          <button class="btn btn-glass">玻璃按钮</button>
+          <button class="btn btn-primary" disabled>禁用状态</button>
+        </div>
+
+        <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+          <button class="btn btn-primary btn-sm">小尺寸</button>
+          <button class="btn btn-primary">标准尺寸</button>
+          <button class="btn btn-primary btn-lg">大尺寸</button>
+          <button class="btn btn-primary btn-xl">超大尺寸</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 游戏卡片展示 -->
+    <section style="padding: 4rem 0;" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold;">🎮 游戏卡片组件</h2>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+          <div>
+            <h3 style="margin-bottom: 1rem; text-align: center;">网格变体</h3>
+            <GameCard game={sampleGame} variant="grid" />
+          </div>
+          <div>
+            <h3 style="margin-bottom: 1rem; text-align: center;">特色变体</h3>
+            <GameCard game={sampleGame} variant="featured" />
+          </div>
+        </div>
+
+        <div style="max-width: 400px; margin: 0 auto;">
+          <h3 style="margin-bottom: 1rem; text-align: center;">侧边栏变体</h3>
+          <GameCard game={sampleGame} variant="sidebar" />
+        </div>
+      </div>
+    </section>
+
+    <!-- 玻璃拟态效果展示 -->
+    <section style="padding: 4rem 0; background: var(--gradient-cool); position: relative;" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold; color: white;">💎 玻璃拟态效果</h2>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
+          <div class="glass" style="padding: 2rem; border-radius: 1rem; text-align: center;">
+            <h3 style="margin: 0 0 1rem 0; color: white;">标准玻璃效果</h3>
+            <p style="margin: 0; color: rgba(255, 255, 255, 0.8);">半透明背景与模糊效果的完美融合</p>
+          </div>
+          <div class="glass-strong" style="padding: 2rem; border-radius: 1rem; text-align: center;">
+            <h3 style="margin: 0 0 1rem 0; color: white;">强化玻璃效果</h3>
+            <p style="margin: 0; color: rgba(255, 255, 255, 0.8);">更加明显的材质感和深度层次</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 字体系统展示 -->
+    <section style="padding: 4rem 0;" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold;">📝 字体系统</h2>
+        
+        <div style="max-width: 800px; margin: 0 auto;">
+          <h1 style="margin-bottom: 1rem;">H1 标题 - 48px</h1>
+          <h2 style="margin-bottom: 1rem;">H2 标题 - 36px</h2>
+          <h3 style="margin-bottom: 1rem;">H3 标题 - 30px</h3>
+          <h4 style="margin-bottom: 1rem;">H4 标题 - 24px</h4>
+          <h5 style="margin-bottom: 1rem;">H5 标题 - 20px</h5>
+          <h6 style="margin-bottom: 2rem;">H6 标题 - 18px</h6>
+          
+          <p style="font-size: var(--font-size-lg); margin-bottom: 1rem;">
+            大号正文 - 18px，适用于重要段落和引言文本。
+          </p>
+          <p style="margin-bottom: 1rem;">
+            标准正文 - 16px，这是网站的主要阅读文本，经过精心调校的行高和字间距确保最佳的阅读体验。
+          </p>
+          <p style="font-size: var(--font-size-sm); color: var(--color-gray-600);">
+            小号文本 - 14px，适用于辅助信息、标签和说明文字。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 交互动效展示 -->
+    <section style="padding: 4rem 0; background: var(--color-gray-900); color: white;" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold;">🎭 交互动效</h2>
+        
+        <div style="text-align: center; margin-bottom: 3rem;">
+          <p style="font-size: var(--font-size-lg); color: var(--color-gray-300); margin-bottom: 2rem;">
+            音乐主题的动效设计，每一个交互都充满节奏感
+          </p>
+          
+          <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
+            <div class="animate-pulse" style="padding: 2rem; background: var(--color-primary-600); border-radius: 1rem;">
+              脉动效果
+            </div>
+            <div class="animate-float" style="padding: 2rem; background: var(--color-secondary-cyan); border-radius: 1rem;">
+              浮动效果
+            </div>
+            <div class="music-element" style="padding: 2rem; background: var(--color-secondary-emerald); border-radius: 1rem;">
+              音乐律动
+            </div>
+          </div>
+        </div>
+
+        <div style="text-align: center;">
+          <h3 style="margin-bottom: 1rem;">♪ 浮动音符装饰</h3>
+          <p style="color: var(--color-gray-400);">
+            页面背景会随机出现浮动的音符，营造音乐氛围
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 设计原则 -->
+    <section style="padding: 4rem 0;" class="scroll-animate">
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.25rem; font-weight: bold;">🎯 设计原则</h2>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+          <div style="text-align: center; padding: 2rem;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">🎵</div>
+            <h3 style="margin-bottom: 1rem; color: var(--color-primary-600);">律动感</h3>
+            <p style="color: var(--color-gray-600);">设计元素体现音乐的节奏和流动性</p>
+          </div>
+          <div style="text-align: center; padding: 2rem;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">🤝</div>
+            <h3 style="margin-bottom: 1rem; color: var(--color-primary-600);">包容性</h3>
+            <p style="color: var(--color-gray-600);">适合不同音乐背景和技能水平的用户</p>
+          </div>
+          <div style="text-align: center; padding: 2rem;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">⚡</div>
+            <h3 style="margin-bottom: 1rem; color: var(--color-primary-600);">互动性</h3>
+            <p style="color: var(--color-gray-600);">鼓励用户探索和创造</p>
+          </div>
+          <div style="text-align: center; padding: 2rem;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">✨</div>
+            <h3 style="margin-bottom: 1rem; color: var(--color-primary-600);">现代感</h3>
+            <p style="color: var(--color-gray-600);">符合当代数字产品的美学标准</p>
+          </div>
+          <div style="text-align: center; padding: 2rem;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">💝</div>
+            <h3 style="margin-bottom: 1rem; color: var(--color-primary-600);">情感连接</h3>
+            <p style="color: var(--color-gray-600);">通过设计传达音乐带来的情感体验</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* 演示页面特殊样式 */
+  .hero {
+    background: linear-gradient(135deg, var(--color-primary-50) 0%, var(--color-gray-50) 100%);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="50" cy="50" r="1" fill="%23a855f7" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: var(--font-size-3xl) !important;
+    }
+    
+    .hero-description {
+      font-size: var(--font-size-lg) !important;
+    }
+  }
+</style>

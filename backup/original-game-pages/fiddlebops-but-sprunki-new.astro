@@ -1,0 +1,32 @@
+---
+import GamePageLayout from '@/layouts/GamePageLayout.astro';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+import sampleGame from '@/data/sample-game.json';
+
+const { navigation, games } = extractedData;
+
+// 多语言配置
+const hreflangLinks = navigation.languages.map(lang => ({
+  code: lang.code === 'en' ? 'x-default' : lang.code,
+  url: `https://www.playfiddlebops.com${lang.url}`
+}));
+---
+
+<GamePageLayout 
+  game={sampleGame}
+  navigation={navigation.main}
+  languages={navigation.languages}
+  popularGames={games.popular}
+  newGames={games.new}
+  trendingGames={games.trending}
+  hreflang={hreflangLinks}
+/>
+
+<style>
+/* 游戏页面特定样式 */
+.game-iframe-sprunki {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3)), url(/fiddlebops-but-sprunki.png);
+}
+</style>

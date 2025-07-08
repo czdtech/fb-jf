@@ -1,0 +1,349 @@
+---
+import GameCard from '@/components/GameCard.astro'
+import GameIframe from '@/components/GameIframe.astro'
+
+interface Props {
+  gameData: {
+    title: string
+    iframe: string
+    backgroundImage: string
+  }
+  games: {
+    popular: any[]
+    new: any[]
+    trending: any[]
+  }
+}
+
+const { gameData, games } = Astro.props
+---
+
+<!-- Game Main Section: 三栏布局设计 -->
+<section id="game-main-section" class="game-main-section scroll-animate">
+  <div class="container">
+    <div class="game-main-layout">
+      <!-- Left Sidebar - New Games -->
+      <aside
+        class="game-sidebar game-sidebar--left music-element hero-music-delay-5"
+      >
+        <div class="sidebar-content hero-sidebar-effect">
+          <h3 class="sidebar-title">
+            <i class="fas fa-sparkles"></i>
+            <span>New Games</span>
+          </h3>
+          <div class="sidebar-games">
+            {
+              games.new.slice(0, 4).map((game, index) => (
+                <div class={`music-element hero-music-delay-${6 + index}`}>
+                  <GameCard game={game} variant="sidebar" />
+                </div>
+              ))
+            }
+          </div>
+        </div>
+      </aside>
+
+      <!-- Center - Main Game Area -->
+      <main class="game-main-content">
+        <div class="game-container music-element hero-music-delay-6">
+          <div class="game-header">
+            <h2 class="game-header-title">
+              <i class="fas fa-gamepad"></i>
+              {gameData.title}
+            </h2>
+            <div class="game-controls">
+              <button
+                class="control-btn"
+                onclick="toggleFullscreen()"
+                title="Fullscreen"
+              >
+                <i class="fas fa-expand"></i>
+              </button>
+              <button
+                class="control-btn"
+                onclick="reloadGame()"
+                title="Reload Game"
+              >
+                <i class="fas fa-redo"></i>
+              </button>
+            </div>
+          </div>
+
+          <div class="game-iframe-wrapper">
+            <GameIframe
+              id="main-game-iframe"
+              src={gameData.iframe}
+              backgroundImage={gameData.backgroundImage}
+            />
+          </div>
+        </div>
+      </main>
+
+      <!-- Right Sidebar - Popular Games -->
+      <aside
+        class="game-sidebar game-sidebar--right music-element hero-music-delay-7"
+      >
+        <div class="sidebar-content hero-sidebar-effect">
+          <h3 class="sidebar-title">
+            <i class="fas fa-fire"></i>
+            <span>Popular Games</span>
+          </h3>
+          <div class="sidebar-games">
+            {
+              games.popular.slice(0, 4).map((game, index) => (
+                <div class={`music-element hero-music-delay-${8 + index}`}>
+                  <GameCard game={game} variant="sidebar" />
+                </div>
+              ))
+            }
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<script>
+  function toggleFullscreen() {
+    const iframe = document.getElementById('main-game-iframe')
+    const wrapper = iframe?.closest('.game-iframe-wrapper')
+
+    if (wrapper) {
+      if (!document.fullscreenElement) {
+        wrapper.requestFullscreen()
+      } else {
+        document.exitFullscreen()
+      }
+    }
+  }
+
+  function reloadGame() {
+    const iframe = document.getElementById(
+      'main-game-iframe'
+    ) as HTMLIFrameElement
+    if (iframe) {
+      iframe.src = iframe.src
+    }
+  }
+</script>
+
+<style>
+  /* ==========================================================================
+   Game Main Section - 三栏布局设计
+   ========================================================================== */
+
+  .game-main-section {
+    padding: var(--space-8) 0;
+    min-height: 80vh;
+  }
+
+  .game-main-layout {
+    display: grid;
+    grid-template-columns: 240px 1fr 240px;
+    gap: var(--space-6);
+    align-items: start;
+  }
+
+  /* ==========================================================================
+   Sidebar Design
+   ========================================================================== */
+
+  .game-sidebar {
+    position: sticky;
+    top: calc(80px + var(--space-4));
+  }
+
+  .sidebar-content {
+    padding: var(--space-6);
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
+
+  .sidebar-title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-2);
+    border-bottom: 2px solid var(--color-primary-200);
+  }
+
+  .sidebar-title i {
+    color: var(--color-primary-600);
+  }
+
+  .sidebar-games {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  /* ==========================================================================
+   Main Game Content
+   ========================================================================== */
+
+  .game-main-content {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .game-container {
+    background: var(--hero-sidebar-glass-bg);
+    backdrop-filter: var(--hero-sidebar-glass-blur);
+    -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+    border: var(--hero-sidebar-glass-border);
+    box-shadow: var(--hero-sidebar-glass-shadow);
+    border-radius: var(--border-radius-xl);
+    overflow: hidden;
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
+
+  .game-container:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      0 16px 48px rgba(0, 0, 0, 0.12),
+      0 6px 16px rgba(0, 0, 0, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .game-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-4) var(--space-6);
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.9),
+      rgba(248, 250, 252, 0.8)
+    );
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .game-header-title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin: 0;
+  }
+
+  .game-header-title i {
+    color: var(--color-primary-600);
+  }
+
+  .game-controls {
+    display: flex;
+    gap: var(--space-2);
+  }
+
+  .control-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--border-radius-md);
+    color: var(--color-gray-600);
+    cursor: pointer;
+    transition: all var(--duration-200) var(--ease-in-out);
+  }
+
+  .control-btn:hover {
+    background: var(--color-primary-50);
+    color: var(--color-primary-600);
+    border-color: var(--color-primary-200);
+    transform: translateY(-1px);
+  }
+
+  .game-iframe-wrapper {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: var(--color-gray-900);
+    border-radius: 0 0 var(--border-radius-xl) var(--border-radius-xl);
+    overflow: hidden;
+  }
+
+  /* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+  @media (min-width: 1400px) {
+    .game-main-layout {
+      grid-template-columns: 280px 1fr 280px;
+      gap: var(--space-8);
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .game-main-layout {
+      grid-template-columns: 220px 1fr 220px;
+      gap: var(--space-4);
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .game-main-layout {
+      grid-template-columns: 1fr;
+      gap: var(--space-6);
+    }
+
+    .game-sidebar {
+      position: static;
+    }
+
+    .game-main-content {
+      order: -1;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .game-main-section {
+      padding: var(--space-6) 0;
+    }
+
+    .sidebar-content {
+      padding: var(--space-4);
+    }
+
+    .sidebar-games {
+      grid-template-columns: repeat(2, 1fr);
+      display: grid;
+      gap: var(--space-2);
+    }
+
+    .game-header {
+      padding: var(--space-3) var(--space-4);
+    }
+
+    .game-header-title {
+      font-size: var(--font-size-lg);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .game-main-layout {
+      gap: var(--space-4);
+    }
+
+    .sidebar-games {
+      grid-template-columns: 1fr;
+    }
+
+    .game-controls {
+      gap: var(--space-1);
+    }
+
+    .control-btn {
+      width: 32px;
+      height: 32px;
+    }
+  }
+</style>
