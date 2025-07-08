@@ -132,29 +132,6 @@
 
       </div>
     </div>
-    
-    <!-- Call to Action -->
-    <div class="cta-section scroll-animate">
-      <div class="cta-content">
-        <div class="cta-icon">🎵</div>
-        <h3 class="cta-title">Ready to Create Musical Chaos?</h3>
-        <p class="cta-description">Experience the wildest Incredibox mod with absurd characters and catchy beats!</p>
-        <div class="cta-stats">
-          <div class="stat-item">
-            <span class="stat-number">27</span>
-            <span class="stat-label">Characters</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-number">206</span>
-            <span class="stat-label">BPM</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-number">100%</span>
-            <span class="stat-label">Hilarious</span>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
@@ -506,123 +483,6 @@
    ========================================================================== */
 
 
-/* ==========================================================================
-   Call to Action Section
-   ========================================================================== */
-
-.cta-section {
-  margin-top: var(--space-10);
-  display: flex;
-  justify-content: center;
-}
-
-.cta-content {
-  text-align: center;
-  padding: var(--space-6) var(--space-8);
-  background: linear-gradient(
-    135deg,
-    rgba(147, 51, 234, 0.15) 0%,
-    rgba(168, 85, 247, 0.1) 50%,
-    rgba(192, 132, 252, 0.15) 100%
-  );
-  backdrop-filter: blur(20px) saturate(180%);
-  -webkit-backdrop-filter: blur(20px) saturate(180%);
-  border: 1px solid rgba(147, 51, 234, 0.3);
-  border-radius: var(--border-radius-xl);
-  box-shadow:
-    0 8px 32px rgba(147, 51, 234, 0.15),
-    0 1px 3px rgba(147, 51, 234, 0.08),
-    inset 0 1px 0 rgba(255, 255, 255, 0.3);
-  transition: all var(--duration-300) var(--ease-rhythm);
-  position: relative;
-  overflow: hidden;
-  max-width: 600px;
-}
-
-.cta-content::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    rgba(147, 51, 234, 0.05) 50%,
-    transparent 100%
-  );
-  animation: shimmer 3s ease-in-out infinite;
-}
-
-@keyframes shimmer {
-  0%, 100% { transform: translateX(-100%); }
-  50% { transform: translateX(100%); }
-}
-
-.cta-content:hover {
-  transform: translateY(-2px);
-  box-shadow:
-    0 12px 40px rgba(147, 51, 234, 0.2),
-    0 4px 12px rgba(147, 51, 234, 0.15),
-    inset 0 1px 0 rgba(255, 255, 255, 0.4);
-  border-color: rgba(147, 51, 234, 0.4);
-}
-
-.cta-icon {
-  font-size: var(--font-size-4xl);
-  animation: pulse 2s ease-in-out infinite;
-  margin-bottom: var(--space-3);
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-}
-
-.cta-title {
-  font-size: var(--font-size-2xl);
-  font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-3) 0;
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.cta-description {
-  font-size: var(--font-size-lg);
-  color: var(--color-gray-700);
-  margin: 0 0 var(--space-6) 0;
-}
-
-.cta-stats {
-  display: flex;
-  justify-content: center;
-  gap: var(--space-6);
-}
-
-.stat-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: var(--space-1);
-}
-
-.stat-number {
-  font-size: var(--font-size-2xl);
-  font-weight: var(--font-weight-bold);
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.stat-label {
-  font-size: var(--font-size-sm);
-  color: var(--color-gray-600);
-  font-weight: var(--font-weight-medium);
-}
 
 @media (max-width: 768px) {
   .section-header {
@@ -649,27 +509,6 @@
     flex-direction: column;
     text-align: center;
   }
-  
-  .cta-content {
-    padding: var(--space-4) var(--space-6);
-    margin: 0 var(--space-4);
-  }
-  
-  .cta-title {
-    font-size: var(--font-size-xl);
-  }
-  
-  .cta-description {
-    font-size: var(--font-size-md);
-  }
-  
-  .cta-stats {
-    flex-direction: column;
-    gap: var(--space-3);
-  }
-  
-  .cta-icon {
-    font-size: var(--font-size-3xl);
   }
 }
 

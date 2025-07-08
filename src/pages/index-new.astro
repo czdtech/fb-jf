@@ -2,9 +2,6 @@
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Header from '@/components/Header.astro'
 import Footer from '@/components/Footer.astro'
-import GameCard from '@/components/GameCard.astro'
-import GameIframe from '@/components/GameIframe.astro'
-import SoundSample from '@/components/SoundSample.astro'
 
 // 导入Section组件
 import HeroSection from '@/components/sections/HeroSection.astro'
@@ -13,7 +10,6 @@ import AboutSection from '@/components/sections/AboutSection.astro'
 import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
-import CommentsSection from '@/components/sections/CommentsSection.astro'
 
 // Hero设计系统已整合至 components.css
 
@@ -72,8 +68,6 @@ const structuredData = {
     <!-- FAQ Section -->
     <FAQSection />
 
-    <!-- Comments Section -->
-    <CommentsSection />
   </main>
 
   <Footer />
@@ -97,8 +91,8 @@ const structuredData = {
     console.log(`Found ${cards.length} sound sample cards`);
 
     cards.forEach((card, index) => {
-      const audioId = card.dataset.sampleId;
-      const audio = document.getElementById(audioId) as HTMLAudioElement;
+      const audioId = (card as HTMLElement).dataset.sampleId;
+      const audio = document.getElementById(audioId || '') as HTMLAudioElement;
       const playBtn = card.querySelector('.play-btn') as HTMLElement;
 
       console.log(`Card ${index}: audioId=${audioId}, audio=${!!audio}, button=${!!playBtn}`);
