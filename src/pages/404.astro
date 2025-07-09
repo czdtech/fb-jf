@@ -1,126 +1,394 @@
 ---
-import NAV from './nav.astro';
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Header from '@/components/Header.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+
+const { navigation } = extractedData
+
+// 多语言配置
+const hreflangLinks = navigation.languages.map((lang: any) => ({
+  code: lang.code === 'en' ? 'x-default' : lang.code,
+  url: `https://www.playfiddlebops.com/404/`,
+  label: lang.label,
+}))
+
+// Meta data for 404 page
+const meta = {
+  title: "404 - Page Not Found | FiddleBops",
+  description: "The page you are looking for could not be found. Please return to the homepage or check the URL.",
+  canonical: "https://www.playfiddlebops.com/404/",
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "noindex, nofollow"
+}
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 - Page Not Found | FiddleBops</title>
-    <meta name="description" content="The page you are looking for could not be found. Please return to the homepage or check the URL.">
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="stylesheet" href="/main.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:80px 30px;border-radius:15px;margin-bottom:20px}
-      .page .title{color:#fff}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
 
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
+<BaseLayout
+  meta={meta}
+  lang="en"
+  hreflang={hreflangLinks}
+>
+  <Header
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath="/404/"
+  />
 
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div class="logo">
-              <h1><a href="/">Fiddle<span class="light">Bops</span></a></h1>
-            </div>
-             <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
-            <nav class="nav-menu">
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <NAV />
-                </ul>
-            </nav>
-      <select style="float:right;">
-        <option data-lang="en" data-url="/">English</option>
-        <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
-        <option data-lang="es" data-url="/es/">Español</option>
-        <option data-lang="fr" data-url="/fr/">Français</option>
-        <option data-lang="de" data-url="/de/">Deutsch</option>
-        <option data-lang="ja" data-url="/ja/">日本語</option>
-        <option data-lang="ko" data-url="/ko/">한국어</option>
-        </select>
-        </div>
-    </header>
-
-    <main>
-        <section class="error-404">
-            <div class="container tab-content">
-                <h2>404 - Page Not Found</h2>
-                <p>The page you are looking for does not exist or has been moved. Please check the URL or return to the homepage.</p>
-                <a href="/">Return to Homepage</a>
-            </div>
-        </section>
-    </main>
-
-    <footer>
+  <main class="error-page">
+    <!-- Hero Section with Modern Design -->
+    <section class="error-hero section">
       <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/privacy/">Privacy Policy</a></li>
-                  <li><a href="/terms-of-service/">Terms of service</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+        <div class="error-hero-content">
+          <!-- 面包屑导航 -->
+          <nav class="breadcrumb" aria-label="面包屑导航">
+            <a href="/" class="breadcrumb-link">
+              <i class="fas fa-home"></i>
+              <span>Home</span>
+            </a>
+            <span class="breadcrumb-separator">></span>
+            <span class="breadcrumb-current">404 Error</span>
+          </nav>
+
+          <div class="error-content">
+            <div class="error-number">404</div>
+            <h1 class="error-title heading-display">
+              <span class="title-main">Page</span>
+              <span class="title-accent">Not Found</span>
+            </h1>
+            <p class="error-subtitle body-large">
+              The page you are looking for could not be found. It may have been moved, deleted, or you entered the wrong URL.
+            </p>
+
+            <div class="error-actions">
+              <a href="/" class="btn btn-primary btn-lg">
+                <i class="fas fa-home"></i>
+                <span>Return to Homepage</span>
+              </a>
+              <a href="/games/" class="btn btn-secondary btn-lg">
+                <i class="fas fa-gamepad"></i>
+                <span>Browse Games</span>
+              </a>
+            </div>
+          </div>
+
+          <!-- 装饰性音符 -->
+          <div class="musical-notes">
+            {Array.from({ length: 8 }, (_, i) => (
+              <div class="note" style={`animation-delay: ${i * 0.5}s`}>♪</div>
+            ))}
+          </div>
+        </div>
       </div>
-    </footer>
-  <script>
-    function goToLink(event) {
-      const select = event.target;
-      const selectedOption = select.options[select.selectedIndex];
-      const url = selectedOption.getAttribute('data-url');
-      if (url) {
-      window.location.href = url;
-      }
+    </section>
+
+    <!-- 建议内容区域 -->
+    <section class="error-suggestions section">
+      <div class="container">
+        <div class="section-header center-only">
+          <h2 class="section-title">🎵 Popular Games</h2>
+          <p class="section-description">
+            While you're here, why not try some of our most popular music creation games?
+          </p>
+        </div>
+
+        <div class="suggestions-grid">
+          <div class="suggestion-card glass">
+            <div class="suggestion-icon">🎮</div>
+            <h3 class="suggestion-title">FiddleBops Fix</h3>
+            <p class="suggestion-description">The original FiddleBops experience with improved features</p>
+            <a href="/fiddlebops-fix/" class="suggestion-link">
+              <span>Play Now</span>
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+
+          <div class="suggestion-card glass">
+            <div class="suggestion-icon">🎵</div>
+            <h3 class="suggestion-title">Sprunki Retake</h3>
+            <p class="suggestion-description">A fresh take on the beloved Sprunki musical adventure</p>
+            <a href="/sprunki-retake/" class="suggestion-link">
+              <span>Play Now</span>
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+
+          <div class="suggestion-card glass">
+            <div class="suggestion-icon">🎶</div>
+            <h3 class="suggestion-title">Browse All Games</h3>
+            <p class="suggestion-description">Explore our complete collection of musical games</p>
+            <a href="/games/" class="suggestion-link">
+              <span>Explore</span>
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* ===== 404 ERROR PAGE STYLES ===== */
+
+  /* Page Background */
+  body {
+    background: var(--hero-main-bg);
+    min-height: 100vh;
+  }
+
+  .error-page {
+    background: transparent;
+  }
+
+  /* Error Hero Section */
+  .error-hero {
+    background: var(--hero-main-bg);
+    color: var(--color-text);
+    padding: var(--space-16) 0 var(--space-12);
+    padding-top: calc(80px + var(--space-8)); /* Space for fixed header */
+    position: relative;
+    overflow: hidden;
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+  }
+
+  .error-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--hero-texture-bg);
+    opacity: var(--hero-texture-opacity);
+    pointer-events: none;
+  }
+
+  .error-hero-content {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+  }
+
+  /* Breadcrumb Navigation */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-bottom: var(--space-8);
+    font-size: var(--font-size-sm);
+    justify-content: center;
+  }
+
+  .breadcrumb-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    color: var(--color-primary-600);
+    text-decoration: none;
+    transition: all var(--duration-200) var(--ease-in-out);
+    padding: var(--space-1) var(--space-2);
+    border-radius: var(--border-radius-md);
+  }
+
+  .breadcrumb-link:hover {
+    color: var(--color-primary-700);
+    background: rgba(147, 51, 234, 0.1);
+  }
+
+  .breadcrumb-separator {
+    color: var(--color-gray-400);
+    font-weight: 500;
+  }
+
+  .breadcrumb-current {
+    color: var(--color-gray-600);
+    font-weight: 500;
+  }
+
+  /* Error Content */
+  .error-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .error-number {
+    font-size: 8rem;
+    font-weight: var(--font-weight-bold);
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1;
+    margin-bottom: var(--space-4);
+    text-shadow: 0 4px 20px rgba(147, 51, 234, 0.3);
+  }
+
+  .error-title {
+    margin-bottom: var(--space-6);
+    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .title-main {
+    display: block;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .title-accent {
+    display: block;
+    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .error-subtitle {
+    margin-bottom: var(--space-8);
+    color: var(--color-text-muted);
+  }
+
+  .error-actions {
+    display: flex;
+    gap: var(--space-4);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  /* Musical Notes Animation */
+  .musical-notes {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .note {
+    position: absolute;
+    font-size: 2rem;
+    color: rgba(147, 51, 234, 0.1);
+    animation: float-notes 8s ease-in-out infinite;
+  }
+
+  .note:nth-child(1) { left: 10%; top: 10%; }
+  .note:nth-child(2) { right: 15%; top: 20%; }
+  .note:nth-child(3) { left: 20%; top: 60%; }
+  .note:nth-child(4) { right: 25%; top: 70%; }
+  .note:nth-child(5) { left: 80%; top: 30%; }
+  .note:nth-child(6) { right: 70%; top: 50%; }
+  .note:nth-child(7) { left: 5%; top: 80%; }
+  .note:nth-child(8) { right: 5%; top: 15%; }
+
+  @keyframes float-notes {
+    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+    25% { transform: translateY(-15px) rotate(5deg); opacity: 0.2; }
+    50% { transform: translateY(-25px) rotate(-3deg); opacity: 0.15; }
+    75% { transform: translateY(-10px) rotate(2deg); opacity: 0.2; }
+  }
+
+  /* Suggestions Section */
+  .error-suggestions {
+    background: transparent;
+    padding: var(--space-16) 0;
+  }
+
+  .suggestions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--space-8);
+    margin-top: var(--space-12);
+  }
+
+  .suggestion-card {
+    text-align: center;
+    padding: var(--space-8);
+    border-radius: var(--border-radius-xl);
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
+
+  .suggestion-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(147, 51, 234, 0.2);
+  }
+
+  .suggestion-icon {
+    font-size: 3rem;
+    margin-bottom: var(--space-4);
+  }
+
+  .suggestion-title {
+    margin-bottom: var(--space-3);
+    color: var(--color-text);
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  .suggestion-description {
+    margin-bottom: var(--space-6);
+    color: var(--color-text-muted);
+    line-height: 1.6;
+  }
+
+  .suggestion-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    color: var(--color-primary-600);
+    text-decoration: none;
+    font-weight: var(--font-weight-medium);
+    transition: all var(--duration-200) var(--ease-in-out);
+    padding: var(--space-2) var(--space-4);
+    border-radius: var(--border-radius-md);
+  }
+
+  .suggestion-link:hover {
+    color: var(--color-primary-700);
+    background: rgba(147, 51, 234, 0.1);
+    transform: translateX(4px);
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .error-hero {
+      padding: var(--space-12) 0 var(--space-8);
+      min-height: 60vh;
     }
-    
-    // Add event listener
-    document.addEventListener('DOMContentLoaded', () => {
-      const select = document.querySelector('select');
-      if (select) {
-      select.addEventListener('change', goToLink);
-      
-      // Set current language
-      const currentPath = window.location.pathname;
-      const options = Array.from(select.options);
-      const currentOption = options.find(option => 
-        option.getAttribute('data-url') === currentPath
-      );
-      
-      if (currentOption) {
-        currentOption.selected = true;
-      } else {
-        // If it's the root path or no matching option is found, select English (default language)
-        const defaultOption = options.find(option => 
-        option.getAttribute('data-url') === '/'
-        );
-        if (defaultOption) {
-        defaultOption.selected = true;
-        }
-      }
-      }
-    });
-    </script>
-</body>
-</html>
+
+    .error-number {
+      font-size: 6rem;
+    }
+
+    .error-title {
+      font-size: var(--font-size-3xl);
+    }
+
+    .error-actions {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .suggestions-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-6);
+    }
+
+    .breadcrumb {
+      margin-bottom: var(--space-6);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .error-number {
+      font-size: 4rem;
+    }
+
+    .error-subtitle {
+      font-size: var(--font-size-base);
+    }
+  }
+</style>
