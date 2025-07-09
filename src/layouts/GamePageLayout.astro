@@ -106,14 +106,26 @@ const structuredData = schemaData
 // 从URL中提取当前游戏的slug
 const currentGameSlug = gameData.slug
 
-// 提取特色内容 - 增强支持，支持多种数据结构
-const featuresContent = gameContent?.features
-const otherContent = gameContent?.other
+// 提取所有内容数据 - 确保使用所有字段
 const introductionContent = gameContent?.introduction
+const featuresContent = gameContent?.features
 const gameplayContent = gameContent?.gameplay
+const otherContent = gameContent?.other
+const accessibilityContent = gameContent?.accessibility
+const advantagesContent = gameContent?.advantages
+const conclusionContent = gameContent?.conclusion
 
-// 优先显示 other 内容，如果没有则使用 introduction
-const displayContent = otherContent || introductionContent || gameplayContent
+// 收集所有可用的内容章节
+const contentSections = [
+  { key: 'introduction', data: introductionContent, priority: 1 },
+  { key: 'features', data: featuresContent, priority: 2 },
+  { key: 'gameplay', data: gameplayContent, priority: 3 },
+  { key: 'other', data: otherContent, priority: 4 },
+  { key: 'advantages', data: advantagesContent, priority: 5 },
+  { key: 'accessibility', data: accessibilityContent, priority: 6 },
+  { key: 'conclusion', data: conclusionContent, priority: 7 }
+].filter(section => section.data && section.data.content && section.data.content.length > 0)
+.sort((a, b) => a.priority - b.priority)
 ---
 
 <BaseLayout
@@ -162,39 +174,48 @@ const displayContent = otherContent || introductionContent || gameplayContent
     <!-- How to Play Section: 游戏玩法说明 -->
     <GameHowToPlaySection
       howToPlay={gameData.howToPlay}
+      gameplayContent={gameplayContent}
       gameTitle={gameData.title}
     />
 
-    <!-- Enhanced Content Section: 来自games-extended.json的其他详细内容 -->
+    <!-- Enhanced Content Sections: 来自games-extended.json的所有详细内容 -->
     {
-      displayContent && (
-        <section class="game-enhanced-content-section scroll-animate">
+      contentSections.map((section, sectionIndex) => (
+        <section class={`game-enhanced-content-section scroll-animate content-section-${section.key}`}>
           <div class="container">
-            <div class="content-wrapper music-element hero-music-delay-25">
+            <div class={`content-wrapper music-element hero-music-delay-${25 + sectionIndex * 5}`}>
               <div class="content-inner hero-sidebar-effect">
                 <h2 class="content-title">
-                  <i class="fas fa-gamepad" />
-                  {displayContent.title}
+                  <i class={`fas ${
+                    section.key === 'introduction' ? 'fa-play-circle' :
+                    section.key === 'features' ? 'fa-star' :
+                    section.key === 'gameplay' ? 'fa-gamepad' :
+                    section.key === 'advantages' ? 'fa-thumbs-up' :
+                    section.key === 'accessibility' ? 'fa-universal-access' :
+                    section.key === 'conclusion' ? 'fa-flag-checkered' :
+                    'fa-info-circle'
+                  }`} />
+                  {section.data.title}
                 </h2>
                 <div class="content-body">
-                  {displayContent.content.map((section: any, index: number) => {
-                    if (section.type === 'paragraph') {
+                  {section.data.content.map((contentItem: any, itemIndex: number) => {
+                    if (contentItem.type === 'paragraph') {
                       return (
                         <div
-                          class={`content-paragraph music-element hero-music-delay-${26 + index}`}
+                          class={`content-paragraph music-element hero-music-delay-${26 + sectionIndex * 5 + itemIndex}`}
                         >
-                          <p>{section.text}</p>
+                          <p>{contentItem.text}</p>
                         </div>
                       )
-                    } else if (section.type === 'steps') {
+                    } else if (contentItem.type === 'steps') {
                       return (
                         <div
-                          class={`steps-container music-element hero-music-delay-${26 + index}`}
+                          class={`steps-container music-element hero-music-delay-${26 + sectionIndex * 5 + itemIndex}`}
                         >
                           <h3 class="steps-title">Step-by-Step Guide:</h3>
-                          {section.items.map((step: any, stepIndex: number) => (
+                          {contentItem.items.map((step: any, stepIndex: number) => (
                             <div
-                              class={`step-item music-element hero-music-delay-${27 + index + stepIndex}`}
+                              class={`step-item music-element hero-music-delay-${27 + sectionIndex * 5 + itemIndex + stepIndex}`}
                             >
                               <div class="step-number">{stepIndex + 1}</div>
                               <div class="step-content">
@@ -207,14 +228,14 @@ const displayContent = otherContent || introductionContent || gameplayContent
                           ))}
                         </div>
                       )
-                    } else if (section.type === 'list') {
+                    } else if (contentItem.type === 'list') {
                       return (
                         <div
-                          class={`enhanced-feature-list music-element hero-music-delay-${26 + index}`}
+                          class={`enhanced-feature-list music-element hero-music-delay-${26 + sectionIndex * 5 + itemIndex}`}
                         >
-                          {section.items.map((item: any, itemIndex: number) => (
+                          {contentItem.items.map((item: any, listItemIndex: number) => (
                             <div
-                              class={`enhanced-feature-item music-element hero-music-delay-${27 + index + itemIndex}`}
+                              class={`enhanced-feature-item music-element hero-music-delay-${27 + sectionIndex * 5 + itemIndex + listItemIndex}`}
                             >
                               <div class="feature-icon">
                                 <i class="fas fa-check-circle" />
@@ -237,7 +258,7 @@ const displayContent = otherContent || introductionContent || gameplayContent
             </div>
           </div>
         </section>
-      )
+      ))
     }
 
     <!-- Related Games Section: 相关游戏推荐 -->
@@ -281,6 +302,55 @@ const displayContent = otherContent || introductionContent || gameplayContent
       135deg,
       rgba(255, 255, 255, 0.9),
       rgba(248, 250, 252, 0.95)
+    );
+  }
+
+  /* 为不同内容区块添加不同的背景 */
+  .content-section-introduction {
+    background: linear-gradient(
+      135deg,
+      rgba(59, 130, 246, 0.05),
+      rgba(147, 51, 234, 0.05)
+    );
+  }
+
+  .content-section-features {
+    background: linear-gradient(
+      135deg,
+      rgba(16, 185, 129, 0.05),
+      rgba(5, 150, 105, 0.05)
+    );
+  }
+
+  .content-section-gameplay {
+    background: linear-gradient(
+      135deg,
+      rgba(245, 158, 11, 0.05),
+      rgba(217, 119, 6, 0.05)
+    );
+  }
+
+  .content-section-advantages {
+    background: linear-gradient(
+      135deg,
+      rgba(239, 68, 68, 0.05),
+      rgba(220, 38, 38, 0.05)
+    );
+  }
+
+  .content-section-accessibility {
+    background: linear-gradient(
+      135deg,
+      rgba(139, 92, 246, 0.05),
+      rgba(124, 58, 237, 0.05)
+    );
+  }
+
+  .content-section-conclusion {
+    background: linear-gradient(
+      135deg,
+      rgba(6, 182, 212, 0.05),
+      rgba(8, 145, 178, 0.05)
     );
   }
 
@@ -433,20 +503,12 @@ const displayContent = otherContent || introductionContent || gameplayContent
   }
 
   .enhanced-feature-item .feature-icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    background: linear-gradient(
-      135deg,
-      var(--color-primary-500),
-      var(--color-primary-600)
-    );
-    border-radius: var(--border-radius-full);
-    color: white;
-    font-size: var(--font-size-lg);
+    color: var(--color-primary-600);
+    font-size: var(--font-size-xl);
     flex-shrink: 0;
+    width: 24px;
+    text-align: center;
+    margin-top: var(--space-1);
   }
 
   .enhanced-feature-item .feature-content {
@@ -469,7 +531,7 @@ const displayContent = otherContent || introductionContent || gameplayContent
   /* 响应式设计 */
   @media (max-width: 768px) {
     .game-enhanced-content-section {
-      padding: var(--space-10) 0;
+      padding: var(--space-8) 0;
     }
 
     .content-inner {
@@ -479,30 +541,51 @@ const displayContent = otherContent || introductionContent || gameplayContent
     .content-title {
       font-size: var(--font-size-xl);
       flex-direction: column;
+      text-align: center;
       gap: var(--space-2);
     }
 
     .step-item {
       flex-direction: column;
       text-align: center;
-      padding: var(--space-4);
     }
 
     .step-number {
-      margin: 0 auto var(--space-3);
-      width: 40px;
-      height: 40px;
-      font-size: var(--font-size-lg);
+      align-self: center;
     }
 
     .enhanced-feature-item {
       flex-direction: column;
       text-align: center;
-      padding: var(--space-4);
     }
 
     .enhanced-feature-item .feature-icon {
-      margin: 0 auto var(--space-3);
+      align-self: center;
     }
+  }
+
+  /* 动画增强 */
+  .content-section-introduction .content-inner {
+    border-left: 4px solid var(--color-blue-500);
+  }
+
+  .content-section-features .content-inner {
+    border-left: 4px solid var(--color-green-500);
+  }
+
+  .content-section-gameplay .content-inner {
+    border-left: 4px solid var(--color-amber-500);
+  }
+
+  .content-section-advantages .content-inner {
+    border-left: 4px solid var(--color-red-500);
+  }
+
+  .content-section-accessibility .content-inner {
+    border-left: 4px solid var(--color-purple-500);
+  }
+
+  .content-section-conclusion .content-inner {
+    border-left: 4px solid var(--color-cyan-500);
   }
 </style>

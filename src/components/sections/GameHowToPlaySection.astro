@@ -2,9 +2,24 @@
 interface Props {
   howToPlay?: string[]
   gameTitle: string
+  // 新增：支持来自 games-extended.json 的游戏玩法内容
+  gameplayContent?: {
+    title: string
+    content: Array<{
+      type: string
+      text?: string
+      items?: Array<{
+        title: string
+        description: string
+      }>
+    }>
+  }
 }
 
-const { howToPlay, gameTitle } = Astro.props
+const { howToPlay, gameTitle, gameplayContent } = Astro.props
+
+// 如果有详细的游戏玩法内容，优先使用；否则使用简单的玩法说明或默认内容
+const hasDetailedGameplay = gameplayContent && gameplayContent.content.length > 0
 
 // 如果没有提供玩法说明，使用默认的
 const defaultSteps = [
@@ -18,59 +33,112 @@ const defaultSteps = [
 const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultSteps
 ---
 
-{displaySteps && displaySteps.length > 0 && (
+{(hasDetailedGameplay || (displaySteps && displaySteps.length > 0)) && (
   <section class="game-howtoplay-section scroll-animate">
     <div class="container">
       <div class="section-header music-element hero-music-delay-20">
         <h2 class="section-title">
           <i class="fas fa-gamepad"></i>
-          How to Play
+          {hasDetailedGameplay ? gameplayContent.title : 'How to Play'}
         </h2>
         <p class="section-subtitle">
-          Quick guide to get started with {gameTitle}
+          {hasDetailedGameplay
+            ? `Master the gameplay mechanics of ${gameTitle}`
+            : `Quick guide to get started with ${gameTitle}`}
         </p>
       </div>
 
-      <div class="steps-container">
-        {displaySteps.map((step, index) => (
-          <div class={`step-card music-element hero-music-delay-${21 + index}`}>
-            <div class="step-content hero-sidebar-effect">
-              <div class="step-number">
-                <span>{index + 1}</span>
-                <div class="number-glow"></div>
-              </div>
-              <div class="step-info">
-                <h3 class="step-title">Step {index + 1}</h3>
-                <p class="step-text">{step}</p>
-              </div>
-              <div class="step-arrow">
-                <i class="fas fa-arrow-right"></i>
+      {hasDetailedGameplay ? (
+        <!-- 使用来自 games-extended.json 的详细游戏玩法内容 -->
+        <div class="detailed-gameplay-content">
+          {gameplayContent.content.map((section: any, sectionIndex: number) => {
+            if (section.type === 'paragraph') {
+              return (
+                <div class={`gameplay-paragraph music-element hero-music-delay-${21 + sectionIndex}`}>
+                  <p class="gameplay-description-text">{section.text}</p>
+                </div>
+              )
+            } else if (section.type === 'list') {
+              return (
+                <div class="enhanced-gameplay-grid">
+                  {section.items.map((item: any, index: number) => (
+                    <div class={`enhanced-gameplay-card music-element hero-music-delay-${21 + sectionIndex + index}`}>
+                      <div class="gameplay-content hero-sidebar-effect">
+                        <div class="gameplay-icon">
+                          <i class="fas fa-play-circle" />
+                        </div>
+                        <div class="gameplay-text-content">
+                          <h4 class="gameplay-title">{item.title}</h4>
+                          <p class="gameplay-description">{item.description}</p>
+                        </div>
+                        <div class="gameplay-glow" />
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )
+            } else if (section.type === 'steps') {
+              return (
+                <div class="steps-container">
+                  <h3 class="steps-title">Step-by-Step Guide:</h3>
+                  {section.items.map((step: any, stepIndex: number) => (
+                    <div class={`step-item music-element hero-music-delay-${21 + sectionIndex + stepIndex}`}>
+                      <div class="step-number">{stepIndex + 1}</div>
+                      <div class="step-content">
+                        <h4 class="step-title">{step.title}</h4>
+                        <p class="step-description">{step.description}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )
+            }
+            return null
+          })}
+        </div>
+      ) : (
+        <!-- 使用简单的步骤列表 -->
+        <div class="steps-container">
+          {displaySteps.map((step, index) => (
+            <div class={`step-card music-element hero-music-delay-${21 + index}`}>
+              <div class="step-content hero-sidebar-effect">
+                <div class="step-number">
+                  <span>{index + 1}</span>
+                  <div class="number-glow"></div>
+                </div>
+                <div class="step-info">
+                  <h3 class="step-title">Step {index + 1}</h3>
+                  <p class="step-text">{step}</p>
+                </div>
+                <div class="step-arrow">
+                  <i class="fas fa-arrow-right"></i>
+                </div>
               </div>
             </div>
-          </div>
-        ))}
-      </div>
+          ))}
+        </div>
+      )}
 
       <!-- Pro Tips -->
       <div class="pro-tips music-element hero-music-delay-30">
-        <div class="tips-content hero-sidebar-effect">
-          <h3 class="tips-title">
+        <div class="pro-tips-header">
+          <h3 class="pro-tips-title">
             <i class="fas fa-lightbulb"></i>
             Pro Tips
           </h3>
-          <div class="tips-grid">
-            <div class="tip-item">
-              <i class="fas fa-headphones"></i>
-              <span>Use headphones for the best audio experience</span>
-            </div>
-            <div class="tip-item">
-              <i class="fas fa-save"></i>
-              <span>Save your creations regularly</span>
-            </div>
-            <div class="tip-item">
-              <i class="fas fa-users"></i>
-              <span>Share your music with friends</span>
-            </div>
+        </div>
+        <div class="tips-grid">
+          <div class="tip-item">
+            <i class="fas fa-music"></i>
+            <span>Experiment with different character combinations to discover unique sounds</span>
+          </div>
+          <div class="tip-item">
+            <i class="fas fa-volume-up"></i>
+            <span>Adjust individual character volumes for perfect balance</span>
+          </div>
+          <div class="tip-item">
+            <i class="fas fa-save"></i>
+            <span>Save your favorite compositions to share with friends</span>
           </div>
         </div>
       </div>
@@ -80,17 +148,24 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
 
 <style>
   /* ==========================================================================
-   Game How To Play Section
+   Game How to Play Section
    ========================================================================== */
 
   .game-howtoplay-section {
     padding: var(--space-12) 0;
-    position: relative;
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.9),
+      rgba(248, 250, 252, 0.95)
+    );
   }
 
   .section-header {
     text-align: center;
     margin-bottom: var(--space-10);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .section-title {
@@ -102,7 +177,11 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
     font-weight: var(--font-weight-bold);
     color: var(--color-gray-900);
     margin-bottom: var(--space-3);
-    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -121,23 +200,119 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
     margin: 0 auto;
   }
 
-  /* Steps Container */
-  .steps-container {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-6);
-    max-width: 800px;
-    margin: 0 auto var(--space-12);
+  /* 详细游戏玩法内容样式 */
+  .detailed-gameplay-content {
+    max-width: 1200px;
+    margin: 0 auto;
   }
 
-  .step-card {
+  .gameplay-paragraph {
+    margin-bottom: var(--space-8);
+    text-align: center;
+  }
+
+  .gameplay-description-text {
+    font-size: var(--font-size-lg);
+    line-height: var(--line-height-relaxed);
+    color: var(--color-gray-700);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .enhanced-gameplay-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--space-6);
+    margin: var(--space-8) 0;
+  }
+
+  .enhanced-gameplay-card {
     position: relative;
+  }
+
+  .gameplay-content {
+    padding: var(--space-6);
+    border-radius: var(--border-radius-xl);
+    position: relative;
+    overflow: hidden;
+    transition: all var(--duration-300) var(--ease-in-out);
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+
+  .gameplay-content:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+  }
+
+  .gameplay-icon {
+    color: var(--color-primary-600);
+    font-size: var(--font-size-3xl);
+    text-align: center;
+  }
+
+  .gameplay-text-content {
+    text-align: center;
+    flex: 1;
+  }
+
+  .gameplay-title {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-3);
+  }
+
+  .gameplay-description {
+    color: var(--color-gray-600);
+    line-height: var(--line-height-relaxed);
+  }
+
+  .gameplay-glow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+      135deg,
+      rgba(var(--color-primary-500-rgb), 0.1),
+      rgba(var(--color-primary-600-rgb), 0.05)
+    );
+    opacity: 0;
+    transition: opacity var(--duration-300) var(--ease-in-out);
+    pointer-events: none;
+  }
+
+  .gameplay-content:hover .gameplay-glow {
+    opacity: 1;
+  }
+
+  /* Steps Container 样式 */
+  .steps-container {
+    max-width: 800px;
+    margin: 0 auto var(--space-8);
+  }
+
+  .steps-title {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-800);
+    margin-bottom: var(--space-6);
+    text-align: center;
+  }
+
+  .step-card,
+  .step-item {
+    margin-bottom: var(--space-6);
   }
 
   .step-content {
     display: flex;
     align-items: center;
-    gap: var(--space-6);
+    gap: var(--space-4);
     padding: var(--space-6);
     border-radius: var(--border-radius-xl);
     transition: all var(--duration-300) var(--ease-in-out);
@@ -146,33 +321,42 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
   }
 
   .step-content:hover {
-    transform: translateX(8px);
-    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12),
-                0 6px 16px rgba(0, 0, 0, 0.08),
-                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    transform: translateX(var(--space-2));
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
   }
 
   .step-number {
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
-    border-radius: var(--border-radius-full);
+    border-radius: 50%;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
     color: white;
-    font-size: var(--font-size-xl);
     font-weight: var(--font-weight-bold);
-    box-shadow: 0 8px 24px rgba(147, 51, 234, 0.3);
+    font-size: var(--font-size-xl);
     flex-shrink: 0;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(147, 51, 234, 0.3);
   }
 
   .number-glow {
     position: absolute;
-    inset: -4px;
-    background: linear-gradient(45deg, var(--color-primary-400), var(--color-primary-600));
-    border-radius: var(--border-radius-full);
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 50%;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-400),
+      var(--color-primary-500)
+    );
     opacity: 0;
     transition: opacity var(--duration-300) var(--ease-in-out);
     z-index: -1;
@@ -189,63 +373,57 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
   .step-title {
     font-size: var(--font-size-lg);
     font-weight: var(--font-weight-semibold);
-    color: var(--color-gray-800);
+    color: var(--color-gray-900);
     margin-bottom: var(--space-2);
   }
 
-  .step-text {
-    font-size: var(--font-size-base);
+  .step-text,
+  .step-description {
     color: var(--color-gray-600);
     line-height: var(--line-height-relaxed);
-    margin: 0;
   }
 
   .step-arrow {
     color: var(--color-primary-500);
-    font-size: var(--font-size-lg);
-    opacity: 0;
-    transform: translateX(-10px);
+    font-size: var(--font-size-xl);
+    opacity: 0.7;
     transition: all var(--duration-300) var(--ease-in-out);
   }
 
   .step-content:hover .step-arrow {
     opacity: 1;
-    transform: translateX(0);
+    transform: translateX(var(--space-1));
   }
 
-  /* Pro Tips */
+  /* Pro Tips Section */
   .pro-tips {
-    max-width: 900px;
-    margin: 0 auto;
-  }
-
-  .tips-content {
-    padding: var(--space-8);
+    background: var(--glass-bg);
+    backdrop-filter: var(--glass-backdrop);
+    border: 1px solid var(--glass-border);
     border-radius: var(--border-radius-xl);
-    transition: all var(--duration-300) var(--ease-in-out);
+    padding: var(--space-8);
+    margin-top: var(--space-12);
+    box-shadow: var(--glass-shadow);
   }
 
-  .tips-content:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15),
-                0 8px 24px rgba(0, 0, 0, 0.1),
-                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  .pro-tips-header {
+    text-align: center;
+    margin-bottom: var(--space-6);
   }
 
-  .tips-title {
+  .pro-tips-title {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: var(--space-3);
     font-size: var(--font-size-xl);
     font-weight: var(--font-weight-semibold);
-    color: var(--color-gray-800);
-    margin-bottom: var(--space-6);
-    text-align: center;
-    justify-content: center;
+    color: var(--color-gray-900);
+    margin: 0;
   }
 
-  .tips-title i {
-    color: #fbbf24;
+  .pro-tips-title i {
+    color: var(--color-amber-500);
   }
 
   .tips-grid {
@@ -256,7 +434,7 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
 
   .tip-item {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: var(--space-3);
     padding: var(--space-4);
     background: rgba(255, 255, 255, 0.5);
@@ -272,18 +450,20 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
   .tip-item i {
     color: var(--color-primary-600);
     font-size: var(--font-size-lg);
+    margin-top: var(--space-1);
+    flex-shrink: 0;
   }
 
   .tip-item span {
-    font-size: var(--font-size-sm);
     color: var(--color-gray-700);
-    font-weight: var(--font-weight-medium);
+    font-size: var(--font-size-sm);
+    line-height: var(--line-height-relaxed);
   }
 
   /* 响应式设计 */
   @media (max-width: 768px) {
     .game-howtoplay-section {
-      padding: var(--space-10) 0;
+      padding: var(--space-8) 0;
     }
 
     .section-title {
@@ -292,50 +472,41 @@ const displaySteps = howToPlay && howToPlay.length > 0 ? howToPlay : defaultStep
       gap: var(--space-2);
     }
 
-    .section-subtitle {
-      font-size: var(--font-size-base);
+    .enhanced-gameplay-grid {
+      grid-template-columns: 1fr;
     }
 
     .step-content {
       flex-direction: column;
       text-align: center;
-      gap: var(--space-4);
-    }
-
-    .step-content:hover {
-      transform: translateY(-4px);
+      gap: var(--space-3);
     }
 
     .step-arrow {
-      display: none;
+      transform: rotate(90deg);
     }
 
-    .tips-content {
-      padding: var(--space-6);
+    .step-content:hover .step-arrow {
+      transform: rotate(90deg) translateY(-var(--space-1));
     }
 
     .tips-grid {
       grid-template-columns: 1fr;
-      gap: var(--space-3);
+    }
+
+    .pro-tips {
+      padding: var(--space-6);
     }
   }
 
   @media (max-width: 480px) {
-    .steps-container {
-      gap: var(--space-4);
-    }
-
-    .step-content {
-      padding: var(--space-4);
-    }
-
     .step-number {
       width: 50px;
       height: 50px;
       font-size: var(--font-size-lg);
     }
 
-    .tips-content {
+    .gameplay-content {
       padding: var(--space-4);
     }
 
