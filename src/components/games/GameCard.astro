@@ -1,0 +1,563 @@
+---
+// 定义明确的类型接口，提高类型安全
+interface Props {
+  slug: string;
+  imagePath: string;
+  title: string;
+  category: string;
+  rating: number;
+  index: number;
+}
+
+// 解构组件参数
+const { 
+  slug, 
+  imagePath, 
+  title, 
+  category, 
+  rating = 0, 
+  index = 0 
+} = Astro.props;
+
+// 格式化分类名称的函数
+const categoryNames = {
+  'popular': 'Popular',
+  'new': 'New Release',
+  'trending': 'Trending',
+  'featured': 'Featured',
+  'classic': 'Classic'
+};
+
+// 分类色彩映射 - 增加视觉丰富度
+const categoryColors = {
+  'popular': {
+    gradient: 'linear-gradient(135deg, #fde68a 0%, #f59e0b 100%)',
+    glow: 'rgba(245, 158, 11, 0.5)'
+  },
+  'new': {
+    gradient: 'linear-gradient(135deg, #a7f3d0 0%, #10b981 100%)',
+    glow: 'rgba(16, 185, 129, 0.5)'
+  },
+  'trending': {
+    gradient: 'linear-gradient(135deg, #bfdbfe 0%, #3b82f6 100%)',
+    glow: 'rgba(59, 130, 246, 0.5)'
+  },
+  'featured': {
+    gradient: 'linear-gradient(135deg, #ddd6fe 0%, #8b5cf6 100%)',
+    glow: 'rgba(139, 92, 246, 0.5)'
+  },
+  'classic': {
+    gradient: 'linear-gradient(135deg, #fecaca 0%, #ef4444 100%)',
+    glow: 'rgba(239, 68, 68, 0.5)'
+  },
+};
+
+// 获取当前类别的色彩方案
+const colorScheme = categoryColors[category as keyof typeof categoryColors] || {
+  gradient: 'linear-gradient(135deg, #c4b5fd 0%, #8b5cf6 100%)',
+  glow: 'rgba(139, 92, 246, 0.5)'
+};
+
+const formatCategory = (cat: string) => {
+  return categoryNames[cat as keyof typeof categoryNames] || 'Music Creation';
+};
+
+const formattedCategory = formatCategory(category);
+
+// 生成星星评分HTML - 优化视觉表现
+const generateStars = (rating: number) => {
+  const fullStars = Math.floor(rating);
+  const hasHalfStar = rating % 1 >= 0.5;
+  const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+  
+  let starsHTML = '';
+  
+  // 完整星星
+  for (let i = 0; i < fullStars; i++) {
+    starsHTML += `<span class="star filled">
+      <svg viewBox="0 0 20 20" fill="currentColor" class="star-icon">
+        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+      </svg>
+    </span>`;
+  }
+  
+  // 半星
+  if (hasHalfStar) {
+    starsHTML += `<span class="star half-filled">
+      <svg viewBox="0 0 20 20" fill="currentColor" class="star-icon empty">
+        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+      </svg>
+      <svg viewBox="0 0 20 20" fill="currentColor" class="star-icon filled half">
+        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+      </svg>
+    </span>`;
+  }
+  
+  // 空星星
+  for (let i = 0; i < emptyStars; i++) {
+    starsHTML += `<span class="star empty">
+      <svg viewBox="0 0 20 20" fill="currentColor" class="star-icon">
+        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+      </svg>
+    </span>`;
+  }
+  
+  return starsHTML;
+};
+---
+
+<article 
+  class="game-card glass animate-in" 
+  data-index={index} 
+  style={`animation-delay: ${index * 0.08}s`}
+>
+  <div class="game-card-glows">
+    <div class="glow-effect" style={`background: ${colorScheme.gradient}`}></div>
+    <div class="subtle-noise"></div>
+  </div>
+  
+  <a href={`/${slug}/`} class="game-link" title={title}>
+    <div class="game-card-inner">
+      <!-- 游戏图片容器 -->
+      <div class="game-image-container">
+        <!-- 分类标签 -->
+        <div class="game-category-badge" style={`background: ${colorScheme.gradient}`}>
+          {formattedCategory}
+          <div class="badge-glow"></div>
+        </div>
+        
+        <div class="game-image-overlay">
+          <div class="play-button glass">
+            <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+            <div class="play-ripple"></div>
+          </div>
+          <div class="game-glow" style={`background: radial-gradient(circle at center, ${colorScheme.glow} 0%, transparent 70%)`}></div>
+        </div>
+        
+        <img
+          src={imagePath}
+          alt={title}
+          class="game-image"
+          loading="lazy"
+          decoding="async"
+        />
+        
+        <!-- 图片底部渐变阴影 -->
+        <div class="image-bottom-fade"></div>
+      </div>
+
+      <!-- 游戏信息 -->
+      <div class="game-info">
+        <h3 class="game-title heading-medium">{title}</h3>
+        
+        <div class="game-meta">
+          <div class="game-rating">
+            <div class="stars" set:html={generateStars(rating)}></div>
+            <span class="rating-value">{rating.toFixed(1)}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+  
+  <!-- 卡片边缘发光效果 -->
+  <div class="card-edge-highlight"></div>
+</article>
+
+<style>
+  /* 基础卡片样式 - 增强玻璃态效果 */
+  .game-card {
+    background: var(--hero-sidebar-glass-bg);
+    backdrop-filter: var(--hero-sidebar-glass-blur);
+    -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+    border: var(--hero-sidebar-glass-border);
+    box-shadow:
+      var(--hero-sidebar-glass-shadow),
+      0 4px 20px rgba(147, 51, 234, 0.05);
+    border-radius: var(--border-radius-xl);
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+    opacity: 1;
+    transform: translateY(0);
+    display: block;
+    position: relative;
+    will-change: transform, opacity, box-shadow; /* 性能优化 */
+    z-index: 1; /* 确保默认层级 */
+    isolation: isolate; /* 创建层叠上下文 */
+  }
+
+  /* 优化的入场动画 */
+  @keyframes slideInUp {
+    from {
+      opacity: 0;
+      transform: translateY(40px) scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  .animate-in {
+    animation: slideInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+    animation-play-state: running;
+  }
+
+  /* 卡片悬停效果 - 更加精致的变换 */
+  .game-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow:
+      0 25px 50px rgba(147, 51, 234, 0.2),
+      0 12px 24px rgba(0, 0, 0, 0.12),
+      0 4px 12px rgba(147, 51, 234, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.6);
+    border-color: rgba(147, 51, 234, 0.3);
+    z-index: 10; /* 悬停时提高层级 */
+  }
+
+  /* 精致的卡片发光效果容器 */
+  .game-card-glows {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    border-radius: inherit;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  /* 主要发光效果 */
+  .glow-effect {
+    position: absolute;
+    top: -100%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    opacity: 0;
+    transform: rotate(-15deg) translateY(100%);
+    filter: blur(40px);
+    transition: all 1.2s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .game-card:hover .glow-effect {
+    opacity: 0.12;
+    transform: rotate(-15deg) translateY(0);
+  }
+
+  /* 噪点纹理 - 添加质感 */
+  .subtle-noise {
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    opacity: 0.015;
+    mix-blend-mode: overlay;
+    pointer-events: none;
+  }
+
+  /* 卡片边缘高光 */
+  .card-edge-highlight {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    pointer-events: none;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+
+  .game-card:hover .card-edge-highlight {
+    opacity: 1;
+  }
+
+  .game-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+  }
+
+  .game-card-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  /* 游戏图片容器 - 增强深度 */
+  .game-image-container {
+    position: relative;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+  }
+
+  /* 图片底部渐变阴影 - 增加深度感 */
+  .image-bottom-fade {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 0%, transparent 100%);
+    z-index: 1;
+    opacity: 0.6;
+    transition: opacity 0.5s ease;
+  }
+
+  .game-card:hover .image-bottom-fade {
+    opacity: 0.8;
+  }
+
+  .game-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform-origin: center;
+    transition: transform 1.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+    will-change: transform; /* 性能优化 */
+  }
+
+  .game-card:hover .game-image {
+    transform: scale(1.08);
+  }
+
+  /* 分类标签 - 移至图片左上角 */
+  .game-category-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    padding: var(--space-1) var(--space-3);
+    color: white;
+    border-radius: var(--border-radius-full);
+    font-weight: var(--font-weight-medium);
+    font-size: var(--font-size-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+  }
+
+  .badge-glow {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    filter: blur(6px);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    z-index: -1;
+  }
+
+  .game-card:hover .badge-glow {
+    opacity: 0.6;
+  }
+
+  .game-image-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(17, 24, 39, 0.4);
+    opacity: 0;
+    transition: all 0.5s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+  }
+
+  .game-card:hover .game-image-overlay {
+    opacity: 1;
+  }
+
+  /* 播放按钮 - 更加精致的设计 */
+  .play-button {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    transform: scale(0.8);
+    transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* 播放按钮涟漪效果 */
+  .play-ripple {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    transform: scale(0.8);
+    opacity: 0;
+  }
+
+  .game-card:hover .play-button {
+    transform: scale(1);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+
+  .game-card:hover .play-ripple {
+    animation: ripple 1.5s cubic-bezier(0, 0, 0.2, 1) infinite;
+  }
+
+  @keyframes ripple {
+    0% {
+      transform: scale(0.8);
+      opacity: 0.3;
+    }
+    100% {
+      transform: scale(1.5);
+      opacity: 0;
+    }
+  }
+
+  .play-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 0.25rem;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+    transition: transform 0.3s ease;
+  }
+
+  .game-card:hover .play-icon {
+    transform: scale(1.1);
+  }
+
+  .game-glow {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    mix-blend-mode: soft-light;
+  }
+
+  .game-card:hover .game-glow {
+    opacity: 1;
+  }
+
+  /* 游戏信息 - 改进布局 */
+  .game-info {
+    padding: var(--space-5) var(--space-6);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 5;
+  }
+
+  .game-title {
+    margin-bottom: var(--space-2);
+    color: var(--color-text);
+    line-height: 1.3;
+    transition: color 0.3s ease;
+  }
+
+  .game-card:hover .game-title {
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .game-meta {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: var(--font-size-xs);
+    margin-top: var(--space-1);
+  }
+
+  /* 改进的星级评分 */
+  .game-rating {
+    display: flex;
+    align-items: center;
+  }
+
+  .stars {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    color: var(--color-warning);
+  }
+
+  .star {
+    display: inline-flex;
+    position: relative;
+  }
+
+  .star-icon {
+    width: 1rem;
+    height: 1rem;
+    transition: transform 0.3s ease;
+  }
+
+  .star.filled .star-icon {
+    color: #fbbf24;
+    filter: drop-shadow(0 0 2px rgba(251, 191, 36, 0.4));
+  }
+
+  .star.empty .star-icon {
+    color: rgba(107, 114, 128, 0.3);
+  }
+
+  /* 半星效果 */
+  .star.half-filled {
+    position: relative;
+  }
+
+  .star.half-filled .star-icon.empty {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  .star.half-filled .star-icon.filled.half {
+    position: absolute;
+    left: 0;
+    top: 0;
+    clip-path: polygon(0 0, 50% 0, 50% 100%, 0% 100%);
+  }
+
+  .game-card:hover .star-icon {
+    transform: scale(1.1);
+  }
+
+  .rating-value {
+    margin-left: 0.5rem;
+    font-weight: 500;
+    color: var(--color-text-light);
+    opacity: 0.8;
+  }
+
+  /* 移动设备适配优化 */
+  @media (max-width: 640px) {
+    .game-title {
+      font-size: var(--font-size-base);
+    }
+    
+    .play-button {
+      width: 3.5rem;
+      height: 3.5rem;
+    }
+    
+    .play-icon {
+      width: 1.25rem;
+      height: 1.25rem;
+    }
+    
+    .game-info {
+      padding: var(--space-4);
+    }
+    
+    .star-icon {
+      width: 0.875rem;
+      height: 0.875rem;
+    }
+  }
+</style>

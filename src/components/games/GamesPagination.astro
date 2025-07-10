@@ -1,0 +1,271 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  totalItems: number;
+  prevUrl: string | undefined;
+  nextUrl: string | undefined;
+  basePath: string;
+}
+
+const { 
+  currentPage, 
+  totalPages, 
+  totalItems, 
+  prevUrl, 
+  nextUrl,
+  basePath = '/games/' 
+} = Astro.props;
+
+// 计算要显示的页码数量
+function getPaginationNumbers(current: number, total: number, maxDisplayed: number = 7) {
+  // 如果总页数小于或等于最大显示数，则显示所有页码
+  if (total <= maxDisplayed) {
+    return Array.from({ length: total }, (_, i) => i + 1);
+  }
+  
+  // 否则，计算要显示哪些页码
+  const half = Math.floor(maxDisplayed / 2);
+  let start = Math.max(current - half, 1);
+  let end = Math.min(start + maxDisplayed - 1, total);
+  
+  // 调整开始位置，确保显示正确数量的页码
+  if (end - start + 1 < maxDisplayed) {
+    start = Math.max(end - maxDisplayed + 1, 1);
+  }
+  
+  return Array.from({ length: end - start + 1 }, (_, i) => start + i);
+}
+
+const pageNumbers = getPaginationNumbers(currentPage, totalPages);
+---
+
+<nav class="pagination glass" aria-label="Games pagination">
+  <div class="pagination-info">
+    <span class="pagination-text body-small">
+      Page <strong>{currentPage}</strong> of <strong>{totalPages}</strong>
+      <span class="pagination-total">({totalItems} games total)</span>
+    </span>
+  </div>
+
+  <div class="pagination-controls">
+    {prevUrl && (
+      <a href={prevUrl} class="btn btn-secondary btn-sm pagination-btn" rel="prev">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+        </svg>
+        <span>Previous</span>
+      </a>
+    )}
+
+    <div class="pagination-pages">
+      {/* 显示第一页 (如果当前不是在第一个显示范围) */}
+      {!pageNumbers.includes(1) && (
+        <>
+          <a href={basePath} class="pagination-page">1</a>
+          <span class="pagination-ellipsis">...</span>
+        </>
+      )}
+
+      {/* 显示计算出的页码 */}
+      {pageNumbers.map((pageNum) => {
+        const isCurrentPage = pageNum === currentPage;
+        const pageUrl = pageNum === 1 ? basePath : `${basePath}${pageNum}/`;
+
+        return (
+          <a
+            href={pageUrl}
+            class={`pagination-page ${isCurrentPage ? 'active' : ''}`}
+            aria-current={isCurrentPage ? 'page' : undefined}
+            aria-label={`Page ${pageNum}`}
+          >
+            {pageNum}
+          </a>
+        );
+      })}
+
+      {/* 显示最后一页 (如果当前不是在最后一个显示范围) */}
+      {!pageNumbers.includes(totalPages) && totalPages > 1 && (
+        <>
+          <span class="pagination-ellipsis">...</span>
+          <a href={`${basePath}${totalPages}/`} class="pagination-page">{totalPages}</a>
+        </>
+      )}
+    </div>
+
+    {nextUrl && (
+      <a href={nextUrl} class="btn btn-secondary btn-sm pagination-btn" rel="next">
+        <span>Next</span>
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M8.59 16.59L10 18l6-6-6-6-1.41 1.41L13.17 12z"/>
+        </svg>
+      </a>
+    )}
+  </div>
+</nav>
+
+<style>
+  /* 分页容器 */
+  .pagination {
+    background: var(--hero-sidebar-glass-bg);
+    backdrop-filter: var(--hero-sidebar-glass-blur);
+    -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+    border: var(--hero-sidebar-glass-border);
+    box-shadow: var(--hero-sidebar-glass-shadow);
+    border-radius: var(--border-radius-xl);
+    padding: var(--space-8);
+    text-align: center;
+    will-change: transform; /* 性能优化 */
+    transition: transform var(--duration-200) var(--ease-out);
+  }
+
+  .pagination:hover {
+    transform: translateY(-2px);
+  }
+
+  /* 分页信息 */
+  .pagination-info {
+    margin-bottom: var(--space-6);
+  }
+
+  .pagination-text {
+    color: var(--color-text-muted);
+  }
+
+  .pagination-text strong {
+    color: var(--color-text);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .pagination-total {
+    color: var(--color-text-subtle);
+    font-size: var(--font-size-xs);
+    margin-left: var(--space-2);
+  }
+
+  /* 分页控制 */
+  .pagination-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-4);
+    flex-wrap: wrap;
+  }
+
+  /* 分页按钮 */
+  .pagination-btn {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    border-radius: var(--border-radius-md);
+    background: rgba(255, 255, 255, 0.8);
+    color: var(--color-text);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-medium);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    transition: all var(--duration-200) ease;
+    text-decoration: none;
+  }
+
+  .pagination-btn:hover {
+    background: rgba(147, 51, 234, 0.1);
+    border-color: rgba(147, 51, 234, 0.2);
+    color: var(--color-primary-600);
+  }
+
+  .pagination-btn svg {
+    width: 1rem;
+    height: 1rem;
+  }
+
+  /* 页码区域 */
+  .pagination-pages {
+    display: flex;
+    gap: var(--space-2);
+    align-items: center;
+  }
+
+  /* 省略号 */
+  .pagination-ellipsis {
+    color: var(--color-text-muted);
+    font-size: var(--font-size-sm);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* 页码 */
+  .pagination-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    background: rgba(255, 255, 255, 0.7);
+    color: var(--color-text-muted);
+    text-decoration: none;
+    border-radius: var(--border-radius-lg);
+    font-weight: var(--font-weight-medium);
+    font-size: var(--font-size-sm);
+    transition: all var(--duration-200) ease;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    user-select: none;
+  }
+
+  .pagination-page:hover {
+    background: rgba(147, 51, 234, 0.1);
+    color: var(--color-primary-600);
+    border-color: rgba(147, 51, 234, 0.3);
+    transform: translateY(-2px);
+  }
+
+  .pagination-page.active {
+    background: var(--gradient-primary);
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 4px 12px rgba(147, 51, 234, 0.15);
+  }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .pagination {
+      padding: var(--space-6) var(--space-4);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .pagination-controls {
+      flex-direction: column;
+      gap: var(--space-6);
+    }
+
+    .pagination-pages {
+      order: -1;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    .pagination-btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>
+
+<script>
+  // 可选：添加一些页码交互的增强效果
+  document.addEventListener('DOMContentLoaded', () => {
+    const paginationPages = document.querySelectorAll('.pagination-page');
+    
+    paginationPages.forEach(page => {
+      page.addEventListener('mouseenter', () => {
+        page.classList.add('hover-effect');
+      });
+      
+      page.addEventListener('mouseleave', () => {
+        page.classList.remove('hover-effect');
+      });
+    });
+  });
+</script>
