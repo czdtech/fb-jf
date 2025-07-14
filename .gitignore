@@ -4,6 +4,8 @@ dist/
 # generated types
 .astro/
 .vscode/
+.cursor/
+.cunzhi-memory/
 
 # dependencies
 node_modules/
@@ -17,5 +19,3 @@ logs/
 
 # macOS-specific files
 .DS_Store
-
-.cursorrules
