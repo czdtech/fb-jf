@@ -1,20 +1,20 @@
 {
   "navigation": {
     "main": [
-      {"label": "Home", "url": "/"},
-      {"label": "ALL Games", "url": "/games/"},
-      {"label": "Sprunki Retake", "url": "/sprunki-retake/"},
-      {"label": "Sprunki Phase 5", "url": "/sprunki-phase-5/"},
-      {"label": "Sprunki Craft", "url": "/sprunki-craft/"}
+      { "label": "Home", "url": "/" },
+      { "label": "ALL Games", "url": "/games/" },
+      { "label": "Sprunki Retake", "url": "/sprunki-retake/" },
+      { "label": "Sprunki Phase 5", "url": "/sprunki-phase-5/" },
+      { "label": "Sprunki Craft", "url": "/sprunki-craft/" }
     ],
     "languages": [
-      {"code": "en", "url": "/", "label": "English"},
-      {"code": "zh-CN", "url": "/zh/", "label": "简体中文"},
-      {"code": "es", "url": "/es/", "label": "Español"},
-      {"code": "fr", "url": "/fr/", "label": "Français"},
-      {"code": "de", "url": "/de/", "label": "Deutsch"},
-      {"code": "ja", "url": "/ja/", "label": "日本語"},
-      {"code": "ko", "url": "/ko/", "label": "한국어"}
+      { "code": "en", "url": "/", "label": "English" },
+      { "code": "zh-CN", "url": "/zh/", "label": "简体中文" },
+      { "code": "es", "url": "/es/", "label": "Español" },
+      { "code": "fr", "url": "/fr/", "label": "Français" },
+      { "code": "de", "url": "/de/", "label": "Deutsch" },
+      { "code": "ja", "url": "/ja/", "label": "日本語" },
+      { "code": "ko", "url": "/ko/", "label": "한국어" }
     ]
   },
   "homepage": {
@@ -34,35 +34,160 @@
       }
     },
     "soundSamples": [
-      {"title": "This Is Garrett", "image": "/characters/images/beat1.png", "audio": "/characters/sounds/beat1.wav", "category": "Beats"},
-      {"title": "Green Drum Machine", "image": "/characters/images/beat2.png", "audio": "/characters/sounds/beat2.wav", "category": "Beats"},
-      {"title": "Mr. Moon", "image": "/characters/images/beat3.png", "audio": "/characters/sounds/beat3.wav", "category": "Beats"},
-      {"title": "Snaire", "image": "/characters/images/beat4.png", "audio": "/characters/sounds/beat4.wav", "category": "Beats"},
-      {"title": "Combi", "image": "/characters/images/beat5.png", "audio": "/characters/sounds/beat5.wav", "category": "Beats"},
-      
-      {"title": "YTPMV Elf", "image": "/characters/images/effect1.png", "audio": "/characters/sounds/effect1.wav", "category": "Effects"},
-      {"title": "Cyborg Throat Singing", "image": "/characters/images/effect2.png", "audio": "/characters/sounds/effect2.wav", "category": "Effects"},
-      {"title": "Lil' Purp", "image": "/characters/images/effect3.png", "audio": "/characters/sounds/effect3.wav", "category": "Effects"},
-      {"title": "Braylen B. Bothamious I", "image": "/characters/images/effect4.png", "audio": "/characters/sounds/effect4.wav", "category": "Effects"},
-      {"title": "Tina The Beepboxer", "image": "/characters/images/effect5.png", "audio": "/characters/sounds/effect5.wav", "category": "Effects"},
-      
-      {"title": "Blues Clues Radio 2011", "image": "/characters/images/melody1.png", "audio": "/characters/sounds/melody1.wav", "category": "Melodies"},
-      {"title": "Marcello", "image": "/characters/images/melody2.png", "audio": "/characters/sounds/melody2.wav", "category": "Melodies"},
-      {"title": "Eucerin", "image": "/characters/images/melody3.png", "audio": "/characters/sounds/melody3.wav", "category": "Melodies"},
-      {"title": "Uncanny Melody", "image": "/characters/images/melody4.png", "audio": "/characters/sounds/melody4.wav", "category": "Melodies"},
-      {"title": "Keisha", "image": "/characters/images/melody5.png", "audio": "/characters/sounds/melody5.wav", "category": "Melodies"},
-      
-      {"title": "Skibidi Biden", "image": "/characters/images/voice1.png", "audio": "/characters/sounds/voice1.wav", "category": "Voices"},
-      {"title": "Sporbb The Animator", "image": "/characters/images/voice2.png", "audio": "/characters/sounds/voice2.wav", "category": "Voices"},
-      {"title": "Tronic the Chipmunk", "image": "/characters/images/voice3.png", "audio": "/characters/sounds/voice3.wav", "category": "Voices"},
-      {"title": "Mike Ehrmantraut", "image": "/characters/images/voice4.png", "audio": "/characters/sounds/voice4.wav", "category": "Voices"},
-      {"title": "Blue Vest Munchie", "image": "/characters/images/voice5.png", "audio": "/characters/sounds/voice5.wav", "category": "Voices"},
-      
-      {"title": "Words With Friends Tile", "image": "/characters/images/bonus1.png", "audio": "/characters/sounds/bonus1.wav", "category": "Bonus"},
-      {"title": "Fred Figglehorn", "image": "/characters/images/bonus2.png", "audio": "/characters/sounds/bonus2.wav", "category": "Bonus"},
-      {"title": "Scrub Daddy GF", "image": "/characters/images/bonus3.png", "audio": "/characters/sounds/bonus3.wav", "category": "Bonus"},
-      {"title": "Jummbox", "image": "/characters/images/bonus4.png", "audio": "/characters/sounds/bonus4.wav", "category": "Bonus"},
-      {"title": "Boykixxer", "image": "/characters/images/bonus5.png", "audio": "/characters/sounds/bonus5.wav", "category": "Bonus"}
+      {
+        "title": "This Is Garrett",
+        "image": "/characters/images/beat1.png",
+        "audio": "/characters/sounds/beat1.wav",
+        "category": "Beats"
+      },
+      {
+        "title": "Green Drum Machine",
+        "image": "/characters/images/beat2.png",
+        "audio": "/characters/sounds/beat2.wav",
+        "category": "Beats"
+      },
+      {
+        "title": "Mr. Moon",
+        "image": "/characters/images/beat3.png",
+        "audio": "/characters/sounds/beat3.wav",
+        "category": "Beats"
+      },
+      {
+        "title": "Snaire",
+        "image": "/characters/images/beat4.png",
+        "audio": "/characters/sounds/beat4.wav",
+        "category": "Beats"
+      },
+      {
+        "title": "Combi",
+        "image": "/characters/images/beat5.png",
+        "audio": "/characters/sounds/beat5.wav",
+        "category": "Beats"
+      },
+
+      {
+        "title": "YTPMV Elf",
+        "image": "/characters/images/effect1.png",
+        "audio": "/characters/sounds/effect1.wav",
+        "category": "Effects"
+      },
+      {
+        "title": "Cyborg Throat Singing",
+        "image": "/characters/images/effect2.png",
+        "audio": "/characters/sounds/effect2.wav",
+        "category": "Effects"
+      },
+      {
+        "title": "Lil' Purp",
+        "image": "/characters/images/effect3.png",
+        "audio": "/characters/sounds/effect3.wav",
+        "category": "Effects"
+      },
+      {
+        "title": "Braylen B. Bothamious I",
+        "image": "/characters/images/effect4.png",
+        "audio": "/characters/sounds/effect4.wav",
+        "category": "Effects"
+      },
+      {
+        "title": "Tina The Beepboxer",
+        "image": "/characters/images/effect5.png",
+        "audio": "/characters/sounds/effect5.wav",
+        "category": "Effects"
+      },
+
+      {
+        "title": "Blues Clues Radio 2011",
+        "image": "/characters/images/melody1.png",
+        "audio": "/characters/sounds/melody1.wav",
+        "category": "Melodies"
+      },
+      {
+        "title": "Marcello",
+        "image": "/characters/images/melody2.png",
+        "audio": "/characters/sounds/melody2.wav",
+        "category": "Melodies"
+      },
+      {
+        "title": "Eucerin",
+        "image": "/characters/images/melody3.png",
+        "audio": "/characters/sounds/melody3.wav",
+        "category": "Melodies"
+      },
+      {
+        "title": "Uncanny Melody",
+        "image": "/characters/images/melody4.png",
+        "audio": "/characters/sounds/melody4.wav",
+        "category": "Melodies"
+      },
+      {
+        "title": "Keisha",
+        "image": "/characters/images/melody5.png",
+        "audio": "/characters/sounds/melody5.wav",
+        "category": "Melodies"
+      },
+
+      {
+        "title": "Skibidi Biden",
+        "image": "/characters/images/voice1.png",
+        "audio": "/characters/sounds/voice1.wav",
+        "category": "Voices"
+      },
+      {
+        "title": "Sporbb The Animator",
+        "image": "/characters/images/voice2.png",
+        "audio": "/characters/sounds/voice2.wav",
+        "category": "Voices"
+      },
+      {
+        "title": "Tronic the Chipmunk",
+        "image": "/characters/images/voice3.png",
+        "audio": "/characters/sounds/voice3.wav",
+        "category": "Voices"
+      },
+      {
+        "title": "Mike Ehrmantraut",
+        "image": "/characters/images/voice4.png",
+        "audio": "/characters/sounds/voice4.wav",
+        "category": "Voices"
+      },
+      {
+        "title": "Blue Vest Munchie",
+        "image": "/characters/images/voice5.png",
+        "audio": "/characters/sounds/voice5.wav",
+        "category": "Voices"
+      },
+
+      {
+        "title": "Words With Friends Tile",
+        "image": "/characters/images/bonus1.png",
+        "audio": "/characters/sounds/bonus1.wav",
+        "category": "Bonus"
+      },
+      {
+        "title": "Fred Figglehorn",
+        "image": "/characters/images/bonus2.png",
+        "audio": "/characters/sounds/bonus2.wav",
+        "category": "Bonus"
+      },
+      {
+        "title": "Scrub Daddy GF",
+        "image": "/characters/images/bonus3.png",
+        "audio": "/characters/sounds/bonus3.wav",
+        "category": "Bonus"
+      },
+      {
+        "title": "Jummbox",
+        "image": "/characters/images/bonus4.png",
+        "audio": "/characters/sounds/bonus4.wav",
+        "category": "Bonus"
+      },
+      {
+        "title": "Boykixxer",
+        "image": "/characters/images/bonus5.png",
+        "audio": "/characters/sounds/bonus5.wav",
+        "category": "Bonus"
+      }
     ]
   },
   "games": {
@@ -80,7 +205,7 @@
       {
         "title": "Sprunki Sonic",
         "url": "https://www.playfiddlebops.com/sprunki-sonic/",
-        "image": "/Sprunki Sonic.png"
+        "image": "/sprunki-sonic.png"
       },
       {
         "title": "fiddlebops",

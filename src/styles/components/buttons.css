@@ -1,0 +1,122 @@
+/**
+ * 按钮组件系统
+ */
+
+/* ==========================================================================
+   按钮组件系统
+   ========================================================================== */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-6);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-tight);
+  text-decoration: none;
+  border: var(--border-width-1) solid transparent;
+  border-radius: var(--border-radius-lg);
+  cursor: pointer;
+  transition: all var(--duration-200) var(--ease-in-out);
+  user-select: none;
+  white-space: nowrap;
+}
+
+.btn:focus {
+  outline: 2px solid var(--color-primary-500);
+  outline-offset: 2px;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* 按钮变体 */
+.btn-primary {
+  background: var(--gradient-primary);
+  color: white;
+  box-shadow: var(--shadow-md);
+}
+
+.btn-primary:hover:not(:disabled) {
+  box-shadow: var(--shadow-lg), var(--shadow-glow);
+  transform: translateY(-1px);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--color-primary-600);
+  border-color: var(--color-primary-600);
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background: var(--color-primary-50);
+  transform: translateY(-1px);
+}
+
+.btn-glass {
+  background: var(--glass-bg);
+  color: var(--color-gray-900);
+  border: var(--border-width-1) solid var(--glass-border);
+  backdrop-filter: var(--glass-backdrop);
+  -webkit-backdrop-filter: var(--glass-backdrop);
+  box-shadow: var(--glass-shadow);
+}
+
+.btn-glass:hover:not(:disabled) {
+  background: var(--glass-bg-strong);
+  transform: translateY(-1px);
+}
+
+/* 按钮尺寸 */
+.btn-sm {
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--font-size-sm);
+}
+
+.btn-lg {
+  padding: var(--space-4) var(--space-8);
+  font-size: var(--font-size-lg);
+}
+
+.btn-xl {
+  padding: var(--space-5) var(--space-10);
+  font-size: var(--font-size-xl);
+}
+
+/* 移动端按钮字体优化 */
+@media (max-width: 768px) {
+  .btn {
+    font-size: 1.0625rem; /* 17px - 提升移动端按钮可读性 */
+  }
+
+  .btn-lg {
+    font-size: 1.1875rem; /* 19px */
+  }
+
+  .btn-xl {
+    font-size: 1.3125rem; /* 21px */
+  }
+}
+
+@media (max-width: 480px) {
+  .btn {
+    font-size: 1.125rem; /* 18px - 小屏设备按钮字体 */
+  }
+
+  .btn-lg {
+    font-size: 1.25rem; /* 20px */
+  }
+
+  .btn-xl {
+    font-size: 1.375rem; /* 22px */
+  }
+}

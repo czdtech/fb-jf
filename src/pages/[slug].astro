@@ -53,7 +53,7 @@ const structuredData = {
       ratingCount: extendedData.rating.votes,
     },
   }),
-  ...(extendedData.seo?.schema || {})
+  ...(extendedData.seo?.schema || {}),
 }
 
 // 提取内容数据
@@ -67,15 +67,39 @@ const conclusionContent = extendedData.content?.conclusion
 
 // 收集所有内容章节
 const contentSections = [
-  { key: 'introduction', data: introductionContent, priority: 1, icon: 'fa-play-circle' },
+  {
+    key: 'introduction',
+    data: introductionContent,
+    priority: 1,
+    icon: 'fa-play-circle',
+  },
   { key: 'features', data: featuresContent, priority: 2, icon: 'fa-star' },
   { key: 'gameplay', data: gameplayContent, priority: 3, icon: 'fa-gamepad' },
-  { key: 'advantages', data: advantagesContent, priority: 4, icon: 'fa-thumbs-up' },
-  { key: 'accessibility', data: accessibilityContent, priority: 5, icon: 'fa-universal-access' },
+  {
+    key: 'advantages',
+    data: advantagesContent,
+    priority: 4,
+    icon: 'fa-thumbs-up',
+  },
+  {
+    key: 'accessibility',
+    data: accessibilityContent,
+    priority: 5,
+    icon: 'fa-universal-access',
+  },
   { key: 'other', data: otherContent, priority: 6, icon: 'fa-info-circle' },
-  { key: 'conclusion', data: conclusionContent, priority: 7, icon: 'fa-flag-checkered' }
-].filter(section => section.data && section.data.content && section.data.content.length > 0)
-.sort((a, b) => a.priority - b.priority)
+  {
+    key: 'conclusion',
+    data: conclusionContent,
+    priority: 7,
+    icon: 'fa-flag-checkered',
+  },
+]
+  .filter(
+    section =>
+      section.data && section.data.content && section.data.content.length > 0
+  )
+  .sort((a, b) => a.priority - b.priority)
 ---
 
 <BaseLayout
@@ -93,17 +117,19 @@ const contentSections = [
   <!-- 音乐可视化背景 -->
   <div class="music-visualization-bg">
     <div class="music-particles">
-      {Array.from({ length: 50 }, (_, i) => (
-        <div
-          class="music-particle"
-          style={`--delay: ${i * 0.1}s; --x: ${Math.random() * 100}%; --y: ${Math.random() * 100}%`}
-        ></div>
-      ))}
+      {
+        Array.from({ length: 50 }, (_, i) => (
+          <div
+            class="music-particle"
+            style={`--delay: ${i * 0.1}s; --x: ${Math.random() * 100}%; --y: ${Math.random() * 100}%`}
+          />
+        ))
+      }
     </div>
   </div>
 
   <main class="game-page-enhanced">
-    <!-- 沉浸式游戏英雄区域 -->
+    <!-- 首屏左右布局游戏英雄区域 -->
     <section class="game-hero-immersive">
       <div class="hero-atmosphere">
         <div class="hero-wave-1"></div>
@@ -119,106 +145,132 @@ const contentSections = [
             <span>{extendedData.breadcrumb?.home || 'Home'}</span>
           </a>
           <i class="fas fa-angle-right breadcrumb-separator"></i>
-          <span class="breadcrumb-current">{extendedData.breadcrumb?.current || gameData.title}</span>
+          <span class="breadcrumb-current"
+            >{extendedData.breadcrumb?.current || gameData.title}</span
+          >
         </nav>
 
-        <!-- 游戏信息卡片 -->
-        <div class="game-info-card music-element hero-music-delay-2">
-          <div class="game-info-content hero-sidebar-effect">
-            <div class="game-title-section">
-              <h1 class="game-title-enhanced">{gameData.title}</h1>
-              <div class="game-badges-container">
-                <div class="game-category-badge">
-                  <i class="fas fa-music"></i>
-                  <span>{gameData.category}</span>
-                </div>
-                <div class="game-demo-badge">
-                  <i class="fas fa-flask"></i>
-                  <span>Demo</span>
-                </div>
-                {extendedData.pageType && extendedData.pageType !== 'traditional' && (
-                  <div class="game-type-badge">
-                    <i class="fas fa-tag"></i>
-                    <span>{extendedData.pageType}</span>
+        <!-- 首屏左右布局：游戏信息 + 游戏iframe -->
+        <div class="hero-layout-grid">
+          <!-- 左侧：游戏信息 -->
+          <div class="game-info-card music-element hero-music-delay-2">
+            <div class="game-info-content hero-sidebar-effect">
+              <div class="game-title-section">
+                <h1 class="game-title-enhanced">{gameData.title}</h1>
+                <div class="game-badges-container">
+                  <div class="game-category-badge">
+                    <i class="fas fa-music"></i>
+                    <span>{gameData.category}</span>
                   </div>
-                )}
-              </div>
-            </div>
-
-            <p class="game-description-enhanced">{gameData.description}</p>
-
-            {extendedData.rating && (
-              <div class="rating-section music-element hero-music-delay-3">
-                <div class="rating-display">
-                  <div class="stars-container">
-                    {Array.from({ length: 5 }, (_, i) => (
-                      <span class={`star-enhanced ${i < Math.floor(extendedData.rating.score) ? 'filled' : 'empty'}`}>
-                        <i class="fas fa-star"></i>
-                      </span>
-                    ))}
+                  <div class="game-demo-badge">
+                    <i class="fas fa-flask"></i>
+                    <span>Demo</span>
                   </div>
-                  <div class="rating-text">
-                    <span class="rating-score">{extendedData.rating.score}</span>
-                    <span class="rating-separator">·</span>
-                    <span class="rating-votes">{extendedData.rating.votes} reviews</span>
-                  </div>
+                  {
+                    extendedData.pageType &&
+                      extendedData.pageType !== 'traditional' && (
+                        <div class="game-type-badge">
+                          <i class="fas fa-tag" />
+                          <span>{extendedData.pageType}</span>
+                        </div>
+                      )
+                  }
                 </div>
               </div>
-            )}
 
-            <div class="action-buttons">
-              <button class="play-now-btn music-element hero-music-delay-4" onclick="scrollToGame()">
-                <div class="btn-content">
-                  <i class="fas fa-play"></i>
-                  <span>Play Now</span>
-                </div>
-                <div class="btn-ripple"></div>
-              </button>
+              <p class="game-description-enhanced">{gameData.description}</p>
 
-              <button class="share-btn music-element hero-music-delay-5" onclick="shareGame()">
-                <i class="fas fa-share-alt"></i>
-                <span>Share</span>
-              </button>
+              {
+                extendedData.rating && (
+                  <div class="rating-section music-element hero-music-delay-3">
+                    <div class="rating-display">
+                      <div class="stars-container">
+                        {Array.from({ length: 5 }, (_, i) => (
+                          <span
+                            class={`star-enhanced ${i < Math.floor(extendedData.rating.score) ? 'filled' : 'empty'}`}
+                          >
+                            <i class="fas fa-star" />
+                          </span>
+                        ))}
+                      </div>
+                      <div class="rating-text">
+                        <span class="rating-score">
+                          {extendedData.rating.score}
+                        </span>
+                        <span class="rating-separator">·</span>
+                        <span class="rating-votes">
+                          {extendedData.rating.votes} reviews
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                )
+              }
+
+              <div class="action-buttons">
+                <button
+                  class="play-now-btn music-element hero-music-delay-4"
+                  onclick="scrollToGame()"
+                >
+                  <div class="btn-content">
+                    <i class="fas fa-play"></i>
+                    <span>Play Now</span>
+                  </div>
+                  <div class="btn-ripple"></div>
+                </button>
+
+                <button
+                  class="share-btn music-element hero-music-delay-5"
+                  onclick="shareGame()"
+                >
+                  <i class="fas fa-share-alt"></i>
+                  <span>Share</span>
+                </button>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-    </section>
 
-    <!-- 游戏主体区域 -->
-    <section id="game-main-section" class="game-main-enhanced">
-      <div class="container">
-        <div class="game-layout-grid">
-
-          <!-- 游戏容器 -->
-          <div class="game-container-enhanced music-element hero-music-delay-6">
-            <div class="game-header-enhanced">
-              <div class="game-title-bar">
-                <h2 class="game-active-title">
+          <!-- 右侧：游戏iframe -->
+          <div class="hero-game-container music-element hero-music-delay-6">
+            <div class="hero-game-header">
+              <div class="hero-game-title-bar">
+                <h2 class="hero-game-active-title">
                   <i class="fas fa-gamepad"></i>
                   <span>{gameData.title}</span>
                 </h2>
-                <div class="game-status-indicator">
+                <div class="hero-game-status-indicator">
                   <span class="status-dot"></span>
                   <span>Ready to Play</span>
                 </div>
               </div>
 
-              <div class="game-controls-enhanced">
-                <button class="control-btn-enhanced" onclick="toggleFullscreen()" title="Fullscreen">
+              <div class="hero-game-controls">
+                <button
+                  class="hero-control-btn"
+                  onclick="toggleFullscreen()"
+                  title="Fullscreen"
+                >
                   <i class="fas fa-expand"></i>
                 </button>
-                <button class="control-btn-enhanced" onclick="reloadGame()" title="Reload">
+                <button
+                  class="hero-control-btn"
+                  onclick="reloadGame()"
+                  title="Reload"
+                >
                   <i class="fas fa-redo"></i>
                 </button>
-                <button class="control-btn-enhanced" onclick="toggleSound()" title="Sound">
+                <button
+                  class="hero-control-btn"
+                  onclick="toggleSound()"
+                  title="Sound"
+                >
                   <i class="fas fa-volume-up"></i>
                 </button>
               </div>
             </div>
 
-            <div class="game-iframe-container">
-              <div class="game-loading-overlay">
+            <div class="hero-game-iframe-container">
+              <div class="hero-game-loading-overlay">
                 <div class="loading-spinner">
                   <div class="spinner-music">
                     <i class="fas fa-music"></i>
@@ -227,240 +279,246 @@ const contentSections = [
                 </div>
               </div>
               <GameIframe
-                id="main-game-iframe"
+                id="hero-game-iframe"
                 src={gameData.iframe}
                 backgroundImage={gameData.image}
               />
             </div>
           </div>
-
-          <!-- 侧边栏区域 -->
-          <aside class="game-sidebar-enhanced">
-            <!-- 推荐游戏 -->
-            <div class="sidebar-section music-element hero-music-delay-7">
-              <div class="sidebar-card hero-sidebar-effect">
-                <h3 class="sidebar-title">
-                  <i class="fas fa-fire"></i>
-                  <span>Trending Games</span>
-                </h3>
-                <div class="sidebar-games-grid">
-                  {games.trending.slice(0, 3).map((game: any, index: number) => (
-                    <div class={`sidebar-game-item music-element hero-music-delay-${8 + index}`}>
-                      <GameCard game={game} variant="sidebar" />
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-
-            <!-- 游戏统计 -->
-            <div class="sidebar-section music-element hero-music-delay-11">
-              <div class="sidebar-card hero-sidebar-effect">
-                <h3 class="sidebar-title">
-                  <i class="fas fa-chart-line"></i>
-                  <span>Game Stats</span>
-                </h3>
-                <div class="game-stats">
-                  <div class="stat-item">
-                    <div class="stat-value">5M+</div>
-                    <div class="stat-label">Players</div>
-                  </div>
-                  <div class="stat-item">
-                    <div class="stat-value">4.8</div>
-                    <div class="stat-label">Rating</div>
-                  </div>
-                  <div class="stat-item">
-                    <div class="stat-value">24/7</div>
-                    <div class="stat-label">Available</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </aside>
         </div>
       </div>
     </section>
 
     <!-- 游戏特色区域 -->
-    {(extendedData.features || featuresContent) && (
-      <section class="game-features-enhanced">
-        <div class="container">
-          <div class="section-header-enhanced music-element hero-music-delay-12">
-            <h2 class="section-title-enhanced">
-              <i class="fas fa-sparkles"></i>
-              <span>Game Features</span>
-            </h2>
-            <p class="section-subtitle-enhanced">
-              Discover what makes {gameData.title} special
-            </p>
-          </div>
+    {
+      (extendedData.features || featuresContent) && (
+        <section class="game-features-enhanced">
+          <div class="container">
+            <div class="section-header-enhanced music-element hero-music-delay-12">
+              <h2 class="section-title-enhanced">
+                <i class="fas fa-sparkles" />
+                <span>Game Features</span>
+              </h2>
+              <p class="section-subtitle-enhanced">
+                Discover what makes this game special
+              </p>
+            </div>
 
-          <div class="features-showcase">
-            {featuresContent ? (
-              <div class="features-detailed">
-                {featuresContent.content.map((section: any, sectionIndex: number) => {
-                  if (section.type === 'list') {
-                    return (
-                      <div class="features-grid-enhanced">
-                        {section.items.map((item: any, index: number) => (
-                          <div class={`feature-card-enhanced music-element hero-music-delay-${13 + sectionIndex + index}`}>
-                            <div class="feature-card-content hero-sidebar-effect">
-                              <div class="feature-icon-enhanced">
-                                <i class="fas fa-star"></i>
+            <div class="features-showcase">
+              {featuresContent ? (
+                <div class="features-detailed">
+                  {featuresContent.content.map(
+                    (section: any, sectionIndex: number) => {
+                      if (section.type === 'list') {
+                        return (
+                          <div class="features-grid-enhanced">
+                            {section.items.map((item: any, index: number) => (
+                              <div
+                                class={`feature-card-enhanced music-element hero-music-delay-${13 + sectionIndex + index}`}
+                              >
+                                <div class="feature-card-content hero-sidebar-effect">
+                                  <div class="feature-icon-enhanced">
+                                    <i class="fas fa-star" />
+                                  </div>
+                                  <h4 class="feature-title-enhanced">
+                                    {item.title}
+                                  </h4>
+                                  <p class="feature-description-enhanced">
+                                    {item.description}
+                                  </p>
+                                  <div class="feature-glow-effect" />
+                                </div>
                               </div>
-                              <h4 class="feature-title-enhanced">{item.title}</h4>
-                              <p class="feature-description-enhanced">{item.description}</p>
-                              <div class="feature-glow-effect"></div>
-                            </div>
+                            ))}
                           </div>
-                        ))}
+                        )
+                      }
+                      return null
+                    }
+                  )}
+                </div>
+              ) : (
+                <div class="features-grid-enhanced">
+                  {(
+                    extendedData.features || [
+                      '🎵 Rich music creation tools',
+                      '🎭 Diverse character selection',
+                      '🔄 Unlimited creative possibilities',
+                      '💫 Unique visual effects',
+                    ]
+                  ).map((feature: any, index: number) => (
+                    <div
+                      class={`feature-card-enhanced music-element hero-music-delay-${13 + index}`}
+                    >
+                      <div class="feature-card-content hero-sidebar-effect">
+                        <div class="feature-icon-enhanced">
+                          <i class="fas fa-music" />
+                        </div>
+                        <h4 class="feature-title-enhanced">{feature}</h4>
+                        <div class="feature-glow-effect" />
                       </div>
-                    )
-                  }
-                  return null
-                })}
-              </div>
-            ) : (
-              <div class="features-grid-enhanced">
-                {(extendedData.features || [
-                  '🎵 Rich music creation tools',
-                  '🎭 Diverse character selection',
-                  '🔄 Unlimited creative possibilities',
-                  '💫 Unique visual effects'
-                ]).map((feature: any, index: number) => (
-                  <div class={`feature-card-enhanced music-element hero-music-delay-${13 + index}`}>
-                    <div class="feature-card-content hero-sidebar-effect">
-                      <div class="feature-icon-enhanced">
-                        <i class="fas fa-music"></i>
-                      </div>
-                      <h4 class="feature-title-enhanced">{feature}</h4>
-                      <div class="feature-glow-effect"></div>
                     </div>
-                  </div>
-                ))}
-              </div>
-            )}
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
-        </div>
-      </section>
-    )}
+        </section>
+      )
+    }
 
     <!-- 游戏玩法区域 -->
-    {(extendedData.howToPlay || gameplayContent) && (
-      <section class="game-how-to-play-enhanced">
-        <div class="container">
-          <div class="section-header-enhanced music-element hero-music-delay-20">
-            <h2 class="section-title-enhanced">
-              <i class="fas fa-gamepad"></i>
-              <span>How to Play</span>
-            </h2>
-            <p class="section-subtitle-enhanced">
-              Master the art of music creation
-            </p>
-          </div>
+    {
+      (extendedData.howToPlay || gameplayContent) && (
+        <section class="game-how-to-play-enhanced">
+          <div class="container">
+            <div class="section-header-enhanced music-element hero-music-delay-20">
+              <h2 class="section-title-enhanced">
+                <i class="fas fa-gamepad" />
+                <span>How to Play</span>
+              </h2>
+              <p class="section-subtitle-enhanced">
+                Master the art of music creation
+              </p>
+            </div>
 
-          <div class="how-to-play-content">
-            {gameplayContent ? (
-              <div class="gameplay-detailed">
-                {gameplayContent.content.map((section: any, sectionIndex: number) => {
-                  if (section.type === 'steps') {
-                    return (
-                      <div class="steps-container-enhanced">
-                        {section.items.map((step: any, index: number) => (
-                          <div class={`step-item-enhanced music-element hero-music-delay-${21 + index}`}>
-                            <div class="step-number-enhanced">{index + 1}</div>
-                            <div class="step-content-enhanced">
-                              <h4 class="step-title-enhanced">{step.title}</h4>
-                              <p class="step-description-enhanced">{step.description}</p>
-                            </div>
+            <div class="how-to-play-content">
+              {gameplayContent ? (
+                <div class="gameplay-detailed">
+                  {gameplayContent.content.map(
+                    (section: any, sectionIndex: number) => {
+                      if (section.type === 'steps') {
+                        return (
+                          <div class="steps-container-enhanced">
+                            {section.items.map((step: any, index: number) => (
+                              <div
+                                class={`step-item-enhanced music-element hero-music-delay-${21 + index}`}
+                              >
+                                <div class="step-number-enhanced">
+                                  {index + 1}
+                                </div>
+                                <div class="step-content-enhanced">
+                                  <h4 class="step-title-enhanced">
+                                    {step.title}
+                                  </h4>
+                                  <p class="step-description-enhanced">
+                                    {step.description}
+                                  </p>
+                                </div>
+                              </div>
+                            ))}
                           </div>
-                        ))}
+                        )
+                      }
+                      return null
+                    }
+                  )}
+                </div>
+              ) : (
+                <div class="steps-container-enhanced">
+                  {(
+                    extendedData.howToPlay || [
+                      'Choose your characters',
+                      'Create your mix',
+                      'Share your creation',
+                    ]
+                  ).map((step: any, index: number) => (
+                    <div
+                      class={`step-item-enhanced music-element hero-music-delay-${21 + index}`}
+                    >
+                      <div class="step-number-enhanced">{index + 1}</div>
+                      <div class="step-content-enhanced">
+                        <p class="step-description-enhanced">{step}</p>
                       </div>
-                    )
-                  }
-                  return null
-                })}
-              </div>
-            ) : (
-              <div class="steps-container-enhanced">
-                {(extendedData.howToPlay || [
-                  'Choose your characters',
-                  'Create your mix',
-                  'Share your creation'
-                ]).map((step: any, index: number) => (
-                  <div class={`step-item-enhanced music-element hero-music-delay-${21 + index}`}>
-                    <div class="step-number-enhanced">{index + 1}</div>
-                    <div class="step-content-enhanced">
-                      <p class="step-description-enhanced">{step}</p>
                     </div>
-                  </div>
-                ))}
-              </div>
-            )}
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
-        </div>
-      </section>
-    )}
+        </section>
+      )
+    }
 
     <!-- 详细内容区域 -->
-    {contentSections.map((section, sectionIndex) => (
-      <section class={`game-content-section content-section-${section.key}`}>
-        <div class="container">
-          <div class={`content-wrapper-enhanced music-element hero-music-delay-${25 + sectionIndex * 3}`}>
-            <div class="content-card-enhanced hero-sidebar-effect">
-              <h2 class="content-title-enhanced">
-                <i class={`fas ${section.icon}`}></i>
-                <span>{section.data.title}</span>
-              </h2>
-              <div class="content-body-enhanced">
-                {section.data.content.map((contentItem: any, itemIndex: number) => {
-                  if (contentItem.type === 'paragraph') {
-                    return (
-                      <div class="content-paragraph-enhanced">
-                        <p>{contentItem.text}</p>
-                      </div>
-                    )
-                  } else if (contentItem.type === 'list') {
-                    return (
-                      <div class="content-list-enhanced">
-                        {contentItem.items.map((item: any, listIndex: number) => (
-                          <div class="content-list-item-enhanced">
-                            <div class="list-item-icon">
-                              <i class="fas fa-check-circle"></i>
-                            </div>
-                            <div class="list-item-content">
-                              <h4 class="list-item-title">{item.title}</h4>
-                              <p class="list-item-description">{item.description}</p>
+    {
+      contentSections.map((section, sectionIndex) => (
+        <section class={`game-content-section content-section-${section.key}`}>
+          <div class="container">
+            <div
+              class={`content-wrapper-enhanced music-element hero-music-delay-${25 + sectionIndex * 3}`}
+            >
+              <div class="content-card-enhanced hero-sidebar-effect">
+                <h2 class="content-title-enhanced">
+                  <i class={`fas ${section.icon}`} />
+                  <span>{section.data.title}</span>
+                </h2>
+                <div class="content-body-enhanced">
+                  {section.data.content.map(
+                    (contentItem: any, itemIndex: number) => {
+                      if (contentItem.type === 'paragraph') {
+                        return (
+                          <div class="content-paragraph-enhanced">
+                            <p>{contentItem.text}</p>
+                          </div>
+                        )
+                      } else if (contentItem.type === 'list') {
+                        return (
+                          <div class="content-list-enhanced">
+                            {contentItem.items.map(
+                              (item: any, listIndex: number) => (
+                                <div class="content-list-item-enhanced">
+                                  <div class="list-item-icon">
+                                    <i class="fas fa-check-circle" />
+                                  </div>
+                                  <div class="list-item-content">
+                                    <h4 class="list-item-title">
+                                      {item.title}
+                                    </h4>
+                                    <p class="list-item-description">
+                                      {item.description}
+                                    </p>
+                                  </div>
+                                </div>
+                              )
+                            )}
+                          </div>
+                        )
+                      } else if (contentItem.type === 'steps') {
+                        return (
+                          <div class="content-steps-enhanced">
+                            <div class="steps-container-enhanced">
+                              {contentItem.items.map(
+                                (step: any, stepIndex: number) => (
+                                  <div class="step-item-enhanced">
+                                    <div class="step-number-enhanced">
+                                      {stepIndex + 1}
+                                    </div>
+                                    <div class="step-content-enhanced">
+                                      <h4 class="step-title-enhanced">
+                                        {step.title}
+                                      </h4>
+                                      <p class="step-description-enhanced">
+                                        {step.description}
+                                      </p>
+                                    </div>
+                                  </div>
+                                )
+                              )}
                             </div>
                           </div>
-                        ))}
-                      </div>
-                    )
-                  } else if (contentItem.type === 'steps') {
-                    return (
-                      <div class="content-steps-enhanced">
-                        <div class="steps-container-enhanced">
-                          {contentItem.items.map((step: any, stepIndex: number) => (
-                            <div class="step-item-enhanced">
-                              <div class="step-number-enhanced">{stepIndex + 1}</div>
-                              <div class="step-content-enhanced">
-                                <h4 class="step-title-enhanced">{step.title}</h4>
-                                <p class="step-description-enhanced">{step.description}</p>
-                              </div>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    )
-                  }
-                  return null
-                })}
+                        )
+                      }
+                      return null
+                    }
+                  )}
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </section>
-    ))}
+        </section>
+      ))
+    }
 
     <!-- 相关游戏区域 -->
     <section class="related-games-enhanced">
@@ -470,17 +528,19 @@ const contentSections = [
             <i class="fas fa-gamepad"></i>
             <span>More Games Like This</span>
           </h2>
-          <p class="section-subtitle-enhanced">
-            Continue your musical journey
-          </p>
+          <p class="section-subtitle-enhanced">Continue your musical journey</p>
         </div>
 
         <div class="related-games-grid">
-          {games.popular.slice(0, 4).map((game: any, index: number) => (
-            <div class={`related-game-item music-element hero-music-delay-${31 + index}`}>
-              <GameCard game={game} variant="sidebar" />
-            </div>
-          ))}
+          {
+            games.popular.slice(0, 4).map((game: any, index: number) => (
+              <div
+                class={`related-game-item music-element hero-music-delay-${31 + index}`}
+              >
+                <GameCard game={game} variant="sidebar" />
+              </div>
+            ))
+          }
         </div>
       </div>
     </section>
@@ -492,9 +552,10 @@ const contentSections = [
 <script>
   // 游戏控制函数
   function scrollToGame() {
-    const gameSection = document.getElementById('game-main-section')
-    if (gameSection) {
-      gameSection.scrollIntoView({ behavior: 'smooth' })
+    const heroGame = document.getElementById('hero-game-iframe')
+    if (heroGame) {
+      heroGame.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      heroGame.focus()
     }
   }
 
@@ -503,7 +564,7 @@ const contentSections = [
       navigator.share({
         title: document.title,
         text: 'Check out this awesome music game!',
-        url: window.location.href
+        url: window.location.href,
       })
     } else {
       // 复制链接到剪贴板
@@ -513,8 +574,12 @@ const contentSections = [
   }
 
   function toggleFullscreen() {
-    const iframe = document.getElementById('main-game-iframe')
-    const wrapper = iframe?.closest('.game-iframe-container')
+    const heroIframe = document.getElementById('hero-game-iframe')
+    const mainIframe = document.getElementById('main-game-iframe')
+    const iframe = heroIframe || mainIframe
+    const wrapper = iframe?.closest(
+      '.hero-game-iframe-container, .game-iframe-container'
+    )
     if (wrapper) {
       if (!document.fullscreenElement) {
         wrapper.requestFullscreen()
@@ -525,7 +590,13 @@ const contentSections = [
   }
 
   function reloadGame() {
-    const iframe = document.getElementById('main-game-iframe') as HTMLIFrameElement
+    const heroIframe = document.getElementById(
+      'hero-game-iframe'
+    ) as HTMLIFrameElement
+    const mainIframe = document.getElementById(
+      'main-game-iframe'
+    ) as HTMLIFrameElement
+    const iframe = heroIframe || mainIframe
     if (iframe) {
       iframe.src = iframe.src
     }
@@ -554,27 +625,33 @@ const contentSections = [
     })
 
     // 游戏加载状态
-    const iframe = document.getElementById('main-game-iframe') as HTMLIFrameElement
-    const loadingOverlay = document.querySelector('.game-loading-overlay') as HTMLElement
+    const heroIframe = document.getElementById(
+      'hero-game-iframe'
+    ) as HTMLIFrameElement
+    const mainIframe = document.getElementById(
+      'main-game-iframe'
+    ) as HTMLIFrameElement
+    const iframe = heroIframe || mainIframe
+    const loadingOverlay = document.querySelector(
+      '.hero-game-loading-overlay, .game-loading-overlay'
+    ) as HTMLElement
 
     if (iframe && loadingOverlay) {
       iframe.addEventListener('load', () => {
+        loadingOverlay.style.opacity = '0'
         setTimeout(() => {
-          loadingOverlay.style.opacity = '0'
-          setTimeout(() => {
-            loadingOverlay.style.display = 'none'
-          }, 300)
-        }, 1000)
+          loadingOverlay.style.display = 'none'
+        }, 300)
       })
     }
 
     // 滚动动画触发
     const observerOptions = {
       threshold: 0.1,
-      rootMargin: '0px 0px -50px 0px'
+      rootMargin: '0px 0px -50px 0px',
     }
 
-    const observer = new IntersectionObserver((entries) => {
+    const observer = new IntersectionObserver(entries => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           entry.target.classList.add('animate-in')
@@ -623,7 +700,8 @@ const contentSections = [
   }
 
   @keyframes musicFloat {
-    0%, 100% {
+    0%,
+    100% {
       transform: translateY(0) scale(0.8);
       opacity: 0.2;
     }
@@ -639,18 +717,125 @@ const contentSections = [
 
   .game-hero-immersive {
     position: relative;
-    min-height: 60vh;
-    padding: calc(80px + var(--space-8)) 0 var(--space-8);
+    min-height: 100vh;
+    padding: calc(80px + var(--space-4)) 0 var(--space-4);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+
+  /* 首屏左右布局网格 */
+  .hero-layout-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: var(--space-8);
+    align-items: center;
+    min-height: calc(100vh - 160px);
+    position: relative;
+    z-index: 2;
+  }
+
+  /* 右侧游戏容器样式 */
+  .hero-game-container {
+    position: relative;
+    border-radius: var(--border-radius-2xl);
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+    background: var(--color-white);
+    height: 600px;
+  }
+
+  .hero-game-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-4);
+    background: linear-gradient(
+      135deg,
+      var(--color-gray-50),
+      var(--color-gray-100)
+    );
+    border-bottom: 1px solid var(--color-gray-200);
+  }
+
+  .hero-game-title-bar {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+  }
+
+  .hero-game-active-title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-gray-900);
+    margin: 0;
+  }
+
+  .hero-game-status-indicator {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--font-size-sm);
+    color: var(--color-green-600);
+  }
+
+  .hero-game-controls {
+    display: flex;
+    gap: var(--space-2);
+  }
+
+  .hero-control-btn {
+    width: 36px;
+    height: 36px;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-400),
+      var(--color-primary-500)
+    );
+    color: white;
+    border: none;
+    border-radius: var(--border-radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all var(--duration-300) var(--ease-in-out);
+  }
+
+  .hero-control-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(147, 51, 234, 0.4);
+  }
+
+  .hero-game-iframe-container {
+    position: relative;
+    width: 100%;
+    height: calc(600px - 60px);
+    background: var(--color-gray-900);
     overflow: hidden;
   }
 
-  .hero-atmosphere {
+  .hero-game-loading-overlay {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: 1;
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    z-index: 10;
+    transition: opacity var(--duration-300) ease;
   }
 
   .hero-wave-1,
@@ -659,7 +844,11 @@ const contentSections = [
     position: absolute;
     width: 200%;
     height: 200%;
-    background: radial-gradient(circle, rgba(147, 51, 234, 0.1) 0%, transparent 70%);
+    background: radial-gradient(
+      circle,
+      rgba(147, 51, 234, 0.1) 0%,
+      transparent 70%
+    );
     border-radius: 50%;
     animation: heroWave 20s infinite ease-in-out;
   }
@@ -683,7 +872,8 @@ const contentSections = [
   }
 
   @keyframes heroWave {
-    0%, 100% {
+    0%,
+    100% {
       transform: rotate(0deg) scale(1);
     }
     50% {
@@ -756,7 +946,12 @@ const contentSections = [
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+    background: linear-gradient(
+      45deg,
+      transparent,
+      rgba(255, 255, 255, 0.1),
+      transparent
+    );
     transform: translateX(-100%);
     transition: transform 0.8s ease;
   }
@@ -784,7 +979,11 @@ const contentSections = [
   .game-title-enhanced {
     font-size: var(--font-size-5xl);
     font-weight: var(--font-weight-bold);
-    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -821,7 +1020,8 @@ const contentSections = [
   }
 
   @keyframes demoPulse {
-    0%, 100% {
+    0%,
+    100% {
       transform: scale(1);
     }
     50% {
@@ -920,7 +1120,11 @@ const contentSections = [
     display: inline-flex;
     align-items: center;
     padding: var(--space-5) var(--space-10);
-    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
     color: white;
     border: none;
     border-radius: var(--border-radius-full);
@@ -955,7 +1159,12 @@ const contentSections = [
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    background: linear-gradient(
+      45deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
     transform: translateX(-100%);
     transition: transform 0.6s ease;
   }
@@ -988,272 +1197,33 @@ const contentSections = [
   }
 
   /* ==========================================================================
-     游戏主体区域增强
+     游戏特色区域增强
      ========================================================================== */
 
-  .game-main-enhanced {
-    padding: var(--space-12) 0;
-    position: relative;
-  }
-
-  .game-layout-grid {
-    display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: var(--space-8);
-    align-items: start;
-  }
-
-  /* 游戏容器增强 */
-  .game-container-enhanced {
-    position: relative;
-    border-radius: var(--border-radius-2xl);
-    overflow: hidden;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
-    background: var(--color-white);
-  }
-
-  .game-header-enhanced {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: var(--space-6);
-    background: linear-gradient(135deg, var(--color-gray-50), var(--color-gray-100));
-    border-bottom: 1px solid var(--color-gray-200);
-  }
-
-  .game-title-bar {
-    display: flex;
-    align-items: center;
-    gap: var(--space-4);
-  }
-
-  .game-active-title {
-    display: flex;
-    align-items: center;
-    gap: var(--space-3);
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-gray-900);
-    margin: 0;
-  }
-
-  .game-active-title i {
-    color: var(--color-primary-600);
-  }
-
-  .game-status-indicator {
-    display: flex;
-    align-items: center;
-    gap: var(--space-2);
-    padding: var(--space-2) var(--space-4);
-    background: var(--color-green-100);
-    color: var(--color-green-700);
-    border-radius: var(--border-radius-full);
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .status-dot {
-    width: 8px;
-    height: 8px;
-    background: var(--color-green-500);
-    border-radius: 50%;
-    animation: statusPulse 2s ease-in-out infinite;
-  }
-
-  @keyframes statusPulse {
-    0%, 100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.5;
-    }
-  }
-
-  .game-controls-enhanced {
-    display: flex;
-    gap: var(--space-2);
-  }
-
-  .control-btn-enhanced {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 44px;
-    height: 44px;
-    background: var(--color-white);
-    border: 1px solid var(--color-gray-300);
-    border-radius: var(--border-radius-lg);
-    color: var(--color-gray-600);
-    cursor: pointer;
-    transition: all var(--duration-300) var(--ease-in-out);
-    font-size: var(--font-size-base);
-  }
-
-  .control-btn-enhanced:hover {
-    background: var(--color-primary-50);
-    color: var(--color-primary-600);
-    border-color: var(--color-primary-300);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(147, 51, 234, 0.2);
-  }
-
-  .game-iframe-container {
-    position: relative;
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    background: var(--color-gray-900);
-    overflow: hidden;
-  }
-
-  .game-loading-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    z-index: 10;
-    transition: opacity var(--duration-300) ease;
-  }
-
-  .loading-spinner {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--space-4);
-  }
-
-  .spinner-music {
-    font-size: var(--font-size-4xl);
-    animation: spinnerRotate 2s linear infinite;
-  }
-
-  @keyframes spinnerRotate {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-
-  .loading-text {
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-medium);
-    opacity: 0.9;
-  }
-
-  /* ==========================================================================
-     侧边栏增强
-     ========================================================================== */
-
-  .game-sidebar-enhanced {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-6);
-  }
-
-  .sidebar-section {
-    position: sticky;
-    top: calc(80px + var(--space-6));
-  }
-
-  .sidebar-card {
-    padding: var(--space-6);
-    border-radius: var(--border-radius-xl);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .sidebar-title {
-    display: flex;
-    align-items: center;
-    gap: var(--space-3);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-gray-900);
-    margin-bottom: var(--space-4);
-    padding-bottom: var(--space-3);
-    border-bottom: 2px solid var(--color-primary-100);
-  }
-
-  .sidebar-title i {
-    color: var(--color-primary-600);
-    font-size: var(--font-size-xl);
-  }
-
-  .sidebar-games-grid {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-4);
-  }
-
-  .sidebar-game-item {
-    transition: transform var(--duration-300) var(--ease-in-out);
-  }
-
-  .sidebar-game-item:hover {
-    transform: translateX(4px);
-  }
-
-  /* 游戏统计 */
-  .game-stats {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--space-4);
-  }
-
-  .stat-item {
-    text-align: center;
-    padding: var(--space-4);
-    background: var(--color-gray-50);
-    border-radius: var(--border-radius-lg);
-    transition: all var(--duration-300) var(--ease-in-out);
-  }
-
-  .stat-item:hover {
-    background: var(--color-primary-50);
-    transform: translateY(-2px);
-  }
-
-  .stat-value {
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-primary-600);
-    margin-bottom: var(--space-1);
-  }
-
-  .stat-label {
-    font-size: var(--font-size-sm);
-    color: var(--color-gray-600);
-    font-weight: var(--font-weight-medium);
-  }
-
-  /* ==========================================================================
-     增强的内容区域
-     ========================================================================== */
-
-  .game-features-enhanced,
-  .game-how-to-play-enhanced {
+  .game-features-enhanced {
     padding: var(--space-16) 0;
+    background: linear-gradient(
+      135deg,
+      var(--color-gray-50),
+      var(--color-gray-100)
+    );
     position: relative;
+    overflow: hidden;
   }
 
-  .game-features-enhanced::before,
-  .game-how-to-play-enhanced::before {
+  .game-features-enhanced::before {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(45deg, transparent, rgba(147, 51, 234, 0.02), transparent);
+    background: linear-gradient(
+      45deg,
+      transparent,
+      rgba(147, 51, 234, 0.02),
+      transparent
+    );
     pointer-events: none;
   }
 
@@ -1269,7 +1239,11 @@ const contentSections = [
     gap: var(--space-4);
     font-size: var(--font-size-4xl);
     font-weight: var(--font-weight-bold);
-    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-600),
+      var(--color-primary-700)
+    );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1333,7 +1307,11 @@ const contentSections = [
     justify-content: center;
     width: 80px;
     height: 80px;
-    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
     border-radius: var(--border-radius-2xl);
     color: white;
     font-size: var(--font-size-2xl);
@@ -1361,7 +1339,12 @@ const contentSections = [
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(45deg, transparent, rgba(147, 51, 234, 0.1), transparent);
+    background: linear-gradient(
+      45deg,
+      transparent,
+      rgba(147, 51, 234, 0.1),
+      transparent
+    );
     transform: translateX(-100%);
     transition: transform 0.8s ease;
     pointer-events: none;
@@ -1406,7 +1389,11 @@ const contentSections = [
     justify-content: center;
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-500),
+      var(--color-primary-600)
+    );
     color: white;
     font-size: var(--font-size-xl);
     font-weight: var(--font-weight-bold);
@@ -1563,7 +1550,11 @@ const contentSections = [
     justify-content: center;
     width: 36px;
     height: 36px;
-    background: linear-gradient(135deg, var(--color-primary-400), var(--color-primary-500));
+    background: linear-gradient(
+      135deg,
+      var(--color-primary-400),
+      var(--color-primary-500)
+    );
     color: white;
     font-size: var(--font-size-base);
     font-weight: var(--font-weight-bold);
@@ -1596,7 +1587,11 @@ const contentSections = [
   /* 相关游戏 */
   .related-games-enhanced {
     padding: var(--space-16) 0;
-    background: linear-gradient(135deg, var(--color-gray-50), var(--color-gray-100));
+    background: linear-gradient(
+      135deg,
+      var(--color-gray-50),
+      var(--color-gray-100)
+    );
   }
 
   .related-games-grid {
@@ -1628,68 +1623,108 @@ const contentSections = [
 
   /* 不同内容区域的颜色主题 */
   .content-section-introduction {
-    background: linear-gradient(135deg, rgba(59, 130, 246, 0.03), rgba(147, 51, 234, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(59, 130, 246, 0.03),
+      rgba(147, 51, 234, 0.03)
+    );
   }
 
   .content-section-features {
-    background: linear-gradient(135deg, rgba(16, 185, 129, 0.03), rgba(5, 150, 105, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(16, 185, 129, 0.03),
+      rgba(5, 150, 105, 0.03)
+    );
   }
 
   .content-section-gameplay {
-    background: linear-gradient(135deg, rgba(245, 158, 11, 0.03), rgba(217, 119, 6, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(245, 158, 11, 0.03),
+      rgba(217, 119, 6, 0.03)
+    );
   }
 
   .content-section-advantages {
-    background: linear-gradient(135deg, rgba(239, 68, 68, 0.03), rgba(220, 38, 38, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(239, 68, 68, 0.03),
+      rgba(220, 38, 38, 0.03)
+    );
   }
 
   .content-section-accessibility {
-    background: linear-gradient(135deg, rgba(139, 92, 246, 0.03), rgba(124, 58, 237, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(139, 92, 246, 0.03),
+      rgba(124, 58, 237, 0.03)
+    );
   }
 
   .content-section-other {
-    background: linear-gradient(135deg, rgba(6, 182, 212, 0.03), rgba(8, 145, 178, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(6, 182, 212, 0.03),
+      rgba(8, 145, 178, 0.03)
+    );
   }
 
   .content-section-conclusion {
-    background: linear-gradient(135deg, rgba(168, 85, 247, 0.03), rgba(147, 51, 234, 0.03));
+    background: linear-gradient(
+      135deg,
+      rgba(168, 85, 247, 0.03),
+      rgba(147, 51, 234, 0.03)
+    );
   }
 
   /* ==========================================================================
      响应式设计
      ========================================================================== */
 
-  @media (max-width: 1200px) {
-    .game-layout-grid {
-      grid-template-columns: 1fr;
+  @media (max-width: 1024px) {
+    .hero-layout-grid {
+      grid-template-columns: 1fr 1fr;
       gap: var(--space-6);
     }
 
-    .game-sidebar-enhanced {
-      order: -1;
+    .hero-game-container {
+      height: 500px;
     }
 
-    .sidebar-section {
-      position: static;
-    }
-
-    .game-stats {
-      grid-template-columns: repeat(6, 1fr);
-    }
-
-    .stat-item {
-      grid-column: span 2;
+    .hero-game-iframe-container {
+      height: calc(500px - 60px);
     }
   }
 
   @media (max-width: 768px) {
     .game-hero-immersive {
-      min-height: 50vh;
-      padding: calc(80px + var(--space-6)) 0 var(--space-6);
+      min-height: auto;
+      padding: calc(80px + var(--space-2)) 0 var(--space-4);
     }
 
-    .game-info-content {
-      padding: var(--space-6);
+    .hero-layout-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-4);
+      min-height: auto;
+    }
+
+    .hero-game-container {
+      height: 400px;
+      order: -1;
+    }
+
+    .hero-game-iframe-container {
+      height: calc(400px - 50px);
+    }
+
+    .hero-game-header {
+      padding: var(--space-3);
+    }
+
+    .hero-control-btn {
+      width: 32px;
+      height: 32px;
     }
 
     .game-title-enhanced {
@@ -1699,68 +1734,38 @@ const contentSections = [
     .game-description-enhanced {
       font-size: var(--font-size-lg);
     }
-
-    .action-buttons {
-      flex-direction: column;
-      width: 100%;
-    }
-
-    .play-now-btn,
-    .share-btn {
-      width: 100%;
-      justify-content: center;
-    }
-
-    .game-header-enhanced {
-      padding: var(--space-4);
-    }
-
-    .game-title-bar {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: var(--space-2);
-    }
-
-    .game-controls-enhanced {
-      flex-wrap: wrap;
-    }
-
-    .section-title-enhanced {
-      font-size: var(--font-size-2xl);
-      flex-direction: column;
-      gap: var(--space-2);
-    }
-
-    .features-grid-enhanced {
-      grid-template-columns: 1fr;
-      gap: var(--space-6);
-    }
-
-    .step-item-enhanced {
-      flex-direction: column;
-      text-align: center;
-      gap: var(--space-4);
-    }
-
-    .content-list-enhanced {
-      grid-template-columns: 1fr;
-    }
-
-    .related-games-grid {
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: var(--space-4);
-    }
-
-    .game-stats {
-      grid-template-columns: repeat(3, 1fr);
-    }
-
-    .stat-item {
-      grid-column: span 1;
-    }
   }
 
   @media (max-width: 480px) {
+    .game-hero-immersive {
+      padding: calc(80px + var(--space-1)) 0 var(--space-2);
+    }
+
+    .hero-layout-grid {
+      gap: var(--space-3);
+    }
+
+    .hero-game-container {
+      height: 350px;
+    }
+
+    .hero-game-iframe-container {
+      height: calc(350px - 45px);
+    }
+
+    .hero-game-header {
+      padding: var(--space-2);
+    }
+
+    .hero-game-active-title {
+      font-size: var(--font-size-base);
+    }
+
+    .hero-control-btn {
+      width: 28px;
+      height: 28px;
+    }
+
     .game-title-enhanced {
       font-size: var(--font-size-2xl);
     }
@@ -1769,66 +1774,8 @@ const contentSections = [
       font-size: var(--font-size-base);
     }
 
-    .game-info-content {
-      padding: var(--space-4);
-    }
-
-    .breadcrumb-enhanced {
-      flex-wrap: wrap;
-    }
-
-    .game-badges-container {
-      gap: var(--space-2);
-    }
-
-    .game-category-badge,
-    .game-demo-badge,
-    .game-type-badge {
-      font-size: var(--font-size-xs);
-      padding: var(--space-1) var(--space-3);
-    }
-
-    .rating-display {
-      gap: var(--space-2);
-    }
-
-    .stars-container {
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-
-    .content-steps-enhanced .step-item-enhanced {
-      flex-direction: column;
-      text-align: center;
-      gap: var(--space-3);
-    }
-
-    .section-title-enhanced {
-      font-size: var(--font-size-xl);
-    }
-
-    .section-subtitle-enhanced {
-      font-size: var(--font-size-base);
-    }
-
-    .feature-card-content {
-      padding: var(--space-6);
-    }
-
-    .feature-icon-enhanced {
-      width: 60px;
-      height: 60px;
-      font-size: var(--font-size-xl);
-    }
-
-    .content-card-enhanced {
-      padding: var(--space-6);
-    }
-
-    .content-title-enhanced {
-      font-size: var(--font-size-xl);
-      flex-direction: column;
-      gap: var(--space-2);
+    .play-now-btn {
+      padding: var(--space-3) var(--space-6);
     }
   }
 </style>

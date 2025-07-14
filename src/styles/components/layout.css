@@ -1,0 +1,267 @@
+/**
+ * 布局组件系统
+ */
+
+/* ==========================================================================
+   基础重置和全局样式
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-normal);
+  color: var(--color-gray-900);
+  background-color: var(--color-gray-50);
+  margin: 0;
+  padding: 0;
+}
+
+/* 移动端字体优化 */
+@media (max-width: 768px) {
+  body {
+    font-size: 1.0625rem; /* 17px - 提升移动端阅读体验 */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 1.125rem; /* 18px - 进一步提升小屏设备阅读体验 */
+  }
+}
+
+/* ==========================================================================
+   容器系统
+   ========================================================================== */
+
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--space-4);
+  padding-right: var(--space-4);
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: var(--container-sm);
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: var(--container-md);
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: var(--container-lg);
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1400px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1400px;
+  }
+}
+
+/* ==========================================================================
+   页脚组件
+   ========================================================================== */
+
+.footer {
+  background: var(--color-gray-900);
+  color: var(--color-gray-300);
+  padding: var(--space-16) 0 var(--space-8) 0;
+  margin-top: var(--space-24);
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-8);
+}
+
+.footer-section h3 {
+  color: white;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--space-4) 0;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: var(--space-2);
+}
+
+.footer-links a {
+  color: var(--color-gray-400);
+  text-decoration: none;
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.footer-links a:hover {
+  color: var(--color-primary-400);
+}
+
+.footer-bottom {
+  border-top: var(--border-width-1) solid var(--color-gray-800);
+  margin-top: var(--space-8);
+  padding-top: var(--space-8);
+  text-align: center;
+  color: var(--color-gray-500);
+  font-size: var(--font-size-sm);
+}
+
+/* ==========================================================================
+   关于部分样式
+   ========================================================================== */
+
+.about {
+  padding: var(--space-16) 0;
+}
+
+.about h2 {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-gray-900);
+  margin: 0 0 var(--space-8) 0;
+  text-align: center;
+}
+
+.about h3 {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-primary-700);
+  margin: var(--space-8) 0 var(--space-4) 0;
+}
+
+.about h4 {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-gray-800);
+  margin: var(--space-6) 0 var(--space-3) 0;
+}
+
+.about p {
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--space-4) 0;
+}
+
+.about ul {
+  color: var(--color-gray-600);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--space-4) 0;
+  padding-left: var(--space-6);
+}
+
+.about a {
+  color: var(--color-primary-600);
+  text-decoration: none;
+  font-weight: var(--font-weight-medium);
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+.about a:hover {
+  color: var(--color-primary-700);
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   响应式设计
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: var(--font-size-3xl);
+  }
+
+  .hero-description {
+    font-size: var(--font-size-lg);
+  }
+
+  .game-grid-container {
+    grid-template-columns: 1fr;
+  }
+
+  .game-card-featured .game-card-title {
+    font-size: var(--font-size-2xl);
+  }
+
+  .about h2 {
+    font-size: var(--font-size-2xl);
+  }
+
+  .about h3 {
+    font-size: var(--font-size-xl);
+  }
+}
+
+/* ==========================================================================
+   动画和过渡效果
+   ========================================================================== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp var(--duration-500) var(--ease-out);
+}
+
+.animate-pulse {
+  animation: pulse var(--duration-1000) var(--ease-in-out) infinite;
+}
+
+.animate-float {
+  animation: float 3s var(--ease-in-out) infinite;
+}

@@ -1,0 +1,351 @@
+/**
+ * Hero 背景系统和音符动画
+ */
+
+/* ==========================================================================
+   Hero背景设计令牌
+   ========================================================================== */
+
+:root {
+  /* === 音符动画变量 === */
+  --hero-music-pulse-duration: 2s;
+  --hero-music-bar-duration: 1.5s;
+  --hero-music-pulse-scale: 1.05;
+  --hero-music-bar-height-min: 20px;
+  --hero-music-bar-height-max: 50px;
+  --hero-music-animation-delay-base: 50ms;
+
+  /* 主背景渐变 */
+  --hero-main-bg: linear-gradient(135deg, #faf5ff 0%, #f9fafb 100%);
+
+  /* 装饰纹理背景 - 丰富的点状纹理 */
+  --hero-texture-bg: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60"><defs><pattern id="grain" width="60" height="60" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="0.8" fill="%23a855f7" opacity="0.15"/><circle cx="25" cy="8" r="0.6" fill="%23c084fc" opacity="0.12"/><circle cx="40" cy="15" r="0.7" fill="%23a855f7" opacity="0.13"/><circle cx="8" cy="25" r="0.5" fill="%23d8b4fe" opacity="0.1"/><circle cx="32" cy="28" r="0.8" fill="%23a855f7" opacity="0.14"/><circle cx="50" cy="22" r="0.6" fill="%23c084fc" opacity="0.11"/><circle cx="15" cy="40" r="0.7" fill="%23a855f7" opacity="0.13"/><circle cx="45" cy="42" r="0.5" fill="%23d8b4fe" opacity="0.12"/><circle cx="28" cy="45" r="0.6" fill="%23c084fc" opacity="0.1"/><circle cx="5" cy="45" r="0.8" fill="%23a855f7" opacity="0.15"/><circle cx="52" cy="50" r="0.7" fill="%23a855f7" opacity="0.12"/><circle cx="18" cy="55" r="0.5" fill="%23d8b4fe" opacity="0.11"/></pattern></defs><rect width="100%" height="100%" fill="url(%23grain)"/></svg>');
+  --hero-texture-opacity: 0.5;
+
+  /* 侧边栏玻璃拟态背景 */
+  --hero-sidebar-glass-bg: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(248, 250, 252, 0.9) 50%,
+    rgba(241, 245, 249, 0.95) 100%
+  );
+  --hero-sidebar-glass-blur: blur(20px) saturate(180%);
+  --hero-sidebar-glass-border: 1px solid rgba(255, 255, 255, 0.3);
+  --hero-sidebar-glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+
+  /* 主游戏容器背景 */
+  --hero-game-container-bg: #ffffff;
+
+  /* 游戏iframe背景 */
+  --hero-game-iframe-bg: var(--color-gray-900);
+
+  /* 页面全局背景 - 与主背景保持一致 */
+  --hero-page-bg: linear-gradient(135deg, #faf5ff 0%, #f9fafb 100%);
+}
+
+/* ==========================================================================
+   Hero背景工具类
+   ========================================================================== */
+
+/* 主背景渐变 */
+.bg-hero-main {
+  background: var(--hero-main-bg);
+}
+
+/* 装饰纹理背景 */
+.bg-hero-texture {
+  background: var(--hero-texture-bg);
+  opacity: var(--hero-texture-opacity);
+  pointer-events: none;
+}
+
+/* 侧边栏玻璃拟态效果 */
+.bg-hero-sidebar-glass {
+  background: var(--hero-sidebar-glass-bg);
+  backdrop-filter: var(--hero-sidebar-glass-blur);
+  -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+  border: var(--hero-sidebar-glass-border);
+  box-shadow: var(--hero-sidebar-glass-shadow);
+}
+
+/* 主游戏容器背景 */
+.bg-hero-game-container {
+  background: var(--hero-game-container-bg);
+}
+
+/* 游戏iframe背景 */
+.bg-hero-game-iframe {
+  background: var(--hero-game-iframe-bg);
+}
+
+/* 页面全局背景 */
+.bg-hero-page {
+  background: var(--hero-page-bg);
+}
+
+/* ==========================================================================
+   Hero效果组合类
+   ========================================================================== */
+
+/* 完整的侧边栏效果 */
+.hero-sidebar-effect {
+  background: var(--hero-sidebar-glass-bg);
+  backdrop-filter: var(--hero-sidebar-glass-blur);
+  -webkit-backdrop-filter: var(--hero-sidebar-glass-blur);
+  border: var(--hero-sidebar-glass-border);
+  box-shadow: var(--hero-sidebar-glass-shadow);
+  border-radius: var(--border-radius-lg);
+  transition: all var(--duration-300) var(--ease-in-out);
+}
+
+.hero-sidebar-effect:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15), 0 4px 12px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+/* 主容器效果 */
+.hero-main-container {
+  background: var(--hero-main-bg);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-main-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--hero-texture-bg);
+  opacity: var(--hero-texture-opacity);
+  pointer-events: none;
+}
+
+/* === 音符动画效果 === */
+@keyframes hero-music-pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scale(var(--hero-music-pulse-scale));
+    opacity: 0.8;
+  }
+}
+
+@keyframes hero-music-bar {
+  0%,
+  100% {
+    height: var(--hero-music-bar-height-min);
+    opacity: 0.6;
+  }
+  25% {
+    height: 40px;
+    opacity: 1;
+  }
+  50% {
+    height: 30px;
+    opacity: 0.8;
+  }
+  75% {
+    height: var(--hero-music-bar-height-max);
+    opacity: 1;
+  }
+}
+
+/* 音符动画工具类 */
+.hero-music-pulse {
+  animation: hero-music-pulse var(--hero-music-pulse-duration) ease-in-out
+    infinite;
+}
+
+.hero-music-bar {
+  animation: hero-music-bar var(--hero-music-bar-duration) ease-in-out infinite;
+}
+
+.hero-music-pulse-hover:hover {
+  animation: hero-music-pulse 1s ease-in-out infinite;
+}
+
+.hero-music-bar-hover:hover {
+  animation: hero-music-bar 0.8s ease-in-out infinite;
+}
+
+/* 音符元素基础样式 */
+.hero-music-element {
+  position: relative;
+  transition: all var(--duration-300) var(--ease-in-out);
+}
+
+.hero-music-element::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  background: linear-gradient(
+    45deg,
+    rgba(255, 107, 107, 0.1),
+    rgba(78, 205, 196, 0.1),
+    rgba(69, 183, 209, 0.1),
+    rgba(150, 206, 180, 0.1),
+    rgba(255, 201, 60, 0.1),
+    rgba(255, 107, 107, 0.1)
+  );
+  border: 3px solid;
+  border-image: linear-gradient(
+      45deg,
+      #ff6b6b,
+      #4ecdc4,
+      #45b7d1,
+      #96ceb4,
+      #ffc93c,
+      #ff6b6b
+    )
+    1;
+  border-radius: var(--border-radius-lg);
+  z-index: -1;
+}
+
+.hero-music-element::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 4px;
+  height: 40px;
+  background: linear-gradient(to top, #ff6b6b, #4ecdc4, #45b7d1);
+  transform: translate(-50%, -50%);
+  border-radius: 2px;
+  z-index: -1;
+}
+
+.hero-music-element:hover::before {
+  animation: hero-music-pulse 1s ease-in-out infinite;
+}
+
+.hero-music-element:hover::after {
+  animation: hero-music-bar 0.8s ease-in-out infinite;
+}
+
+/* 音符动画延迟工具类 */
+.hero-music-delay-1 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 1);
+}
+.hero-music-delay-2 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 2);
+}
+.hero-music-delay-3 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 3);
+}
+.hero-music-delay-4 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 4);
+}
+.hero-music-delay-5 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 5);
+}
+.hero-music-delay-6 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 6);
+}
+.hero-music-delay-7 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 7);
+}
+.hero-music-delay-8 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 8);
+}
+.hero-music-delay-9 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 9);
+}
+.hero-music-delay-10 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 10);
+}
+.hero-music-delay-11 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 11);
+}
+.hero-music-delay-12 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 12);
+}
+.hero-music-delay-13 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 13);
+}
+.hero-music-delay-14 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 14);
+}
+.hero-music-delay-15 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 15);
+}
+.hero-music-delay-16 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 16);
+}
+.hero-music-delay-17 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 17);
+}
+.hero-music-delay-18 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 18);
+}
+.hero-music-delay-19 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 19);
+}
+.hero-music-delay-20 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 20);
+}
+.hero-music-delay-21 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 21);
+}
+.hero-music-delay-22 {
+  animation-delay: calc(var(--hero-music-animation-delay-base) * 22);
+}
+
+/* 音符动画控制 - 兼容原有系统 */
+.music-element:hover {
+  animation: none !important;
+}
+
+.music-element:hover .hero-music-element::before {
+  animation: hero-music-pulse 1s ease-in-out infinite;
+}
+
+.music-element:hover .hero-music-element::after {
+  animation: hero-music-bar 0.8s ease-in-out infinite;
+}
+
+/* 为GameCard组件添加音符动画支持 */
+.game-card.music-element {
+  position: relative;
+  transition: all var(--duration-300) var(--ease-in-out);
+}
+
+.game-card.music-element:hover {
+  animation: none !important;
+  transform: translateY(-2px);
+}
+
+.game-card.music-element::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(
+    45deg,
+    rgba(255, 107, 107, 0.1),
+    rgba(78, 205, 196, 0.1),
+    rgba(69, 183, 209, 0.1)
+  );
+  border-radius: var(--border-radius-lg);
+  z-index: -1;
+  opacity: 0;
+  transition: opacity var(--duration-300) var(--ease-in-out);
+}
+
+.game-card.music-element:hover::before {
+  opacity: 1;
+  animation: hero-music-pulse 1s ease-in-out infinite;
+}

@@ -1,0 +1,116 @@
+/**
+ * 排版系统
+ */
+
+/* ==========================================================================
+   排版系统 - 语义化标题和文本类
+   ========================================================================== */
+
+/* 显示级标题 */
+.heading-display {
+  font-family: var(--font-family-display);
+  font-size: var(--font-size-5xl);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  letter-spacing: var(--letter-spacing-tight);
+  color: var(--color-gray-900);
+}
+
+/* 大标题 */
+.heading-large {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  color: var(--color-gray-900);
+}
+
+/* 中等标题 */
+.heading-medium {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-snug);
+  color: var(--color-gray-900);
+}
+
+/* 小标题 */
+.heading-small {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-snug);
+  color: var(--color-gray-800);
+}
+
+/* 大号正文 */
+.body-large {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-height-relaxed);
+  color: var(--color-gray-600);
+}
+
+/* 普通正文 */
+.body-normal {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-height-normal);
+  color: var(--color-gray-700);
+}
+
+/* 小号正文 */
+.body-small {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-height-normal);
+  color: var(--color-gray-600);
+}
+
+/* 极小正文 */
+.body-xs {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-height-normal);
+  color: var(--color-gray-500);
+}
+
+/* 文本颜色变体 */
+.text-muted {
+  color: var(--color-gray-500);
+}
+
+.text-subtle {
+  color: var(--color-gray-400);
+}
+
+.text-primary {
+  color: var(--color-primary-600);
+}
+
+.text-error {
+  color: var(--color-error-600);
+}
+
+.text-success {
+  color: var(--color-success-600);
+}
+
+.text-warning {
+  color: var(--color-warning-600);
+}
+
+/* 响应式排版 */
+@media (max-width: 768px) {
+  .heading-display {
+    font-size: var(--font-size-4xl);
+  }
+
+  .heading-large {
+    font-size: var(--font-size-3xl);
+  }
+}

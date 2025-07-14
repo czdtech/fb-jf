@@ -288,7 +288,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    /* 暗色模式下的玻璃拟态效果 */
+    /* 暗色模式下���玻璃拟态效果 */
     --glass-bg: rgba(0, 0, 0, 0.2);
     --glass-bg-strong: rgba(0, 0, 0, 0.4);
     --glass-border: rgba(255, 255, 255, 0.2);
