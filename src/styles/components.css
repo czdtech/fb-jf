@@ -467,6 +467,19 @@ body {
   padding: 0;
 }
 
+/* 移动端字体优化 */
+@media (max-width: 768px) {
+  body {
+    font-size: 1.0625rem; /* 17px - 提升移动端阅读体验 */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 1.125rem; /* 18px - 进一步提升小屏设备阅读体验 */
+  }
+}
+
 /* ==========================================================================
    容器系统
    ========================================================================== */
@@ -599,6 +612,35 @@ body {
   font-size: var(--font-size-xl);
 }
 
+/* 移动端按钮字体优化 */
+@media (max-width: 768px) {
+  .btn {
+    font-size: 1.0625rem; /* 17px - 提升移动端按钮可读性 */
+  }
+
+  .btn-lg {
+    font-size: 1.1875rem; /* 19px */
+  }
+
+  .btn-xl {
+    font-size: 1.3125rem; /* 21px */
+  }
+}
+
+@media (max-width: 480px) {
+  .btn {
+    font-size: 1.125rem; /* 18px - 小屏设备按钮字体 */
+  }
+
+  .btn-lg {
+    font-size: 1.25rem; /* 20px */
+  }
+
+  .btn-xl {
+    font-size: 1.375rem; /* 22px */
+  }
+}
+
 /* ==========================================================================
    游戏卡片组件
    ========================================================================== */
@@ -715,6 +757,27 @@ body {
   color: var(--color-gray-600);
   margin: 0;
   line-height: var(--line-height-relaxed);
+}
+
+/* 移动端游戏卡片字体优化 */
+@media (max-width: 768px) {
+  .game-card-title {
+    font-size: 1.1875rem; /* 19px - 提升移动端标题可读性 */
+  }
+
+  .game-card-description {
+    font-size: 0.9375rem; /* 15px - 适度提升描述文字 */
+  }
+}
+
+@media (max-width: 480px) {
+  .game-card-title {
+    font-size: 1.125rem; /* 18px - 小屏设备标题 */
+  }
+
+  .game-card-description {
+    font-size: 1rem; /* 16px - 小屏设备描述文字 */
+  }
 }
 
 /* 游戏卡片变体 */

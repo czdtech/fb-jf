@@ -14,7 +14,7 @@ const { soundSamples } = Astro.props;
   <div class="container">
     <div class="section-header center-only">
       <div>
-        <h2 class="section-title">🎵 Sound Samples</h2>
+        <h2 class="section-title">Explore the Different Sounds in Fiddlebops Incredibox</h2>
         <p class="section-description">
           Listen to authentic FiddleBops character sounds: Beats from Garrett and Mr. Moon, Effects from Cyborg Throat Singing, Melodies from Blues Clues Radio 2011, and Vocals from Mike Ehrmantraut
         </p>
@@ -164,10 +164,28 @@ const { soundSamples } = Astro.props;
 }
 
 /* Responsive Design */
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
   .sound-samples-grid {
     grid-template-columns: repeat(4, 1fr);
+    gap: 28px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .sound-samples-grid {
+    grid-template-columns: repeat(3, 1fr);
     gap: 24px;
+  }
+}
+
+@media (max-width: 900px) {
+  .sound-samples-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-6);
   }
 }
 
@@ -188,28 +206,13 @@ const { soundSamples } = Astro.props;
     text-align: left;
   }
 
-  .sound-samples-container {
-    padding: var(--space-6);
-  }
-
-  .sound-samples-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-  }
-  
-  .sound-sample-wrapper {
-    min-height: 250px;
-  }
-}
-
-@media (max-width: 600px) {
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
+    gap: 18px;
   }
   
   .sound-sample-wrapper {
-    min-height: 220px;
+    min-height: 0;
   }
 }
 
@@ -224,7 +227,7 @@ const { soundSamples } = Astro.props;
   }
   
   .sound-sample-wrapper {
-    min-height: 200px;
+    min-height: 0;
   }
 
   .section-description {
@@ -232,6 +235,17 @@ const { soundSamples } = Astro.props;
     line-height: 1.4;
     letter-spacing: 0.01em;
     text-align: center;
+  }
+}
+
+@media (max-width: 360px) {
+  .sound-samples-container {
+    padding: var(--space-3);
+  }
+  
+  .sound-samples-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
   }
 }
 </style>

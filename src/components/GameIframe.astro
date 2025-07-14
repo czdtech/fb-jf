@@ -20,11 +20,11 @@ const {
 
 <div class="game-iframe-sprunki" style={`background-image: url(${backgroundImage})`}>
   <div class="game-overlay"></div>
-  
+
   <!-- 预连接优化 -->
   <link rel="preconnect" href={new URL(src).origin}>
   <link rel="dns-prefetch" href={new URL(src).origin}>
-  
+
   <iframe
     id={id}
     src={autoLoad ? src : ""}
@@ -38,7 +38,7 @@ const {
     style="background-color: #000000; position: absolute; top: 0; left: 0; z-index: 5; opacity: 0; pointer-events: none; transition: opacity 0.3s ease-in-out;"
     title={gameTitle}
   ></iframe>
-  
+
   {!autoLoad && (
     <div class="game-cover-overlay" id="gameCover">
       <div class="game-cover-content">
@@ -48,7 +48,7 @@ const {
           <span>Play</span>
         </button>
       </div>
-      
+
       <!-- 加载指示器 -->
       <div class="game-loading-indicator" id="loadingIndicator" style="display: none;">
         <div class="loading-spinner"></div>
@@ -71,22 +71,22 @@ const {
         if (loadingIndicator) {
           loadingIndicator.style.display = "flex";
         }
-        
+
         // 隐藏播放按钮
         if (playButton) {
           playButton.style.display = "none";
         }
-        
+
         // 开始加载iframe
         iframe.src = iframeSrc;
-        
+
         // 监听iframe加载完成
         iframe.onload = function() {
           setTimeout(() => {
             // 显示iframe
             iframe.style.opacity = "1";
             iframe.style.pointerEvents = "auto";
-            
+
             const gameCover = document.getElementById("gameCover");
             if (gameCover) {
               gameCover.style.opacity = "0";
@@ -97,14 +97,14 @@ const {
             }
           }, 500); // 给游戏一点时间完全加载
         };
-        
+
         // 错误处理
         iframe.onerror = function() {
           if (loadingIndicator) {
             loadingIndicator.innerHTML = '<p style="color: #ff4444;">Loading failed, please try again</p>';
           }
         };
-        
+
         iframeLoaded = true;
         iframe.focus();
       }
@@ -179,13 +179,13 @@ const {
   padding: var(--space-8);
   background: transparent;
   border: 3px solid;
-  border-image: linear-gradient(45deg, 
+  border-image: linear-gradient(45deg,
     #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffc93c, #ff6b6b
   ) 1;
   border-radius: 0;
   backdrop-filter: none;
   -webkit-backdrop-filter: none;
-  box-shadow: 
+  box-shadow:
     0 0 30px rgba(255, 107, 107, 0.3),
     0 0 60px rgba(78, 205, 196, 0.2),
     inset 0 0 30px rgba(255, 255, 255, 0.1);
@@ -203,16 +203,16 @@ const {
   left: -10px;
   right: -10px;
   bottom: -10px;
-  background: linear-gradient(45deg, 
-    rgba(255, 107, 107, 0.1), 
-    rgba(78, 205, 196, 0.1), 
-    rgba(69, 183, 209, 0.1), 
-    rgba(150, 206, 180, 0.1), 
+  background: linear-gradient(45deg,
+    rgba(255, 107, 107, 0.1),
+    rgba(78, 205, 196, 0.1),
+    rgba(69, 183, 209, 0.1),
+    rgba(150, 206, 180, 0.1),
     rgba(255, 201, 60, 0.1),
     rgba(255, 107, 107, 0.1)
   );
   border: 3px solid;
-  border-image: linear-gradient(45deg, 
+  border-image: linear-gradient(45deg,
     #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffc93c, #ff6b6b
   ) 1;
   animation: musicPulse 2s ease-in-out infinite;
@@ -233,30 +233,30 @@ const {
 }
 
 @keyframes musicPulse {
-  0%, 100% { 
+  0%, 100% {
     transform: scale(1);
     opacity: 0.6;
   }
-  50% { 
+  50% {
     transform: scale(1.05);
     opacity: 0.8;
   }
 }
 
 @keyframes musicBar {
-  0%, 100% { 
+  0%, 100% {
     height: 20px;
     opacity: 0.6;
   }
-  25% { 
+  25% {
     height: 40px;
     opacity: 1;
   }
-  50% { 
+  50% {
     height: 30px;
     opacity: 0.8;
   }
-  75% { 
+  75% {
     height: 50px;
     opacity: 1;
   }
@@ -265,7 +265,7 @@ const {
 
 .game-cover-overlay:hover .game-cover-content {
   transform: translateY(-8px) scale(1.02);
-  box-shadow: 
+  box-shadow:
     0 0 40px rgba(255, 107, 107, 0.5),
     0 0 80px rgba(78, 205, 196, 0.3),
     0 0 120px rgba(69, 183, 209, 0.2);
@@ -347,7 +347,7 @@ const {
   border-radius: var(--border-radius-full);
   cursor: pointer;
   transition: all var(--duration-200) var(--ease-rhythm);
-  box-shadow: 
+  box-shadow:
     0 8px 25px rgba(147, 51, 234, 0.4),
     0 4px 12px rgba(0, 0, 0, 0.1),
     inset 0 1px 0 rgba(255, 255, 255, 0.2),
@@ -376,7 +376,7 @@ const {
 
 .game-start-button:hover {
   transform: translateY(-3px) scale(1.05);
-  box-shadow: 
+  box-shadow:
     0 12px 35px rgba(147, 51, 234, 0.5),
     0 6px 18px rgba(0, 0, 0, 0.2),
     inset 0 1px 0 rgba(255, 255, 255, 0.3),
@@ -387,7 +387,7 @@ const {
 
 .game-start-button:active {
   transform: translateY(-1px) scale(1.02);
-  box-shadow: 
+  box-shadow:
     0 6px 20px rgba(147, 51, 234, 0.4),
     0 3px 10px rgba(0, 0, 0, 0.15);
 }
@@ -445,11 +445,11 @@ const {
   .game-iframe-sprunki {
     width: 100%;
   }
-  
+
   .game-cover-title {
     font-size: clamp(var(--font-size-2xl), 6vw, var(--font-size-4xl));
   }
-  
+
   .game-start-button {
     padding: var(--space-3) var(--space-5);
     font-size: var(--font-size-base);
@@ -460,14 +460,38 @@ const {
   .game-iframe-sprunki {
     max-height: 330px;
   }
-  
+
+  .game-cover-content {
+    gap: var(--space-4);
+    padding: var(--space-4);
+    min-width: 240px;
+  }
+
   .game-cover-title {
     font-size: clamp(var(--font-size-xl), 7vw, var(--font-size-3xl));
   }
-  
+
   .game-start-button {
     padding: var(--space-2) var(--space-4);
     font-size: var(--font-size-sm);
+    gap: var(--space-1);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .game-cover-content {
+    gap: var(--space-3);
+    padding: var(--space-3);
+    min-width: 200px;
+  }
+
+  .game-cover-title {
+    font-size: clamp(var(--font-size-lg), 8vw, var(--font-size-2xl));
+  }
+
+  .game-start-button {
+    padding: var(--space-2) var(--space-3);
+    font-size: var(--font-size-xs);
     gap: var(--space-1);
   }
 }

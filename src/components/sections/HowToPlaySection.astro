@@ -130,6 +130,32 @@
           </div>
         </div>
 
+        <!-- Creation Mechanics -->
+        <div class="how-to-play-card glass scroll-animate">
+          <div class="how-to-play-header">
+            <div class="how-to-play-icon">🎼</div>
+            <h3 class="how-to-play-title">Creation Mechanics</h3>
+          </div>
+          <div class="how-to-play-content">
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">🎵</span>
+              <span><strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">⏱️</span>
+              <span><strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">🔁</span>
+              <span><strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching</span>
+            </div>
+            <div class="how-to-play-item">
+              <span class="how-to-play-bullet">🧪</span>
+              <span><strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!</span>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
@@ -356,6 +382,10 @@
     height: var(--space-10);
     font-size: var(--font-size-lg);
   }
+
+  .how-to-play-item span:last-child {
+    font-size: var(--font-size-base);
+  }
 }
 
 @media (max-width: 480px) {
@@ -374,7 +404,7 @@
   }
 
   .how-to-play-item span:last-child {
-    font-size: var(--font-size-xs);
+    font-size: var(--font-size-sm);
   }
 }
 
@@ -494,7 +524,7 @@
   }
 
   .section-description {
-    font-size: var(--font-size-lg);
+    font-size: 1.1875rem; /* 19px - 提升移动端说明文字可读性 */
     margin-bottom: var(--space-6);
     max-width: 100%;
     line-height: 1.5;
@@ -504,7 +534,7 @@
   .quick-start-steps {
     grid-template-columns: 1fr;
   }
-  
+
   .quick-step {
     flex-direction: column;
     text-align: center;
@@ -514,7 +544,7 @@
 
 @media (max-width: 480px) {
   .section-description {
-    font-size: var(--font-size-base);
+    font-size: 1.125rem; /* 18px - 小屏设备说明文字优化 */
     line-height: 1.4;
     letter-spacing: 0.01em;
     text-align: center;

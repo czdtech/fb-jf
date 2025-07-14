@@ -579,6 +579,33 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
 }
 
 /* Responsive Design */
+@media (max-width: 1200px) {
+  .sound-sample-image-wrapper {
+    width: 140px;
+    height: 140px;
+  }
+  
+  .audio-viz-rings {
+    width: 160px;
+    height: 160px;
+  }
+  
+  .ring-1 {
+    width: 140px;
+    height: 140px;
+  }
+  
+  .ring-2 {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .ring-3 {
+    width: 160px;
+    height: 160px;
+  }
+}
+
 @media (max-width: 768px) {
   .sound-sample-card {
     aspect-ratio: 1;
@@ -587,12 +614,27 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
   .sound-sample-image-wrapper {
     width: 120px;
     height: 120px;
-    padding: 8px;
+    padding: 6px;
   }
-
-  .sound-sample-audio {
-    max-width: 150px;
-    height: 28px;
+  
+  .audio-viz-rings {
+    width: 140px;
+    height: 140px;
+  }
+  
+  .ring-1 {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .ring-2 {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .ring-3 {
+    width: 140px;
+    height: 140px;
   }
 
   .sound-sample-content {
@@ -603,10 +645,21 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     font-size: 13px;
   }
 
-  .sound-sample-play-icon {
-    width: 40px;
-    height: 40px;
-    font-size: 16px;
+  .play-btn {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .play-icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .sound-sample-category {
+    top: 8px;
+    right: 8px;
+    padding: 3px 10px;
+    font-size: 11px;
   }
 }
 
@@ -620,16 +673,35 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     height: 100px;
     padding: 6px;
   }
-
-  .sound-sample-audio {
-    max-width: 120px;
-    height: 24px;
+  
+  .audio-viz-rings {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .ring-1 {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .ring-2 {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .ring-3 {
+    width: 120px;
+    height: 120px;
   }
 
-  .sound-sample-play-icon {
-    width: 36px;
-    height: 36px;
-    font-size: 14px;
+  .play-btn {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .play-icon {
+    width: 18px;
+    height: 18px;
   }
 
   .sound-sample-content {
@@ -638,11 +710,66 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
 
   .sound-sample-title {
     font-size: 12px;
+    margin-bottom: 8px;
+    min-height: 28px;
   }
 
   .sound-sample-category {
+    top: 6px;
+    right: 6px;
     padding: 2px 8px;
     font-size: 10px;
+  }
+  
+  .waveform-bars {
+    gap: 2px;
+    height: 16px;
+  }
+  
+  .waveform-bars .bar {
+    width: 3px;
+  }
+}
+
+@media (max-width: 360px) {
+  .sound-sample-image-wrapper {
+    width: 80px;
+    height: 80px;
+    padding: 4px;
+  }
+  
+  .audio-viz-rings {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .ring-1 {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .ring-2 {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .ring-3 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .play-btn {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .play-icon {
+    width: 16px;
+    height: 16px;
+  }
+  
+  .sound-sample-title {
+    font-size: 11px;
   }
 }
 </style>
