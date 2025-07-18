@@ -23,17 +23,17 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
     {meta.keywords && <meta name="keywords" content={meta.keywords}>}
     <meta name="robots" content="index, follow"/>
     <link rel="canonical" href={meta.canonical}/>
-    
+
     <!-- hreflang 标签 -->
     {hreflang.map((lang) => (
         <link rel="alternate" hreflang={lang.code} href={lang.url} />
     ))}
-    
+
     <!-- 结构化数据 -->
     {structuredData && (
         <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
     )}
-    
+
     <!-- Open Graph -->
     <meta property="og:title" content={meta.title}/>
     <meta property="og:description" content={meta.description}/>
@@ -52,9 +52,9 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
 
     <!-- 图标和样式 -->
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
-    
+
     <!-- 设计系统样式已通过 import 引入 -->
-    
+
     <!-- 字体预加载优化 -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -76,13 +76,13 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
         <meta name="google-adsense-account" content="ca-pub-1444054360166733" />
       </>
     )}
-    
+
     <!-- 开发环境占位符 -->
     {import.meta.env.DEV && (
       <script>
         // 开发环境 - 分析和广告代码占位符
         console.log('🔧 开发模式：分析和广告代码已禁用');
-        
+
         // 模拟 gtag 函数防止错误
         window.dataLayer = window.dataLayer || [];
         window.gtag = function() {
@@ -90,13 +90,13 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
         };
       </script>
     )}
-    
+
     <!-- 导航脚本 -->
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         const navToggle = document.querySelector('.nav-toggle');
         const navMenu = document.querySelector('.nav-menu');
-        
+
         navToggle?.addEventListener('click', function() {
           navMenu?.classList.toggle('active');
         });
@@ -105,7 +105,7 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
 </head>
 <body>
     <slot />
-    
+
     <!-- 社交分享 (仅生产环境) -->
     {import.meta.env.PROD && (
       <>
@@ -138,11 +138,11 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
         <script defer src="https://static.addtoany.com/menu/page.js"></script>
       </>
     )}
-    
-    <!-- 设计系统交互脚本 -->
+
+        <!-- 设计系统交互脚本 -->
     <script src="/src/scripts/interactions.js"></script>
-    
+
     <!-- Stagewise 工具栏 (仅开发环境) -->
-    <script type="module" src="/src/scripts/stagewise.js"></script>
+    <script type="module" src="/src/scripts/stagewise-init.js"></script>
 </body>
 </html>

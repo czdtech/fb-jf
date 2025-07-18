@@ -24,6 +24,17 @@ const {
   <!-- 预连接优化 -->
   <link rel="preconnect" href={new URL(src).origin}>
   <link rel="dns-prefetch" href={new URL(src).origin}>
+  
+  <!-- 预加载关键资源 -->
+  {src.includes('turbowarp.org') && (
+    <link rel="preconnect" href="https://turbowarp.org">
+    <link rel="preconnect" href="https://projects.scratch.mit.edu">
+  )}
+  
+  {src.includes('minijuegos.com') && (
+    <link rel="preconnect" href="https://www.minijuegos.com">
+    <link rel="preconnect" href="https://cdn.minijuegos.com">
+  )}
 
   <iframe
     id={id}
@@ -52,7 +63,10 @@ const {
       <!-- 加载指示器 -->
       <div class="game-loading-indicator" id="loadingIndicator" style="display: none;">
         <div class="loading-spinner"></div>
-        <p class="loading-text">Loading Game...</p>
+        <p class="loading-text">正在加载游戏...</p>
+        <div class="loading-progress">
+          <div class="progress-bar"></div>
+        </div>
       </div>
     </div>
   )}
@@ -82,10 +96,16 @@ const {
 
         // 监听iframe加载完成
         iframe.onload = function() {
-          setTimeout(() => {
+          // 设置超时检查
+          const timeoutId = setTimeout(() => {
             // 显示iframe
             iframe.style.opacity = "1";
             iframe.style.pointerEvents = "auto";
+
+            // 隐藏加载指示器
+            if (loadingIndicator) {
+              loadingIndicator.style.display = "none";
+            }
 
             const gameCover = document.getElementById("gameCover");
             if (gameCover) {
@@ -95,14 +115,46 @@ const {
                 gameCover.style.display = "none";
               }, 300);
             }
-          }, 500); // 给游戏一点时间完全加载
+          }, 1000); // 给游戏更多时间完全加载
         };
 
         // 错误处理
         iframe.onerror = function() {
           if (loadingIndicator) {
-            loadingIndicator.innerHTML = '<p style="color: #ff4444;">Loading failed, please try again</p>';
+            loadingIndicator.innerHTML = '<div style="color: #ff4444; text-align: center;"><p>加载失败，请重试</p><button onclick="location.reload()" style="padding: 8px 16px; background: #ff4444; color: white; border: none; border-radius: 4px; cursor: pointer;">刷新页面</button></div>';
           }
+        };
+
+        // 添加加载超时处理
+        const loadingTimeout = setTimeout(() => {
+          if (loadingIndicator && loadingIndicator.style.display !== 'none') {
+            loadingIndicator.innerHTML = '<div style="color: #ffa500; text-align: center;"><p>加载时间较长，请耐心等待...</p><div class="loading-spinner"></div></div>';
+          }
+        }, 5000); // 5秒后显示超时提示
+
+        // 清除超时定时器
+        iframe.onload = function() {
+          clearTimeout(loadingTimeout);
+          // 设置超时检查
+          const timeoutId = setTimeout(() => {
+            // 显示iframe
+            iframe.style.opacity = "1";
+            iframe.style.pointerEvents = "auto";
+
+            // 隐藏加载指示器
+            if (loadingIndicator) {
+              loadingIndicator.style.display = "none";
+            }
+
+            const gameCover = document.getElementById("gameCover");
+            if (gameCover) {
+              gameCover.style.opacity = "0";
+              gameCover.style.pointerEvents = "none";
+              setTimeout(() => {
+                gameCover.style.display = "none";
+              }, 300);
+            }
+          }, 1000); // 给游戏更多时间完全加载
         };
 
         iframeLoaded = true;
@@ -438,6 +490,37 @@ const {
   color: rgba(255, 255, 255, 0.9);
   margin: 0;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.loading-progress {
+  width: 200px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-top: var(--space-2);
+}
+
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-primary-500), var(--color-primary-600));
+  border-radius: 2px;
+  animation: progressFlow 2s ease-in-out infinite;
+}
+
+@keyframes progressFlow {
+  0% {
+    width: 0%;
+    transform: translateX(-100%);
+  }
+  50% {
+    width: 60%;
+    transform: translateX(0);
+  }
+  100% {
+    width: 100%;
+    transform: translateX(100%);
+  }
 }
 
 

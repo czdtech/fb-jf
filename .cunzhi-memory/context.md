@@ -275,3 +275,4 @@ Fiddlebops Sprunkbop 特色：
 - Fiddlebops游戏个性化内容项目已100%完成！实际总游戏数量为63个（非65个），所有游戏都已添加完整的个性化英文内容，包括深度介绍、6个特色功能和详细游戏玩法描述。文件已优化并更新了准确的游戏总数。
 - 游戏数据同步已完成：以sitemap.xml为准，JSON文件中的游戏数量已与sitemap中的65个游戏保持一致。移除了sprunki-retake-new，添加了incredibox-cool-as-ice、mountayonnaise和sprunkle-bops，总游戏数更新为66个（实际数据统计），确保改版前后URL一致性。
 - Fiddlebops项目最终状态：Sitemap游戏数量65个，JSON数据游戏数量65个，实现100%完美同步。所有65个游戏已完成个性化英语内容。技术构建问题已解决，开发环境正常运行。用户偏好使用英语内容，非中文。
+- Stagewise 工具栏已完成全面升级。新功能包括：1. Astro特定上下文插件（组件ID检测、路径推断、页面类型识别）；2. Fiddlebops游戏专用插件（游戏数据提取、iframe检测、音频分析）；3. TypeScript类型支持；4. 配置集中化管理；5. 键盘快捷键支持（Ctrl/Cmd+Shift+S）；6. 增强错误处理和连接状态检测。升级保持向后兼容，仅在开发环境启用。

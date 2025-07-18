@@ -314,7 +314,7 @@ const contentSections = [
             </div>
 
             <div class="features-showcase">
-              {featuresContent ? (
+              {featuresContent && featuresContent.content ? (
                 <div class="features-detailed">
                   {featuresContent.content.map(
                     (section: any, sectionIndex: number) => {
@@ -392,7 +392,7 @@ const contentSections = [
             </div>
 
             <div class="how-to-play-content">
-              {gameplayContent ? (
+              {gameplayContent && gameplayContent.content ? (
                 <div class="gameplay-detailed">
                   {gameplayContent.content.map(
                     (section: any, sectionIndex: number) => {

@@ -1,4 +1,0 @@
-package.json
-src/components/sections/GameMainSection.astro
-src/layouts/GamePageLayout.astro
-src/pages/[slug].astro
