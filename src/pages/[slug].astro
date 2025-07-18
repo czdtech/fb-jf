@@ -12,7 +12,15 @@ import extractedData from '@/data/extracted-data.json'
 const { navigation, games } = extractedData
 
 export async function getStaticPaths() {
-  const allGames = gamesData.allGames
+  // 从categories中提取所有游戏
+  const allGames = []
+  for (const categoryName in gamesData.categories) {
+    const categoryData = (gamesData.categories as any)[categoryName]
+    if (Array.isArray(categoryData)) {
+      allGames.push(...categoryData)
+    }
+  }
+
   return allGames.map(game => ({
     params: { slug: game.slug },
     props: { gameData: game },
@@ -23,11 +31,12 @@ const { gameData } = Astro.props
 const extendedData = gameData as any
 
 // 多语言配置
-const hreflangLinks = navigation.languages.map(lang => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: `/${gameData.slug}/${lang.code !== 'en' ? lang.url.replace('/', '') + '/' : ''}`,
-  label: lang.label,
-}))
+const hreflangLinks =
+  navigation?.languages?.map(lang => ({
+    code: lang.code === 'en' ? 'x-default' : lang.code,
+    url: `/${gameData.slug}/${lang.code !== 'en' ? lang.url.replace('/', '') + '/' : ''}`,
+    label: lang.label,
+  })) || []
 
 // SEO配置
 const meta = {
@@ -533,13 +542,15 @@ const contentSections = [
 
         <div class="related-games-grid">
           {
-            games.popular.slice(0, 4).map((game: any, index: number) => (
-              <div
-                class={`related-game-item music-element hero-music-delay-${31 + index}`}
-              >
-                <GameCard game={game} variant="sidebar" />
-              </div>
-            ))
+            (games?.popular || [])
+              .slice(0, 4)
+              .map((game: any, index: number) => (
+                <div
+                  class={`related-game-item music-element hero-music-delay-${31 + index}`}
+                >
+                  <GameCard game={game} variant="sidebar" />
+                </div>
+              ))
           }
         </div>
       </div>

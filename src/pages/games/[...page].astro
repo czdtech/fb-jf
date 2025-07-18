@@ -45,7 +45,15 @@ interface Language {
 // --- 静态路径生成 ---
 export async function getStaticPaths() {
   const buildTimeSiteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://playfiddlebops.com';
-  const allGames = gamesExtendedData.allGames as RawGame[];
+
+  // 从categories中提取所有游戏
+  const allGames: RawGame[] = [];
+  for (const categoryName in gamesExtendedData.categories) {
+    const categoryData = (gamesExtendedData.categories as any)[categoryName];
+    if (Array.isArray(categoryData)) {
+      allGames.push(...categoryData);
+    }
+  }
 
   const formattedGames: GamePageItem[] = allGames.map((game) => {
     const ogImage = game.seo?.ogImage;
@@ -59,7 +67,7 @@ export async function getStaticPaths() {
       imageUrl: imagePath,
       title: game.title,
       category: game.category,
-      rating: game.rating.stars,
+      rating: game.rating?.stars || 5, // 默认5星评分
     };
   });
 
