@@ -1,9 +1,137 @@
-<div class="game-iframe-new">
-  <h3>&#9658; New Games</h3>
-  <ul>
-   <li><a href="https://www.playfiddlebops.com/pikmin-no-sprunki/" title="Pikmin No Sprunki"><img src="/pikmin-no-sprunki.png"><div class="title">Pikmin No Sprunki</div></a></li>
-   <li><a href="https://www.playfiddlebops.com/the-haze-pixelbox/" title="The Haze Pixelbox"><img src="/the-haze-pixelbox.png"><div class="title">The Haze Pixelbox</div></a></li>
-   <li><a href="https://www.playfiddlebops.com/yojou-sprunki-mustard/" title="Yojou Sprunki Mustard"><img src="/yojou-sprunki-mustard.png"><div class="title">Yojou Sprunki Mustard</div></a></li>
-   <li><a href="https://www.playfiddlebops.com/sprunki-retake-bonus-characters/" title="Sprunki Retake Bonus Characters"><img src="/sprunki-retake-bonus-characters.png"><div class="title">Sprunki Retake Bonus Characters</div></a></li>
-  </ul>
-</div>
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
+
+// 获取所有游戏
+const allGames = await getCollection('games');
+
+// 定义新游戏的 slug 列表（基于原始页面）
+const newGameSlugs = [
+  'pikmin-no-sprunki',
+  'the-haze-pixelbox',
+  'yojou-sprunki-mustard',
+  'sprunki-retake-bonus-characters'
+];
+
+// 筛选新游戏
+const newGames = allGames.filter(game => 
+  newGameSlugs.includes(game.slug)
+);
+
+// SEO配置
+const meta = {
+  title: 'New Games - Fiddlebops',
+  description: 'Play the newest Fiddlebops and Sprunki games. Discover fresh music creation experiences just added to our collection.',
+  keywords: 'new games, latest games, fresh games, fiddlebops, sprunki, music games',
+  canonical: 'https://www.playfiddlebops.com/new-games',
+  ogImage: '/social-share.png'
+};
+---
+
+<BaseLayout meta={meta}>
+  <Header
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath="/new-games/"
+  />
+
+  <main class="new-games-page">
+    <div class="container">
+      <div class="page-header">
+        <h1>&#9658; New Games</h1>
+        <p>Fresh additions to our music game collection</p>
+      </div>
+
+      <div class="game-iframe-new">
+        <GamesList games={newGames} variant="simple" />
+      </div>
+
+      <div class="all-new-games-section">
+        <h2>Recently Added Games</h2>
+        <GamesList 
+          games={allGames.slice(0, 16)} 
+          variant="grid" 
+        />
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .new-games-page {
+    min-height: calc(100vh - 160px);
+    padding: var(--space-8) 0;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: var(--space-12);
+  }
+
+  .page-header h1 {
+    font-size: var(--font-size-4xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-4);
+  }
+
+  .page-header p {
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-600);
+  }
+
+  .game-iframe-new {
+    background: var(--color-white);
+    border-radius: var(--border-radius-xl);
+    padding: var(--space-8);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: var(--space-12);
+  }
+
+  .game-iframe-new h3 {
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-6);
+  }
+
+  .all-new-games-section {
+    margin-top: var(--space-16);
+  }
+
+  .all-new-games-section h2 {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+    margin-bottom: var(--space-8);
+    color: var(--color-gray-900);
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 {
+      font-size: var(--font-size-3xl);
+    }
+
+    .page-header p {
+      font-size: var(--font-size-lg);
+    }
+
+    .game-iframe-new {
+      padding: var(--space-6);
+    }
+
+    .all-new-games-section h2 {
+      font-size: var(--font-size-2xl);
+    }
+  }
+</style>

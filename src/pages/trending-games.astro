@@ -1,83 +1,117 @@
-        <section class="games">
-            <div class="container">
-              <h2>Trending Games</h2>
-                 <div class="game-grid">
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
 
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/ayocs-sprunkr/" title="AYOCS Sprunkr">
-                        <div class="game-logo game-l-2">
-                            <img src="/ayocs-sprunkr.png" alt="AYOCS Sprunkr">
-                         </div>
-                        <p>AYOCS Sprunkr</p></a>
-                    </div>
+// 获取所有游戏
+const allGames = await getCollection('games');
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/incredibox-donki-abgerny/" title="Incredibox Donki Abgerny">
-                        <div class="game-logo game-l-2">
-                            <img src="/incredibox-donki-abgerny.png" alt="Incredibox Donki Abgerny">
-                         </div>
-                        <p>Incredibox Donki Abgerny</p></a>
-                    </div>
+// 定义趋势游戏的 slug 列表（基于原始页面）
+const trendingGameSlugs = [
+  'ayocs-sprunkr',
+  'incredibox-donki-abgerny',
+  'sprunki-pyramixed-version',
+  'sprunki-squid-remix',
+  'sprunki-1996',
+  'sprunki-rotrizi-5',
+  'sprunki-parasite-parasprunki-15',
+  'yojou-sprunki-mustard',
+  'sprunki-pyramixed',
+  'sprunki-meets-the-cat-spell',
+  'sprunki-phase-2-5',
+  'sprunki-sepbox-steel-factory'
+];
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/sprunki-pyramixed-version/" title="Sprunki Pyramixed">
-                        <div class="game-logo game-l-2">
-                            <img src="/sprunki-pyramixed-version.png" alt="Sprunki Pyramixed">
-                         </div>
-                        <p>Sprunki Pyramixed</p></a>
-                    </div>
+// 筛选趋势游戏
+const trendingGames = allGames.filter(game => 
+  trendingGameSlugs.includes(game.slug)
+);
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/sprunki-squid-remix/" title="Sprunki Squid Remix">
-                        <div class="game-logo game-l-2">
-                            <img src="/sprunki-squid-remix.png" alt="Sprunki Squid Remix">
-                         </div>
-                        <p>Sprunki Squid Remix</p></a>
-                    </div>
+// SEO配置
+const meta = {
+  title: 'Trending Games - Fiddlebops',
+  description: 'Discover the latest trending Fiddlebops and Sprunki games. Play the hottest music creation games everyone is talking about.',
+  keywords: 'trending games, hot games, new games, fiddlebops, sprunki, music games',
+  canonical: 'https://www.playfiddlebops.com/trending-games',
+  ogImage: '/social-share.png'
+};
+---
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/sprunki-1996/" title="Sprunki But With Memes">
-                        <div class="game-logo game-l-2">
-                            <img src="/sprunki-1996.png" alt="Sprunki 1996">
-                         </div>
-                        <p>Sprunki 1996</p></a>
-                    </div>
+<BaseLayout meta={meta}>
+  <Header
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath="/trending-games/"
+  />
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/sprunki-rotrizi-5/" title="Sprunki rotrizi 5.0">
-                        <div class="game-logo game-l-2">
-                            <img src="/sprunki-rotrizi-5.png" alt="Sprunki rotrizi 5.0">
-                         </div>
-                        <p>Sprunki rotrizi 5.0</p></a>
-                    </div>
+  <main class="trending-games-page">
+    <section class="games">
+      <div class="container">
+        <h2>Trending Games</h2>
+        <GamesList games={trendingGames} variant="grid" />
+        
+        {allGames.length > trendingGames.length && (
+          <div class="more-games-section">
+            <h3>Discover More Games</h3>
+            <GamesList 
+              games={allGames.filter(game => !trendingGameSlugs.includes(game.slug)).slice(0, 8)} 
+              variant="grid" 
+            />
+          </div>
+        )}
+      </div>
+    </section>
+  </main>
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/" title="Sprunki Parasite ParaSprunki 15">
-                        <div class="game-logo game-l-2">
-                            <img src="/sprunki-parasite-parasprunki-15.png" alt="Sprunki Parasite ParaSprunki 15">
-                         </div>
-                        <p>Sprunki Parasite ParaSprunki 15</p></a>
-                    </div>
+  <Footer />
+</BaseLayout>
 
-                   <div class="game"><a href="https://www.playfiddlebops.com/incredibox-sprunksters/" title="Incredibox Sprunksters">
-                        <div class="game-logo game-l-2">
-                            <img src="/incredibox-sprunksters.png" alt="Incredibox Sprunksters">
-                         </div>
-                        <p>Incredibox Sprunksters</p></a>
-                    </div>
+<style>
+  .trending-games-page {
+    min-height: calc(100vh - 160px);
+    padding: var(--space-8) 0;
+  }
 
+  .games {
+    padding: var(--space-8) 0;
+  }
 
-                    <div class="game"><a href="https://www.playfiddlebops.com/sprunki-babies/">
-                      <div class="game-logo game-l-2">
-                         <img src="/sprunki-babies.png" alt="Sprunki Babies">
-                      </div>
-                        <p>Sprunki Babies</p></a>
-                    </div>
+  .games h2 {
+    font-size: var(--font-size-4xl);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+    margin-bottom: var(--space-12);
+    color: var(--color-gray-900);
+  }
 
-                    <div class="game"><a href="https://www.playfiddlebops.com/pikmin-no-sprunki/" title="Pikmin No Sprunki">
-                      <div class="game-logo game-l-2">
-                         <img src="/pikmin-no-sprunki.png" alt="Pikmin No Sprunki">
-                      </div>
-                        <p>Pikmin No Sprunki</p></a>
-                    </div>
+  .more-games-section {
+    margin-top: var(--space-16);
+    padding-top: var(--space-16);
+    border-top: 1px solid var(--color-gray-200);
+  }
 
+  .more-games-section h3 {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+    margin-bottom: var(--space-8);
+    color: var(--color-gray-900);
+  }
 
-                 </div>
-                 <style>.more{width: 130px;margin: 40px auto 0 auto;border: 1px solid #eee;border-radius: 7px;padding: 10px;text-align: center;color: #fff;font-weight: 900;font-size: 20px;}.more a:hover{color:#fff;}</style>
-                 <div class="more"><a href="/games/">More Games</a></div>
-            </div>
-        </section>
+  @media (max-width: 768px) {
+    .games h2 {
+      font-size: var(--font-size-3xl);
+    }
+
+    .more-games-section h3 {
+      font-size: var(--font-size-2xl);
+    }
+  }
+</style>

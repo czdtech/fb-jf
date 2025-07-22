@@ -1,33 +1,142 @@
-<div class="game-iframe-pop">
-  <h3>&#9658; Popular Games</h3>
-  <ul>
-    <li>
-      <a
-        href="https://www.playfiddlebops.com/sprunki-red-sun/"
-        title="Sprunki Red Sun"
-        ><img src="/sprunki-red-sun.png" /><div class="title">
-          Sprunki Red Sun
-        </div></a>
-    </li>
-    <li>
-      <a
-        href="https://www.playfiddlebops.com/sprunki-abgerny/"
-        title="Sprunki Abgerny"
-        ><img src="/sprunki-abgerny.png" /><div class="title">
-          Sprunki Abgerny
-        </div></a>
-    </li>
-    <li>
-      <a
-        href="https://www.playfiddlebops.com/sprunki-sonic/"
-        title="Sprunki Sonic"
-        ><img src="/sprunki-sonic.png" /><div class="title">
-          Sprunki Sonic
-        </div></a>
-    </li>
-    <li>
-      <a href="https://www.playfiddlebops.com/" title="Fiddlebops"
-        ><img src="/tw.jpg" /><div class="title">fiddlebops</div></a>
-    </li>
-  </ul>
-</div>
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
+
+// 获取所有游戏
+const allGames = await getCollection('games');
+
+// 定义流行游戏的 slug 列表（基于原始页面）
+const popularGameSlugs = [
+  'sprunki-red-sun',
+  'sprunki-abgerny',
+  'sprunki-sonic'
+];
+
+// 筛选流行游戏
+const popularGames = allGames.filter(game => 
+  popularGameSlugs.includes(game.slug)
+);
+
+// 添加 fiddlebops 主游戏
+const fiddlebopsGame = {
+  slug: '',
+  data: {
+    title: 'Fiddlebops',
+    image: '/tw.jpg',
+    category: 'Music',
+    description: 'Create amazing music with Fiddlebops'
+  }
+};
+
+const displayGames = [...popularGames, fiddlebopsGame];
+
+// SEO配置
+const meta = {
+  title: 'Popular Games - Fiddlebops',
+  description: 'Play the most popular Fiddlebops and Sprunki games. Discover trending music creation games loved by millions.',
+  keywords: 'popular games, fiddlebops, sprunki, music games, trending games',
+  canonical: 'https://www.playfiddlebops.com/popular-games',
+  ogImage: '/social-share.png'
+};
+---
+
+<BaseLayout meta={meta}>
+  <Header
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath="/popular-games/"
+  />
+
+  <main class="popular-games-page">
+    <div class="container">
+      <div class="page-header">
+        <h1>&#9658; Popular Games</h1>
+        <p>Discover the most loved games in our collection</p>
+      </div>
+
+      <div class="game-iframe-pop">
+        <GamesList games={displayGames} variant="simple" />
+      </div>
+
+      <div class="more-games-section">
+        <h2>More Popular Games</h2>
+        <GamesList games={allGames.slice(0, 12)} variant="grid" />
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .popular-games-page {
+    min-height: calc(100vh - 160px);
+    padding: var(--space-8) 0;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: var(--space-12);
+  }
+
+  .page-header h1 {
+    font-size: var(--font-size-4xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-4);
+  }
+
+  .page-header p {
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-600);
+  }
+
+  .game-iframe-pop {
+    background: var(--color-white);
+    border-radius: var(--border-radius-xl);
+    padding: var(--space-8);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: var(--space-12);
+  }
+
+  .game-iframe-pop h3 {
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-6);
+  }
+
+  .more-games-section {
+    margin-top: var(--space-16);
+  }
+
+  .more-games-section h2 {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+    margin-bottom: var(--space-8);
+    color: var(--color-gray-900);
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 {
+      font-size: var(--font-size-3xl);
+    }
+
+    .page-header p {
+      font-size: var(--font-size-lg);
+    }
+
+    .game-iframe-pop {
+      padding: var(--space-6);
+    }
+  }
+</style>

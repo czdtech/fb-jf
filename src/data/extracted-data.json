@@ -1,20 +1,63 @@
 {
   "navigation": {
     "main": [
-      { "label": "Home", "url": "/" },
-      { "label": "ALL Games", "url": "/games/" },
-      { "label": "Sprunki Retake", "url": "/sprunki-retake/" },
-      { "label": "Sprunki Phase 5", "url": "/sprunki-phase-5/" },
-      { "label": "Sprunki Craft", "url": "/sprunki-craft/" }
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "ALL Games",
+        "url": "/games/"
+      },
+      {
+        "label": "Sprunki Retake",
+        "url": "/sprunki-retake/"
+      },
+      {
+        "label": "Sprunki Phase 5",
+        "url": "/sprunki-phase-5/"
+      },
+      {
+        "label": "Sprunki Craft",
+        "url": "/sprunki-craft/"
+      }
     ],
     "languages": [
-      { "code": "en", "url": "/", "label": "English" },
-      { "code": "zh-CN", "url": "/zh/", "label": "简体中文" },
-      { "code": "es", "url": "/es/", "label": "Español" },
-      { "code": "fr", "url": "/fr/", "label": "Français" },
-      { "code": "de", "url": "/de/", "label": "Deutsch" },
-      { "code": "ja", "url": "/ja/", "label": "日本語" },
-      { "code": "ko", "url": "/ko/", "label": "한국어" }
+      {
+        "code": "en",
+        "url": "/",
+        "label": "English"
+      },
+      {
+        "code": "zh-CN",
+        "url": "/zh/",
+        "label": "简体中文"
+      },
+      {
+        "code": "es",
+        "url": "/es/",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "url": "/fr/",
+        "label": "Français"
+      },
+      {
+        "code": "de",
+        "url": "/de/",
+        "label": "Deutsch"
+      },
+      {
+        "code": "ja",
+        "url": "/ja/",
+        "label": "日本語"
+      },
+      {
+        "code": "ko",
+        "url": "/ko/",
+        "label": "한국어"
+      }
     ]
   },
   "homepage": {
@@ -64,7 +107,6 @@
         "audio": "/characters/sounds/beat5.wav",
         "category": "Beats"
       },
-
       {
         "title": "YTPMV Elf",
         "image": "/characters/images/effect1.png",
@@ -95,7 +137,6 @@
         "audio": "/characters/sounds/effect5.wav",
         "category": "Effects"
       },
-
       {
         "title": "Blues Clues Radio 2011",
         "image": "/characters/images/melody1.png",
@@ -126,7 +167,6 @@
         "audio": "/characters/sounds/melody5.wav",
         "category": "Melodies"
       },
-
       {
         "title": "Skibidi Biden",
         "image": "/characters/images/voice1.png",
@@ -157,7 +197,6 @@
         "audio": "/characters/sounds/voice5.wav",
         "category": "Voices"
       },
-
       {
         "title": "Words With Friends Tile",
         "image": "/characters/images/bonus1.png",
@@ -187,104 +226,6 @@
         "image": "/characters/images/bonus5.png",
         "audio": "/characters/sounds/bonus5.wav",
         "category": "Bonus"
-      }
-    ]
-  },
-  "games": {
-    "popular": [
-      {
-        "title": "Sprunki Red Sun",
-        "url": "https://www.playfiddlebops.com/sprunki-red-sun/",
-        "image": "/sprunki-red-sun.png"
-      },
-      {
-        "title": "Sprunki Abgerny",
-        "url": "https://www.playfiddlebops.com/sprunki-abgerny/",
-        "image": "/sprunki-abgerny.png"
-      },
-      {
-        "title": "Sprunki Sonic",
-        "url": "https://www.playfiddlebops.com/sprunki-sonic/",
-        "image": "/sprunki-sonic.png"
-      },
-      {
-        "title": "fiddlebops",
-        "url": "https://www.playfiddlebops.com/",
-        "image": "/tw.jpg"
-      }
-    ],
-    "new": [
-      {
-        "title": "Pikmin No Sprunki",
-        "url": "https://www.playfiddlebops.com/pikmin-no-sprunki/",
-        "image": "/pikmin-no-sprunki.png"
-      },
-      {
-        "title": "The Haze Pixelbox",
-        "url": "https://www.playfiddlebops.com/the-haze-pixelbox/",
-        "image": "/the-haze-pixelbox.png"
-      },
-      {
-        "title": "Yojou Sprunki Mustard",
-        "url": "https://www.playfiddlebops.com/yojou-sprunki-mustard/",
-        "image": "/yojou-sprunki-mustard.png"
-      },
-      {
-        "title": "Sprunki Retake Bonus Characters",
-        "url": "https://www.playfiddlebops.com/sprunki-retake-bonus-characters/",
-        "image": "/sprunki-retake-bonus-characters.png"
-      }
-    ],
-    "trending": [
-      {
-        "title": "AYOCS Sprunkr",
-        "url": "https://www.playfiddlebops.com/ayocs-sprunkr/",
-        "image": "/ayocs-sprunkr.png"
-      },
-      {
-        "title": "Incredibox Donki Abgerny",
-        "url": "https://www.playfiddlebops.com/incredibox-donki-abgerny/",
-        "image": "/incredibox-donki-abgerny.png"
-      },
-      {
-        "title": "Sprunki Pyramixed",
-        "url": "https://www.playfiddlebops.com/sprunki-pyramixed-version/",
-        "image": "/sprunki-pyramixed-version.png"
-      },
-      {
-        "title": "Sprunki Squid Remix",
-        "url": "https://www.playfiddlebops.com/sprunki-squid-remix/",
-        "image": "/sprunki-squid-remix.png"
-      },
-      {
-        "title": "Sprunki 1996",
-        "url": "https://www.playfiddlebops.com/sprunki-1996/",
-        "image": "/sprunki-1996.png"
-      },
-      {
-        "title": "Sprunki rotrizi 5.0",
-        "url": "https://www.playfiddlebops.com/sprunki-rotrizi-5/",
-        "image": "/sprunki-rotrizi-5.png"
-      },
-      {
-        "title": "Sprunki Parasite ParaSprunki 15",
-        "url": "https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/",
-        "image": "/sprunki-parasite-parasprunki-15.png"
-      },
-      {
-        "title": "Incredibox Sprunksters",
-        "url": "https://www.playfiddlebops.com/incredibox-sprunksters/",
-        "image": "/incredibox-sprunksters.png"
-      },
-      {
-        "title": "Sprunki Babies",
-        "url": "https://www.playfiddlebops.com/sprunki-babies/",
-        "image": "/sprunki-babies.png"
-      },
-      {
-        "title": "Pikmin No Sprunki",
-        "url": "https://www.playfiddlebops.com/pikmin-no-sprunki/",
-        "image": "/pikmin-no-sprunki.png"
       }
     ]
   },

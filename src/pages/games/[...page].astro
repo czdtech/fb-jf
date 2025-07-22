@@ -1,5 +1,5 @@
 ---
-// 导入 Astro 内置类型和组件
+import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
@@ -9,24 +9,11 @@ import GamesPagination from '@/components/games/GamesPagination.astro';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
-import gamesExtendedData from '@/data/games-extended.json';
 
 // --- 环境变量 ---
 const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://playfiddlebops.com';
 
 // --- 类型定义 ---
-interface RawGame {
-  slug: string;
-  image: string;
-  title: string;
-  category: string;
-  rating: { stars: number };
-  seo?: {
-    ogImage?: string;
-  };
-  [key: string]: any;
-}
-
 interface GamePageItem {
   slug: string;
   url: string;
@@ -44,30 +31,17 @@ interface Language {
 
 // --- 静态路径生成 ---
 export async function getStaticPaths() {
-  const buildTimeSiteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://playfiddlebops.com';
-
-  // 从categories中提取所有游戏
-  const allGames: RawGame[] = [];
-  for (const categoryName in gamesExtendedData.categories) {
-    const categoryData = (gamesExtendedData.categories as any)[categoryName];
-    if (Array.isArray(categoryData)) {
-      allGames.push(...categoryData);
-    }
-  }
-
+  // 获取所有游戏
+  const allGames = await getCollection('games');
+  
   const formattedGames: GamePageItem[] = allGames.map((game) => {
-    const ogImage = game.seo?.ogImage;
-    const imagePath = ogImage
-      ? ogImage.replace(buildTimeSiteUrl, '')
-      : game.image;
-
     return {
       slug: game.slug,
       url: `/${game.slug}/`,
-      imageUrl: imagePath,
-      title: game.title,
-      category: game.category,
-      rating: game.rating?.stars || 5, // 默认5星评分
+      imageUrl: game.data.image,
+      title: game.data.title,
+      category: game.data.category,
+      rating: game.data.rating?.score || 5, // 默认5星评分
     };
   });
 
@@ -98,543 +72,158 @@ export async function getStaticPaths() {
           }
         },
         allGames: formattedGames
-      }
+      },
     });
   }
 
   return paths;
 }
 
-// --- 获取页面 props ---
-const { page } = Astro.props;
+// --- 页面属性 ---
+const { page, allGames } = Astro.props as {
+  page: {
+    data: GamePageItem[];
+    currentPage: number;
+    lastPage: number;
+    total: number;
+    start: number;
+    url: {
+      prev?: string;
+      next?: string;
+    };
+  };
+  allGames: GamePageItem[];
+};
+
+// --- 从extractedData中获取导航数据 ---
 const { navigation } = extractedData;
 
-// --- 页面配置 ---
-const breadcrumbData = { home: "Home", current: "Games" };
-const hreflangLinks = navigation.languages.map((lang: Language) => ({
+// --- 从extractedData中获取游戏分类 ---
+const categories = [
+  { name: 'All Games', count: allGames.length, active: true },
+  { name: 'Music', count: allGames.filter(g => g.category === 'Music').length, active: false },
+  { name: 'Rhythm', count: allGames.filter(g => g.category === 'Rhythm').length, active: false },
+  { name: 'Creative', count: allGames.filter(g => g.category === 'Creative').length, active: false },
+];
+
+// --- 多语言配置 ---
+const hreflangLinks = navigation?.languages?.map((lang: Language) => ({
   code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: `${SITE_URL}/games/${lang.url}`,
-  label: lang.label,
-}));
+  url: `${SITE_URL}${lang.code !== 'en' ? `/${lang.code}` : ''}/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`,
+  label: lang.label
+})) || [];
 
+// --- SEO配置 ---
 const meta = {
-  title: `Musical Games Collection - Enhanced | FiddleBops`,
-  description: "Discover an enhanced collection of musical creation games. From Sprunki remixes to Incredibox variants, explore endless creative possibilities in our curated game library.",
-  canonical: `${SITE_URL}/games/${page.currentPage > 1 ? `${page.currentPage}/` : ''}`,
-  ogImage: `${SITE_URL}/tw.jpg`
+  title: page.currentPage === 1 
+    ? "All Music Creation Games - Fiddlebops"
+    : `Music Games - Page ${page.currentPage} - Fiddlebops`,
+  description: page.currentPage === 1
+    ? "Explore our complete collection of music creation games. Play Fiddlebops, Sprunki, and more innovative rhythm games online for free."
+    : `Browse page ${page.currentPage} of our music creation games collection. Discover new Fiddlebops and Sprunki games to play online.`,
+  keywords: `music games, rhythm games, fiddlebops, sprunki, online games, free games${page.currentPage > 1 ? `, page ${page.currentPage}` : ''}`,
+  canonical: `${SITE_URL}/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`,
+  ogImage: `${SITE_URL}/games-og.jpg`
 };
 
+// --- 结构化数据 ---
 const structuredData = {
-  '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  name: meta.title,
-  description: meta.description,
-  url: meta.canonical,
-  mainEntity: {
-    '@type': 'ItemList',
-    numberOfItems: page.total,
-    itemListElement: page.data.map((game, index) => ({
-      '@type': 'Game',
-      position: page.start + index + 1,
-      name: game.title,
-      url: `${SITE_URL}${game.url}`,
-      image: `${SITE_URL}${game.imageUrl}`,
-    }))
-  }
-};
-
-const heroConfig = {
-  pageTotal: page.total,
-  pageCount: page.lastPage,
-  breadcrumbs: breadcrumbData,
-  title: { main: "Musical", accent: "Universe" },
-  subtitle: "Discover endless musical creativity with our collection of interactive rhythm games"
-};
-
-const paginationConfig = {
-  currentPage: page.currentPage,
-  totalPages: page.lastPage,
-  totalItems: page.total,
-  prevUrl: page.url.prev,
-  nextUrl: page.url.next,
-  basePath: '/games/'
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": meta.title,
+  "description": meta.description,
+  "url": meta.canonical,
+  "numberOfItems": page.total,
+  "hasPart": page.data.map(game => ({
+    "@type": "Game",
+    "name": game.title,
+    "url": `${SITE_URL}${game.url}`,
+    "image": `${SITE_URL}${game.imageUrl}`,
+    "genre": game.category
+  }))
 };
 ---
 
-<BaseLayout
+<BaseLayout 
   meta={meta}
-  lang="en"
   hreflang={hreflangLinks}
   structuredData={structuredData}
 >
-  <div class="enhanced-games-layout">
-    <Header
-      navigation={navigation.main}
-      languages={navigation.languages}
-      currentLang="en"
-      currentPath="/games/"
+  <Header 
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="en"
+    currentPath={`/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`}
+  />
+
+  <main>
+    <!-- Hero Section -->
+    <GamesHero 
+      pageTotal={page.total}
+      pageCount={page.lastPage}
+      breadcrumbs={{ home: 'Home', current: 'All Games' }}
+      title={{ main: 'All', accent: 'Games' }}
+      subtitle={`${page.total} amazing music creation experiences`}
     />
 
-    <main class="enhanced-games-page">
-      <!-- 增强的Hero区域 -->
-      <div class="enhanced-hero-wrapper">
-        <GamesHero {...heroConfig} />
-        <!-- 增强的视觉效果 -->
-        <div class="hero-enhancements">
-          <div class="floating-particles">
-            {Array.from({ length: 15 }, (_, i) => (
-              <div class="particle" style={`
-                left: ${Math.random() * 100}%;
-                top: ${Math.random() * 100}%;
-                animation-delay: ${Math.random() * 5}s;
-                animation-duration: ${3 + Math.random() * 4}s;
-              `}></div>
-            ))}
-          </div>
-          <div class="gradient-overlay"></div>
+    <!-- Games Grid -->
+    <section class="games-section">
+      <div class="container">
+        <!-- Results Info -->
+        <div class="results-info">
+          <p>Showing {page.start + 1}-{Math.min(page.start + page.data.length, page.total)} of {page.total} games</p>
         </div>
+
+        <!-- Games Grid -->
+        <div class="games-grid">
+          {page.data.map((game, idx) => (
+            <GameCard game={game} index={idx} />
+          ))}
+        </div>
+
+        <!-- Pagination -->
+        <GamesPagination page={page} />
       </div>
+    </section>
+  </main>
 
-      <!-- 增强的游戏集合 -->
-      <section class="enhanced-games-collection section">
-        <div class="container">
-          <div class="section-header enhanced-section-header">
-            <h2 class="section-title heading-large">
-              <span class="section-title-text">Featured Games</span>
-              <span class="section-title-accent">Page {page.currentPage}</span>
-            </h2>
-            <div class="section-decoration">
-              <div class="decoration-line"></div>
-              <div class="decoration-dot"></div>
-              <div class="decoration-line"></div>
-            </div>
-          </div>
-
-          <!-- 增强的游戏网格 -->
-          <div class="enhanced-games-grid">
-            {page.data.map((game, index) => (
-              <div class="enhanced-game-wrapper" data-index={index}>
-                <GameCard
-                  slug={game.slug}
-                  imagePath={game.imageUrl}
-                  title={game.title}
-                  category={game.category}
-                  rating={game.rating}
-                  index={index}
-                />
-                <!-- 增强的发光效果 -->
-                <div class="card-glow-enhancement"></div>
-              </div>
-            ))}
-          </div>
-
-          <!-- 增强的分页 -->
-          <div class="enhanced-pagination-wrapper">
-            <GamesPagination {...paginationConfig} />
-          </div>
-        </div>
-      </section>
-    </main>
-
-    <Footer />
-  </div>
+  <Footer />
 </BaseLayout>
 
 <style>
-  /* 紧凑布局 - 基于原始设计的间距控制 */
-  .enhanced-games-layout {
-    position: relative;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    margin: 0 !important;
-    padding: 0 !important;
+  .games-section {
+    padding: var(--space-16) 0;
+    background: var(--color-gray-50);
+    min-height: 60vh;
   }
 
-  .enhanced-games-page {
-    position: relative;
-    z-index: 1;
-    padding: 0 !important;
-    margin: 0 !important;
+  .results-info {
+    margin-bottom: var(--space-8);
+    text-align: center;
   }
 
-  /* 消除Header与Hero间的间距 */
-  .enhanced-games-page :global(header) {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
+  .results-info p {
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-600);
   }
 
-  /* 压缩Hero组件 */
-  .enhanced-games-page :global(.games-hero) {
-    margin-top: -16px !important;
-    margin-bottom: 0 !important;
-    padding: var(--space-10) 0 var(--space-6) !important; /* 稍微增加内边距 */
-    padding-top: calc(80px + var(--space-4)) !important; /* 稍微增加顶部间距 */
-    min-height: 50vh !important; /* 稍微增加最小高度 */
-  }
-
-  /* 增强的Hero区域 */
-  .enhanced-hero-wrapper {
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 0 !important;
-  }
-
-  .hero-enhancements {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    z-index: 1;
-  }
-
-  /* 浮动粒子效果 */
-  .floating-particles {
-    position: absolute;
-    inset: 0;
-    overflow: hidden;
-  }
-
-  .particle {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    background: var(--gradient-primary);
-    border-radius: 50%;
-    opacity: 0.3;
-    animation: floatParticle 6s ease-in-out infinite;
-  }
-
-  @keyframes floatParticle {
-    0%, 100% {
-      transform: translateY(0) scale(0.8);
-      opacity: 0.2;
-    }
-    50% {
-      transform: translateY(-20px) scale(1.2);
-      opacity: 0.5;
-    }
-  }
-
-  /* 渐变覆盖层 */
-  .gradient-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100px;
-    background: linear-gradient(to top, var(--hero-main-bg), transparent);
-    z-index: 2;
-  }
-
-  /* 增强的游戏集合区域 */
-  .enhanced-games-collection {
-    background: var(--hero-main-bg);
-    position: relative;
-    padding-top: 0 !important;
-    margin-top: -30px !important; /* 适中的负边距消除间距 */
-  }
-
-  .enhanced-games-collection::before {
-    content: '';
-    position: absolute;
-    top: -20px;
-    left: 0;
-    right: 0;
-    height: 40px;
-    background: linear-gradient(to bottom, transparent, var(--hero-main-bg));
-    z-index: 1;
-  }
-
-  /* 增强的节标题 */
-  .enhanced-section-header {
-    position: relative;
-    z-index: 2;
-    margin-bottom: 16px; /* 减少标题下方间距 */
-    padding-top: 0; /* 无顶部间距 */
-  }
-
-  .section-decoration {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 1rem;
-  }
-
-  .decoration-line {
-    height: 2px;
-    width: 3rem;
-    background: var(--gradient-primary);
-    border-radius: 1px;
-  }
-
-  .decoration-dot {
-    width: 8px;
-    height: 8px;
-    background: var(--gradient-primary);
-    border-radius: 50%;
-    animation: pulseGlow 2s ease-in-out infinite;
-  }
-
-  @keyframes pulseGlow {
-    0%, 100% {
-      box-shadow: 0 0 10px rgba(147, 51, 234, 0.5);
-    }
-    50% {
-      box-shadow: 0 0 20px rgba(147, 51, 234, 0.8);
-    }
-  }
-
-  /* 增强的游戏网格 */
-  .enhanced-games-grid {
+  .games-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px; /* 恢复合理的网格间距 */
-    margin-bottom: 24px; /* 减少与分页的间距 */
-    position: relative;
-    z-index: 2;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-6);
+    margin-bottom: var(--space-12);
   }
 
-  .enhanced-game-wrapper {
-    position: relative;
-    transform: translateY(0);
-    transition: transform 0.3s ease;
-  }
-
-  .enhanced-game-wrapper:hover {
-    transform: translateY(-5px);
-  }
-
-  /* 增强的卡片发光效果 */
-  .card-glow-enhancement {
-    position: absolute;
-    inset: -20px;
-    background: radial-gradient(circle at center, rgba(147, 51, 234, 0.1) 0%, transparent 70%);
-    border-radius: var(--border-radius-xl);
-    opacity: 0;
-    transition: opacity 0.5s ease;
-    z-index: -1;
-    filter: blur(20px);
-  }
-
-  .enhanced-game-wrapper:hover .card-glow-enhancement {
-    opacity: 1;
-  }
-
-  /* 增强的分页 */
-  .enhanced-pagination-wrapper {
-    position: relative;
-    z-index: 2;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 16px;
-  }
-
-  .enhanced-pagination-wrapper::before {
-    content: '';
-    position: absolute;
-    top: -2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 60px;
-    height: 4px;
-    background: var(--gradient-primary);
-    border-radius: 2px;
-    opacity: 0.3;
-  }
-
-  /* 增强的交互动画 */
-  .enhanced-games-grid .enhanced-game-wrapper {
-    animation: slideInUp 0.6s ease-out both;
-  }
-
-  .enhanced-games-grid .enhanced-game-wrapper:nth-child(even) {
-    animation-delay: 0.1s;
-  }
-
-  .enhanced-games-grid .enhanced-game-wrapper:nth-child(3n) {
-    animation-delay: 0.2s;
-  }
-
-  @keyframes slideInUp {
-    from {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
+  @media (max-width: 768px) {
+    .games-grid {
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: var(--space-4);
     }
   }
 
-  /* 增强的悬停效果 */
-  .enhanced-games-grid .enhanced-game-wrapper:hover :global(.game-card) {
-    box-shadow:
-      var(--hero-sidebar-glass-shadow),
-      0 25px 50px rgba(147, 51, 234, 0.15),
-      0 0 30px rgba(147, 51, 234, 0.1);
-  }
-
-  /* 响应式设计 */
-  @media (min-width: 768px) and (max-width: 1024px) {
-    .enhanced-games-grid {
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
-    }
-
-    /* 平板设备上的间距调整 */
-    .enhanced-games-page :global(.games-hero) {
-      margin-top: -20px !important;
-    }
-
-    .enhanced-games-collection {
-      margin-top: -24px !important;
-    }
-  }
-
-  @media (max-width: 767px) {
-    .enhanced-games-grid {
+  @media (max-width: 480px) {
+    .games-grid {
       grid-template-columns: 1fr;
-      gap: 16px;
-      margin-bottom: 16px;
     }
-
-    .floating-particles {
-      display: none;
-    }
-
-    .section-decoration {
-      margin-top: 0.5rem;
-    }
-
-    .decoration-line {
-      width: 2rem;
-    }
-
-    /* 移动设备上的超紧凑间距 */
-    .enhanced-games-page :global(.games-hero) {
-      margin-top: -12px !important;
-    }
-
-    .enhanced-games-collection {
-      margin-top: -16px !important;
-    }
-
-    .enhanced-section-header {
-      margin-bottom: 12px;
-    }
-  }
-
-  /* 消除与页脚的间距 */
-  .enhanced-games-layout :global(footer) {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-
-  /* 增强的视差效果 */
-  .enhanced-hero-wrapper::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background:
-      radial-gradient(circle at 25% 25%, rgba(147, 51, 234, 0.05) 0%, transparent 50%),
-      radial-gradient(circle at 75% 75%, rgba(147, 51, 234, 0.03) 0%, transparent 50%);
-    z-index: 0;
-  }
-
-  /* 增强的滚动效果 */
-  .enhanced-games-collection {
-    background-attachment: fixed;
-    background-image:
-      radial-gradient(circle at 80% 20%, rgba(147, 51, 234, 0.02) 0%, transparent 50%),
-      radial-gradient(circle at 20% 80%, rgba(147, 51, 234, 0.02) 0%, transparent 50%);
-  }
-
-  /* 增强的加载动画 */
-  .enhanced-games-grid .enhanced-game-wrapper {
-    will-change: transform, opacity;
-  }
-
-  .enhanced-games-grid .enhanced-game-wrapper:nth-child(4n) {
-    animation-delay: 0.05s;
-  }
-
-  .enhanced-games-grid .enhanced-game-wrapper:nth-child(5n) {
-    animation-delay: 0.15s;
-  }
-
-  .enhanced-games-grid .enhanced-game-wrapper:nth-child(6n) {
-    animation-delay: 0.25s;
-  }
-
-  /* 增强的微动画 */
-  .section-title-text {
-    animation: titleShimmer 3s ease-in-out infinite;
-  }
-
-  @keyframes titleShimmer {
-    0%, 100% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-  }
-
-  .section-title-text {
-    background-size: 200% 200%;
   }
 </style>
-
-<script>
-  // 增强的交互效果
-  document.addEventListener('DOMContentLoaded', () => {
-    // 视差滚动效果
-    const particles = document.querySelectorAll('.particle');
-
-    function handleScroll() {
-      const scrollY = window.scrollY;
-      const scrollFactor = scrollY * 0.5;
-
-      particles.forEach((particle, index) => {
-        const speed = 0.5 + (index % 3) * 0.2;
-        const element = particle as HTMLElement;
-        element.style.transform = `translateY(${scrollFactor * speed}px)`;
-      });
-    }
-
-    window.addEventListener('scroll', handleScroll, { passive: true });
-
-    // 增强的卡片交互
-    const gameWrappers = document.querySelectorAll('.enhanced-game-wrapper');
-
-    gameWrappers.forEach((wrapper) => {
-      const element = wrapper as HTMLElement;
-
-      element.addEventListener('mouseenter', () => {
-        element.style.zIndex = '10';
-      });
-
-      element.addEventListener('mouseleave', () => {
-        element.style.zIndex = '1';
-      });
-    });
-
-    // 增强的滚动动画
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          const target = entry.target as HTMLElement;
-          target.style.animationPlayState = 'running';
-        }
-      });
-    }, { threshold: 0.1 });
-
-    gameWrappers.forEach((wrapper) => {
-      observer.observe(wrapper);
-    });
-  });
-</script>

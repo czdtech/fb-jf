@@ -1,5 +1,5 @@
 ---
-import gamesData from '@/data/games-extended.json'
+import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Header from '@/components/Header.astro'
 import Footer from '@/components/Footer.astro'
@@ -9,26 +9,31 @@ import GameCard from '@/components/GameCard.astro'
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json'
-const { navigation, games } = extractedData
+const { navigation } = extractedData
 
 export async function getStaticPaths() {
-  // 从categories中提取所有游戏
-  const allGames = []
-  for (const categoryName in gamesData.categories) {
-    const categoryData = (gamesData.categories as any)[categoryName]
-    if (Array.isArray(categoryData)) {
-      allGames.push(...categoryData)
-    }
-  }
-
+  const allGames = await getCollection('games');
   return allGames.map(game => ({
     params: { slug: game.slug },
-    props: { gameData: game },
-  }))
+    props: { game },
+  }));
 }
 
-const { gameData } = Astro.props
-const extendedData = gameData as any
+const { game } = Astro.props;
+const { Content } = await game.render();
+const gameData = { ...game.data, slug: game.slug };
+const extendedData = gameData as any;
+
+// Initialize content sections
+const featuresContent = null;
+const gameplayContent = null;
+
+// Fetch and prepare related games
+const allGames = await getCollection('games');
+const relatedGames = allGames
+  .filter(g => g.data.category === gameData.category && g.slug !== gameData.slug)
+  .slice(0, 4)
+  .map(g => ({ slug: g.slug, ...g.data }));
 
 // 多语言配置
 const hreflangLinks =
@@ -65,50 +70,10 @@ const structuredData = {
   ...(extendedData.seo?.schema || {}),
 }
 
-// 提取内容数据
-const introductionContent = extendedData.content?.introduction
-const featuresContent = extendedData.content?.features
-const gameplayContent = extendedData.content?.gameplay
-const otherContent = extendedData.content?.other
-const accessibilityContent = extendedData.content?.accessibility
-const advantagesContent = extendedData.content?.advantages
-const conclusionContent = extendedData.content?.conclusion
+// NOTE: The content sections are now rendered via <Content /> from game.render()
+// The logic below for contentSections is no longer necessary if the markdown body is sufficient.
+// For this refactoring, we will render the markdown content in a dedicated section.
 
-// 收集所有内容章节
-const contentSections = [
-  {
-    key: 'introduction',
-    data: introductionContent,
-    priority: 1,
-    icon: 'fa-play-circle',
-  },
-  { key: 'features', data: featuresContent, priority: 2, icon: 'fa-star' },
-  { key: 'gameplay', data: gameplayContent, priority: 3, icon: 'fa-gamepad' },
-  {
-    key: 'advantages',
-    data: advantagesContent,
-    priority: 4,
-    icon: 'fa-thumbs-up',
-  },
-  {
-    key: 'accessibility',
-    data: accessibilityContent,
-    priority: 5,
-    icon: 'fa-universal-access',
-  },
-  { key: 'other', data: otherContent, priority: 6, icon: 'fa-info-circle' },
-  {
-    key: 'conclusion',
-    data: conclusionContent,
-    priority: 7,
-    icon: 'fa-flag-checkered',
-  },
-]
-  .filter(
-    section =>
-      section.data && section.data.content && section.data.content.length > 0
-  )
-  .sort((a, b) => a.priority - b.priority)
 ---
 
 <BaseLayout
@@ -151,11 +116,11 @@ const contentSections = [
         <nav class="breadcrumb-enhanced music-element hero-music-delay-1">
           <a href="/" class="breadcrumb-link">
             <i class="fas fa-home"></i>
-            <span>{extendedData.breadcrumb?.home || 'Home'}</span>
+            <span>Home</span>
           </a>
           <i class="fas fa-angle-right breadcrumb-separator"></i>
           <span class="breadcrumb-current"
-            >{extendedData.breadcrumb?.current || gameData.title}</span
+            >{gameData.title}</span
           >
         </nav>
 
@@ -450,84 +415,17 @@ const contentSections = [
     }
 
     <!-- 详细内容区域 -->
-    {
-      contentSections.map((section, sectionIndex) => (
-        <section class={`game-content-section content-section-${section.key}`}>
-          <div class="container">
-            <div
-              class={`content-wrapper-enhanced music-element hero-music-delay-${25 + sectionIndex * 3}`}
-            >
-              <div class="content-card-enhanced hero-sidebar-effect">
-                <h2 class="content-title-enhanced">
-                  <i class={`fas ${section.icon}`} />
-                  <span>{section.data.title}</span>
-                </h2>
-                <div class="content-body-enhanced">
-                  {section.data.content.map(
-                    (contentItem: any, itemIndex: number) => {
-                      if (contentItem.type === 'paragraph') {
-                        return (
-                          <div class="content-paragraph-enhanced">
-                            <p>{contentItem.text}</p>
-                          </div>
-                        )
-                      } else if (contentItem.type === 'list') {
-                        return (
-                          <div class="content-list-enhanced">
-                            {contentItem.items.map(
-                              (item: any, listIndex: number) => (
-                                <div class="content-list-item-enhanced">
-                                  <div class="list-item-icon">
-                                    <i class="fas fa-check-circle" />
-                                  </div>
-                                  <div class="list-item-content">
-                                    <h4 class="list-item-title">
-                                      {item.title}
-                                    </h4>
-                                    <p class="list-item-description">
-                                      {item.description}
-                                    </p>
-                                  </div>
-                                </div>
-                              )
-                            )}
-                          </div>
-                        )
-                      } else if (contentItem.type === 'steps') {
-                        return (
-                          <div class="content-steps-enhanced">
-                            <div class="steps-container-enhanced">
-                              {contentItem.items.map(
-                                (step: any, stepIndex: number) => (
-                                  <div class="step-item-enhanced">
-                                    <div class="step-number-enhanced">
-                                      {stepIndex + 1}
-                                    </div>
-                                    <div class="step-content-enhanced">
-                                      <h4 class="step-title-enhanced">
-                                        {step.title}
-                                      </h4>
-                                      <p class="step-description-enhanced">
-                                        {step.description}
-                                      </p>
-                                    </div>
-                                  </div>
-                                )
-                              )}
-                            </div>
-                          </div>
-                        )
-                      }
-                      return null
-                    }
-                  )}
-                </div>
-              </div>
+    <section class="game-content-section">
+      <div class="container">
+        <div class="content-wrapper-enhanced music-element">
+          <div class="content-card-enhanced hero-sidebar-effect">
+            <div class="content-body-enhanced prose">
+              <Content />
             </div>
           </div>
-        </section>
-      ))
-    }
+        </div>
+      </div>
+    </section>
 
     <!-- 相关游戏区域 -->
     <section class="related-games-enhanced">
@@ -542,15 +440,13 @@ const contentSections = [
 
         <div class="related-games-grid">
           {
-            (games?.popular || [])
-              .slice(0, 4)
-              .map((game: any, index: number) => (
-                <div
-                  class={`related-game-item music-element hero-music-delay-${31 + index}`}
-                >
-                  <GameCard game={game} variant="sidebar" />
-                </div>
-              ))
+            relatedGames.map((relatedGame, index) => (
+              <div
+                class={`related-game-item music-element hero-music-delay-${31 + index}`}
+              >
+                <GameCard game={relatedGame} variant="sidebar" />
+              </div>
+            ))
           }
         </div>
       </div>

@@ -1,23 +1,22 @@
 ---
 // 定义明确的类型接口，提高类型安全
-interface Props {
+interface Game {
   slug: string;
-  imagePath: string;
+  url: string;
+  imageUrl: string;
   title: string;
   category: string;
   rating: number;
-  index: number;
+}
+
+interface Props {
+  game: Game;
+  index?: number;
 }
 
 // 解构组件参数
-const { 
-  slug, 
-  imagePath, 
-  title, 
-  category, 
-  rating = 0, 
-  index = 0 
-} = Astro.props;
+const { game, index = 0 } = Astro.props;
+const { slug, url, imageUrl: imagePath, title, category, rating = 0 } = game;
 
 // 格式化分类名称的函数
 const categoryNames = {

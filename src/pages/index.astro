@@ -14,9 +14,22 @@ import FAQSection from '@/components/sections/FAQSection.astro'
 // Hero设计系统已整合至 components.css
 
 // 导入数据
+import { getCollection } from 'astro:content';
 import extractedData from '@/data/extracted-data.json'
 
-const { navigation, homepage, games } = extractedData
+const { navigation, homepage } = extractedData
+
+// Fetch all games and filter them by category
+const allGames = await getCollection('games');
+const popularGames = allGames.filter(game => game.data.category === 'popular').slice(0, 4);
+const newGames = allGames.filter(game => game.data.category === 'new').slice(0, 4);
+const trendingGames = allGames.filter(game => game.data.category === 'trending').slice(0, 10);
+
+const games = {
+  popular: popularGames.map(g => ({ slug: g.slug, ...g.data })),
+  new: newGames.map(g => ({ slug: g.slug, ...g.data })),
+  trending: trendingGames.map(g => ({ slug: g.slug, ...g.data })),
+};
 
 // 多语言配置
 const hreflangLinks = navigation.languages.map((lang: any) => ({

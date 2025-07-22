@@ -2,7 +2,7 @@
 import NewGames from '../new-games.astro';
 import PopularGames from '../popular-games.astro';
 import TrendingGames from '../trending-games.astro';
-import NAV from './nav.astro';
+import NAV from "../../components/legacy/nav.astro"
 ---
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -30,14 +30,14 @@ import NAV from './nav.astro';
     <meta property="og:url" content="https://www.playfiddlebops.com/zh/incredibox-cool-as-ice/"/>
     <meta property="og:site_name" content="FiddleBops"/>
     <meta property="og:locale" content="en_US"/>
-    <meta property="og:image" content="https://www.playfiddlebops.com/Incredibox Cool As Ice.png"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/incredibox-cool-as-ice.png"/>
     <meta property="og:type" content="website"/>
 
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="https://www.playfiddlebops.com/zh/incredibox-cool-as-ice/"/>
     <meta name="twitter:title" content="Incredibox Cool As Ice 🎮 在线畅玩 Incredibox Cool As Ice 游戏"/>
     <meta name="twitter:description" content="在 Cool as Ice Mod 中，熟悉的 Incredibox 角色们都焕然一新，变得冰冰凉凉，闪闪发光！你会看到冰冻效果、闪烁的冰纹，以及灵感来自冬天的音景。每个角色都会带来带有清脆、冰冷氛围的节拍和旋律，对于 Incredibox 的新老玩家来说，这都是一次独特的体验。"/>
-    <meta name="twitter:image" content="https://www.playfiddlebops.com/Incredibox Cool As Ice.png"/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/incredibox-cool-as-ice.png"/>
 
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
     <link rel="stylesheet" href="/main.css">
@@ -57,7 +57,7 @@ import NAV from './nav.astro';
      height:600px;
      background-color:#fff;
      position: relative;
-     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/Incredibox Cool As Ice.png);
+     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/incredibox-cool-as-ice.png);
      background-repeat: no-repeat;
      background-position: center center;
      background-size:cover;
