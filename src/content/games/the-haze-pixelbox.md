@@ -41,4 +41,38 @@ pageType: traditional
 isDemo: false
 ---
 
-## What's So Special About The Haze Pixelbox?\n\nhome > The Haze Pixelbox\n\nWhether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.\n\n- **Become a Tribal Leader**: Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.\n- **Explore Primal Sounds**: The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.\n- **Showcase Your Creativity**: Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.\n\nIn the world of The Haze Pixelbox:\n\n- ****: The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.\n- ****: You will have endless combinations to create your own musical masterpiece.\n- ****: You can share your works with friends and family to jointly feel the charm of music.\n\nWhether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!\n\n## What is The Haze Pixelbox?\n\nWhether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.\n\n## How to Play The Haze Pixelbox?\n\nGetting started is easy! Follow these simple steps to begin your musical journey:\n\n1. **Choose Your Characters**: Select from a variety of unique characters, each with their own sound and style.\n1. **Drag and Drop**: Use the intuitive drag-and-drop interface to place characters and create music.\n1. **Experiment with Combinations**: Try different character combinations to discover new sounds and unlock special features.\n1. **Save and Share**: Record your musical masterpieces and share them with the community.\n\n
+## What's So Special About The Haze Pixelbox?
+
+Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.
+
+- **Become a Tribal Leader**: Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.
+
+- **Explore Primal Sounds**: The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.
+
+- **Showcase Your Creativity**: Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.
+
+In the world of The Haze Pixelbox:
+
+- ****: The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.
+
+- ****: You will have endless combinations to create your own musical masterpiece.
+
+- ****: You can share your works with friends and family to jointly feel the charm of music.
+
+Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist. Come and join The Haze Pixelbox, and awaken the primal musical soul with ancient beats!
+
+## What is The Haze Pixelbox?
+
+Whether you're an experienced musician or a curious beginner, The Haze Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.
+
+## How to Play The Haze Pixelbox?
+
+Getting started is easy! Follow these simple steps to begin your musical journey:
+
+1. **Choose Your Characters**: Select from a variety of unique characters, each with their own sound and style.
+
+1. **Drag and Drop**: Use the intuitive drag-and-drop interface to place characters and create music.
+
+1. **Experiment with Combinations**: Try different character combinations to discover new sounds and unlock special features.
+
+1. **Save and Share**: Record your musical masterpieces and share them with the community.

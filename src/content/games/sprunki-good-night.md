@@ -42,4 +42,52 @@ pageType: traditional
 isDemo: false
 ---
 
-## How to Create in Sprunki Good Night?\n\nhome > Sprunki Good Night\n\nThe operation is very simple, just master the following points:\n\n- **Drag**: Drag the characters in Sprunki Good Night onto the stage, each character contributing a gentle, calming, or dreamlike sound.\n- **Mix**: Try mixing soft piano tones, ambient sounds, and slow, rhythmic beats to produce a relaxing, soothing blend.\n- **Explore**: Discover hidden night effects such as remote crickets, mild rain, or lullaby reverberations by smoothly melding sounds.\n- **Tune**: Tune your mix to wholly embrace the calm and soothing essence of Good Night.\n\nHighlights of Sprunki Good Night:\n\n- **Gentle Lullaby**: This Mod is perfect for relaxing, meditating, or entering a peaceful musical landscape.\n- **Soothing Sound Effects**: The mix has a peaceful atmosphere, allowing you to feel relaxed during the game.\n- **Nighttime Effects**: The game has nighttime effects such as crickets and rain to make the songs more ethereal.\n- **Peaceful and Serene Visual Effects**: Peaceful and serene visual effects (such as moonlight, twinkling fireflies, and a warm night atmosphere) make you feel like you are under the starry sky.\n\nSprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams! Venture into the Sprunki Good Night Mod and produce relaxing, peaceful beats for the perfect musical evening!\n\n## What is Sprunki Good Night?\n\nSprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams!\n\n## What Makes Sprunki Good Night Special?\n\n- **Unique Character Design**: Experience distinctive characters with their own sounds and animations in Sprunki Good Night.\n- **Creative Music Making**: Express your creativity with intuitive drag-and-drop gameplay mechanics.\n- **Interactive Gameplay**: Discover hidden combinations and unlock special animations and effects.\n- **Community Features**: Share your musical creations and connect with other players worldwide.\n\n## How to Play Sprunki Good Night?\n\nGetting started is easy! Follow these simple steps to begin your musical journey:\n\n1. **Choose Your Characters**: Select from a variety of unique characters, each with their own sound and style.\n1. **Drag and Drop**: Use the intuitive drag-and-drop interface to place characters and create music.\n1. **Experiment with Combinations**: Try different character combinations to discover new sounds and unlock special features.\n1. **Save and Share**: Record your musical masterpieces and share them with the community.\n\n
+## How to Create in Sprunki Good Night?
+
+The operation is very simple, just master the following points:
+
+- **Drag**: Drag the characters in Sprunki Good Night onto the stage, each character contributing a gentle, calming, or dreamlike sound.
+
+- **Mix**: Try mixing soft piano tones, ambient sounds, and slow, rhythmic beats to produce a relaxing, soothing blend.
+
+- **Explore**: Discover hidden night effects such as remote crickets, mild rain, or lullaby reverberations by smoothly melding sounds.
+
+- **Tune**: Tune your mix to wholly embrace the calm and soothing essence of Good Night.
+
+Highlights of Sprunki Good Night:
+
+- **Gentle Lullaby**: This Mod is perfect for relaxing, meditating, or entering a peaceful musical landscape.
+
+- **Soothing Sound Effects**: The mix has a peaceful atmosphere, allowing you to feel relaxed during the game.
+
+- **Nighttime Effects**: The game has nighttime effects such as crickets and rain to make the songs more ethereal.
+
+- **Peaceful and Serene Visual Effects**: Peaceful and serene visual effects (such as moonlight, twinkling fireflies, and a warm night atmosphere) make you feel like you are under the starry sky.
+
+Sprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams! Venture into the Sprunki Good Night Mod and produce relaxing, peaceful beats for the perfect musical evening!
+
+## What is Sprunki Good Night?
+
+Sprunki Good Night is a Mod that allows you to completely relax your body and mind after a tired day. Come to Sprunki Good Night and use gentle and peaceful beats to create a perfect lullaby and welcome sweet dreams!
+
+## What Makes Sprunki Good Night Special?
+
+- **Unique Character Design**: Experience distinctive characters with their own sounds and animations in Sprunki Good Night.
+
+- **Creative Music Making**: Express your creativity with intuitive drag-and-drop gameplay mechanics.
+
+- **Interactive Gameplay**: Discover hidden combinations and unlock special animations and effects.
+
+- **Community Features**: Share your musical creations and connect with other players worldwide.
+
+## How to Play Sprunki Good Night?
+
+Getting started is easy! Follow these simple steps to begin your musical journey:
+
+1. **Choose Your Characters**: Select from a variety of unique characters, each with their own sound and style.
+
+1. **Drag and Drop**: Use the intuitive drag-and-drop interface to place characters and create music.
+
+1. **Experiment with Combinations**: Try different character combinations to discover new sounds and unlock special features.
+
+1. **Save and Share**: Record your musical masterpieces and share them with the community.

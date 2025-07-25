@@ -354,69 +354,25 @@ class FiddleBopsInteractions {
   }
 
   /**
-   * 页面过渡效果
+   * 页面过渡效果 - 已禁用
    */
   setupPageTransitions() {
-    // 页面加载动画
-    window.addEventListener('load', () => {
-      this.playPageLoadAnimation();
-    });
-
-    // 链接点击过渡
-    document.querySelectorAll('a[href^="/"]').forEach(link => {
-      link.addEventListener('click', (e) => {
-        if (e.ctrlKey || e.metaKey) return;
-
-        e.preventDefault();
-        this.playPageExitAnimation(() => {
-          window.location.href = link.href;
-        });
-      });
-    });
+    // 页面转场动画已被移除，保持原生页面跳转行为
   }
 
   /**
-   * 页面加载动画
+   * 页面加载动画 - 已禁用
    */
   playPageLoadAnimation() {
-    const elements = document.querySelectorAll('header, main > section');
-
-    elements.forEach((element, index) => {
-      element.style.opacity = '0';
-      element.style.transform = 'translateY(30px)';
-
-      setTimeout(() => {
-        element.style.transition = 'all 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94)';
-        element.style.opacity = '1';
-        element.style.transform = 'translateY(0)';
-      }, index * 150);
-    });
+    // 页面加载动画已被移除，使用浏览器默认行为
   }
 
   /**
-   * 页面退出动画
+   * 页面退出动画 - 已禁用
    */
   playPageExitAnimation(callback) {
-    const overlay = document.createElement('div');
-    overlay.style.cssText = `
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(135deg, #8b5cf6, #ec4899);
-      z-index: 10000;
-      opacity: 0;
-      transition: opacity 400ms ease-out;
-    `;
-
-    document.body.appendChild(overlay);
-
-    requestAnimationFrame(() => {
-      overlay.style.opacity = '1';
-    });
-
-    setTimeout(callback, 400);
+    // 页面退出动画已被移除，直接执行回调
+    if (callback) callback();
   }
 
   /**
