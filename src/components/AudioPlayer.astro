@@ -1,6 +1,7 @@
 ---
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
+import AudioPlayerSkeleton from './AudioPlayerSkeleton.astro';
 
 export interface Props {
   audioSrc: string;
@@ -9,6 +10,7 @@ export interface Props {
   showProgress?: boolean;
   className?: string;
   useSlider?: boolean;
+  loading?: boolean;
 }
 
 const { 
@@ -17,13 +19,21 @@ const {
   autoplay = false, 
   showProgress = true,
   className = "",
-  useSlider = true
+  useSlider = true,
+  loading = false
 } = Astro.props;
 
 const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
 ---
 
-<Card className={`audio-player-card ${className}`} data-audio-id={uniqueId}>
+{loading ? (
+  <AudioPlayerSkeleton 
+    title={title} 
+    showProgress={showProgress} 
+    className={className} 
+  />
+) : (
+  <Card className={`audio-player-card ${className}`} data-audio-id={uniqueId}>
   <CardContent className="p-4">
     <div class="flex items-center space-x-4">
       <!-- Play/Pause Button -->
@@ -89,6 +99,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
     </audio>
   </CardContent>
 </Card>
+)}
 
 <style>
   .audio-player-card {

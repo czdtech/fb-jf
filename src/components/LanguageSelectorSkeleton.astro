@@ -1,0 +1,24 @@
+---
+export interface Props {
+  className?: string;
+  variant?: 'default' | 'mobile';
+}
+
+const { 
+  className = '',
+  variant = 'default'
+} = Astro.props;
+---
+
+<div class={`language-selector-skeleton ${className}`}>
+  {variant === 'mobile' ? (
+    <!-- Mobile variant - full width -->
+    <div class="h-10 w-full animate-pulse rounded-md bg-primary/10"></div>
+  ) : (
+    <!-- Default variant - desktop select -->
+    <div class="flex items-center space-x-2">
+      <div class="h-5 w-5 animate-pulse rounded-full bg-primary/10"></div>
+      <div class="h-10 w-24 animate-pulse rounded-md bg-primary/10"></div>
+    </div>
+  )}
+</div>

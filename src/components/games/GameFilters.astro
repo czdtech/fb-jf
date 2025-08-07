@@ -1,0 +1,187 @@
+---
+import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
+
+interface Props {
+  categories?: { name: string; count: number; active: boolean }[];
+  totalGames: number;
+}
+
+const { categories = [], totalGames } = Astro.props;
+---
+
+<div class="bg-white/70 backdrop-blur-md border border-white/20 shadow-lg rounded-xl p-6 mb-8">
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-end">
+    <!-- 搜索框 -->
+    <div class="md:col-span-5">
+      <label for="game-search" class="block text-sm font-medium text-gray-700 mb-2">
+        Search Games
+      </label>
+      <Input
+        id="game-search"
+        type="search"
+        placeholder="Search for games..."
+        class="w-full"
+      />
+    </div>
+
+    <!-- 分类筛选 -->
+    <div class="md:col-span-3">
+      <label for="category-select" class="block text-sm font-medium text-gray-700 mb-2">
+        Category
+      </label>
+      <select 
+        id="category-select"
+        class="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
+      >
+        <option value="all">All Games ({totalGames})</option>
+        {categories.map((category) => (
+          <option value={category.name.toLowerCase().replace(/\s+/g, '-')}>
+            {category.name} ({category.count})
+          </option>
+        ))}
+      </select>
+    </div>
+
+    <!-- 排序选项 -->
+    <div class="md:col-span-2">
+      <label for="sort-select" class="block text-sm font-medium text-gray-700 mb-2">
+        Sort By
+      </label>
+      <select 
+        id="sort-select"
+        class="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
+      >
+        <option value="featured">Featured</option>
+        <option value="name">Name A-Z</option>
+        <option value="name-desc">Name Z-A</option>
+        <option value="newest">Newest</option>
+        <option value="rating">Rating</option>
+      </select>
+    </div>
+
+    <!-- 清除筛选按钮 -->
+    <div class="md:col-span-2">
+      <Button variant="outline" class="w-full" id="clear-filters">
+        Clear Filters
+      </Button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // 添加筛选功能
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('game-search') as HTMLInputElement;
+    const categorySelect = document.getElementById('category-select') as HTMLSelectElement;
+    const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
+    const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement;
+    
+    // 搜索功能
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        const searchTerm = (e.target as HTMLInputElement).value.toLowerCase();
+        filterGames(searchTerm, categorySelect?.value);
+      });
+    }
+
+    // 分类筛选
+    if (categorySelect) {
+      categorySelect.addEventListener('change', (e) => {
+        const category = (e.target as HTMLSelectElement).value;
+        filterGames(searchInput?.value?.toLowerCase() || '', category);
+      });
+    }
+
+    // 排序功能
+    if (sortSelect) {
+      sortSelect.addEventListener('change', (e) => {
+        const sortBy = (e.target as HTMLSelectElement).value;
+        sortGames(sortBy);
+      });
+    }
+
+    // 清除筛选
+    if (clearFiltersBtn) {
+      clearFiltersBtn.addEventListener('click', () => {
+        if (searchInput) {
+          searchInput.value = '';
+        }
+        if (categorySelect) {
+          categorySelect.selectedIndex = 0;
+        }
+        if (sortSelect) {
+          sortSelect.selectedIndex = 0;
+        }
+        
+        // 显示所有游戏
+        showAllGames();
+      });
+    }
+
+    function filterGames(searchTerm: string, category: string) {
+      const gameCards = document.querySelectorAll('[data-game-card]');
+      let visibleCount = 0;
+
+      gameCards.forEach((card) => {
+        const title = card.getAttribute('data-game-title')?.toLowerCase() || '';
+        const gameCategory = card.getAttribute('data-game-category')?.toLowerCase() || '';
+        
+        const matchesSearch = !searchTerm || title.includes(searchTerm) || gameCategory.includes(searchTerm);
+        const matchesCategory = !category || category === 'all' || gameCategory === category;
+        
+        if (matchesSearch && matchesCategory) {
+          (card as HTMLElement).style.display = '';
+          visibleCount++;
+        } else {
+          (card as HTMLElement).style.display = 'none';
+        }
+      });
+
+      updateResultsCount(visibleCount);
+    }
+
+    function sortGames(sortBy: string) {
+      const gameGrid = document.querySelector('[data-game-grid]');
+      if (!gameGrid) return;
+
+      const gameCards = Array.from(gameGrid.querySelectorAll('[data-game-card]'));
+      
+      gameCards.sort((a, b) => {
+        const titleA = a.getAttribute('data-game-title') || '';
+        const titleB = b.getAttribute('data-game-title') || '';
+        
+        switch (sortBy) {
+          case 'name':
+            return titleA.localeCompare(titleB);
+          case 'name-desc':
+            return titleB.localeCompare(titleA);
+          case 'newest':
+          case 'rating':
+          case 'featured':
+          default:
+            return 0; // 保持原有顺序
+        }
+      });
+
+      // 重新排列DOM元素
+      gameCards.forEach(card => gameGrid.appendChild(card));
+    }
+
+    function showAllGames() {
+      const gameCards = document.querySelectorAll('[data-game-card]');
+      gameCards.forEach((card) => {
+        (card as HTMLElement).style.display = '';
+      });
+      
+      updateResultsCount(gameCards.length);
+    }
+
+    function updateResultsCount(count: number) {
+      const resultsInfo = document.querySelector('.results-info p');
+      if (resultsInfo) {
+        resultsInfo.textContent = `Showing ${count} games`;
+      }
+    }
+  });
+</script>

@@ -1,0 +1,126 @@
+---
+import Layout from '../layouts/Layout.astro';
+import GameGrid from '../components/GameGrid.astro';
+import AudioPlayer from '../components/AudioPlayer.astro';
+import Navigation from '../components/Navigation.astro';
+import { Button } from '@/components/ui/button';
+
+// Mock data
+const mockGames = [];
+const mockNavigation = [
+  { label: "Home", url: "/" },
+  { label: "Games", url: "/games" },
+  { label: "New Games", url: "/new-games" },
+  { label: "Popular", url: "/popular-games" }
+];
+const mockLanguages = [];
+---
+
+<Layout title="Loading States Demo">
+  <main class="min-h-screen bg-background">
+    <div class="space-y-12">
+      <!-- Navigation with loading -->
+      <Navigation 
+        navigation={mockNavigation} 
+        languages={mockLanguages}
+        currentLang="en"
+      />
+      
+      <div class="container mx-auto p-6 space-y-12">
+        <h1 class="text-3xl font-bold text-center text-foreground mb-8">
+          Loading States Demo
+        </h1>
+        
+        <div class="flex justify-center space-x-4 mb-8">
+          <Button onclick="toggleLoading()" class="bg-primary text-primary-foreground">
+            Toggle Loading States
+          </Button>
+        </div>
+        
+        <!-- Game Grids with loading states -->
+        <section class="space-y-8">
+          <h2 class="text-2xl font-semibold text-foreground">Game Grids Loading States</h2>
+          
+          <!-- Standard Grid -->
+          <div id="standardGrid">
+            <GameGrid 
+              games={mockGames}
+              title="Standard Grid"
+              variant="standard"
+              loading={true}
+              loadingCount={8}
+            />
+          </div>
+          
+          <!-- Featured Grid -->
+          <div id="featuredGrid">
+            <GameGrid 
+              games={mockGames}
+              title="Featured Grid"
+              variant="featured"
+              loading={true}
+              loadingCount={6}
+            />
+          </div>
+          
+          <!-- Compact Grid -->
+          <div id="compactGrid">
+            <GameGrid 
+              games={mockGames}
+              title="Compact Grid"
+              variant="compact"
+              loading={true}
+              loadingCount={12}
+            />
+          </div>
+        </section>
+        
+        <!-- Audio Players with loading states -->
+        <section class="space-y-4">
+          <h2 class="text-2xl font-semibold text-foreground">Audio Player Loading States</h2>
+          <div class="grid gap-4 max-w-md">
+            <div id="audioPlayer1">
+              <AudioPlayer 
+                audioSrc="/characters/sounds/beat1.wav"
+                title="Beat 1"
+                loading={true}
+              />
+            </div>
+            <div id="audioPlayer2">
+              <AudioPlayer 
+                audioSrc="/characters/sounds/melody1.wav"
+                title="Melody 1"
+                loading={true}
+              />
+            </div>
+          </div>
+        </section>
+        
+        <!-- Demo text -->
+        <section class="text-center py-8">
+          <p class="text-muted-foreground max-w-2xl mx-auto">
+            这个页面展示了所有组件的加载状态。点击上面的按钮可以在加载状态和实际内容之间切换。
+            所有skeleton组件都使用了shadcn/ui的Skeleton组件，并保持了紫色主题的一致性。
+          </p>
+        </section>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<script>
+  let isLoading = true;
+  
+  window.toggleLoading = function() {
+    isLoading = !isLoading;
+    
+    // This is a demo - in real application, you would update component props
+    // For now, we just show a message
+    if (isLoading) {
+      alert('Loading state activated! 🔄\n\n在实际应用中，这些组件会自动切换到skeleton loading状态。');
+    } else {
+      alert('Content loaded! ✅\n\n在实际应用中，组件会显示真实数据并隐藏skeleton。');
+    }
+  };
+</script>
+</Layout>

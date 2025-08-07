@@ -64,21 +64,27 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
 <!-- Mobile Navigation Sheet using shadcn/ui Sheet -->
 <div 
   id="mobileSheet"
-  class="fixed inset-0 z-50 hidden"
+  class="fixed inset-0 z-50 hidden opacity-0 pointer-events-none"
   role="dialog"
   aria-modal="true"
   aria-labelledby="mobile-menu-title"
+  data-state="closed"
+  style="display: none !important;"
 >
   <!-- Overlay -->
   <div 
     id="mobileOverlay"
-    class="fixed inset-0 z-50 bg-black/80 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0"
+    class="fixed inset-0 z-50 bg-black/80 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 opacity-0"
+    data-state="closed"
+    style="display: none !important;"
   ></div>
   
   <!-- Sheet Content -->
   <div 
     id="mobileContent"
-    class="fixed z-50 gap-4 bg-background p-6 shadow-lg transition ease-in-out data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:duration-300 data-[state=open]:duration-500 inset-y-0 left-0 h-full w-3/4 border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left sm:max-w-sm"
+    class="fixed z-50 gap-4 bg-background p-6 shadow-lg transition ease-in-out data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:duration-300 data-[state=open]:duration-500 inset-y-0 left-0 h-full w-3/4 border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left sm:max-w-sm opacity-0 transform -translate-x-full"
+    data-state="closed"
+    style="display: none !important;"
   >
     <!-- Close Button -->
     <button 
@@ -127,42 +133,92 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
 
 
 <script>
+// 强制确保菜单在页面加载时完全隐藏
 document.addEventListener('DOMContentLoaded', () => {
-
-  // Mobile menu functionality
-  const mobileMenuTrigger = document.getElementById('mobileMenuTrigger');
   const mobileSheet = document.getElementById('mobileSheet');
   const mobileOverlay = document.getElementById('mobileOverlay');
   const mobileContent = document.getElementById('mobileContent');
+  const mobileMenuTrigger = document.getElementById('mobileMenuTrigger');
   const mobileCloseButton = document.getElementById('mobileCloseButton');
   const body = document.body;
 
+  // 强制隐藏所有菜单元素
+  function forceHideMenu() {
+    if (mobileSheet) {
+      mobileSheet.style.display = 'none';
+      mobileSheet.style.visibility = 'hidden';
+      mobileSheet.style.opacity = '0';
+      mobileSheet.classList.add('hidden');
+      mobileSheet.setAttribute('data-state', 'closed');
+    }
+    if (mobileOverlay) {
+      mobileOverlay.style.display = 'none';
+      mobileOverlay.style.opacity = '0';
+      mobileOverlay.setAttribute('data-state', 'closed');
+    }
+    if (mobileContent) {
+      mobileContent.style.display = 'none';
+      mobileContent.style.opacity = '0';
+      mobileContent.style.transform = 'translateX(-100%)';
+      mobileContent.setAttribute('data-state', 'closed');
+    }
+    if (mobileMenuTrigger) {
+      mobileMenuTrigger.setAttribute('aria-expanded', 'false');
+    }
+    body.style.overflow = '';
+  }
+
+  // 页面加载时立即隐藏菜单
+  forceHideMenu();
+
   function openMobileMenu() {
-    if (mobileSheet && mobileContent) {
+    if (mobileSheet && mobileContent && mobileOverlay) {
+      mobileSheet.style.display = 'block';
+      mobileSheet.style.visibility = 'visible';
+      mobileSheet.style.opacity = '1';
       mobileSheet.classList.remove('hidden');
-      mobileContent.setAttribute('data-state', 'open');
+      
+      mobileOverlay.style.display = 'block';
+      mobileOverlay.style.opacity = '1';
       mobileOverlay.setAttribute('data-state', 'open');
+      
+      mobileContent.style.display = 'block';
+      mobileContent.style.opacity = '1';
+      mobileContent.style.transform = 'translateX(0)';
+      mobileContent.setAttribute('data-state', 'open');
+      
+      mobileSheet.setAttribute('data-state', 'open');
       mobileMenuTrigger.setAttribute('aria-expanded', 'true');
       body.style.overflow = 'hidden';
     }
   }
 
   function closeMobileMenu() {
-    if (mobileSheet && mobileContent) {
+    if (mobileSheet && mobileContent && mobileOverlay) {
+      mobileContent.style.opacity = '0';
+      mobileContent.style.transform = 'translateX(-100%)';
       mobileContent.setAttribute('data-state', 'closed');
+      
+      mobileOverlay.style.opacity = '0';
       mobileOverlay.setAttribute('data-state', 'closed');
+      
       mobileMenuTrigger.setAttribute('aria-expanded', 'false');
       body.style.overflow = '';
       
-      // Hide after animation
+      // 等待动画完成后隐藏
       setTimeout(() => {
-        mobileSheet.classList.add('hidden');
+        forceHideMenu();
       }, 300);
     }
   }
 
+  // 事件监听
   if (mobileMenuTrigger) {
-    mobileMenuTrigger.addEventListener('click', openMobileMenu);
+    mobileMenuTrigger.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      openMobileMenu();
+    });
   }
 
   if (mobileCloseButton) {
@@ -173,14 +229,14 @@ document.addEventListener('DOMContentLoaded', () => {
     mobileOverlay.addEventListener('click', closeMobileMenu);
   }
 
-  // Close mobile menu with escape key
+  // ESC键关闭菜单
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !mobileSheet.classList.contains('hidden')) {
+    if (e.key === 'Escape') {
       closeMobileMenu();
     }
   });
 
-  // Close mobile menu when navigation link is clicked
+  // 点击导航链接关闭菜单
   const mobileNavLinks = document.querySelectorAll('#mobileContent a[href]');
   mobileNavLinks.forEach(link => {
     link.addEventListener('click', () => {
@@ -188,5 +244,17 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // 确保菜单始终关闭
+  setTimeout(forceHideMenu, 100);
+});
+
+// 页面可见性变化时也确保菜单关闭
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) {
+    const mobileSheet = document.getElementById('mobileSheet');
+    if (mobileSheet) {
+      mobileSheet.style.display = 'none';
+    }
+  }
 });
 </script>

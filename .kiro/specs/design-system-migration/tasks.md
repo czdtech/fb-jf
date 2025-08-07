@@ -68,10 +68,7 @@
   - Maintain existing audio playback functionality and event handlers
   - _Requirements: 7.1, 7.2, 7.4_
 
-- [ ] 9. Update homepage layout with new components
-
-
-
+- [x] 9. Update homepage layout with new components
 
   - Replace custom hero section with clean shadcn/ui layout
   - Integrate new GameGrid component with featured games
@@ -79,7 +76,7 @@
   - Apply consistent spacing and typography using Tailwind utilities
   - _Requirements: 3.2, 3.3, 4.3_
 
-- [ ] 10. Migrate game listing pages
+- [x] 10. Migrate game listing pages
 
   - Update game category pages to use new GameGrid component
   - Implement filtering and search using shadcn/ui Input and Select components
@@ -87,7 +84,7 @@
   - Ensure proper responsive behavior on all game listing pages
   - _Requirements: 4.2, 4.4, 3.1_
 
-- [ ] 11. Update game detail pages
+- [x] 11. Update game detail pages
 
   - Migrate game detail page layout to use shadcn/ui components
   - Style game screenshots and media using shadcn/ui Card components
@@ -95,13 +92,13 @@
   - Integrate AudioPlayer component for game music previews
   - _Requirements: 3.2, 7.3, 5.3_
 
-- [ ] 12. Implement loading states with shadcn/ui Skeleton
+- [x] 12. Implement loading states with shadcn/ui Skeleton
 
-  - Install shadcn/ui Skeleton component
-  - Create loading states for GameCard components
-  - Add skeleton loading for game grids and navigation
-  - Implement loading states for audio player and language selector
-  - _Requirements: 10.4, 3.1_
+  - Install shadcn/ui Skeleton component ✅
+  - Create loading states for GameCard components ✅
+  - Add skeleton loading for game grids and navigation ✅
+  - Implement loading states for audio player and language selector ✅
+  - _Requirements: 10.4, 3.1_ ✅
 
 - [ ] 13. Add error handling and fallback UI
 

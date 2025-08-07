@@ -5,7 +5,10 @@ import Header from '@/components/Header.astro'
 import Footer from '@/components/Footer.astro'
 import GameRating from '@/components/GameRating.astro'
 import GameHero from '@/components/GameHero.astro'
-import GameCard from '@/components/GameCard.astro'
+import GameGrid from '@/components/GameGrid.astro'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { Badge } from '@/components/ui/badge'
+import AudioPlayer from '@/components/AudioPlayer.astro'
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json'
@@ -23,10 +26,6 @@ const { game } = Astro.props;
 const { Content } = await game.render();
 const gameData = { ...game.data, slug: game.slug };
 const extendedData = gameData as any;
-
-// Initialize content sections
-const featuresContent = null;
-const gameplayContent = null;
 
 // Fetch and prepare related games
 const allGames = await getCollection('games');
@@ -70,10 +69,21 @@ const structuredData = {
   ...(extendedData.seo?.schema || {}),
 }
 
-// NOTE: The content sections are now rendered via <Content /> from game.render()
-// The logic below for contentSections is no longer necessary if the markdown body is sufficient.
-// For this refactoring, we will render the markdown content in a dedicated section.
+// 默认游戏特色
+const defaultFeatures = [
+  { icon: '🎵', title: 'Rich Music Creation', description: 'Create unique musical compositions with diverse sound elements' },
+  { icon: '🎭', title: 'Character Variety', description: 'Choose from a wide range of animated characters, each with unique sounds' },
+  { icon: '🔄', title: 'Creative Freedom', description: 'Unlimited possibilities for mixing and matching sounds' },
+  { icon: '💫', title: 'Visual Effects', description: 'Stunning animations and effects that react to your music' }
+];
 
+// 默认游戏步骤
+const defaultSteps = [
+  'Choose your favorite characters from the selection',
+  'Drag and drop them onto the stage to start creating',
+  'Experiment with different combinations to find your perfect mix',
+  'Save and share your musical masterpiece with friends'
+];
 ---
 
 <BaseLayout
@@ -95,1090 +105,229 @@ const structuredData = {
     pageType={extendedData.pageType}
   />
 
-  <main class="game-page-enhanced">
-
-    <!-- 游戏特色区域 -->
-    {
-      (extendedData.features || featuresContent) && (
-        <section class="game-features-enhanced">
-          <div class="container">
-            <div class="section-header-enhanced music-element hero-music-delay-12">
-              <h2 class="section-title-enhanced">
-                <i class="fas fa-sparkles" />
-                <span>Game Features</span>
-              </h2>
-              <p class="section-subtitle-enhanced">
-                Discover what makes this game special
-              </p>
-            </div>
-
-            <div class="features-showcase">
-              {featuresContent && featuresContent.content ? (
-                <div class="features-detailed">
-                  {featuresContent.content.map(
-                    (section: any, sectionIndex: number) => {
-                      if (section.type === 'list') {
-                        return (
-                          <div class="features-grid-enhanced">
-                            {section.items.map((item: any, index: number) => (
-                              <div
-                                class={`feature-card-enhanced music-element hero-music-delay-${13 + sectionIndex + index}`}
-                              >
-                                <div class="feature-card-content hero-sidebar-effect">
-                                  <div class="feature-icon-enhanced">
-                                    <i class="fas fa-star" />
-                                  </div>
-                                  <h4 class="feature-title-enhanced">
-                                    {item.title}
-                                  </h4>
-                                  <p class="feature-description-enhanced">
-                                    {item.description}
-                                  </p>
-                                  <div class="feature-glow-effect" />
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-                        )
-                      }
-                      return null
-                    }
-                  )}
-                </div>
-              ) : (
-                <div class="features-grid-enhanced">
-                  {(
-                    extendedData.features || [
-                      '🎵 Rich music creation tools',
-                      '🎭 Diverse character selection',
-                      '🔄 Unlimited creative possibilities',
-                      '💫 Unique visual effects',
-                    ]
-                  ).map((feature: any, index: number) => (
-                    <div
-                      class={`feature-card-enhanced music-element hero-music-delay-${13 + index}`}
-                    >
-                      <div class="feature-card-content hero-sidebar-effect">
-                        <div class="feature-icon-enhanced">
-                          <i class="fas fa-music" />
-                        </div>
-                        <h4 class="feature-title-enhanced">{feature}</h4>
-                        <div class="feature-glow-effect" />
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              )}
-            </div>
-          </div>
-        </section>
-      )
-    }
-
-    <!-- 游戏玩法区域 -->
-    {
-      (extendedData.howToPlay || gameplayContent) && (
-        <section class="game-how-to-play-enhanced">
-          <div class="container">
-            <div class="section-header-enhanced music-element hero-music-delay-20">
-              <h2 class="section-title-enhanced">
-                <i class="fas fa-gamepad" />
-                <span>How to Play</span>
-              </h2>
-              <p class="section-subtitle-enhanced">
-                Master the art of music creation
-              </p>
-            </div>
-
-            <div class="how-to-play-content">
-              {gameplayContent && gameplayContent.content ? (
-                <div class="gameplay-detailed">
-                  {gameplayContent.content.map(
-                    (section: any, sectionIndex: number) => {
-                      if (section.type === 'steps') {
-                        return (
-                          <div class="steps-container-enhanced">
-                            {section.items.map((step: any, index: number) => (
-                              <div
-                                class={`step-item-enhanced music-element hero-music-delay-${21 + index}`}
-                              >
-                                <div class="step-number-enhanced">
-                                  {index + 1}
-                                </div>
-                                <div class="step-content-enhanced">
-                                  <h4 class="step-title-enhanced">
-                                    {step.title}
-                                  </h4>
-                                  <p class="step-description-enhanced">
-                                    {step.description}
-                                  </p>
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-                        )
-                      }
-                      return null
-                    }
-                  )}
-                </div>
-              ) : (
-                <div class="steps-container-enhanced">
-                  {(
-                    extendedData.howToPlay || [
-                      'Choose your characters',
-                      'Create your mix',
-                      'Share your creation',
-                    ]
-                  ).map((step: any, index: number) => (
-                    <div
-                      class={`step-item-enhanced music-element hero-music-delay-${21 + index}`}
-                    >
-                      <div class="step-number-enhanced">{index + 1}</div>
-                      <div class="step-content-enhanced">
-                        <p class="step-description-enhanced">{step}</p>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              )}
-            </div>
-          </div>
-        </section>
-      )
-    }
-
-    <!-- 详细内容区域 -->
-    <section class="game-content-section">
-      <div class="container">
-        <div class="content-wrapper-enhanced music-element">
-          <div class="content-card-enhanced hero-sidebar-effect">
-            <div class="content-body-enhanced prose">
-              <Content />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <style>
-      /* 使用 :global() 来样式化 markdown 内容 */
-      .prose :global(ul) {
-        list-style: none !important;
-        padding: 0 !important;
-        margin: 2rem 0 !important;
-        display: flex !important;
-        flex-direction: column !important;
-        gap: 0.75rem !important;
-      }
+  <main class="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
+    <div class="container mx-auto px-4 py-12 max-w-7xl">
       
-      .prose :global(ul li) {
-        background: linear-gradient(135deg, rgba(168, 85, 247, 0.05), rgba(255, 255, 255, 0.95)) !important;
-        border: 1px solid rgba(168, 85, 247, 0.2) !important;
-        border-radius: 8px !important;
-        padding: 1rem 1.5rem !important;
-        margin: 0 !important;
-        transition: all 0.2s ease !important;
-        box-shadow: 0 2px 4px rgba(168, 85, 247, 0.05) !important;
-      }
-      
-      .prose :global(ul li:hover) {
-        background: linear-gradient(135deg, rgba(168, 85, 247, 0.1), rgba(255, 255, 255, 1)) !important;
-        transform: translateX(4px) !important;
-        box-shadow: 0 4px 12px rgba(168, 85, 247, 0.15) !important;
-        border-color: rgba(168, 85, 247, 0.3) !important;
-      }
-      
-      .prose :global(strong) {
-        background: linear-gradient(135deg, rgba(168, 85, 247, 0.1), rgba(168, 85, 247, 0.05)) !important;
-        color: rgb(124, 58, 237) !important;
-        padding: 0.25em 0.5em !important;
-        border-radius: 4px !important;
-        border: 1px solid rgba(168, 85, 247, 0.2) !important;
-        font-weight: 700 !important;
-      }
-      
-      .prose :global(h2) {
-        color: rgb(17, 24, 39) !important;
-        font-size: 1.75rem !important;
-        font-weight: 700 !important;
-        margin: 2rem 0 1rem 0 !important;
-        border-left: 4px solid rgb(168, 85, 247) !important;
-        padding-left: 1rem !important;
-        display: flex !important;
-        align-items: center !important;
-      }
-      
-      .prose :global(p) {
-        margin-bottom: 1.5rem !important;
-        line-height: 1.7 !important;
-        color: rgb(55, 65, 81) !important;
-        font-size: 1.125rem !important;
-      }
-      
-      .prose :global(p:first-of-type) {
-        font-size: 1.25rem !important;
-        font-weight: 500 !important;
-        color: rgb(31, 41, 55) !important;
-      }
-    </style>
-
-    <!-- 相关游戏区域 -->
-    <section class="related-games-enhanced">
-      <div class="container">
-        <div class="section-header-enhanced music-element hero-music-delay-30">
-          <h2 class="section-title-enhanced">
-            <i class="fas fa-gamepad"></i>
-            <span>More Games Like This</span>
+      <!-- 游戏特色区域 -->
+      <section class="mb-16">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+            <span class="text-purple-600">✨</span>
+            Game Features
           </h2>
-          <p class="section-subtitle-enhanced">Continue your musical journey</p>
+          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+            Discover what makes this game special
+          </p>
         </div>
 
-        <div class="game-grid game-grid--related related-games-grid">
-          {
-            relatedGames.map((relatedGame, index) => (
-              <div
-                class={`related-game-item game-grid-item music-element hero-music-delay-${31 + index}`}
-              >
-                <GameCard game={relatedGame} variant="sidebar" />
-              </div>
-            ))
-          }
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {(extendedData.features || defaultFeatures).map((feature, index) => (
+            <Card className="h-full hover:shadow-lg transition-shadow duration-300">
+              <CardContent className="p-6 text-center">
+                <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
+                <h3 class="text-lg font-semibold text-gray-900 mb-2">
+                  {typeof feature === 'string' ? feature : feature.title}
+                </h3>
+                {typeof feature !== 'string' && feature.description && (
+                  <p class="text-gray-600 text-sm">{feature.description}</p>
+                )}
+              </CardContent>
+            </Card>
+          ))}
         </div>
-      </div>
-    </section>
+      </section>
+
+      <!-- 游戏玩法区域 -->
+      <section class="mb-16">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+            <span class="text-purple-600">🎮</span>
+            How to Play
+          </h2>
+          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+            Master the art of music creation
+          </p>
+        </div>
+
+        <Card className="max-w-4xl mx-auto">
+          <CardContent className="p-8">
+            <div class="space-y-6">
+              {(extendedData.howToPlay || defaultSteps).map((step, index) => (
+                <div class="flex gap-6 items-start">
+                  <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
+                    {index + 1}
+                  </div>
+                  <div class="flex-grow pt-2">
+                    <p class="text-gray-700 text-lg">{typeof step === 'string' ? step : step.title || step.description}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </CardContent>
+        </Card>
+      </section>
+
+      <!-- 游戏截图/媒体预览区域 -->
+      {(extendedData.screenshots || extendedData.gallery) && (
+        <section class="mb-16">
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">📸</span>
+              Game Screenshots
+            </h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+              Take a look at the gameplay experience
+            </p>
+          </div>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+            {(extendedData.screenshots || extendedData.gallery || [gameData.image]).map((screenshot, index) => (
+              <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 group">
+                <CardContent className="p-0">
+                  <div class="relative aspect-video overflow-hidden">
+                    <img 
+                      src={typeof screenshot === 'string' ? screenshot : screenshot.url || gameData.image}
+                      alt={`${gameData.title} screenshot ${index + 1}`}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                      loading="lazy"
+                    />
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="absolute bottom-4 left-4 right-4 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                      <p class="text-sm font-medium">
+                        {typeof screenshot === 'object' && screenshot.caption 
+                          ? screenshot.caption 
+                          : `${gameData.title} - Screenshot ${index + 1}`
+                        }
+                      </p>
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </section>
+      )}
+      {extendedData.audio && (
+        <section class="mb-16">
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">🎵</span>
+              Game Music Preview
+            </h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+              Experience the immersive soundtrack
+            </p>
+          </div>
+          
+          <div class="max-w-2xl mx-auto">
+            <AudioPlayer 
+              audioSrc={extendedData.audio}
+              title={`${gameData.title} - Game Music`}
+              className="shadow-lg"
+            />
+          </div>
+        </section>
+      )}
+
+      <!-- 详细内容区域 -->
+      <section class="mb-16">
+        <Card className="max-w-4xl mx-auto shadow-lg">
+          <CardHeader className="bg-gradient-to-r from-purple-50 to-pink-50 border-b">
+            <div class="flex items-center gap-4">
+              <div class="text-purple-600 text-3xl">📖</div>
+              <CardTitle className="text-3xl text-gray-900">About {gameData.title}</CardTitle>
+            </div>
+            <div class="flex items-center gap-2 mt-4">
+              <Badge variant="secondary" className="bg-purple-100 text-purple-700 hover:bg-purple-200">
+                {gameData.category}
+              </Badge>
+              {extendedData.rating && (
+                <div class="flex items-center gap-1 text-yellow-500">
+                  {Array.from({ length: 5 }, (_, i) => (
+                    <span class={`text-lg ${i < Math.floor(extendedData.rating.score) ? 'text-yellow-400' : 'text-gray-300'}`}>
+                      ⭐
+                    </span>
+                  ))}
+                  <span class="text-sm text-gray-600 ml-2">({extendedData.rating.votes} reviews)</span>
+                </div>
+              )}
+            </div>
+          </CardHeader>
+          <CardContent className="prose prose-lg max-w-none p-8">
+            <Content />
+          </CardContent>
+        </Card>
+      </section>
+
+      <!-- 相关游戏区域 -->
+      {relatedGames.length > 0 && (
+        <section>
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">🎯</span>
+              More Games Like This
+            </h2>
+            <p class="text-xl text-gray-600">
+              Continue your musical journey
+            </p>
+          </div>
+          
+          <GameGrid games={relatedGames} variant="featured" showTitle={false} />
+        </section>
+      )}
+    </div>
   </main>
 
   <Footer />
 </BaseLayout>
 
-<script>
-  // 页面加载完成后的基础功能
-  document.addEventListener('DOMContentLoaded', () => {
-    // 基础滚动动画已禁用，页面内容直接显示
-  })
-</script>
-
 <style>
-  /* ==========================================================================
-     游戏详情页基础样式
-     ========================================================================== */
-
-  .game-page-enhanced {
-    padding: var(--space-4) 0;
-  }
-
-  /* 游戏特色区域 */
-  .game-features-enhanced {
-    padding: var(--space-16) 0;
-    background: linear-gradient(135deg, var(--color-gray-50), var(--color-gray-100));
-    position: relative;
-    overflow: hidden;
-  }
-
-  .section-header-enhanced {
-    text-align: center;
-    margin-bottom: var(--space-12);
-  }
-
-  .section-title-enhanced {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: var(--space-4);
-    font-size: var(--font-size-4xl);
-    font-weight: var(--font-weight-bold);
-    background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    margin-bottom: var(--space-4);
-  }
-
-  .section-title-enhanced i {
-    color: var(--color-primary-600);
-    background: none;
-    -webkit-text-fill-color: var(--color-primary-600);
-    font-size: var(--font-size-3xl);
-  }
-
-  .section-subtitle-enhanced {
-    font-size: var(--font-size-xl);
-    color: var(--color-gray-600);
-    max-width: 700px;
-    margin: 0 auto;
-    line-height: var(--line-height-relaxed);
-  }
-
-  /* 特色功能网格 */
-  .features-showcase {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-
-  .features-grid-enhanced {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: var(--space-8);
-  }
-
-  .feature-card-enhanced {
-    position: relative;
-    height: 100%;
-  }
-
-  .feature-card-content {
-    position: relative;
-    padding: var(--space-8);
-    height: 100%;
-    border-radius: var(--border-radius-xl);
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--space-4);
-    transition: all var(--duration-300) var(--ease-in-out);
-    overflow: hidden;
-  }
-
-  .feature-card-content:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 25px 60px rgba(0, 0, 0, 0.15);
-  }
-
-  .feature-icon-enhanced {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 80px;
-    height: 80px;
-    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
-    border-radius: var(--border-radius-2xl);
-    color: white;
-    font-size: var(--font-size-2xl);
-    box-shadow: 0 12px 30px rgba(147, 51, 234, 0.3);
-    margin-bottom: var(--space-4);
-  }
-
-  .feature-title-enhanced {
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-gray-900);
-    margin-bottom: var(--space-3);
-  }
-
-  .feature-description-enhanced {
-    font-size: var(--font-size-base);
-    color: var(--color-gray-600);
-    line-height: var(--line-height-relaxed);
-    flex: 1;
-  }
-
-  /* 其他区域样式保持简洁 */
-  .game-how-to-play-enhanced,
-  .related-games-enhanced {
-    padding: var(--space-16) 0;
-    background: linear-gradient(135deg, var(--color-gray-50), var(--color-gray-100));
-  }
-
-  /* ==========================================================================
-     Apple-Inspired Content Container
-     专业级内容容器设计
-     ========================================================================== */
-
-  .game-content-section {
-    padding: var(--space-20) 0;
-    background: 
-      linear-gradient(180deg, 
-        rgba(249, 250, 251, 0.6) 0%, 
-        rgba(255, 255, 255, 0.8) 50%, 
-        rgba(249, 250, 251, 0.6) 100%),
-      radial-gradient(ellipse 120% 80% at 50% 20%, 
-        rgba(168, 85, 247, 0.04) 0%, 
-        transparent 60%),
-      radial-gradient(ellipse 100% 60% at 50% 80%, 
-        rgba(59, 130, 246, 0.03) 0%, 
-        transparent 50%);
-    position: relative;
-    isolation: isolate;
-  }
-
-  .game-content-section::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: 
-      repeating-linear-gradient(
-        90deg,
-        transparent,
-        transparent 199px,
-        rgba(168, 85, 247, 0.02) 200px,
-        rgba(168, 85, 247, 0.02) 201px
-      );
-    pointer-events: none;
-  }
-
-  .content-wrapper-enhanced {
-    max-width: 900px;
-    margin: 0 auto;
-    position: relative;
-    z-index: 1;
-  }
-
-  .content-card-enhanced {
-    background: 
-      linear-gradient(145deg, 
-        rgba(255, 255, 255, 0.95) 0%,
-        rgba(255, 255, 255, 0.98) 50%,
-        rgba(255, 255, 255, 0.95) 100%);
-    backdrop-filter: blur(20px) saturate(180%);
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    border-radius: 20px;
-    box-shadow: 
-      0 1px 3px rgba(0, 0, 0, 0.05),
-      0 4px 12px rgba(0, 0, 0, 0.04),
-      0 16px 32px rgba(0, 0, 0, 0.03),
-      inset 0 1px 0 rgba(255, 255, 255, 0.7);
-    position: relative;
-    overflow: hidden;
-    transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-
-  .content-card-enhanced::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 2px;
-    background: var(--gradient-primary);
-    opacity: 0.8;
-  }
-
-  .content-card-enhanced:hover {
-    transform: translateY(-2px);
-    box-shadow: 
-      0 2px 6px rgba(0, 0, 0, 0.06),
-      0 8px 24px rgba(0, 0, 0, 0.05),
-      0 24px 48px rgba(0, 0, 0, 0.04),
-      inset 0 1px 0 rgba(255, 255, 255, 0.8);
-  }
-
-  /* ==========================================================================
-     Apple-Grade Typography System
-     专业级文字排版系统
-     ========================================================================== */
-
-  .prose {
-    font-family: var(--font-family-primary);
-    color: var(--color-gray-800);
-    line-height: var(--line-height-relaxed);
-    padding: var(--space-16) var(--space-12);
-    max-width: none;
-    font-size: var(--font-size-lg);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-  }
-
-  /* Hierarchical Heading System */
-  .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
-    font-family: var(--font-family-display);
-    font-weight: var(--font-weight-bold);
-    line-height: var(--line-height-tight);
-    letter-spacing: var(--letter-spacing-tight);
-    color: var(--color-gray-900);
-    margin-top: 0;
-    margin-bottom: 0;
-    scroll-margin-top: var(--space-24);
-    position: relative;
-    transition: color 0.3s ease;
-  }
-
-  .prose h1 {
-    font-size: clamp(2rem, 4vw, var(--font-size-4xl));
-    font-weight: var(--font-weight-black);
-    margin-bottom: var(--space-8);
-    background: linear-gradient(
-      135deg,
-      var(--color-gray-900) 0%,
-      var(--color-primary-700) 50%,
-      var(--color-gray-800) 100%
-    );
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .prose h2 {
-    font-size: var(--font-size-3xl);
-    font-weight: var(--font-weight-bold);
-    margin: var(--space-20) 0 var(--space-6) 0;
-    position: relative;
-    display: flex;
-    align-items: center;
-    gap: var(--space-4);
-  }
-
-  .prose h2::before {
-    content: '';
-    width: 3px;
-    height: 28px;
-    background: var(--gradient-primary);
-    border-radius: 2px;
-    flex-shrink: 0;
-    opacity: 0.9;
-  }
-
-  .prose h2:first-of-type {
-    margin-top: 0;
-  }
-
-  .prose h3 {
-    font-size: var(--font-size-2xl);
-    font-weight: var(--font-weight-semibold);
-    margin: var(--space-16) 0 var(--space-4) 0;
-    color: var(--color-gray-700);
-  }
-
-  .prose h4 {
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-semibold);
-    margin: var(--space-12) 0 var(--space-3) 0;
-    color: var(--color-gray-700);
-  }
-
-  /* Sophisticated Paragraph System */
-  .prose p {
-    margin: 0 0 var(--space-6) 0;
-    line-height: 1.7;
-    color: var(--color-gray-700);
-    font-size: var(--font-size-lg);
-    max-width: 75ch;
-  }
-
-  .prose p:first-of-type {
-    font-size: var(--font-size-xl);
-    line-height: 1.6;
-    color: var(--color-gray-800);
-    font-weight: var(--font-weight-medium);
-    margin-bottom: var(--space-8);
+  /* Prose styling for markdown content */
+  .prose :global(ul) {
+    @apply list-none p-0 my-6 flex flex-col gap-3;
   }
-
-  .prose p:last-child {
-    margin-bottom: 0;
-  }
-
-  /* Premium List Design */
-  .prose ul, .prose ol {
-    margin: var(--space-8) 0;
-    padding: 0;
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-3);
-  }
-
-  .prose ul li, .prose ol li {
-    position: relative;
-    padding: var(--space-4) var(--space-6) var(--space-4) var(--space-12);
-    background: 
-      linear-gradient(135deg, 
-        rgba(249, 250, 251, 0.8) 0%, 
-        rgba(255, 255, 255, 0.9) 100%);
-    border: 1px solid rgba(229, 231, 235, 0.6);
-    border-radius: 12px;
-    font-size: var(--font-size-base);
-    line-height: 1.6;
-    color: var(--color-gray-700);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    backdrop-filter: blur(8px);
-  }
-
-  .prose ul li:hover, .prose ol li:hover {
-    background: 
-      linear-gradient(135deg, 
-        rgba(255, 255, 255, 0.95) 0%, 
-        rgba(249, 250, 251, 0.95) 100%);
-    border-color: rgba(168, 85, 247, 0.2);
-    transform: translateX(4px);
-    box-shadow: 
-      0 2px 8px rgba(0, 0, 0, 0.04),
-      0 1px 3px rgba(168, 85, 247, 0.1);
-  }
-
-  /* Custom List Markers */
-  .prose ul li::before {
-    content: '';
-    position: absolute;
-    left: var(--space-4);
-    top: 50%;
-    transform: translateY(-50%);
-    width: 6px;
-    height: 6px;
-    background: var(--gradient-primary);
-    border-radius: 50%;
-    box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.1);
-  }
-
-  .prose ol {
-    counter-reset: prose-counter;
-  }
-
-  .prose ol li {
-    counter-increment: prose-counter;
-  }
-
-  .prose ol li::before {
-    content: counter(prose-counter);
-    position: absolute;
-    left: var(--space-4);
-    top: var(--space-4);
-    width: 20px;
-    height: 20px;
-    background: var(--gradient-primary);
-    color: white;
-    border-radius: 6px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-bold);
-    box-shadow: 0 2px 4px rgba(168, 85, 247, 0.2);
-  }
-
-  /* Premium Strong/Bold Text */
-  .prose strong {
-    font-weight: var(--font-weight-bold);
-    color: var(--color-primary-700);
-    background: 
-      linear-gradient(135deg, 
-        rgba(168, 85, 247, 0.08) 0%, 
-        rgba(168, 85, 247, 0.04) 100%);
-    padding: 0.125em 0.4em;
-    border-radius: 6px;
-    border: 1px solid rgba(168, 85, 247, 0.1);
-    position: relative;
-    transition: all 0.2s ease;
-  }
-
-  .prose strong:hover {
-    background: 
-      linear-gradient(135deg, 
-        rgba(168, 85, 247, 0.12) 0%, 
-        rgba(168, 85, 247, 0.06) 100%);
-    border-color: rgba(168, 85, 247, 0.15);
-  }
-
-  /* Code Elements */
-  .prose code {
-    font-family: var(--font-family-mono);
-    font-size: 0.9em;
-    background: 
-      linear-gradient(135deg, 
-        rgba(17, 24, 39, 0.05) 0%, 
-        rgba(17, 24, 39, 0.08) 100%);
-    color: var(--color-gray-800);
-    padding: 0.2em 0.5em;
-    border-radius: 6px;
-    border: 1px solid rgba(17, 24, 39, 0.1);
-    font-weight: var(--font-weight-medium);
-    letter-spacing: var(--letter-spacing-tight);
-  }
-
-  .prose pre {
-    background: var(--color-gray-900);
-    color: var(--color-gray-100);
-    padding: var(--space-8);
-    border-radius: 12px;
-    overflow-x: auto;
-    margin: var(--space-10) 0;
-    box-shadow: 
-      0 4px 12px rgba(0, 0, 0, 0.15),
-      0 2px 4px rgba(0, 0, 0, 0.1),
-      inset 0 1px 0 rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(55, 65, 81, 0.8);
-  }
-
-  .prose pre code {
-    background: none;
-    border: none;
-    padding: 0;
-    color: inherit;
-    font-size: var(--font-size-sm);
-  }
-
-  /* Quote Elements */
-  .prose blockquote {
-    margin: var(--space-12) 0;
-    padding: var(--space-8) var(--space-10);
-    background: 
-      linear-gradient(135deg, 
-        rgba(59, 130, 246, 0.03) 0%, 
-        rgba(168, 85, 247, 0.02) 100%);
-    border: 1px solid rgba(59, 130, 246, 0.1);
-    border-left: 4px solid var(--color-info-500);
-    border-radius: 12px;
-    position: relative;
-    font-style: italic;
-    color: var(--color-gray-600);
-    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.05);
-  }
-
-  .prose blockquote::before {
-    content: '“';
-    position: absolute;
-    top: -4px;
-    left: var(--space-6);
-    font-family: Georgia, serif;
-    font-size: 3rem;
-    color: rgba(59, 130, 246, 0.2);
-    font-style: normal;
-    line-height: 1;
-  }
-
-  /* ==========================================================================
-     Apple-Level Responsive Design
-     专业级响应式设计
-     ========================================================================== */
-
-  /* Tablet Optimization */
-  @media (max-width: 1024px) {
-    .content-wrapper-enhanced {
-      max-width: 800px;
-    }
-    
-    .prose {
-      padding: var(--space-14) var(--space-10);
-    }
+  
+  .prose :global(ul li) {
+    @apply bg-gradient-to-r from-purple-50 to-white border border-purple-200 rounded-lg p-4 transition-all duration-300 hover:shadow-md hover:border-purple-300 hover:bg-gradient-to-r hover:from-purple-100 hover:to-white;
   }
-
-  /* Mobile Optimization */
-  @media (max-width: 768px) {
-    .game-content-section {
-      padding: var(--space-16) var(--space-4);
-    }
-    
-    .prose {
-      padding: var(--space-12) var(--space-6);
-      font-size: var(--font-size-base);
-    }
-    
-    .prose h1 {
-      font-size: var(--font-size-4xl);
-    }
-    
-    .prose h2 {
-      font-size: var(--font-size-2xl);
-      margin: var(--space-16) 0 var(--space-4) 0;
-    }
-    
-    .prose h2::before {
-      width: 2px;
-      height: 24px;
-    }
-    
-    .prose h3 {
-      font-size: var(--font-size-xl);
-    }
-    
-    .prose p {
-      font-size: var(--font-size-base);
-      max-width: none;
-    }
-    
-    .prose p:first-of-type {
-      font-size: var(--font-size-lg);
-    }
-    
-    .prose ul li, .prose ol li {
-      padding: var(--space-3) var(--space-4) var(--space-3) var(--space-10);
-      font-size: var(--font-size-sm);
-    }
-    
-    .prose ol li::before {
-      width: 18px;
-      height: 18px;
-      font-size: 0.75rem;
-    }
-  }
-
-  /* Small Mobile Optimization */
-  @media (max-width: 480px) {
-    .game-content-section {
-      padding: var(--space-12) var(--space-3);
-    }
-    
-    .content-card-enhanced {
-      border-radius: 16px;
-    }
-    
-    .prose {
-      padding: var(--space-10) var(--space-5);
-    }
-    
-    .prose h1 {
-      font-size: var(--font-size-3xl);
-    }
-    
-    .prose h2 {
-      font-size: var(--font-size-xl);
-      flex-direction: column;
-      align-items: flex-start;
-      gap: var(--space-2);
-    }
-    
-    .prose h2::before {
-      width: 24px;
-      height: 2px;
-    }
-    
-    .prose ul li, .prose ol li {
-      padding: var(--space-3) var(--space-3) var(--space-3) var(--space-8);
-    }
-    
-    .prose ul li::before {
-      left: var(--space-3);
-    }
-    
-    .prose ol li::before {
-      left: var(--space-3);
-      width: 16px;
-      height: 16px;
-      font-size: 0.7rem;
-    }
-  }
-
-  /* High-DPI Display Optimization */
-  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-    .prose {
-      -webkit-font-smoothing: subpixel-antialiased;
-    }
-  }
-
-  /* Dark Mode Support */
-  @media (prefers-color-scheme: dark) {
-    .game-content-section {
-      background: 
-        linear-gradient(180deg, 
-          rgba(17, 24, 39, 0.6) 0%, 
-          rgba(31, 41, 55, 0.8) 50%, 
-          rgba(17, 24, 39, 0.6) 100%);
-    }
-    
-    .content-card-enhanced {
-      background: 
-        linear-gradient(145deg, 
-          rgba(31, 41, 55, 0.95) 0%,
-          rgba(55, 65, 81, 0.98) 50%,
-          rgba(31, 41, 55, 0.95) 100%);
-      border-color: rgba(75, 85, 99, 0.3);
-    }
-    
-    .prose {
-      color: var(--color-gray-200);
-    }
-    
-    .prose h1, .prose h2, .prose h3, .prose h4 {
-      color: var(--color-gray-100);
-    }
-    
-    .prose p {
-      color: var(--color-gray-300);
-    }
-  }
-
-  /* Reduced Motion Support */
-  @media (prefers-reduced-motion: reduce) {
-    .content-card-enhanced,
-    .prose ul li,
-    .prose ol li,
-    .prose strong {
-      transition: none;
-    }
-    
-    .content-card-enhanced:hover {
-      transform: none;
-    }
-    
-    .prose ul li:hover,
-    .prose ol li:hover {
-      transform: none;
-    }
-  }
-
-  /* CRITICAL: Force Override Existing Styles */
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose ul,
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose ol {
-    margin: 2rem 0 !important;
-    padding: 0 !important;
-    list-style: none !important;
-    display: flex !important;
-    flex-direction: column !important;
-    gap: 0.75rem !important;
-  }
-
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose ul li,
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose ol li {
-    position: relative !important;
-    padding: 1rem 1.5rem 1rem 3rem !important;
-    background: linear-gradient(135deg, 
-        rgba(168, 85, 247, 0.05) 0%, 
-        rgba(255, 255, 255, 0.95) 50%,
-        rgba(249, 250, 251, 0.9) 100%) !important;
-    border: 1px solid rgba(168, 85, 247, 0.15) !important;
-    border-radius: 12px !important;
-    font-size: 1rem !important;
-    line-height: 1.6 !important;
-    color: rgb(55, 65, 81) !important;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
-    backdrop-filter: blur(8px) !important;
-    box-shadow: 0 2px 8px rgba(168, 85, 247, 0.08) !important;
-    margin: 0 !important;
-    list-style: none !important;
-  }
-
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose ul li:hover,
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose ol li:hover {
-    background: linear-gradient(135deg, 
-        rgba(168, 85, 247, 0.1) 0%, 
-        rgba(255, 255, 255, 1) 50%,
-        rgba(249, 250, 251, 1) 100%) !important;
-    border-color: rgba(168, 85, 247, 0.3) !important;
-    transform: translateX(8px) !important;
-    box-shadow: 
-      0 4px 16px rgba(168, 85, 247, 0.15) !important,
-      0 2px 4px rgba(0, 0, 0, 0.05) !important;
-  }
-
-  /* Force Strong Text Styling */
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose strong {
-    font-weight: 700 !important;
-    color: rgb(124, 58, 237) !important;
-    background: linear-gradient(135deg, 
-        rgba(168, 85, 247, 0.12) 0%, 
-        rgba(168, 85, 247, 0.06) 100%) !important;
-    padding: 0.25em 0.5em !important;
-    border-radius: 6px !important;
-    border: 1px solid rgba(168, 85, 247, 0.2) !important;
-    transition: all 0.2s ease !important;
-  }
-
-  /* Force H2 Styling */
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose h2 {
-    font-size: 1.875rem !important;
-    font-weight: 700 !important;
-    margin: 3rem 0 1.5rem 0 !important;
-    position: relative !important;
-    display: flex !important;
-    align-items: center !important;
-    gap: 1rem !important;
-    color: rgb(17, 24, 39) !important;
-  }
-
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose h2::before {
-    content: '' !important;
-    width: 4px !important;
-    height: 28px !important;
-    background: linear-gradient(135deg, rgb(168, 85, 247), rgb(147, 51, 234)) !important;
-    border-radius: 2px !important;
-    flex-shrink: 0 !important;
-    opacity: 0.9 !important;
-  }
-
-  .game-content-section .content-wrapper-enhanced .content-card-enhanced .prose h2:first-of-type {
-    margin-top: 0 !important;
-  }
-
-  /* 保持原有的步骤和相关游戏样式 */
-  .steps-container-enhanced {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-6);
-  }
-
-  .step-item-enhanced {
-    display: flex;
-    align-items: flex-start;
-    gap: var(--space-6);
-    padding: var(--space-6);
-    background: var(--color-white);
-    border-radius: var(--border-radius-xl);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-    transition: all var(--duration-300) var(--ease-in-out);
-    border-left: 4px solid var(--color-primary-500);
+  
+  .prose :global(strong) {
+    @apply font-bold text-purple-700 bg-purple-50 px-2 py-1 rounded border border-purple-200;
   }
-
-  .step-item-enhanced:hover {
-    transform: translateX(8px);
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  
+  .prose :global(h2) {
+    @apply text-2xl font-bold text-gray-900 my-6 flex items-center border-l-4 border-purple-600 pl-4;
   }
-
-  .step-number-enhanced {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 60px;
-    height: 60px;
-    background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
-    color: white;
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-bold);
-    border-radius: var(--border-radius-full);
-    flex-shrink: 0;
-    box-shadow: 0 8px 20px rgba(147, 51, 234, 0.3);
+  
+  .prose :global(p) {
+    @apply mb-4 text-gray-700 text-lg leading-relaxed;
   }
-
-  .step-content-enhanced {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-2);
+  
+  .prose :global(p:first-of-type) {
+    @apply text-xl font-medium text-gray-800;
   }
 
-  .step-title-enhanced {
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-gray-900);
-    margin: 0;
+  .prose :global(h3) {
+    @apply text-xl font-semibold text-gray-800 mt-6 mb-3;
   }
 
-  .step-description-enhanced {
-    font-size: var(--font-size-base);
-    color: var(--color-gray-600);
-    line-height: var(--line-height-relaxed);
-    margin: 0;
+  .prose :global(h4) {
+    @apply text-lg font-medium text-gray-800 mt-4 mb-2;
   }
 
-  .related-games-grid {
-    margin-top: var(--space-8);
+  .prose :global(blockquote) {
+    @apply border-l-4 border-blue-500 bg-blue-50 p-4 my-6 rounded-r-lg italic text-gray-700;
   }
 
-  .related-game-item {
-    transition: transform var(--duration-300) var(--ease-in-out);
+  .prose :global(code) {
+    @apply bg-gray-100 text-gray-800 px-2 py-1 rounded font-mono text-sm;
   }
 
-  .related-game-item:hover {
-    transform: translateY(-4px);
+  .prose :global(pre) {
+    @apply bg-gray-900 text-gray-100 p-6 rounded-lg overflow-x-auto my-6;
   }
-
-  /* 响应式设计 */
-  @media (max-width: 768px) {
-    .features-grid-enhanced {
-      grid-template-columns: 1fr;
-      gap: var(--space-6);
-    }
-
-    .step-item-enhanced {
-      flex-direction: column;
-      text-align: center;
-      gap: var(--space-4);
-    }
 
-    .step-number-enhanced {
-      width: 50px;
-      height: 50px;
-      font-size: var(--font-size-lg);
-    }
+  .prose :global(pre code) {
+    @apply bg-transparent p-0 text-gray-100;
   }
 </style>

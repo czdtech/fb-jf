@@ -4,7 +4,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import GamesHero from '@/components/games/GamesHero.astro';
-import GameCard from '@/components/games/GameCard.astro';
+import GameFilters from '@/components/games/GameFilters.astro';
+import GameGrid from '@/components/GameGrid.astro';
 import GamesPagination from '@/components/games/GamesPagination.astro';
 
 // 导入数据
@@ -167,24 +168,30 @@ const structuredData = {
     />
 
     <!-- Games Grid -->
-    <section class="games-section">
-      <div class="container">
+    <section class="py-16 bg-gray-50 min-h-[60vh]">
+      <div class="container mx-auto px-4">
+        <!-- Game Filters -->
+        <GameFilters categories={categories} totalGames={allGames.length} />
+
         <!-- Results Info -->
-        <div class="results-info">
-          <p>Showing {page.start + 1}-{Math.min(page.start + page.data.length, page.total)} of {page.total} games</p>
+        <div class="mb-8 text-center results-info">
+          <p class="text-sm text-gray-600">
+            Showing {page.start + 1}-{Math.min(page.start + page.data.length, page.total)} of {page.total} games
+          </p>
         </div>
 
         <!-- Games Grid -->
-        <div class="game-grid game-grid--standard">
-          {page.data.map((game, idx) => (
-            <div class="game-grid-item">
-              <GameCard game={game} index={idx} />
-            </div>
-          ))}
-        </div>
+        <GameGrid games={page.data} variant="standard" />
 
         <!-- Pagination -->
-        <GamesPagination page={page} />
+        <GamesPagination 
+          currentPage={page.currentPage}
+          totalPages={page.lastPage}
+          totalItems={page.total}
+          prevUrl={page.url.prev}
+          nextUrl={page.url.next}
+          basePath="/games/"
+        />
       </div>
     </section>
   </main>
@@ -192,22 +199,3 @@ const structuredData = {
   <Footer />
 </BaseLayout>
 
-<style>
-  .games-section {
-    padding: var(--space-16) 0;
-    background: var(--color-gray-50);
-    min-height: 60vh;
-  }
-
-  .results-info {
-    margin-bottom: var(--space-8);
-    text-align: center;
-  }
-
-  .results-info p {
-    font-size: var(--font-size-sm);
-    color: var(--color-gray-600);
-  }
-
-  /* 游戏网格样式现在由统一的 game-grids.css 提供 */
-</style>

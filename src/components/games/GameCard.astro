@@ -108,6 +108,9 @@ const generateStars = (rating: number) => {
 <article 
   class="game-card glass animate-in" 
   data-index={index} 
+  data-game-card
+  data-game-title={title}
+  data-game-category={category}
   style={`animation-delay: ${index * 0.08}s`}
 >
   <div class="game-card-glows">

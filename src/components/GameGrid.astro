@@ -1,6 +1,7 @@
 ---
 import type { Game } from '@/types';
 import GameCard from './GameCard.astro';
+import GameGridSkeleton from './GameGridSkeleton.astro';
 
 export interface Props {
   games: Game[];
@@ -9,6 +10,8 @@ export interface Props {
   moreLink?: string;
   className?: string;
   showTitle?: boolean;
+  loading?: boolean;
+  loadingCount?: number;
 }
 
 const { 
@@ -17,7 +20,9 @@ const {
   variant = 'standard', 
   moreLink, 
   className = '',
-  showTitle = true 
+  showTitle = true,
+  loading = false,
+  loadingCount = 8
 } = Astro.props;
 
 // Define responsive grid classes for each variant
@@ -46,13 +51,17 @@ const containerClasses = 'w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8';
       </h2>
     )}
     
-    <div class={`games-grid ${gridClasses[variant]}`}>
-      {games.map((game) => (
-        <GameCard game={game} variant={cardVariants[variant]} />
-      ))}
-    </div>
+    {loading ? (
+      <GameGridSkeleton variant={variant} count={loadingCount} />
+    ) : (
+      <div class={`games-grid ${gridClasses[variant]}`} data-game-grid>
+        {games.map((game, index) => (
+          <GameCard game={game} index={index} />
+        ))}
+      </div>
+    )}
     
-    {moreLink && (
+    {moreLink && !loading && (
       <div class="flex justify-center mt-8 md:mt-12">
         <a 
           href={moreLink}

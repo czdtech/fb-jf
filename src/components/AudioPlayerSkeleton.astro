@@ -1,0 +1,45 @@
+---
+export interface Props {
+  title?: string;
+  showProgress?: boolean;
+  className?: string;
+  variant?: 'default' | 'compact';
+}
+
+const { 
+  title = "Loading Audio...", 
+  showProgress = true,
+  className = "",
+  variant = 'default'
+} = Astro.props;
+---
+
+<div class={`audio-player-skeleton border border-primary/20 bg-gradient-to-br from-background to-primary/5 rounded-lg ${className}`}>
+  <div class="p-4">
+    <div class="flex items-center space-x-4">
+      <!-- Play/Pause Button Skeleton -->
+      <div class="w-10 h-10 animate-pulse rounded-full bg-primary/10 flex-shrink-0"></div>
+      
+      <div class="flex-1 space-y-2">
+        <!-- Track Title Skeleton -->
+        <div class="h-4 w-32 animate-pulse rounded-md bg-primary/10"></div>
+        
+        <!-- Progress Slider Skeleton -->
+        {showProgress && (
+          <div class="w-full">
+            <div class="h-2 w-full animate-pulse rounded-full bg-primary/10"></div>
+          </div>
+        )}
+      </div>
+      
+      <!-- Time Display Skeleton -->
+      {showProgress && (
+        <div class="flex items-center space-x-1">
+          <div class="h-3 w-8 animate-pulse rounded-md bg-primary/10"></div>
+          <div class="h-3 w-1 animate-pulse rounded-md bg-primary/10"></div>
+          <div class="h-3 w-8 animate-pulse rounded-md bg-primary/10"></div>
+        </div>
+      )}
+    </div>
+  </div>
+</div>

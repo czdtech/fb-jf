@@ -32,3 +32,19 @@ export {
   SheetTitle,
   SheetDescription,
 } from "./sheet"
+export { Skeleton } from "./skeleton"
+export { GameCardSkeleton } from "./game-card-skeleton"
+export { Input } from "./input"
+export { 
+  Select,
+  SelectGroup,
+  SelectValue,
+  SelectTrigger,
+  SelectContent,
+  SelectLabel,
+  SelectItem,
+  SelectSeparator,
+  SelectScrollUpButton,
+  SelectScrollDownButton,
+} from "./select"
+export { Slider } from "./slider"

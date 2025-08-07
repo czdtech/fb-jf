@@ -565,8 +565,8 @@
   letter-spacing: 0.5px;
 }
 
-/* Content Section Styling */
-.game-content-section {
+/* Content Section Styling - 只在游戏页面生效 */
+.game-page .game-content-section {
   padding: 80px 0;
   background: linear-gradient(
       180deg,
@@ -583,7 +583,7 @@
   isolation: isolate;
 }
 
-.game-content-section::before {
+.game-page .game-content-section::before {
   content: "";
   position: absolute;
   inset: 0;
