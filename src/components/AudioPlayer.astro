@@ -1,0 +1,439 @@
+---
+import { Card, CardContent } from "@/components/ui/card"
+import { Button } from "@/components/ui/button"
+
+export interface Props {
+  audioSrc: string;
+  title?: string;
+  autoplay?: boolean;
+  showProgress?: boolean;
+  className?: string;
+  useSlider?: boolean;
+}
+
+const { 
+  audioSrc, 
+  title = "Audio Track", 
+  autoplay = false, 
+  showProgress = true,
+  className = "",
+  useSlider = true
+} = Astro.props;
+
+const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
+---
+
+<Card className={`audio-player-card ${className}`} data-audio-id={uniqueId}>
+  <CardContent className="p-4">
+    <div class="flex items-center space-x-4">
+      <!-- Play/Pause Button -->
+      <Button 
+        variant="default" 
+        size="icon" 
+        className="audio-play-btn rounded-full bg-primary hover:bg-primary/90 text-primary-foreground"
+        data-audio-id={uniqueId}
+        type="button"
+      >
+        <svg class="audio-play-icon w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+        <svg class="audio-pause-icon w-5 h-5 hidden" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+        </svg>
+        <div class="audio-loading-spinner hidden">
+          <div class="animate-spin rounded-full h-4 w-4 border-2 border-current border-t-transparent"></div>
+        </div>
+      </Button>
+      
+      <div class="flex-1 space-y-2">
+        <!-- Track Title -->
+        <div class="text-sm font-medium text-foreground">{title}</div>
+        
+        <!-- Progress Slider -->
+        {showProgress && (
+          <div class="audio-progress-container w-full">
+            {useSlider ? (
+              <div class="audio-slider-wrapper" data-audio-id={uniqueId}>
+                <!-- React Slider will be mounted here -->
+              </div>
+            ) : (
+              <div class="fallback-progress-bar relative w-full h-2 bg-muted rounded-full overflow-hidden cursor-pointer">
+                <div class="audio-progress-bar absolute left-0 top-0 h-full bg-primary transition-all duration-100 ease-out" style="width: 0%"></div>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+      
+      <!-- Time Display -->
+      {showProgress && (
+        <div class="text-xs text-muted-foreground tabular-nums min-w-[80px] text-right">
+          <span class="audio-current-time">0:00</span>
+          <span class="mx-1">/</span>
+          <span class="audio-duration">0:00</span>
+        </div>
+      )}
+    </div>
+    
+    <!-- Hidden Audio Element -->
+    <audio 
+      id={uniqueId} 
+      preload="metadata" 
+      class="hidden"
+      {autoplay}
+    >
+      <source src={audioSrc} type="audio/wav">
+      <source src={audioSrc} type="audio/mp3">
+      <source src={audioSrc} type="audio/ogg">
+      Your browser does not support the audio element.
+    </audio>
+  </CardContent>
+</Card>
+
+<style>
+  .audio-player-card {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  
+  .audio-player-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .audio-player-card.playing {
+    border-color: hsl(var(--primary) / 0.5);
+    box-shadow: 0 0 0 1px hsl(var(--primary) / 0.2), 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .audio-progress-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .audio-slider-wrapper {
+    width: 100%;
+  }
+  
+  .fallback-progress-bar {
+    cursor: pointer;
+  }
+  
+  .audio-play-btn.loading .audio-play-icon,
+  .audio-play-btn.loading .audio-pause-icon {
+    display: none;
+  }
+  
+  .audio-play-btn.loading .audio-loading-spinner {
+    display: block;
+  }
+  
+  .audio-play-btn.playing .audio-play-icon {
+    display: none;
+  }
+  
+  .audio-play-btn.playing .audio-pause-icon {
+    display: block;
+  }
+</style>
+
+<script>
+  class AudioPlayerManager {
+    private static instance: AudioPlayerManager;
+    private currentlyPlaying: string | null = null;
+    private audioElements: Map<string, {
+      audio: HTMLAudioElement;
+      button: HTMLButtonElement;
+      card: HTMLElement;
+      progressBar?: HTMLElement;
+      currentTimeSpan?: HTMLElement;
+      durationSpan?: HTMLElement;
+    }> = new Map();
+
+    static getInstance(): AudioPlayerManager {
+      if (!AudioPlayerManager.instance) {
+        AudioPlayerManager.instance = new AudioPlayerManager();
+      }
+      return AudioPlayerManager.instance;
+    }
+
+    constructor() {
+      if (AudioPlayerManager.instance) {
+        return AudioPlayerManager.instance;
+      }
+      this.init();
+    }
+
+    private init() {
+      // Wait for DOM to be ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => this.setupAudioPlayers());
+      } else {
+        this.setupAudioPlayers();
+      }
+    }
+
+    private setupAudioPlayers() {
+      const audioCards = document.querySelectorAll('.audio-player-card');
+      
+      audioCards.forEach((card) => {
+        const audioId = card.getAttribute('data-audio-id');
+        if (!audioId) return;
+
+        const audio = document.getElementById(audioId) as HTMLAudioElement;
+        const button = card.querySelector('.audio-play-btn') as HTMLButtonElement;
+        const progressBar = card.querySelector('.audio-progress-bar') as HTMLElement;
+        const currentTimeSpan = card.querySelector('.audio-current-time') as HTMLElement;
+        const durationSpan = card.querySelector('.audio-duration') as HTMLElement;
+
+        if (!audio || !button) return;
+
+        // Store references
+        this.audioElements.set(audioId, {
+          audio,
+          button,
+          card: card as HTMLElement,
+          progressBar,
+          currentTimeSpan,
+          durationSpan
+        });
+
+        // Setup event listeners
+        this.setupAudioEvents(audioId);
+        this.setupButtonEvents(audioId);
+        this.setupProgressEvents(audioId);
+      });
+    }
+
+    private setupAudioEvents(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, button, card, currentTimeSpan, durationSpan } = elements;
+
+      audio.addEventListener('loadstart', () => {
+        button.classList.add('loading');
+      });
+
+      audio.addEventListener('canplaythrough', () => {
+        button.classList.remove('loading');
+        this.updateDuration(audioId);
+      });
+
+      audio.addEventListener('timeupdate', () => {
+        this.updateProgress(audioId);
+      });
+
+      audio.addEventListener('ended', () => {
+        this.stopAudio(audioId);
+      });
+
+      audio.addEventListener('error', (e) => {
+        console.error('Audio error:', e);
+        button.classList.remove('loading', 'playing');
+        card.classList.remove('playing');
+      });
+
+      audio.addEventListener('loadedmetadata', () => {
+        this.updateDuration(audioId);
+      });
+    }
+
+    private setupButtonEvents(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { button } = elements;
+
+      button.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        this.toggleAudio(audioId);
+      });
+    }
+
+    private setupProgressEvents(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { card, audio } = elements;
+      
+      // Setup fallback progress bar click handler
+      const fallbackProgressBar = card.querySelector('.fallback-progress-bar') as HTMLElement;
+      if (fallbackProgressBar) {
+        fallbackProgressBar.addEventListener('click', (e) => {
+          const rect = fallbackProgressBar.getBoundingClientRect();
+          const clickX = e.clientX - rect.left;
+          const width = rect.width;
+          const percentage = clickX / width;
+          
+          if (audio.duration) {
+            audio.currentTime = percentage * audio.duration;
+          }
+        });
+      }
+    }
+
+    private async toggleAudio(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, button, card } = elements;
+
+      // Stop other playing audio
+      if (this.currentlyPlaying && this.currentlyPlaying !== audioId) {
+        this.stopAudio(this.currentlyPlaying);
+      }
+
+      if (audio.paused) {
+        try {
+          button.classList.add('loading');
+          
+          await audio.play();
+          
+          button.classList.remove('loading');
+          button.classList.add('playing');
+          card.classList.add('playing');
+          this.currentlyPlaying = audioId;
+          
+        } catch (error) {
+          console.error('Error playing audio:', error);
+          button.classList.remove('loading');
+        }
+      } else {
+        this.pauseAudio(audioId);
+      }
+    }
+
+    private pauseAudio(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, button, card } = elements;
+      
+      audio.pause();
+      button.classList.remove('playing');
+      card.classList.remove('playing');
+      this.currentlyPlaying = null;
+    }
+
+    private stopAudio(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, button, card } = elements;
+      
+      audio.pause();
+      audio.currentTime = 0;
+      button.classList.remove('playing');
+      card.classList.remove('playing');
+      
+      if (this.currentlyPlaying === audioId) {
+        this.currentlyPlaying = null;
+      }
+      
+      this.updateProgress(audioId);
+    }
+
+    private updateProgress(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, progressBar, currentTimeSpan } = elements;
+      
+      if (audio.duration) {
+        const progress = (audio.currentTime / audio.duration) * 100;
+        
+        // Update fallback progress bar if it exists
+        if (progressBar) {
+          progressBar.style.width = `${progress}%`;
+        }
+        
+        if (currentTimeSpan) {
+          currentTimeSpan.textContent = this.formatTime(audio.currentTime);
+        }
+      }
+    }
+
+    private updateDuration(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, durationSpan } = elements;
+      
+      if (audio.duration && durationSpan) {
+        durationSpan.textContent = this.formatTime(audio.duration);
+      }
+    }
+
+    private formatTime(seconds: number): string {
+      if (!seconds || isNaN(seconds)) return '0:00';
+      const mins = Math.floor(seconds / 60);
+      const secs = Math.floor(seconds % 60);
+      return `${mins}:${secs.toString().padStart(2, '0')}`;
+    }
+
+    // Public methods for external control
+    public play(audioId: string) {
+      this.toggleAudio(audioId);
+    }
+
+    public pause(audioId: string) {
+      this.pauseAudio(audioId);
+    }
+
+    public stop(audioId: string) {
+      this.stopAudio(audioId);
+    }
+
+    public getCurrentlyPlaying(): string | null {
+      return this.currentlyPlaying;
+    }
+  }
+
+  // Initialize the audio player manager
+  const audioPlayerManager = AudioPlayerManager.getInstance();
+
+  // Mount React Slider components
+  const mountSliders = async () => {
+    const sliderWrappers = document.querySelectorAll('.audio-slider-wrapper');
+    
+    if (sliderWrappers.length > 0) {
+      // Dynamically import React and ReactDOM
+      const [React, ReactDOM] = await Promise.all([
+        import('react'),
+        import('react-dom/client')
+      ]);
+
+      // Import the AudioSlider component
+      const { AudioSlider } = await import('@/components/AudioSlider');
+
+      sliderWrappers.forEach((wrapper) => {
+        const audioId = wrapper.getAttribute('data-audio-id');
+        if (audioId) {
+          const root = ReactDOM.createRoot(wrapper);
+          root.render(React.createElement(AudioSlider, { audioId }));
+        }
+      });
+    }
+  };
+
+  // Mount sliders after DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', mountSliders);
+  } else {
+    mountSliders();
+  }
+
+  // Expose to global scope for debugging
+  (window as any).audioPlayerManager = audioPlayerManager;
+
+  // Global keyboard controls
+  document.addEventListener('keydown', (e) => {
+    if (e.code === 'Space' && audioPlayerManager.getCurrentlyPlaying()) {
+      const currentlyPlaying = audioPlayerManager.getCurrentlyPlaying();
+      if (currentlyPlaying) {
+        e.preventDefault();
+        audioPlayerManager.pause(currentlyPlaying);
+      }
+    }
+  });
+</script>

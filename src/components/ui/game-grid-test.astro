@@ -1,0 +1,169 @@
+---
+// Test component to verify GameGrid responsive behavior
+import GameGrid from '../GameGrid.astro';
+import type { Game } from '@/types';
+
+// Mock game data for testing
+const mockGames: Game[] = [
+  {
+    id: '1',
+    slug: 'test-game-1',
+    title: 'Test Music Game 1',
+    description: 'A fantastic music creation game with amazing beats',
+    image: '/img-1.png',
+    iframe: 'https://example.com/game1',
+    category: 'popular',
+    meta: {
+      title: 'Test Game 1',
+      description: 'Test description',
+      canonical: '/test-game-1',
+      ogImage: '/img-1.png'
+    }
+  },
+  {
+    id: '2',
+    slug: 'test-game-2',
+    title: 'Test Music Game 2',
+    description: 'Another exciting music game with cool sounds',
+    image: '/img-2.png',
+    iframe: 'https://example.com/game2',
+    category: 'trending',
+    meta: {
+      title: 'Test Game 2',
+      description: 'Test description',
+      canonical: '/test-game-2',
+      ogImage: '/img-2.png'
+    }
+  },
+  {
+    id: '3',
+    slug: 'test-game-3',
+    title: 'Test Music Game 3',
+    description: 'Creative music making game',
+    image: '/img-3.png',
+    iframe: 'https://example.com/game3',
+    category: 'new',
+    meta: {
+      title: 'Test Game 3',
+      description: 'Test description',
+      canonical: '/test-game-3',
+      ogImage: '/img-3.png'
+    }
+  },
+  {
+    id: '4',
+    slug: 'test-game-4',
+    title: 'Test Music Game 4',
+    description: 'Rhythm and beat creation game',
+    image: '/img-4.png',
+    iframe: 'https://example.com/game4',
+    category: 'popular',
+    meta: {
+      title: 'Test Game 4',
+      description: 'Test description',
+      canonical: '/test-game-4',
+      ogImage: '/img-4.png'
+    }
+  },
+  {
+    id: '5',
+    slug: 'test-game-5',
+    title: 'Test Music Game 5',
+    description: 'Electronic music creation tool',
+    image: '/img-5.png',
+    iframe: 'https://example.com/game5',
+    category: 'trending',
+    meta: {
+      title: 'Test Game 5',
+      description: 'Test description',
+      canonical: '/test-game-5',
+      ogImage: '/img-5.png'
+    }
+  },
+  {
+    id: '6',
+    slug: 'test-game-6',
+    title: 'Test Music Game 6',
+    description: 'Sound mixing and creation game',
+    image: '/img-6.png',
+    iframe: 'https://example.com/game6',
+    category: 'new',
+    meta: {
+      title: 'Test Game 6',
+      description: 'Test description',
+      canonical: '/test-game-6',
+      ogImage: '/img-6.png'
+    }
+  }
+];
+---
+
+<div class="min-h-screen bg-background p-8 space-y-16">
+  <div class="max-w-7xl mx-auto">
+    <h1 class="text-4xl font-bold text-center mb-12 text-foreground">
+      GameGrid Responsive Test
+    </h1>
+    
+    <!-- Standard Grid Variant -->
+    <div class="space-y-4">
+      <h2 class="text-2xl font-semibold text-foreground">Standard Grid (1→2→3→4→5 columns)</h2>
+      <p class="text-muted-foreground text-sm">
+        Breakpoints: xs(1) → sm(2) → md(3) → lg(4) → xl(5)
+      </p>
+      <GameGrid 
+        games={mockGames} 
+        title="Popular Music Games" 
+        variant="standard"
+        moreLink="/games"
+      />
+    </div>
+    
+    <!-- Featured Grid Variant -->
+    <div class="space-y-4">
+      <h2 class="text-2xl font-semibold text-foreground">Featured Grid (1→2→3 columns)</h2>
+      <p class="text-muted-foreground text-sm">
+        Breakpoints: xs(1) → sm(2) → lg(3)
+      </p>
+      <GameGrid 
+        games={mockGames.slice(0, 3)} 
+        title="Featured Games" 
+        variant="featured"
+      />
+    </div>
+    
+    <!-- Compact Grid Variant -->
+    <div class="space-y-4">
+      <h2 class="text-2xl font-semibold text-foreground">Compact Grid (2→3→4→6 columns)</h2>
+      <p class="text-muted-foreground text-sm">
+        Breakpoints: xs(2) → sm(3) → md(4) → lg(6)
+      </p>
+      <GameGrid 
+        games={mockGames} 
+        title="All Games" 
+        variant="compact"
+        moreLink="/all-games"
+      />
+    </div>
+    
+    <!-- Grid without title -->
+    <div class="space-y-4">
+      <h2 class="text-2xl font-semibold text-foreground">Grid without title</h2>
+      <GameGrid 
+        games={mockGames.slice(0, 4)} 
+        variant="standard"
+        showTitle={false}
+      />
+    </div>
+  </div>
+  
+  <!-- Responsive indicator for testing -->
+  <div class="fixed bottom-4 right-4 bg-primary text-primary-foreground px-3 py-2 rounded-lg text-sm font-mono">
+    <span class="xs:hidden">xs: <480px</span>
+    <span class="hidden xs:inline sm:hidden">xs: 480px+</span>
+    <span class="hidden sm:inline md:hidden">sm: 640px+</span>
+    <span class="hidden md:inline lg:hidden">md: 768px+</span>
+    <span class="hidden lg:inline xl:hidden">lg: 1024px+</span>
+    <span class="hidden xl:inline 2xl:hidden">xl: 1280px+</span>
+    <span class="hidden 2xl:inline">2xl: 1536px+</span>
+  </div>
+</div>

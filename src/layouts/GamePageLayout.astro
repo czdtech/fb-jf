@@ -1,6 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro'
-import Header from '@/components/Header.astro'
+import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import GameRating from '@/components/GameRating.astro'
 
@@ -133,7 +133,7 @@ const contentSections = [
   hreflang={hreflangLinks}
   structuredData={structuredData}
 >
-  <Header
+  <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"

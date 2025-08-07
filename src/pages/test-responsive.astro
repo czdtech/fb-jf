@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro'
-import Header from '@/components/Header.astro'
+import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import GameCard from '@/components/GameCard.astro'
 
@@ -26,7 +26,7 @@ const meta = {
 ---
 
 <BaseLayout meta={meta} lang="en">
-  <Header
+  <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"

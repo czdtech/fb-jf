@@ -1,0 +1,162 @@
+---
+import Layout from '../layouts/Layout.astro';
+import GameGrid from '../components/GameGrid.astro';
+import GridTestUtility from '../components/GridTestUtility.astro';
+import type { Game } from '../types';
+
+// Mock game data for comprehensive testing
+const mockGames: Game[] = Array.from({ length: 12 }, (_, i) => ({
+  id: `game-${i + 1}`,
+  title: `Test Game ${i + 1}`,
+  description: `This is a test game description for game ${i + 1}. It demonstrates how the grid system handles different content lengths and responsive behavior.`,
+  image: `/img-${(i % 10) + 1}.png`,
+  slug: `/test-game-${i + 1}/`,
+  iframe: `<iframe src="/games/test-${i + 1}"></iframe>`,
+  category: ['popular', 'trending', 'new'][i % 3] as 'popular' | 'trending' | 'new',
+  meta: {
+    title: `Test Game ${i + 1}`,
+    description: `Test game ${i + 1} description`,
+    canonical: `/test-game-${i + 1}/`,
+    ogImage: `/img-${(i % 10) + 1}.png`
+  }
+}));
+---
+
+<Layout>
+  <main class="min-h-screen bg-background">
+    <!-- Page Header -->
+    <div class="bg-primary/10 py-8 mb-8">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h1 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+          Grid System Validation
+        </h1>
+        <p class="text-muted-foreground text-lg">
+          Testing responsive behavior across all breakpoints and grid variants
+        </p>
+      </div>
+    </div>
+
+    <!-- Grid Test Utility -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <GridTestUtility />
+    </div>
+
+    <!-- Standard Grid: 1→2→3→4→5 columns -->
+    <section class="mb-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
+        <h2 class="text-2xl font-bold text-foreground mb-2">Standard Grid</h2>
+        <p class="text-muted-foreground">
+          Responsive: 1 col (mobile) → 2 cols (sm) → 3 cols (md) → 4 cols (lg) → 5 cols (xl)
+        </p>
+      </div>
+      <GameGrid 
+        games={mockGames} 
+        variant="standard"
+        showTitle={false}
+      />
+    </section>
+
+    <!-- Featured Grid: 1→2→3 columns -->
+    <section class="mb-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
+        <h2 class="text-2xl font-bold text-foreground mb-2">Featured Grid</h2>
+        <p class="text-muted-foreground">
+          Responsive: 1 col (mobile) → 2 cols (sm) → 3 cols (lg)
+        </p>
+      </div>
+      <GameGrid 
+        games={mockGames.slice(0, 6)} 
+        variant="featured"
+        showTitle={false}
+      />
+    </section>
+
+    <!-- Compact Grid: 2→3→4→6 columns -->
+    <section class="mb-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
+        <h2 class="text-2xl font-bold text-foreground mb-2">Compact Grid</h2>
+        <p class="text-muted-foreground">
+          Responsive: 2 cols (mobile) → 3 cols (sm) → 4 cols (md) → 6 cols (lg)
+        </p>
+      </div>
+      <GameGrid 
+        games={mockGames} 
+        variant="compact"
+        showTitle={false}
+      />
+    </section>
+
+    <!-- Grid with More Link -->
+    <section class="mb-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
+        <h2 class="text-2xl font-bold text-foreground mb-2">Grid with More Link</h2>
+        <p class="text-muted-foreground">
+          Testing the "More Games" button functionality
+        </p>
+      </div>
+      <GameGrid 
+        games={mockGames.slice(0, 8)} 
+        variant="standard"
+        title="Popular Games"
+        moreLink="/games/"
+      />
+    </section>
+
+    <!-- Responsive Breakpoint Indicator -->
+    <div class="fixed bottom-4 right-4 bg-primary text-primary-foreground px-4 py-2 rounded-lg text-sm font-mono shadow-lg z-50">
+      <div class="text-center">
+        <div class="font-semibold mb-1">Current Breakpoint:</div>
+        <div>
+          <span class="xs:hidden">Default (&lt;480px)</span>
+          <span class="hidden xs:inline sm:hidden">xs (480px+)</span>
+          <span class="hidden sm:inline md:hidden">sm (640px+)</span>
+          <span class="hidden md:inline lg:hidden">md (768px+)</span>
+          <span class="hidden lg:inline xl:hidden">lg (1024px+)</span>
+          <span class="hidden xl:inline 2xl:hidden">xl (1280px+)</span>
+          <span class="hidden 2xl:inline">2xl (1536px+)</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grid Classes Reference -->
+    <section class="bg-muted/50 py-8 mt-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-2xl font-bold text-foreground mb-6">Grid Classes Reference</h2>
+        <div class="grid gap-6 md:grid-cols-3">
+          <div class="bg-card p-4 rounded-lg border">
+            <h3 class="font-semibold text-card-foreground mb-2">Standard Grid</h3>
+            <code class="text-sm text-muted-foreground break-all">
+              grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5
+            </code>
+          </div>
+          <div class="bg-card p-4 rounded-lg border">
+            <h3 class="font-semibold text-card-foreground mb-2">Featured Grid</h3>
+            <code class="text-sm text-muted-foreground break-all">
+              grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3
+            </code>
+          </div>
+          <div class="bg-card p-4 rounded-lg border">
+            <h3 class="font-semibold text-card-foreground mb-2">Compact Grid</h3>
+            <code class="text-sm text-muted-foreground break-all">
+              grid gap-4 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6
+            </code>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>
+
+<style>
+  /* Additional styles for better visual testing */
+  .game-card {
+    min-height: 200px;
+  }
+  
+  /* Highlight grid containers for debugging */
+  .games-grid {
+    outline: 1px dashed rgba(168, 85, 247, 0.3);
+    outline-offset: 4px;
+  }
+</style>
+</Layout>

@@ -45,88 +45,174 @@ const getGameDescription = (description: string): string => {
   }
   return description
 }
+
+// 格式化分类名称
+const formatCategory = (category: string): string => {
+  const categoryNames: Record<string, string> = {
+    'popular': 'Popular',
+    'new': 'New Release',
+    'trending': 'Trending',
+    'featured': 'Featured',
+    'classic': 'Classic'
+  }
+  return categoryNames[category] || 'Music Creation'
+}
 ---
 
-{
-  variant === 'sidebar' && (
-    <a href={gameUrl} class="game-card game-card--sidebar game-card--glass">
-      <div class="game-card__image">
-        <img src={game.image} alt={game.title} />
-        <div class="game-card__overlay"></div>
-        <div class="game-card__content">
-          <h3 class="game-card__title">{game.title}</h3>
-        </div>
-      </div>
-    </a>
-  )
-}
-
-{
-  variant === 'grid' && (
-    <div class="game-card game-card-grid">
-      <div class="game-card-image">
-        <img src={game.image} alt={game.title} />
-        <div class="game-card-overlay">
-          <button class="game-card-play-button">
-            <i class="fas fa-play" />
+<!-- Grid variant (default) -->
+{variant === 'grid' && (
+  <div class="group rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+    <div class="p-0">
+      <div class="aspect-video relative overflow-hidden">
+        <img 
+          src={game.image} 
+          alt={game.title} 
+          class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" 
+        />
+        <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+          <button class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-white hover:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8">
+            <svg class="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+            Play Now
           </button>
         </div>
       </div>
-      <div class="game-card-content">
-        <h3 class="game-card-title">{game.title}</h3>
-        <p class="game-card-description">
+      <div class="p-4 space-y-3">
+        <h3 class="text-lg font-semibold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors">
+          {game.title}
+        </h3>
+        <p class="text-muted-foreground text-sm line-clamp-2">
           {getGameDescription(game.description)}
         </p>
+        <div class="flex items-center justify-between">
+          <div class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20">
+            {formatCategory(game.category)}
+          </div>
+          <a 
+            href={gameUrl}
+            class="text-primary hover:text-primary/80 text-sm font-medium transition-colors"
+          >
+            Learn More →
+          </a>
+        </div>
       </div>
     </div>
-  )
-}
+  </div>
+)}
 
-{
-  variant === 'featured' && (
-    <div class="game-card game-card--featured game-card--solid">
-      <div class="game-card__image">
-        <img src={game.image} alt={game.title} />
-        <div class="game-card__overlay">
-          <button class="game-card__play-button">
-            <i class="fas fa-play" />
+<!-- Featured variant -->
+{variant === 'featured' && (
+  <div class="group rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 overflow-hidden">
+    <div class="p-0">
+      <div class="aspect-[4/3] relative overflow-hidden">
+        <img 
+          src={game.image} 
+          alt={game.title} 
+          class="object-cover w-full h-full transition-transform duration-700 group-hover:scale-110" 
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-60 group-hover:opacity-80 transition-opacity duration-300"></div>
+        <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+          <button class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-white hover:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 scale-110">
+            <svg class="w-8 h-8 mr-3" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+            Play Game
           </button>
         </div>
+        <div class="absolute top-4 left-4 inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary text-primary-foreground hover:bg-primary/80 shadow-lg">
+          {formatCategory(game.category)}
+        </div>
       </div>
-      <div class="game-card__content">
-        <h3 class="game-card__title">{game.title}</h3>
-        <p class="game-card__description">
+      <div class="p-6 space-y-4">
+        <h3 class="text-xl font-bold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors">
+          {game.title}
+        </h3>
+        <p class="text-muted-foreground line-clamp-3">
           {getGameDescription(game.description)}
         </p>
+        <a 
+          href={gameUrl}
+          class="inline-flex items-center text-primary hover:text-primary/80 font-medium transition-colors"
+        >
+          Play Now 
+          <svg class="w-4 h-4 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
       </div>
     </div>
-  )
-}
+  </div>
+)}
 
-{
-  variant === 'trending' && (
-    <a href={gameUrl} class="game-card game-card--trending game-card--solid">
-      <div class="game-card__image">
-        <img src={game.image} alt={game.title} />
-        <div class="game-card__overlay"></div>
-        <div class="game-card__content">
-          <h3 class="game-card__title">{game.title}</h3>
+<!-- Sidebar variant -->
+{variant === 'sidebar' && (
+  <a href={gameUrl} class="block">
+    <div class="group rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-md transition-all duration-200 hover:scale-[1.02] overflow-hidden">
+      <div class="p-0">
+        <div class="aspect-video relative overflow-hidden">
+          <img 
+            src={game.image} 
+            alt={game.title} 
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105" 
+          />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-3">
+            <h3 class="text-white font-semibold text-sm line-clamp-2">
+              {game.title}
+            </h3>
+          </div>
         </div>
       </div>
-    </a>
-  )
-}
+    </div>
+  </a>
+)}
 
-{
-  variant === 'compact' && (
-    <a href={gameUrl} class="game-card game-card--compact game-card--glass">
-      <div class="game-card__image">
-        <img src={game.image} alt={game.title} />
-        <div class="game-card__overlay"></div>
-        <div class="game-card__content">
-          <h3 class="game-card__title">{game.title}</h3>
+<!-- Trending variant -->
+{variant === 'trending' && (
+  <a href={gameUrl} class="block">
+    <div class="group rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+      <div class="p-0">
+        <div class="aspect-video relative overflow-hidden">
+          <img 
+            src={game.image} 
+            alt={game.title} 
+            class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" 
+          />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute top-3 right-3 inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-red-500 text-white shadow-lg animate-pulse">
+            Trending
+          </div>
+          <div class="absolute bottom-0 left-0 right-0 p-4">
+            <h3 class="text-white font-bold text-base line-clamp-2 group-hover:text-primary-foreground transition-colors">
+              {game.title}
+            </h3>
+          </div>
         </div>
       </div>
-    </a>
-  )
-}
+    </div>
+  </a>
+)}
+
+<!-- Compact variant -->
+{variant === 'compact' && (
+  <a href={gameUrl} class="block">
+    <div class="group rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-md transition-all duration-200 hover:scale-[1.02] overflow-hidden">
+      <div class="p-0">
+        <div class="aspect-square relative overflow-hidden">
+          <img 
+            src={game.image} 
+            alt={game.title} 
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105" 
+          />
+          <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-2 bg-gradient-to-t from-black/80 to-transparent">
+            <h3 class="text-white font-medium text-xs line-clamp-2">
+              {game.title}
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+)}

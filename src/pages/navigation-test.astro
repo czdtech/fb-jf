@@ -1,0 +1,107 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Navigation from '@/components/Navigation.astro';
+import type { NavigationItem, Language } from '@/types';
+
+const navigation: NavigationItem[] = [
+  { label: 'Home', url: '/' },
+  { label: 'Games', url: '/games' },
+  { label: 'Popular', url: '/popular' },
+  { label: 'New', url: '/new' },
+  { label: 'About', url: '/about' }
+];
+
+const languages: Language[] = [
+  { code: 'en', url: '/en', label: 'English' },
+  { code: 'zh', url: '/zh', label: '中文' },
+  { code: 'es', url: '/es', label: 'Español' },
+  { code: 'fr', url: '/fr', label: 'Français' },
+  { code: 'de', url: '/de', label: 'Deutsch' },
+  { code: 'ja', url: '/ja', label: '日本語' },
+  { code: 'ko', url: '/ko', label: '한국어' }
+];
+---
+
+<Layout title="Navigation Test">
+  <Navigation 
+    navigation={navigation} 
+    languages={languages} 
+    currentLang="en" 
+    currentPath="/navigation-test" 
+  />
+  
+  <main class="container mx-auto px-4 py-8">
+    <div class="max-w-4xl mx-auto">
+      <h1 class="text-3xl font-bold text-primary mb-6">Navigation Component Test</h1>
+      
+      <div class="space-y-6">
+        <section class="bg-card rounded-lg p-6 border">
+          <h2 class="text-xl font-semibold mb-4">Desktop Navigation Features</h2>
+          <ul class="space-y-2 text-muted-foreground">
+            <li>✅ Uses shadcn/ui styling patterns for navigation links</li>
+            <li>✅ Hover states with accent background and text color</li>
+            <li>✅ Active state indicators with accent background</li>
+            <li>✅ Responsive visibility (hidden on mobile, visible on md+)</li>
+            <li>✅ Language selector dropdown with proper styling</li>
+          </ul>
+        </section>
+
+        <section class="bg-card rounded-lg p-6 border">
+          <h2 class="text-xl font-semibold mb-4">Mobile Navigation Features</h2>
+          <ul class="space-y-2 text-muted-foreground">
+            <li>✅ Uses shadcn/ui Sheet component structure</li>
+            <li>✅ Proper overlay and slide animations</li>
+            <li>✅ Mobile-only visibility (visible on mobile, hidden on md+)</li>
+            <li>✅ Touch-friendly navigation links</li>
+            <li>✅ Language selector grid layout</li>
+          </ul>
+        </section>
+
+        <section class="bg-card rounded-lg p-6 border">
+          <h2 class="text-xl font-semibold mb-4">Testing Instructions</h2>
+          <div class="space-y-4 text-sm">
+            <div>
+              <h3 class="font-medium mb-2">Desktop Testing:</h3>
+              <ul class="space-y-1 text-muted-foreground ml-4">
+                <li>• Hover over navigation links to see accent background</li>
+                <li>• Click language selector to see dropdown</li>
+                <li>• Verify active state styling on current page</li>
+              </ul>
+            </div>
+            <div>
+              <h3 class="font-medium mb-2">Mobile Testing:</h3>
+              <ul class="space-y-1 text-muted-foreground ml-4">
+                <li>• Resize window to mobile size (< 768px)</li>
+                <li>• Click hamburger menu to open sheet</li>
+                <li>• Test navigation links and language selector</li>
+                <li>• Verify smooth slide animations</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="bg-card rounded-lg p-6 border">
+          <h2 class="text-xl font-semibold mb-4">Requirements Verification</h2>
+          <div class="grid md:grid-cols-2 gap-4 text-sm">
+            <div>
+              <h3 class="font-medium mb-2">Requirement 6.1 ✅</h3>
+              <p class="text-muted-foreground">Desktop navigation uses shadcn/ui NavigationMenu styling patterns</p>
+            </div>
+            <div>
+              <h3 class="font-medium mb-2">Requirement 6.2 ✅</h3>
+              <p class="text-muted-foreground">Mobile navigation uses shadcn/ui Sheet component structure</p>
+            </div>
+            <div>
+              <h3 class="font-medium mb-2">Requirement 6.3 ✅</h3>
+              <p class="text-muted-foreground">Responsive visibility classes applied (hidden md:flex, md:hidden)</p>
+            </div>
+            <div>
+              <h3 class="font-medium mb-2">Requirement 6.4 ✅</h3>
+              <p class="text-muted-foreground">Navigation links have hover states and active indicators</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</Layout>

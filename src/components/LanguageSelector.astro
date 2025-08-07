@@ -1,0 +1,88 @@
+---
+import LanguageSelectorReact from './LanguageSelectorReact.tsx'
+
+interface Props {
+  currentPath?: string
+  className?: string
+}
+
+const { currentPath = '', className = '' } = Astro.props
+
+// Detect current language from URL path
+const url = new URL(Astro.request.url)
+const pathSegments = url.pathname.split('/').filter(Boolean)
+const currentLang = pathSegments[0] && ['zh', 'es', 'fr', 'de', 'ja', 'ko'].includes(pathSegments[0]) 
+  ? pathSegments[0] 
+  : 'en'
+
+// Get the current page path without language prefix
+const currentPagePath = currentLang === 'en' 
+  ? url.pathname 
+  : url.pathname.replace(`/${currentLang}`, '') || '/'
+
+// Language configuration with proper labels and flags
+const languages = [
+  { code: 'en', label: 'English', flag: '🇺🇸', path: currentPagePath === '/' ? '/' : currentPagePath },
+  { code: 'zh', label: '简体中文', flag: '🇨🇳', path: `/zh${currentPagePath}` },
+  { code: 'es', label: 'Español', flag: '🇪🇸', path: `/es${currentPagePath}` },
+  { code: 'fr', label: 'Français', flag: '🇫🇷', path: `/fr${currentPagePath}` },
+  { code: 'de', label: 'Deutsch', flag: '🇩🇪', path: `/de${currentPagePath}` },
+  { code: 'ja', label: '日本語', flag: '🇯🇵', path: `/ja${currentPagePath}` },
+  { code: 'ko', label: '한국어', flag: '🇰🇷', path: `/ko${currentPagePath}` }
+]
+
+const currentLanguage = languages.find(lang => lang.code === currentLang) || languages[0]
+---
+
+<div class={`language-selector ${className}`}>
+  <LanguageSelectorReact 
+    client:load
+    currentLang={currentLang}
+    languages={languages}
+    currentLanguage={currentLanguage}
+  />
+</div>
+
+<script>
+  // Handle language selection
+  document.addEventListener('DOMContentLoaded', () => {
+    const languageSelector = document.querySelector('.language-selector')
+    if (!languageSelector) return
+
+    // Handle clicks on language options
+    languageSelector.addEventListener('click', (e) => {
+      const target = e.target as HTMLElement
+      const link = target.closest('a[data-lang]') as HTMLAnchorElement
+      
+      if (link) {
+        e.preventDefault()
+        const newPath = link.getAttribute('href')
+        if (newPath) {
+          window.location.href = newPath
+        }
+      }
+    })
+  })
+</script>
+
+<style>
+  .language-selector {
+    /* Ensure proper z-index for dropdown */
+    position: relative;
+    z-index: 50;
+  }
+  
+  /* Custom styling for language options */
+  .language-selector a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+  }
+  
+  .language-selector a:hover {
+    color: inherit;
+  }
+</style>

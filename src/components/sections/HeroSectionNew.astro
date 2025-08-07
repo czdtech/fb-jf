@@ -1,0 +1,161 @@
+---
+import { Card, CardContent } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import GameGrid from '@/components/GameGrid.astro';
+import GameIframe from '@/components/GameIframe.astro';
+
+interface Props {
+  hero: {
+    title: string;
+    description: string;
+    mainGame: {
+      iframe: string;
+      backgroundImage: string;
+    };
+  };
+  games: {
+    new: any[];
+    popular: any[];
+    trending: any[];
+  };
+}
+
+const { hero, games } = Astro.props;
+
+// Transform games data to match Game interface
+const transformGame = (game: any) => ({
+  id: game.slug,
+  slug: game.slug,
+  title: game.title,
+  description: game.description || '',
+  image: game.image,
+  iframe: game.iframe || '',
+  category: game.category,
+  meta: {
+    title: game.title,
+    description: game.description || '',
+    canonical: `/${game.slug}`,
+    ogImage: game.image
+  }
+});
+
+const featuredGames = games.popular.slice(0, 3).map(transformGame);
+const newGames = games.new.slice(0, 6).map(transformGame);
+const trendingGames = games.trending.slice(0, 8).map(transformGame);
+
+// Create a main game object for the iframe
+const mainGame = {
+  id: 'fiddlebops-main',
+  slug: 'fiddlebops',
+  title: 'FiddleBops',
+  description: 'Create amazing music with FiddleBops!',
+  image: hero.mainGame.backgroundImage,
+  iframe: hero.mainGame.iframe,
+  category: 'featured' as const,
+  meta: {
+    title: 'FiddleBops - Music Creation Game',
+    description: 'Create amazing music with FiddleBops!',
+    canonical: '/',
+    ogImage: hero.mainGame.backgroundImage
+  }
+};
+---
+
+<!-- Clean Hero Section with shadcn/ui -->
+<section class="relative min-h-screen bg-gradient-to-br from-primary/5 via-background to-primary/10">
+  <div class="container mx-auto px-4 py-16 lg:py-24">
+    
+    <!-- Hero Header -->
+    <div class="text-center mb-16 space-y-6">
+      <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
+        {hero.title}
+      </h1>
+      <p class="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+        {hero.description}
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <Button size="lg" class="text-lg px-8 py-6 rounded-full">
+          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M8 5v14l11-7z"/>
+          </svg>
+          Play Now
+        </Button>
+        <Button variant="outline" size="lg" class="text-lg px-8 py-6 rounded-full">
+          Learn More
+        </Button>
+      </div>
+    </div>
+
+    <!-- Main Game Section -->
+    <div class="mb-20">
+      <Card class="overflow-hidden shadow-2xl border-primary/20">
+        <CardContent class="p-0">
+          <div class="aspect-video bg-gradient-to-br from-primary/10 to-primary/5">
+            <GameIframe game={mainGame} autoLoad={false} />
+          </div>
+        </CardContent>
+      </Card>
+    </div>
+
+    <!-- Featured Games Section -->
+    {featuredGames.length > 0 && (
+      <div class="mb-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+            🔥 Featured Games
+          </h2>
+          <p class="text-muted-foreground text-lg">
+            Discover our most popular music creation experiences
+          </p>
+        </div>
+        <GameGrid 
+          games={featuredGames} 
+          variant="featured" 
+          showTitle={false}
+          className="mb-8"
+        />
+      </div>
+    )}
+
+    <!-- New Games Section -->
+    {newGames.length > 0 && (
+      <div class="mb-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+            ✨ New Releases
+          </h2>
+          <p class="text-muted-foreground text-lg">
+            Fresh beats and new ways to create music
+          </p>
+        </div>
+        <GameGrid 
+          games={newGames} 
+          variant="standard" 
+          showTitle={false}
+          className="mb-8"
+        />
+      </div>
+    )}
+
+    <!-- Trending Games Section -->
+    {trendingGames.length > 0 && (
+      <div class="mb-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+            📈 Trending Now
+          </h2>
+          <p class="text-muted-foreground text-lg">
+            What everyone's playing right now
+          </p>
+        </div>
+        <GameGrid 
+          games={trendingGames} 
+          variant="compact" 
+          showTitle={false}
+          moreLink="/games"
+        />
+      </div>
+    )}
+
+  </div>
+</section>

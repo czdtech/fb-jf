@@ -1,5 +1,8 @@
 ---
+import type { Game } from '@/types';
+
 export interface Props {
+  game?: Game;
   id?: string;
   src?: string;
   backgroundImage?: string;
@@ -8,14 +11,17 @@ export interface Props {
   gameDescription?: string;
 }
 
+const { game, ...props } = Astro.props;
+
+// If game object is provided, use its properties
 const {
-  id = "Fiddlebops-iframe",
-  src = "",
-  backgroundImage = "/tw.jpg",
+  id = game?.id || "Fiddlebops-iframe",
+  src = game?.iframe || "",
+  backgroundImage = game?.image || "/tw.jpg",
   autoLoad = false,
-  gameTitle = "FiddleBops - A Musical Creation Game",
-  gameDescription = "Interactive music creation interface based on Incredibox"
-} = Astro.props;
+  gameTitle = game?.title || "FiddleBops - A Musical Creation Game",
+  gameDescription = game?.description || "Interactive music creation interface based on Incredibox"
+} = props;
 ---
 
 <div class="game-iframe-sprunki" style={`background-image: url(${backgroundImage})`}>

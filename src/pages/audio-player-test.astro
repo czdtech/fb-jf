@@ -1,0 +1,60 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import AudioPlayer from '@/components/AudioPlayer.astro';
+---
+
+<Layout title="Audio Player Test">
+  <main class="container mx-auto px-4 py-8 space-y-8">
+    <h1 class="text-3xl font-bold text-center mb-8">Audio Player Test</h1>
+    
+    <div class="max-w-2xl mx-auto space-y-6">
+      <h2 class="text-xl font-semibold">Audio Player with Slider</h2>
+      <AudioPlayer 
+        audioSrc="/beat1.wav"
+        title="Beat Sample 1"
+        showProgress={true}
+        useSlider={true}
+      />
+      
+      <h2 class="text-xl font-semibold">Audio Player with Fallback Progress Bar</h2>
+      <AudioPlayer 
+        audioSrc="/beat3.wav"
+        title="Beat Sample 3"
+        showProgress={true}
+        useSlider={false}
+      />
+      
+      <h2 class="text-xl font-semibold">Simple Audio Player (No Progress)</h2>
+      <AudioPlayer 
+        audioSrc="/beat5.wav"
+        title="Beat Sample 5"
+        showProgress={false}
+      />
+      
+      <h2 class="text-xl font-semibold">Multiple Players</h2>
+      <div class="grid gap-4">
+        <AudioPlayer 
+          audioSrc="/voice2.wav"
+          title="Voice Sample 2"
+          showProgress={true}
+        />
+        <AudioPlayer 
+          audioSrc="/voice3.wav"
+          title="Voice Sample 3"
+          showProgress={true}
+        />
+        <AudioPlayer 
+          audioSrc="/voice5.wav"
+          title="Voice Sample 5"
+          showProgress={true}
+        />
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .container {
+    max-width: 1200px;
+  }
+</style>

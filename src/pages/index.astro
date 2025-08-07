@@ -1,19 +1,17 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro'
-import Header from '@/components/Header.astro'
+import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 
-// 导入Section组件
-import HeroSection from '@/components/sections/HeroSection.astro'
+// Import new clean sections with shadcn/ui
+import HeroSectionNew from '@/components/sections/HeroSectionNew.astro'
 import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
 import AboutSection from '@/components/sections/AboutSection.astro'
 import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
 
-// Hero设计系统已整合至 components.css
-
-// 导入数据
+// Import data
 import { getCollection } from 'astro:content';
 import extractedData from '@/data/extracted-data.json'
 
@@ -55,16 +53,16 @@ const structuredData = {
   hreflang={hreflangLinks}
   structuredData={structuredData}
 >
-  <Header
+  <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"
     currentPath="/"
   />
 
-  <main>
-    <!-- Hero Section -->
-    <HeroSection hero={homepage.hero} games={games} />
+  <main class="min-h-screen">
+    <!-- Clean Hero Section with shadcn/ui components -->
+    <HeroSectionNew hero={homepage.hero} games={games} />
 
     <!-- How to Play Section -->
     <HowToPlaySection />
@@ -119,45 +117,14 @@ const structuredData = {
 </script>
 
 <style>
-  /* ==========================================================================
-   首页特定样式 - 基于新设计系统
-   ========================================================================== */
-
-  /* ==========================================================================
-   统一页面背景
-   ========================================================================== */
-
-  body {
-    /* 应用Hero背景设计到整个页面 */
-    background: var(--hero-main-bg);
-    min-height: 100vh;
-    position: relative;
-  }
-
-  body::before {
-    /* 页面级装饰纹理 */
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: var(--hero-texture-bg);
-    opacity: var(--hero-texture-opacity);
-    pointer-events: none;
-    z-index: -1;
-  }
-
-  /* ==========================================================================
-   简洁响应式设计 - 游戏网站专用
-   ========================================================================== */
-
-  /* 防止字体加载跳动 */
+  /* Minimal custom styles - most styling now handled by Tailwind utilities */
+  
+  /* Font loading optimization */
   * {
     font-display: swap;
   }
 
-  /* 图片预设尺寸防止布局偏移 */
+  /* Image optimization */
   img {
     max-width: 100%;
     height: auto;
@@ -169,19 +136,12 @@ const structuredData = {
     object-fit: cover;
   }
 
-  /* 动画增强 */
-  .music-element:hover {
-    animation: none !important;
-  }
-
+  /* Scroll animations using Tailwind-compatible approach */
   .scroll-animate {
-    opacity: 0;
-    transform: translateY(30px);
-    transition: all var(--duration-700) var(--ease-out);
+    @apply opacity-0 translate-y-8 transition-all duration-700 ease-out;
   }
 
   .scroll-animate.animate {
-    opacity: 1;
-    transform: translateY(0);
+    @apply opacity-100 translate-y-0;
   }
 </style>

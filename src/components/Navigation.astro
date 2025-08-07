@@ -1,0 +1,192 @@
+---
+import type { NavigationItem, Language } from '@/types';
+import { Button } from '@/components/ui/button';
+import LanguageSelector from './LanguageSelector.astro';
+
+export interface Props {
+  navigation: NavigationItem[];
+  languages: Language[];
+  currentLang?: string;
+  currentPath?: string;
+}
+
+const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.props;
+---
+
+<header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+  <div class="container flex h-16 items-center">
+    <!-- Logo -->
+    <a href="/" class="mr-6 flex items-center space-x-2">
+      <span class="text-xl font-bold text-primary">FiddleBops</span>
+    </a>
+    
+    <!-- Desktop Navigation using shadcn/ui NavigationMenu -->
+    <div class="hidden md:flex">
+      <nav class="flex items-center space-x-1">
+        {navigation.map((item) => (
+          <a 
+            href={item.url} 
+            class={`inline-flex h-10 w-max items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground focus:outline-none disabled:pointer-events-none disabled:opacity-50 ${
+              currentPath === item.url 
+                ? 'bg-accent text-accent-foreground font-semibold' 
+                : 'text-muted-foreground'
+            }`}
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+    </div>
+
+    <div class="flex flex-1 items-center justify-end space-x-4">
+      <!-- Desktop Language Selector -->
+      <div class="hidden md:flex">
+        <LanguageSelector currentPath={currentPath} />
+      </div>
+
+      <!-- Mobile Menu Toggle -->
+      <Button
+        variant="ghost"
+        size="icon"
+        class="md:hidden"
+        id="mobileMenuTrigger"
+        aria-label="Toggle Navigation"
+        aria-expanded="false"
+      >
+        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </Button>
+    </div>
+  </div>
+</header>
+
+<!-- Mobile Navigation Sheet using shadcn/ui Sheet -->
+<div 
+  id="mobileSheet"
+  class="fixed inset-0 z-50 hidden"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="mobile-menu-title"
+>
+  <!-- Overlay -->
+  <div 
+    id="mobileOverlay"
+    class="fixed inset-0 z-50 bg-black/80 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0"
+  ></div>
+  
+  <!-- Sheet Content -->
+  <div 
+    id="mobileContent"
+    class="fixed z-50 gap-4 bg-background p-6 shadow-lg transition ease-in-out data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:duration-300 data-[state=open]:duration-500 inset-y-0 left-0 h-full w-3/4 border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left sm:max-w-sm"
+  >
+    <!-- Close Button -->
+    <button 
+      id="mobileCloseButton"
+      class="absolute right-4 top-4 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:pointer-events-none data-[state=open]:bg-secondary"
+    >
+      <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+      <span class="sr-only">Close</span>
+    </button>
+
+    <!-- Mobile Navigation Content -->
+    <div class="flex flex-col space-y-6 mt-8">
+      <!-- Navigation Section -->
+      <div>
+        <h2 id="mobile-menu-title" class="text-lg font-semibold text-foreground mb-4">Navigation</h2>
+        <nav class="flex flex-col space-y-3">
+          {navigation.map((item) => (
+            <a 
+              href={item.url}
+              class={`flex items-center space-x-3 rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground ${
+                currentPath === item.url 
+                  ? 'bg-accent text-accent-foreground font-semibold' 
+                  : 'text-muted-foreground'
+              }`}
+            >
+              <span class="text-lg">🎵</span>
+              <span>{item.label}</span>
+            </a>
+          ))}
+        </nav>
+      </div>
+
+      <!-- Language Section -->
+      <div>
+        <h3 class="text-lg font-semibold text-foreground mb-4">Language</h3>
+        <div class="flex justify-center">
+          <LanguageSelector currentPath={currentPath} className="w-full" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  // Mobile menu functionality
+  const mobileMenuTrigger = document.getElementById('mobileMenuTrigger');
+  const mobileSheet = document.getElementById('mobileSheet');
+  const mobileOverlay = document.getElementById('mobileOverlay');
+  const mobileContent = document.getElementById('mobileContent');
+  const mobileCloseButton = document.getElementById('mobileCloseButton');
+  const body = document.body;
+
+  function openMobileMenu() {
+    if (mobileSheet && mobileContent) {
+      mobileSheet.classList.remove('hidden');
+      mobileContent.setAttribute('data-state', 'open');
+      mobileOverlay.setAttribute('data-state', 'open');
+      mobileMenuTrigger.setAttribute('aria-expanded', 'true');
+      body.style.overflow = 'hidden';
+    }
+  }
+
+  function closeMobileMenu() {
+    if (mobileSheet && mobileContent) {
+      mobileContent.setAttribute('data-state', 'closed');
+      mobileOverlay.setAttribute('data-state', 'closed');
+      mobileMenuTrigger.setAttribute('aria-expanded', 'false');
+      body.style.overflow = '';
+      
+      // Hide after animation
+      setTimeout(() => {
+        mobileSheet.classList.add('hidden');
+      }, 300);
+    }
+  }
+
+  if (mobileMenuTrigger) {
+    mobileMenuTrigger.addEventListener('click', openMobileMenu);
+  }
+
+  if (mobileCloseButton) {
+    mobileCloseButton.addEventListener('click', closeMobileMenu);
+  }
+
+  if (mobileOverlay) {
+    mobileOverlay.addEventListener('click', closeMobileMenu);
+  }
+
+  // Close mobile menu with escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !mobileSheet.classList.contains('hidden')) {
+      closeMobileMenu();
+    }
+  });
+
+  // Close mobile menu when navigation link is clicked
+  const mobileNavLinks = document.querySelectorAll('#mobileContent a[href]');
+  mobileNavLinks.forEach(link => {
+    link.addEventListener('click', () => {
+      setTimeout(closeMobileMenu, 150);
+    });
+  });
+
+});
+</script>
