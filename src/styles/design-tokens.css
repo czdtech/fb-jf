@@ -7,7 +7,7 @@
   /* ==========================================================================
      色彩系统 - 基于音乐创作的动感特质
      ========================================================================== */
-  
+
   /* 主色调 - 音乐紫 */
   --color-primary-50: #faf5ff;
   --color-primary-100: #f3e8ff;
@@ -66,50 +66,103 @@
   --color-gray-950: #030712;
 
   /* 渐变色系 - 创意光谱 */
-  --gradient-primary: linear-gradient(135deg, var(--color-primary-600) 0%, var(--color-secondary-pink) 100%);
-  --gradient-secondary: linear-gradient(135deg, var(--color-secondary-cyan) 0%, var(--color-primary-600) 100%);
-  --gradient-tertiary: linear-gradient(135deg, var(--color-secondary-emerald) 0%, var(--color-secondary-cyan) 100%);
-  --gradient-warm: linear-gradient(135deg, var(--color-secondary-orange) 0%, var(--color-secondary-pink) 100%);
-  --gradient-cool: linear-gradient(135deg, var(--color-secondary-cyan) 0%, var(--color-primary-500) 100%);
+  --gradient-primary: linear-gradient(
+    135deg,
+    var(--color-primary-600) 0%,
+    var(--color-secondary-pink) 100%
+  );
+  --gradient-secondary: linear-gradient(
+    135deg,
+    var(--color-secondary-cyan) 0%,
+    var(--color-primary-600) 100%
+  );
+  --gradient-tertiary: linear-gradient(
+    135deg,
+    var(--color-secondary-emerald) 0%,
+    var(--color-secondary-cyan) 100%
+  );
+  --gradient-warm: linear-gradient(
+    135deg,
+    var(--color-secondary-orange) 0%,
+    var(--color-secondary-pink) 100%
+  );
+  --gradient-cool: linear-gradient(
+    135deg,
+    var(--color-secondary-cyan) 0%,
+    var(--color-primary-500) 100%
+  );
+
+  /* 游戏分类渐变 - 替换硬编码颜色 */
+  --gradient-popular: linear-gradient(
+    135deg,
+    #fde68a 0%,
+    var(--color-secondary-orange) 100%
+  );
+  --gradient-new: linear-gradient(
+    135deg,
+    #a7f3d0 0%,
+    var(--color-secondary-emerald) 100%
+  );
+  --gradient-trending: linear-gradient(
+    135deg,
+    #bfdbfe 0%,
+    var(--color-info-500) 100%
+  );
+  --gradient-featured: linear-gradient(
+    135deg,
+    #ddd6fe 0%,
+    var(--color-primary-500) 100%
+  );
+  --gradient-classic: linear-gradient(
+    135deg,
+    #fecaca 0%,
+    var(--color-error-500) 100%
+  );
+
+  /* 游戏分类发光效果 */
+  --glow-popular: rgba(245, 158, 11, 0.5);
+  --glow-new: rgba(16, 185, 129, 0.5);
+  --glow-trending: rgba(59, 130, 246, 0.5);
+  --glow-featured: rgba(168, 85, 247, 0.5);
+  --glow-classic: rgba(239, 68, 68, 0.5);
 
   /* 玻璃拟态效果 */
   --glass-bg: rgba(255, 255, 255, 0.1);
   --glass-bg-strong: rgba(255, 255, 255, 0.2);
   --glass-border: rgba(255, 255, 255, 0.3);
+  --glass-border-strong: rgba(255, 255, 255, 0.4);
   --glass-backdrop: blur(20px);
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
 
   /* ==========================================================================
      排版系统 - 现代无衬线字体系统
      ========================================================================== */
-  
+
   /* 字体家族 */
-  --font-family-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-  --font-family-mono: 'Fira Code', 'Monaco', 'Consolas', 'Courier New', monospace;
-  --font-family-display: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-family-primary: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --font-family-mono: "Fira Code", "Monaco", "Consolas", "Courier New",
+    monospace;
+  --font-family-display: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
 
-  /* 字体大小 - 基于 1.25 Major Third 比例 */
-  --font-size-xs: 0.75rem;      /* 12px */
-  --font-size-sm: 0.875rem;     /* 14px */
-  --font-size-base: 1rem;       /* 16px */
-  --font-size-lg: 1.125rem;     /* 18px */
-  --font-size-xl: 1.25rem;      /* 20px */
-  --font-size-2xl: 1.5rem;      /* 24px */
-  --font-size-3xl: 1.875rem;    /* 30px */
-  --font-size-4xl: 2.25rem;     /* 36px */
-  --font-size-5xl: 3rem;        /* 48px */
-  --font-size-6xl: 3.75rem;     /* 60px */
-  --font-size-7xl: 4.5rem;      /* 72px */
-  --font-size-8xl: 6rem;        /* 96px */
-  --font-size-9xl: 8rem;        /* 128px */
+  /* 字体大小 - 基于 1.25 Major Third 比例 (优化后的8种核心大小) */
+  --font-size-xs: 0.75rem; /* 12px - 辅助信息 */
+  --font-size-sm: 0.875rem; /* 14px - 小文本 (高频使用) */
+  --font-size-base: 1rem; /* 16px - 正文 (高频使用) */
+  --font-size-lg: 1.125rem; /* 18px - 大正文 (高频使用) */
+  --font-size-xl: 1.25rem; /* 20px - 小标题 */
+  --font-size-2xl: 1.5rem; /* 24px - 中标题 (高频使用) */
+  --font-size-3xl: 1.875rem; /* 30px - 大标题 */
+  --font-size-4xl: 2.25rem; /* 36px - 主标题 */
 
-  /* 标题系统 */
-  --font-size-h1: var(--font-size-5xl);
-  --font-size-h2: var(--font-size-4xl);
-  --font-size-h3: var(--font-size-3xl);
-  --font-size-h4: var(--font-size-2xl);
-  --font-size-h5: var(--font-size-xl);
-  --font-size-h6: var(--font-size-lg);
+  /* 标题系统 - 映射到核心字体大小 */
+  --font-size-h1: var(--font-size-4xl); /* 36px - 调整为实际使用的最大标题 */
+  --font-size-h2: var(--font-size-3xl); /* 30px */
+  --font-size-h3: var(--font-size-2xl); /* 24px */
+  --font-size-h4: var(--font-size-xl); /* 20px */
+  --font-size-h5: var(--font-size-lg); /* 18px */
+  --font-size-h6: var(--font-size-base); /* 16px */
 
   /* 字重系统 */
   --font-weight-thin: 100;
@@ -139,45 +192,100 @@
   --letter-spacing-widest: 0.1em;
 
   /* ==========================================================================
+     响应式字体缩放系统 - Apple式设计
+     ========================================================================== */
+
+  /* 字体缩放系数 */
+  --font-scale-desktop: 1;
+  --font-scale-tablet: 0.9375; /* 15/16 = 93.75% */
+  --font-scale-mobile: 0.875; /* 14/16 = 87.5% */
+  --font-scale-small: 0.8125; /* 13/16 = 81.25% */
+
+  /* 语义化字体大小 - 桌面端基准 */
+  --font-size-display: var(--font-size-4xl); /* 36px - 主要标题 */
+  --font-size-heading: var(--font-size-3xl); /* 30px - 区块标题 */
+  --font-size-subheading: var(--font-size-2xl); /* 24px - 子标题 */
+  --font-size-body-large: var(--font-size-lg); /* 18px - 大正文 */
+  --font-size-body: var(--font-size-base); /* 16px - 正文 */
+  --font-size-body-small: var(--font-size-sm); /* 14px - 小正文 */
+  --font-size-caption: var(--font-size-xs); /* 12px - 说明文字 */
+
+  /* ==========================================================================
      空间系统 - 基于 8px 网格系统
      ========================================================================== */
-  
-  /* 基础间距单位 */
+
+  /* ==========================================================================
+     基础间距单位 - 基于4px网格系统
+     ========================================================================== */
+
+  /* 核心间距变量 */
   --space-0: 0;
   --space-px: 1px;
-  --space-0-5: 0.125rem;        /* 2px */
-  --space-1: 0.25rem;           /* 4px */
-  --space-1-5: 0.375rem;        /* 6px */
-  --space-2: 0.5rem;            /* 8px */
-  --space-2-5: 0.625rem;        /* 10px */
-  --space-3: 0.75rem;           /* 12px */
-  --space-3-5: 0.875rem;        /* 14px */
-  --space-4: 1rem;              /* 16px */
-  --space-5: 1.25rem;           /* 20px */
-  --space-6: 1.5rem;            /* 24px */
-  --space-7: 1.75rem;           /* 28px */
-  --space-8: 2rem;              /* 32px */
-  --space-9: 2.25rem;           /* 36px */
-  --space-10: 2.5rem;           /* 40px */
-  --space-11: 2.75rem;          /* 44px */
-  --space-12: 3rem;             /* 48px */
-  --space-14: 3.5rem;           /* 56px */
-  --space-16: 4rem;             /* 64px */
-  --space-20: 5rem;             /* 80px */
-  --space-24: 6rem;             /* 96px */
-  --space-28: 7rem;             /* 112px */
-  --space-32: 8rem;             /* 128px */
-  --space-36: 9rem;             /* 144px */
-  --space-40: 10rem;            /* 160px */
-  --space-44: 11rem;            /* 176px */
-  --space-48: 12rem;            /* 192px */
-  --space-52: 13rem;            /* 208px */
-  --space-56: 14rem;            /* 224px */
-  --space-60: 15rem;            /* 240px */
-  --space-64: 16rem;            /* 256px */
-  --space-72: 18rem;            /* 288px */
-  --space-80: 20rem;            /* 320px */
-  --space-96: 24rem;            /* 384px */
+  --space-0-5: 0.125rem; /* 2px */
+  --space-1: 0.25rem; /* 4px */
+  --space-1-5: 0.375rem; /* 6px */
+  --space-2: 0.5rem; /* 8px */
+  --space-2-5: 0.625rem; /* 10px */
+  --space-3: 0.75rem; /* 12px */
+  --space-3-5: 0.875rem; /* 14px */
+  --space-4: 1rem; /* 16px */
+  --space-5: 1.25rem; /* 20px */
+  --space-6: 1.5rem; /* 24px */
+  --space-7: 1.75rem; /* 28px */
+  --space-8: 2rem; /* 32px */
+  --space-9: 2.25rem; /* 36px */
+  --space-10: 2.5rem; /* 40px */
+  --space-11: 2.75rem; /* 44px */
+  --space-12: 3rem; /* 48px */
+  --space-14: 3.5rem; /* 56px */
+  --space-16: 4rem; /* 64px */
+  --space-20: 5rem; /* 80px */
+  --space-24: 6rem; /* 96px */
+  --space-28: 7rem; /* 112px */
+  --space-32: 8rem; /* 128px */
+  --space-36: 9rem; /* 144px */
+  --space-40: 10rem; /* 160px */
+  --space-44: 11rem; /* 176px */
+  --space-48: 12rem; /* 192px */
+  --space-52: 13rem; /* 208px */
+  --space-56: 14rem; /* 224px */
+  --space-60: 15rem; /* 240px */
+  --space-64: 16rem; /* 256px */
+  --space-72: 18rem; /* 288px */
+  --space-80: 20rem; /* 320px */
+  --space-96: 24rem; /* 384px */
+
+  /* ==========================================================================
+     语义化间距变量 - Apple式设计系统
+     ========================================================================== */
+
+  /* 响应式间距缩放系数 */
+  --spacing-scale-desktop: 1;
+  --spacing-scale-tablet: 0.8;
+  --spacing-scale-mobile: 0.6;
+  --spacing-scale-small: 0.5;
+
+  /* 语义化间距 - 桌面端基准 */
+  --space-micro: var(--space-1); /* 4px - 细节间距 */
+  --space-tiny: var(--space-2); /* 8px - 最小间距 */
+  --space-small: var(--space-3); /* 12px - 紧密相关元素 */
+  --space-base: var(--space-4); /* 16px - 基础间距 */
+  --space-medium: var(--space-6); /* 24px - 相关元素 */
+  --space-large: var(--space-8); /* 32px - 区块间距 */
+  --space-xlarge: var(--space-12); /* 48px - 主要区块 */
+  --space-xxlarge: var(--space-16); /* 64px - 页面级间距 */
+
+  /* 组件特定间距 */
+  --space-component-padding: var(--space-base);
+  --space-section-margin: var(--space-xlarge);
+  --space-element-gap: var(--space-small);
+  --space-card-padding: var(--space-base);
+  --space-grid-gap: var(--space-medium);
+
+  /* 移动端最小间距保证 */
+  --min-touch-target: 44px;
+  --min-content-padding: var(--space-base);
+  --min-element-gap: var(--space-small);
 
   /* 容器系统 */
   --container-sm: 640px;
@@ -189,7 +297,7 @@
   /* ==========================================================================
      边框和圆角系统
      ========================================================================== */
-  
+
   /* 边框宽度 */
   --border-width-0: 0px;
   --border-width-1: 1px;
@@ -199,24 +307,27 @@
 
   /* 圆角系统 */
   --border-radius-none: 0px;
-  --border-radius-sm: 0.125rem;    /* 2px */
-  --border-radius-base: 0.25rem;   /* 4px */
-  --border-radius-md: 0.375rem;    /* 6px */
-  --border-radius-lg: 0.5rem;      /* 8px */
-  --border-radius-xl: 0.75rem;     /* 12px */
-  --border-radius-2xl: 1rem;       /* 16px */
-  --border-radius-3xl: 1.5rem;     /* 24px */
+  --border-radius-sm: 0.125rem; /* 2px */
+  --border-radius-base: 0.25rem; /* 4px */
+  --border-radius-md: 0.375rem; /* 6px */
+  --border-radius-lg: 0.5rem; /* 8px */
+  --border-radius-xl: 0.75rem; /* 12px */
+  --border-radius-2xl: 1rem; /* 16px */
+  --border-radius-3xl: 1.5rem; /* 24px */
   --border-radius-full: 9999px;
 
   /* ==========================================================================
      阴影系统
      ========================================================================== */
-  
+
   --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   --shadow-base: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
-  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
   --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
   --shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
   --shadow-none: 0 0 rgba(0, 0, 0, 0);
@@ -229,7 +340,7 @@
   /* ==========================================================================
      动效系统
      ========================================================================== */
-  
+
   /* 动效时长 */
   --duration-75: 75ms;
   --duration-100: 100ms;
@@ -255,7 +366,7 @@
   /* ==========================================================================
      Z-Index 层级系统
      ========================================================================== */
-  
+
   --z-index-0: 0;
   --z-index-10: 10;
   --z-index-20: 20;
@@ -272,14 +383,149 @@
   --z-index-toast: 1080;
 
   /* ==========================================================================
-     断点系统
+     断点系统 - 增强的响应式断点
      ========================================================================== */
-  
-  --breakpoint-sm: 640px;
-  --breakpoint-md: 768px;
-  --breakpoint-lg: 1024px;
-  --breakpoint-xl: 1280px;
-  --breakpoint-2xl: 1536px;
+
+  --breakpoint-xs: 480px; /* 小型手机 */
+  --breakpoint-sm: 640px; /* 大型手机 */
+  --breakpoint-md: 768px; /* 平板竖屏 */
+  --breakpoint-lg: 1024px; /* 平板横屏/小型笔记本 */
+  --breakpoint-xl: 1280px; /* 桌面 */
+  --breakpoint-2xl: 1536px; /* 大型桌面 */
+
+  /* 游戏网格专用断点 */
+  --grid-breakpoint-mobile: 480px;
+  --grid-breakpoint-tablet: 768px;
+  --grid-breakpoint-desktop: 1024px;
+  --grid-breakpoint-wide: 1280px;
+}
+
+/* ==========================================================================
+   响应式间距系统 - Apple式渐进缩放
+   ========================================================================== */
+
+/* 平板端间距缩放 (768px - 1023px) */
+@media (max-width: 1023px) and (min-width: 768px) {
+  :root {
+    /* 语义化间距 - 平板端缩放 80% */
+    --space-micro: calc(var(--space-1) * var(--spacing-scale-tablet));
+    --space-tiny: calc(var(--space-2) * var(--spacing-scale-tablet));
+    --space-small: calc(var(--space-3) * var(--spacing-scale-tablet));
+    --space-base: calc(var(--space-4) * var(--spacing-scale-tablet));
+    --space-medium: calc(var(--space-6) * var(--spacing-scale-tablet));
+    --space-large: calc(var(--space-8) * var(--spacing-scale-tablet));
+    --space-xlarge: calc(var(--space-12) * var(--spacing-scale-tablet));
+    --space-xxlarge: calc(var(--space-16) * var(--spacing-scale-tablet));
+
+    /* 组件特定间距 - 平板端 */
+    --space-component-padding: calc(
+      var(--space-4) * var(--spacing-scale-tablet)
+    );
+    --space-section-margin: calc(var(--space-12) * var(--spacing-scale-tablet));
+    --space-element-gap: calc(var(--space-3) * var(--spacing-scale-tablet));
+    --space-card-padding: calc(var(--space-4) * var(--spacing-scale-tablet));
+    --space-grid-gap: calc(var(--space-6) * var(--spacing-scale-tablet));
+
+    /* 语义化字体大小 - 平板端自动缩放 */
+    --font-size-display: calc(var(--font-size-4xl) * var(--font-scale-tablet));
+    --font-size-heading: calc(var(--font-size-3xl) * var(--font-scale-tablet));
+    --font-size-subheading: calc(
+      var(--font-size-2xl) * var(--font-scale-tablet)
+    );
+    --font-size-body-large: calc(
+      var(--font-size-lg) * var(--font-scale-tablet)
+    );
+    --font-size-body: calc(var(--font-size-base) * var(--font-scale-tablet));
+    --font-size-body-small: calc(
+      var(--font-size-sm) * var(--font-scale-tablet)
+    );
+    --font-size-caption: calc(var(--font-size-xs) * var(--font-scale-tablet));
+  }
+}
+
+/* 移动端间距缩放 (480px - 767px) */
+@media (max-width: 767px) and (min-width: 480px) {
+  :root {
+    /* 语义化间距 - 移动端缩放 60% */
+    --space-micro: calc(var(--space-1) * var(--spacing-scale-mobile));
+    --space-tiny: calc(var(--space-2) * var(--spacing-scale-mobile));
+    --space-small: calc(var(--space-3) * var(--spacing-scale-mobile));
+    --space-base: calc(var(--space-4) * var(--spacing-scale-mobile));
+    --space-medium: calc(var(--space-6) * var(--spacing-scale-mobile));
+    --space-large: calc(var(--space-8) * var(--spacing-scale-mobile));
+    --space-xlarge: calc(var(--space-12) * var(--spacing-scale-mobile));
+    --space-xxlarge: calc(var(--space-16) * var(--spacing-scale-mobile));
+
+    /* 组件特定间距 - 移动端，确保最小可用性 */
+    --space-component-padding: max(
+      calc(var(--space-4) * var(--spacing-scale-mobile)),
+      var(--min-content-padding)
+    );
+    --space-section-margin: calc(var(--space-12) * var(--spacing-scale-mobile));
+    --space-element-gap: max(
+      calc(var(--space-3) * var(--spacing-scale-mobile)),
+      var(--min-element-gap)
+    );
+    --space-card-padding: max(
+      calc(var(--space-4) * var(--spacing-scale-mobile)),
+      var(--min-content-padding)
+    );
+    --space-grid-gap: calc(var(--space-6) * var(--spacing-scale-mobile));
+
+    /* 语义化字体大小 - 移动端自动缩放 */
+    --font-size-display: calc(var(--font-size-4xl) * var(--font-scale-mobile));
+    --font-size-heading: calc(var(--font-size-3xl) * var(--font-scale-mobile));
+    --font-size-subheading: calc(
+      var(--font-size-2xl) * var(--font-scale-mobile)
+    );
+    --font-size-body-large: calc(
+      var(--font-size-lg) * var(--font-scale-mobile)
+    );
+    --font-size-body: calc(var(--font-size-base) * var(--font-scale-mobile));
+    --font-size-body-small: calc(
+      var(--font-size-sm) * var(--font-scale-mobile)
+    );
+    --font-size-caption: calc(var(--font-size-xs) * var(--font-scale-mobile));
+  }
+}
+
+/* 小屏移动端间距缩放 (≤479px) */
+@media (max-width: 479px) {
+  :root {
+    /* 语义化间距 - 小屏端缩放 50%，但保证最小可用性 */
+    --space-micro: calc(var(--space-1) * var(--spacing-scale-small));
+    --space-tiny: calc(var(--space-2) * var(--spacing-scale-small));
+    --space-small: max(
+      calc(var(--space-3) * var(--spacing-scale-small)),
+      var(--min-element-gap)
+    );
+    --space-base: max(
+      calc(var(--space-4) * var(--spacing-scale-small)),
+      var(--min-content-padding)
+    );
+    --space-medium: calc(var(--space-6) * var(--spacing-scale-small));
+    --space-large: calc(var(--space-8) * var(--spacing-scale-small));
+    --space-xlarge: calc(var(--space-12) * var(--spacing-scale-small));
+    --space-xxlarge: calc(var(--space-16) * var(--spacing-scale-small));
+
+    /* 组件特定间距 - 小屏端，强制最小可用性 */
+    --space-component-padding: var(--min-content-padding);
+    --space-section-margin: calc(var(--space-12) * var(--spacing-scale-small));
+    --space-element-gap: var(--min-element-gap);
+    --space-card-padding: var(--min-content-padding);
+    --space-grid-gap: var(--min-element-gap);
+
+    /* 语义化字体大小 - 小屏端自动缩放 */
+    --font-size-display: calc(var(--font-size-4xl) * var(--font-scale-small));
+    --font-size-heading: calc(var(--font-size-3xl) * var(--font-scale-small));
+    --font-size-subheading: calc(
+      var(--font-size-2xl) * var(--font-scale-small)
+    );
+    --font-size-body-large: calc(var(--font-size-lg) * var(--font-scale-small));
+    --font-size-body: calc(var(--font-size-base) * var(--font-scale-small));
+    --font-size-body-small: calc(var(--font-size-sm) * var(--font-scale-small));
+    --font-size-caption: calc(var(--font-size-xs) * var(--font-scale-small));
+  }
 }
 
 /* ==========================================================================
@@ -292,6 +538,7 @@
     --glass-bg: rgba(0, 0, 0, 0.2);
     --glass-bg-strong: rgba(0, 0, 0, 0.4);
     --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-border-strong: rgba(255, 255, 255, 0.3);
     --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   }
 }
@@ -301,6 +548,7 @@
   --glass-bg: rgba(0, 0, 0, 0.2);
   --glass-bg-strong: rgba(0, 0, 0, 0.4);
   --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-border-strong: rgba(255, 255, 255, 0.3);
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
@@ -362,8 +610,8 @@
 
 .transition-colors {
   transition: color var(--duration-200) var(--ease-in-out),
-              background-color var(--duration-200) var(--ease-in-out),
-              border-color var(--duration-200) var(--ease-in-out);
+    background-color var(--duration-200) var(--ease-in-out),
+    border-color var(--duration-200) var(--ease-in-out);
 }
 
 .transition-transform {

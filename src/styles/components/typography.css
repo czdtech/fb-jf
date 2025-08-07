@@ -6,35 +6,35 @@
    排版系统 - 语义化标题和文本类
    ========================================================================== */
 
-/* 显示级标题 */
+/* 显示级标题 - 使用语义化字体变量 */
 .heading-display {
   font-family: var(--font-family-display);
-  font-size: var(--font-size-5xl);
+  font-size: var(--font-size-display);
   font-weight: var(--font-weight-bold);
   line-height: var(--line-height-tight);
   letter-spacing: var(--letter-spacing-tight);
   color: var(--color-gray-900);
 }
 
-/* 大标题 */
+/* 大标题 - 使用语义化字体变量 */
 .heading-large {
   font-family: var(--font-family-primary);
-  font-size: var(--font-size-4xl);
+  font-size: var(--font-size-heading);
   font-weight: var(--font-weight-bold);
   line-height: var(--line-height-tight);
   color: var(--color-gray-900);
 }
 
-/* 中等标题 */
+/* 中等标题 - 使用语义化字体变量 */
 .heading-medium {
   font-family: var(--font-family-primary);
-  font-size: var(--font-size-2xl);
+  font-size: var(--font-size-subheading);
   font-weight: var(--font-weight-semibold);
   line-height: var(--line-height-snug);
   color: var(--color-gray-900);
 }
 
-/* 小标题 */
+/* 小标题 - 使用语义化字体变量 */
 .heading-small {
   font-family: var(--font-family-primary);
   font-size: var(--font-size-xl);
@@ -43,37 +43,37 @@
   color: var(--color-gray-800);
 }
 
-/* 大号正文 */
+/* 大号正文 - 使用语义化字体变量 */
 .body-large {
   font-family: var(--font-family-primary);
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-body-large);
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height-relaxed);
   color: var(--color-gray-600);
 }
 
-/* 普通正文 */
+/* 普通正文 - 使用语义化字体变量 */
 .body-normal {
   font-family: var(--font-family-primary);
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-body);
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height-normal);
   color: var(--color-gray-700);
 }
 
-/* 小号正文 */
+/* 小号正文 - 使用语义化字体变量 */
 .body-small {
   font-family: var(--font-family-primary);
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-body-small);
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height-normal);
   color: var(--color-gray-600);
 }
 
-/* 极小正文 */
+/* 极小正文 - 使用语义化字体变量 */
 .body-xs {
   font-family: var(--font-family-primary);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-caption);
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height-normal);
   color: var(--color-gray-500);

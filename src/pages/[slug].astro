@@ -334,11 +334,11 @@ const structuredData = {
           <p class="section-subtitle-enhanced">Continue your musical journey</p>
         </div>
 
-        <div class="related-games-grid">
+        <div class="game-grid game-grid--related related-games-grid">
           {
             relatedGames.map((relatedGame, index) => (
               <div
-                class={`related-game-item music-element hero-music-delay-${31 + index}`}
+                class={`related-game-item game-grid-item music-element hero-music-delay-${31 + index}`}
               >
                 <GameCard game={relatedGame} variant="sidebar" />
               </div>
@@ -596,7 +596,7 @@ const structuredData = {
   }
 
   .prose h1 {
-    font-size: clamp(2rem, 4vw, var(--font-size-5xl));
+    font-size: clamp(2rem, 4vw, var(--font-size-4xl));
     font-weight: var(--font-weight-black);
     margin-bottom: var(--space-8);
     background: linear-gradient(
@@ -1151,9 +1151,6 @@ const structuredData = {
   }
 
   .related-games-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: var(--space-6);
     margin-top: var(--space-8);
   }
 

@@ -9,7 +9,7 @@ description: >-
   create your own exclusive musical works!
 image: /sprunki-craft.png
 iframe: https://www.minijuegos.com/embed/sprunki-craft
-category: trending
+category: popular
 meta:
   title: Sprunki Craft - Play Sprunki Craft Online
   description: >-

@@ -139,19 +139,19 @@ const communityMods = [
    ========================================================================== */
 
   .hero-section {
-    /* 使用页面级背景，只需要设置布局和间距 */
-    padding-top: calc(80px + var(--space-8));
-    padding-bottom: var(--space-8);
+    /* 使用语义化间距变量 - Apple式设计 */
+    padding-top: calc(80px + var(--space-xxlarge));
+    padding-bottom: var(--space-xlarge);
     min-height: 85vh;
     display: flex;
     align-items: center;
   }
 
   .hero-section__games {
-    /* 游戏区域布局 - 缩小边栏宽度 */
+    /* 游戏区域布局 - 使用语义化间距 */
     display: grid;
     grid-template-columns: 200px 1fr 200px;
-    gap: var(--space-4);
+    gap: var(--space-base);
     align-items: start;
     max-width: 100%;
     margin: 0 auto;
@@ -167,21 +167,21 @@ const communityMods = [
   @media (min-width: 1400px) {
     .hero-section__games {
       grid-template-columns: 220px 1fr 220px;
-      gap: var(--space-6);
+      gap: var(--space-medium);
     }
   }
 
   @media (max-width: 1200px) {
     .hero-section__games {
       grid-template-columns: 180px 1fr 180px;
-      gap: var(--space-3);
+      gap: var(--space-small);
     }
   }
 
   @media (max-width: 1024px) {
     .hero-section__games {
       grid-template-columns: 1fr;
-      gap: var(--space-4);
+      gap: var(--space-base);
     }
 
     .hero-section__main-game-area {
@@ -190,19 +190,8 @@ const communityMods = [
     }
   }
 
-  @media (max-width: 768px) {
-    .hero-section {
-      padding-top: calc(80px + var(--space-4));
-      padding-bottom: var(--space-8);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .hero-section {
-      padding-top: calc(80px + var(--space-2));
-      padding-bottom: var(--space-6);
-    }
-  }
+  /* 响应式间距现在由全局语义化变量自动处理 */
+  /* 不再需要手动设置每个断点的间距值 */
 
 
 
@@ -211,28 +200,26 @@ const communityMods = [
    ========================================================================== */
 
   .hero-section__main-game-area {
-    /* 主游戏区域容器，包含游戏iframe和社区游戏 */
+    /* 主游戏区域容器 - 使用语义化间距 */
     display: flex;
     flex-direction: column;
-    gap: var(--space-5);
+    gap: var(--space-medium);
     height: 100%;
     min-height: 800px;
   }
 
   /* ==========================================================================
-   响应式设计
+   响应式设计 - 使用语义化间距自动缩放
    ========================================================================== */
 
   @media (max-width: 768px) {
     .hero-section__main-game-area {
-      gap: var(--space-4);
       min-height: 600px;
     }
   }
 
   @media (max-width: 480px) {
     .hero-section__main-game-area {
-      gap: var(--space-3);
       min-height: 500px;
     }
   }

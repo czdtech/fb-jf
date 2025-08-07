@@ -21,9 +21,9 @@ const { games, title, variant = 'grid' } = Astro.props;
 {title && <h2 class="games-list-title">{title}</h2>}
 
 {variant === 'grid' && (
-  <div class="game-grid">
+  <div class="game-grid game-grid--standard">
     {games.map((game) => (
-      <div class="game">
+      <div class="game game-grid-item">
         <a href={`/${game.slug}/`} title={game.data.title}>
           <div class="game-logo game-l-2">
             <img src={game.data.image} alt={game.data.title} />
@@ -65,48 +65,90 @@ const { games, title, variant = 'grid' } = Astro.props;
     color: var(--color-gray-900);
   }
 
-  .game-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: var(--space-6);
-    margin-bottom: var(--space-8);
-  }
+  /* 游戏网格样式现在由统一的 game-grids.css 提供 */
 
   .game {
     text-align: center;
     transition: transform 0.3s ease;
+    position: relative;
   }
 
   .game:hover {
-    transform: translateY(-8px);
+    transform: translateY(-2px);
+  }
+
+  .game:hover .game-logo {
+    box-shadow:
+      0 6px 20px rgba(0, 0, 0, 0.12),
+      0 2px 6px rgba(0, 0, 0, 0.08);
   }
 
   .game a {
     text-decoration: none;
     color: var(--color-gray-900);
     display: block;
+    position: relative;
   }
 
   .game-logo {
     width: 100%;
     height: 200px;
     overflow: hidden;
-    border-radius: var(--border-radius-lg);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: var(--border-radius-md);
+    box-shadow:
+      0 2px 8px rgba(0, 0, 0, 0.08),
+      0 1px 3px rgba(0, 0, 0, 0.04);
     margin-bottom: var(--space-3);
-    background: var(--color-gray-100);
+    background: var(--color-white);
+    position: relative;
   }
 
   .game-logo img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    transition: transform var(--duration-500) var(--ease-in-out);
+  }
+
+  .game:hover .game-logo img {
+    transform: scale(1.05);
+  }
+
+  .game-logo::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.3) 50%,
+      transparent 100%
+    );
+    z-index: 1;
   }
 
   .game p {
-    font-size: var(--font-size-base);
-    font-weight: var(--font-weight-medium);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    color: white;
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-bold);
+    line-height: var(--line-height-tight);
     margin: 0;
+    padding: var(--space-2);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9), 0 1px 2px rgba(0, 0, 0, 0.8),
+      0 0 1px rgba(0, 0, 0, 1);
+    text-align: center;
+    /* 添加背景色作为备用，确保文字可读性 */
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: var(--border-radius-sm);
+    backdrop-filter: blur(2px);
   }
 
   .games-list {
@@ -161,13 +203,14 @@ const { games, title, variant = 'grid' } = Astro.props;
   }
 
   @media (max-width: 768px) {
-    .game-grid {
-      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-      gap: var(--space-4);
-    }
-
     .game-logo {
       height: 150px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .game-logo {
+      height: 120px;
     }
   }
 </style>

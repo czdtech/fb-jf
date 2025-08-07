@@ -21,8 +21,8 @@ const { navigation, homepage } = extractedData
 
 // Fetch all games and filter them by category
 const allGames = await getCollection('games');
-const popularGames = allGames.filter(game => game.data.category === 'popular').slice(0, 4);
-const newGames = allGames.filter(game => game.data.category === 'new').slice(0, 4);
+const popularGames = allGames.filter(game => game.data.category === 'popular').slice(0, 5);
+const newGames = allGames.filter(game => game.data.category === 'new').slice(0, 5);
 const trendingGames = allGames.filter(game => game.data.category === 'trending').slice(0, 10);
 
 const games = {
@@ -91,219 +91,16 @@ const structuredData = {
   import '@/scripts/interactions.js'
 </script>
 
-<!-- 音频播放器脚本 -->
+<!-- 音频播放器脚本 - 已模块化，使用统一的音频管理器 -->
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    console.log('Initializing audio player...');
-
-    let currentAudio: HTMLAudioElement | null = null;
-    let currentCard: HTMLElement | null = null;
-
-    // 找到所有音频卡片
-    const cards = document.querySelectorAll('.sound-sample-card');
-    console.log(`Found ${cards.length} sound sample cards`);
-
-    cards.forEach((card, index) => {
-      const audioId = (card as HTMLElement).dataset.sampleId;
-      const audio = document.getElementById(audioId || '') as HTMLAudioElement;
-      const playBtn = card.querySelector('.play-btn') as HTMLElement;
-
-      console.log(`Card ${index}: audioId=${audioId}, audio=${!!audio}, button=${!!playBtn}`);
-
-      if (audio && playBtn) {
-        // 设置播放按钮点击事件
-        playBtn.addEventListener('click', function(e) {
-          e.preventDefault();
-          e.stopPropagation();
-          console.log('Play button clicked:', audioId);
-
-          // 如果当前有其他音频在播放，先停止
-          if (currentAudio && currentAudio !== audio) {
-            currentAudio.pause();
-            currentAudio.currentTime = 0;
-            if (currentCard) {
-              currentCard.classList.remove('playing');
-              const currentBtn = currentCard.querySelector('.play-btn') as HTMLElement;
-              if (currentBtn) currentBtn.classList.remove('playing');
-            }
-          }
-
-          if (audio.paused) {
-            // 播放音频
-            console.log('Starting audio playback...');
-
-            // 显示加载状态
-            playBtn.classList.add('loading');
-            card.classList.add('loading');
-
-            audio.play().then(() => {
-              console.log('Audio started successfully');
-              playBtn.classList.remove('loading');
-              card.classList.remove('loading');
-              playBtn.classList.add('playing');
-              card.classList.add('playing');
-
-              currentAudio = audio;
-              currentCard = card as HTMLElement;
-
-              // 创建音符动画
-              createMusicNotes(playBtn);
-            }).catch((error: Error) => {
-              console.error('Audio play error:', error);
-              playBtn.classList.remove('loading');
-              card.classList.remove('loading');
-              alert('音频播放失败：' + error.message);
-            });
-          } else {
-            // 暂停音频
-            console.log('Pausing audio...');
-            audio.pause();
-            playBtn.classList.remove('playing');
-            card.classList.remove('playing');
-            currentAudio = null;
-            currentCard = null;
-          }
-        });
-
-        // 音频结束事件
-        audio.addEventListener('ended', function() {
-          console.log('Audio ended');
-          playBtn.classList.remove('playing');
-          card.classList.remove('playing');
-          currentAudio = null;
-          currentCard = null;
-        });
-
-        // 音频错误事件
-        audio.addEventListener('error', function(e: Event) {
-          console.error('Audio error:', e);
-          playBtn.classList.remove('loading', 'playing');
-          card.classList.remove('loading', 'playing');
-        });
-      }
-    });
-
-    // 创建音符动画函数
-    function createMusicNotes(button: HTMLElement) {
-      const rect = button.getBoundingClientRect();
-      const centerX = rect.left + rect.width / 2;
-      const centerY = rect.top + rect.height / 2;
-
-      const notes = ['♪', '♫', '♬', '♩'];
-      const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899'];
-
-      for (let i = 0; i < 3; i++) {
-        setTimeout(() => {
-          const note = document.createElement('div');
-          const randomNote = notes[Math.floor(Math.random() * notes.length)];
-          const randomColor = colors[Math.floor(Math.random() * colors.length)];
-
-          note.textContent = randomNote;
-          note.style.cssText = `
-            position: fixed;
-            left: ${centerX + (Math.random() - 0.5) * 40}px;
-            top: ${centerY + (Math.random() - 0.5) * 40}px;
-            color: ${randomColor};
-            font-size: ${Math.random() * 8 + 16}px;
-            font-weight: bold;
-            pointer-events: none;
-            z-index: 9999;
-            user-select: none;
-            transform: translate(-50%, -50%);
-          `;
-
-          document.body.appendChild(note);
-
-          // 动画
-          const animation = note.animate([
-            {
-              opacity: 1,
-              transform: 'translate(-50%, -50%) scale(1)',
-            },
-            {
-              opacity: 0,
-              transform: 'translate(-50%, -200%) scale(0.8)',
-            }
-          ], {
-            duration: 2000,
-            easing: 'ease-out'
-          });
-
-          animation.onfinish = () => {
-            if (document.body.contains(note)) {
-              document.body.removeChild(note);
-            }
-          };
-        }, i * 200);
-      }
-    }
-  });
+  import '@/scripts/sound-sample-player.js'
 </script>
 
-<!-- 音符点击动画 -->
+<!-- 音符点击动画 - 已模块化，使用统一的音符动画模块 -->
 <script>
+  import { musicNotesAnimation } from '@/scripts/music-notes-animation.js'
+
   document.addEventListener('DOMContentLoaded', function () {
-    const musicNotes = ['♪', '♫', '♬', '♩', '♭', '♯', '𝄞']
-
-    function createNote(x: number, y: number) {
-      const note = document.createElement('div')
-      const randomNote =
-        musicNotes[Math.floor(Math.random() * musicNotes.length)]
-      note.textContent = randomNote
-      note.className = 'click-note'
-
-      // 随机颜色（紫色系）
-      const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899', '#f472b6']
-      const randomColor = colors[Math.floor(Math.random() * colors.length)]
-
-      // 设置样式
-      note.style.cssText = `
-      position: fixed;
-      left: ${x}px;
-      top: ${y}px;
-      color: ${randomColor};
-      font-size: ${Math.random() * 8 + 16}px;
-      font-weight: bold;
-      pointer-events: none;
-      z-index: 9999;
-      user-select: none;
-      transform: translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg);
-    `
-
-      document.body.appendChild(note)
-
-      // 动画
-      const animation = note.animate(
-        [
-          {
-            opacity: 1,
-            transform: `translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg) scale(1)`,
-            filter: 'blur(0px)',
-          },
-          {
-            opacity: 0.7,
-            transform: `translate(-50%, -150%) rotate(${Math.random() * 60 - 30}deg) scale(1.2)`,
-            filter: 'blur(0px)',
-          },
-          {
-            opacity: 0,
-            transform: `translate(-50%, -200%) rotate(${Math.random() * 90 - 45}deg) scale(0.8)`,
-            filter: 'blur(2px)',
-          },
-        ],
-        {
-          duration: 1200,
-          easing: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)',
-        }
-      )
-
-      animation.onfinish = () => {
-        if (note.parentNode) {
-          note.parentNode.removeChild(note)
-        }
-      }
-    }
-
     // 点击事件监听（带节流）- 全局音符效果
     let lastClick = 0
     document.body.addEventListener('click', function (e) {
@@ -311,16 +108,12 @@ const structuredData = {
       if (now - lastClick < 200) return
       lastClick = now
 
-      // 创建1-3个音符（在所有地方都创建点击位置音符）
-      const noteCount = Math.floor(Math.random() * 3) + 1
-
-      for (let i = 0; i < noteCount; i++) {
-        setTimeout(() => {
-          const offsetX = (Math.random() - 0.5) * 40
-          const offsetY = (Math.random() - 0.5) * 40
-          createNote(e.clientX + offsetX, e.clientY + offsetY)
-        }, i * 100)
-      }
+      // 使用模块化的音符动画
+      musicNotesAnimation.createClickAnimation(e, {
+        noteCount: Math.floor(Math.random() * 3) + 1,
+        staggerDelay: 100,
+        duration: 1200
+      })
     })
   })
 </script>

@@ -10,26 +10,26 @@
   position: relative;
   display: inline-flex;
   align-items: center;
-  gap: var(--space-2);
-  padding: var(--space-2) var(--space-3);
+  gap: var(--space-tiny);
+  padding: var(--space-tiny) var(--space-small);
   background: var(--glass-bg);
   backdrop-filter: var(--glass-backdrop);
   border: 1px solid var(--glass-border);
   border-radius: var(--border-radius-lg);
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-body-small);
   color: var(--color-gray-700);
   cursor: pointer;
   transition: all var(--duration-200) var(--ease-in-out);
 }
 
 .language-selector:hover {
-  background: rgba(255, 255, 255, 0.15);
-  border-color: rgba(255, 255, 255, 0.4);
+  background: var(--glass-bg-strong);
+  border-color: var(--glass-border-strong);
   transform: translateY(-1px);
 }
 
 .language-icon {
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-body);
   opacity: 0.8;
 }
 

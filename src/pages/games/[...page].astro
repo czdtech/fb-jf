@@ -175,9 +175,11 @@ const structuredData = {
         </div>
 
         <!-- Games Grid -->
-        <div class="games-grid">
+        <div class="game-grid game-grid--standard">
           {page.data.map((game, idx) => (
-            <GameCard game={game} index={idx} />
+            <div class="game-grid-item">
+              <GameCard game={game} index={idx} />
+            </div>
           ))}
         </div>
 
@@ -207,23 +209,5 @@ const structuredData = {
     color: var(--color-gray-600);
   }
 
-  .games-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: var(--space-6);
-    margin-bottom: var(--space-12);
-  }
-
-  @media (max-width: 768px) {
-    .games-grid {
-      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-      gap: var(--space-4);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .games-grid {
-      grid-template-columns: 1fr;
-    }
-  }
+  /* 游戏网格样式现在由统一的 game-grids.css 提供 */
 </style>

@@ -8,7 +8,7 @@ description: >-
   the iconic Sprunki crew.
 image: /fiddlebops-but-sprunki.png
 iframe: https://turbowarp.org/1114915532/embed
-category: trending
+category: new
 meta:
   title: Fiddlebops But Sprunki - Play Fiddlebops But Sprunki Online
   description: >-

@@ -35,10 +35,10 @@ const relatedGames = allGames.sort(() => Math.random() - 0.5).slice(0, 6)
       </a>
     </div>
 
-    <div class="related-games-grid">
+    <div class="game-grid game-grid--related related-games-grid">
       {
         relatedGames.map((game, index) => (
-          <div class={`game-item music-element hero-music-delay-${36 + index}`}>
+          <div class={`game-item game-grid-item music-element hero-music-delay-${36 + index}`}>
             <GameCard game={game} variant="grid" />
           </div>
         ))
@@ -124,11 +124,8 @@ const relatedGames = allGames.sort(() => Math.random() - 0.5).slice(0, 6)
     transform: translateX(4px);
   }
 
-  /* Games Grid */
+  /* 游戏网格样式现在由统一的 game-grids.css 提供 */
   .related-games-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: var(--space-6);
     max-width: 1400px;
     margin: 0 auto;
   }
@@ -151,11 +148,6 @@ const relatedGames = allGames.sort(() => Math.random() - 0.5).slice(0, 6)
 
     .section-subtitle {
       font-size: var(--font-size-base);
-    }
-
-    .related-games-grid {
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: var(--space-4);
     }
   }
 

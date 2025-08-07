@@ -3,60 +3,49 @@
  */
 
 /* ==========================================================================
-   导航组件
+   导航组件 - 统一定义，避免重复
    ========================================================================== */
 
 .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
   background: var(--glass-bg);
   backdrop-filter: var(--glass-backdrop);
   -webkit-backdrop-filter: var(--glass-backdrop);
   border-bottom: var(--border-width-1) solid var(--glass-border);
-  position: sticky;
-  top: 0;
-  z-index: var(--z-index-sticky);
+  transition: all var(--duration-200) var(--ease-in-out);
 }
 
 .nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: var(--space-4) 0;
+  padding: var(--space-component-padding) 0;
+  position: relative;
 }
 
 .nav-brand {
-  font-size: var(--font-size-xl);
-  font-weight: var(--font-weight-bold);
-  color: var(--color-primary-600);
   text-decoration: none;
+  color: var(--color-primary-600);
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-subheading);
   background: var(--gradient-primary);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  transition: all var(--duration-200) var(--ease-in-out);
 }
 
-.nav-menu {
-  display: flex;
-  align-items: center;
-  gap: var(--space-8);
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.nav-link {
-  color: var(--color-gray-700);
-  text-decoration: none;
-  font-weight: var(--font-weight-medium);
-  transition: color var(--duration-200) var(--ease-in-out);
-  position: relative;
-}
-
-.nav-link:hover {
-  color: var(--color-primary-600);
+.nav-brand:hover {
+  color: var(--color-primary-700);
+  transform: translateY(-1px);
 }
 
 .nav-link::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -4px;
   left: 0;
@@ -92,38 +81,7 @@
    Header 和移动端导航系统
    ========================================================================== */
 
-.header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 100;
-  background: var(--glass-bg);
-  backdrop-filter: var(--glass-backdrop);
-  border-bottom: 1px solid var(--glass-border);
-  transition: all var(--duration-200) var(--ease-in-out);
-}
-
-.nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: var(--space-4) 0;
-  position: relative;
-}
-
-.nav-brand {
-  text-decoration: none;
-  color: var(--color-primary-600);
-  font-weight: var(--font-weight-bold);
-  font-size: var(--font-size-2xl);
-  transition: all var(--duration-200) var(--ease-in-out);
-}
-
-.nav-brand:hover {
-  color: var(--color-primary-700);
-  transform: translateY(-1px);
-}
+/* 重复定义已删除，使用上方统一的导航样式 */
 
 .brand-text {
   background: var(--gradient-primary);
@@ -145,7 +103,7 @@
   .nav-menu {
     display: flex;
     align-items: center;
-    gap: var(--space-6);
+    gap: var(--space-medium);
     list-style: none;
     margin: 0;
     padding: 0;
@@ -155,8 +113,8 @@
     text-decoration: none;
     color: var(--color-gray-700);
     font-weight: var(--font-weight-medium);
-    font-size: var(--font-size-base);
-    padding: var(--space-2) var(--space-4);
+    font-size: var(--font-size-body);
+    padding: var(--space-tiny) var(--space-base);
     border-radius: var(--border-radius-md);
     transition: all var(--duration-200) var(--ease-in-out);
   }
@@ -164,7 +122,7 @@
   .nav-link:hover,
   .nav-link.active {
     color: var(--color-primary-600);
-    background: rgba(168, 85, 247, 0.1);
+    background: var(--color-primary-50);
   }
 }
 

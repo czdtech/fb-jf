@@ -39,25 +39,25 @@ const { soundSamples } = Astro.props;
    ========================================================================== */
 
 .sound-samples-section {
-  padding: var(--space-12) 0;
+  padding: var(--space-section-margin) 0;
 }
 
 .section-header {
   text-align: center;
   max-width: 900px;
-  margin: 0 auto var(--space-8) auto;
+  margin: 0 auto var(--space-large) auto;
 }
 
 .section-header.center-only {
   text-align: center;
   max-width: 900px;
-  margin: 0 auto var(--space-8) auto;
+  margin: 0 auto var(--space-large) auto;
 }
 
 .section-title {
   font-size: var(--font-size-4xl);
   font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-4) 0;
+  margin: 0 0 var(--space-base) 0;
   background: var(--gradient-primary);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -68,7 +68,7 @@ const { soundSamples } = Astro.props;
   font-size: var(--font-size-xl);
   line-height: var(--line-height-relaxed);
   color: var(--color-gray-600);
-  margin: 0 0 var(--space-8) 0;
+  margin: 0 0 var(--space-large) 0;
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -88,7 +88,7 @@ const { soundSamples } = Astro.props;
   -webkit-backdrop-filter: blur(20px) saturate(180%);
   border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: var(--border-radius-lg);
-  padding: var(--space-8);
+  padding: var(--space-large);
   box-shadow:
     0 12px 40px rgba(0, 0, 0, 0.12),
     0 4px 12px rgba(0, 0, 0, 0.08),
@@ -119,8 +119,8 @@ const { soundSamples } = Astro.props;
 
 .sound-samples-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 32px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-grid-gap);
   margin: 0 auto;
 }
 
@@ -163,44 +163,33 @@ const { soundSamples } = Astro.props;
   letter-spacing: 0.5px;
 }
 
-/* Responsive Design */
+/* Responsive Design - 使用语义化间距自动缩放 */
 @media (max-width: 1400px) {
   .sound-samples-grid {
     grid-template-columns: repeat(4, 1fr);
-    gap: 28px;
+    /* gap 由语义化变量自动处理 */
   }
 }
 
 @media (max-width: 1200px) {
   .sound-samples-grid {
     grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
   }
 }
 
 @media (max-width: 900px) {
   .sound-samples-grid {
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-  }
-  
-  .sound-samples-container {
-    padding: var(--space-6);
   }
 }
 
 @media (max-width: 768px) {
-  .section-header {
-    margin-bottom: var(--space-6);
-  }
-
   .section-title {
     font-size: var(--font-size-2xl) !important;
   }
 
   .section-description {
     font-size: var(--font-size-lg);
-    margin-bottom: var(--space-6);
     max-width: 100%;
     line-height: 1.5;
     text-align: left;
@@ -208,24 +197,19 @@ const { soundSamples } = Astro.props;
 
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 18px;
   }
-  
+
   .sound-sample-wrapper {
     min-height: 0;
   }
 }
 
 @media (max-width: 480px) {
-  .sound-samples-container {
-    padding: var(--space-4);
-  }
-
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
+    /* 确保最小可用性，gap 由全局变量保证 */
   }
-  
+
   .sound-sample-wrapper {
     min-height: 0;
   }
@@ -239,13 +223,9 @@ const { soundSamples } = Astro.props;
 }
 
 @media (max-width: 360px) {
-  .sound-samples-container {
-    padding: var(--space-3);
-  }
-  
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    /* gap 由全局最小间距保证 */
   }
 }
 </style>

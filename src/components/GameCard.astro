@@ -49,16 +49,12 @@ const getGameDescription = (description: string): string => {
 
 {
   variant === 'sidebar' && (
-    <a href={gameUrl} class="game-card game-card-sidebar">
-      <div class="game-card-image-wrapper">
+    <a href={gameUrl} class="game-card game-card--sidebar game-card--glass">
+      <div class="game-card__image">
         <img src={game.image} alt={game.title} />
-        <div class="game-card-overlay">
-          <div class="game-card-play-button">
-            <i class="fas fa-play" />
-          </div>
-        </div>
-        <div class="game-card-title-popup">
-          <span class="game-card-title-text">{game.title}</span>
+        <div class="game-card__overlay"></div>
+        <div class="game-card__content">
+          <h3 class="game-card__title">{game.title}</h3>
         </div>
       </div>
     </a>
@@ -88,18 +84,18 @@ const getGameDescription = (description: string): string => {
 
 {
   variant === 'featured' && (
-    <div class="game-card game-card-featured">
-      <div class="game-card-image">
+    <div class="game-card game-card--featured game-card--solid">
+      <div class="game-card__image">
         <img src={game.image} alt={game.title} />
-        <div class="game-card-overlay">
-          <button class="game-card-play-button">
+        <div class="game-card__overlay">
+          <button class="game-card__play-button">
             <i class="fas fa-play" />
           </button>
         </div>
       </div>
-      <div class="game-card-content">
-        <h3 class="game-card-title">{game.title}</h3>
-        <p class="game-card-description">
+      <div class="game-card__content">
+        <h3 class="game-card__title">{game.title}</h3>
+        <p class="game-card__description">
           {getGameDescription(game.description)}
         </p>
       </div>
@@ -109,17 +105,12 @@ const getGameDescription = (description: string): string => {
 
 {
   variant === 'trending' && (
-    <a href={gameUrl} class="game-card game-card-trending">
-      <div class="game-card-image-container">
+    <a href={gameUrl} class="game-card game-card--trending game-card--solid">
+      <div class="game-card__image">
         <img src={game.image} alt={game.title} />
-        <div class="game-card-trending-overlay">
-          <div class="game-card-trending-play">
-            <i class="fas fa-play" />
-          </div>
-          <div class="game-card-trending-gradient" />
-          <div class="game-card-trending-info">
-            <h3 class="game-card-trending-title">{game.title}</h3>
-          </div>
+        <div class="game-card__overlay"></div>
+        <div class="game-card__content">
+          <h3 class="game-card__title">{game.title}</h3>
         </div>
       </div>
     </a>
@@ -128,17 +119,12 @@ const getGameDescription = (description: string): string => {
 
 {
   variant === 'compact' && (
-    <a href={gameUrl} class="game-card game-card-compact">
-      <div class="game-card-compact-image">
+    <a href={gameUrl} class="game-card game-card--compact game-card--glass">
+      <div class="game-card__image">
         <img src={game.image} alt={game.title} />
-        <div class="game-card-compact-overlay">
-          <div class="game-card-compact-play">
-            <i class="fas fa-play" />
-          </div>
-        </div>
-        <div class="game-card-compact-gradient" />
-        <div class="game-card-compact-info">
-          <h3 class="game-card-compact-title">{game.title}</h3>
+        <div class="game-card__overlay"></div>
+        <div class="game-card__content">
+          <h3 class="game-card__title">{game.title}</h3>
         </div>
       </div>
     </a>

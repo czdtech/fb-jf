@@ -1,46 +1,56 @@
 /**
- * 游戏卡片组件系统
+ * 游戏卡片组件系统 v2.0
+ * 使用修饰符模式，减少代码重复，提高可维护性
  */
 
 /* ==========================================================================
-   游戏卡片组件
+   基础游戏卡片组件
    ========================================================================== */
 
 .game-card {
   position: relative;
   display: flex;
   flex-direction: column;
-  background: white;
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--glass-border);
   border-radius: var(--border-radius-xl);
   box-shadow: var(--shadow-md);
   overflow: hidden;
   transition: all var(--duration-300) var(--ease-rhythm);
+  cursor: pointer;
 }
 
 .game-card:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-xl), var(--shadow-glow);
+  border-color: var(--color-primary-300);
 }
 
-.game-card-image {
+/* ==========================================================================
+   游戏卡片图片容器
+   ========================================================================== */
+
+.game-card__image {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
+  background: var(--color-gray-100);
 }
 
-.game-card-image img {
+.game-card__image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform var(--duration-500) var(--ease-in-out);
 }
 
-.game-card:hover .game-card-image img {
+.game-card:hover .game-card__image img {
   transform: scale(1.05);
 }
 
-.game-card-overlay {
+.game-card__overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -52,44 +62,58 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  z-index: 2;
 }
 
-.game-card:hover .game-card-overlay {
+.game-card:hover .game-card__overlay {
   opacity: 0.8;
 }
 
-.game-card-play-button {
+/* ==========================================================================
+   游戏卡片播放按钮
+   ========================================================================== */
+
+.game-card__play-button {
   width: var(--space-16);
   height: var(--space-16);
-  background: white;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
   border-radius: var(--border-radius-full);
   display: flex;
   align-items: center;
   justify-content: center;
+  color: var(--color-primary-600);
+  font-size: var(--font-size-2xl);
   transform: scale(0.8);
-  transition: transform var(--duration-300) var(--ease-beat);
-  border: none;
+  transition: all var(--duration-300) var(--ease-beat);
+  border: 2px solid rgba(255, 255, 255, 0.3);
   cursor: pointer;
   box-shadow: var(--shadow-md);
 }
 
-.game-card:hover .game-card-play-button {
+.game-card:hover .game-card__play-button {
   transform: scale(1);
+  background: white;
+  border-color: var(--color-primary-200);
+  box-shadow: var(--shadow-lg);
 }
 
-/* 移动端触摸优化 */
+/* ==========================================================================
+   移动端触摸优化
+   ========================================================================== */
+
 @media (max-width: 768px) {
-  .game-card-overlay {
+  .game-card__overlay {
     opacity: 0.3;
     pointer-events: none;
   }
 
-  .game-card-play-button {
+  .game-card__play-button {
     transform: scale(0.9);
     pointer-events: auto;
   }
 
-  .game-card-play-button:active {
+  .game-card__play-button:active {
     transform: scale(0.95);
     box-shadow: var(--shadow-lg);
   }
@@ -101,383 +125,92 @@
   }
 }
 
-.game-card-content {
+/* ==========================================================================
+   游戏卡片内容区域
+   ========================================================================== */
+
+.game-card__content {
   padding: var(--space-6);
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(4px);
 }
 
-.game-card-title {
-  font-size: var(--font-size-xl);
+.game-card__title {
+  font-size: var(--font-size-body-large);
   font-weight: var(--font-weight-semibold);
   color: var(--color-gray-900);
-  margin: 0 0 var(--space-2) 0;
+  margin: 0 0 var(--space-tiny) 0;
   line-height: var(--line-height-tight);
+  transition: color var(--duration-200) var(--ease-in-out);
 }
 
-.game-card-description {
+.game-card:hover .game-card__title {
+  color: var(--color-primary-700);
+}
+
+.game-card__description {
   font-size: var(--font-size-sm);
   color: var(--color-gray-600);
   margin: 0;
   line-height: var(--line-height-relaxed);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
-/* 移动端游戏卡片字体优化 */
-@media (max-width: 768px) {
-  .game-card-title {
-    font-size: 1.1875rem; /* 19px - 提升移动端标题可读性 */
+/* ==========================================================================
+   移动端字体优化
+   ========================================================================== */
+
+/* 响应式字体 - 使用语义化变量自动缩放 */
+@media (max-width: 767px) {
+  .game-card__title {
+    font-size: var(--font-size-body-large); /* 使用语义化变量 */
   }
 
-  .game-card-description {
-    font-size: 0.9375rem; /* 15px - 适度提升描述文字 */
-  }
-}
-
-@media (max-width: 480px) {
-  .game-card-title {
-    font-size: 1.125rem; /* 18px - 小屏设备标题 */
-  }
-
-  .game-card-description {
-    font-size: 1rem; /* 16px - 小屏设备描述文字 */
+  .game-card__description {
+    font-size: var(--font-size-body-small); /* 使用语义化变量 */
   }
 }
 
-/* 游戏卡片变体 */
-.game-card-grid {
+/* ==========================================================================
+   游戏卡片修饰符系统 - 使用BEM命名规范
+   ========================================================================== */
+
+/* 网格布局变体 */
+.game-card--grid {
   max-width: 320px;
 }
 
-/* 侧边栏卡片 - 全新设计，统一尺寸 */
-.game-card-sidebar {
-  position: relative;
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  border-radius: var(--border-radius-lg);
-  overflow: hidden;
-  text-decoration: none;
-  transition: all var(--duration-300) var(--ease-rhythm);
-}
-
-.game-card-sidebar:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-xl);
-}
-
-.game-card-sidebar .game-card-image-wrapper {
-  position: relative;
-  width: 100%;
-  height: 100%;
-}
-
-.game-card-sidebar .game-card-image-wrapper img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform var(--duration-500) var(--ease-in-out);
-}
-
-.game-card-sidebar:hover .game-card-image-wrapper img {
-  transform: scale(1.05);
-}
-
-.game-card-sidebar .game-card-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: var(--gradient-primary);
-  opacity: 0;
-  transition: opacity var(--duration-300) var(--ease-in-out);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.game-card-sidebar:hover .game-card-overlay {
-  opacity: 0.6;
-}
-
-.game-card-sidebar .game-card-play-button {
-  width: var(--space-12);
-  height: var(--space-12);
-  background: white;
-  border-radius: var(--border-radius-full);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transform: scale(0.8);
-  transition: transform var(--duration-300) var(--ease-beat);
-  color: var(--color-primary-600);
-  font-size: var(--font-size-lg);
-  box-shadow: var(--shadow-md);
-  cursor: pointer;
-}
-
-.game-card-sidebar:hover .game-card-play-button {
-  transform: scale(1);
-}
-
-/* 游戏标题弹出层 */
-.game-card-sidebar .game-card-title-popup {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.9) 0%,
-    rgba(0, 0, 0, 0.7) 50%,
-    transparent 100%
-  );
-  padding: var(--space-8) var(--space-4) var(--space-4) var(--space-4);
-  transform: translateY(100%);
-  transition: transform var(--duration-300) var(--ease-rhythm);
-}
-
-.game-card-sidebar:hover .game-card-title-popup {
-  transform: translateY(0);
-}
-
-.game-card-sidebar .game-card-title-text {
-  display: block;
-  color: white;
-  font-size: var(--font-size-base);
-  font-weight: var(--font-weight-semibold);
-  line-height: var(--line-height-tight);
-  text-align: center;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
-}
-
-/* 侧边栏卡片移动端优化 */
-@media (max-width: 768px) {
-  .game-card-sidebar {
-    aspect-ratio: 3 / 2; /* 平板端使用3:2比例，更紧凑 */
-  }
-
-  .game-card-sidebar .game-card-play-button {
-    width: var(--space-10);
-    height: var(--space-10);
-    font-size: var(--font-size-base);
-  }
-
-  .game-card-sidebar .game-card-title-text {
-    font-size: var(--font-size-sm);
-  }
-}
-
-@media (max-width: 480px) {
-  .game-card-sidebar {
-    aspect-ratio: 1 / 1; /* 小屏使用正方形，最紧凑 */
-  }
-
-  .game-card-sidebar .game-card-play-button {
-    width: var(--space-8);
-    height: var(--space-8);
-    font-size: var(--font-size-sm);
-  }
-
-  .game-card-sidebar .game-card-title-text {
-    font-size: var(--font-size-sm); /* 保证移动端可读性 */
-    line-height: 1.3;
-  }
-}
-
-.game-card-featured {
-  max-width: 600px;
-}
-
-.game-card-featured .game-card-content {
-  padding: var(--space-8);
-}
-
-.game-card-featured .game-card-title {
-  font-size: var(--font-size-3xl);
-}
-
-/* Trending Games Card - Unique Design */
-.game-card-trending {
-  position: relative;
-  display: block;
-  width: 100%;
+/* 侧边栏变体 - 采用 hero-community-inline 简洁风格 */
+.game-card--sidebar {
   aspect-ratio: 4 / 3;
-  border-radius: var(--border-radius-xl);
-  overflow: hidden;
-  text-decoration: none;
-  transition: all var(--duration-300) var(--ease-rhythm);
-  background: var(--color-white);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.05);
-}
-
-.game-card-trending:hover {
-  transform: translateY(-6px) scale(1.03);
-  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15), 0 4px 12px rgba(0, 0, 0, 0.1),
-    0 0 0 2px rgba(99, 102, 241, 0.1);
-}
-
-.game-card-trending .game-card-image-container {
-  position: relative;
-  width: 100%;
-  height: 100%;
-}
-
-.game-card-trending .game-card-image-container img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform var(--duration-500) var(--ease-in-out);
-}
-
-.game-card-trending:hover .game-card-image-container img {
-  transform: scale(1.1);
-}
-
-.game-card-trending-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  opacity: 0;
-  transition: opacity var(--duration-300) var(--ease-in-out);
-}
-
-.game-card-trending:hover .game-card-trending-overlay {
-  opacity: 1;
-}
-
-.game-card-trending-play {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%) scale(0.8);
-  width: var(--space-16);
-  height: var(--space-16);
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: var(--border-radius-full);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-primary-600);
-  font-size: var(--font-size-xl);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2), 0 2px 8px rgba(0, 0, 0, 0.15);
-  transition: transform var(--duration-300) var(--ease-beat);
-  z-index: 3;
-}
-
-.game-card-trending:hover .game-card-trending-play {
-  transform: translate(-50%, -50%) scale(1);
-}
-
-.game-card-trending-gradient {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60%;
-  background: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.8) 0%,
-    rgba(0, 0, 0, 0.4) 50%,
-    transparent 100%
-  );
-  z-index: 1;
-}
-
-.game-card-trending-info {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: var(--space-4);
-  z-index: 2;
-}
-
-.game-card-trending-title {
-  color: white;
-  font-size: var(--font-size-sm);
-  font-weight: var(--font-weight-bold);
-  line-height: var(--line-height-tight);
-  margin: 0;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
-  text-align: center;
-}
-
-/* Compact Games Card - 4:3 Ratio for Sidebar */
-.game-card-compact {
-  position: relative;
-  display: block;
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  border-radius: var(--border-radius-lg);
-  overflow: hidden;
-  text-decoration: none;
-  transition: all var(--duration-300) var(--ease-rhythm);
   background: var(--color-white);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.04);
+  border: none;
+  border-radius: var(--border-radius-md);
 }
 
-.game-card-compact:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12), 0 3px 8px rgba(0, 0, 0, 0.08);
-}
-
-.game-card-compact-image {
+.game-card--sidebar .game-card__image {
+  aspect-ratio: 4 / 3;
   position: relative;
-  width: 100%;
-  height: 100%;
 }
 
-.game-card-compact-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.game-card--sidebar .game-card__image img {
   transition: transform var(--duration-500) var(--ease-in-out);
 }
 
-.game-card-compact:hover .game-card-compact-image img {
+.game-card--sidebar:hover .game-card__image img {
   transform: scale(1.05);
 }
 
-.game-card-compact-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(168, 85, 247, 0.8);
-  opacity: 0;
-  transition: opacity var(--duration-300) var(--ease-in-out);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 2;
+/* 移除播放按钮，使用覆盖层效果 */
+.game-card--sidebar .game-card__play-button {
+  display: none;
 }
 
-.game-card-compact:hover .game-card-compact-overlay {
-  opacity: 1;
-}
-
-.game-card-compact-play {
-  width: var(--space-12);
-  height: var(--space-12);
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: var(--border-radius-full);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-primary-600);
-  font-size: var(--font-size-lg);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transition: transform var(--duration-300) var(--ease-beat);
-  transform: scale(0.8);
-}
-
-.game-card-compact:hover .game-card-compact-play {
-  transform: scale(1);
-}
-
-.game-card-compact-gradient {
+.game-card--sidebar .game-card__overlay {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -492,120 +225,302 @@
   z-index: 1;
 }
 
-.game-card-compact-info {
+.game-card--sidebar .game-card__content {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  padding: var(--space-3);
-  z-index: 3;
+  padding: var(--space-2);
+  z-index: 2;
+  background: transparent;
+  backdrop-filter: none;
 }
 
-.game-card-compact-title {
+.game-card--sidebar .game-card__title {
   color: white;
-  font-size: var(--font-size-xs);
-  font-weight: var(--font-weight-semibold);
+  font-size: var(--font-size-body-small); /* 统一使用语义化变量 */
+  font-weight: var(--font-weight-bold);
   line-height: var(--line-height-tight);
   margin: 0;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9), 0 1px 2px rgba(0, 0, 0, 0.8),
+    0 0 1px rgba(0, 0, 0, 1);
   text-align: center;
+  /* 添加背景色作为备用，确保文字可读性 */
+  background: rgba(0, 0, 0, 0.3);
+  padding: var(--space-micro) var(--space-tiny);
+  border-radius: var(--border-radius-sm);
+  backdrop-filter: blur(2px);
 }
 
-/* ==========================================================================
-   游戏网格组件
-   ========================================================================== */
-
-.game-grid {
-  padding: var(--space-12) 0;
+.game-card--sidebar:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12), 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
-.game-grid-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: var(--space-8);
-}
-
-.game-grid-title {
-  font-size: var(--font-size-3xl);
-  font-weight: var(--font-weight-bold);
-  color: var(--color-gray-900);
-  margin: 0;
-}
-
-.game-grid-more {
-  color: var(--color-primary-600);
-  text-decoration: none;
-  font-weight: var(--font-weight-medium);
-  transition: color var(--duration-200) var(--ease-in-out);
-}
-
-.game-grid-more:hover {
-  color: var(--color-primary-700);
-}
-
-.game-grid-container {
-  display: grid;
-  gap: var(--space-6);
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-}
-
-.game-grid-sidebar .game-grid-container {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-3);
-}
-
-.game-grid-trending .game-grid-container {
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-}
-
-/* ==========================================================================
-   游戏 iframe 组件
-   ========================================================================== */
-
-.game-iframe-container {
-  position: relative;
-  width: 100%;
-  height: 600px;
-  border-radius: var(--border-radius-xl);
-  overflow: hidden;
-  background: var(--color-gray-900);
-  box-shadow: var(--shadow-2xl);
-}
-
-.game-iframe {
-  width: 100%;
-  height: 100%;
+/* 紧凑型变体 - 采用 hero-community-inline 简洁风格 */
+.game-card--compact {
+  aspect-ratio: 4 / 3;
+  background: var(--color-white);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.04);
   border: none;
-  display: block;
+  border-radius: var(--border-radius-md);
 }
 
-.game-iframe-loading {
+.game-card--compact .game-card__image {
+  aspect-ratio: 4 / 3;
+  position: relative;
+}
+
+.game-card--compact .game-card__image img {
+  transition: transform var(--duration-500) var(--ease-in-out);
+}
+
+.game-card--compact:hover .game-card__image img {
+  transform: scale(1.05);
+}
+
+/* 移除播放按钮，使用覆盖层效果 */
+.game-card--compact .game-card__play-button {
+  display: none;
+}
+
+.game-card--compact .game-card__overlay {
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
   right: 0;
+  height: 50%;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0.3) 50%,
+    transparent 100%
+  );
+  z-index: 1;
+}
+
+.game-card--compact .game-card__content {
+  position: absolute;
   bottom: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--gradient-primary);
+  left: 0;
+  right: 0;
+  padding: var(--space-2);
+  z-index: 2;
+  background: transparent;
+  backdrop-filter: none;
+}
+
+.game-card--compact .game-card__title {
   color: white;
-  font-size: var(--font-size-lg);
-  font-weight: var(--font-weight-medium);
+  font-size: var(--font-size-body-small); /* 统一使用语义化变量 */
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  margin: 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9), 0 1px 2px rgba(0, 0, 0, 0.8),
+    0 0 1px rgba(0, 0, 0, 1);
+  text-align: center;
+  /* 添加背景色作为备用，确保文字可读性 */
+  background: rgba(0, 0, 0, 0.3);
+  padding: var(--space-micro) var(--space-tiny);
+  border-radius: var(--border-radius-sm);
+  backdrop-filter: blur(2px);
 }
 
-.game-iframe-background {
+.game-card--compact:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12), 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* 特色变体 */
+.game-card--featured {
+  max-width: 600px;
+}
+
+.game-card--featured .game-card__content {
+  padding: var(--space-8);
+}
+
+.game-card--featured .game-card__title {
+  font-size: var(--font-size-heading);
+  margin-bottom: var(--space-base);
+}
+
+.game-card--featured .game-card__description {
+  font-size: var(--font-size-base);
+  -webkit-line-clamp: 3;
+}
+
+/* 热门游戏变体 - 采用 hero-community-inline 简洁风格 */
+.game-card--trending {
+  aspect-ratio: 4 / 3;
+  background: var(--color-white);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.04);
+  border: none;
+  border-radius: var(--border-radius-md);
+}
+
+.game-card--trending .game-card__image {
+  aspect-ratio: 4 / 3;
+  position: relative;
+}
+
+.game-card--trending .game-card__image img {
+  transition: transform var(--duration-500) var(--ease-in-out);
+}
+
+.game-card--trending:hover .game-card__image img {
+  transform: scale(1.05);
+}
+
+/* 移除播放按钮，使用覆盖层效果 */
+.game-card--trending .game-card__play-button {
+  display: none;
+}
+
+.game-card--trending .game-card__overlay {
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
   right: 0;
+  height: 50%;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0.3) 50%,
+    transparent 100%
+  );
+  z-index: 1;
+}
+
+.game-card--trending .game-card__content {
+  position: absolute;
   bottom: 0;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  filter: blur(10px);
-  opacity: 0.3;
-  z-index: -1;
+  left: 0;
+  right: 0;
+  padding: var(--space-2);
+  z-index: 2;
+  background: transparent;
+  backdrop-filter: none;
+}
+
+.game-card--trending .game-card__title {
+  color: white;
+  font-size: var(--font-size-body-small);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  margin: 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9), 0 1px 2px rgba(0, 0, 0, 0.8),
+    0 0 1px rgba(0, 0, 0, 1);
+  text-align: center;
+  /* 添加背景色作为备用，确保文字可读性 */
+  background: rgba(0, 0, 0, 0.3);
+  padding: var(--space-micro) var(--space-tiny);
+  border-radius: var(--border-radius-sm);
+  backdrop-filter: blur(2px);
+}
+
+.game-card--trending:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12), 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* 卡片样式变体 */
+.game-card--glass {
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--glass-border);
+}
+
+.game-card--solid {
+  background: white;
+  border: 1px solid var(--color-gray-200);
+}
+
+.game-card--minimal {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.game-card--minimal:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* ==========================================================================
+   响应式设计优化
+   ========================================================================== */
+
+/* 平板端优化 - 保持 4/3 比例一致性 */
+@media (max-width: 768px) {
+  .game-card--sidebar {
+    aspect-ratio: 4 / 3;
+  }
+
+  .game-card--compact {
+    aspect-ratio: 4 / 3;
+  }
+
+  .game-card--sidebar .game-card__play-button,
+  .game-card--compact .game-card__play-button {
+    width: var(--space-10);
+    height: var(--space-10);
+    font-size: var(--font-size-base);
+  }
+
+  .game-card--sidebar .game-card__title,
+  .game-card--compact .game-card__title {
+    font-size: var(--font-size-sm);
+  }
+}
+
+/* 小屏设备优化 - 在极小屏幕上使用正方形比例以节省空间 */
+@media (max-width: 480px) {
+  .game-card--sidebar,
+  .game-card--compact {
+    aspect-ratio: 1 / 1;
+  }
+
+  .game-card--sidebar .game-card__play-button,
+  .game-card--compact .game-card__play-button {
+    width: var(--space-8);
+    height: var(--space-8);
+    font-size: var(--font-size-sm);
+  }
+
+  .game-card--grid {
+    max-width: 100%;
+  }
+
+  .game-card--featured .game-card__title {
+    font-size: var(--font-size-2xl);
+  }
+}
+
+/* ==========================================================================
+   性能优化和无障碍功能
+   ========================================================================== */
+
+/* 减少动画的用户偏好支持 */
+@media (prefers-reduced-motion: reduce) {
+  .game-card,
+  .game-card__image img,
+  .game-card__overlay,
+  .game-card__play-button {
+    transition: none;
+  }
+
+  .game-card:hover {
+    transform: none;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  .game-card {
+    border: 2px solid var(--color-gray-900);
+  }
+
+  .game-card__play-button {
+    border: 2px solid var(--color-primary-600);
+  }
 }

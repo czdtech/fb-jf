@@ -92,31 +92,22 @@
   font-size: var(--font-size-xl);
 }
 
-/* 移动端按钮字体优化 */
-@media (max-width: 768px) {
+/* 响应式按钮字体 - 使用语义化变量自动缩放 */
+/* 字体大小现在由全局语义化变量自动处理，无需手动设置 */
+
+/* 按钮特定的字体调整 - 确保移动端可读性 */
+@media (max-width: 767px) {
   .btn {
-    font-size: 1.0625rem; /* 17px - 提升移动端按钮可读性 */
+    font-size: var(--font-size-body); /* 使用语义化变量 */
+    /* 移动端最小字体保证 */
+    min-font-size: 17px;
   }
 
   .btn-lg {
-    font-size: 1.1875rem; /* 19px */
+    font-size: var(--font-size-body-large);
   }
 
   .btn-xl {
-    font-size: 1.3125rem; /* 21px */
-  }
-}
-
-@media (max-width: 480px) {
-  .btn {
-    font-size: 1.125rem; /* 18px - 小屏设备按钮字体 */
-  }
-
-  .btn-lg {
-    font-size: 1.25rem; /* 20px */
-  }
-
-  .btn-xl {
-    font-size: 1.375rem; /* 22px */
+    font-size: var(--font-size-subheading);
   }
 }

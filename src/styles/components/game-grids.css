@@ -1,0 +1,275 @@
+/**
+ * 统一的游戏网格系统 v1.0
+ * 为所有游戏列表和网格提供一致的响应式布局
+ */
+
+/* ==========================================================================
+   基础游戏网格样式
+   ========================================================================== */
+
+.game-grid {
+  display: grid;
+  gap: var(--space-6);
+  width: 100%;
+  margin-bottom: var(--space-8);
+}
+
+/* ==========================================================================
+   游戏网格变体 - 基于内容类型
+   ========================================================================== */
+
+/* 标准网格 - 用于游戏列表页面 */
+.game-grid--standard {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-6);
+}
+
+/* 紧凑网格 - 用于侧边栏和小区域 */
+.game-grid--compact {
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-4);
+}
+
+/* 特色网格 - 用于首页热门游戏，适配 4/3 卡片比例 */
+.game-grid--featured {
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: var(--space-4);
+  /* 适配 4/3 比例的卡片，8个游戏完美分布为 4x2 */
+}
+
+/* 相关游戏网格 - 用于游戏详情页 */
+.game-grid--related {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-6);
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* 简单列表网格 - 用于简单的游戏列表 */
+.game-grid--simple {
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--space-4);
+}
+
+/* ==========================================================================
+   响应式设计 - 统一的断点系统
+   ========================================================================== */
+
+/* 大型桌面 (1536px+) */
+@media (min-width: 1536px) {
+  .game-grid--standard {
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--space-8);
+  }
+
+  .game-grid--featured {
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-6);
+  }
+
+  .game-grid--related {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: var(--space-8);
+  }
+}
+
+/* 桌面 (1280px - 1535px) */
+@media (max-width: 1535px) and (min-width: 1280px) {
+  .game-grid--featured {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+}
+
+/* 中型桌面/大型平板 (1024px - 1279px) */
+@media (max-width: 1279px) and (min-width: 1024px) {
+  .game-grid--standard {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: var(--space-5);
+  }
+
+  .game-grid--featured {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: var(--space-4);
+  }
+
+  .game-grid--related {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: var(--space-5);
+  }
+}
+
+/* 平板 (768px - 1023px) */
+@media (max-width: 1023px) and (min-width: 768px) {
+  .game-grid--standard {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-4);
+  }
+
+  .game-grid--compact {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: var(--space-3);
+  }
+
+  .game-grid--featured {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: var(--space-3);
+  }
+
+  .game-grid--related {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: var(--space-4);
+  }
+
+  .game-grid--simple {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: var(--space-3);
+  }
+}
+
+/* 大型手机 (480px - 767px) */
+@media (max-width: 767px) and (min-width: 480px) {
+  .game-grid--standard {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-4);
+  }
+
+  .game-grid--compact {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-3);
+  }
+
+  .game-grid--featured {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: var(--space-3);
+  }
+
+  .game-grid--related {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-4);
+  }
+
+  .game-grid--simple {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-3);
+  }
+}
+
+/* 小型手机 (479px及以下) */
+@media (max-width: 479px) {
+  .game-grid {
+    gap: var(--space-3);
+  }
+
+  .game-grid--standard,
+  .game-grid--compact,
+  .game-grid--related,
+  .game-grid--simple {
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+
+  .game-grid--featured {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: var(--space-2);
+  }
+}
+
+/* ==========================================================================
+   游戏网格容器样式
+   ========================================================================== */
+
+.game-grid-container {
+  width: 100%;
+  padding: 0 var(--space-4);
+}
+
+@media (max-width: 768px) {
+  .game-grid-container {
+    padding: 0 var(--space-3);
+  }
+}
+
+@media (max-width: 480px) {
+  .game-grid-container {
+    padding: 0 var(--space-2);
+  }
+}
+
+/* ==========================================================================
+   游戏网格项目样式
+   ========================================================================== */
+
+.game-grid-item {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 确保游戏卡片在网格中的一致性 */
+.game-grid .game-card,
+.game-grid .game {
+  width: 100%;
+  height: 100%;
+  min-height: 200px;
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .game-grid .game-card,
+  .game-grid .game {
+    min-height: 180px;
+  }
+}
+
+@media (max-width: 480px) {
+  .game-grid .game-card,
+  .game-grid .game {
+    min-height: 160px;
+  }
+}
+
+/* ==========================================================================
+   加载状态和空状态
+   ========================================================================== */
+
+.game-grid--loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.game-grid--empty {
+  grid-template-columns: 1fr;
+  text-align: center;
+  padding: var(--space-16) var(--space-4);
+  color: var(--color-gray-500);
+}
+
+/* ==========================================================================
+   性能优化
+   ========================================================================== */
+
+/* 减少动画的用户偏好支持 */
+@media (prefers-reduced-motion: reduce) {
+  .game-grid * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  .game-grid {
+    gap: calc(var(--space-6) + 2px);
+  }
+
+  .game-grid .game-card {
+    border: 2px solid var(--color-gray-900);
+  }
+}

@@ -125,7 +125,7 @@ const { communityMods, musicDelayStart } = Astro.props
 
   .hero-community-title-inline h3 {
     color: white;
-    font-size: var(--font-size-xs);
+    font-size: var(--font-size-sm); /* 修复无障碍问题：从xs(12px)改为sm(14px) */
     font-weight: var(--font-weight-semibold);
     line-height: var(--line-height-tight);
     margin: 0;
@@ -150,7 +150,7 @@ const { communityMods, musicDelayStart } = Astro.props
     }
 
     .hero-community-title-inline h3 {
-      font-size: var(--font-size-2xs);
+      font-size: var(--font-size-xs); /* 移动端可以使用xs(12px)，因为空间有限 */
     }
   }
 
@@ -170,7 +170,7 @@ const { communityMods, musicDelayStart } = Astro.props
     }
 
     .hero-community-title-inline h3 {
-      font-size: var(--font-size-2xs);
+      font-size: var(--font-size-xs); /* 小屏设备可以使用xs(12px)，因为空间极其有限 */
     }
   }
 </style>

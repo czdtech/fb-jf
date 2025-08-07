@@ -21,9 +21,26 @@ body {
   font-size: var(--font-size-base);
   line-height: var(--line-height-normal);
   color: var(--color-gray-900);
-  background-color: var(--color-gray-50);
+  background: var(--hero-main-bg);
   margin: 0;
   padding: 0;
+  overflow-x: hidden; /* 防止水平滚动 */
+  font-display: swap; /* 减少字体切换时的闪烁 */
+  position: relative;
+}
+
+/* 页面级装饰纹理 */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--hero-texture-bg);
+  opacity: var(--hero-texture-opacity);
+  pointer-events: none;
+  z-index: -1;
 }
 
 /* 移动端字体优化 */
@@ -37,6 +54,25 @@ body {
   body {
     font-size: 1.125rem; /* 18px - 进一步提升小屏设备阅读体验 */
   }
+}
+
+/* ==========================================================================
+   基础链接样式
+   ========================================================================== */
+
+a {
+  color: var(--color-primary-600);
+  text-decoration: none;
+  transition: color var(--duration-200) var(--ease-in-out);
+}
+
+a:hover {
+  color: var(--color-primary-700);
+}
+
+a:focus {
+  outline: 2px solid var(--color-primary-500);
+  outline-offset: 2px;
 }
 
 /* ==========================================================================

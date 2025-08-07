@@ -1,0 +1,284 @@
+---
+// 简单的网格测试页面，不依赖复杂的组件
+const testGames = Array.from({ length: 12 }, (_, i) => ({
+  slug: `test-game-${i + 1}`,
+  title: `Test Game ${i + 1}`,
+  image: `/img-${(i % 10) + 1}.png`,
+  category: i < 4 ? 'popular' : i < 8 ? 'new' : 'trending',
+  description: `This is a test game description for game ${i + 1}. It demonstrates the responsive grid layout.`,
+  rating: 4.5 + (Math.random() * 0.5)
+}))
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grid Test - Fiddlebops</title>
+  <link rel="stylesheet" href="/src/styles/design-tokens.css">
+  <link rel="stylesheet" href="/src/styles/components.css">
+</head>
+<body>
+  <main style="padding: 2rem 0; background: var(--color-gray-50); min-height: 100vh;">
+    <div class="container">
+      <h1 style="text-align: center; margin-bottom: 3rem; font-size: 2.5rem; color: var(--color-primary-700);">
+        🎵 响应式网格测试页面
+      </h1>
+
+      <!-- 当前断点指示器 -->
+      <div class="breakpoint-indicator">
+        <div class="indicator-content">
+          <span class="indicator-text">当前断点: </span>
+          <span class="indicator-value">桌面</span>
+        </div>
+      </div>
+
+      <!-- 标准网格测试 -->
+      <section style="margin-bottom: 4rem;">
+        <h2 style="margin-bottom: 2rem; font-size: 1.8rem; color: var(--color-primary-600);">
+          📱 标准网格 (.game-grid--standard)
+        </h2>
+        <div class="game-grid game-grid--standard">
+          {testGames.slice(0, 8).map((game) => (
+            <div class="game-grid-item test-card">
+              <div class="test-card-image">
+                <img src={game.image} alt={game.title} />
+              </div>
+              <div class="test-card-content">
+                <h3>{game.title}</h3>
+                <p>{game.description}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 特色网格测试 -->
+      <section style="margin-bottom: 4rem;">
+        <h2 style="margin-bottom: 2rem; font-size: 1.8rem; color: var(--color-primary-600);">
+          🔥 特色网格 (.game-grid--featured)
+        </h2>
+        <div class="game-grid game-grid--featured">
+          {testGames.slice(0, 12).map((game) => (
+            <div class="game-grid-item test-card test-card--compact">
+              <div class="test-card-image">
+                <img src={game.image} alt={game.title} />
+              </div>
+              <div class="test-card-content">
+                <h4>{game.title}</h4>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 紧凑网格测试 -->
+      <section style="margin-bottom: 4rem;">
+        <h2 style="margin-bottom: 2rem; font-size: 1.8rem; color: var(--color-primary-600);">
+          📦 紧凑网格 (.game-grid--compact)
+        </h2>
+        <div class="game-grid game-grid--compact">
+          {testGames.slice(0, 6).map((game) => (
+            <div class="game-grid-item test-card">
+              <div class="test-card-image">
+                <img src={game.image} alt={game.title} />
+              </div>
+              <div class="test-card-content">
+                <h3>{game.title}</h3>
+                <p>{game.description.slice(0, 50)}...</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 相关游戏网格测试 -->
+      <section style="margin-bottom: 4rem;">
+        <h2 style="margin-bottom: 2rem; font-size: 1.8rem; color: var(--color-primary-600);">
+          🎮 相关游戏网格 (.game-grid--related)
+        </h2>
+        <div class="game-grid game-grid--related">
+          {testGames.slice(0, 6).map((game) => (
+            <div class="game-grid-item test-card">
+              <div class="test-card-image">
+                <img src={game.image} alt={game.title} />
+              </div>
+              <div class="test-card-content">
+                <h3>{game.title}</h3>
+                <p>{game.description}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 响应式断点信息 -->
+      <section style="margin-bottom: 4rem;">
+        <h2 style="margin-bottom: 2rem; font-size: 1.8rem; color: var(--color-primary-600);">
+          📏 响应式断点信息
+        </h2>
+        <div class="breakpoint-info">
+          <div class="breakpoint-item">
+            <strong>小型手机:</strong> 479px及以下 - 单列布局
+          </div>
+          <div class="breakpoint-item">
+            <strong>大型手机:</strong> 480px - 767px - 双列布局
+          </div>
+          <div class="breakpoint-item">
+            <strong>平板:</strong> 768px - 1023px - 3-4列布局
+          </div>
+          <div class="breakpoint-item">
+            <strong>桌面:</strong> 1024px+ - 多列自适应布局
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <style>
+    /* 测试卡片样式 */
+    .test-card {
+      background: white;
+      border-radius: var(--border-radius-lg);
+      box-shadow: var(--shadow-md);
+      overflow: hidden;
+      transition: all var(--duration-300) var(--ease-in-out);
+      border: 1px solid var(--color-gray-200);
+    }
+
+    .test-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-xl);
+      border-color: var(--color-primary-300);
+    }
+
+    .test-card--compact {
+      min-height: 120px;
+    }
+
+    .test-card-image {
+      width: 100%;
+      height: 150px;
+      overflow: hidden;
+      background: var(--color-gray-100);
+    }
+
+    .test-card--compact .test-card-image {
+      height: 80px;
+    }
+
+    .test-card-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .test-card-content {
+      padding: var(--space-4);
+    }
+
+    .test-card--compact .test-card-content {
+      padding: var(--space-2);
+    }
+
+    .test-card h3, .test-card h4 {
+      margin: 0 0 var(--space-2) 0;
+      color: var(--color-gray-900);
+      font-size: var(--font-size-lg);
+      font-weight: var(--font-weight-semibold);
+    }
+
+    .test-card--compact h4 {
+      font-size: var(--font-size-sm);
+      margin: 0;
+    }
+
+    .test-card p {
+      margin: 0;
+      color: var(--color-gray-600);
+      font-size: var(--font-size-sm);
+      line-height: var(--line-height-relaxed);
+    }
+
+    /* 断点指示器 */
+    .breakpoint-indicator {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 1000;
+      background: var(--color-primary-600);
+      color: white;
+      padding: var(--space-3);
+      border-radius: var(--border-radius-lg);
+      box-shadow: var(--shadow-lg);
+      font-weight: var(--font-weight-semibold);
+    }
+
+    .indicator-value {
+      font-weight: var(--font-weight-bold);
+    }
+
+    /* 断点信息 */
+    .breakpoint-info {
+      background: white;
+      padding: var(--space-6);
+      border-radius: var(--border-radius-lg);
+      border: 1px solid var(--color-gray-200);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .breakpoint-item {
+      padding: var(--space-3) 0;
+      border-bottom: 1px solid var(--color-gray-200);
+      font-size: var(--font-size-base);
+    }
+
+    .breakpoint-item:last-child {
+      border-bottom: none;
+    }
+
+    .breakpoint-item strong {
+      color: var(--color-primary-600);
+    }
+
+    /* 响应式断点指示器更新 */
+    @media (max-width: 1023px) and (min-width: 768px) {
+      .indicator-value::after {
+        content: '平板';
+      }
+      .indicator-value {
+        display: none;
+      }
+    }
+
+    @media (max-width: 767px) and (min-width: 480px) {
+      .indicator-value::after {
+        content: '大型手机';
+      }
+      .indicator-value {
+        display: none;
+      }
+    }
+
+    @media (max-width: 479px) {
+      .indicator-value::after {
+        content: '小型手机';
+      }
+      .indicator-value {
+        display: none;
+      }
+    }
+
+    /* 移动端优化 */
+    @media (max-width: 768px) {
+      .breakpoint-indicator {
+        top: 10px;
+        right: 10px;
+        padding: var(--space-2);
+        font-size: var(--font-size-sm);
+      }
+    }
+  </style>
+</body>
+</html>

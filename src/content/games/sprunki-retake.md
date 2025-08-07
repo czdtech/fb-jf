@@ -7,7 +7,7 @@ description: >-
   Retake will definitely get you hooked!
 image: /sprunki-retake.png
 iframe: https://www.minijuegos.com/embed/sprunki-retake
-category: trending
+category: popular
 meta:
   title: Sprunki Retake - Play Sprunki Retake Online
   description: >-

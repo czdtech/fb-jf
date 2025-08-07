@@ -16,8 +16,11 @@
 /* 游戏卡片组件系统 */
 @import './components/game-cards.css';
 
-/* 导航组件系统 */
-@import './components/navigation.css';
+/* 游戏网格系统 */
+@import './components/game-grids.css';
+
+/* 导航组件系统 - 游戏风格版本 */
+@import './components/navigation-gaming.css';
 
 /* 布局组件系统 */
 @import './components/layout.css';
@@ -30,3 +33,6 @@
 
 /* 表单组件系统 */
 @import './components/forms.css';
+
+/* 游戏内容页面样式 - 游戏风格版本 */
+@import './components/game-content-gaming.css';

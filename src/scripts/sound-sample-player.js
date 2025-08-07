@@ -1,5 +1,8 @@
 // FiddleBops Sound Sample Player
-// 高级音频播放器脚本
+// 高级音频播放器脚本 - 模块化版本
+
+import { musicNotesAnimation } from '@/scripts/music-notes-animation.js';
+import { audioErrorHandler } from '@/scripts/audio-error-handler.js';
 
 console.log('FiddleBops Audio Player script loaded');
 
@@ -7,6 +10,8 @@ class FiddleBopsAudioManager {
   constructor() {
     this.currentlyPlaying = null;
     this.audioElements = new Map();
+    this.musicNotesAnimation = musicNotesAnimation;
+    this.errorHandler = audioErrorHandler;
     this.init();
   }
 
@@ -52,46 +57,59 @@ class FiddleBopsAudioManager {
     const elements = this.audioElements.get(audioId);
     const { audio, card, button } = elements;
 
-    // 音频加载事件
-    audio.addEventListener('loadstart', () => {
-      button.classList.add('loading');
-      card.classList.add('loading');
+    // 创建事件处理函数并存储引用以便后续清理
+    const eventHandlers = {
+      loadstart: () => {
+        button.classList.add('loading');
+        card.classList.add('loading');
+      },
+      canplaythrough: () => {
+        button.classList.remove('loading');
+        card.classList.remove('loading');
+        this.updateDuration(audioId);
+      },
+      timeupdate: () => {
+        this.updateProgress(audioId);
+      },
+      ended: () => {
+        this.stopAudio(audioId);
+      },
+      error: (e) => {
+        this.errorHandler.handleLoadError(audio, audioId, e, { button, card });
+      },
+      stalled: () => {
+        this.errorHandler.handleNetworkError(audio, audioId, { button, card });
+      },
+      suspend: () => {
+        console.log(`[FiddleBopsAudio] 网络暂停: ${audioId}`);
+      }
+    };
+
+    // 添加事件监听器
+    Object.entries(eventHandlers).forEach(([event, handler]) => {
+      audio.addEventListener(event, handler);
     });
 
-    audio.addEventListener('canplaythrough', () => {
-      button.classList.remove('loading');
-      card.classList.remove('loading');
-      this.updateDuration(audioId);
-    });
-
-    // 播放进度更新
-    audio.addEventListener('timeupdate', () => {
-      this.updateProgress(audioId);
-    });
-
-    // 播放结束
-    audio.addEventListener('ended', () => {
-      this.stopAudio(audioId);
-    });
-
-    // 错误处理
-    audio.addEventListener('error', (e) => {
-      button.classList.remove('loading');
-      card.classList.remove('loading');
-      console.error(`音频加载失败: ${audioId}`, e);
-    });
+    // 存储事件处理函数引用以便清理
+    elements.eventHandlers = eventHandlers;
   }
 
   setupButtonEvents(audioId) {
     const elements = this.audioElements.get(audioId);
     const { button } = elements;
 
-    button.addEventListener('click', (e) => {
+    // 创建按钮事件处理函数并存储引用
+    const buttonClickHandler = (e) => {
       e.preventDefault();
       e.stopPropagation();
       console.log('Play button clicked:', audioId);
       this.toggleAudio(audioId);
-    });
+    };
+
+    button.addEventListener('click', buttonClickHandler);
+
+    // 存储按钮事件处理函数引用以便清理
+    elements.buttonClickHandler = buttonClickHandler;
   }
 
   async toggleAudio(audioId) {
@@ -109,23 +127,26 @@ class FiddleBopsAudioManager {
       try {
         button.classList.add('loading');
         card.classList.add('loading');
-        
+
         await audio.play();
-        
+
         button.classList.remove('loading');
         card.classList.remove('loading');
         button.classList.add('playing');
         card.classList.add('playing');
-        
+
         this.currentlyPlaying = audioId;
-        
-        // 添加音符点击动画
-        this.createMusicNotes(button);
-        
+
+        // 使用模块化的音符动画
+        this.musicNotesAnimation.createAnimation(button);
+
       } catch (error) {
-        console.error('播放失败:', error);
-        button.classList.remove('loading');
-        card.classList.remove('loading');
+        // 使用统一的错误处理
+        await this.errorHandler.handlePlayError(audio, audioId, error, {
+          button,
+          card,
+          retryCount: 0
+        });
       }
     } else {
       this.pauseAudio(audioId);
@@ -211,65 +232,66 @@ class FiddleBopsAudioManager {
     return `${mins}:${secs.toString().padStart(2, '0')}`;
   }
 
-  createMusicNotes(button) {
-    const rect = button.getBoundingClientRect();
-    const centerX = rect.left + rect.width / 2;
-    const centerY = rect.top + rect.height / 2;
-    
-    const notes = ['♪', '♫', '♬', '♩', '♭', '♯', '𝄞'];
-    const colors = ['#9333ea', '#a855f7', '#c084fc', '#ec4899', '#f472b6'];
-    
-    for (let i = 0; i < 3; i++) {
-      setTimeout(() => {
-        const note = document.createElement('div');
-        const randomNote = notes[Math.floor(Math.random() * notes.length)];
-        const randomColor = colors[Math.floor(Math.random() * colors.length)];
-        
-        note.textContent = randomNote;
-        note.style.cssText = `
-          position: fixed;
-          left: ${centerX + (Math.random() - 0.5) * 40}px;
-          top: ${centerY + (Math.random() - 0.5) * 40}px;
-          color: ${randomColor};
-          font-size: ${Math.random() * 8 + 16}px;
-          font-weight: bold;
-          pointer-events: none;
-          z-index: 9999;
-          user-select: none;
-          transform: translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg);
-        `;
-        
-        document.body.appendChild(note);
-        
-        // 动画
-        const animation = note.animate([
-          {
-            opacity: 1,
-            transform: `translate(-50%, -50%) rotate(${Math.random() * 30 - 15}deg) scale(1)`,
-            filter: 'blur(0px)',
-          },
-          {
-            opacity: 0.7,
-            transform: `translate(-50%, -150%) rotate(${Math.random() * 60 - 30}deg) scale(1.2)`,
-            filter: 'blur(0px)',
-          },
-          {
-            opacity: 0,
-            transform: `translate(-50%, -250%) rotate(${Math.random() * 90 - 45}deg) scale(0.8)`,
-            filter: 'blur(2px)',
-          }
-        ], {
-          duration: 2000,
-          easing: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
-        });
-        
-        animation.onfinish = () => {
-          if (document.body.contains(note)) {
-            document.body.removeChild(note);
-          }
-        };
-      }, i * 200);
+  // 移除旧的音符动画方法，现在使用模块化的音符动画
+  // createMusicNotes 方法已被 musicNotesAnimation.createAnimation 替代
+
+  /**
+   * 获取错误统计信息（调试用）
+   */
+  getErrorStats() {
+    return this.errorHandler.getErrorStats();
+  }
+
+  /**
+   * 清除错误统计
+   */
+  clearErrorStats() {
+    this.errorHandler.clearErrorStats();
+  }
+
+  /**
+   * 销毁音频管理器
+   */
+  destroy() {
+    // 停止所有音频
+    if (this.currentlyPlaying) {
+      this.stopAudio(this.currentlyPlaying);
     }
+
+    // 清理事件监听器 - 使用存储的函数引用
+    this.audioElements.forEach((elements, audioId) => {
+      const { audio, button, eventHandlers, buttonClickHandler } = elements;
+
+      // 清理音频事件监听器
+      if (eventHandlers) {
+        Object.entries(eventHandlers).forEach(([event, handler]) => {
+          audio.removeEventListener(event, handler);
+        });
+      }
+
+      // 清理按钮事件监听器
+      if (buttonClickHandler) {
+        button.removeEventListener('click', buttonClickHandler);
+      }
+    });
+
+    // 清理音符动画
+    this.musicNotesAnimation.destroy();
+
+    // 清理全局键盘事件监听器
+    this.removeGlobalEventListeners();
+
+    this.audioElements.clear();
+    this.currentlyPlaying = null;
+  }
+
+  /**
+   * 移除全局事件监听器
+   */
+  removeGlobalEventListeners() {
+    // 注意：这里需要在初始化时存储键盘事件处理函数的引用
+    // 当前的实现在文件底部，可能需要重构以便正确清理
+    console.log('[FiddleBopsAudio] 全局事件监听器清理 - 需要重构键盘事件处理');
   }
 }
 

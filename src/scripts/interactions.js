@@ -3,8 +3,12 @@
  * 音乐主题的动效和微交互
  */
 
+import { audioErrorHandler } from '@/scripts/audio-error-handler.js';
+
 class FiddleBopsInteractions {
   constructor() {
+    this.soundEnabled = false; // 默认关闭音效
+    this.errorHandler = audioErrorHandler;
     this.init();
   }
 
@@ -121,16 +125,26 @@ class FiddleBopsInteractions {
   }
 
   /**
-   * 音频播放控制
+   * 音频播放控制 - 增强错误处理
    */
-  toggleAudio(audio, container) {
+  async toggleAudio(audio, container) {
     if (audio.paused) {
       // 先暂停其他正在播放的音频
       this.pauseAllAudio();
 
-      audio.play();
-      container.classList.add('playing');
-      this.startAudioVisualization(container);
+      try {
+        await audio.play();
+        container.classList.add('playing');
+        this.startAudioVisualization(container);
+      } catch (error) {
+        // 使用统一的错误处理模块
+        const audioId = audio.id || 'unknown';
+        await this.errorHandler.handlePlayError(audio, audioId, error, {
+          container,
+          retryCount: 0
+        });
+        this.resetAudioState(container);
+      }
     } else {
       audio.pause();
       this.resetAudioState(container);
@@ -446,17 +460,24 @@ class FiddleBopsInteractions {
   }
 
   /**
-   * 播放点击音效（可选）
+   * 播放点击音效（可选）- 增强错误处理
    */
-  playClickSound() {
+  async playClickSound() {
     // 这里可以添加音效播放逻辑
     // 为了不干扰用户体验，默认关闭
     if (this.soundEnabled) {
       const audio = new Audio('/click-sound.mp3');
       audio.volume = 0.1;
-      audio.play().catch(() => {
-        // 静默处理播放失败
-      });
+
+      try {
+        await audio.play();
+      } catch (error) {
+        // 使用统一的错误处理，但不显示用户通知（音效失败不影响用户体验）
+        this.errorHandler.handlePlayError(audio, 'click-sound', error, {
+          showUserNotifications: false,
+          retryCount: 0
+        });
+      }
     }
   }
 

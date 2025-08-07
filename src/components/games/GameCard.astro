@@ -27,34 +27,34 @@ const categoryNames = {
   'classic': 'Classic'
 };
 
-// 分类色彩映射 - 增加视觉丰富度
+// 分类色彩映射 - 使用设计令牌系统
 const categoryColors = {
   'popular': {
-    gradient: 'linear-gradient(135deg, #fde68a 0%, #f59e0b 100%)',
-    glow: 'rgba(245, 158, 11, 0.5)'
+    gradient: 'var(--gradient-popular)',
+    glow: 'var(--glow-popular)'
   },
   'new': {
-    gradient: 'linear-gradient(135deg, #a7f3d0 0%, #10b981 100%)',
-    glow: 'rgba(16, 185, 129, 0.5)'
+    gradient: 'var(--gradient-new)',
+    glow: 'var(--glow-new)'
   },
   'trending': {
-    gradient: 'linear-gradient(135deg, #bfdbfe 0%, #3b82f6 100%)',
-    glow: 'rgba(59, 130, 246, 0.5)'
+    gradient: 'var(--gradient-trending)',
+    glow: 'var(--glow-trending)'
   },
   'featured': {
-    gradient: 'linear-gradient(135deg, #ddd6fe 0%, #8b5cf6 100%)',
-    glow: 'rgba(139, 92, 246, 0.5)'
+    gradient: 'var(--gradient-featured)',
+    glow: 'var(--glow-featured)'
   },
   'classic': {
-    gradient: 'linear-gradient(135deg, #fecaca 0%, #ef4444 100%)',
-    glow: 'rgba(239, 68, 68, 0.5)'
+    gradient: 'var(--gradient-classic)',
+    glow: 'var(--glow-classic)'
   },
 };
 
-// 获取当前类别的色彩方案
+// 获取当前类别的色彩方案 - 使用设计令牌
 const colorScheme = categoryColors[category as keyof typeof categoryColors] || {
-  gradient: 'linear-gradient(135deg, #c4b5fd 0%, #8b5cf6 100%)',
-  glow: 'rgba(139, 92, 246, 0.5)'
+  gradient: 'var(--gradient-primary)',
+  glow: 'var(--glow-featured)'
 };
 
 const formatCategory = (cat: string) => {
@@ -282,10 +282,10 @@ const generateStars = (rating: number) => {
     height: 100%;
   }
 
-  /* 游戏图片容器 - 增强深度 */
+  /* 游戏图片容器 - 增强深度，统一使用 4/3 比例符合 Sprunki 游戏封面标准 */
   .game-image-container {
     position: relative;
-    aspect-ratio: 16/9;
+    aspect-ratio: 4/3;
     overflow: hidden;
     background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
   }

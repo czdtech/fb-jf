@@ -22,9 +22,9 @@ const { games } = Astro.props;
     </div>
 
     <div class="trending-games-container">
-      <div class="game-grid-container">
-        {games.trending.slice(0, 12).map((game: any) => (
-          <div class="scroll-animate music-element">
+      <div class="game-grid game-grid--featured">
+        {games.trending.slice(0, 8).map((game: any) => (
+          <div class="game-grid-item scroll-animate music-element">
             <GameCard game={game} variant="trending" />
           </div>
         ))}
@@ -115,22 +115,9 @@ const { games } = Astro.props;
   opacity: 0.7;
 }
 
-.game-grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  gap: var(--space-4);
-}
+/* 游戏网格样式现在由统一的 game-grids.css 提供 */
 
 /* Responsive Design */
-@media (max-width: 1200px) {
-  .game-grid-container {
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(4, 1fr);
-    gap: var(--space-3);
-  }
-}
-
 @media (max-width: 768px) {
   .section-header {
     flex-direction: column;
@@ -141,12 +128,6 @@ const { games } = Astro.props;
 
   .section-title {
     font-size: var(--font-size-2xl) !important;
-  }
-
-  .game-grid-container {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(6, 1fr);
-    gap: var(--space-3);
   }
 
   .trending-games-container {
