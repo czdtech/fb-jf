@@ -152,12 +152,15 @@ const safeMeta = {
     )}
 
         <!-- 全局错误处理器 -->
-    <script type="module">
+    <script type="module" data-is-prod={import.meta.env.PROD}>
       import { GlobalErrorHandler } from '/src/scripts/global-error-handler.js';
+      
+      // 从 data 属性获取环境变量
+      const isProd = document.currentScript.getAttribute('data-is-prod') === 'true';
       
       // 初始化全局错误处理器
       window.globalErrorHandler = new GlobalErrorHandler({
-        enableLogging: !import.meta.env.PROD, // 开发环境启用日志
+        enableLogging: !isProd, // 开发环境启用日志
         enableNotifications: true,
         enableReporting: false // 需要时可配置报告端点
       });
@@ -180,8 +183,11 @@ const safeMeta = {
         enableHighContrast: true
       });
       
-      // 在开发环境中提供检查功能
-      if (!import.meta.env.PROD) {
+      // 从 data 属性获取环境变量并提供检查功能
+      const currentScript = document.querySelector('script[data-is-prod]');
+      const isProd = currentScript ? currentScript.getAttribute('data-is-prod') === 'true' : false;
+      
+      if (!isProd) {
         window.checkAccessibility = () => window.accessibilityManager.checkAccessibility();
       }
     </script>

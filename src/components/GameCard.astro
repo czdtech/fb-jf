@@ -157,7 +157,6 @@ const formatCategory = (category: string): string => {
           <div class="flex items-center justify-between">
             <span 
               class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20"
-              role="badge"
               aria-label={`Category: ${formatCategory(game.category)}`}
             >
               {formatCategory(game.category)}
@@ -203,7 +202,6 @@ const formatCategory = (category: string): string => {
           </div>
           <span 
             class="absolute top-4 left-4 inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary text-primary-foreground hover:bg-primary/80 shadow-lg"
-            role="badge"
             aria-label={`Featured in category: ${formatCategory(game.category)}`}
           >
             {formatCategory(game.category)}
@@ -294,7 +292,6 @@ const formatCategory = (category: string): string => {
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
             <span 
               class="absolute top-3 right-3 inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-red-500 text-white shadow-lg animate-pulse"
-              role="badge"
               aria-label="Currently trending game"
             >
               Trending
