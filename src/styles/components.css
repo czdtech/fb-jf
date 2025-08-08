@@ -3,9 +3,6 @@
  * Essential component styles that complement shadcn/ui
  */
 
-/* Responsive optimization classes */
-@import './responsive-optimizations.css';
-
 /* Hero background system and animations */
 @import './components/hero.css';
 
