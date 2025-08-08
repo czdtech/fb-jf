@@ -1,552 +1,318 @@
 ---
-// HowToPlaySection 组件不需要 props，所有内容都是静态的
+// HowToPlaySection - shadcn/ui重新设计版本
+// 使用现代Card组件替换自定义CSS，保持移动端优化
+
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 
 ---
 
-<!-- How to Play Section -->
-<section class="how-to-play-section scroll-animate">
-  <div class="container">
-    <div class="section-header center-only">
-      <div>
-        <h2 class="section-title">🎵 How to Play FiddleBops</h2>
-        <p class="section-description">
-          Drag characters like Garrett (belly slapping beats), Green Drum Machine (snowwoman bongos), and YTPMV Elf onto the stage to create hilarious musical combinations and unlock bonus content
-        </p>
-      </div>
+<!-- How to Play Section - 统一设计风格 -->
+<section class="py-12 scroll-animate">
+  <div class="container mx-auto px-4">
+    <!-- Section Header -->
+    <div class="text-center max-w-4xl mx-auto mb-12">
+      <h2 class="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
+        🎵 How to Play FiddleBops
+      </h2>
+      <p class="text-xl text-muted-foreground leading-relaxed">
+        Drag characters like Garrett (belly slapping beats), Green Drum Machine (snowwoman bongos), and YTPMV Elf onto the stage to create hilarious musical combinations and unlock bonus content
+      </p>
     </div>
 
-    <div class="how-to-play-container">
-      <!-- Quick Start Section -->
-      <div class="quick-start-section scroll-animate">
-        <div class="quick-start-header">
-          <h3 class="quick-start-title">🚀 Quick Start - 3 Easy Steps!</h3>
-          <p class="quick-start-subtitle">Get creating music in under 30 seconds!</p>
-        </div>
-        <div class="quick-start-steps">
-          <div class="quick-step">
-            <div class="step-number">1</div>
-            <div class="step-content">
-              <div class="step-icon">🎭</div>
-              <h4>Pick Your Characters</h4>
-              <p>Choose from 27 hilarious characters like Garrett, Mr. Moon, and Skibidi Biden!</p>
+    <!-- Quick Start Section - 统一Card设计风格 -->
+    <div class="mb-12 scroll-animate">
+      <Card 
+        className="bg-gradient-to-br from-primary/5 via-background to-primary/10 border-primary/20 shadow-lg"
+        client:load
+      >
+        <CardHeader className="text-center pb-6" client:load>
+          <CardTitle className="text-2xl md:text-3xl font-bold mb-2" client:load>
+            🚀 Quick Start - 3 Easy Steps!
+          </CardTitle>
+          <p class="text-lg text-muted-foreground">Get creating music in under 30 seconds!</p>
+        </CardHeader>
+        <CardContent client:load>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <!-- Step 1 -->
+            <div class="flex flex-col md:flex-row items-start md:items-center gap-4 p-4 bg-white/60 rounded-lg border border-white/30 transition-all duration-300 hover:shadow-md hover:bg-white/80">
+              <div class="w-12 h-12 bg-gradient-to-br from-primary to-primary/70 text-primary-foreground rounded-full flex items-center justify-center font-bold text-lg shrink-0 shadow-md">
+                1
+              </div>
+              <div class="flex-1 text-center md:text-left">
+                <div class="text-2xl mb-2">🎭</div>
+                <h4 class="font-bold text-lg mb-2">Pick Your Characters</h4>
+                <p class="text-sm text-muted-foreground leading-relaxed">Choose from 27 hilarious characters like Garrett, Mr. Moon, and Skibidi Biden!</p>
+              </div>
+            </div>
+            
+            <!-- Step 2 -->
+            <div class="flex flex-col md:flex-row items-start md:items-center gap-4 p-4 bg-white/60 rounded-lg border border-white/30 transition-all duration-300 hover:shadow-md hover:bg-white/80">
+              <div class="w-12 h-12 bg-gradient-to-br from-primary to-primary/70 text-primary-foreground rounded-full flex items-center justify-center font-bold text-lg shrink-0 shadow-md">
+                2
+              </div>
+              <div class="flex-1 text-center md:text-left">
+                <div class="text-2xl mb-2">🖱️</div>
+                <h4 class="font-bold text-lg mb-2">Drag & Drop</h4>
+                <p class="text-sm text-muted-foreground leading-relaxed">Simply drag characters onto the stage - watch Garrett slap his belly!</p>
+              </div>
+            </div>
+            
+            <!-- Step 3 -->
+            <div class="flex flex-col md:flex-row items-start md:items-center gap-4 p-4 bg-white/60 rounded-lg border border-white/30 transition-all duration-300 hover:shadow-md hover:bg-white/80">
+              <div class="w-12 h-12 bg-gradient-to-br from-primary to-primary/70 text-primary-foreground rounded-full flex items-center justify-center font-bold text-lg shrink-0 shadow-md">
+                3
+              </div>
+              <div class="flex-1 text-center md:text-left">
+                <div class="text-2xl mb-2">🎶</div>
+                <h4 class="font-bold text-lg mb-2">Create Chaos</h4>
+                <p class="text-sm text-muted-foreground leading-relaxed">Mix absurd sounds at 206 BPM for wonderfully weird music!</p>
+              </div>
             </div>
           </div>
-          <div class="quick-step">
-            <div class="step-number">2</div>
-            <div class="step-content">
-              <div class="step-icon">🖱️</div>
-              <h4>Drag & Drop</h4>
-              <p>Simply drag characters onto the stage - watch Garrett slap his belly!</p>
-            </div>
-          </div>
-          <div class="quick-step">
-            <div class="step-number">3</div>
-            <div class="step-content">
-              <div class="step-icon">🎶</div>
-              <h4>Create Chaos</h4>
-              <p>Mix absurd sounds at 206 BPM for wonderfully weird music!</p>
-            </div>
-          </div>
-        </div>
-      </div>
+        </CardContent>
+      </Card>
+    </div>
 
-      <!-- Main Content Grid -->
-      <div class="how-to-play-grid">
-        <!-- Meet the Characters -->
-        <div class="how-to-play-card glass scroll-animate">
-          <div class="how-to-play-header">
-            <div class="how-to-play-icon">🎭</div>
-            <h3 class="how-to-play-title">Meet the Characters</h3>
+    <!-- Main Content Grid - 统一设计系统 -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <!-- Meet the Characters -->
+      <Card 
+        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
+        client:load
+      >
+        <CardHeader className="pb-4" client:load>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
+              🎭
+            </div>
+            <CardTitle className="text-xl font-bold" client:load>
+              Meet the Characters
+            </CardTitle>
           </div>
-          <div class="how-to-play-content">
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🥁</span>
-              <span><strong>Beats</strong> - Garrett (belly slaps), Green Drum Machine, Mr. Moon, Snaire, Combi</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🌟</span>
-              <span><strong>Effects</strong> - YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen, Tina</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🎹</span>
-              <span><strong>Melodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🎤</span>
-              <span><strong>Voices</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie</span>
-            </div>
+        </CardHeader>
+        <CardContent className="space-y-3" client:load>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🥁</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Beats</strong> - Garrett (belly slaps), Green Drum Machine, Mr. Moon, Snaire, Combi
+            </span>
           </div>
-        </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🌟</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Effects</strong> - YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen, Tina
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🎹</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Melodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🎤</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Voices</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie
+            </span>
+          </div>
+        </CardContent>
+      </Card>
 
-        <!-- Bonus Characters -->
-        <div class="how-to-play-card glass scroll-animate">
-          <div class="how-to-play-header">
-            <div class="how-to-play-icon">🎆</div>
-            <h3 class="how-to-play-title">Bonus Characters</h3>
+      <!-- Bonus Characters -->
+      <Card 
+        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
+        client:load
+      >
+        <CardHeader className="pb-4" client:load>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
+              🎆
+            </div>
+            <CardTitle className="text-xl font-bold" client:load>
+              Bonus Characters
+            </CardTitle>
           </div>
-          <div class="how-to-play-content">
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🎲</span>
-              <span><strong>Words With Friends Tile</strong> - Special bonus character with unique animations</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">😂</span>
-              <span><strong>Fred Figglehorn</strong> - The iconic high-pitched YouTube character</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🧩</span>
-              <span><strong>Scrub Daddy GF</strong> - A cleaning product with personality</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🎵</span>
-              <span><strong>Jummbox & Boykixxer</strong> - Unlock through special combinations</span>
-            </div>
+        </CardHeader>
+        <CardContent className="space-y-3" client:load>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🎲</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Words With Friends Tile</strong> - Special bonus character with unique animations
+            </span>
           </div>
-        </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >😂</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Fred Figglehorn</strong> - The iconic high-pitched YouTube character
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🧩</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Scrub Daddy GF</strong> - A cleaning product with personality
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🎵</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Jummbox & Boykixxer</strong> - Unlock through special combinations
+            </span>
+          </div>
+        </CardContent>
+      </Card>
 
-        <!-- Game Features -->
-        <div class="how-to-play-card glass scroll-animate">
-          <div class="how-to-play-header">
-            <div class="how-to-play-icon">🎮</div>
-            <h3 class="how-to-play-title">Game Features</h3>
+      <!-- Game Features -->
+      <Card 
+        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
+        client:load
+      >
+        <CardHeader className="pb-4" client:load>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
+              🎮
+            </div>
+            <CardTitle className="text-xl font-bold" client:load>
+              Game Features
+            </CardTitle>
           </div>
-          <div class="how-to-play-content">
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">⚡</span>
-              <span><strong>206 BPM</strong> - Fast-paced rhythm that keeps the energy high</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">😂</span>
-              <span><strong>Joke Mod</strong> - Intentionally absurd and funny character design</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🖱️</span>
-              <span><strong>Easy Controls</strong> - Classic Incredibox drag-and-drop gameplay</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🎆</span>
-              <span><strong>Special Animations</strong> - Watch characters like Mr. Moon come alive in 3D</span>
-            </div>
+        </CardHeader>
+        <CardContent className="space-y-3" client:load>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >⚡</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>206 BPM</strong> - Fast-paced rhythm that keeps the energy high
+            </span>
           </div>
-        </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >😂</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Joke Mod</strong> - Intentionally absurd and funny character design
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🖱️</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Easy Controls</strong> - Classic Incredibox drag-and-drop gameplay
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🎆</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Special Animations</strong> - Watch characters like Mr. Moon come alive in 3D
+            </span>
+          </div>
+        </CardContent>
+      </Card>
 
-        <!-- Creation Mechanics -->
-        <div class="how-to-play-card glass scroll-animate">
-          <div class="how-to-play-header">
-            <div class="how-to-play-icon">🎼</div>
-            <h3 class="how-to-play-title">Creation Mechanics</h3>
+      <!-- Creation Mechanics -->
+      <Card 
+        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
+        client:load
+      >
+        <CardHeader className="pb-4" client:load>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
+              🎼
+            </div>
+            <CardTitle className="text-xl font-bold" client:load>
+              Creation Mechanics
+            </CardTitle>
           </div>
-          <div class="how-to-play-content">
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🎵</span>
-              <span><strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">⏱️</span>
-              <span><strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🔁</span>
-              <span><strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching</span>
-            </div>
-            <div class="how-to-play-item">
-              <span class="how-to-play-bullet">🧪</span>
-              <span><strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!</span>
-            </div>
+        </CardHeader>
+        <CardContent className="space-y-3" client:load>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🎵</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats
+            </span>
           </div>
-        </div>
-
-      </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >⏱️</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🔁</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching
+            </span>
+          </div>
+          <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
+            <Badge 
+              variant="secondary" 
+              className="shrink-0 text-lg p-1"
+              client:load
+            >🧪</Badge>
+            <span class="text-sm leading-relaxed">
+              <strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!
+            </span>
+          </div>
+        </CardContent>
+      </Card>
     </div>
   </div>
 </section>
 
-<style>
-/* ==========================================================================
-   How to Play Section - Modern Glass Design
-   ========================================================================== */
-
-/* Section Header Styles - 从父页面继承 */
-.section-header {
-  text-align: center;
-  max-width: 900px;
-  margin: 0 auto var(--space-8) auto;
-}
-
-.section-header.center-only {
-  text-align: center;
-  max-width: 900px;
-  margin: 0 auto var(--space-8) auto;
-}
-
-.section-title {
-  font-size: var(--font-size-4xl);
-  font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-4) 0;
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.section-description {
-  font-size: var(--font-size-xl);
-  line-height: var(--line-height-relaxed);
-  color: var(--color-gray-600);
-  margin: 0 0 var(--space-8) 0;
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  white-space: pre-line;
-  word-break: break-word;
-  hyphens: auto;
-}
-
-.how-to-play-section {
-  /* 使用页面级背景，只需要设置布局和间距 */
-  padding-top: var(--space-12);
-  padding-bottom: var(--space-12);
-  min-height: auto;
-}
-
-.how-to-play-container {
-  margin: 0 auto;
-  width: 100%;
-}
-
-.how-to-play-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: var(--space-6);
-}
-
-.how-to-play-card {
-  background: linear-gradient(
-    135deg,
-    rgba(255, 255, 255, 0.95) 0%,
-    rgba(248, 250, 252, 0.9) 50%,
-    rgba(241, 245, 249, 0.95) 100%
-  );
-  backdrop-filter: blur(20px) saturate(180%);
-  -webkit-backdrop-filter: blur(20px) saturate(180%);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: var(--border-radius-lg);
-  padding: var(--space-6);
-  box-shadow:
-    0 8px 32px rgba(0, 0, 0, 0.1),
-    0 1px 3px rgba(0, 0, 0, 0.08),
-    inset 0 1px 0 rgba(255, 255, 255, 0.6);
-  transition: all var(--duration-300) var(--ease-rhythm);
-  position: relative;
-  overflow: hidden;
-}
-
-.how-to-play-card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    var(--color-primary-500) 20%,
-    var(--color-primary-600) 50%,
-    var(--color-primary-500) 80%,
-    transparent 100%
-  );
-  opacity: 0.8;
-}
-
-.how-to-play-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-xl);
-  border-color: rgba(255, 255, 255, 0.4);
-}
-
-.how-to-play-header {
-  display: flex;
-  align-items: center;
-  gap: var(--space-3);
-  margin-bottom: var(--space-4);
-  padding-bottom: var(--space-3);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-.how-to-play-icon {
-  width: var(--space-12);
-  height: var(--space-12);
-  background: linear-gradient(
-    135deg,
-    rgba(255, 255, 255, 0.2) 0%,
-    rgba(255, 255, 255, 0.1) 100%
-  );
-  border-radius: var(--border-radius-lg);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: var(--font-size-xl);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  box-shadow:
-    0 4px 12px rgba(0, 0, 0, 0.1),
-    inset 0 1px 0 rgba(255, 255, 255, 0.6);
-}
-
-.how-to-play-title {
-  font-size: var(--font-size-xl);
-  font-weight: var(--font-weight-bold);
-  margin: 0;
-  color: var(--color-gray-900);
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.how-to-play-content {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-3);
-}
-
-.how-to-play-item {
-  display: flex;
-  align-items: flex-start;
-  gap: var(--space-3);
-  padding: var(--space-2);
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: var(--border-radius-md);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  transition: all var(--duration-200) var(--ease-in-out);
-}
-
-.how-to-play-item:hover {
-  background: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.2);
-  transform: translateX(4px);
-}
-
-.how-to-play-bullet {
-  font-size: var(--font-size-lg);
-  flex-shrink: 0;
-  margin-top: 2px;
-}
-
-.how-to-play-item span:last-child {
-  color: var(--color-gray-700);
-  font-size: var(--font-size-sm);
-  line-height: var(--line-height-relaxed);
-  font-weight: var(--font-weight-medium);
-}
-
-/* How to Play Responsive Design */
-@media (max-width: 1024px) {
-  .how-to-play-grid {
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: var(--space-4);
-  }
-
-  .how-to-play-card {
-    padding: var(--space-5);
-  }
-}
-
-@media (max-width: 768px) {
-  .section-header {
-    flex-direction: column;
-    gap: var(--space-3);
-    text-align: center;
-    margin-bottom: var(--space-6);
-  }
-
-  .section-title {
-    font-size: var(--font-size-2xl) !important;
-  }
-
-  .how-to-play-grid {
-    grid-template-columns: 1fr;
-    gap: var(--space-4);
-  }
-
-  .how-to-play-card {
-    padding: var(--space-4);
-  }
-
-  .how-to-play-title {
-    font-size: var(--font-size-lg);
-  }
-
-  .how-to-play-icon {
-    width: var(--space-10);
-    height: var(--space-10);
-    font-size: var(--font-size-lg);
-  }
-
-  .how-to-play-item span:last-child {
-    font-size: var(--font-size-base);
-  }
-}
-
-@media (max-width: 480px) {
-  .how-to-play-card {
-    padding: var(--space-3);
-  }
-
-  .how-to-play-header {
-    flex-direction: column;
-    text-align: center;
-    gap: var(--space-2);
-  }
-
-  .how-to-play-item {
-    padding: var(--space-2);
-  }
-
-  .how-to-play-item span:last-child {
-    font-size: var(--font-size-sm);
-  }
-}
-
-/* ==========================================================================
-   Quick Start Section
-   ========================================================================== */
-
-.quick-start-section {
-  margin-bottom: var(--space-10);
-  padding: var(--space-6);
-  background: linear-gradient(
-    135deg,
-    rgba(147, 51, 234, 0.1) 0%,
-    rgba(168, 85, 247, 0.05) 50%,
-    rgba(192, 132, 252, 0.1) 100%
-  );
-  backdrop-filter: blur(20px) saturate(180%);
-  border: 1px solid rgba(147, 51, 234, 0.2);
-  border-radius: var(--border-radius-xl);
-  box-shadow: 0 8px 32px rgba(147, 51, 234, 0.1);
-}
-
-.quick-start-header {
-  text-align: center;
-  margin-bottom: var(--space-6);
-}
-
-.quick-start-title {
-  font-size: var(--font-size-2xl);
-  font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-2) 0;
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.quick-start-subtitle {
-  font-size: var(--font-size-lg);
-  color: var(--color-gray-600);
-  margin: 0;
-}
-
-.quick-start-steps {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: var(--space-6);
-}
-
-.quick-step {
-  display: flex;
-  align-items: flex-start;
-  gap: var(--space-4);
-  padding: var(--space-4);
-  background: rgba(255, 255, 255, 0.4);
-  border-radius: var(--border-radius-lg);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  transition: all var(--duration-300) var(--ease-rhythm);
-}
-
-.quick-step:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(147, 51, 234, 0.15);
-}
-
-.step-number {
-  width: var(--space-10);
-  height: var(--space-10);
-  background: var(--gradient-primary);
-  color: white;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: var(--font-weight-bold);
-  font-size: var(--font-size-lg);
-  flex-shrink: 0;
-  box-shadow: 0 4px 12px rgba(147, 51, 234, 0.3);
-}
-
-.step-content {
-  flex: 1;
-}
-
-.step-icon {
-  font-size: var(--font-size-2xl);
-  margin-bottom: var(--space-2);
-}
-
-.step-content h4 {
-  font-size: var(--font-size-lg);
-  font-weight: var(--font-weight-bold);
-  margin: 0 0 var(--space-2) 0;
-  color: var(--color-gray-900);
-}
-
-.step-content p {
-  font-size: var(--font-size-sm);
-  color: var(--color-gray-600);
-  margin: 0;
-  line-height: var(--line-height-relaxed);
-}
-
-/* ==========================================================================
-   Educator Card Special Styling
-   ========================================================================== */
-
-
-
-@media (max-width: 768px) {
-  .section-header {
-    margin-bottom: var(--space-6);
-  }
-
-  .section-title {
-    font-size: var(--font-size-2xl) !important;
-  }
-
-  .section-description {
-    font-size: 1.1875rem; /* 19px - 提升移动端说明文字可读性 */
-    margin-bottom: var(--space-6);
-    max-width: 100%;
-    line-height: 1.5;
-    text-align: left;
-  }
-
-  .quick-start-steps {
-    grid-template-columns: 1fr;
-  }
-
-  .quick-step {
-    flex-direction: column;
-    text-align: center;
-  }
-}
-
-@media (max-width: 480px) {
-  .section-description {
-    font-size: 1.125rem; /* 18px - 小屏设备说明文字优化 */
-    line-height: 1.4;
-    letter-spacing: 0.01em;
-    text-align: center;
-  }
-}
-</style>
+<!-- shadcn/ui样式已集成到组件中，移除了552行自定义CSS -->

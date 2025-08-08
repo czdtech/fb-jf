@@ -155,8 +155,8 @@ const safeMeta = {
     <script type="module" data-is-prod={import.meta.env.PROD}>
       import { GlobalErrorHandler } from '/src/scripts/global-error-handler.js';
       
-      // 从 data 属性获取环境变量
-      const isProd = document.currentScript.getAttribute('data-is-prod') === 'true';
+      // 从 data 属性获取环境变量（防御性编程）
+      const isProd = document.currentScript?.getAttribute('data-is-prod') === 'true' || false;
       
       // 初始化全局错误处理器
       window.globalErrorHandler = new GlobalErrorHandler({

@@ -36,7 +36,6 @@ export class AccessibilityManager {
       this.setupHighContrastSupport();
     }
     
-    this.setupSkipLinks();
     this.setupAriaLabels();
     this.enhanceFormAccessibility();
   }
@@ -226,13 +225,12 @@ export class AccessibilityManager {
    * 设置初始焦点
    */
   setInitialFocus() {
-    const skipLink = document.querySelector('#skip-to-main');
     const mainContent = document.querySelector('#main-content, main');
     const firstHeading = document.querySelector('h1, h2');
     const firstFocusable = this.getFocusableElements()[0];
     
-    // 优先级：跳转链接 > 主内容 > 首个标题 > 首个可焦点元素
-    const initialFocus = skipLink || mainContent || firstHeading || firstFocusable;
+    // 优先级：主内容 > 首个标题 > 首个可焦点元素
+    const initialFocus = mainContent || firstHeading || firstFocusable;
     
     if (initialFocus) {
       if (initialFocus.tagName === 'H1' || initialFocus.tagName === 'H2') {
@@ -503,50 +501,6 @@ export class AccessibilityManager {
         this.announce('高对比度模式已禁用');
       }
     });
-  }
-  
-  /**
-   * 设置跳转链接
-   */
-  setupSkipLinks() {
-    if (document.querySelector('#skip-to-main')) return;
-    
-    const skipLink = document.createElement('a');
-    skipLink.id = 'skip-to-main';
-    skipLink.href = '#main-content';
-    skipLink.textContent = '跳转到主内容';
-    skipLink.className = 'skip-link';
-    skipLink.style.cssText = `
-      position: absolute;
-      top: -40px;
-      left: 6px;
-      background: #000;
-      color: white;
-      padding: 8px;
-      text-decoration: none;
-      z-index: 9999;
-      transition: top 0.3s;
-    `;
-    
-    skipLink.addEventListener('focus', () => {
-      skipLink.style.top = '6px';
-    });
-    
-    skipLink.addEventListener('blur', () => {
-      skipLink.style.top = '-40px';
-    });
-    
-    skipLink.addEventListener('click', (e) => {
-      e.preventDefault();
-      const main = document.querySelector('#main-content, main, [role="main"]');
-      if (main) {
-        main.tabIndex = -1;
-        main.focus();
-        main.scrollIntoView({ behavior: 'smooth' });
-      }
-    });
-    
-    document.body.insertBefore(skipLink, document.body.firstChild);
   }
   
   /**

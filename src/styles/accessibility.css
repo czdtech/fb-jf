@@ -3,28 +3,6 @@
  * 支持高对比度、焦点管理、屏幕阅读器等
  */
 
-/* 跳转链接样式 */
-.skip-link {
-  position: absolute;
-  top: -40px;
-  left: 6px;
-  background: #000000;
-  color: #ffffff;
-  padding: 8px 16px;
-  text-decoration: none;
-  z-index: 10000;
-  border-radius: 4px;
-  font-size: 14px;
-  font-weight: 500;
-  transition: top 0.3s ease;
-}
-
-.skip-link:focus {
-  top: 6px;
-  outline: 2px solid #ffffff;
-  outline-offset: 2px;
-}
-
 /* 屏幕阅读器专用内容 */
 .sr-only {
   position: absolute !important;
@@ -111,10 +89,6 @@ body.high-contrast button:focus {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
-  }
-  
-  .skip-link {
-    transition: none !important;
   }
   
   .focus-enhanced:focus {
@@ -378,7 +352,6 @@ body.high-contrast [role="tooltip"] {
 
 /* 打印样式可访问性 */
 @media print {
-  .skip-link,
   #screen-reader-announcements,
   .sr-only {
     display: none !important;
