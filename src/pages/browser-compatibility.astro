@@ -2,9 +2,15 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
+
+const meta = {
+  title: "Browser Compatibility Suite - FiddleBops",
+  description: "Advanced browser feature detection and compatibility testing for modern web technologies",
+  keywords: "browser compatibility, web standards, CSS support, JavaScript APIs"
+};
 ---
 
-<BaseLayout title="Browser Compatibility Suite">
+<BaseLayout {meta}>
   <main class="min-h-screen bg-background">
     <div class="responsive-container py-8 space-y-8">
       
