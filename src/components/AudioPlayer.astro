@@ -11,6 +11,7 @@ export interface Props {
   className?: string;
   useSlider?: boolean;
   loading?: boolean;
+  showErrorDetails?: boolean;
 }
 
 const { 
@@ -20,7 +21,8 @@ const {
   showProgress = true,
   className = "",
   useSlider = true,
-  loading = false
+  loading = false,
+  showErrorDetails = false
 } = Astro.props;
 
 const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
@@ -33,33 +35,70 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
     className={className} 
   />
 ) : (
-  <Card className={`audio-player-card ${className}`} data-audio-id={uniqueId}>
-  <CardContent className="p-4">
-    <div class="flex items-center space-x-4">
-      <!-- Play/Pause Button -->
+  <Card 
+    className={`audio-player audio-player-card ${className}`} 
+    data-audio-id={uniqueId}
+    role="region"
+    aria-labelledby={`audio-title-${uniqueId}`}
+    aria-describedby={showProgress ? `audio-progress-${uniqueId}` : undefined}
+  >
+  <CardContent className="p-4 sm:p-6">
+    <div class="flex items-center space-x-3 sm:space-x-4">
+      <!-- Play/Pause Button with enhanced touch target -->
       <Button 
         variant="default" 
         size="icon" 
-        className="audio-play-btn rounded-full bg-primary hover:bg-primary/90 text-primary-foreground"
+        className="audio-play-btn touch-target touch-friendly rounded-full bg-primary hover:bg-primary/90 focus:bg-primary/90 text-primary-foreground min-w-[48px] min-h-[48px] w-12 h-12 flex-shrink-0 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
         data-audio-id={uniqueId}
         type="button"
+        aria-label={`Play ${title}`}
+        aria-describedby={`audio-status-${uniqueId}`}
       >
-        <svg class="audio-play-icon w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+        <svg class="audio-play-icon w-5 h-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
           <path d="M8 5v14l11-7z"/>
         </svg>
-        <svg class="audio-pause-icon w-5 h-5 hidden" viewBox="0 0 24 24" fill="currentColor">
+        <svg class="audio-pause-icon w-5 h-5 hidden" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
           <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
         </svg>
-        <div class="audio-loading-spinner hidden">
+        <div class="audio-loading-spinner hidden" aria-hidden="true">
           <div class="animate-spin rounded-full h-4 w-4 border-2 border-current border-t-transparent"></div>
         </div>
+        <svg class="audio-error-icon w-5 h-5 text-destructive hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <line x1="15" y1="9" x2="9" y2="15"/>
+          <line x1="9" y1="9" x2="15" y2="15"/>
+        </svg>
       </Button>
       
-      <div class="flex-1 space-y-2">
+      <div class="flex-1 min-w-0 space-y-2">
         <!-- Track Title -->
-        <div class="text-sm font-medium text-foreground">{title}</div>
+        <div 
+          id={`audio-title-${uniqueId}`} 
+          class="text-sm sm:text-base font-medium text-foreground truncate"
+        >
+          {title}
+        </div>
         
-        <!-- Progress Slider -->
+        <!-- Audio Status for Screen Readers -->
+        <div 
+          id={`audio-status-${uniqueId}`} 
+          class="sr-only" 
+          aria-live="polite" 
+          aria-atomic="true"
+        >
+          Paused
+        </div>
+        
+        <!-- Error Message (hidden by default) -->
+        <div 
+          class="audio-error-message hidden text-xs text-destructive"
+          role="alert"
+          aria-live="assertive"
+        >
+          音频加载失败，请重试
+        </div>
+        
+        <!-- Progress Slider with enhanced touch area -->
         {showProgress && (
           <div class="audio-progress-container w-full">
             {useSlider ? (
@@ -67,23 +106,56 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
                 <!-- React Slider will be mounted here -->
               </div>
             ) : (
-              <div class="fallback-progress-bar relative w-full h-2 bg-muted rounded-full overflow-hidden cursor-pointer">
+              <div 
+                class="fallback-progress-bar relative w-full h-4 sm:h-2 bg-muted rounded-full overflow-hidden cursor-pointer touch-target focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                role="slider"
+                aria-label="Audio progress"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                aria-valuenow="0"
+                aria-describedby={`audio-progress-${uniqueId}`}
+                tabindex="0"
+              >
                 <div class="audio-progress-bar absolute left-0 top-0 h-full bg-primary transition-all duration-100 ease-out" style="width: 0%"></div>
               </div>
             )}
+            <div id={`audio-progress-${uniqueId}`} class="sr-only">
+              Audio progress control. Use left and right arrow keys to seek.
+            </div>
           </div>
         )}
       </div>
       
-      <!-- Time Display -->
+      <!-- Time Display / Retry Button -->
       {showProgress && (
-        <div class="text-xs text-muted-foreground tabular-nums min-w-[80px] text-right">
-          <span class="audio-current-time">0:00</span>
-          <span class="mx-1">/</span>
-          <span class="audio-duration">0:00</span>
+        <div class="text-xs text-muted-foreground tabular-nums min-w-[60px] sm:min-w-[80px] text-right flex-shrink-0">
+          <div class="audio-time-display" aria-live="polite">
+            <span class="audio-current-time" aria-label="Current time">0:00</span>
+            <span class="mx-1" aria-hidden="true">/</span>
+            <span class="audio-duration" aria-label="Total duration">0:00</span>
+          </div>
+          <button 
+            type="button"
+            class="audio-retry-btn hidden text-xs text-destructive hover:text-destructive/80 focus:text-destructive/80 underline touch-target min-h-[32px] focus:ring-2 focus:ring-destructive focus:ring-offset-2 rounded"
+            aria-label={`Retry loading ${title}`}
+          >
+            重新加载
+          </button>
         </div>
       )}
     </div>
+    
+    <!-- Error Details (hidden by default) -->
+    {showErrorDetails && (
+      <div 
+        class="audio-error-details hidden mt-3 p-2 bg-destructive/5 border border-destructive/20 rounded text-xs"
+        role="alert"
+        aria-live="assertive"
+      >
+        <div class="font-medium text-destructive mb-1">错误详情：</div>
+        <div class="audio-error-text text-muted-foreground"></div>
+      </div>
+    )}
     
     <!-- Hidden Audio Element -->
     <audio 
@@ -91,6 +163,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
       preload="metadata" 
       class="hidden"
       {autoplay}
+      aria-label={`Audio player for ${title}`}
     >
       <source src={audioSrc} type="audio/wav">
       <source src={audioSrc} type="audio/mp3">
@@ -129,7 +202,8 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
   }
   
   .audio-play-btn.loading .audio-play-icon,
-  .audio-play-btn.loading .audio-pause-icon {
+  .audio-play-btn.loading .audio-pause-icon,
+  .audio-play-btn.loading .audio-error-icon {
     display: none;
   }
   
@@ -137,12 +211,34 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
     display: block;
   }
   
-  .audio-play-btn.playing .audio-play-icon {
+  .audio-play-btn.playing .audio-play-icon,
+  .audio-play-btn.playing .audio-error-icon {
     display: none;
   }
   
   .audio-play-btn.playing .audio-pause-icon {
     display: block;
+  }
+  
+  .audio-play-btn.error .audio-play-icon,
+  .audio-play-btn.error .audio-pause-icon,
+  .audio-play-btn.error .audio-loading-spinner {
+    display: none;
+  }
+  
+  .audio-play-btn.error .audio-error-icon {
+    display: block;
+  }
+  
+  .audio-play-btn.error {
+    background-color: hsl(var(--destructive) / 0.1);
+    color: hsl(var(--destructive));
+    border-color: hsl(var(--destructive) / 0.3);
+  }
+  
+  .audio-player-card.error {
+    border-color: hsl(var(--destructive) / 0.3);
+    background-color: hsl(var(--destructive) / 0.02);
   }
 </style>
 
@@ -157,6 +253,11 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
       progressBar?: HTMLElement;
       currentTimeSpan?: HTMLElement;
       durationSpan?: HTMLElement;
+      errorMessage?: HTMLElement;
+      errorDetails?: HTMLElement;
+      errorText?: HTMLElement;
+      retryBtn?: HTMLElement;
+      timeDisplay?: HTMLElement;
     }> = new Map();
 
     static getInstance(): AudioPlayerManager {
@@ -192,8 +293,15 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
         const audio = document.getElementById(audioId) as HTMLAudioElement;
         const button = card.querySelector('.audio-play-btn') as HTMLButtonElement;
         const progressBar = card.querySelector('.audio-progress-bar') as HTMLElement;
+        const fallbackProgressBar = card.querySelector('.fallback-progress-bar') as HTMLElement;
         const currentTimeSpan = card.querySelector('.audio-current-time') as HTMLElement;
         const durationSpan = card.querySelector('.audio-duration') as HTMLElement;
+        const errorMessage = card.querySelector('.audio-error-message') as HTMLElement;
+        const errorDetails = card.querySelector('.audio-error-details') as HTMLElement;
+        const errorText = card.querySelector('.audio-error-text') as HTMLElement;
+        const retryBtn = card.querySelector('.audio-retry-btn') as HTMLElement;
+        const timeDisplay = card.querySelector('.audio-time-display') as HTMLElement;
+        const statusElement = card.querySelector(`#audio-status-${audioId}`) as HTMLElement;
 
         if (!audio || !button) return;
 
@@ -204,13 +312,21 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
           card: card as HTMLElement,
           progressBar,
           currentTimeSpan,
-          durationSpan
+          durationSpan,
+          errorMessage,
+          errorDetails,
+          errorText,
+          retryBtn,
+          timeDisplay,
+          fallbackProgressBar,
+          statusElement
         });
 
         // Setup event listeners
         this.setupAudioEvents(audioId);
         this.setupButtonEvents(audioId);
         this.setupProgressEvents(audioId);
+        this.setupRetryEvents(audioId);
       });
     }
 
@@ -226,6 +342,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
 
       audio.addEventListener('canplaythrough', () => {
         button.classList.remove('loading');
+        this.clearErrorState(audioId);
         this.updateDuration(audioId);
       });
 
@@ -239,8 +356,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
 
       audio.addEventListener('error', (e) => {
         console.error('Audio error:', e);
-        button.classList.remove('loading', 'playing');
-        card.classList.remove('playing');
+        this.showErrorState(audioId, e);
       });
 
       audio.addEventListener('loadedmetadata', () => {
@@ -287,7 +403,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
       const elements = this.audioElements.get(audioId);
       if (!elements) return;
 
-      const { audio, button, card } = elements;
+      const { audio, button, card, statusElement } = elements;
 
       // Stop other playing audio
       if (this.currentlyPlaying && this.currentlyPlaying !== audioId) {
@@ -298,6 +414,12 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
         try {
           button.classList.add('loading');
           
+          // Update ARIA attributes
+          button.setAttribute('aria-label', `Pause ${elements.audio.title || 'audio'}`);
+          if (statusElement) {
+            statusElement.textContent = 'Loading...';
+          }
+          
           await audio.play();
           
           button.classList.remove('loading');
@@ -305,9 +427,18 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
           card.classList.add('playing');
           this.currentlyPlaying = audioId;
           
+          // Update ARIA status
+          if (statusElement) {
+            statusElement.textContent = 'Playing';
+          }
+          
         } catch (error) {
           console.error('Error playing audio:', error);
           button.classList.remove('loading');
+          button.setAttribute('aria-label', `Play ${elements.audio.title || 'audio'}`);
+          if (statusElement) {
+            statusElement.textContent = 'Error loading audio';
+          }
         }
       } else {
         this.pauseAudio(audioId);
@@ -318,19 +449,25 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
       const elements = this.audioElements.get(audioId);
       if (!elements) return;
 
-      const { audio, button, card } = elements;
+      const { audio, button, card, statusElement } = elements;
       
       audio.pause();
       button.classList.remove('playing');
       card.classList.remove('playing');
       this.currentlyPlaying = null;
+      
+      // Update ARIA attributes
+      button.setAttribute('aria-label', `Play ${audio.title || 'audio'}`);
+      if (statusElement) {
+        statusElement.textContent = 'Paused';
+      }
     }
 
     private stopAudio(audioId: string) {
       const elements = this.audioElements.get(audioId);
       if (!elements) return;
 
-      const { audio, button, card } = elements;
+      const { audio, button, card, statusElement } = elements;
       
       audio.pause();
       audio.currentTime = 0;
@@ -341,6 +478,12 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
         this.currentlyPlaying = null;
       }
       
+      // Update ARIA attributes
+      button.setAttribute('aria-label', `Play ${audio.title || 'audio'}`);
+      if (statusElement) {
+        statusElement.textContent = 'Stopped';
+      }
+      
       this.updateProgress(audioId);
     }
 
@@ -348,7 +491,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
       const elements = this.audioElements.get(audioId);
       if (!elements) return;
 
-      const { audio, progressBar, currentTimeSpan } = elements;
+      const { audio, progressBar, fallbackProgressBar, currentTimeSpan, statusElement } = elements;
       
       if (audio.duration) {
         const progress = (audio.currentTime / audio.duration) * 100;
@@ -358,8 +501,21 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
           progressBar.style.width = `${progress}%`;
         }
         
+        // Update ARIA values for fallback progress bar
+        if (fallbackProgressBar) {
+          fallbackProgressBar.setAttribute('aria-valuenow', progress.toString());
+          fallbackProgressBar.setAttribute('aria-valuetext', 
+            `${this.formatTime(audio.currentTime)} of ${this.formatTime(audio.duration)}`);
+        }
+        
         if (currentTimeSpan) {
           currentTimeSpan.textContent = this.formatTime(audio.currentTime);
+        }
+        
+        // Update status for screen readers periodically (every 10 seconds)
+        if (statusElement && Math.floor(audio.currentTime) % 10 === 0) {
+          const timeText = `${this.formatTime(audio.currentTime)} of ${this.formatTime(audio.duration)}`;
+          statusElement.textContent = `Playing: ${timeText}`;
         }
       }
     }
@@ -380,6 +536,126 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
       const mins = Math.floor(seconds / 60);
       const secs = Math.floor(seconds % 60);
       return `${mins}:${secs.toString().padStart(2, '0')}`;
+    }
+
+    private setupRetryEvents(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { retryBtn } = elements;
+      
+      if (retryBtn) {
+        retryBtn.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          this.retryAudio(audioId);
+        });
+      }
+    }
+
+    private showErrorState(audioId: string, error: Event) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { button, card, errorMessage, errorDetails, errorText, retryBtn, timeDisplay } = elements;
+      
+      // Update button and card states
+      button.classList.remove('loading', 'playing');
+      button.classList.add('error');
+      card.classList.remove('playing');
+      card.classList.add('error');
+      
+      // Show error message
+      if (errorMessage) {
+        errorMessage.classList.remove('hidden');
+      }
+      
+      // Show retry button and hide time display
+      if (retryBtn && timeDisplay) {
+        retryBtn.classList.remove('hidden');
+        timeDisplay.classList.add('hidden');
+      }
+      
+      // Show error details if available
+      if (errorDetails && errorText && error.target) {
+        const audio = error.target as HTMLAudioElement;
+        let errorMsg = '未知错误';
+        
+        if (audio.error) {
+          switch (audio.error.code) {
+            case MediaError.MEDIA_ERR_ABORTED:
+              errorMsg = '音频加载被中止';
+              break;
+            case MediaError.MEDIA_ERR_NETWORK:
+              errorMsg = '网络错误，请检查网络连接';
+              break;
+            case MediaError.MEDIA_ERR_DECODE:
+              errorMsg = '音频解码错误，文件可能已损坏';
+              break;
+            case MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED:
+              errorMsg = '不支持的音频格式';
+              break;
+            default:
+              errorMsg = `错误代码: ${audio.error.code}`;
+          }
+        }
+        
+        errorText.textContent = errorMsg;
+        errorDetails.classList.remove('hidden');
+      }
+    }
+
+    private clearErrorState(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { button, card, errorMessage, errorDetails, retryBtn, timeDisplay } = elements;
+      
+      // Clear button and card error states
+      button.classList.remove('error');
+      card.classList.remove('error');
+      
+      // Hide error elements
+      if (errorMessage) {
+        errorMessage.classList.add('hidden');
+      }
+      
+      if (errorDetails) {
+        errorDetails.classList.add('hidden');
+      }
+      
+      // Hide retry button and show time display
+      if (retryBtn && timeDisplay) {
+        retryBtn.classList.add('hidden');
+        timeDisplay.classList.remove('hidden');
+      }
+    }
+
+    private async retryAudio(audioId: string) {
+      const elements = this.audioElements.get(audioId);
+      if (!elements) return;
+
+      const { audio, button } = elements;
+      
+      try {
+        // Clear error state
+        this.clearErrorState(audioId);
+        
+        // Show loading state
+        button.classList.add('loading');
+        
+        // Reload the audio
+        audio.load();
+        
+        // Try to play if it was previously attempting to play
+        if (button.classList.contains('playing')) {
+          await audio.play();
+        }
+        
+      } catch (error) {
+        console.error('Retry failed:', error);
+        this.showErrorState(audioId, error as Event);
+      }
     }
 
     // Public methods for external control
@@ -437,11 +713,51 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
   // Expose to global scope for debugging
   (window as any).audioPlayerManager = audioPlayerManager;
 
-  // Global keyboard controls
+  // Global keyboard controls and accessibility
   document.addEventListener('keydown', (e) => {
-    if (e.code === 'Space' && audioPlayerManager.getCurrentlyPlaying()) {
+    const focusedElement = document.activeElement as HTMLElement;
+    
+    // Space bar controls for play/pause when button is focused
+    if (e.code === 'Space' && focusedElement?.classList.contains('audio-play-btn')) {
+      e.preventDefault();
+      focusedElement.click();
+      return;
+    }
+    
+    // Arrow key controls for progress bars
+    if (focusedElement?.classList.contains('fallback-progress-bar')) {
+      const audioId = focusedElement.closest('.audio-player-card')?.getAttribute('data-audio-id');
+      if (audioId) {
+        const elements = audioPlayerManager.audioElements.get(audioId);
+        if (elements?.audio) {
+          let seekAmount = 0;
+          
+          if (e.code === 'ArrowLeft' || e.code === 'ArrowDown') {
+            seekAmount = -5; // Seek back 5 seconds
+            e.preventDefault();
+          } else if (e.code === 'ArrowRight' || e.code === 'ArrowUp') {
+            seekAmount = 5; // Seek forward 5 seconds
+            e.preventDefault();
+          }
+          
+          if (seekAmount !== 0 && elements.audio.duration) {
+            const newTime = Math.max(0, Math.min(elements.audio.duration, elements.audio.currentTime + seekAmount));
+            elements.audio.currentTime = newTime;
+            
+            // Update ARIA values
+            const progress = (newTime / elements.audio.duration) * 100;
+            focusedElement.setAttribute('aria-valuenow', progress.toString());
+          }
+        }
+      }
+    }
+    
+    // Global space bar pause (when audio is playing but button not focused)
+    if (e.code === 'Space' && audioPlayerManager.getCurrentlyPlaying() && 
+        !focusedElement?.classList.contains('audio-play-btn') &&
+        !focusedElement?.classList.contains('fallback-progress-bar')) {
       const currentlyPlaying = audioPlayerManager.getCurrentlyPlaying();
-      if (currentlyPlaying) {
+      if (currentlyPlaying && !focusedElement?.matches('input, textarea, [contenteditable]')) {
         e.preventDefault();
         audioPlayerManager.pause(currentlyPlaying);
       }

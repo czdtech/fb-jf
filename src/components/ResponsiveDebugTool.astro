@@ -1,0 +1,245 @@
+---
+import { Card } from '@/components/ui/card'
+
+export interface Props {
+  className?: string;
+}
+
+const { className = '' } = Astro.props;
+---
+
+<Card className={`responsive-debug-tool fixed bottom-4 right-4 z-50 ${className}`}>
+  <div class="p-3 space-y-2 bg-background/95 backdrop-blur text-xs">
+    <div class="font-semibold text-foreground">响应式断点</div>
+    
+    <!-- 断点指示器 -->
+    <div class="space-y-1">
+      <div class="flex justify-between items-center">
+        <span>xs (480px):</span>
+        <div class="w-3 h-3 rounded-full bg-gray-300 xs:bg-green-500"></div>
+      </div>
+      <div class="flex justify-between items-center">
+        <span>sm (640px):</span>
+        <div class="w-3 h-3 rounded-full bg-gray-300 sm:bg-green-500"></div>
+      </div>
+      <div class="flex justify-between items-center">
+        <span>md (768px):</span>
+        <div class="w-3 h-3 rounded-full bg-gray-300 md:bg-green-500"></div>
+      </div>
+      <div class="flex justify-between items-center">
+        <span>lg (1024px):</span>
+        <div class="w-3 h-3 rounded-full bg-gray-300 lg:bg-green-500"></div>
+      </div>
+      <div class="flex justify-between items-center">
+        <span>xl (1280px):</span>
+        <div class="w-3 h-3 rounded-full bg-gray-300 xl:bg-green-500"></div>
+      </div>
+      <div class="flex justify-between items-center">
+        <span>2xl (1536px):</span>
+        <div class="w-3 h-3 rounded-full bg-gray-300 2xl:bg-green-500"></div>
+      </div>
+    </div>
+
+    <!-- 屏幕信息 -->
+    <div class="border-t border-border pt-2 space-y-1">
+      <div class="flex justify-between">
+        <span>宽度:</span>
+        <span id="debug-width" class="font-mono">-</span>
+      </div>
+      <div class="flex justify-between">
+        <span>高度:</span>
+        <span id="debug-height" class="font-mono">-</span>
+      </div>
+      <div class="flex justify-between">
+        <span>像素比:</span>
+        <span id="debug-dpr" class="font-mono">-</span>
+      </div>
+    </div>
+
+    <!-- 触摸支持 -->
+    <div class="border-t border-border pt-2">
+      <div class="flex justify-between items-center">
+        <span>触摸:</span>
+        <div id="debug-touch" class="w-3 h-3 rounded-full bg-gray-300"></div>
+      </div>
+      <div class="flex justify-between items-center">
+        <span>鼠标:</span>
+        <div id="debug-mouse" class="w-3 h-3 rounded-full bg-gray-300"></div>
+      </div>
+    </div>
+
+    <!-- 当前断点名称 -->
+    <div class="border-t border-border pt-2">
+      <div class="text-center font-semibold text-primary">
+        <span class="xs:hidden">xs</span>
+        <span class="hidden xs:inline sm:hidden">xs</span>
+        <span class="hidden sm:inline md:hidden">sm</span>
+        <span class="hidden md:inline lg:hidden">md</span>
+        <span class="hidden lg:inline xl:hidden">lg</span>
+        <span class="hidden xl:inline 2xl:hidden">xl</span>
+        <span class="hidden 2xl:inline">2xl</span>
+      </div>
+    </div>
+
+    <!-- 可拖拽句柄 -->
+    <div class="text-center text-gray-400 cursor-move" id="debug-handle">
+      ⋮⋮⋮
+    </div>
+  </div>
+</Card>
+
+<script>
+  // 响应式调试工具功能
+  class ResponsiveDebugTool {
+    constructor() {
+      this.updateInfo();
+      this.setupEventListeners();
+      this.makeDraggable();
+    }
+
+    updateInfo() {
+      // 更新屏幕尺寸信息
+      const widthEl = document.getElementById('debug-width');
+      const heightEl = document.getElementById('debug-height');
+      const dprEl = document.getElementById('debug-dpr');
+      const touchEl = document.getElementById('debug-touch');
+      const mouseEl = document.getElementById('debug-mouse');
+
+      if (widthEl) widthEl.textContent = `${window.innerWidth}px`;
+      if (heightEl) heightEl.textContent = `${window.innerHeight}px`;
+      if (dprEl) dprEl.textContent = (window.devicePixelRatio || 1).toString();
+
+      // 检测输入类型
+      const hasTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+      const hasMouse = window.matchMedia('(hover: hover)').matches;
+
+      if (touchEl) {
+        touchEl.className = `w-3 h-3 rounded-full ${hasTouch ? 'bg-green-500' : 'bg-gray-300'}`;
+      }
+      if (mouseEl) {
+        mouseEl.className = `w-3 h-3 rounded-full ${hasMouse ? 'bg-green-500' : 'bg-gray-300'}`;
+      }
+    }
+
+    setupEventListeners() {
+      // 窗口大小变化时更新信息
+      let resizeTimeout: number;
+      window.addEventListener('resize', () => {
+        clearTimeout(resizeTimeout);
+        resizeTimeout = window.setTimeout(() => {
+          this.updateInfo();
+        }, 100);
+      });
+
+      // 方向变化时更新信息
+      window.addEventListener('orientationchange', () => {
+        setTimeout(() => {
+          this.updateInfo();
+        }, 250);
+      });
+    }
+
+    makeDraggable() {
+      const debugTool = document.querySelector('.responsive-debug-tool') as HTMLElement;
+      const handle = document.getElementById('debug-handle');
+      
+      if (!debugTool || !handle) return;
+
+      let isDragging = false;
+      let startX = 0;
+      let startY = 0;
+      let initialX = 0;
+      let initialY = 0;
+
+      const onStart = (e: MouseEvent | TouchEvent) => {
+        isDragging = true;
+        
+        const clientX = 'touches' in e ? e.touches[0].clientX : e.clientX;
+        const clientY = 'touches' in e ? e.touches[0].clientY : e.clientY;
+        
+        startX = clientX;
+        startY = clientY;
+        
+        const rect = debugTool.getBoundingClientRect();
+        initialX = rect.left;
+        initialY = rect.top;
+
+        debugTool.style.cursor = 'grabbing';
+        debugTool.style.userSelect = 'none';
+        
+        e.preventDefault();
+      };
+
+      const onMove = (e: MouseEvent | TouchEvent) => {
+        if (!isDragging) return;
+
+        const clientX = 'touches' in e ? e.touches[0].clientX : e.clientX;
+        const clientY = 'touches' in e ? e.touches[0].clientY : e.clientY;
+
+        const deltaX = clientX - startX;
+        const deltaY = clientY - startY;
+
+        const newX = Math.max(0, Math.min(window.innerWidth - debugTool.offsetWidth, initialX + deltaX));
+        const newY = Math.max(0, Math.min(window.innerHeight - debugTool.offsetHeight, initialY + deltaY));
+
+        debugTool.style.position = 'fixed';
+        debugTool.style.left = `${newX}px`;
+        debugTool.style.top = `${newY}px`;
+        debugTool.style.right = 'auto';
+        debugTool.style.bottom = 'auto';
+
+        e.preventDefault();
+      };
+
+      const onEnd = () => {
+        isDragging = false;
+        debugTool.style.cursor = '';
+        debugTool.style.userSelect = '';
+      };
+
+      // 鼠标事件
+      handle.addEventListener('mousedown', onStart);
+      document.addEventListener('mousemove', onMove);
+      document.addEventListener('mouseup', onEnd);
+
+      // 触摸事件
+      handle.addEventListener('touchstart', onStart);
+      document.addEventListener('touchmove', onMove);
+      document.addEventListener('touchend', onEnd);
+    }
+  }
+
+  // 初始化调试工具
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      new ResponsiveDebugTool();
+    });
+  } else {
+    new ResponsiveDebugTool();
+  }
+</script>
+
+<style>
+  .responsive-debug-tool {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    border: 1px solid hsl(var(--border));
+    min-width: 150px;
+  }
+
+  .responsive-debug-tool:hover {
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+  }
+
+  #debug-handle {
+    transition: color 0.2s ease;
+  }
+
+  #debug-handle:hover {
+    color: hsl(var(--primary));
+    cursor: grab;
+  }
+
+  #debug-handle:active {
+    cursor: grabbing;
+  }
+</style>

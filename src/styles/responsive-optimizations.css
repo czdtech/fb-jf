@@ -1,0 +1,382 @@
+/* ==========================================================================
+   Mobile-First Responsive Optimizations
+   ========================================================================== */
+
+/* Touch target optimization - ensure minimum 44px touch targets */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Improve touch interactions */
+.touch-friendly {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+/* Enhanced button touch targets for mobile */
+@media (max-width: 768px) {
+  button, 
+  [role="button"], 
+  input[type="button"], 
+  input[type="submit"] {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 12px 16px;
+  }
+  
+  /* Navigation links touch targets */
+  nav a {
+    min-height: 44px;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+  }
+}
+
+/* ==========================================================================
+   Responsive Typography Optimizations
+   ========================================================================== */
+
+/* Improved text readability on mobile */
+@media (max-width: 640px) {
+  body {
+    font-size: 16px; /* Prevent zoom on iOS */
+    line-height: 1.5;
+  }
+  
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+  
+  /* Ensure proper text wrapping */
+  p, div {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+}
+
+/* ==========================================================================
+   Game Card Mobile Optimizations
+   ========================================================================== */
+
+@media (max-width: 480px) {
+  /* Optimize game card spacing on very small screens */
+  .games-grid {
+    gap: 0.75rem;
+  }
+  
+  /* Ensure game card images maintain aspect ratio */
+  .game-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  /* Compact game card text for small screens */
+  .game-card h3 {
+    font-size: 0.875rem;
+    line-height: 1.25;
+  }
+  
+  .game-card p {
+    font-size: 0.75rem;
+    line-height: 1.4;
+  }
+}
+
+/* ==========================================================================
+   Navigation Mobile Optimizations
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  /* Mobile navigation improvements */
+  .mobile-nav-link {
+    padding: 16px 20px;
+    border-bottom: 1px solid hsl(var(--border));
+    transition: background-color 0.2s ease;
+  }
+  
+  .mobile-nav-link:hover,
+  .mobile-nav-link:focus {
+    background-color: hsl(var(--accent));
+  }
+  
+  /* Mobile menu sheet optimizations */
+  .mobile-sheet-content {
+    width: min(85vw, 320px);
+    max-width: 320px;
+  }
+  
+  /* Ensure mobile menu is accessible */
+  .mobile-menu-overlay {
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+  }
+}
+
+/* ==========================================================================
+   Audio Player Mobile Optimizations  
+   ========================================================================== */
+
+@media (max-width: 640px) {
+  .audio-player {
+    padding: 12px;
+  }
+  
+  .audio-controls {
+    gap: 8px;
+  }
+  
+  .audio-control-btn {
+    min-width: 44px;
+    min-height: 44px;
+  }
+  
+  /* Slider thumb optimization for touch */
+  .audio-slider {
+    height: 32px; /* Larger touch area */
+  }
+  
+  .audio-slider::-webkit-slider-thumb {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .audio-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* ==========================================================================
+   Game Grid Responsive Optimizations
+   ========================================================================== */
+
+/* Enhanced responsive grid with better breakpoint handling */
+.responsive-grid-standard {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 480px) {
+  .responsive-grid-standard {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-grid-standard {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-grid-standard {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1280px) {
+  .responsive-grid-standard {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+/* Compact grid for mobile-first design */
+.responsive-grid-compact {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media (min-width: 480px) {
+  .responsive-grid-compact {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .responsive-grid-compact {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-grid-compact {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+/* Featured grid optimization */
+.responsive-grid-featured {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 640px) {
+  .responsive-grid-featured {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-grid-featured {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ==========================================================================
+   Image and Media Responsive Optimizations
+   ========================================================================== */
+
+/* Responsive images with proper loading */
+.responsive-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+/* Lazy loading optimization */
+.responsive-image[loading="lazy"] {
+  background-color: hsl(var(--muted));
+  background-image: linear-gradient(45deg, transparent 25%, hsl(var(--muted)) 25%, hsl(var(--muted)) 50%, transparent 50%, transparent 75%, hsl(var(--muted)) 75%);
+  background-size: 20px 20px;
+  animation: loading-shimmer 1.5s infinite;
+}
+
+@keyframes loading-shimmer {
+  0% { background-position: 0 0; }
+  100% { background-position: 20px 20px; }
+}
+
+/* ==========================================================================
+   Container and Layout Optimizations
+   ========================================================================== */
+
+/* Enhanced container classes for better responsive behavior */
+.responsive-container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+@media (min-width: 640px) {
+  .responsive-container {
+    padding: 0 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-container {
+    padding: 0 2rem;
+  }
+}
+
+/* Safe area handling for mobile devices with notches */
+@supports (padding-top: env(safe-area-inset-top)) {
+  .safe-area-top {
+    padding-top: env(safe-area-inset-top);
+  }
+  
+  .safe-area-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  
+  .safe-area-left {
+    padding-left: env(safe-area-inset-left);
+  }
+  
+  .safe-area-right {
+    padding-right: env(safe-area-inset-right);
+  }
+}
+
+/* ==========================================================================
+   Accessibility Enhancements
+   ========================================================================== */
+
+/* Enhanced focus indicators for keyboard navigation */
+@media (min-width: 768px) {
+  :focus-visible {
+    outline: 2px solid hsl(var(--primary));
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+/* Touch device focus handling */
+@media (hover: none) and (pointer: coarse) {
+  :focus {
+    outline: 2px solid hsl(var(--primary));
+    outline-offset: 2px;
+  }
+}
+
+/* ==========================================================================
+   Performance Optimizations
+   ========================================================================== */
+
+/* Optimize transforms and animations for mobile */
+@media (max-width: 768px) {
+  * {
+    will-change: auto;
+  }
+  
+  .hover-transform {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+  }
+  
+  /* Reduce motion for users who prefer it */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+/* ==========================================================================
+   Print Styles
+   ========================================================================== */
+
+@media print {
+  .no-print,
+  nav,
+  .mobile-menu,
+  .audio-player {
+    display: none !important;
+  }
+  
+  body {
+    font-size: 12pt;
+    line-height: 1.4;
+    color: black;
+    background: white;
+  }
+  
+  .games-grid {
+    display: block;
+  }
+  
+  .game-card {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+  }
+}

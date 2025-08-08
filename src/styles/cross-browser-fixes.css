@@ -1,0 +1,477 @@
+/* Cross-Browser Compatibility Fixes for Fiddlebops
+ * Handles browser-specific CSS issues and provides fallbacks
+ * 
+ * Targeted browsers:
+ * - Chrome 88+
+ * - Firefox 85+ 
+ * - Safari 14+
+ * - Edge 88+
+ */
+
+/* =========================================================================
+   CSS Custom Properties Fallbacks
+   ========================================================================= */
+
+:root {
+  /* Primary color fallbacks */
+  --primary-fallback: #a855f7;
+  --primary-foreground-fallback: #ffffff;
+  --secondary-fallback: #f3f4f6;
+  --secondary-foreground-fallback: #1f2937;
+  --background-fallback: #ffffff;
+  --foreground-fallback: #1f2937;
+  --muted-fallback: #f9fafb;
+  --muted-foreground-fallback: #6b7280;
+  --border-fallback: #e5e7eb;
+  --destructive-fallback: #ef4444;
+  --destructive-foreground-fallback: #ffffff;
+}
+
+/* =========================================================================
+   Flexbox Compatibility
+   ========================================================================= */
+
+.flex {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -webkit-flex;     /* OLD - Safari 6.1+ */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: flex;             /* NEW - Chrome 29+ */
+}
+
+.flex-col {
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.flex-wrap {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.items-center {
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.justify-center {
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.justify-between {
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.flex-1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+/* =========================================================================
+   CSS Grid Fallbacks
+   ========================================================================= */
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+}
+
+/* Fallback for browsers without grid support */
+@supports not (display: grid) {
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .grid > * {
+    flex: 1;
+    min-width: 0;
+  }
+  
+  /* Grid column fallbacks */
+  .grid-cols-1 > * { width: 100%; }
+  .grid-cols-2 > * { width: 50%; }
+  .grid-cols-3 > * { width: 33.333333%; }
+  .grid-cols-4 > * { width: 25%; }
+  .grid-cols-6 > * { width: 16.666667%; }
+  
+  @media (max-width: 640px) {
+    .sm\\:grid-cols-2 > * { width: 50%; }
+  }
+  
+  @media (max-width: 768px) {
+    .md\\:grid-cols-3 > * { width: 33.333333%; }
+  }
+  
+  @media (max-width: 1024px) {
+    .lg\\:grid-cols-4 > * { width: 25%; }
+  }
+  
+  @media (max-width: 1280px) {
+    .xl\\:grid-cols-6 > * { width: 16.666667%; }
+  }
+}
+
+/* =========================================================================
+   Backdrop Filter Compatibility
+   ========================================================================= */
+
+.backdrop-blur-sm {
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+
+/* Fallback for browsers without backdrop-filter support */
+@supports not (backdrop-filter: blur(4px)) {
+  .backdrop-blur-sm {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  /* Dark mode fallback */
+  .dark .backdrop-blur-sm {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+}
+
+/* =========================================================================
+   Aspect Ratio Compatibility
+   ========================================================================= */
+
+.aspect-video {
+  aspect-ratio: 16 / 9;
+}
+
+/* Fallback for browsers without aspect-ratio support */
+@supports not (aspect-ratio: 16/9) {
+  .aspect-video {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio */
+  }
+  
+  .aspect-video > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.aspect-square {
+  aspect-ratio: 1 / 1;
+}
+
+@supports not (aspect-ratio: 1/1) {
+  .aspect-square {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+  }
+  
+  .aspect-square > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+/* =========================================================================
+   Safari-Specific Fixes
+   ========================================================================= */
+
+/* Fix Safari button styling */
+button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+/* Fix Safari input styling */
+input,
+textarea,
+select {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+/* Fix Safari mobile viewport issues */
+@supports (-webkit-touch-callout: none) {
+  /* Target Safari/iOS */
+  .min-h-screen {
+    min-height: -webkit-fill-available;
+  }
+}
+
+/* Fix Safari transform rendering issues */
+.transform {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+/* Fix Safari font rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* =========================================================================
+   Firefox-Specific Fixes  
+   ========================================================================= */
+
+/* Fix Firefox button padding */
+@-moz-document url-prefix() {
+  button {
+    padding: inherit;
+  }
+}
+
+/* Fix Firefox audio controls */
+audio::-moz-range-thumb {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: hsl(var(--primary));
+  cursor: pointer;
+  border: none;
+}
+
+audio::-moz-range-track {
+  height: 4px;
+  background: hsl(var(--muted));
+  border-radius: 2px;
+}
+
+/* =========================================================================
+   Edge/Chrome Specific Fixes
+   ========================================================================= */
+
+/* Fix Edge/Chrome audio controls */
+audio::-webkit-media-controls-panel {
+  background-color: hsl(var(--background));
+}
+
+audio::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: hsl(var(--primary));
+  cursor: pointer;
+}
+
+audio::-webkit-slider-runnable-track {
+  height: 4px;
+  background: hsl(var(--muted));
+  border-radius: 2px;
+}
+
+/* =========================================================================
+   Touch Device Optimizations
+   ========================================================================= */
+
+/* Improve touch targets */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Disable text selection on UI elements */
+.select-none {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Improve touch scrolling */
+.overflow-auto,
+.overflow-y-auto {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* =========================================================================
+   Focus Outline Compatibility
+   ========================================================================= */
+
+/* Ensure focus outlines work across browsers */
+.focus\\:ring-2:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px hsl(var(--primary));
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .focus\\:ring-2:focus {
+    outline: 2px solid;
+    outline-offset: 2px;
+  }
+}
+
+/* =========================================================================
+   Print Styles
+   ========================================================================= */
+
+@media print {
+  /* Ensure proper printing across browsers */
+  * {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+}
+
+/* =========================================================================
+   Container Queries Fallback
+   ========================================================================= */
+
+/* Container queries with fallback */
+.container-query-test {
+  container-type: inline-size;
+}
+
+/* Fallback for browsers without container query support */
+@supports not (container-type: inline-size) {
+  .container-query-test {
+    width: 100%;
+  }
+  
+  /* Use media queries as fallback */
+  @media (min-width: 200px) {
+    .container-query-child {
+      background-color: hsl(var(--primary) / 0.5);
+    }
+  }
+}
+
+/* =========================================================================
+   Performance Optimizations
+   ========================================================================= */
+
+/* Optimize animations for different browsers */
+.transition-all {
+  transition: all 0.15s ease-in-out;
+  -webkit-transition: all 0.15s ease-in-out;
+  -moz-transition: all 0.15s ease-in-out;
+}
+
+/* GPU acceleration for smoother animations */
+.transform,
+.scale-105,
+.hover\\:scale-105:hover,
+.-translate-y-1,
+.hover\\:-translate-y-1:hover {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-perspective: 1000px;
+  perspective: 1000px;
+  transform: translate3d(0, 0, 0);
+}
+
+/* =========================================================================
+   Color Scheme Support
+   ========================================================================= */
+
+/* Support for user's preferred color scheme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+  }
+}
+
+/* =========================================================================
+   Reduced Motion Support
+   ========================================================================= */
+
+/* Respect user's motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* =========================================================================
+   Legacy Browser Support (IE11 and older)
+   ========================================================================= */
+
+/* IE11 specific fixes (if needed for wider compatibility) */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  /* IE11 specific styles */
+  .flex {
+    display: -ms-flexbox;
+  }
+  
+  .flex-1 {
+    -ms-flex: 1;
+  }
+}
+
+/* =========================================================================
+   Critical CSS Variables Fallbacks
+   ========================================================================= */
+
+/* Ensure variables have fallbacks for unsupported browsers */
+.bg-primary {
+  background-color: #a855f7; /* fallback */
+  background-color: hsl(var(--primary));
+}
+
+.text-primary {
+  color: #a855f7; /* fallback */
+  color: hsl(var(--primary));
+}
+
+.border-primary {
+  border-color: #a855f7; /* fallback */
+  border-color: hsl(var(--primary));
+}
+
+.bg-background {
+  background-color: #ffffff; /* fallback */
+  background-color: hsl(var(--background));
+}
+
+.text-foreground {
+  color: #1f2937; /* fallback */
+  color: hsl(var(--foreground));
+}
+
+.text-muted-foreground {
+  color: #6b7280; /* fallback */
+  color: hsl(var(--muted-foreground));
+}
+
+.bg-destructive {
+  background-color: #ef4444; /* fallback */
+  background-color: hsl(var(--destructive));
+}
+
+.text-destructive {
+  color: #ef4444; /* fallback */
+  color: hsl(var(--destructive));
+}

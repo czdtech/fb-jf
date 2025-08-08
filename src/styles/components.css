@@ -1,38 +1,13 @@
 /**
- * FiddleBops 组件样式系统
- * 模块化组件样式入口文件
+ * FiddleBops Component Styles - Simplified
+ * Essential component styles that complement shadcn/ui
  */
 
-/* ==========================================================================
-   组件模块导入
-   ========================================================================== */
-
-/* Hero背景系统和音符动画 */
+/* Hero background system and animations */
 @import './components/hero.css';
 
-/* 按钮组件系统 */
-@import './components/buttons.css';
-
-/* 游戏卡片组件系统 */
-@import './components/game-cards.css';
-
-/* 游戏网格系统 */
+/* Game grid system */
 @import './components/game-grids.css';
 
-/* 导航组件系统 - 游戏风格版本 */
-@import './components/navigation-gaming.css';
-
-/* 布局组件系统 */
-@import './components/layout.css';
-
-/* 音频组件系统 */
+/* Audio component system */
 @import './components/audio.css';
-
-/* 排版系统 */
-@import './components/typography.css';
-
-/* 表单组件系统 */
-@import './components/forms.css';
-
-/* 游戏内容页面样式 - 游戏风格版本 */
-@import './components/game-content-gaming.css';

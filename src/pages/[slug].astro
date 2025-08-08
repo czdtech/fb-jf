@@ -42,13 +42,13 @@ const hreflangLinks =
     label: lang.label,
   })) || []
 
-// SEO配置
+// SEO配置 - 安全处理
 const meta = {
-  title: extendedData.seo?.title || gameData.meta.title,
-  description: extendedData.seo?.description || gameData.meta.description,
+  title: extendedData.seo?.title || gameData.meta?.title || `${gameData.title} - Play ${gameData.title} Online | FiddleBops`,
+  description: extendedData.seo?.description || gameData.meta?.description || `Play ${gameData.title} online for free! ${gameData.description || 'Experience this amazing music creation game.'}`,
   keywords: extendedData.seo?.keywords || gameData.title,
-  canonical: extendedData.seo?.canonical || gameData.meta.canonical,
-  ogImage: extendedData.seo?.ogImage || gameData.meta.ogImage,
+  canonical: extendedData.seo?.canonical || gameData.meta?.canonical || `https://www.playfiddlebops.com/${gameData.slug}/`,
+  ogImage: extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || 'https://www.playfiddlebops.com/tw.jpg',
 }
 
 // 增强的结构化数据

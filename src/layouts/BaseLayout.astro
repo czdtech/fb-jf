@@ -1,5 +1,7 @@
 ---
 import type { SEOMeta, Language } from '@/types';
+// 导入 shadcn/ui 和 Tailwind CSS
+import '@/styles/globals.css';
 import '../styles/design-tokens.css';
 import '../styles/components.css';
 
@@ -11,6 +13,15 @@ export interface Props {
 }
 
 const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
+
+// 安全处理meta数据
+const safeMeta = {
+  title: meta?.title || 'FiddleBops - Play Music Games',
+  description: meta?.description || 'Create your unique music with FiddleBops!',
+  canonical: meta?.canonical || 'https://www.playfiddlebops.com/',
+  keywords: meta?.keywords || 'fiddlebops, music, incredibox',
+  ogImage: meta?.ogImage || 'https://www.playfiddlebops.com/tw.jpg'
+};
 ---
 
 <!DOCTYPE html>
@@ -18,11 +29,11 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{meta.title}</title>
-    <meta name="description" content={meta.description}>
-    {meta.keywords && <meta name="keywords" content={meta.keywords}>}
+    <title>{safeMeta.title}</title>
+    <meta name="description" content={safeMeta.description}>
+    {safeMeta.keywords && <meta name="keywords" content={safeMeta.keywords}>}
     <meta name="robots" content="index, follow"/>
-    <link rel="canonical" href={meta.canonical}/>
+    <link rel="canonical" href={safeMeta.canonical}/>
 
     <!-- hreflang 标签 -->
     {hreflang.map((lang) => (
@@ -35,20 +46,20 @@ const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
     )}
 
     <!-- Open Graph -->
-    <meta property="og:title" content={meta.title}/>
-    <meta property="og:description" content={meta.description}/>
-    <meta property="og:url" content={meta.canonical}/>
+    <meta property="og:title" content={safeMeta.title}/>
+    <meta property="og:description" content={safeMeta.description}/>
+    <meta property="og:url" content={safeMeta.canonical}/>
     <meta property="og:site_name" content="FiddleBops"/>
     <meta property="og:locale" content="en_US"/>
-    <meta property="og:image" content={meta.ogImage}/>
+    <meta property="og:image" content={safeMeta.ogImage}/>
     <meta property="og:type" content="website"/>
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content={meta.canonical}/>
-    <meta name="twitter:title" content={meta.title}/>
-    <meta name="twitter:description" content={meta.description}/>
-    <meta name="twitter:image" content={meta.ogImage}/>
+    <meta name="twitter:title" content={safeMeta.title}/>
+    <meta name="twitter:description" content={safeMeta.description}/>
+    <meta name="twitter:image" content={safeMeta.ogImage}/>
 
     <!-- 图标和样式 -->
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>

@@ -48,3 +48,7 @@ export {
   SelectScrollDownButton,
 } from "./select"
 export { Slider } from "./slider"
+export { Alert, AlertTitle, AlertDescription } from "./alert"
+export { ErrorAlert } from "./error-alert"
+export { GameCardError } from "./game-card-error"
+export { ErrorBoundary } from "./error-boundary"

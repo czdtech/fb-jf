@@ -6,7 +6,15 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "test:performance": "node scripts/task17-performance-suite.js",
+    "test:bundle": "node scripts/bundle-analyzer.js",
+    "test:lighthouse": "node scripts/lighthouse-tester.js",
+    "test:accessibility": "node scripts/accessibility-auditor.js",
+    "test:cross-browser": "node scripts/cross-browser-tester.js",
+    "perf": "./scripts/performance-test-launcher.sh",
+    "a11y": "npm run test:accessibility",
+    "browser": "npm run test:cross-browser"
   },
   "dependencies": {
     "@astrojs/react": "^4.3.0",

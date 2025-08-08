@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "project": "Fiddlebops",
+    "auditDate": "2025-08-08T06:39:34.883Z",
+    "auditVersion": "1.0.0",
+    "framework": "shadcn/ui + Tailwind CSS",
+    "theme": "Music Purple (#a855f7)"
+  },
+  "summary": {
+    "overallScore": 84,
+    "totalChecks": 34,
+    "passed": 27,
+    "warnings": 3,
+    "failed": 4,
+    "level": "Good"
+  },
+  "colorContrast": [
+    {
+      "name": "Primary background with white text",
+      "background": "#a855f7",
+      "foreground": "#ffffff",
+      "context": "Buttons, links, primary elements",
+      "ratio": 3.96,
+      "wcagAA": false,
+      "wcagAAA": false,
+      "wcagAALarge": true,
+      "status": "fail",
+      "recommendation": "Warning: This combination only meets WCAG AA for large text. Consider improving contrast for better accessibility."
+    },
+    {
+      "name": "Primary text on white background",
+      "background": "#ffffff",
+      "foreground": "#a855f7",
+      "context": "Primary text elements",
+      "ratio": 3.96,
+      "wcagAA": false,
+      "wcagAAA": false,
+      "wcagAALarge": true,
+      "status": "fail",
+      "recommendation": "Warning: This combination only meets WCAG AA for large text. Consider improving contrast for better accessibility."
+    },
+    {
+      "name": "Body text on white background",
+      "background": "#ffffff",
+      "foreground": "#1f2937",
+      "context": "Main text content",
+      "ratio": 14.68,
+      "wcagAA": true,
+      "wcagAAA": true,
+      "wcagAALarge": true,
+      "status": "pass",
+      "recommendation": null
+    },
+    {
+      "name": "Muted text on white background",
+      "background": "#ffffff",
+      "foreground": "#6b7280",
+      "context": "Secondary text, descriptions",
+      "ratio": 4.83,
+      "wcagAA": true,
+      "wcagAAA": false,
+      "wcagAALarge": true,
+      "status": "pass",
+      "recommendation": null
+    },
+    {
+      "name": "Text on muted background",
+      "background": "#f9fafb",
+      "foreground": "#1f2937",
+      "context": "Cards, highlighted sections",
+      "ratio": 14.05,
+      "wcagAA": true,
+      "wcagAAA": true,
+      "wcagAALarge": true,
+      "status": "pass",
+      "recommendation": null
+    },
+    {
+      "name": "Border on white background",
+      "background": "#ffffff",
+      "foreground": "#e5e7eb",
+      "context": "Borders, dividers",
+      "ratio": 1.24,
+      "wcagAA": false,
+      "wcagAAA": false,
+      "wcagAALarge": false,
+      "status": "fail",
+      "recommendation": "Critical: This color combination fails all WCAG standards. Consider using a darker foreground or lighter background."
+    },
+    {
+      "name": "Destructive background with white text",
+      "background": "#ef4444",
+      "foreground": "#ffffff",
+      "context": "Error messages, danger buttons",
+      "ratio": 3.76,
+      "wcagAA": false,
+      "wcagAAA": false,
+      "wcagAALarge": true,
+      "status": "fail",
+      "recommendation": "Warning: This combination only meets WCAG AA for large text. Consider improving contrast for better accessibility."
+    }
+  ],
+  "keyboardNavigation": [
+    {
+      "component": "Button components",
+      "requirement": "All buttons should be focusable with Tab and activatable with Enter/Space",
+      "status": "pass",
+      "details": "shadcn/ui Button components have proper keyboard support built-in"
+    },
+    {
+      "component": "Navigation menu",
+      "requirement": "Menu items should be navigable with Tab and arrow keys",
+      "status": "pass",
+      "details": "Navigation.astro uses proper ARIA roles and keyboard event handlers"
+    },
+    {
+      "component": "Form elements",
+      "requirement": "All form inputs should be focusable and have proper label associations",
+      "status": "pass",
+      "details": "Forms use proper label[for] associations and ARIA descriptions"
+    },
+    {
+      "component": "Modal dialogs",
+      "requirement": "Focus should be trapped within modals and restored on close",
+      "status": "pass",
+      "details": "Modal components implement proper focus management and Escape key handling"
+    },
+    {
+      "component": "Audio player controls",
+      "requirement": "Play/pause and volume controls should be keyboard accessible",
+      "status": "warning",
+      "details": "AudioPlayer may need additional keyboard event handlers for custom controls"
+    },
+    {
+      "component": "Game cards",
+      "requirement": "Game cards should be focusable and activatable with keyboard",
+      "status": "pass",
+      "details": "GameCard components use proper link/button elements for keyboard navigation"
+    },
+    {
+      "component": "Skip links",
+      "requirement": "Skip-to-main-content links should be provided",
+      "status": "pass",
+      "details": "Skip links implemented with proper focus management"
+    }
+  ],
+  "ariaLabels": [
+    {
+      "element": "Main navigation",
+      "requirement": "Navigation should have aria-label or aria-labelledby",
+      "status": "pass",
+      "implementation": "<nav aria-label=\"Main navigation\">"
+    },
+    {
+      "element": "Page regions",
+      "requirement": "Main content areas should use proper landmark roles",
+      "status": "pass",
+      "implementation": "<main role=\"main\">, <header role=\"banner\">, <footer role=\"contentinfo\">"
+    },
+    {
+      "element": "Headings",
+      "requirement": "Headings should follow proper hierarchical structure (h1 > h2 > h3)",
+      "status": "pass",
+      "implementation": "Proper heading hierarchy maintained throughout components"
+    },
+    {
+      "element": "Form labels",
+      "requirement": "All form inputs should have associated labels",
+      "status": "pass",
+      "implementation": "<label for=\"input-id\"> or aria-labelledby"
+    },
+    {
+      "element": "Button purposes",
+      "requirement": "Buttons should have descriptive text or aria-label",
+      "status": "pass",
+      "implementation": "All buttons have descriptive text content"
+    },
+    {
+      "element": "Images",
+      "requirement": "Images should have meaningful alt attributes",
+      "status": "warning",
+      "implementation": "Some decorative images may need alt=\"\" or better descriptions"
+    },
+    {
+      "element": "Live regions",
+      "requirement": "Dynamic content should use aria-live for screen reader announcements",
+      "status": "pass",
+      "implementation": "Form validation and status messages use proper aria-live regions"
+    },
+    {
+      "element": "Modal dialogs",
+      "requirement": "Modals should have proper ARIA dialog attributes",
+      "status": "pass",
+      "implementation": "role=\"dialog\", aria-modal=\"true\", aria-labelledby, aria-describedby"
+    }
+  ],
+  "semanticStructure": [
+    {
+      "element": "Document structure",
+      "requirement": "HTML5 semantic elements should be used appropriately",
+      "status": "pass",
+      "details": "<header>, <main>, <nav>, <section>, <article>, <footer> used correctly"
+    },
+    {
+      "element": "Lists",
+      "requirement": "Related items should be grouped in lists with proper markup",
+      "status": "pass",
+      "details": "Navigation menus and game grids use proper list structures"
+    },
+    {
+      "element": "Tables",
+      "requirement": "Tabular data should use proper table markup with headers",
+      "status": "pass",
+      "details": "Tables use <th scope=\"col|row\"> and <caption> elements"
+    },
+    {
+      "element": "Forms",
+      "requirement": "Form elements should be grouped with fieldset/legend when appropriate",
+      "status": "pass",
+      "details": "Radio button groups use proper fieldset/legend structure"
+    },
+    {
+      "element": "Language attributes",
+      "requirement": "HTML lang attribute should be set and updated for multilingual content",
+      "status": "pass",
+      "details": "BaseLayout sets lang attribute based on current language"
+    }
+  ],
+  "screenReader": [
+    {
+      "component": "GameCard",
+      "requirement": "Game information should be announced clearly",
+      "status": "pass",
+      "details": "Card content is properly structured with headings and descriptions"
+    },
+    {
+      "component": "AudioPlayer",
+      "requirement": "Audio controls and state should be announced",
+      "status": "warning",
+      "details": "Custom audio controls may need additional ARIA labels for play/pause state"
+    },
+    {
+      "component": "Navigation",
+      "requirement": "Menu structure and current page should be clear",
+      "status": "pass",
+      "details": "Navigation uses proper roles and aria-current for active items"
+    },
+    {
+      "component": "Language selector",
+      "requirement": "Language options should be clearly announced",
+      "status": "pass",
+      "details": "Select/dropdown components have proper labeling"
+    },
+    {
+      "component": "Form validation",
+      "requirement": "Error messages should be announced immediately",
+      "status": "pass",
+      "details": "Validation uses aria-live=\"assertive\" for immediate announcement"
+    },
+    {
+      "component": "Loading states",
+      "requirement": "Loading indicators should inform users of progress",
+      "status": "pass",
+      "details": "Skeleton components provide appropriate loading context"
+    },
+    {
+      "component": "Hidden content",
+      "requirement": "Screen reader only content should be properly hidden/shown",
+      "status": "pass",
+      "details": "sr-only class used appropriately for additional context"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "Color Contrast",
+      "priority": "High",
+      "description": "4 color combinations fail WCAG AA standards",
+      "action": "Review and adjust color combinations to meet minimum 4.5:1 ratio for normal text"
+    },
+    {
+      "category": "Keyboard Navigation",
+      "priority": "Medium",
+      "description": "Audio player controls may need enhanced keyboard support",
+      "action": "Add keyboard event handlers for play/pause, volume, and seeking controls"
+    },
+    {
+      "category": "ARIA Labels",
+      "priority": "Medium",
+      "description": "Some images may need better alt text descriptions",
+      "action": "Review all images and provide meaningful alt text or use alt=\"\" for decorative images"
+    },
+    {
+      "category": "General",
+      "priority": "Medium",
+      "description": "Consider implementing automated accessibility testing in CI/CD",
+      "action": "Add tools like axe-core, pa11y, or Lighthouse CI for continuous accessibility monitoring"
+    }
+  ]
+}

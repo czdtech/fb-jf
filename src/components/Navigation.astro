@@ -13,10 +13,10 @@ export interface Props {
 const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.props;
 ---
 
-<header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-  <div class="container flex h-16 items-center">
-    <!-- Logo -->
-    <a href="/" class="mr-6 flex items-center space-x-2">
+<header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 safe-area-top">
+  <div class="responsive-container flex h-16 min-h-[64px] items-center safe-area-left safe-area-right">
+    <!-- Logo with enhanced touch target -->
+    <a href="/" class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
       <span class="text-xl font-bold text-primary">FiddleBops</span>
     </a>
     
@@ -26,7 +26,7 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
         {navigation.map((item) => (
           <a 
             href={item.url} 
-            class={`inline-flex h-10 w-max items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground focus:outline-none disabled:pointer-events-none disabled:opacity-50 ${
+            class={`touch-target inline-flex h-10 min-h-[44px] w-max items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 ${
               currentPath === item.url 
                 ? 'bg-accent text-accent-foreground font-semibold' 
                 : 'text-muted-foreground'
@@ -44,11 +44,11 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
         <LanguageSelector currentPath={currentPath} />
       </div>
 
-      <!-- Mobile Menu Toggle -->
+      <!-- Mobile Menu Toggle with enhanced touch target -->
       <Button
         variant="ghost"
         size="icon"
-        class="md:hidden"
+        class="md:hidden touch-target touch-friendly min-w-[44px] min-h-[44px] w-11 h-11"
         id="mobileMenuTrigger"
         aria-label="Toggle Navigation"
         aria-expanded="false"
@@ -79,17 +79,17 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
     style="display: none !important;"
   ></div>
   
-  <!-- Sheet Content -->
+  <!-- Sheet Content with enhanced mobile design -->
   <div 
     id="mobileContent"
-    class="fixed z-50 gap-4 bg-background p-6 shadow-lg transition ease-in-out data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:duration-300 data-[state=open]:duration-500 inset-y-0 left-0 h-full w-3/4 border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left sm:max-w-sm opacity-0 transform -translate-x-full"
+    class="mobile-sheet-content fixed z-50 gap-4 bg-background p-6 shadow-lg transition ease-in-out data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:duration-300 data-[state=open]:duration-500 inset-y-0 left-0 h-full w-[85vw] max-w-sm border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left opacity-0 transform -translate-x-full safe-area-top safe-area-bottom safe-area-left"
     data-state="closed"
     style="display: none !important;"
   >
-    <!-- Close Button -->
+    <!-- Close Button with enhanced touch target -->
     <button 
       id="mobileCloseButton"
-      class="absolute right-4 top-4 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:pointer-events-none data-[state=open]:bg-secondary"
+      class="absolute right-4 top-4 touch-target touch-friendly min-w-[44px] min-h-[44px] rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:pointer-events-none data-[state=open]:bg-secondary flex items-center justify-center"
     >
       <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -102,11 +102,11 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
       <!-- Navigation Section -->
       <div>
         <h2 id="mobile-menu-title" class="text-lg font-semibold text-foreground mb-4">Navigation</h2>
-        <nav class="flex flex-col space-y-3">
+        <nav class="flex flex-col space-y-2">
           {navigation.map((item) => (
             <a 
               href={item.url}
-              class={`flex items-center space-x-3 rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground ${
+              class={`mobile-nav-link touch-target touch-friendly flex items-center space-x-3 rounded-md px-4 py-3 min-h-[44px] text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground ${
                 currentPath === item.url 
                   ? 'bg-accent text-accent-foreground font-semibold' 
                   : 'text-muted-foreground'

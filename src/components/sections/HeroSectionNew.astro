@@ -61,50 +61,50 @@ const mainGame = {
 };
 ---
 
-<!-- Clean Hero Section with shadcn/ui -->
-<section class="relative min-h-screen bg-gradient-to-br from-primary/5 via-background to-primary/10">
-  <div class="container mx-auto px-4 py-16 lg:py-24">
+<!-- Clean Hero Section with enhanced responsive design -->
+<section class="relative min-h-screen bg-gradient-to-br from-primary/5 via-background to-primary/10 safe-area-top">
+  <div class="responsive-container mx-auto px-4 py-8 sm:py-12 md:py-16 lg:py-24 safe-area-left safe-area-right">
     
-    <!-- Hero Header -->
-    <div class="text-center mb-16 space-y-6">
-      <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
+    <!-- Hero Header with improved mobile spacing -->
+    <div class="text-center mb-8 sm:mb-12 md:mb-16 space-y-4 sm:space-y-6">
+      <h1 class="text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent leading-tight">
         {hero.title}
       </h1>
-      <p class="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+      <p class="text-base sm:text-lg md:text-xl text-muted-foreground max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-3xl mx-auto leading-relaxed px-2">
         {hero.description}
       </p>
-      <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-        <Button size="lg" class="text-lg px-8 py-6 rounded-full">
-          <svg class="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+      <div class="flex flex-col xs:flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center pt-4">
+        <Button size="lg" class="touch-target w-full xs:w-auto text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6 rounded-full min-h-[48px] min-w-[140px]">
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
             <path d="M8 5v14l11-7z"/>
           </svg>
           Play Now
         </Button>
-        <Button variant="outline" size="lg" class="text-lg px-8 py-6 rounded-full">
+        <Button variant="outline" size="lg" class="touch-target w-full xs:w-auto text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6 rounded-full min-h-[48px] min-w-[140px]">
           Learn More
         </Button>
       </div>
     </div>
 
-    <!-- Main Game Section -->
-    <div class="mb-20">
-      <Card class="overflow-hidden shadow-2xl border-primary/20">
+    <!-- Main Game Section with responsive improvements -->
+    <div class="mb-12 sm:mb-16 md:mb-20">
+      <Card class="overflow-hidden shadow-lg sm:shadow-xl md:shadow-2xl border-primary/20">
         <CardContent class="p-0">
-          <div class="aspect-video bg-gradient-to-br from-primary/10 to-primary/5">
+          <div class="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 relative">
             <GameIframe game={mainGame} autoLoad={false} />
           </div>
         </CardContent>
       </Card>
     </div>
 
-    <!-- Featured Games Section -->
+    <!-- Featured Games Section with improved responsive design -->
     {featuredGames.length > 0 && (
-      <div class="mb-20">
-        <div class="text-center mb-12">
-          <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+      <div class="mb-12 sm:mb-16 md:mb-20">
+        <div class="text-center mb-8 sm:mb-10 md:mb-12">
+          <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
             🔥 Featured Games
           </h2>
-          <p class="text-muted-foreground text-lg">
+          <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
             Discover our most popular music creation experiences
           </p>
         </div>
@@ -112,19 +112,19 @@ const mainGame = {
           games={featuredGames} 
           variant="featured" 
           showTitle={false}
-          className="mb-8"
+          className="mb-4 sm:mb-6 md:mb-8"
         />
       </div>
     )}
 
-    <!-- New Games Section -->
+    <!-- New Games Section with responsive improvements -->
     {newGames.length > 0 && (
-      <div class="mb-20">
-        <div class="text-center mb-12">
-          <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+      <div class="mb-12 sm:mb-16 md:mb-20">
+        <div class="text-center mb-8 sm:mb-10 md:mb-12">
+          <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
             ✨ New Releases
           </h2>
-          <p class="text-muted-foreground text-lg">
+          <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
             Fresh beats and new ways to create music
           </p>
         </div>
@@ -132,19 +132,19 @@ const mainGame = {
           games={newGames} 
           variant="standard" 
           showTitle={false}
-          className="mb-8"
+          className="mb-4 sm:mb-6 md:mb-8"
         />
       </div>
     )}
 
-    <!-- Trending Games Section -->
+    <!-- Trending Games Section with responsive improvements -->
     {trendingGames.length > 0 && (
-      <div class="mb-20">
-        <div class="text-center mb-12">
-          <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+      <div class="mb-12 sm:mb-16 md:mb-20">
+        <div class="text-center mb-8 sm:mb-10 md:mb-12">
+          <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
             📈 Trending Now
           </h2>
-          <p class="text-muted-foreground text-lg">
+          <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
             What everyone's playing right now
           </p>
         </div>

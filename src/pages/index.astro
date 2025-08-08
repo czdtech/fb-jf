@@ -40,10 +40,10 @@ const hreflangLinks = navigation.languages.map((lang: any) => ({
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'Game',
-  name: homepage.meta.title,
+  name: homepage.meta?.title || 'FiddleBops - Play Music Games',
   alternateName: 'playfiddlebops.com',
-  url: homepage.meta.canonical,
-  description: homepage.meta.description,
+  url: homepage.meta?.canonical || 'https://www.playfiddlebops.com/',
+  description: homepage.meta?.description || 'Create your unique music with FiddleBops!',
 }
 ---
 
