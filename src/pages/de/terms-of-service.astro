@@ -1,88 +1,108 @@
 ---
-import NAV from "../../components/legacy/nav.astro"
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+
+const { navigation } = extractedData
+
+// 多语言配置
+const hreflangLinks = navigation.languages.map((lang: any) => ({
+  code: lang.code === 'en' ? 'x-default' : lang.code,
+  url: lang.code === 'en' ? `https://www.playfiddlebops.com/terms-of-service/` : `https://www.playfiddlebops.com/${lang.code}/terms-of-service/`,
+  label: lang.label,
+}))
+
+// Meta data for terms page
+const meta = {
+  title: "Nutzungsbedingungen | FiddleBops",
+  description: "Lesen Sie unsere Nutzungsbedingungen, um die Regeln und Richtlinien für die Nutzung von FiddleBops zu verstehen. Erfahren Sie mehr über Ihre Rechte und Pflichten als Nutzer.",
+  canonical: "https://www.playfiddlebops.com/de/terms-of-service/",
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "index, follow"
+}
 ---
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nutzungsbedingungen | FiddleBops</title>
-    <link rel="stylesheet" href="/main.css">
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/de/terms-of-service/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
 
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
+<BaseLayout
+  meta={meta}
+  lang="de"
+  hreflang={hreflangLinks}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="de"
+    currentPath="/terms-of-service/"
+  />
 
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <main class="terms-page">
+    <!-- Hero Section -->
+    <section class="terms-hero section">
+      <div class="container">
+        <div class="terms-hero-content">
+          <!-- 面包屑导航 -->
+          <nav class="breadcrumb" aria-label="面包屑导航">
+            <a href="/de/" class="breadcrumb-link">
+              <i class="fas fa-home"></i>
+              <span>Startseite</span>
+            </a>
+            <span class="breadcrumb-separator">></span>
+            <span class="breadcrumb-current">Nutzungsbedingungen</span>
+          </nav>
 
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/de/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-             <button class="nav-toggle" aria-label="Navigation umschalten">☰</button>
-            <nav class="nav-menu">
-                <ul>
-                    <li><a href="/de/">Startseite</a></li>
-                    <NAV />
-                </ul>
-            </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/terms-of-service/">English</option>
-    <option data-lang="zh" data-url="/zh/terms-of-service/">简体中文</option>  
-    <option data-lang="es" data-url="/es/terms-of-service/">Español</option>
-    <option data-lang="fr" data-url="/fr/terms-of-service/">Français</option>
-    <option data-lang="de" data-url="/de/terms-of-service/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/terms-of-service/">日本語</option>
-    <option data-lang="ko" data-url="/ko/terms-of-service/">한국어</option>
-    </select>
-    </div>
-</header>
-
-    <main>
-      <div class="page">
-
-        <div class="header">
-            <div class="container">
-                <p class="title"> </p>
+          <div class="hero-content">
+            <h1 class="terms-title heading-display">
+              <span class="title-main">Nutzungs</span>
+              <span class="title-accent">bedingungen</span>
+            </h1>
+            <p class="terms-subtitle body-large">
+              Bitte lesen Sie diese Bedingungen sorgfältig, bevor Sie unsere Dienste nutzen.
+              Durch die Nutzung von FiddleBops stimmen Sie diesen Nutzungsbedingungen zu.
+            </p>
+            <div class="last-updated">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Letzte Aktualisierung: 10. Februar 2025</span>
             </div>
+          </div>
+
+          <!-- 装饰性图标 -->
+          <div class="terms-icons">
+            <div class="terms-icon"><i class="fas fa-gavel"></i></div>
+            <div class="terms-icon"><i class="fas fa-balance-scale"></i></div>
+            <div class="terms-icon"><i class="fas fa-handshake"></i></div>
+          </div>
         </div>
-    
-        
-    
-        <div class="translations-content-container">
-            <div class="container">
-    
-                
-                <div class="tab-content translations-content-item en visible" id="en">
-                  <h1 data-custom-class="title">NUTZUNGSBEDINGUNGEN</h1>
-                  <p data-custom-class="subtitle"><strong>Letzte Aktualisierung</strong> 10. Februar 2025</p>
-                  <br>
-                  <h2 data-custom-class="heading_1">VEREINBARUNG ZU UNSEREN RECHTLICHEN BEDINGUNGEN</h2>
+      </div>
+    </section>
+
+    <!-- Terms Content Section -->
+    <section class="terms-content section">
+      <div class="container">
+        <div class="content-wrapper">
+
+          <!-- Navigation Menu -->
+          <aside class="terms-nav glass">
+            <h3>Inhaltsverzeichnis</h3>
+            <ul>
+              <li><a href="#agreement">Vereinbarung zu den Bedingungen</a></li>
+              <li><a href="#services">Unsere Dienstleistungen</a></li>
+              <li><a href="#ip">Geistiges Eigentum</a></li>
+              <li><a href="#userreps">Nutzererklärungen</a></li>
+              <li><a href="#prohibited">Verbotene Aktivitäten</a></li>
+              <li><a href="#ugc">Nutzerbeiträge</a></li>
+              <li><a href="#privacy">Datenschutzrichtlinie</a></li>
+              <li><a href="#termination">Kündigung</a></li>
+              <li><a href="#disclaimer">Haftungsausschluss</a></li>
+              <li><a href="#liability">Haftungsbeschränkungen</a></li>
+              <li><a href="#contact">Kontakt</a></li>
+            </ul>
+          </aside>
+
+          <!-- Main Content -->
+          <article class="terms-article glass">
+
+            <section id="agreement">
+              <h2>Vereinbarung zu unseren rechtlichen Bedingungen</h2>
                   <a name="_6aa3gkhykvst"></a>
                   <p data-custom-class="body_text">
                   Wir sind
@@ -376,74 +396,336 @@ import NAV from "../../components/legacy/nav.astro"
                   <p data-custom-class="body_text">
                   Um eine Beschwerde bezüglich der Dienste  beizulegen oder um weitere Informationen zur Nutzung der Dienste zu erhalten, kontaktieren Sie uns bitte unter: chongzhidatech@gmail.com
                   </p>
-                </div>
-                
-    
-            </div>
-        </div>
-        <!-- content end -->
-        
-    
-    </div>
-    </main>
 
-    <footer>
-      <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/de/privacy/">Datenschutz</a></li>
-                  <li><a href="/de/terms-of-service/">Nutzungsbedingungen</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. Alle Rechte vorbehalten.</p>
+          </article>
+        </div>
       </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* ===== TERMS OF SERVICE PAGE STYLES ===== */
+
+  /* Page Background */
+  body {
+    background: var(--hero-main-bg);
+    min-height: 100vh;
+  }
+
+  .terms-page {
+    background: transparent;
+  }
+
+  /* Terms Hero Section */
+  .terms-hero {
+    background: var(--hero-main-bg);
+    color: var(--color-text);
+    padding: var(--space-16) 0 var(--space-8);
+    padding-top: calc(80px + var(--space-8));
+    position: relative;
+    overflow: hidden;
+  }
+
+  .terms-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--hero-texture-bg);
+    opacity: var(--hero-texture-opacity);
+    pointer-events: none;
+  }
+
+  .terms-hero-content {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+  }
+
+  /* Breadcrumb Navigation */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-bottom: var(--space-6);
+    font-size: var(--font-size-sm);
+    justify-content: center;
+  }
+
+  .breadcrumb-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    color: var(--color-primary-600);
+    text-decoration: none;
+    transition: all var(--duration-200) var(--ease-in-out);
+    padding: var(--space-1) var(--space-2);
+    border-radius: var(--border-radius-md);
+  }
+
+  .breadcrumb-link:hover {
+    color: var(--color-primary-700);
+    background: rgba(147, 51, 234, 0.1);
+  }
+
+  .breadcrumb-separator {
+    color: var(--color-gray-400);
+    font-weight: 500;
+  }
+
+  .breadcrumb-current {
+    color: var(--color-gray-600);
+    font-weight: 500;
+  }
+
+  /* Hero Content */
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .terms-title {
+    margin-bottom: var(--space-6);
+    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .title-main {
+    display: block;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .title-accent {
+    display: block;
+    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .terms-subtitle {
+    margin-bottom: var(--space-6);
+    color: var(--color-text-muted);
+  }
+
+  .last-updated {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    background: rgba(147, 51, 234, 0.1);
+    padding: var(--space-2) var(--space-4);
+    border-radius: var(--border-radius-md);
+    color: var(--color-primary-600);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-medium);
+  }
+
+  /* Terms Icons */
+  .terms-icons {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .terms-icon {
+    position: absolute;
+    font-size: 3rem;
+    color: rgba(147, 51, 234, 0.1);
+    animation: float-icons 12s ease-in-out infinite;
+  }
+
+  .terms-icon:nth-child(1) {
+    left: 10%;
+    top: 20%;
+    animation-delay: 0s;
+  }
+
+  .terms-icon:nth-child(2) {
+    right: 10%;
+    top: 30%;
+    animation-delay: 3s;
+  }
+
+  .terms-icon:nth-child(3) {
+    left: 15%;
+    top: 70%;
+    animation-delay: 6s;
+  }
+
+  @keyframes float-icons {
+    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+    25% { transform: translateY(-10px) rotate(2deg); opacity: 0.15; }
+    50% { transform: translateY(-20px) rotate(-1deg); opacity: 0.1; }
+    75% { transform: translateY(-10px) rotate(1deg); opacity: 0.15; }
+  }
+
+  /* Content Section */
+  .terms-content {
+    background: transparent;
+  }
+
+  .content-wrapper {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: var(--space-12);
+    align-items: start;
+  }
+
+  /* Navigation Menu */
+  .terms-nav {
+    position: sticky;
+    top: calc(80px + var(--space-4));
+    padding: var(--space-6);
+    border-radius: var(--border-radius-xl);
+  }
+
+  .terms-nav h3 {
+    margin-bottom: var(--space-4);
+    color: var(--color-text);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  .terms-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .terms-nav li {
+    margin-bottom: var(--space-2);
+  }
+
+  .terms-nav a {
+    display: block;
+    padding: var(--space-2) var(--space-3);
+    color: var(--color-text-muted);
+    text-decoration: none;
+    border-radius: var(--border-radius-md);
+    transition: all var(--duration-200) var(--ease-in-out);
+    font-size: var(--font-size-sm);
+  }
+
+  .terms-nav a:hover {
+    color: var(--color-primary-600);
+    background: rgba(147, 51, 234, 0.1);
+    transform: translateX(4px);
+  }
+
+  /* Article Content */
+  .terms-article {
+    padding: var(--space-8);
+    border-radius: var(--border-radius-xl);
+    line-height: 1.7;
+  }
+
+  .terms-article h2 {
+    color: var(--color-text);
+    margin-top: var(--space-8);
+    margin-bottom: var(--space-4);
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-semibold);
+    padding-bottom: var(--space-2);
+    border-bottom: 2px solid var(--color-primary-600);
+  }
+
+  .terms-article h2:first-child {
+    margin-top: 0;
+  }
+
+  .terms-article h3 {
+    color: var(--color-text);
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-3);
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .terms-article h4 {
+    color: var(--color-text);
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-2);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .terms-article h5 {
+    color: var(--color-text);
+    margin-bottom: var(--space-2);
+    font-size: var(--font-size-base);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .terms-article p {
+    margin-bottom: var(--space-4);
+    color: var(--color-text-muted);
+  }
+
+  .terms-article ul {
+    margin-bottom: var(--space-4);
+    padding-left: var(--space-6);
+  }
+
+  .terms-article li {
+    margin-bottom: var(--space-2);
+    color: var(--color-text-muted);
+  }
+
+  .terms-article a {
+    color: var(--color-primary-600);
+    text-decoration: none;
+    transition: color var(--duration-200) var(--ease-in-out);
+  }
+
+  .terms-article a:hover {
+    color: var(--color-primary-700);
+    text-decoration: underline;
+  }
+
+  .terms-article strong {
+    color: var(--color-text);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .content-wrapper {
+      grid-template-columns: 1fr;
+      gap: var(--space-8);
+    }
+
+    .terms-nav {
+      position: static;
+      order: 2;
+    }
+
+    .terms-article {
+      padding: var(--space-6);
+    }
+
+    .terms-hero {
+      padding: var(--space-12) 0 var(--space-6);
+    }
+
+    .breadcrumb {
+      margin-bottom: var(--space-4);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .terms-article {
+      padding: var(--space-4);
+    }
+
+    .terms-title {
+      font-size: var(--font-size-3xl);
+    }
+  }
+</style>

@@ -78,10 +78,22 @@
   --color-primary-800: #6d28d9;
   --color-primary-900: #581c87;
   
+  /* Text colors - mapped to shadcn/ui theme */
+  --color-text: hsl(var(--foreground));
+  --color-text-muted: hsl(var(--muted-foreground));
+  
   /* Colors - RGB values for alpha compositing */
   --color-primary-500-rgb: 168, 85, 247;
   --color-primary-600-rgb: 147, 51, 234;
   --color-primary-700-rgb: 124, 58, 237;
+  
+  /* Additional color palette for GamePageLayout */
+  --color-blue-500: #3b82f6;
+  --color-green-500: #10b981;
+  --color-amber-500: #f59e0b;
+  --color-red-500: #ef4444;
+  --color-purple-500: var(--color-primary-500);
+  --color-cyan-500: #06b6d4;
   
   /* Border radius */
   --border-radius-sm: 0.125rem;

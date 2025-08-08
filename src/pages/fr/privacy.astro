@@ -1,404 +1,660 @@
 ---
-import NAV from "../../components/legacy/nav.astro"
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+
+const { navigation } = extractedData
+
+// 多语言配置
+const hreflangLinks = navigation.languages.map((lang: any) => ({
+  code: lang.code === 'en' ? 'x-default' : lang.code,
+  url: `https://www.playfiddlebops.com${lang.code === 'en' ? '' : '/' + lang.code}/privacy/`,
+  label: lang.label,
+}))
+
+// Meta data for privacy page
+const meta = {
+  title: "Politique de confidentialité | FiddleBops",
+  description: "Découvrez comment FiddleBops collecte, utilise et protège vos informations personnelles. Notre politique de confidentialité complète explique nos pratiques de données.",
+  canonical: "https://www.playfiddlebops.com/fr/privacy/",
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "index, follow"
+}
 ---
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Politique de confidentialité | FiddleBops</title>
 
-    <!-- 使用新的设计系统 -->
-    <link rel="stylesheet" href="/src/styles/design-tokens.css" />
-    <link rel="stylesheet" href="/src/styles/components.css" />
+<BaseLayout
+  meta={meta}
+  lang="fr"
+  hreflang={hreflangLinks}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang="fr"
+    currentPath="/fr/privacy/"
+  />
 
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/fr/privacy/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-      .page .title{color:#fff}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
-
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
-
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/fr/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-         <button class="nav-toggle" aria-label="Basculer la navigation">☰</button>
-        <nav class="nav-menu">
-            <ul>
-                <li><a href="/fr/">Accueil</a></li>
-                <NAV />
-            </ul>
-        </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/privacy/">English</option>
-    <option data-lang="zh" data-url="/zh/privacy/">简体中文</option>  
-    <option data-lang="es" data-url="/es/privacy/">Español</option>
-    <option data-lang="fr" data-url="/fr/privacy/">Français</option>
-    <option data-lang="de" data-url="/de/privacy/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/privacy/">日本語</option>
-    <option data-lang="ko" data-url="/ko/privacy/">한국어</option>
-    </select>
-    </div>
-</header>
-
-    <main>
-      <div class="page">
-
-        <div class="header">
-            <div class="container">
-                <p class="title"> </p>
-            </div>
-        </div>
-    
-        
-    
-        <div class="translations-content-container">
-            <div class="container">
-    
-                
-                <div class="tab-content translations-content-item en visible" id="en">
-                  <h1>Politique de confidentialité</h1>
-
-                  <p>Dernière mise à jour : 10 février 2025</p>
-                  
-                  <p>La présente Politique de confidentialité décrit nos politiques et procédures sur la collecte, l'utilisation et la divulgation de Vos informations lorsque Vous utilisez le Service et Vous informe de Vos droits à la vie privée et de la manière dont la loi Vous protège.</p>
-                  
-                  <p>Nous utilisons Vos données personnelles pour fournir et améliorer le Service. En utilisant le Service, Vous acceptez la collecte et l'utilisation des informations conformément à la présente Politique de confidentialité.</p>
-                  
-                  <h2>Interprétation et définitions</h2>
-                  
-                  <h3>Interprétation</h3>
-                  
-                  <p>Les mots dont la lettre initiale est en majuscule ont des significations définies dans les conditions suivantes. Les définitions suivantes ont la même signification, qu'elles apparaissent au singulier ou au pluriel.</p>
-                  
-                  <h3>Définitions</h3>
-                  
-                  <p>Aux fins de la présente Politique de confidentialité :</p>
-                  
-                  <ul>
-                      <li>
-                          <p><strong>Compte</strong> désigne un compte unique créé pour Vous afin d'accéder à Notre Service ou à des parties de Notre Service.</p>
-                      </li>
-                      <li>
-                          <p><strong>Affilié</strong> désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où "contrôle" signifie la propriété de 50 % ou plus des actions, des participations ou d'autres titres habilités à voter pour l'élection des administrateurs ou d'autres autorités de gestion.</p>
-                      </li>
-                      <li>
-                          <p><strong>Société</strong> (désignée dans le présent accord par les termes "la Société", "Nous", "Notre" ou "Nos") fait référence à FiddleBops.</p>
-                      </li>
-                      <li>
-                          <p><strong>Cookies</strong> sont de petits fichiers qui sont placés sur Votre ordinateur, appareil mobile ou tout autre appareil par un site Web, contenant les détails de Votre historique de navigation sur ce site Web, parmi ses nombreuses utilisations.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pays</strong> fait référence à : New York, États-Unis</p>
-                      </li>
-                      <li>
-                          <p><strong>Appareil</strong> désigne tout appareil pouvant accéder au Service, tel qu'un ordinateur, un téléphone portable ou une tablette numérique.</p>
-                      </li>
-                      <li>
-                          <p><strong>Données personnelles</strong> désigne toute information se rapportant à une personne physique identifiée ou identifiable.</p>
-                      </li>
-                      <li>
-                          <p><strong>Service</strong> fait référence au Site Web.</p>
-                      </li>
-                      <li>
-                          <p><strong>Fournisseur de services</strong> désigne toute personne physique ou morale qui traite les données pour le compte de la Société. Il s'agit de sociétés ou de personnes tierces employées par la Société pour faciliter le Service, fournir le Service au nom de la Société, exécuter des services liés au Service ou aider la Société à analyser la manière dont le Service est utilisé.</p>
-                      </li>
-                      <li>
-                          <p><strong>Service de médias sociaux tiers</strong> désigne tout site Web ou tout site Web de réseau social par lequel un utilisateur peut se connecter ou créer un compte pour utiliser le Service.</p>
-                      </li>
-                      <li>
-                          <p><strong>Données d'utilisation</strong> désigne les données collectées automatiquement, soit générées par l'utilisation du Service, soit à partir de l'infrastructure du Service elle-même (par exemple, la durée d'une visite de page).</p>
-                      </li>
-                      <li>
-                          <p><strong>Site Web</strong> fait référence à FiddleBops, accessible à partir de <a href="https://www.playfiddlebops.com/" rel="external noopener" target="_blank">https://www.playfiddlebops.com/</a></p>
-                      </li>
-                      <li>
-                          <p><strong>Vous</strong> désigne la personne accédant ou utilisant le Service, ou la société ou autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.</p>
-                      </li>
-                  </ul>
-                  
-                  <h2>Collecte et utilisation de vos données personnelles</h2>
-                  
-                  <h3>Types de données collectées</h3>
-                  
-                  <h4>Données personnelles</h4>
-                  
-                  <p>Lors de l'utilisation de Notre Service, Nous pouvons Vous demander de Nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour Vous contacter ou Vous identifier. Les informations personnellement identifiables peuvent inclure, sans toutefois s'y limiter :</p>
-                  <ul>
-                      <li>Données d'utilisation</li>
-                  </ul>
-                  
-                  <h4>Données d'utilisation</h4>
-                  
-                  <p>Les données d'utilisation sont collectées automatiquement lors de l'utilisation du Service.</p>
-                  
-                  <p>Les données d'utilisation peuvent inclure des informations telles que l'adresse de protocole Internet (par exemple, l'adresse IP) de Votre appareil, le type de navigateur, la version du navigateur, les pages de Notre Service que Vous visitez, la date et l'heure de Votre visite, le temps passé sur ces pages, les identifiants uniques d'appareil et autres donnéesde diagnostic.</p>
-
-                  <p>Lorsque Vous accédez au Service par ou via un appareil mobile, Nous pouvons collecter automatiquement certaines informations, y compris, mais sans s'y limiter, le type d'appareil mobile que Vous utilisez, l'identifiant unique de Votre appareil mobile, l'adresse IP de Votre appareil mobile, Votre système d'exploitation mobile, le type de navigateur Internet mobile que Vous utilisez, les identifiants uniques d'appareil et autres données de diagnostic.</p>
-                  
-                  <p>Nous pouvons également collecter les informations que Votre navigateur envoie chaque fois que Vous visitez Notre Service ou lorsque Vous accédez au Service par ou via un appareil mobile.</p>
-                  
-                  <h4>Informations provenant de services de médias sociaux tiers</h4>
-                  
-                  <p>La Société Vous autorise à créer un compte et à Vous connecter pour utiliser le Service via les Services de médias sociaux tiers suivants :</p>
-                  <ul>
-                      <li>Google</li>
-                      <li>Facebook</li>
-                      <li>Instagram</li>
-                      <li>Twitter</li>
-                      <li>LinkedIn</li>
-                  </ul>
-                  
-                  <p>Si Vous décidez de Vous inscrire ou de Nous accorder l'accès à un Service de médias sociaux tiers, Nous pouvons collecter des données personnelles qui sont déjà associées au compte de Votre Service de médias sociaux tiers, telles que Votre nom, Votre adresse e-mail, Vos activités ou Votre liste de contacts associée à ce compte.</p>
-                  
-                  <p>Vous pouvez également avoir la possibilité de partager des informations supplémentaires avec la Société via le compte de Votre Service de médias sociaux tiers. Si Vous choisissez de fournir ces informations et données personnelles, lors de l'inscription ou autrement, Vous donnez à la Société l'autorisation de les utiliser, de les partager et de les stocker d'une manière conforme à la présente Politique de confidentialité.</p>
-                  
-                  <h4>Technologies de suivi et cookies</h4>
-                  
-                  <p>Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur Notre Service et stocker certaines informations. Les technologies de suivi utilisées sont les balises, les tags et les scripts pour collecter et suivre les informations et pour améliorer et analyser Notre Service. Les technologies que Nous utilisons peuvent inclure :</p>
-                  
-                  <ul>
-                      <li><strong>Cookies ou cookies de navigateur.</strong> Un cookie est un petit fichier placé sur Votre Appareil. Vous pouvez demander à Votre navigateur de refuser tous les Cookies ou d'indiquer quand un Cookie est envoyé. Cependant, si Vous n'acceptez pas les Cookies, Vous ne pourrez peut-être pas utiliser certaines parties de Notre Service. À moins que Vous n'ayez ajusté les paramètres de Votre navigateur pour qu'il refuse les Cookies, Notre Service peut utiliser des Cookies.</li>
-                      <li><strong>Balises Web.</strong> Certaines sections de Notre Service et de Nos e-mails peuvent contenir de petits fichiers électroniques connus sous le nom de balises Web (également appelées GIF invisibles, balises pixel et GIF à pixel unique) qui permettent à la Société, par exemple, de compter les utilisateurs qui ont visité ces pages ou ouvert un e-mail et pour d'autres statistiques de site Web connexes (par exemple, enregistrement de la popularité d'une certaine section et vérification de l'intégrité du système et du serveur).</li>
-                  </ul>
-                  
-                  <p>Les cookies peuvent être des cookies "persistants" ou des cookies "de session". Les cookies persistants restent sur Votre ordinateur personnel ou Votre appareil mobile lorsque Vous vous déconnectez, tandis que les cookies de session sont supprimés dès que Vous fermez Votre navigateur Web. Pour en savoir plus sur les cookies, consultez l'article du site Web Free Privacy Policy.</p>
-                  
-                  <p>Nous utilisons à la fois des cookies de session et des cookies persistants aux fins décrites ci-dessous :</p>
-                  
-                  <ul>
-                      <li>
-                          <p><strong>Cookies nécessaires / essentiels</strong></p>
-                          <p>Type : Cookies de session</p>
-                          <p>Administré par : Nous</p>
-                          <p>Objet : ces cookies sont essentiels pour vous fournir les services disponibles sur le site Web et pour vous permettre d’utiliser certaines de ses fonctionnalités. Ils aident à authentifier les utilisateurs et à prévenir l’utilisation frauduleuse des comptes d’utilisateurs. Sans ces cookies, les services que vous avez demandés ne peuvent pas être fournis, et nous utilisons ces cookies uniquement pour vous fournir ces services.</p>
-                      </li>
-                      <li>
-                          <p><strong>Politique relative aux cookies / Cookies d’acceptation des avis</strong></p>
-                          <p>Type : Cookies persistants</p>
-                          <p>Administré par : Nous</p>
-                          <p>Objet : Ces cookies identifient si les utilisateurs ont accepté l’utilisation de cookies sur le site Web.</p>
-                      </li>
-                      <li>
-                          <p><strong>Cookies de fonctionnalité</strong></p>
-                          <p>Type : Cookies persistants</p>
-                          <p>Administré par : Nous</p>
-                          <p>Objet : Ces cookies nous permettent de mémoriser les choix que vous faites lorsque vous utilisez le site Web, comme la mémorisation de vos informations de connexion ou de votre préférence de langue. Le but de ces cookies est de vous offrir une expérience plus personnelle et d’éviter que vous n’ayez à saisir à nouveau vos préférences à chaque fois que vous utilisez le site Web.</p>
-                      </li>
-                  </ul>
-                  
-                  <p>Pour plus d'informations sur les cookies que nous utilisons et vos choix concernant les cookies, veuillez consulter notre Politique en matière de cookies ou la section Cookies de notre Politique de confidentialité.</p>
-                  
-                  <h3>Utilisation de Vos données personnelles</h3>
-                  
-                  <p>La Société peut utiliser les Données personnelles aux fins suivantes :</p>
-                  
-                  <ul>
-                      <li>
-                          <p><strong>Pour fournir et maintenir Notre Service</strong>, y compris pour surveiller l'utilisation de Notre Service.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pour gérer Votre Compte :</strong> pour gérer Votre inscription en tant qu'utilisateur du Service. Les Données personnelles que Vous fournissez peuvent Vous donner accès à différentes fonctionnalités du Service qui sont mises à Votre disposition en tant qu'utilisateur enregistré.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pour l'exécution d'un contrat :</strong> le développement, le respect et la réalisation du contrat d'achat des produits, articles ou services que Vous avez achetés ou de tout autre contrat avec Nous par le biais du Service.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pour Vous contacter :</strong> Pour Vous contacter par e-mail, appels téléphoniques, SMS ou autres formes équivalentes de communication électronique, telles que les notifications push d'une application mobile concernant les mises à jour ou les communications informatives relatives aux fonctionnalités, aux produits ou aux services contractés, y compris les mises à jour de sécurité, lorsque cela est nécessaire ou raisonnable pour leur mise en œuvre.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pour Vous fournir</strong> des nouvelles, des offres spéciales et des informations générales sur d'autres biens, services et événements que Nous proposons et qui sont similaires à ceux que Vous avez déjà achetés ou demandés, à moins que Vous n'ayez choisi de ne pas recevoir ces informations.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pour gérer Vos demandes :</strong> Pour répondre à et gérer Vos demandes à Nous.</p>
-                      </li>
-                      <li>
-                          <p><strong>Pour les transferts d'entreprises :</strong> Nous pouvons utiliser Vos informations pour évaluer ou mener une fusion, une cession, une restructuration, une réorganisation, une dissolution ou toute autre vente ou transfert de tout ou partie de Nos actifs, que ce soit dans le cadre d'une exploitation continue ou dans le cadre d'une faillite, d'une liquidation ou d'une procédure similaire, dans laquelle les Données personnelles détenues par Nous sur Nos utilisateurs de Service font partie des actifs transférés.</p>
-                      </li>
-                      <li>
-                          <p><strong>À d'autres fins</strong>: Nous pouvons utiliser Vos informations à d'autres fins, telles que l'analyse des données, l'identification des tendances d'utilisation, la détermination de l'efficacité de Nos campagnes promotionnelles et pour évaluer et améliorer Notre Service, Nos produits, Nos services, Notre marketing et Votre expérience.</p>
-                      </li>
-                  </ul>
-                  
-                  <p>Nous pouvons partager Vos informations personnelles dans les situations suivantes :</p>
-                  
-                  <ul>
-                      <li><strong>Avec les Fournisseurs de services :</strong> Nous pouvons partager Vos informations personnelles avec les Fournisseurs de services pour surveiller et analyser l'utilisation de Notre Service, pour Vous contacter.</li>
-                      <li><strong>Pour les transferts d'entreprises :</strong> Nous pouvons partager ou transférer Vos informations personnelles dans le cadre de ou pendant les négociations de toute fusion, vente d'actifs de la Société, financement ou acquisition de tout ou partie de Notre entreprise à une autre société.</li>
-                      <li><strong>Avec les Affiliés :</strong> Nous pouvons partager Vos informations avec Nos affiliés, auquel cas Nous exigerons de ces affiliés qu'ils respectent la présente Politique de confidentialité. Les affiliés comprennent Notre société mère et toutes les autres filiales, partenaires de coentreprise ou autres sociétés que Nous contrôlons ou qui sont sous contrôle commun avec Nous.</li>
-                      <li><strong>Avec les partenaires commerciaux :</strong> Nous pouvons partager Vos informations avec Nos partenaires commerciaux pour Vous offrir certains produits, services ou promotions.</li>
-                      <li><strong>Avec d'autres utilisateurs :</strong> lorsque Vous partagez des informations personnelles ou interagissez autrement dans les zones publiques avec d'autres utilisateurs, ces informations peuvent être visualisées par tous les utilisateurs et peuvent être distribuées publiquement à l'extérieur. Si Vous interagissez avec d'autres utilisateurs ou vous inscrivez via un Service de médias sociaux tiers, Vos contacts sur le Service de médias sociaux tiers peuvent voir Votre nom, Votre profil, Vos photos et la description de Votre activité. De même, les autres utilisateurs pourront consulter des descriptions de Votre activité, communiquer avec Vous et consulter Votre profil.</li>
-                      <li><strong>Avec Votre consentement</strong> : Nous pouvons divulguer Vos informations personnelles à toute autre fin avec Votre consentement.</li>
-                  </ul>
-                  
-                  <h3>Conservation de Vos données personnelles</h3>
-                  
-                  <p>La Société ne conservera Vos Données personnelles que pendant la durée nécessaire aux fins énoncées dans la présente Politique de confidentialité. Nous conserverons et utiliserons Vos Données personnelles dans la mesure nécessaire pour  nous conformer à nos obligations légales (par exemple, si Nous sommes tenus de conserver Vos données pour nous conformer aux lois applicables), résoudre les litiges et faire appliquer nos accords et politiques juridiques.</p>
-
-                  <p>La Société conservera également les Données d'utilisation à des fins d'analyse interne. Les Données d'utilisation sont généralement conservées pendant une période plus courte, sauf lorsque ces données sont utilisées pour renforcer la sécurité ou pour améliorer la fonctionnalité de Notre Service, ou lorsque Nous sommes légalement tenus de conserver ces données pendant des périodes plus longues.</p>
-                  
-                  <h3>Transfert de Vos données personnelles</h3>
-                  
-                  <p>Vos informations, y compris les Données personnelles, sont traitées dans les bureaux d'exploitation de la Société et dans tout autre lieu où sont situées les parties impliquées dans le traitement. Cela signifie que ces informations peuvent être transférées vers - et conservées sur - des ordinateurs situés en dehors de Votre État, province, pays ou autre juridiction gouvernementale où les lois sur la protection des données peuvent différer de celles de Votre juridiction.</p>
-                  
-                  <p>Votre consentement à cette Politique de confidentialité, suivi de Votre soumission de ces informations, représente Votre accord à ce transfert.</p>
-                  
-                  <p>La Société prendra toutes les mesures raisonnablement nécessaires pour garantir que Vos données sont traitées en toute sécurité et conformément à la présente Politique de confidentialité, et aucun transfert de Vos Données personnelles n'aura lieu vers une organisation ou un pays à moins que des contrôles adéquats ne soient en place, y compris la sécurité de Vos données et autres informations personnelles.</p>
-                  
-                  <h3>Supprimer Vos données personnelles</h3>
-                  
-                  <p>Vous avez le droit de supprimer ou de demander que Nous Vous aidions à supprimer les Données personnelles que Nous avons collectées à Votre sujet.</p>
-                  
-                  <p>Notre Service peut Vous donner la possibilité de supprimer certaines informations Vous concernant à partir du Service.</p>
-                  
-                  <p>Vous pouvez mettre à jour, modifier ou supprimer Vos informations à tout moment en Vous connectant à Votre Compte, si Vous en avez un, et en visitant la section des paramètres du compte qui Vous permet de gérer Vos informations personnelles. Vous pouvez également Nous contacter pour demander l'accès, la correction ou la suppression de toute information personnelle que Vous Nous avez fournie.</p>
-                  
-                  <p>Veuillez noter, cependant, que Nous pouvons avoir besoin de conserver certaines informations lorsque Nous avons une obligation légale ou une base légitime pour le faire.</p>
-                  
-                  <h3>Divulgation de Vos données personnelles</h3>
-                  
-                  <h4>Transactions commerciales</h4>
-                  
-                  <p>Si la Société est impliquée dans une fusion, une acquisition ou une vente d'actifs, Vos Données personnelles peuvent être transférées. Nous Vous aviserons avant que Vos Données personnelles ne soient transférées et ne soient soumises à une Politique de confidentialité différente.</p>
-                  
-                  <h4>Application de la loi</h4>
-                  
-                  <p>Dans certaines circonstances, la Société peut être tenue de divulguer Vos Données personnelles si la loi l'exige ou en réponse à des demandes valides des autorités publiques (par exemple, un tribunal ou un organisme gouvernemental).</p>
-                  
-                  <h4>Autres exigences légales</h4>
-                  
-                  <p>La Société peut divulguer Vos Données personnelles en croyant de bonne foi qu'une telle action est nécessaire pour :</p>
-                  
-                  <ul>
-                      <li>Se conformer à une obligation légale</li>
-                      <li>Protéger et défendre les droits ou la propriété de la Société</li>
-                      <li>Prévenir ou enquêter sur d'éventuels actes répréhensibles liés au Service</li>
-                      <li>Protéger la sécurité personnelle des Utilisateurs du Service ou du public</li>
-                      <li>Se protéger contre la responsabilité légale</li>
-                  </ul>
-                  
-                  <h3>Sécurité de Vos données personnelles</h3>
-                  
-                  <p>La sécurité de Vos Données personnelles est importante pour Nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique, n'est sécurisée à 100 %. Bien que Nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger Vos Données personnelles, Nous ne pouvons garantir leur sécurité absolue.</p>
-                  
-                  <h2>Confidentialité des enfants</h2>
-                  
-                  <p>Notre Service ne s'adresse pas aux personnes de moins de 13 ans. Nous ne collectons pas sciemment de renseignements personnels identifiables auprès de personnes de moins de 13 ans. Si Vous êtes un parent ou un tuteur et que Vous savez que Votre enfant Nous a fourni des Données personnelles, veuillez Nous contacter. Si Nous apprenons que Nous avons collecté des Données personnelles auprès d'une personne de moins de 13 ans sans vérification du consentement parental, Nous prenons des mesures pour supprimer ces informations de Nos serveurs.</p>
-                  
-                  <p>Si Nous devons Nous fonder sur le consentement comme base juridique pour traiter Vos informations et que Votre pays exige le consentement d'un parent, Nous pouvons exiger le consentement de Votre parent avant de collecter et d'utiliser ces informations.</p>
-                  
-                  <h2>Liens vers d'autres sites Web</h2>
-                  
-                  <p>Notre Service peut contenir des liens vers d'autres sites Web qui ne sont pas exploités par Nous. Si Vous cliquez sur un lien tiers, Vous serez redirigé vers le site de ce tiers. Nous Vous conseillons vivement de consulter la politique de confidentialité de chaque site que Vous visitez.</p>
-                  
-                  <p>Nous n'avons aucun contrôle sur et n'assumons aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques des sites ou services de tiers.</p>
-                  
-                  <h2>Modifications de la présente Politique de confidentialité</h2>
-                  
-                  <p>Nous pouvons mettre à jour Notre Politique de confidentialité de temps à autre. Nous Vous informerons de toute modification en publiant la nouvelle Politique de confidentialité sur cette page.</p>
-                  
-                  <p>Nous Vous informerons par e-mail et/ou par un avis bien en évidence sur Notre Service, avant que la modification ne prenne effet et mettrons à jour la date de "Dernière mise à jour" en haut de la présente Politique de confidentialité.</p>
-                  
-                  <p>Il Vous est conseillé de consulter périodiquement la présente Politique de confidentialité pour prendre connaissance de toute modification. Les modifications apportées à la présente Politique de confidentialité entrent en vigueur lorsqu'elles sont publiées sur cette page.</p>
-                  
-                  <h2>Nous contacter</h2>
-                  
-                  <p>Si vous avez des questions concernant la présente Politique de confidentialité, Vous pouvez Nous contacter :chongzhidatech@gmail.com</p>
-                </div>
-                
-    
-            </div>
-        </div>
-        <!-- content end -->
-        
-    
-    </div>
-    </main>
-
-    <footer>
+  <main class="privacy-page">
+    <!-- Hero Section -->
+    <section class="privacy-hero section">
       <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/fr/privacy/">Politique de confidentialité</a></li>
-                  <li><a href="/fr/terms-of-service/">Conditions d'utilisation</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. Tous droits réservés.</p>
+        <div class="privacy-hero-content">
+          <!-- 面包屑导航 -->
+          <nav class="breadcrumb" aria-label="Navigation de ruta">
+            <a href="/fr/" class="breadcrumb-link">
+              <i class="fas fa-home"></i>
+              <span>Accueil</span>
+            </a>
+            <span class="breadcrumb-separator">></span>
+            <span class="breadcrumb-current">Politique de confidentialité</span>
+          </nav>
+
+          <div class="hero-content">
+            <h1 class="privacy-title heading-display">
+              <span class="title-main">Politique de</span>
+              <span class="title-accent">Confidentialité</span>
+            </h1>
+            <p class="privacy-subtitle body-large">
+              Nous respectons votre vie privée et nous nous engageons à protéger vos informations personnelles.
+              Découvrez nos pratiques de données et vos droits.
+            </p>
+            <div class="last-updated">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Dernière mise à jour : 10 février 2025</span>
+            </div>
+          </div>
+
+          <!-- 装饰性图标 -->
+          <div class="privacy-icons">
+            <div class="privacy-icon"><i class="fas fa-shield-alt"></i></div>
+            <div class="privacy-icon"><i class="fas fa-lock"></i></div>
+            <div class="privacy-icon"><i class="fas fa-user-shield"></i></div>
+          </div>
+        </div>
       </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+    </section>
+
+    <!-- Privacy Content Section -->
+    <section class="privacy-content section">
+      <div class="container">
+        <div class="content-wrapper">
+
+          <!-- Navigation Menu -->
+          <aside class="privacy-nav glass">
+            <h3>Table des matières</h3>
+            <ul>
+              <li><a href="#introduction">Introduction</a></li>
+              <li><a href="#definitions">Définitions</a></li>
+              <li><a href="#collecte-donnees">Collecte de Données</a></li>
+              <li><a href="#utilisation-donnees">Utilisation des Données</a></li>
+              <li><a href="#partage-donnees">Partage des Données</a></li>
+              <li><a href="#securite-donnees">Sécurité des Données</a></li>
+              <li><a href="#vos-droits">Vos Droits</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </aside>
+
+          <!-- Main Content -->
+          <article class="privacy-article glass">
+
+            <section id="introduction">
+              <h2>Introduction</h2>
+              <p>La présente Politique de confidentialité décrit nos politiques et procédures sur la collecte, l'utilisation et la divulgation de Vos informations lorsque Vous utilisez le Service et Vous informe de Vos droits à la vie privée et de la manière dont la loi Vous protège.</p>
+              <p>Nous utilisons Vos données personnelles pour fournir et améliorer le Service. En utilisant le Service, Vous acceptez la collecte et l'utilisation des informations conformément à la présente Politique de confidentialité.</p>
+            </section>
+
+            <section id="definitions">
+              <h2>Interprétation et définitions</h2>
+              <h3>Interprétation</h3>
+              <p>Les mots dont la lettre initiale est en majuscule ont des significations définies dans les conditions suivantes. Les définitions suivantes ont la même signification, qu'elles apparaissent au singulier ou au pluriel.</p>
+
+              <h3>Définitions</h3>
+              <p>Aux fins de la présente Politique de confidentialité :</p>
+              <ul>
+                <li><strong>Compte</strong> désigne un compte unique créé pour Vous afin d'accéder à Notre Service ou à des parties de Notre Service.</li>
+                <li><strong>Affilié</strong> désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où "contrôle" signifie la propriété de 50 % ou plus des actions, des participations ou d'autres titres habilités à voter pour l'élection des administrateurs ou d'autres autorités de gestion.</li>
+                <li><strong>Société</strong> (désignée dans le présent accord par les termes "la Société", "Nous", "Notre" ou "Nos") fait référence à FiddleBops.</li>
+                <li><strong>Cookies</strong> sont de petits fichiers qui sont placés sur Votre ordinateur, appareil mobile ou tout autre appareil par un site Web, contenant les détails de Votre historique de navigation sur ce site Web, parmi ses nombreuses utilisations.</li>
+                <li><strong>Pays</strong> fait référence à : New York, États-Unis</li>
+                <li><strong>Appareil</strong> désigne tout appareil pouvant accéder au Service, tel qu'un ordinateur, un téléphone portable ou une tablette numérique.</li>
+                <li><strong>Données personnelles</strong> désigne toute information se rapportant à une personne physique identifiée ou identifiable.</li>
+                <li><strong>Service</strong> fait référence au Site Web.</li>
+                <li><strong>Fournisseur de services</strong> désigne toute personne physique ou morale qui traite les données pour le compte de la Société.</li>
+                <li><strong>Site Web</strong> fait référence à FiddleBops, accessible à partir de <a href="https://www.playfiddlebops.com/" target="_blank" rel="external noopener">https://www.playfiddlebops.com/</a></li>
+                <li><strong>Vous</strong> désigne la personne accédant ou utilisant le Service, ou la société ou autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.</li>
+              </ul>
+            </section>
+
+            <section id="collecte-donnees">
+              <h2>Collecte et utilisation de vos données personnelles</h2>
+              <h3>Types de données collectées</h3>
+
+              <h4>Données personnelles</h4>
+              <p>Lors de l'utilisation de Notre Service, Nous pouvons Vous demander de Nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour Vous contacter ou Vous identifier. Les informations personnellement identifiables peuvent inclure, sans toutefois s'y limiter :</p>
+              <ul>
+                <li>Données d'utilisation</li>
+              </ul>
+
+              <h4>Données d'utilisation</h4>
+              <p>Les données d'utilisation sont collectées automatiquement lors de l'utilisation du Service.</p>
+              <p>Les données d'utilisation peuvent inclure des informations telles que l'adresse de protocole Internet (par exemple, l'adresse IP) de Votre appareil, le type de navigateur, la version du navigateur, les pages de Notre Service que Vous visitez, la date et l'heure de Votre visite, le temps passé sur ces pages, les identifiants uniques d'appareil et autres données de diagnostic.</p>
+              <p>Lorsque Vous accédez au Service par ou via un appareil mobile, Nous pouvons collecter automatiquement certaines informations, y compris, mais sans s'y limiter, le type d'appareil mobile que Vous utilisez, l'identifiant unique de Votre appareil mobile, l'adresse IP de Votre appareil mobile, Votre système d'exploitation mobile, le type de navigateur Internet mobile que Vous utilisez, les identifiants uniques d'appareil et autres données de diagnostic.</p>
+
+              <h4>Technologies de suivi et cookies</h4>
+              <p>Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur Notre Service et stocker certaines informations. Les technologies de suivi utilisées sont les balises, les tags et les scripts pour collecter et suivre les informations et pour améliorer et analyser Notre Service.</p>
+
+              <div class="info-box">
+                <i class="fas fa-info-circle"></i>
+                <div>
+                  <h5>Avis sur les Cookies</h5>
+                  <p>Nous utilisons à la fois des Cookies de Session et Persistants pour la fonctionnalité essentielle du site web, l'analyse et l'amélioration de votre expérience utilisateur.</p>
+                </div>
+              </div>
+            </section>
+
+            <section id="utilisation-donnees">
+              <h2>Utilisation de Vos données personnelles</h2>
+              <p>La Société peut utiliser les Données personnelles aux fins suivantes :</p>
+              <ul>
+                <li><strong>Pour fournir et maintenir notre Service</strong>, y compris pour surveiller l'utilisation de notre Service.</li>
+                <li><strong>Pour gérer Votre Compte :</strong> pour gérer Votre inscription en tant qu'utilisateur du Service.</li>
+                <li><strong>Pour l'exécution d'un contrat :</strong> le développement, respect et réalisation du contrat d'achat des produits, articles ou services que Vous avez achetés.</li>
+                <li><strong>Pour Vous contacter :</strong> Pour Vous contacter par e-mail, appels téléphoniques, SMS ou autres formes équivalentes de communication électronique.</li>
+                <li><strong>Pour Vous fournir</strong> des nouvelles, offres spéciales et informations générales sur d'autres biens, services et événements que Nous proposons.</li>
+                <li><strong>Pour gérer Vos demandes :</strong> Pour répondre à et gérer Vos demandes à Nous.</li>
+                <li><strong>Pour les transferts d'entreprises :</strong> Nous pouvons utiliser Vos informations pour évaluer ou mener une fusion, cession, restructuration, réorganisation, dissolution, ou autre vente.</li>
+                <li><strong>Pour d'autres fins</strong>: Nous pouvons utiliser Vos informations pour d'autres fins, telles que l'analyse des données, identification des tendances d'usage, détermination de l'efficacité de nos campagnes promotionnelles.</li>
+              </ul>
+            </section>
+
+            <section id="partage-donnees">
+              <h2>Divulgation de Vos données personnelles</h2>
+              <h3>Transactions commerciales</h3>
+              <p>Si la Société est impliquée dans une fusion, acquisition ou vente d'actifs, Vos Données personnelles peuvent être transférées. Nous Vous aviserons avant que Vos Données personnelles ne soient transférées et ne soient soumises à une Politique de confidentialité différente.</p>
+
+              <h3>Application de la loi</h3>
+              <p>Dans certaines circonstances, la Société peut être tenue de divulguer Vos Données personnelles si la loi l'exige ou en réponse à des demandes valides des autorités publiques.</p>
+
+              <div class="warning-box">
+                <i class="fas fa-exclamation-triangle"></i>
+                <div>
+                  <h5>Note importante</h5>
+                  <p>Nous ne vendrons jamais, ne louerons jamais ou n'échangerons jamais vos informations personnelles à des tiers à des fins de marketing.</p>
+                </div>
+              </div>
+            </section>
+
+            <section id="securite-donnees">
+              <h2>Sécurité de Vos données personnelles</h2>
+              <p>La sécurité de Vos Données personnelles est importante pour Nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique, n'est sécurisée à 100 %. Bien que Nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger Vos Données personnelles, Nous ne pouvons garantir leur sécurité absolue.</p>
+            </section>
+
+            <section id="vos-droits">
+              <h2>Vos droits de confidentialité</h2>
+              <p>Vous pouvez mettre à jour, modifier ou supprimer Vos informations à tout moment en Nous contactant. Vous pouvez également avoir certains droits concernant vos informations personnelles sous les lois de confidentialité applicables.</p>
+
+              <div class="rights-grid">
+                <div class="right-item">
+                  <i class="fas fa-eye"></i>
+                  <h4>Droit d'accès</h4>
+                  <p>Vous pouvez demander l'accès à vos données personnelles</p>
+                </div>
+                <div class="right-item">
+                  <i class="fas fa-edit"></i>
+                  <h4>Droit de correction</h4>
+                  <p>Vous pouvez demander la correction des données inexactes</p>
+                </div>
+                <div class="right-item">
+                  <i class="fas fa-trash"></i>
+                  <h4>Droit d'effacement</h4>
+                  <p>Vous pouvez demander la suppression de vos données</p>
+                </div>
+                <div class="right-item">
+                  <i class="fas fa-ban"></i>
+                  <h4>Droit d'opposition</h4>
+                  <p>Vous pouvez vous opposer à certains traitements de données</p>
+                </div>
+              </div>
+            </section>
+
+            <section id="contact">
+              <h2>Nous contacter</h2>
+              <p>Si vous avez des questions concernant la présente Politique de confidentialité, Vous pouvez Nous contacter :</p>
+              <div class="contact-info">
+                <div class="contact-item">
+                  <i class="fas fa-envelope"></i>
+                  <span>chongzhidatech@gmail.com</span>
+                </div>
+                <div class="contact-item">
+                  <i class="fas fa-globe"></i>
+                  <span><a href="https://www.playfiddlebops.com/">www.playfiddlebops.com</a></span>
+                </div>
+              </div>
+            </section>
+
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* ===== PRIVACY POLICY PAGE STYLES ===== */
+
+  /* Page Background */
+  body {
+    background: var(--hero-main-bg);
+    min-height: 100vh;
+  }
+
+  .privacy-page {
+    background: transparent;
+  }
+
+  /* Privacy Hero Section */
+  .privacy-hero {
+    background: var(--hero-main-bg);
+    color: var(--color-text);
+    padding: var(--space-16) 0 var(--space-8);
+    padding-top: calc(80px + var(--space-8));
+    position: relative;
+    overflow: hidden;
+  }
+
+  .privacy-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--hero-texture-bg);
+    opacity: var(--hero-texture-opacity);
+    pointer-events: none;
+  }
+
+  .privacy-hero-content {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+  }
+
+  /* Breadcrumb Navigation */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-bottom: var(--space-6);
+    font-size: var(--font-size-sm);
+    justify-content: center;
+  }
+
+  .breadcrumb-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    color: var(--color-primary-600);
+    text-decoration: none;
+    transition: all var(--duration-200) var(--ease-in-out);
+    padding: var(--space-1) var(--space-2);
+    border-radius: var(--border-radius-md);
+  }
+
+  .breadcrumb-link:hover {
+    color: var(--color-primary-700);
+    background: rgba(147, 51, 234, 0.1);
+  }
+
+  .breadcrumb-separator {
+    color: var(--color-gray-400);
+    font-weight: 500;
+  }
+
+  .breadcrumb-current {
+    color: var(--color-gray-600);
+    font-weight: 500;
+  }
+
+  /* Hero Content */
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .privacy-title {
+    margin-bottom: var(--space-6);
+    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .title-main {
+    display: block;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .title-accent {
+    display: block;
+    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .privacy-subtitle {
+    margin-bottom: var(--space-6);
+    color: var(--color-text-muted);
+  }
+
+  .last-updated {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    background: rgba(147, 51, 234, 0.1);
+    padding: var(--space-2) var(--space-4);
+    border-radius: var(--border-radius-md);
+    color: var(--color-primary-600);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-medium);
+  }
+
+  /* Privacy Icons */
+  .privacy-icons {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .privacy-icon {
+    position: absolute;
+    font-size: 3rem;
+    color: rgba(147, 51, 234, 0.1);
+    animation: float-icons 10s ease-in-out infinite;
+  }
+
+  .privacy-icon:nth-child(1) {
+    left: 10%;
+    top: 20%;
+    animation-delay: 0s;
+  }
+
+  .privacy-icon:nth-child(2) {
+    right: 10%;
+    top: 30%;
+    animation-delay: 2s;
+  }
+
+  .privacy-icon:nth-child(3) {
+    left: 15%;
+    top: 70%;
+    animation-delay: 4s;
+  }
+
+  @keyframes float-icons {
+    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+    25% { transform: translateY(-10px) rotate(2deg); opacity: 0.15; }
+    50% { transform: translateY(-20px) rotate(-1deg); opacity: 0.1; }
+    75% { transform: translateY(-10px) rotate(1deg); opacity: 0.15; }
+  }
+
+  /* Content Section */
+  .privacy-content {
+    background: transparent;
+  }
+
+  .content-wrapper {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: var(--space-12);
+    align-items: start;
+  }
+
+  /* Navigation Menu */
+  .privacy-nav {
+    position: sticky;
+    top: calc(80px + var(--space-4));
+    padding: var(--space-6);
+    border-radius: var(--border-radius-xl);
+  }
+
+  .privacy-nav h3 {
+    margin-bottom: var(--space-4);
+    color: var(--color-text);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  .privacy-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .privacy-nav li {
+    margin-bottom: var(--space-2);
+  }
+
+  .privacy-nav a {
+    display: block;
+    padding: var(--space-2) var(--space-3);
+    color: var(--color-text-muted);
+    text-decoration: none;
+    border-radius: var(--border-radius-md);
+    transition: all var(--duration-200) var(--ease-in-out);
+    font-size: var(--font-size-sm);
+  }
+
+  .privacy-nav a:hover {
+    color: var(--color-primary-600);
+    background: rgba(147, 51, 234, 0.1);
+    transform: translateX(4px);
+  }
+
+  /* Article Content */
+  .privacy-article {
+    padding: var(--space-8);
+    border-radius: var(--border-radius-xl);
+    line-height: 1.7;
+  }
+
+  .privacy-article h2 {
+    color: var(--color-text);
+    margin-top: var(--space-8);
+    margin-bottom: var(--space-4);
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-semibold);
+    padding-bottom: var(--space-2);
+    border-bottom: 2px solid var(--color-primary-600);
+  }
+
+  .privacy-article h2:first-child {
+    margin-top: 0;
+  }
+
+  .privacy-article h3 {
+    color: var(--color-text);
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-3);
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .privacy-article h4 {
+    color: var(--color-text);
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-2);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .privacy-article h5 {
+    color: var(--color-text);
+    margin-bottom: var(--space-2);
+    font-size: var(--font-size-base);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .privacy-article p {
+    margin-bottom: var(--space-4);
+    color: var(--color-text-muted);
+  }
+
+  .privacy-article ul {
+    margin-bottom: var(--space-4);
+    padding-left: var(--space-6);
+  }
+
+  .privacy-article li {
+    margin-bottom: var(--space-2);
+    color: var(--color-text-muted);
+  }
+
+  .privacy-article a {
+    color: var(--color-primary-600);
+    text-decoration: none;
+    transition: color var(--duration-200) var(--ease-in-out);
+  }
+
+  .privacy-article a:hover {
+    color: var(--color-primary-700);
+    text-decoration: underline;
+  }
+
+  .privacy-article strong {
+    color: var(--color-text);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  /* Info Boxes */
+  .info-box, .warning-box {
+    display: flex;
+    gap: var(--space-3);
+    padding: var(--space-4);
+    border-radius: var(--border-radius-md);
+    margin: var(--space-6) 0;
+  }
+
+  .info-box {
+    background: rgba(59, 130, 246, 0.1);
+    border-left: 4px solid #3b82f6;
+  }
+
+  .warning-box {
+    background: rgba(245, 158, 11, 0.1);
+    border-left: 4px solid #f59e0b;
+  }
+
+  .info-box i, .warning-box i {
+    font-size: var(--font-size-xl);
+    margin-top: var(--space-1);
+  }
+
+  .info-box i {
+    color: #3b82f6;
+  }
+
+  .warning-box i {
+    color: #f59e0b;
+  }
+
+  /* Rights Grid */
+  .rights-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--space-6);
+    margin: var(--space-6) 0;
+  }
+
+  .right-item {
+    text-align: center;
+    padding: var(--space-6);
+    background: rgba(147, 51, 234, 0.05);
+    border-radius: var(--border-radius-lg);
+    transition: all var(--duration-200) var(--ease-in-out);
+  }
+
+  .right-item:hover {
+    transform: translateY(-4px);
+    background: rgba(147, 51, 234, 0.1);
+  }
+
+  .right-item i {
+    font-size: 2rem;
+    color: var(--color-primary-600);
+    margin-bottom: var(--space-3);
+  }
+
+  .right-item h4 {
+    margin-bottom: var(--space-2);
+    color: var(--color-text);
+  }
+
+  .right-item p {
+    margin: 0;
+    font-size: var(--font-size-sm);
+    color: var(--color-text-muted);
+  }
+
+  /* Contact Info */
+  .contact-info {
+    margin-top: var(--space-4);
+  }
+
+  .contact-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-3);
+    color: var(--color-text-muted);
+  }
+
+  .contact-item i {
+    color: var(--color-primary-600);
+    font-size: var(--font-size-lg);
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .content-wrapper {
+      grid-template-columns: 1fr;
+      gap: var(--space-8);
+    }
+
+    .privacy-nav {
+      position: static;
+      order: 2;
+    }
+
+    .privacy-article {
+      padding: var(--space-6);
+    }
+
+    .privacy-hero {
+      padding: var(--space-12) 0 var(--space-6);
+    }
+
+    .breadcrumb {
+      margin-bottom: var(--space-4);
+    }
+
+    .rights-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-4);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .privacy-article {
+      padding: var(--space-4);
+    }
+
+    .privacy-title {
+      font-size: var(--font-size-3xl);
+    }
+  }
+</style>
