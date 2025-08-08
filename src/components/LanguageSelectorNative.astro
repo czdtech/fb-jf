@@ -1,0 +1,137 @@
+---
+export interface Props {
+  currentLang: string;
+  languages: Array<{
+    code: string;
+    label: string;
+    path: string;
+  }>;
+  className?: string;
+}
+
+const { currentLang, languages, className = "" } = Astro.props;
+---
+
+<div class={`language-selector-wrapper ${className}`}>
+  <select 
+    class="language-selector-native"
+    aria-label="选择语言 / Select Language"
+    data-current-lang={currentLang}
+  >
+    {languages.map(lang => (
+      <option 
+        value={lang.path}
+        selected={lang.code === currentLang}
+        data-lang={lang.code}
+      >
+        {lang.label}
+      </option>
+    ))}
+  </select>
+</div>
+
+<style>
+  .language-selector-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .language-selector-native {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    
+    background: hsl(var(--background));
+    border: 1px solid hsl(var(--border));
+    border-radius: 0.375rem;
+    padding: 0.5rem 2rem 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    color: hsl(var(--foreground));
+    cursor: pointer;
+    min-width: 120px;
+    
+    /* Custom arrow */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='m6 8 4 4 4-4'/%3e%3c/svg%3e");
+    background-position: right 0.5rem center;
+    background-repeat: no-repeat;
+    background-size: 1.5em 1.5em;
+    
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .language-selector-native:hover {
+    border-color: hsl(var(--border) / 0.8);
+    background-color: hsl(var(--muted) / 0.3);
+  }
+  
+  .language-selector-native:focus {
+    outline: none;
+    border-color: hsl(var(--primary));
+    box-shadow: 0 0 0 2px hsl(var(--primary) / 0.2);
+  }
+  
+  /* Dark mode support */
+  .dark .language-selector-native {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%9ca3af' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='m6 8 4 4 4-4'/%3e%3c/svg%3e");
+  }
+  
+  /* High contrast mode */
+  @media (prefers-contrast: high) {
+    .language-selector-native {
+      border-width: 2px;
+      border-color: currentColor;
+    }
+  }
+  
+  /* Touch device optimization */
+  @media (hover: none) and (pointer: coarse) {
+    .language-selector-native {
+      min-height: 44px; /* Ensure touch-friendly size */
+      padding: 0.75rem 2.5rem 0.75rem 1rem;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const languageSelectors = document.querySelectorAll('.language-selector-native');
+    
+    languageSelectors.forEach(selector => {
+      if (selector instanceof HTMLSelectElement) {
+        // Handle language change
+        selector.addEventListener('change', (e) => {
+          const target = e.target as HTMLSelectElement;
+          const selectedPath = target.value;
+          
+          if (selectedPath) {
+            // Add loading state
+            target.disabled = true;
+            target.style.opacity = '0.7';
+            
+            // Navigate to selected language
+            try {
+              window.location.href = selectedPath;
+            } catch (error) {
+              console.error('Navigation error:', error);
+              // Reset state if navigation fails
+              target.disabled = false;
+              target.style.opacity = '1';
+            }
+          }
+        });
+        
+        // Keyboard navigation support
+        selector.addEventListener('keydown', (e) => {
+          const keyboardEvent = e as KeyboardEvent;
+          
+          // Allow Enter to trigger change
+          if (keyboardEvent.key === 'Enter') {
+            keyboardEvent.preventDefault();
+            const changeEvent = new Event('change', { bubbles: true });
+            selector.dispatchEvent(changeEvent);
+          }
+        });
+      }
+    });
+  });
+</script>

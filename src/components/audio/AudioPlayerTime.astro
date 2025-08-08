@@ -1,0 +1,83 @@
+---
+export interface Props {
+  uniqueId: string;
+  showTime?: boolean;
+  className?: string;
+}
+
+const { 
+  uniqueId, 
+  showTime = true, 
+  className = "" 
+} = Astro.props;
+---
+
+{showTime && (
+  <div class={`audio-time-display flex items-center space-x-1 text-xs text-muted-foreground ${className}`}>
+    <span 
+      class="audio-current-time font-mono"
+      id={`current-time-${uniqueId}`}
+      aria-label="Current time"
+    >
+      0:00
+    </span>
+    <span class="text-muted-foreground/60">/</span>
+    <span 
+      class="audio-duration font-mono"
+      id={`duration-${uniqueId}`}
+      aria-label="Total duration"
+    >
+      0:00
+    </span>
+  </div>
+)}
+
+<style>
+  .audio-time-display {
+    min-width: 80px; /* Prevent layout shift */
+    justify-content: flex-end;
+  }
+  
+  .audio-current-time,
+  .audio-duration {
+    min-width: 28px; /* Ensure consistent spacing for time display */
+    text-align: right;
+  }
+  
+  /* Responsive font sizes */
+  @media (max-width: 640px) {
+    .audio-time-display {
+      font-size: 0.65rem; /* xs equivalent on mobile */
+      min-width: 70px;
+    }
+    
+    .audio-current-time,
+    .audio-duration {
+      min-width: 24px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .audio-time-display {
+      font-size: 0.6rem;
+      min-width: 65px;
+    }
+    
+    .audio-current-time,
+    .audio-duration {
+      min-width: 22px;
+    }
+  }
+  
+  /* High contrast mode */
+  @media (prefers-contrast: high) {
+    .audio-time-display {
+      color: currentColor;
+    }
+  }
+  
+  /* Ensure readability */
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+  }
+</style>

@@ -4,6 +4,7 @@ import type { SEOMeta, Language } from '@/types';
 import '@/styles/globals.css';
 import '../styles/design-tokens.css';
 import '../styles/components.css';
+import '../styles/accessibility.css';
 
 export interface Props {
   meta: SEOMeta;
@@ -150,7 +151,42 @@ const safeMeta = {
       </>
     )}
 
-        <!-- 设计系统交互脚本 -->
+        <!-- 全局错误处理器 -->
+    <script type="module">
+      import { GlobalErrorHandler } from '/src/scripts/global-error-handler.js';
+      
+      // 初始化全局错误处理器
+      window.globalErrorHandler = new GlobalErrorHandler({
+        enableLogging: !import.meta.env.PROD, // 开发环境启用日志
+        enableNotifications: true,
+        enableReporting: false // 需要时可配置报告端点
+      });
+      
+      // 手动错误报告函数
+      window.reportError = (error, context = {}) => {
+        return window.globalErrorHandler?.reportError(error, context);
+      };
+    </script>
+
+    <!-- 可访问性管理器 -->
+    <script type="module">
+      import { AccessibilityManager } from '/src/scripts/accessibility-manager.js';
+      
+      // 初始化可访问性管理器
+      window.accessibilityManager = new AccessibilityManager({
+        enableKeyboardNavigation: true,
+        enableFocusManagement: true,
+        enableScreenReader: true,
+        enableHighContrast: true
+      });
+      
+      // 在开发环境中提供检查功能
+      if (!import.meta.env.PROD) {
+        window.checkAccessibility = () => window.accessibilityManager.checkAccessibility();
+      }
+    </script>
+
+    <!-- 设计系统交互脚本 -->
     <script src="/src/scripts/interactions.js"></script>
 </body>
 </html>

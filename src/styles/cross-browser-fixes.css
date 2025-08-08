@@ -28,26 +28,31 @@
 }
 
 /* =========================================================================
-   Flexbox Compatibility
+   Flexbox Compatibility (Only as fallbacks within @supports)
    ========================================================================= */
 
+/* Enhanced flexbox support only where needed */
+@supports not (display: flex) {
+  .flex {
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -webkit-flex;     /* OLD - Safari 6.1+ */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: block;            /* Ultimate fallback */
+  }
+}
+
+/* Vendor prefixes for better browser support */
 .flex {
-  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-  display: -webkit-flex;     /* OLD - Safari 6.1+ */
-  display: -ms-flexbox;      /* TWEENER - IE 10 */
-  display: flex;             /* NEW - Chrome 29+ */
+  display: -webkit-box;      
+  display: -webkit-flex;     
+  display: -ms-flexbox;      
+  display: flex;             
 }
 
 .flex-col {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-}
-
-.flex-wrap {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
 }
 
 .items-center {
@@ -327,7 +332,7 @@ audio::-webkit-slider-runnable-track {
   /* Ensure proper printing across browsers */
   * {
     -webkit-print-color-adjust: exact;
-    color-adjust: exact;
+    print-color-adjust: exact;
   }
   
   .no-print {

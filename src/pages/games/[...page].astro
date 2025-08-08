@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import Header from '@/components/Header.astro';
+import Navigation from '@/components/Navigation.astro';
 import Footer from '@/components/Footer.astro';
 import GamesHero from '@/components/games/GamesHero.astro';
 import GameFilters from '@/components/games/GameFilters.astro';
@@ -150,7 +150,7 @@ const structuredData = {
   hreflang={hreflangLinks}
   structuredData={structuredData}
 >
-  <Header 
+  <Navigation 
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"

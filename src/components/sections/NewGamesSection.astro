@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import GamesList from '@/components/GamesList.astro';
+
+// 获取所有游戏
+const allGames = await getCollection('games');
+
+// 定义新游戏的 slug 列表
+const newGameSlugs = [
+  'pikmin-no-sprunki',
+  'the-haze-pixelbox',
+  'yojou-sprunki-mustard',
+  'sprunki-retake-bonus-characters'
+];
+
+// 筛选新游戏
+const newGames = allGames.filter(game => 
+  newGameSlugs.includes(game.slug)
+);
+
+export interface Props {
+  showTitle?: boolean;
+  maxItems?: number;
+  variant?: 'grid' | 'list';
+}
+
+const { showTitle = true, maxItems = 4, variant = 'grid' } = Astro.props;
+const displayGames = maxItems ? newGames.slice(0, maxItems) : newGames;
+---
+
+<section class="new-games-section">
+  <div class="container">
+    {showTitle && <h2>&#9658; New Games</h2>}
+    <GamesList games={displayGames} variant={variant} />
+  </div>
+</section>
+
+<style>
+  .new-games-section {
+    padding: var(--space-8) 0;
+  }
+
+  .new-games-section h2 {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+    margin-bottom: var(--space-8);
+    color: var(--color-gray-900);
+  }
+  
+  @media (max-width: 768px) {
+    .new-games-section h2 {
+      font-size: var(--font-size-2xl);
+    }
+  }
+</style>

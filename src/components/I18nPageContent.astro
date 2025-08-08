@@ -1,0 +1,317 @@
+---
+import TrendingGamesSection from './sections/TrendingGamesSection.astro'
+import NewGamesSection from './sections/NewGamesSection.astro'
+import PopularGamesSection from './sections/PopularGamesSection.astro'
+import NAV from "./legacy/nav.astro"
+
+export interface Props {
+  lang: string;
+  content: {
+    headerTitle: string;
+    headerDescription: string;
+    aboutTitle: string;
+    aboutContent: string;
+    soundsTitle: string;
+    videoTitle: string;
+    faqTitle: string;
+    faqItems: Array<{
+      question: string;
+      answer: string;
+    }>;
+    navigation: {
+      home: string;
+      privacy: string;
+      terms: string;
+    };
+  };
+}
+
+const { lang, content } = Astro.props;
+
+// 语言选择器选项
+const languageOptions = [
+  { code: 'en', label: 'English', url: '/' },
+  { code: 'zh', label: '简体中文', url: '/zh/' },
+  { code: 'es', label: 'Español', url: '/es/' },
+  { code: 'fr', label: 'Français', url: '/fr/' },
+  { code: 'de', label: 'Deutsch', url: '/de/' },
+  { code: 'ja', label: '日本語', url: '/ja/' },
+  { code: 'ko', label: '한국어', url: '/ko/' }
+];
+---
+
+<header>
+  <div class="container">
+    <div class="logo">
+      <h1><a href={`/${lang === 'en' ? '' : lang + '/'}`}>Fiddle<span class="light">Bops</span></a></h1>
+    </div>
+    <button class="nav-toggle" aria-label="切换导航">☰</button>
+    <nav class="nav-menu">
+      <ul>
+        <li><a href={`/${lang === 'en' ? '' : lang + '/'}`}>{content.navigation.home}</a></li>
+        <NAV />
+      </ul>
+    </nav>
+    <select style="float:right;">
+      {languageOptions.map(option => (
+        <option 
+          data-lang={option.code} 
+          data-url={option.url}
+          selected={option.code === lang}
+        >
+          {option.label}
+        </option>
+      ))}
+    </select>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="container">
+      <div class="game-card">
+        <div class="game-info" id="paly">
+          <h2>{content.headerTitle}</h2>
+          <p>{content.headerDescription}</p>
+        </div>
+        <PopularGamesSection showTitle={false} maxItems={3} variant="grid" />
+        <div class="game-iframe-sprunki">
+          <iframe
+            id="fiddlebops-iframe"
+            src=""
+            allowtransparency="true"
+            frameborder="0"
+            scrolling="no"
+            allowfullscreen
+            width="100%"
+            height="100%"></iframe>
+          <button id="playButton">Play</button>
+        </div>
+        <NewGamesSection showTitle={false} maxItems={4} variant="grid" />
+      </div>
+    </div>
+  </section>
+  <TrendingGamesSection showTitle={true} maxItems={8} variant="grid" />
+  
+  <section class="about" id="about">
+    <div class="container">
+      <h2>{content.aboutTitle}</h2>
+      <div class="about-content" set:html={content.aboutContent}></div>
+    </div>
+  </section>
+  
+  <section class="games">
+    <div class="container">
+      <h2>{content.soundsTitle}</h2>
+      <div class="game-grid">
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-1.png" alt="Beat 1" />
+          </div>
+          <p>Beat 1</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/beat1.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-2.png" alt="Beat 3" />
+          </div>
+          <p>Beat 3</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/beat3.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-3.png" alt="Beat 5" />
+          </div>
+          <p>Beat 5</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/beat5.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-4.png" alt="Effect 3" />
+          </div>
+          <p>Effect 3</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/effect3.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-5.png" alt="Effect 4" />
+          </div>
+          <p>Effect 4</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/effect4.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-6.png" alt="Effect 5" />
+          </div>
+          <p>Effect 5</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/effect5.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-7.png" alt="Voice 2" />
+          </div>
+          <p>Voice 2</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/voice2.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-8.png" alt="Voice 3" />
+          </div>
+          <p>Voice 3</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/voice3.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-9.png" alt="Voice 5" />
+          </div>
+          <p>Voice 5</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/voice5.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+        <div class="game">
+          <div class="game-logo">
+            <img src="../img-10.png" alt="Bonus 1" />
+          </div>
+          <p>Bonus 1</p>
+          <audio
+            controls=""
+            preload="metadata"
+            class="w-[100px] max-w-full"
+            crossorigin="anonymous"
+            ><source
+              src="https://www.playfiddlebops.com/bonus1.wav"
+              type="audio/wav"
+            /></audio
+          >
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="game-video about">
+    <div class="container">
+      <h2>{content.videoTitle}</h2>
+      <div class="video-container">
+        <iframe
+          src="https://www.youtube.com/embed/4Oj-dVLSA70"
+          title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+        <iframe
+          src="https://www.youtube.com/embed/JlMa-fRBOwE"
+          title="Every Incredibox Fiddlebops in 8 Minutes"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+          allowfullscreen></iframe>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+  </section>
+  <div style="clear:both"></div>
+  
+  <section class="about" id="faq">
+    <div class="container">
+      <h2>{content.faqTitle}</h2>
+      {content.faqItems.map(item => (
+        <div class="about-content">
+          <h3>{item.question}</h3>
+          <p>{item.answer}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    <nav>
+      <ul>
+        <li><a href={`/${lang}${lang === 'en' ? '' : '/'}privacy/`}>{content.navigation.privacy}</a></li>
+        <li><a href={`/${lang}${lang === 'en' ? '' : '/'}terms-of-service/`}>{content.navigation.terms}</a></li>
+      </ul>
+    </nav>
+    <p class="copyright">© 2025 Fiddlebops. All rights reserved.</p>
+  </div>
+</footer>

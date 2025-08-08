@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro'
-import Header from '@/components/Header.astro'
+import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
 
@@ -28,7 +28,7 @@ const meta = {
   lang="en"
   hreflang={hreflangLinks}
 >
-  <Header
+  <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"

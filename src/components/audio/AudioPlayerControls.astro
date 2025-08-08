@@ -1,0 +1,124 @@
+---
+import { Button } from "@/components/ui/button"
+
+export interface Props {
+  uniqueId: string;
+  title: string;
+  isPlaying?: boolean;
+  isLoading?: boolean;
+  hasError?: boolean;
+}
+
+const { uniqueId, title, isPlaying = false, isLoading = false, hasError = false } = Astro.props;
+---
+
+<Button 
+  variant="default" 
+  size="icon" 
+  className={`audio-play-btn h-10 w-10 sm:h-12 sm:w-12 rounded-full transition-all duration-200 
+    ${isLoading ? 'loading' : ''} 
+    ${isPlaying ? 'playing' : ''} 
+    ${hasError ? 'error' : ''}`}
+  aria-label={isPlaying ? `Pause ${title}` : `Play ${title}`}
+  aria-controls={uniqueId}
+  aria-pressed={isPlaying}
+  data-audio-control={uniqueId}
+>
+  <!-- Play Icon -->
+  <svg 
+    class="audio-play-icon w-4 h-4 sm:w-5 sm:h-5" 
+    fill="currentColor" 
+    viewBox="0 0 20 20"
+    style={`display: ${isPlaying || isLoading || hasError ? 'none' : 'block'}`}
+  >
+    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+  </svg>
+  
+  <!-- Pause Icon -->
+  <svg 
+    class="audio-pause-icon w-4 h-4 sm:w-5 sm:h-5" 
+    fill="currentColor" 
+    viewBox="0 0 20 20"
+    style={`display: ${isPlaying ? 'block' : 'none'}`}
+  >
+    <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zM7 8a1 1 0 012 0v4a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v4a1 1 0 102 0V8a1 1 0 00-1-1z" clip-rule="evenodd" />
+  </svg>
+  
+  <!-- Loading Spinner -->
+  <svg 
+    class="audio-loading-spinner w-4 h-4 sm:w-5 sm:h-5 animate-spin" 
+    fill="none" 
+    viewBox="0 0 24 24"
+    style={`display: ${isLoading ? 'block' : 'none'}`}
+  >
+    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+  </svg>
+  
+  <!-- Error Icon -->
+  <svg 
+    class="audio-error-icon w-4 h-4 sm:w-5 sm:h-5" 
+    fill="currentColor" 
+    viewBox="0 0 20 20"
+    style={`display: ${hasError ? 'block' : 'none'}`}
+  >
+    <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z" clip-rule="evenodd" />
+  </svg>
+</Button>
+
+<style>
+  .audio-play-btn {
+    min-height: 44px; /* Ensure touch-friendly size */
+    min-width: 44px;
+    touch-action: manipulation;
+  }
+  
+  .audio-play-btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .audio-play-btn.loading .audio-play-icon,
+  .audio-play-btn.loading .audio-pause-icon,
+  .audio-play-btn.loading .audio-error-icon {
+    display: none;
+  }
+  
+  .audio-play-btn.loading .audio-loading-spinner {
+    display: block;
+  }
+  
+  .audio-play-btn.playing .audio-play-icon,
+  .audio-play-btn.playing .audio-error-icon {
+    display: none;
+  }
+  
+  .audio-play-btn.playing .audio-pause-icon {
+    display: block;
+  }
+  
+  .audio-play-btn.error .audio-play-icon,
+  .audio-play-btn.error .audio-pause-icon,
+  .audio-play-btn.error .audio-loading-spinner {
+    display: none;
+  }
+  
+  .audio-play-btn.error .audio-error-icon {
+    display: block;
+  }
+  
+  .audio-play-btn.error {
+    background-color: hsl(var(--destructive) / 0.1);
+    color: hsl(var(--destructive));
+    border-color: hsl(var(--destructive) / 0.3);
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .audio-play-btn:hover {
+      transform: none;
+    }
+    
+    .audio-loading-spinner {
+      animation: none;
+    }
+  }
+</style>

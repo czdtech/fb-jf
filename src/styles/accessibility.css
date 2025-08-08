@@ -1,0 +1,399 @@
+/**
+ * 可访问性增强样式
+ * 支持高对比度、焦点管理、屏幕阅读器等
+ */
+
+/* 跳转链接样式 */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background: #000000;
+  color: #ffffff;
+  padding: 8px 16px;
+  text-decoration: none;
+  z-index: 10000;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: top 0.3s ease;
+}
+
+.skip-link:focus {
+  top: 6px;
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+/* 屏幕阅读器专用内容 */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* 增强的焦点指示器 */
+.focus-enhanced:focus {
+  outline: 2px solid hsl(var(--primary, 216 96% 50%)) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 4px hsl(var(--primary, 216 96% 50%) / 0.2) !important;
+  transition: outline 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+/* 键盘导航时的增强焦点 */
+.js-focus-visible .focus-enhanced:focus:not(.focus-visible) {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.js-focus-visible .focus-enhanced.focus-visible {
+  outline: 2px solid hsl(var(--primary, 216 96% 50%)) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 4px hsl(var(--primary, 216 96% 50%) / 0.2) !important;
+}
+
+/* 高对比度模式支持 */
+.high-contrast,
+body.high-contrast {
+  --background: 0 0% 100%;
+  --foreground: 0 0% 0%;
+  --primary: 216 100% 40%;
+  --secondary: 0 0% 90%;
+  --muted: 0 0% 85%;
+  --accent: 210 40% 30%;
+  --destructive: 0 100% 40%;
+  --border: 0 0% 70%;
+  --input: 0 0% 90%;
+  --ring: 216 100% 40%;
+}
+
+.high-contrast .audio-player-card,
+body.high-contrast .audio-player-card {
+  border: 2px solid hsl(var(--border)) !important;
+  background: hsl(var(--background)) !important;
+}
+
+.high-contrast .audio-player-card.playing,
+body.high-contrast .audio-player-card.playing {
+  border: 3px solid hsl(var(--primary)) !important;
+  background: hsl(var(--primary) / 0.1) !important;
+}
+
+.high-contrast button,
+body.high-contrast button {
+  border: 2px solid hsl(var(--border)) !important;
+  background: hsl(var(--background)) !important;
+  color: hsl(var(--foreground)) !important;
+}
+
+.high-contrast button:hover,
+body.high-contrast button:hover {
+  background: hsl(var(--primary) / 0.1) !important;
+  border-color: hsl(var(--primary)) !important;
+}
+
+.high-contrast button:focus,
+body.high-contrast button:focus {
+  outline: 3px solid hsl(var(--primary)) !important;
+  outline-offset: 2px !important;
+}
+
+/* 减少动画偏好 */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  
+  .skip-link {
+    transition: none !important;
+  }
+  
+  .focus-enhanced:focus {
+    transition: none !important;
+  }
+}
+
+/* 强制显示焦点（用于调试） */
+.show-focus-outlines * {
+  outline: 1px dotted red !important;
+}
+
+.show-focus-outlines *:focus {
+  outline: 2px solid blue !important;
+}
+
+/* 触摸友好的最小尺寸 */
+@media (hover: none) and (pointer: coarse) {
+  .touch-target {
+    min-width: 44px !important;
+    min-height: 44px !important;
+  }
+  
+  .touch-friendly {
+    padding: 12px !important;
+  }
+  
+  button.touch-target {
+    min-width: 44px !important;
+    min-height: 44px !important;
+  }
+}
+
+/* 必填字段指示器 */
+.required-indicator {
+  color: hsl(var(--destructive, 0 84% 60%));
+  font-weight: bold;
+  margin-left: 2px;
+}
+
+.high-contrast .required-indicator,
+body.high-contrast .required-indicator {
+  color: hsl(var(--destructive)) !important;
+}
+
+/* 错误状态样式 */
+input[aria-invalid="true"],
+select[aria-invalid="true"],
+textarea[aria-invalid="true"] {
+  border-color: hsl(var(--destructive, 0 84% 60%)) !important;
+  box-shadow: 0 0 0 2px hsl(var(--destructive, 0 84% 60%) / 0.2) !important;
+}
+
+.error-message {
+  color: hsl(var(--destructive, 0 84% 60%));
+  font-size: 0.875rem;
+  margin-top: 4px;
+}
+
+.high-contrast .error-message,
+body.high-contrast .error-message {
+  color: hsl(var(--destructive)) !important;
+  font-weight: 600 !important;
+}
+
+/* 加载状态可访问性 */
+.loading[aria-busy="true"]::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 16px;
+  margin: -8px 0 0 -8px;
+  border: 2px solid hsl(var(--primary, 216 96% 50%));
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* 禁用状态 */
+button:disabled,
+input:disabled,
+select:disabled,
+textarea:disabled {
+  opacity: 0.6 !important;
+  cursor: not-allowed !important;
+}
+
+.high-contrast button:disabled,
+.high-contrast input:disabled,
+.high-contrast select:disabled,
+.high-contrast textarea:disabled,
+body.high-contrast button:disabled,
+body.high-contrast input:disabled,
+body.high-contrast select:disabled,
+body.high-contrast textarea:disabled {
+  background: hsl(var(--muted)) !important;
+  color: hsl(var(--muted-foreground, 0 0% 45%)) !important;
+  border-color: hsl(var(--muted)) !important;
+}
+
+/* 键盘导航提示 */
+.keyboard-user .keyboard-hint {
+  display: block !important;
+}
+
+.keyboard-hint {
+  display: none;
+  font-size: 0.75rem;
+  color: hsl(var(--muted-foreground, 0 0% 45%));
+  margin-top: 4px;
+}
+
+/* 语言选择器可访问性增强 */
+.language-selector-native:focus {
+  outline: 2px solid hsl(var(--primary, 216 96% 50%)) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 4px hsl(var(--primary, 216 96% 50%) / 0.2) !important;
+}
+
+.high-contrast .language-selector-native,
+body.high-contrast .language-selector-native {
+  border: 2px solid hsl(var(--border)) !important;
+  background: hsl(var(--background)) !important;
+}
+
+/* 音频播放器可访问性 */
+.audio-player-card[aria-busy="true"] .audio-play-btn {
+  position: relative;
+}
+
+.audio-player-card[aria-busy="true"] .audio-play-btn::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 16px;
+  margin: -8px 0 0 -8px;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+/* 导航菜单可访问性 */
+.mobile-sheet-content[data-state="open"] {
+  focus-trap: true;
+}
+
+.mobile-nav-link:focus {
+  outline: 2px solid hsl(var(--primary, 216 96% 50%)) !important;
+  outline-offset: -2px !important;
+  background: hsl(var(--accent, 210 40% 98%)) !important;
+}
+
+.high-contrast .mobile-nav-link:focus,
+body.high-contrast .mobile-nav-link:focus {
+  background: hsl(var(--primary) / 0.2) !important;
+  outline: 3px solid hsl(var(--primary)) !important;
+}
+
+/* 进度条可访问性 */
+.audio-progress-bar,
+.fallback-progress-bar {
+  cursor: pointer;
+}
+
+.audio-progress-bar:focus,
+.fallback-progress-bar:focus {
+  outline: 2px solid hsl(var(--primary, 216 96% 50%)) !important;
+  outline-offset: 2px !important;
+}
+
+/* 色彩无障碍 - 确保足够的对比度 */
+.text-muted {
+  color: hsl(var(--muted-foreground, 0 0% 35%)) !important;
+}
+
+.high-contrast .text-muted,
+body.high-contrast .text-muted {
+  color: hsl(var(--foreground)) !important;
+}
+
+/* 焦点陷阱指示器（开发时可见） */
+[data-focus-trap="true"]::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 3px solid orange;
+  pointer-events: none;
+  z-index: 9998;
+  display: none;
+}
+
+.debug-focus [data-focus-trap="true"]::before {
+  display: block;
+}
+
+/* 状态公告样式 */
+#screen-reader-announcements {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* 表单验证可访问性 */
+.form-field {
+  position: relative;
+}
+
+.form-field .error {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  width: 100%;
+  font-size: 0.875rem;
+  color: hsl(var(--destructive, 0 84% 60%));
+  margin-top: 4px;
+}
+
+.high-contrast .form-field .error,
+body.high-contrast .form-field .error {
+  color: hsl(var(--destructive)) !important;
+  font-weight: 600 !important;
+}
+
+/* 工具提示可访问性 */
+[role="tooltip"] {
+  background: hsl(var(--popover, 0 0% 100%));
+  border: 1px solid hsl(var(--border, 0 0% 89.8%));
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 0.875rem;
+  z-index: 9999;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.high-contrast [role="tooltip"],
+body.high-contrast [role="tooltip"] {
+  background: hsl(var(--background)) !important;
+  border: 2px solid hsl(var(--border)) !important;
+  color: hsl(var(--foreground)) !important;
+}
+
+/* 打印样式可访问性 */
+@media print {
+  .skip-link,
+  #screen-reader-announcements,
+  .sr-only {
+    display: none !important;
+  }
+  
+  a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+  
+  .high-contrast,
+  body.high-contrast {
+    --background: 255 255 255;
+    --foreground: 0 0 0;
+    filter: none !important;
+  }
+}

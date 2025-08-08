@@ -1,10 +1,10 @@
 ---
 import { Card, CardContent } from "@/components/ui/card"
-import AudioPlayerSkeleton from './AudioPlayerSkeleton.astro';
-import AudioPlayerControls from './audio/AudioPlayerControls.astro';
-import AudioPlayerProgress from './audio/AudioPlayerProgress.astro';
-import AudioPlayerTime from './audio/AudioPlayerTime.astro';
-import AudioPlayerError from './audio/AudioPlayerError.astro';
+import AudioPlayerSkeleton from '../AudioPlayerSkeleton.astro';
+import AudioPlayerControls from './AudioPlayerControls.astro';
+import AudioPlayerProgress from './AudioPlayerProgress.astro';
+import AudioPlayerTime from './AudioPlayerTime.astro';
+import AudioPlayerError from './AudioPlayerError.astro';
 
 export interface Props {
   audioSrc: string;
@@ -175,7 +175,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
 </style>
 
 <script>
-  import { AudioPlayerManager } from './audio/AudioPlayerManager';
+  import { AudioPlayerManager } from './AudioPlayerManager';
 
   // Initialize audio player when DOM is ready
   document.addEventListener('DOMContentLoaded', () => {

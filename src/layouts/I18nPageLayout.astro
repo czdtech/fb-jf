@@ -1,0 +1,301 @@
+---
+export interface Props {
+  lang: string;
+  title: string;
+  description: string;
+  structuredData?: Record<string, any>;
+}
+
+const { lang, title, description, structuredData } = Astro.props;
+
+// 语言映射统一
+const langCodes: Record<string, string> = {
+  'zh': 'zh',
+  'ja': 'ja',
+  'ko': 'ko',
+  'de': 'de',
+  'fr': 'fr', 
+  'es': 'es'
+};
+
+// 多语言链接
+const languages = [
+  { code: 'en', url: '/' },
+  { code: 'zh', url: '/zh/' },
+  { code: 'de', url: '/de/' },
+  { code: 'fr', url: '/fr/' },
+  { code: 'es', url: '/es/' },
+  { code: 'ja', url: '/ja/' },
+  { code: 'ko', url: '/ko/' }
+];
+---
+
+<!doctype html>
+<html lang={langCodes[lang] || lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="index, follow" />
+
+    <link rel="canonical" href={`https://www.playfiddlebops.com${lang === 'en' ? '/' : `/${lang}/`}`} />
+    
+    <!-- hreflang links -->
+    <link rel="alternate" hreflang="x-default" href="https://www.playfiddlebops.com/" />
+    {languages.map(language => (
+      <link 
+        rel="alternate" 
+        hreflang={language.code === 'en' ? 'en' : language.code} 
+        href={`https://www.playfiddlebops.com${language.url}`} 
+      />
+    ))}
+
+    <!-- Structured Data -->
+    {structuredData && (
+      <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    )}
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content="https://www.playfiddlebops.com" />
+    <meta property="og:site_name" content="Fiddlebops" />
+    <meta property="og:image" content="https://www.playfiddlebops.com/tw.jpg" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="https://www.playfiddlebops.com" />
+    <meta name="twitter:creator" content="Fiddlebops" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/tw.jpg" />
+
+    <!-- Favicon and Styles -->
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico" />
+    
+    <!-- 使用新的设计系统 -->
+    <link rel="stylesheet" href="/src/styles/design-tokens.css" />
+    <link rel="stylesheet" href="/src/styles/components.css" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- Common Styles -->
+    <style>
+      .video-container {
+        margin: 30px auto 0;
+        border: 3px solid var(--tertiary-dark);
+        border-radius: 4px;
+        height: 400px;
+      }
+      .video-container iframe {
+        width: 45%;
+        height: 100%;
+        float: left;
+        margin: 0 30px;
+      }
+      audio {
+        width: 210px;
+      }
+      .game-card .game-iframe-sprunki {
+        float: left;
+        width: 69%;
+        margin: 0;
+        padding: 0;
+        height: 600px;
+        background-color: #fff;
+        position: relative;
+        background-image: linear-gradient(
+            rgba(255, 255, 255, 0.7),
+            rgba(255, 255, 255, 0.7)
+          ),
+          url(/tw.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+      }
+      .game .game-l-2 img {
+        width: 100% !important;
+        height: auto;
+        margin: 0 auto;
+      }
+      @media screen and (max-width: 980px) {
+        .game-card .game-iframe-sprunki {
+          width: 100%;
+        }
+      }
+      @media screen and (max-width: 768px) {
+        audio {
+          width: 120px;
+        }
+        .game-card .game-iframe-sprunki {
+          height: 330px !important;
+        }
+        .video-container {
+          height: 300px;
+        }
+        .video-container iframe {
+          width: 94%;
+          height: 100%;
+          padding: 0px;
+          margin: 20px;
+        }
+        .game-info {
+          display: none;
+        }
+      }
+    </style>
+
+    <!-- Common Scripts -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const navToggle = document.querySelector('.nav-toggle')
+        const navMenu = document.querySelector('.nav-menu')
+
+        if (navToggle && navMenu) {
+          navToggle.addEventListener('click', function () {
+            navMenu.classList.toggle('active')
+          })
+        }
+      })
+    </script>
+
+    <!-- Safe iframe loading script -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        let iframeLoaded = false;
+        const iframe = document.getElementById('fiddlebops-iframe');
+        const playButton = document.getElementById('playButton');
+        
+        function loadIframe() {
+          if (iframe && playButton) {
+            iframe.src = 'https://fiddlebops.netlify.app/';
+            playButton.style.display = 'none';
+            iframeLoaded = true;
+            iframe.focus();
+          }
+        }
+        
+        if (playButton) {
+          playButton.addEventListener('click', loadIframe);
+        }
+      });
+    </script>
+
+    <!-- Analytics (Production only) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || []
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+      gtag('config', 'G-9JME3P55QJ')
+    </script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+      crossorigin="anonymous"></script>
+    <meta name="google-adsense-account" content="ca-pub-1444054360166733" />
+  </head>
+  
+  <body>
+    <slot />
+
+    <!-- Language Selector Script -->
+    <script>
+      function goToLink(event) {
+        const select = event.target
+        const selectedOption = select.options[select.selectedIndex]
+        const url = selectedOption.getAttribute('data-url')
+        if (url) {
+          window.location.href = url
+        }
+      }
+
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select')
+        if (select) {
+          select.addEventListener('change', goToLink)
+
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang
+          const options = Array.from(select.options)
+
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(
+            option => option.getAttribute('data-lang') === htmlLang
+          )
+
+          if (currentOption) {
+            currentOption.selected = true
+          } else {
+            // If no exact match is found, try to find a default option
+            let defaultOption = options.find(
+              option => option.getAttribute('data-lang') === 'en'
+            )
+
+            if (defaultOption) {
+              defaultOption.selected = true
+            }
+          }
+        }
+      })
+    </script>
+
+    <!-- Social Sharing -->
+    <style>
+      @media screen and (max-width: 980px) {
+        .a2a_floating_style.a2a_vertical_style {
+          display: none;
+        }
+      }
+      @media screen and (min-width: 980px) {
+        .a2a_floating_style.a2a_default_style {
+          display: none;
+        }
+      }
+    </style>
+    <div
+      class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style"
+      data-a2a-scroll-show="0,60"
+      style="bottom:0px; right:0px;"
+    >
+      <a class="a2a_button_x"></a>
+      <a class="a2a_button_reddit"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_telegram"></a>
+      <a class="a2a_button_whatsapp"></a>
+      <a class="a2a_button_linkedin"></a>
+      <a class="a2a_dd" href={`https://www.playfiddlebops.com${lang === 'en' ? '/' : `/${lang}/`}`}></a>
+    </div>
+    <div
+      class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style"
+      style="left:0px; top:150px;"
+    >
+      <a class="a2a_button_x"></a>
+      <a class="a2a_button_reddit"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_telegram"></a>
+      <a class="a2a_button_whatsapp"></a>
+      <a class="a2a_button_linkedin"></a>
+      <a class="a2a_dd" href={`https://www.playfiddlebops.com${lang === 'en' ? '/' : `/${lang}/`}`}></a>
+    </div>
+    <script defer src="https://static.addtoany.com/menu/page.js"></script>
+  </body>
+</html>

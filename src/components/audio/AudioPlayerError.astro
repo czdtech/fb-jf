@@ -1,0 +1,127 @@
+---
+export interface Props {
+  uniqueId: string;
+  showErrorDetails?: boolean;
+  className?: string;
+}
+
+const { 
+  uniqueId, 
+  showErrorDetails = false, 
+  className = "" 
+} = Astro.props;
+---
+
+<!-- Error Message -->
+<div 
+  class={`audio-error-message hidden mt-2 p-2 bg-destructive/10 border border-destructive/20 rounded text-sm text-destructive ${className}`}
+  role="alert"
+  aria-live="polite"
+  id={`error-message-${uniqueId}`}
+>
+  <div class="flex items-start justify-between">
+    <div class="flex items-center space-x-2">
+      <svg class="w-4 h-4 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+        <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z" clip-rule="evenodd" />
+      </svg>
+      <span>Audio failed to load</span>
+    </div>
+    
+    <!-- Retry Button -->
+    <button 
+      class="audio-retry-btn text-xs text-destructive hover:text-destructive/80 underline focus:outline-none focus:ring-2 focus:ring-destructive focus:ring-offset-1 rounded px-1"
+      type="button"
+      aria-label="Retry loading audio"
+    >
+      Retry
+    </button>
+  </div>
+</div>
+
+<!-- Detailed Error Information (Optional) -->
+{showErrorDetails && (
+  <div 
+    class="audio-error-details hidden mt-3 p-2 bg-destructive/5 border border-destructive/20 rounded text-xs"
+    role="alert"
+    aria-live="assertive"
+    id={`error-details-${uniqueId}`}
+  >
+    <div class="font-medium text-destructive mb-1">Error Details:</div>
+    <div class="audio-error-text text-muted-foreground"></div>
+  </div>
+)}
+
+<style>
+  .audio-error-message,
+  .audio-error-details {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .audio-retry-btn {
+    min-height: 24px; /* Ensure touch-friendly size */
+    min-width: 44px;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  
+  .audio-retry-btn:hover {
+    background-color: hsl(var(--destructive) / 0.1);
+  }
+  
+  .audio-retry-btn:focus {
+    outline: 2px solid hsl(var(--destructive));
+    outline-offset: 2px;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 640px) {
+    .audio-error-message,
+    .audio-error-details {
+      font-size: 0.75rem; /* sm equivalent */
+      padding: 8px;
+    }
+    
+    .audio-error-details {
+      font-size: 0.7rem; /* xs equivalent */
+    }
+  }
+  
+  /* High contrast mode */
+  @media (prefers-contrast: high) {
+    .audio-error-message {
+      border-width: 2px;
+      background-color: hsl(var(--background));
+    }
+    
+    .audio-error-details {
+      border-width: 2px;
+      background-color: hsl(var(--background));
+    }
+  }
+  
+  /* Animation for showing/hiding */
+  .audio-error-message:not(.hidden),
+  .audio-error-details:not(.hidden) {
+    animation: fadeInDown 0.3s ease-out;
+  }
+  
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Reduce motion for users who prefer it */
+  @media (prefers-reduced-motion: reduce) {
+    .audio-error-message,
+    .audio-error-details {
+      transition: none;
+      animation: none;
+    }
+  }
+</style>
