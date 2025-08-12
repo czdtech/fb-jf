@@ -1,4 +1,6 @@
 ---
+import { getCurrentLocale, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 import LanguageSelectorNative from './LanguageSelectorNative.astro'
 
 interface Props {
@@ -8,33 +10,33 @@ interface Props {
 
 const { currentPath = '', className = '' } = Astro.props
 
-// Detect current language from URL path
-const url = new URL(Astro.request.url)
-const pathSegments = url.pathname.split('/').filter(Boolean)
-const currentLang = pathSegments[0] && ['zh', 'es', 'fr', 'de', 'ja', 'ko'].includes(pathSegments[0]) 
-  ? pathSegments[0] 
-  : 'en'
+// 使用新的i18n系统获取当前语言
+const currentLocale = getCurrentLocale(Astro.url);
 
-// Get the current page path without language prefix
-const currentPagePath = currentLang === 'en' 
-  ? url.pathname 
-  : url.pathname.replace(`/${currentLang}`, '') || '/'
+// 安全的获取当前页面路径（不含语言前缀）
+let pathWithoutLocale = '/';
+try {
+  const url = new URL(Astro.request.url);
+  const pathname = url.pathname || '/';
+  
+  // 移除语言前缀
+  pathWithoutLocale = pathname.replace(/^\/(zh|es|fr|de|ja|ko)/, '') || '/';
+} catch (error) {
+  console.warn('Failed to parse pathname for language selector', error);
+  pathWithoutLocale = '/';
+}
 
-// Language configuration with proper labels and paths
-const languages = [
-  { code: 'en', label: 'English', path: currentPagePath === '/' ? '/' : currentPagePath },
-  { code: 'zh', label: '简体中文', path: `/zh${currentPagePath}` },
-  { code: 'es', label: 'Español', path: `/es${currentPagePath}` },
-  { code: 'fr', label: 'Français', path: `/fr${currentPagePath}` },
-  { code: 'de', label: 'Deutsch', path: `/de${currentPagePath}` },
-  { code: 'ja', label: '日本語', path: `/ja${currentPagePath}` },
-  { code: 'ko', label: '한국어', path: `/ko${currentPagePath}` }
-]
+// 语言配置使用Astro i18n helpers和新的翻译系统
+const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
+  code: code as SupportedLocale,
+  label,
+  path: getRelativeLocaleUrl(code as SupportedLocale, pathWithoutLocale)
+}));
 ---
 
 <div class={`language-selector ${className}`}>
   <LanguageSelectorNative 
-    currentLang={currentLang}
+    currentLang={currentLocale}
     languages={languages}
   />
 </div>

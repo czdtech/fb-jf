@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "games": "Jeux", 
+    "newGames": "Nouveaux Jeux",
+    "popularGames": "Jeux Populaires",
+    "trendingGames": "Jeux Tendances",
+    "aboutUs": "À Propos",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "language": "Langue"
+  },
+  "meta": {
+    "title": "FiddleBops - Jeux de Création Musicale en Ligne",
+    "description": "Créez de la musique incroyable avec FiddleBops ! Jeux interactifs de création musicale avec des personnages amusants et des rythmes. Jouez gratuitement dans votre navigateur.",
+    "keywords": "fiddlebops, jeux musicaux, création musicale, incredibox, sprunki, création de rythmes, musique interactive"
+  },
+  "hero": {
+    "title": "Créez de la Musique Incroyable avec FiddleBops",
+    "subtitle": "Jeux de création musicale interactifs avec des personnages amusants et une créativité illimitée",
+    "playNow": "Jouer Maintenant",
+    "learnMore": "En Savoir Plus"
+  },
+  "sections": {
+    "howToPlay": "Comment Jouer",
+    "newGames": "Nouveaux Jeux",
+    "popularGames": "Jeux Populaires",
+    "trendingGames": "Jeux Tendances", 
+    "about": "À Propos de FiddleBops",
+    "videos": "Tutoriels Vidéo"
+  },
+  "games": {
+    "playNow": "Jouer Maintenant",
+    "loading": "Chargement...",
+    "error": "Échec du chargement du jeu",
+    "retry": "Réessayer",
+    "viewMore": "Voir Plus de Jeux",
+    "noGames": "Aucun jeu trouvé",
+    "category": "Catégorie",
+    "rating": "Évaluation"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent", 
+    "close": "Fermer",
+    "menu": "Menu"
+  },
+  "footer": {
+    "aboutUs": "À Propos",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "copyright": "© 2025 FiddleBops. Tous droits réservés.",
+    "legal": "Légal",
+    "contactUs": "Contactez-nous",
+    "quickLinks": "Liens Rapides",
+    "tagline": "Créer de la Musique, Partager la Joie",
+    "description": "Plateforme gratuite de création musicale en ligne"
+  }
+}

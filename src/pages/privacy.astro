@@ -14,12 +14,13 @@ const hreflangLinks = navigation.languages.map((lang: any) => ({
 }))
 
 // Meta data for privacy page
+// AURA-X: Modify - 法律页设置为 noindex, nofollow。Confirmed via 寸止。
 const meta = {
   title: "Privacy Policy | FiddleBops",
   description: "Learn about how FiddleBops collects, uses, and protects your personal information. Our comprehensive privacy policy explains our data practices.",
   canonical: "https://www.playfiddlebops.com/privacy/",
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
-  robots: "index, follow"
+  robots: "noindex, nofollow"
 }
 ---
 
@@ -38,7 +39,7 @@ const meta = {
   <main class="privacy-page">
     <!-- Hero Section -->
     <section class="privacy-hero section">
-      <div class="container">
+      <div class="responsive-container container-narrow">
         <div class="privacy-hero-content">
           <!-- 面包屑导航 -->
           <nav class="breadcrumb" aria-label="面包屑导航">
@@ -77,7 +78,7 @@ const meta = {
 
     <!-- Privacy Content Section -->
     <section class="privacy-content section">
-      <div class="container">
+      <div class="responsive-container container-narrow">
         <div class="content-wrapper">
 
           <!-- Navigation Menu -->

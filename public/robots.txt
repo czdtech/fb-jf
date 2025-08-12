@@ -1,21 +1,29 @@
 User-agent: *
 Allow: /
-Disallow: https://www.playfiddlebops.com/Swap%20Sprunkgerny/
-Disallow: https://www.playfiddlebops.com/blog
-Disallow: https://www.playfiddlebops.com/de/terms-of-service
-Disallow: https://www.playfiddlebops.com/ja/terms-of-service
-Disallow: https://www.playfiddlebops.com/ko/terms-of-service
-Disallow: https://www.playfiddlebops.com/es/terms-of-service
-Disallow: https://www.playfiddlebops.com/fr/terms-of-service
-Disallow: https://www.playfiddlebops.com/zh/terms-of-service
-Disallow: https://www.playfiddlebops.com/de/privacy
-Disallow: https://www.playfiddlebops.com/es/privacy
-Disallow: https://www.playfiddlebops.com/ja/privacy
-Disallow: https://www.playfiddlebops.com/ko/privacy
-Disallow: https://www.playfiddlebops.com/fr/privacy
-Disallow: https://www.playfiddlebops.com/zh/privacy
-Disallow: https://www.playfiddlebops.com/share
 
+# AURA-X: Modify - 统一为相对路径并规范尾斜杠。Confirmed via 寸止。
+Disallow: /Swap%20Sprunkgerny/
+Disallow: /swap-sprunkgerny/
+Disallow: /blog/
 
+# Root legal pages
+Disallow: /privacy/
+Disallow: /terms-of-service/
+
+# Localized legal pages
+Disallow: /de/privacy/
+Disallow: /de/terms-of-service/
+Disallow: /es/privacy/
+Disallow: /es/terms-of-service/
+Disallow: /fr/privacy/
+Disallow: /fr/terms-of-service/
+Disallow: /ja/privacy/
+Disallow: /ja/terms-of-service/
+Disallow: /ko/privacy/
+Disallow: /ko/terms-of-service/
+Disallow: /zh/privacy/
+Disallow: /zh/terms-of-service/
+
+Disallow: /share/
 
 Sitemap: https://www.playfiddlebops.com/sitemap.xml

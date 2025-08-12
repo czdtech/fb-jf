@@ -1,5 +1,6 @@
 ---
 import type { SEOMeta, Language } from '@/types';
+import { getLanguageDirection } from '@/i18n/utils';
 // 导入 shadcn/ui 和 Tailwind CSS
 import '@/styles/globals.css';
 import '../styles/design-tokens.css';
@@ -14,6 +15,9 @@ export interface Props {
 }
 
 const { meta, lang = 'en', hreflang = [], structuredData } = Astro.props;
+// AURA-X: Add - 法律页识别与注入守卫。Confirmed via 寸止。
+const pathname = Astro.url?.pathname || '';
+const isLegalPage = /^(\/([a-z]{2})?)?\/(privacy|terms-of-service)\/?$/i.test(pathname);
 
 // 安全处理meta数据
 const safeMeta = {
@@ -23,17 +27,30 @@ const safeMeta = {
   keywords: meta?.keywords || 'fiddlebops, music, incredibox',
   ogImage: meta?.ogImage || 'https://www.playfiddlebops.com/tw.jpg'
 };
+
+// OpenGraph 语言映射与文档方向
+const ogLocaleMap: Record<string, string> = {
+  en: 'en_US',
+  zh: 'zh_CN',
+  es: 'es_ES',
+  fr: 'fr_FR',
+  de: 'de_DE',
+  ja: 'ja_JP',
+  ko: 'ko_KR',
+};
+const ogLocale = ogLocaleMap[String(lang)] || 'en_US';
+const htmlDir = getLanguageDirection(lang as any);
 ---
 
 <!DOCTYPE html>
-<html lang={lang}>
+<html lang={lang} dir={htmlDir}>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{safeMeta.title}</title>
     <meta name="description" content={safeMeta.description}>
     {safeMeta.keywords && <meta name="keywords" content={safeMeta.keywords}>}
-    <meta name="robots" content="index, follow"/>
+    <meta name="robots" content={meta?.robots || 'index, follow'}/>
     <link rel="canonical" href={safeMeta.canonical}/>
 
     <!-- hreflang 标签 -->
@@ -51,13 +68,13 @@ const safeMeta = {
     <meta property="og:description" content={safeMeta.description}/>
     <meta property="og:url" content={safeMeta.canonical}/>
     <meta property="og:site_name" content="FiddleBops"/>
-    <meta property="og:locale" content="en_US"/>
+    <meta property="og:locale" content={ogLocale}/>
     <meta property="og:image" content={safeMeta.ogImage}/>
     <meta property="og:type" content="website"/>
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content={meta.canonical}/>
+    <meta name="twitter:site" content="@FiddleBops"/>
     <meta name="twitter:title" content={safeMeta.title}/>
     <meta name="twitter:description" content={safeMeta.description}/>
     <meta name="twitter:image" content={safeMeta.ogImage}/>
@@ -65,22 +82,64 @@ const safeMeta = {
     <!-- 图标和样式 -->
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
 
+    <!-- 关键路径 CSS 内联 -->
+    <style>
+      /* Critical CSS - Prevent FOUC */
+      :root {
+        --primary: 262 83% 58%;
+        --background: 0 0% 100%;
+        --foreground: 0 0% 3.9%;
+        --muted-foreground: 0 0% 45.1%;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        font-family: Inter, system-ui, -apple-system, sans-serif;
+        color: hsl(var(--foreground));
+        background: hsl(var(--background));
+        line-height: 1.5;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+
+      /* 防止布局偏移 */
+      main { min-height: 100vh; }
+
+      /* 首屏加载状态 */
+      .loading { opacity: 0; visibility: hidden; }
+      .loaded { opacity: 1; visibility: visible; transition: opacity 0.3s ease; }
+
+      /* 可访问性 - 减少动画支持 */
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
+        .loaded { transition: none; }
+      }
+    </style>
+
     <!-- 设计系统样式已通过 import 引入 -->
 
-    <!-- 字体预加载优化 -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- 字体优化加载 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" as="style">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"></noscript>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- 分析代码 (生产环境) -->
-    {import.meta.env.PROD && (
+    {import.meta.env.PROD && !isLegalPage && (
       <>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-        <script>
+        <script is:inline>
+          // Google Analytics (生产环境)
           window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
+          function gtag(){window.dataLayer.push(arguments);}
           gtag('js', new Date());
           gtag('config', 'G-9JME3P55QJ');
         </script>
@@ -91,35 +150,24 @@ const safeMeta = {
 
     <!-- 开发环境占位符 -->
     {import.meta.env.DEV && (
-      <script>
+      <script is:inline>
         // 开发环境 - 分析和广告代码占位符
         console.log('🔧 开发模式：分析和广告代码已禁用');
 
         // 模拟 gtag 函数防止错误
-        window.dataLayer = window.dataLayer || [];
-        window.gtag = function() {
+        window['dataLayer'] = window['dataLayer'] || [];
+        window['gtag'] = function() {
           console.log('📊 [DEV] gtag 调用:', arguments);
         };
       </script>
     )}
 
-    <!-- 导航脚本 -->
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const navToggle = document.querySelector('.nav-toggle');
-        const navMenu = document.querySelector('.nav-menu');
-
-        navToggle?.addEventListener('click', function() {
-          navMenu?.classList.toggle('active');
-        });
-      });
-    </script>
 </head>
 <body>
     <slot />
 
     <!-- 社交分享 (仅生产环境) -->
-    {import.meta.env.PROD && (
+    {import.meta.env.PROD && !isLegalPage && (
       <>
         <style>
         @media screen and (max-width: 980px) {
@@ -152,19 +200,19 @@ const safeMeta = {
     )}
 
         <!-- 全局错误处理器 -->
-    <script type="module" data-is-prod={import.meta.env.PROD}>
+    <script type="module" is:inline data-is-prod={import.meta.env.PROD}>
       import { GlobalErrorHandler } from '/src/scripts/global-error-handler.js';
-      
+
       // 从 data 属性获取环境变量（防御性编程）
       const isProd = document.currentScript?.getAttribute('data-is-prod') === 'true' || false;
-      
+
       // 初始化全局错误处理器
       window.globalErrorHandler = new GlobalErrorHandler({
         enableLogging: !isProd, // 开发环境启用日志
         enableNotifications: true,
         enableReporting: false // 需要时可配置报告端点
       });
-      
+
       // 手动错误报告函数
       window.reportError = (error, context = {}) => {
         return window.globalErrorHandler?.reportError(error, context);
@@ -172,9 +220,9 @@ const safeMeta = {
     </script>
 
     <!-- 可访问性管理器 -->
-    <script type="module">
+    <script type="module" is:inline>
       import { AccessibilityManager } from '/src/scripts/accessibility-manager.js';
-      
+
       // 初始化可访问性管理器
       window.accessibilityManager = new AccessibilityManager({
         enableKeyboardNavigation: true,
@@ -182,17 +230,26 @@ const safeMeta = {
         enableScreenReader: true,
         enableHighContrast: true
       });
-      
+
       // 从 data 属性获取环境变量并提供检查功能
       const currentScript = document.querySelector('script[data-is-prod]');
       const isProd = currentScript ? currentScript.getAttribute('data-is-prod') === 'true' : false;
-      
+
       if (!isProd) {
         window.checkAccessibility = () => window.accessibilityManager.checkAccessibility();
       }
     </script>
 
     <!-- 设计系统交互脚本 -->
-    <script src="/src/scripts/interactions.js"></script>
+    <script type="module" is:inline>
+      import '/src/scripts/interactions.js'
+    </script>
+
+    <!-- Stagewise Toolbar（仅开发环境注入 - 外链模块） -->
+    {import.meta.env.DEV && (
+      <script type="module" src="/src/scripts/stagewise-toolbar.ts"></script>
+    )}
+
+
 </body>
 </html>

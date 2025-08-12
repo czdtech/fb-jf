@@ -14,7 +14,7 @@ const { games, currentGameSlug } = Astro.props
 
 // 从所有游戏中选择相关游戏，排除当前游戏
 const allGames = [...games.trending, ...games.popular, ...games.new].filter(
-  game => game.slug !== currentGameSlug
+  (game: any) => game.slug !== currentGameSlug
 )
 
 // 随机选择6个相关游戏
@@ -35,7 +35,7 @@ const relatedGames = allGames.sort(() => Math.random() - 0.5).slice(0, 6)
       </a>
     </div>
 
-    <div class="game-grid game-grid--related related-games-grid">
+    <div class="grid gap-4 md:gap-5 lg:gap-6 xl:gap-8 grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 related-games-grid">
       {
         relatedGames.map((game, index) => (
           <div class={`game-item game-grid-item music-element hero-music-delay-${36 + index}`}>

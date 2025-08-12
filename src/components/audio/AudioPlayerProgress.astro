@@ -1,4 +1,5 @@
 ---
+import { AudioSlider } from '@/components/AudioSlider'
 export interface Props {
   uniqueId: string;
   showProgress?: boolean;
@@ -6,48 +7,41 @@ export interface Props {
   className?: string;
 }
 
-const { 
-  uniqueId, 
-  showProgress = true, 
-  useSlider = true, 
-  className = "" 
+const {
+  uniqueId,
+  showProgress = true,
+  useSlider = true,
+  className = ""
 } = Astro.props;
 ---
 
 {showProgress && (
   <div class={`audio-progress-container flex-1 ${className}`}>
     {useSlider ? (
-      <!-- Use external AudioSlider component if available -->
       <div class="audio-slider-wrapper w-full">
-        <div 
-          id={`audio-slider-${uniqueId}`}
-          class="audio-slider-container"
-          role="slider"
-          aria-valuemin="0"
-          aria-valuemax="100"
-          aria-valuenow="0"
-          aria-label="Audio progress"
-          tabindex="0"
-        >
-          <!-- Slider will be initialized by AudioSlider component -->
-        </div>
+        {/**
+         * AURA-X: Add - 集成 React 进度条组件，使用 client:idle 按需水合。
+         * Confirmed via 寸止。
+         */}
+        <AudioSlider client:idle audioId={uniqueId} className="w-full" />
       </div>
     ) : (
       <!-- Fallback progress bar -->
-      <div 
+      <div
         class="fallback-progress-bar w-full h-2 bg-muted rounded-full cursor-pointer relative overflow-hidden"
         role="progressbar"
         aria-valuemin="0"
         aria-valuemax="100"
         aria-valuenow="0"
         aria-label="Audio progress"
+        aria-describedby={`current-time-${uniqueId} duration-${uniqueId}`}
         tabindex="0"
       >
-        <div 
+        <div
           class="progress-fill audio-progress-bar h-full bg-primary rounded-full transition-all duration-100 ease-linear"
           style="width: 0%"
         ></div>
-        
+
         <!-- Interactive overlay for click handling -->
         <div class="absolute inset-0 cursor-pointer"></div>
       </div>
@@ -60,47 +54,47 @@ const {
     display: flex;
     align-items: center;
   }
-  
+
   .audio-slider-wrapper {
     width: 100%;
   }
-  
+
   .fallback-progress-bar {
     cursor: pointer;
   }
-  
+
   .fallback-progress-bar:focus {
     outline: 2px solid hsl(var(--primary));
     outline-offset: 2px;
   }
-  
+
   .fallback-progress-bar:hover .progress-fill {
     background-color: hsl(var(--primary) / 0.8);
   }
-  
+
   /* Touch-friendly progress bar */
   @media (hover: none) and (pointer: coarse) {
     .fallback-progress-bar {
       height: 8px; /* Larger touch target */
       border-radius: 4px;
     }
-    
+
     .progress-fill {
       border-radius: 4px;
     }
   }
-  
+
   /* High contrast mode */
   @media (prefers-contrast: high) {
     .fallback-progress-bar {
       border: 1px solid;
     }
-    
+
     .progress-fill {
       border: 1px solid hsl(var(--primary));
     }
   }
-  
+
   /* Keyboard navigation */
   .fallback-progress-bar:focus-visible {
     outline: 2px solid hsl(var(--primary));
@@ -112,17 +106,17 @@ const {
   // Add keyboard navigation support for fallback progress bar
   document.addEventListener('DOMContentLoaded', () => {
     const progressBars = document.querySelectorAll('.fallback-progress-bar[tabindex="0"]');
-    
+
     progressBars.forEach(progressBar => {
       progressBar.addEventListener('keydown', (e) => {
         const event = e as KeyboardEvent;
         const target = event.target as HTMLElement;
-        
+
         if (!target) return;
-        
+
         const currentValue = parseFloat(target.getAttribute('aria-valuenow') || '0');
         let newValue = currentValue;
-        
+
         switch (event.key) {
           case 'ArrowLeft':
           case 'ArrowDown':
@@ -143,16 +137,16 @@ const {
             event.preventDefault();
             break;
         }
-        
+
         if (newValue !== currentValue) {
           target.setAttribute('aria-valuenow', newValue.toString());
-          
+
           // Update visual progress
           const progressFill = target.querySelector('.progress-fill') as HTMLElement;
           if (progressFill) {
             progressFill.style.width = `${newValue}%`;
           }
-          
+
           // Dispatch custom event for audio seeking
           const seekEvent = new CustomEvent('audioSeek', {
             detail: { percentage: newValue / 100 }

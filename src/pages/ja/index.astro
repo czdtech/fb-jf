@@ -1,10 +1,14 @@
 ---
-import I18nPageLayout from '../../layouts/I18nPageLayout.astro';
-import I18nPageContent from '../../components/I18nPageContent.astro';
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+import { getEntryBySlug } from 'astro:content'
+//
 
-const lang = 'ja';
-const title = 'Fiddlebops - 無料オンラインFiddlebops Incrediboxゲーム';
-const description = 'Fiddlebopsであなただけの音楽を創りましょう！Incrediboxにインスパイアされたファン制作のプロジェクトで、様々なサウンドをミックスしてパーソナライズされた音楽を作成できます。';
+const lang = 'ja'
+const title = 'Fiddlebops - 無料オンラインFiddlebops Incrediboxゲーム'
+const description = 'Fiddlebopsであなただけの音楽を創りましょう！Incrediboxにインスパイアされたファン制作のプロジェクトで、様々なサウンドをミックスしてパーソナライズされた音楽を作成できます。'
 
 const structuredData = {
   "@context": "https://schema.org",
@@ -15,39 +19,34 @@ const structuredData = {
   "description": description
 };
 
-const content = {
-  headerTitle: "Fiddlebopsへようこそ！",
-  headerDescription: "音楽制作の旅を始めましょう！FiddlebopsはIncredboxにインスパイアされたファンプロジェクトです。ここでは、様々なサウンドを自由にミックスして、あなた独自のユニークな音楽を作成できます。",
-  aboutTitle: "Fiddlebops Incrediboxについて",
-  aboutContent: `
-    <h3>I. Fiddlebopsの基本情報とゲームプレイ</h3>
-    <p><strong>ゲーム名：</strong> Fiddlebops</p>
-    <p><strong>ジャンル/タグ：</strong> 音楽制作、リズム、実験的、教育的、ファミリー向け、カジュアル、シングルプレイヤー、クリエイティブ</p>
-    <p><strong>プラットフォーム：</strong> ウェブ（ブラウザ）</p>
-    <p><strong>リリース日：</strong> 2024年11月7日頃</p>
-    <p><strong>価格/アクセス：</strong> 無料</p>
-  `,
-  soundsTitle: "Fiddlebopsの様々なサウンドを探索",
-  videoTitle: "Fiddlebops Incredibox Game Video",
-  faqTitle: "Fiddlebopsゲームに関するよくある質問",
-  faqItems: [
-    {
-      question: "Fiddlebopsゲームとは何ですか？",
-      answer: "FiddlebopsゲームはIncredboxにインスパイアされたファンが作成したプロジェクトです。直感的なインターフェースを通じて、サウンドミキシングの楽しさを体験し、ユニークな音楽作品を作成できます。"
-    },
-    {
-      question: "Fiddlebopsゲームは無料ですか？",
-      answer: "はい、Fiddlebopsゲームは完全に無料で、プレイヤーはダウンロードなしでオンラインでプレイできます。"
-    }
-  ],
-  navigation: {
-    home: "ホーム",
-    privacy: "プライバシーポリシー",
-    terms: "利用規約"
-  }
-};
+const meta = {
+  title,
+  description,
+  canonical: 'https://www.playfiddlebops.com/ja/',
+  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
+}
+
+const { navigation } = extractedData
+const hreflangLinks = (navigation?.languages || []).map((l: any) => ({
+  code: l.code === 'en' ? 'x-default' : l.code,
+  url: `https://www.playfiddlebops.com${l.url}`
+}))
+
+// 从内容集合加载本地化介绍内容
+const home = await getEntryBySlug('i18nHome', 'ja')
+const { Content } = await home.render()
 ---
 
-<I18nPageLayout {lang} {title} {description} {structuredData}>
-  <I18nPageContent {lang} {content} />
-</I18nPageLayout>
+<BaseLayout meta={meta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>
+  <Navigation navigation={navigation.main} languages={navigation.languages} currentLang={lang} currentPath={`/${lang}/`} />
+  <main class="container" style="min-height:60vh; padding:2rem 0;">
+    <h1 style="margin-bottom:1rem;">{home.data.title}</h1>
+    <p style="margin-bottom:2rem;">{home.data.description}</p>
+    <section class="about" id="about">
+      <div class="about-content">
+        <Content />
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>

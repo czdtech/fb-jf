@@ -9,7 +9,8 @@ export interface Game {
   image: string;
   iframe: string;
   rating?: GameRating;
-  category: 'popular' | 'new' | 'trending';
+  // 放宽分类类型，兼容更多页面（如 featured / Music 等）
+  category: string;
   meta: SEOMeta;
   content?: GameContent;
 }

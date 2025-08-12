@@ -18,15 +18,15 @@
 
 /* Enhanced button touch targets for mobile */
 @media (max-width: 768px) {
-  button, 
-  [role="button"], 
-  input[type="button"], 
+  button,
+  [role="button"],
+  input[type="button"],
   input[type="submit"] {
     min-height: 44px;
     min-width: 44px;
     padding: 12px 16px;
   }
-  
+
   /* Navigation links touch targets */
   nav a {
     min-height: 44px;
@@ -34,6 +34,34 @@
     display: flex;
     align-items: center;
   }
+
+  /* 通用内联链接在小屏最小高度与内边距，提升可点击性 */
+  a.inline-flex,
+  a.btn,
+  a[class*="inline-flex"] {
+    min-height: 44px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  /* Pagination touch targets (mobile) */
+  .pagination a,
+  .pagination-link {
+    min-height: 44px;
+    min-width: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+/* Ensure pagination links are reasonable on larger screens too */
+.pagination-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* ==========================================================================
@@ -46,11 +74,11 @@
     font-size: 16px; /* Prevent zoom on iOS */
     line-height: 1.5;
   }
-  
+
   h1 { font-size: 1.75rem; }
   h2 { font-size: 1.5rem; }
   h3 { font-size: 1.25rem; }
-  
+
   /* Ensure proper text wrapping */
   p, div {
     word-wrap: break-word;
@@ -68,20 +96,20 @@
   .games-grid {
     gap: 0.75rem;
   }
-  
+
   /* Ensure game card images maintain aspect ratio */
   .game-card img {
     width: 100%;
     height: auto;
     object-fit: cover;
   }
-  
+
   /* Compact game card text for small screens */
   .game-card h3 {
     font-size: 0.875rem;
     line-height: 1.25;
   }
-  
+
   .game-card p {
     font-size: 0.75rem;
     line-height: 1.4;
@@ -99,18 +127,18 @@
     border-bottom: 1px solid hsl(var(--border));
     transition: background-color 0.2s ease;
   }
-  
+
   .mobile-nav-link:hover,
   .mobile-nav-link:focus {
     background-color: hsl(var(--accent));
   }
-  
+
   /* Mobile menu sheet optimizations */
   .mobile-sheet-content {
     width: min(85vw, 320px);
     max-width: 320px;
   }
-  
+
   /* Ensure mobile menu is accessible */
   .mobile-menu-overlay {
     backdrop-filter: blur(2px);
@@ -119,33 +147,33 @@
 }
 
 /* ==========================================================================
-   Audio Player Mobile Optimizations  
+   Audio Player Mobile Optimizations
    ========================================================================== */
 
 @media (max-width: 640px) {
   .audio-player {
     padding: 12px;
   }
-  
+
   .audio-controls {
     gap: 8px;
   }
-  
+
   .audio-control-btn {
     min-width: 44px;
     min-height: 44px;
   }
-  
+
   /* Slider thumb optimization for touch */
   .audio-slider {
     height: 32px; /* Larger touch area */
   }
-  
+
   .audio-slider::-webkit-slider-thumb {
     width: 20px;
     height: 20px;
   }
-  
+
   .audio-slider::-moz-range-thumb {
     width: 20px;
     height: 20px;
@@ -264,40 +292,21 @@
    Container and Layout Optimizations
    ========================================================================== */
 
-/* Enhanced container classes for better responsive behavior */
-.responsive-container {
-  width: 100%;
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-@media (min-width: 640px) {
-  .responsive-container {
-    padding: 0 1.5rem;
-  }
-}
-
-@media (min-width: 1024px) {
-  .responsive-container {
-    padding: 0 2rem;
-  }
-}
 
 /* Safe area handling for mobile devices with notches */
 @supports (padding-top: env(safe-area-inset-top)) {
   .safe-area-top {
     padding-top: env(safe-area-inset-top);
   }
-  
+
   .safe-area-bottom {
     padding-bottom: env(safe-area-inset-bottom);
   }
-  
+
   .safe-area-left {
     padding-left: env(safe-area-inset-left);
   }
-  
+
   .safe-area-right {
     padding-right: env(safe-area-inset-right);
   }
@@ -333,12 +342,12 @@
   * {
     will-change: auto;
   }
-  
+
   .hover-transform {
     transform: translateZ(0);
     backface-visibility: hidden;
   }
-  
+
   /* Reduce motion for users who prefer it */
   @media (prefers-reduced-motion: reduce) {
     *,
@@ -363,18 +372,18 @@
   .audio-player {
     display: none !important;
   }
-  
+
   body {
     font-size: 12pt;
     line-height: 1.4;
     color: black;
     background: white;
   }
-  
+
   .games-grid {
     display: block;
   }
-  
+
   .game-card {
     break-inside: avoid;
     margin-bottom: 1rem;

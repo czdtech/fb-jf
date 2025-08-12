@@ -5,6 +5,9 @@ export default {
     './src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}',
   ],
   prefix: "",
+  corePlugins: {
+    container: false, // Disable Tailwind's container plugin to use our custom one
+  },
   safelist: [
     // Ensure critical music theme classes are never purged
     'bg-primary',
@@ -17,13 +20,6 @@ export default {
     'game-card-hover'
   ],
   theme: {
-  	container: {
-  		center: true,
-  		padding: '2rem',
-  		screens: {
-  			'2xl': '1400px'
-  		}
-  	},
   	extend: {
   		colors: {
   			border: 'hsl(var(--border))',

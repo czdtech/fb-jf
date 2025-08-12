@@ -1,35 +1,86 @@
 ---
 import type { NavigationItem, Language } from '@/types';
-import { Button } from '@/components/ui/button';
+import { getCurrentLocale, getTranslation, type SupportedLocale } from '@/i18n/utils';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 import LanguageSelector from './LanguageSelector.astro';
+import MobileSheetNav from './MobileSheetNav';
 
 export interface Props {
-  navigation: NavigationItem[];
-  languages: Language[];
+  // 保持向后兼容的Props接口
+  navigation?: NavigationItem[];
+  languages?: Language[];
   currentLang?: string;
   currentPath?: string;
+  // 新增i18n支持
+  locale?: SupportedLocale;
 }
 
-const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.props;
+const { 
+  navigation: legacyNavigation, 
+  languages: legacyLanguages, 
+  currentLang: legacyCurrentLang, 
+  currentPath = '/',
+  locale 
+} = Astro.props;
+
+// 获取当前语言 - 优先使用新的i18n系统
+const currentLocale: SupportedLocale = locale || getCurrentLocale(Astro.url) || (legacyCurrentLang as SupportedLocale) || 'en';
+
+// 获取翻译内容
+const translation = await getTranslation(currentLocale);
+const uiText = translation.ui;
+
+// 生成导航链接 - 使用Astro i18n helpers
+const navigationItems = legacyNavigation || [
+  {
+    label: uiText?.navigation?.home || 'Home',
+    url: getRelativeLocaleUrl(currentLocale, '/'),
+  },
+  {
+    label: uiText?.navigation?.newGames || 'New Games', 
+    url: getRelativeLocaleUrl(currentLocale, '/new-games'),
+  },
+  {
+    label: uiText?.navigation?.popularGames || 'Popular Games',
+    url: getRelativeLocaleUrl(currentLocale, '/popular-games'),
+  },
+  {
+    label: uiText?.navigation?.trendingGames || 'Trending Games',
+    url: getRelativeLocaleUrl(currentLocale, '/trending-games'),
+  }
+];
 ---
 
-<header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 safe-area-top">
-  <div class="responsive-container flex h-16 min-h-[64px] items-center safe-area-left safe-area-right">
+<header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-sm safe-area-top">
+  <div class="responsive-container flex min-h-[64px] items-center py-2 safe-area-left safe-area-right">
     <!-- Logo with enhanced touch target -->
     <a href="/" class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
-      <span class="text-xl font-bold text-primary">FiddleBops</span>
+      <span
+        class="text-xl font-bold"
+        style="
+          background: var(--gradient-primary);
+          -webkit-background-clip: text;
+          background-clip: text;
+          color: transparent;
+          -webkit-text-fill-color: transparent;
+          display: inline-block;
+        "
+      >
+        FiddleBops
+      </span>
     </a>
-    
+
     <!-- Desktop Navigation using shadcn/ui NavigationMenu -->
-    <div class="hidden md:flex">
-      <nav class="flex items-center space-x-1">
-        {navigation.map((item) => (
-          <a 
-            href={item.url} 
-            class={`touch-target inline-flex h-10 min-h-[44px] w-max items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 ${
-              currentPath === item.url 
-                ? 'bg-accent text-accent-foreground font-semibold' 
-                : 'text-muted-foreground'
+    <div class="hidden md:flex md:flex-1 md:min-w-0 overflow-x-auto">
+      <nav class="flex flex-nowrap items-center gap-1 whitespace-nowrap">
+        {navigationItems.map((item) => (
+          <a
+            href={item.url}
+            aria-current={currentPath === item.url ? 'page' : undefined}
+            class={`touch-target inline-flex h-10 min-h-[44px] w-max items-center justify-center rounded-none px-4 py-2 text-sm font-medium border-b-2 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background ${
+              currentPath === item.url
+                ? 'text-foreground border-primary'
+                : 'text-muted-foreground border-transparent hover:text-foreground hover:border-primary/50'
             }`}
           >
             {item.label}
@@ -38,22 +89,20 @@ const { navigation, languages, currentLang = 'en', currentPath = '/' } = Astro.p
       </nav>
     </div>
 
-    <div class="flex flex-1 items-center justify-end space-x-4">
+    <div class="flex items-center justify-end space-x-3 shrink-0 ml-auto pl-2 relative z-10">
       <!-- Desktop Language Selector -->
       <div class="hidden md:flex">
-        <LanguageSelector currentPath={currentPath} />
+        <LanguageSelector currentPath={currentPath || '/'} />
+      </div>
+
+      <!-- Mobile: shadcn/ui Sheet Drawer -->
+      <div class="md:hidden">
+        <MobileSheetNav navigation={navigationItems} languages={legacyLanguages || []} currentPath={currentPath || '/'} client:only="react" />
       </div>
     </div>
   </div>
 </header>
 
-<!-- Mobile Navigation Sheet - DISABLED -->
-<!-- Since we removed the hamburger menu button, mobile navigation is disabled -->
-
-
-
 <script>
-// Mobile navigation functionality removed since hamburger menu button was deleted
-// Desktop navigation uses regular anchor links and requires no JavaScript
-console.log('Navigation component loaded - Mobile navigation disabled');
+// Desktop uses anchors; mobile uses shadcn/ui Sheet
 </script>

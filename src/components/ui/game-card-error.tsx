@@ -21,9 +21,9 @@ export function GameCardError({
   const getAspectClass = () => {
     switch (variant) {
       case 'featured':
-        return 'aspect-[4/3]'
+        return 'aspect-video'
       case 'compact':
-        return 'aspect-square'
+        return 'aspect-video'
       default:
         return 'aspect-video'
     }
@@ -48,11 +48,11 @@ export function GameCardError({
       <CardContent className="p-4 flex flex-col items-center justify-center space-y-4">
         {/* Error Icon */}
         <div className="w-12 h-12 rounded-full bg-destructive/10 flex items-center justify-center">
-          <svg 
-            className="w-6 h-6 text-destructive" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
+          <svg
+            className="w-6 h-6 text-destructive"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
             strokeWidth="2"
           >
             <circle cx="12" cy="12" r="10"/>
@@ -69,17 +69,17 @@ export function GameCardError({
 
         {/* Retry Button */}
         {showRetry && onRetry && (
-          <Button 
-            variant="outline" 
-            size="sm" 
+          <Button
+            variant="outline"
+            size="sm"
             onClick={onRetry}
             className="h-7 px-3 text-xs border-destructive/20 text-destructive hover:bg-destructive/10"
           >
-            <svg 
-              className="w-3 h-3 mr-1" 
-              viewBox="0 0 24 24" 
-              fill="none" 
-              stroke="currentColor" 
+            <svg
+              className="w-3 h-3 mr-1"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
               strokeWidth="2"
             >
               <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/>

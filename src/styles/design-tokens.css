@@ -135,7 +135,48 @@
   --ease-rhythm: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* Container compatibility - unified container system (1400px max-width) */
+/* ==========================================================================
+   Unified Container System
+   ========================================================================== */
+
+/* Base responsive container - 1400px max with responsive padding */
+.responsive-container {
+  width: 100%;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .responsive-container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .responsive-container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+/* Container size variants */
+.container-narrow {
+  max-width: 768px;
+}
+
+.container-standard {
+  max-width: 1200px;
+}
+
+.container-wide {
+  max-width: 1400px;
+}
+
+/* Legacy container support - maps to responsive-container with wide sizing */
 .container {
   width: 100%;
   max-width: 1400px;

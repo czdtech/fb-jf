@@ -1,39 +1,49 @@
 ---
+import { getCurrentLocale, getTranslation, type SupportedLocale } from '@/i18n/utils';
+
 export interface Props {
   className?: string;
+  locale?: SupportedLocale;
 }
 
-const { className = '' } = Astro.props;
+const { className = '', locale } = Astro.props;
+
+// 获取当前语言 - 优先使用传入的locale
+const currentLocale: SupportedLocale = locale || getCurrentLocale(Astro.url) || 'en';
+
+// 获取翻译内容
+const translation = await getTranslation(currentLocale);
+const uiText = translation.ui;
 ---
 
 <footer class={`footer safe-area-bottom ${className}`}>
-  <div class="responsive-container safe-area-left safe-area-right">
+  <div class="responsive-container container-standard safe-area-left safe-area-right">
     <div class="footer-content">
       <div class="footer-section">
         <h3>FiddleBops</h3>
-        <p>Create Music, Share Joy</p>
-        <p>Free Online Music Creation Platform</p>
+        <p>{uiText?.footer?.tagline || 'Create Music, Share Joy'}</p>
+        <p>{uiText?.footer?.description || 'Free Online Music Creation Platform'}</p>
       </div>
       
       <div class="footer-section">
-        <h3>Quick Links</h3>
+        <h3>{uiText?.footer?.quickLinks || 'Quick Links'}</h3>
         <ul class="footer-links">
-          <li><a href="/" class="touch-target">Home</a></li>
-          <li><a href="/games/" class="touch-target">All Games</a></li>
-          <li><a href="/about/" class="touch-target">About Us</a></li>
+          <li><a href={currentLocale === 'en' ? '/' : `/${currentLocale}/`} class="touch-target">{uiText?.navigation?.home || 'Home'}</a></li>
+          <li><a href={currentLocale === 'en' ? '/games/' : `/${currentLocale}/games/`} class="touch-target">{uiText?.navigation?.games || 'Games'}</a></li>
+          <li><a href={currentLocale === 'en' ? '/about/' : `/${currentLocale}/about/`} class="touch-target">{uiText?.navigation?.aboutUs || 'About Us'}</a></li>
         </ul>
       </div>
       
       <div class="footer-section">
-        <h3>Legal</h3>
+        <h3>{uiText?.footer?.legal || 'Legal'}</h3>
         <ul class="footer-links">
-          <li><a href="/privacy/" class="touch-target">Privacy Policy</a></li>
-          <li><a href="/terms-of-service/" class="touch-target">Terms of Service</a></li>
+          <li><a href={currentLocale === 'en' ? '/privacy/' : `/${currentLocale}/privacy/`} class="touch-target">{uiText?.footer?.privacy || 'Privacy Policy'}</a></li>
+          <li><a href={currentLocale === 'en' ? '/terms-of-service/' : `/${currentLocale}/terms-of-service/`} class="touch-target">{uiText?.footer?.terms || 'Terms of Service'}</a></li>
         </ul>
       </div>
       
       <div class="footer-section">
-        <h3>Contact Us</h3>
+        <h3>{uiText?.footer?.contactUs || 'Contact Us'}</h3>
         <p>Email: chongzhidatech@gmail.com</p>
         <div class="footer-social">
           <a href="#" class="social-link touch-target" aria-label="Social Media">
@@ -44,7 +54,7 @@ const { className = '' } = Astro.props;
     </div>
     
     <div class="footer-bottom">
-      <p>© 2025 FiddleBops. All rights reserved.</p>
+      <p>{uiText?.footer?.copyright || '© 2025 FiddleBops. All rights reserved.'}</p>
     </div>
   </div>
 </footer>
@@ -99,19 +109,6 @@ const { className = '' } = Astro.props;
   z-index: 0;
 }
 
-.footer .responsive-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 16px;
-  position: relative;
-  z-index: 1;
-}
-
-@media (min-width: 640px) {
-  .footer .responsive-container {
-    padding: 0 24px;
-  }
-}
 
 .footer-content {
   display: grid;

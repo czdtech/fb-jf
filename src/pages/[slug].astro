@@ -8,56 +8,92 @@ import GameHero from '@/components/GameHero.astro'
 import GameGrid from '@/components/GameGrid.astro'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
-import AudioPlayer from '@/components/AudioPlayer.astro'
+import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 
-// 导入数据
+// 导入数据和工具
 import extractedData from '@/data/extracted-data.json'
-const { navigation } = extractedData
+import { generateGameHreflangLinks } from '@/utils/hreflang'
+import { generateEnglishGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
+import type { ExtractedData } from '@/types/game'
+
+const { navigation } = extractedData as ExtractedData
+
+// 基础站点域名（统一 canonical 基准域，去除末尾斜杠）
+const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '')
 
 export async function getStaticPaths() {
-  const allGames = await getCollection('games');
-  return allGames.map(game => ({
-    params: { slug: game.slug },
-    props: { game },
-  }));
+  return await generateEnglishGamePaths();
 }
 
-const { game } = Astro.props;
-const { Content } = await game.render();
-const gameData = { ...game.data, slug: game.slug };
-const extendedData = gameData as any;
+const { game: initialGame, locale } = Astro.props as { 
+  game: CollectionEntry<'games'>; 
+  locale: string 
+};
 
-// Fetch and prepare related games
+// 使用 props 中的 locale 作为优先选择，然后才是 URL 检测
+const currentPath = Astro.url.pathname;
+const currentLocale = locale || Astro.currentLocale || extractLocaleFromPath(currentPath);
+const slug = Astro.params.slug as string;
+
+console.log(`[DEBUG] [slug].astro - URL: ${currentPath}, Props locale: ${locale}, Astro.currentLocale: ${Astro.currentLocale}, final locale: ${currentLocale}`);
+
+// 加载适当的游戏内容
+const game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
+
+console.log(`[DEBUG] Final game loaded:`, {
+  slug,
+  currentLocale,
+  gameId: game.id,
+  title: game.data.title
+});
+const { Content } = await game.render();
+const gameData = { ...(game.data), slug: game.slug };
+const extendedData = gameData;
+
+// Fetch and prepare related games - 优先显示当前语言的游戏
 const allGames = await getCollection('games');
 const relatedGames = allGames
-  .filter(g => g.data.category === gameData.category && g.slug !== gameData.slug)
+  .filter((g: CollectionEntry<'games'>) => {
+    // 同类别且非当前游戏
+    if (g.data.category !== gameData.category || g.id === game.id) {
+      return false;
+    }
+    // 优先显示当前语言的游戏
+    const gameId = g.id.replace(/\.md$/, '');
+    return gameId.startsWith(`${currentLocale}/`);
+  })
   .slice(0, 4)
-  .map(g => ({ slug: g.slug, ...g.data }));
+  .map((g: CollectionEntry<'games'>) => ({ slug: g.slug, ...g.data }));
 
-// 多语言配置
-const hreflangLinks =
-  navigation?.languages?.map(lang => ({
-    code: lang.code === 'en' ? 'x-default' : lang.code,
-    url: `/${gameData.slug}/${lang.code !== 'en' ? lang.url.replace('/', '') + '/' : ''}`,
-    label: lang.label,
-  })) || []
+// 统一的hreflang生成 - 仅为存在翻译的语言生成链接
+const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], gameData.slug)
 
-// SEO配置 - 安全处理
+// 规范化 ogImage（确保绝对URL）
+const rawOgImage = extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || '/tw.jpg'
+const normalizedOgImage = rawOgImage?.startsWith('http') ? rawOgImage : `${SITE_URL}${rawOgImage.startsWith('/') ? '' : '/'}${rawOgImage}`
+
+// SEO配置 - 多语言支持的 canonical URL
+const canonicalPath = getGameLocalizedPath(gameData.slug, currentLocale);
 const meta = {
   title: extendedData.seo?.title || gameData.meta?.title || `${gameData.title} - Play ${gameData.title} Online | FiddleBops`,
   description: extendedData.seo?.description || gameData.meta?.description || `Play ${gameData.title} online for free! ${gameData.description || 'Experience this amazing music creation game.'}`,
   keywords: extendedData.seo?.keywords || gameData.title,
-  canonical: extendedData.seo?.canonical || gameData.meta?.canonical || `https://www.playfiddlebops.com/${gameData.slug}/`,
-  ogImage: extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || 'https://www.playfiddlebops.com/tw.jpg',
+  canonical: `${SITE_URL}${canonicalPath}`,
+  ogImage: normalizedOgImage,
 }
 
-// 增强的结构化数据
-const structuredData = {
-  '@context': 'https://schema.org',
-  '@type': 'Game',
+// 增强的结构化数据（@graph：VideoGame/SoftwareApplication + BreadcrumbList）
+// AURA-X: Modify - C-1 实施。Confirmed via 寸止。
+const gameTypeNode = {
+  '@type': 'VideoGame',
   name: gameData.title,
   description: meta.description,
   url: meta.canonical,
+  image: gameData.image ? (gameData.image.startsWith('http') ? gameData.image : `${SITE_URL}${gameData.image}`) : undefined,
+  screenshot: gameData.image ? (gameData.image.startsWith('http') ? gameData.image : `${SITE_URL}${gameData.image}`) : undefined,
+  genre: gameData.category ? [String(gameData.category)] : undefined,
+  applicationCategory: 'Game',
+  operatingSystem: 'Web',
   ...(extendedData.rating && {
     aggregateRating: {
       '@type': 'AggregateRating',
@@ -66,8 +102,51 @@ const structuredData = {
       ratingCount: extendedData.rating.votes,
     },
   }),
-  ...(extendedData.seo?.schema || {}),
+  potentialAction: gameData.iframe
+    ? {
+        '@type': 'PlayAction',
+        target: gameData.iframe,
+      }
+    : undefined,
+};
+
+// 若缺关键字段时退化为 SoftwareApplication（保底）
+if (!gameData.image && gameTypeNode['@type'] === 'VideoGame') {
+  gameTypeNode['@type'] = 'SoftwareApplication';
 }
+
+const breadcrumbNode = {
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: `${SITE_URL}/`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Games',
+      item: `${SITE_URL}/games/`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      name: gameData.title,
+      item: meta.canonical,
+    },
+  ],
+};
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    gameTypeNode,
+    breadcrumbNode,
+    ...(extendedData.seo?.schema ? [extendedData.seo.schema] : []),
+  ],
+};
 
 // 默认游戏特色
 const defaultFeatures = [
@@ -94,20 +173,20 @@ const defaultSteps = [
   <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
-    currentLang="en"
-    currentPath={`/${gameData.slug}/`}
+    currentLang={currentLocale}
+    currentPath={canonicalPath}
   />
 
   <!-- 游戏Hero区域 -->
-  <GameHero 
+  <GameHero
     game={gameData}
     rating={extendedData.rating}
     pageType={extendedData.pageType}
   />
 
   <main class="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
-    <div class="container mx-auto px-4 py-12 max-w-7xl">
-      
+    <div class="responsive-container container-standard py-12">
+
       <!-- 游戏特色区域 -->
       <section class="mb-16">
         <div class="text-center mb-12">
@@ -121,7 +200,7 @@ const defaultSteps = [
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {(extendedData.features || defaultFeatures).map((feature, index) => (
+          {(extendedData.features || defaultFeatures).map((feature: any, index: number) => (
             <Card className="h-full hover:shadow-lg transition-shadow duration-300">
               <CardContent className="p-6 text-center">
                 <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
@@ -152,7 +231,7 @@ const defaultSteps = [
         <Card className="max-w-4xl mx-auto">
           <CardContent className="p-8">
             <div class="space-y-6">
-              {(extendedData.howToPlay || defaultSteps).map((step, index) => (
+              {(extendedData.howToPlay || defaultSteps).map((step: any, index: number) => (
                 <div class="flex gap-6 items-start">
                   <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
                     {index + 1}
@@ -179,23 +258,23 @@ const defaultSteps = [
               Take a look at the gameplay experience
             </p>
           </div>
-          
+
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
-            {(extendedData.screenshots || extendedData.gallery || [gameData.image]).map((screenshot, index) => (
+            {(extendedData.screenshots || extendedData.gallery || [gameData.image]).map((screenshot: any, index: number) => (
               <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 group">
                 <CardContent className="p-0">
                   <div class="relative aspect-video overflow-hidden">
-                    <img 
+                    <img
                       src={typeof screenshot === 'string' ? screenshot : screenshot.url || gameData.image}
                       alt={`${gameData.title} screenshot ${index + 1}`}
-                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                       loading="lazy"
                     />
                     <div class="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                     <div class="absolute bottom-4 left-4 right-4 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                       <p class="text-sm font-medium">
-                        {typeof screenshot === 'object' && screenshot.caption 
-                          ? screenshot.caption 
+                        {typeof screenshot === 'object' && screenshot.caption
+                          ? screenshot.caption
                           : `${gameData.title} - Screenshot ${index + 1}`
                         }
                       </p>
@@ -218,9 +297,9 @@ const defaultSteps = [
               Experience the immersive soundtrack
             </p>
           </div>
-          
+
           <div class="max-w-2xl mx-auto">
-            <AudioPlayer 
+            <AudioPlayer
               audioSrc={extendedData.audio}
               title={`${gameData.title} - Game Music`}
               className="shadow-lg"
@@ -271,7 +350,7 @@ const defaultSteps = [
               Continue your musical journey
             </p>
           </div>
-          
+
           <GameGrid games={relatedGames} variant="featured" showTitle={false} />
         </section>
       )}
@@ -286,23 +365,23 @@ const defaultSteps = [
   .prose :global(ul) {
     @apply list-none p-0 my-6 flex flex-col gap-3;
   }
-  
+
   .prose :global(ul li) {
     @apply bg-gradient-to-r from-purple-50 to-white border border-purple-200 rounded-lg p-4 transition-all duration-300 hover:shadow-md hover:border-purple-300 hover:bg-gradient-to-r hover:from-purple-100 hover:to-white;
   }
-  
+
   .prose :global(strong) {
     @apply font-bold text-purple-700 bg-purple-50 px-2 py-1 rounded border border-purple-200;
   }
-  
+
   .prose :global(h2) {
     @apply text-2xl font-bold text-gray-900 my-6 flex items-center border-l-4 border-purple-600 pl-4;
   }
-  
+
   .prose :global(p) {
     @apply mb-4 text-gray-700 text-lg leading-relaxed;
   }
-  
+
   .prose :global(p:first-of-type) {
     @apply text-xl font-medium text-gray-800;
   }

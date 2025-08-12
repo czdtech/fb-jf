@@ -1,0 +1,406 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import GameRating from '@/components/GameRating.astro'
+import GameHero from '@/components/GameHero.astro'
+import GameGrid from '@/components/GameGrid.astro'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { Badge } from '@/components/ui/badge'
+import AudioPlayer from '@/components/audio/AudioPlayer.astro'
+
+// 导入数据和工具
+import extractedData from '@/data/extracted-data.json'
+import { generateGameHreflangLinks } from '@/utils/hreflang'
+import { generateLocalizedGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
+import type { ExtractedData } from '@/types/game'
+
+const { navigation } = extractedData as ExtractedData
+
+// 基础站点域名（统一 canonical 基准域，去除末尾斜杠）
+const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '')
+
+export async function getStaticPaths() {
+  return await generateLocalizedGamePaths('ko');
+}
+
+const { game: initialGame, locale } = Astro.props as {
+  game: CollectionEntry<'games'>;
+  locale: string
+};
+
+// 使用韩语 locale
+const currentPath = Astro.url.pathname;
+const currentLocale = 'ko';
+const slug = Astro.params.slug as string;
+
+console.log(`[DEBUG] [ko/slug].astro - URL: ${currentPath}, Props locale: ${locale}, final locale: ${currentLocale}`);
+
+// 加载适当的游戏内容
+const game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
+
+console.log(`[DEBUG] Korean game loaded:`, {
+  slug,
+  currentLocale,
+  gameId: game.id,
+  title: game.data.title
+});
+const { Content } = await game.render();
+const gameData = { ...(game.data), slug: game.slug };
+const extendedData = gameData;
+
+// Fetch and prepare related games - 优先显示当前语言的游戏
+const allGames = await getCollection('games');
+const relatedGames = allGames
+  .filter((g: CollectionEntry<'games'>) => {
+    // 同类别且非当前游戏
+    if (g.data.category !== gameData.category || g.id === game.id) {
+      return false;
+    }
+    // 优先显示当前语言的游戏
+    const gameId = g.id.replace(/\.md$/, '');
+    return gameId.startsWith(`${currentLocale}/`);
+  })
+  .slice(0, 4)
+  .map((g: CollectionEntry<'games'>) => ({ slug: g.slug, ...g.data }));
+
+// 统一的hreflang生成 - 仅为存在翻译的语言生成链接
+const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], gameData.slug)
+
+// 规范化 ogImage（确保绝对URL）
+const rawOgImage = extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || '/tw.jpg'
+const normalizedOgImage = rawOgImage?.startsWith('http') ? rawOgImage : `${SITE_URL}${rawOgImage.startsWith('/') ? '' : '/'}${rawOgImage}`
+
+// SEO配置 - 多语言支持的 canonical URL（基础本地化文案）
+const canonicalPath = getGameLocalizedPath(gameData.slug, currentLocale);
+const meta = {
+  // {{ AURA-X: Modify - 本地化标题/描述/关键词，仅限基础文案。Confirmed via 寸止 }}
+  title: extendedData.seo?.title || gameData.meta?.title || `${gameData.title} - 온라인으로 ${gameData.title} 즐기기 | FiddleBops`,
+  description: extendedData.seo?.description || gameData.meta?.description || `${gameData.title}를 무료로 온라인에서 플레이하세요! ${gameData.description || '놀라운 음악 제작 게임을 경험해 보세요.'}`,
+  keywords: extendedData.seo?.keywords || `${gameData.title}, ${gameData.title} 온라인`,
+  canonical: `${SITE_URL}${canonicalPath}`,
+  ogImage: normalizedOgImage,
+}
+
+// 结构化数据（@graph：VideoGame/SoftwareApplication + BreadcrumbList）
+const gameTypeNode = {
+  '@type': 'VideoGame',
+  name: gameData.title,
+  description: meta.description,
+  url: meta.canonical,
+  image: gameData.image ? (gameData.image.startsWith('http') ? gameData.image : `${SITE_URL}${gameData.image}`) : undefined,
+  screenshot: gameData.image ? (gameData.image.startsWith('http') ? gameData.image : `${SITE_URL}${gameData.image}`) : undefined,
+  genre: gameData.category ? [String(gameData.category)] : undefined,
+  applicationCategory: 'Game',
+  operatingSystem: 'Web',
+  ...(extendedData.rating && {
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: extendedData.rating.score,
+      bestRating: extendedData.rating.maxScore,
+      ratingCount: extendedData.rating.votes,
+    },
+  }),
+  potentialAction: gameData.iframe
+    ? {
+        '@type': 'PlayAction',
+        target: gameData.iframe,
+      }
+    : undefined,
+};
+
+// 若缺关键字段时退化为 SoftwareApplication（保底）
+if (!gameData.image && gameTypeNode['@type'] === 'VideoGame') {
+  gameTypeNode['@type'] = 'SoftwareApplication';
+}
+
+const breadcrumbNode = {
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: '홈',
+      item: `${SITE_URL}/ko/`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: '게임',
+      item: `${SITE_URL}/ko/games/`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      name: gameData.title,
+      item: meta.canonical,
+    },
+  ],
+};
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    gameTypeNode,
+    breadcrumbNode,
+    ...(extendedData.seo?.schema ? [extendedData.seo.schema] : []),
+  ],
+};
+---
+
+<BaseLayout
+  meta={meta}
+  hreflang={hreflangLinks}
+  structuredData={structuredData}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang={currentLocale}
+    currentPath={canonicalPath}
+  />
+
+  <!-- 游戏Hero区域 -->
+  <GameHero
+    game={gameData}
+    rating={extendedData.rating}
+    pageType={extendedData.pageType}
+  />
+
+  <main class="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
+    <div class="responsive-container container-standard py-12">
+
+      <!-- 游戏特色区域（保持英文结构，减少非必要本地化） -->
+      <section class="mb-16">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+            <span class="text-purple-600">✨</span>
+            Game Features
+          </h2>
+          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+            Discover what makes this game special
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {(extendedData.features || [
+            { icon: '🎵', title: 'Rich Music Creation', description: 'Create unique musical compositions with diverse sound elements' },
+            { icon: '🎭', title: 'Character Variety', description: 'Choose from a wide range of animated characters, each with unique sounds' },
+            { icon: '🔄', title: 'Creative Freedom', description: 'Unlimited possibilities for mixing and matching sounds' },
+            { icon: '💫', title: 'Visual Effects', description: 'Stunning animations and effects that react to your music' }
+          ]).map((feature: any, index: number) => (
+            <Card className="h-full hover:shadow-lg transition-shadow duration-300">
+              <CardContent className="p-6 text-center">
+                <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
+                <h3 class="text-lg font-semibold text-gray-900 mb-2">
+                  {typeof feature === 'string' ? feature : feature.title}
+                </h3>
+                {typeof feature !== 'string' && feature.description && (
+                  <p class="text-gray-600 text-sm">{feature.description}</p>
+                )}
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      <!-- 游戏玩法区域 -->
+      <section class="mb-16">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+            <span class="text-purple-600">🎮</span>
+            How to Play
+          </h2>
+          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+            Master the art of music creation
+          </p>
+        </div>
+
+        <Card className="max-w-4xl mx-auto">
+          <CardContent className="p-8">
+            <div class="space-y-6">
+              {(extendedData.howToPlay || [
+                'Choose your favorite characters from the selection',
+                'Drag and drop them onto the stage to start creating',
+                'Experiment with different combinations to find your perfect mix',
+                'Save and share your musical masterpiece with friends'
+              ]).map((step: any, index: number) => (
+                <div class="flex gap-6 items-start">
+                  <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
+                    {index + 1}
+                  </div>
+                  <div class="flex-grow pt-2">
+                    <p class="text-gray-700 text-lg">{typeof step === 'string' ? step : step.title || step.description}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </CardContent>
+        </Card>
+      </section>
+
+      <!-- 游戏截图/媒体预览区域 -->
+      {(extendedData.screenshots || extendedData.gallery) && (
+        <section class="mb-16">
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">📸</span>
+              Game Screenshots
+            </h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+              Take a look at the gameplay experience
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+            {(extendedData.screenshots || extendedData.gallery || [gameData.image]).map((screenshot: any, index: number) => (
+              <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 group">
+                <CardContent className="p-0">
+                  <div class="relative aspect-video overflow-hidden">
+                    <img
+                      src={typeof screenshot === 'string' ? screenshot : screenshot.url || gameData.image}
+                      alt={`${gameData.title} screenshot ${index + 1}`}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      loading="lazy"
+                    />
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="absolute bottom-4 left-4 right-4 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                      <p class="text-sm font-medium">
+                        {typeof screenshot === 'object' && screenshot.caption
+                          ? screenshot.caption
+                          : `${gameData.title} - Screenshot ${index + 1}`
+                        }
+                      </p>
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </section>
+      )}
+      {extendedData.audio && (
+        <section class="mb-16">
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">🎵</span>
+              Game Music Preview
+            </h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+              Experience the immersive soundtrack
+            </p>
+          </div>
+
+          <div class="max-w-2xl mx-auto">
+            <AudioPlayer
+              audioSrc={extendedData.audio}
+              title={`${gameData.title} - Game Music`}
+              className="shadow-lg"
+            />
+          </div>
+        </section>
+      )}
+
+      <!-- 详细内容区域 -->
+      <section class="mb-16">
+        <Card className="max-w-4xl mx-auto shadow-lg">
+          <CardHeader className="bg-gradient-to-r from-purple-50 to-pink-50 border-b">
+            <div class="flex items-center gap-4">
+              <div class="text-purple-600 text-3xl">📖</div>
+              <CardTitle className="text-3xl text-gray-900">About {gameData.title}</CardTitle>
+            </div>
+            <div class="flex items-center gap-2 mt-4">
+              <Badge variant="secondary" className="bg-purple-100 text-purple-700 hover:bg-purple-200">
+                {gameData.category}
+              </Badge>
+              {extendedData.rating && (
+                <div class="flex items-center gap-1 text-yellow-500">
+                  {Array.from({ length: 5 }, (_, i) => (
+                    <span class={`text-lg ${i < Math.floor(extendedData.rating.score) ? 'text-yellow-400' : 'text-gray-300'}`}>
+                      ⭐
+                    </span>
+                  ))}
+                  <span class="text-sm text-gray-600 ml-2">({extendedData.rating.votes} reviews)</span>
+                </div>
+              )}
+            </div>
+          </CardHeader>
+          <CardContent className="prose prose-lg max-w-none p-8">
+            <Content />
+          </CardContent>
+        </Card>
+      </section>
+
+      <!-- 相关游戏区域 -->
+      {relatedGames.length > 0 && (
+        <section>
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">🎯</span>
+              More Games Like This
+            </h2>
+            <p class="text-xl text-gray-600">
+              Continue your musical journey
+            </p>
+          </div>
+
+          <GameGrid games={relatedGames} variant="featured" showTitle={false} />
+        </section>
+      )}
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* Prose styling for markdown content */
+  .prose :global(ul) {
+    @apply list-none p-0 my-6 flex flex-col gap-3;
+  }
+
+  .prose :global(ul li) {
+    @apply bg-gradient-to-r from-purple-50 to-white border border-purple-200 rounded-lg p-4 transition-all duration-300 hover:shadow-md hover:border-purple-300 hover:bg-gradient-to-r hover:from-purple-100 hover:to-white;
+  }
+
+  .prose :global(strong) {
+    @apply font-bold text-purple-700 bg-purple-50 px-2 py-1 rounded border-purple-200;
+  }
+
+  .prose :global(h2) {
+    @apply text-2xl font-bold text-gray-900 my-6 flex items-center border-l-4 border-purple-600 pl-4;
+  }
+
+  .prose :global(p) {
+    @apply mb-4 text-gray-700 text-lg leading-relaxed;
+  }
+
+  .prose :global(p:first-of-type) {
+    @apply text-xl font-medium text-gray-800;
+  }
+
+  .prose :global(h3) {
+    @apply text-xl font-semibold text-gray-800 mt-6 mb-3;
+  }
+
+  .prose :global(h4) {
+    @apply text-lg font-medium text-gray-800 mt-4 mb-2;
+  }
+
+  .prose :global(blockquote) {
+    @apply border-l-4 border-blue-500 bg-blue-50 p-4 my-6 rounded-r-lg italic text-gray-700;
+  }
+
+  .prose :global(code) {
+    @apply bg-gray-100 text-gray-800 px-2 py-1 rounded font-mono text-sm;
+  }
+
+  .prose :global(pre) {
+    @apply bg-gray-900 text-gray-100 p-6 rounded-lg overflow-x-auto my-6;
+  }
+
+  .prose :global(pre code) {
+    @apply bg-transparent p-0 text-gray-100;
+  }
+</style>

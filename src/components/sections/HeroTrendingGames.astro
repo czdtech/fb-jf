@@ -17,13 +17,13 @@ import GameCard from '@/components/GameCard.astro'
   </div>
 
   <div class="hero-trending__container">
-    <div class="game-grid game-grid--featured">
+    <div class="grid gap-4 md:gap-5 lg:gap-6 xl:gap-8 grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
       {
         games.slice(0, 8).map((game: any, index: number) => (
           <div
             class={`game-grid-item scroll-animate music-element hero-music-delay-${index + musicDelayStart}`}
           >
-            <GameCard game={game} variant="trending" />
+            <GameCard game={game} variant="grid" />
           </div>
         ))
       }

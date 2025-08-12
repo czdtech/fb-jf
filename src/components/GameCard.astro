@@ -2,6 +2,8 @@
 import type { Game } from '@/types'
 import { GameCardError } from '@/components/ui'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
+import { Image } from 'astro:assets';
+import ResponsivePicture from '@/components/ResponsivePicture.astro';
 
 export interface Props {
   game: Game
@@ -65,7 +67,7 @@ const formatCategory = (category: string): string => {
 
 {hasError ? (
   <!-- 显示错误状态的卡片 -->
-  <div 
+  <div
     class="group rounded-lg border bg-card text-card-foreground shadow-sm border-destructive/50 bg-destructive/5 min-h-[280px] flex flex-col justify-center"
     role="alert"
     aria-labelledby="game-error-title"
@@ -74,11 +76,11 @@ const formatCategory = (category: string): string => {
     <div class="p-4 flex flex-col items-center justify-center space-y-4">
       <!-- Error Icon -->
       <div class="w-12 h-12 rounded-full bg-destructive/10 flex items-center justify-center" aria-hidden="true">
-        <svg 
-          class="w-6 h-6 text-destructive" 
-          viewBox="0 0 24 24" 
-          fill="none" 
-          stroke="currentColor" 
+        <svg
+          class="w-6 h-6 text-destructive"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
           stroke-width="2"
         >
           <circle cx="12" cy="12" r="10"/>
@@ -94,17 +96,17 @@ const formatCategory = (category: string): string => {
       </div>
 
       <!-- Retry Button -->
-      <button 
+      <button
         type="button"
         class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium border border-destructive/20 text-destructive hover:bg-destructive/10 focus:bg-destructive/10 h-7 px-3 text-xs transition-colors focus:ring-2 focus:ring-destructive focus:ring-offset-2"
         onclick="window.location.reload()"
         aria-label="重新加载游戏信息"
       >
-        <svg 
-          class="w-3 h-3 mr-1" 
-          viewBox="0 0 24 24" 
-          fill="none" 
-          stroke="currentColor" 
+        <svg
+          class="w-3 h-3 mr-1"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
           stroke-width="2"
           aria-hidden="true"
         >
@@ -122,17 +124,20 @@ const formatCategory = (category: string): string => {
 <!-- Grid variant (default) -->
 {variant === 'grid' && (
   <article role="article" aria-labelledby={`game-title-${game.id}`}>
-    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2">
-      <CardContent className="p-0">
+    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2 h-full flex flex-col">
+      <CardContent className="p-0 flex-1 flex flex-col">
         <div class="aspect-video relative overflow-hidden">
-          <img 
-            src={game.image} 
+          <ResponsivePicture
+            src={game.image}
             alt={`${game.title} - ${getGameDescription(game.description)}`}
-            class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" 
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+            width={400}
+            height={225}
             loading="lazy"
+            decoding="async"
           />
           <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-            <a 
+            <a
               href={gameUrl}
               class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 focus:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
               aria-label={`Play ${game.title} now`}
@@ -144,26 +149,26 @@ const formatCategory = (category: string): string => {
             </a>
           </div>
         </div>
-        <div class="p-4 space-y-3">
-          <CardTitle 
+        <div class="p-4 space-y-3 min-h-[120px] flex flex-col">
+          <CardTitle
             className="text-lg font-semibold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors"
             id={`game-title-${game.id}`}
           >
             {game.title}
           </CardTitle>
-          <CardDescription className="text-sm line-clamp-2">
+          <CardDescription className="text-sm line-clamp-2 text-muted-foreground">
             {getGameDescription(game.description)}
           </CardDescription>
-          <div class="flex items-center justify-between">
-            <span 
-              class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20"
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3 min-w-0">
+            <span
+              class="inline-flex items-center rounded-full border px-2 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20 whitespace-nowrap shrink-0"
               aria-label={`Category: ${formatCategory(game.category)}`}
             >
               {formatCategory(game.category)}
             </span>
-            <a 
+            <a
               href={gameUrl}
-              class="text-primary hover:text-primary/80 focus:text-primary/80 text-sm font-medium transition-colors focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded"
+              class="inline-flex items-center min-h-[36px] sm:min-h-[44px] text-primary hover:text-primary/80 focus:text-primary/80 text-sm font-medium transition-colors focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded px-2 whitespace-nowrap shrink-0"
               aria-describedby={`game-title-${game.id}`}
             >
               Learn More →
@@ -175,184 +180,239 @@ const formatCategory = (category: string): string => {
   </article>
 )}
 
-<!-- Featured variant -->
+<!-- Featured variant (unified structure) -->
 {variant === 'featured' && (
-  <article role="article" aria-labelledby={`featured-game-title-${game.id}`} class="featured-game">
-    <Card className="group hover:shadow-xl transition-all duration-300 hover:-translate-y-2 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2">
-      <CardContent className="p-0">
-        <div class="aspect-[4/3] relative overflow-hidden">
-          <img 
-            src={game.image} 
-            alt={`Featured game: ${game.title} - ${getGameDescription(game.description)}`}
-            class="object-cover w-full h-full transition-transform duration-700 group-hover:scale-110" 
+  <article role="article" aria-labelledby={`game-title-${game.id}`}>
+    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2 h-full flex flex-col">
+      <CardContent className="p-0 flex-1 flex flex-col">
+        <div class="aspect-video relative overflow-hidden">
+          <ResponsivePicture
+            src={game.image}
+            alt={`${game.title} - ${getGameDescription(game.description)}`}
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+            width={500}
+            height={281}
             loading="lazy"
+            decoding="async"
           />
-          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-60 group-hover:opacity-80 transition-opacity duration-300"></div>
           <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-            <a 
+            <a
               href={gameUrl}
-              class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 focus:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 scale-110 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
-              aria-label={`Play featured game ${game.title}`}
+              class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 focus:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
+              aria-label={`Play ${game.title} now`}
             >
-              <svg class="w-8 h-8 mr-3" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <svg class="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M8 5v14l11-7z"/>
               </svg>
-              Play Game
+              Play Now
             </a>
           </div>
-          <span 
-            class="absolute top-4 left-4 inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary text-primary-foreground hover:bg-primary/80 shadow-lg"
-            aria-label={`Featured in category: ${formatCategory(game.category)}`}
-          >
-            {formatCategory(game.category)}
-          </span>
         </div>
-        <CardHeader className="p-6">
-          <CardTitle 
-            className="text-xl font-bold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors"
-            id={`featured-game-title-${game.id}`}
+        <div class="p-4 space-y-3 min-h-[120px] flex flex-col">
+          <CardTitle
+            className="text-lg font-semibold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors"
+            id={`game-title-${game.id}`}
           >
             {game.title}
           </CardTitle>
-          <CardDescription className="line-clamp-3">
+          <CardDescription className="text-sm line-clamp-2 text-muted-foreground">
             {getGameDescription(game.description)}
           </CardDescription>
-          <a 
-            href={gameUrl}
-            class="inline-flex items-center text-primary hover:text-primary/80 focus:text-primary/80 font-medium transition-colors pt-2 focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded"
-            aria-describedby={`featured-game-title-${game.id}`}
-          >
-            Play Now 
-            <svg class="w-4 h-4 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-              <path d="M5 12h14M12 5l7 7-7 7"/>
-            </svg>
-          </a>
-        </CardHeader>
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3 min-w-0">
+            <span
+              class="inline-flex items-center rounded-full border px-2 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20 whitespace-nowrap shrink-0"
+              aria-label={`Category: ${formatCategory(game.category)}`}
+            >
+              {formatCategory(game.category)}
+            </span>
+            <a
+              href={gameUrl}
+              class="inline-flex items-center min-h-[36px] sm:min-h-[44px] text-primary hover:text-primary/80 focus:text-primary/80 text-sm font-medium transition-colors focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded px-2 whitespace-nowrap shrink-0"
+              aria-describedby={`game-title-${game.id}`}
+            >
+              Learn More →
+            </a>
+          </div>
+        </div>
       </CardContent>
     </Card>
   </article>
 )}
 
-<!-- Sidebar variant -->
+<!-- Sidebar variant (unified structure) -->
 {variant === 'sidebar' && (
-  <article role="article" aria-labelledby={`sidebar-game-title-${game.id}`}>
-    <a 
-      href={gameUrl} 
-      class="block focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded-lg"
-      aria-describedby={`sidebar-game-desc-${game.id}`}
-    >
-      <Card className="group hover:shadow-md transition-all duration-200 hover:scale-[1.02] overflow-hidden">
-        <CardContent className="p-0">
-          <div class="aspect-video relative overflow-hidden">
-            <img 
-              src={game.image} 
-              alt={`Sidebar preview: ${game.title}`}
-              class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105" 
-              loading="lazy"
-            />
-            <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-            <div class="absolute bottom-0 left-0 right-0 p-3">
-              <CardTitle 
-                className="text-white font-semibold text-sm line-clamp-2"
-                id={`sidebar-game-title-${game.id}`}
-              >
-                {game.title}
-              </CardTitle>
-              <span 
-                class="sr-only"
-                id={`sidebar-game-desc-${game.id}`}
-              >
-                {getGameDescription(game.description)}
-              </span>
-            </div>
-          </div>
-        </CardContent>
-      </Card>
-    </a>
-  </article>
-)}
-
-<!-- Trending variant -->
-{variant === 'trending' && (
-  <article role="article" aria-labelledby={`trending-game-title-${game.id}`}>
-    <a 
-      href={gameUrl} 
-      class="block focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded-lg"
-      aria-describedby={`trending-game-desc-${game.id}`}
-    >
-      <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden">
-        <CardContent className="p-0">
-          <div class="aspect-video relative overflow-hidden">
-            <img 
-              src={game.image} 
-              alt={`Trending game: ${game.title}`}
-              class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" 
-              loading="lazy"
-            />
-            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
-            <span 
-              class="absolute top-3 right-3 inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors border-transparent bg-red-500 text-white shadow-lg animate-pulse"
-              aria-label="Currently trending game"
+  <article role="article" aria-labelledby={`game-title-${game.id}`}>
+    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2 h-full flex flex-col">
+      <CardContent className="p-0 flex-1 flex flex-col">
+        <div class="aspect-video relative overflow-hidden">
+          <ResponsivePicture
+            src={game.image}
+            alt={`${game.title} - ${getGameDescription(game.description)}`}
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+            width={300}
+            height={169}
+            loading="lazy"
+            decoding="async"
+          />
+          <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+            <a
+              href={gameUrl}
+              class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 focus:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
+              aria-label={`Play ${game.title} now`}
             >
-              Trending
-            </span>
-            <div class="absolute bottom-0 left-0 right-0 p-4">
-              <CardTitle 
-                className="text-white font-bold text-base line-clamp-2 group-hover:text-primary-foreground transition-colors"
-                id={`trending-game-title-${game.id}`}
-              >
-                {game.title}
-              </CardTitle>
-              <span 
-                class="sr-only"
-                id={`trending-game-desc-${game.id}`}
-              >
-                {getGameDescription(game.description)}
-              </span>
-            </div>
+              <svg class="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+              Play Now
+            </a>
           </div>
-        </CardContent>
-      </Card>
-    </a>
+        </div>
+        <div class="p-4 space-y-3 min-h-[120px] flex flex-col">
+          <CardTitle
+            className="text-lg font-semibold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors"
+            id={`game-title-${game.id}`}
+          >
+            {game.title}
+          </CardTitle>
+          <CardDescription className="text-sm line-clamp-2 text-muted-foreground">
+            {getGameDescription(game.description)}
+          </CardDescription>
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3 min-w-0">
+            <span
+              class="inline-flex items-center rounded-full border px-2 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20 whitespace-nowrap shrink-0"
+              aria-label={`Category: ${formatCategory(game.category)}`}
+            >
+              {formatCategory(game.category)}
+            </span>
+            <a
+              href={gameUrl}
+              class="inline-flex items-center min-h-[36px] sm:min-h-[44px] text-primary hover:text-primary/80 focus:text-primary/80 text-sm font-medium transition-colors focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded px-2 whitespace-nowrap shrink-0"
+              aria-describedby={`game-title-${game.id}`}
+            >
+              Learn More →
+            </a>
+          </div>
+        </div>
+      </CardContent>
+    </Card>
   </article>
 )}
 
-<!-- Compact variant -->
-{variant === 'compact' && (
-  <article role="article" aria-labelledby={`compact-game-title-${game.id}`}>
-    <a 
-      href={gameUrl} 
-      class="block focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded-lg"
-      aria-describedby={`compact-game-desc-${game.id}`}
-    >
-      <Card className="group hover:shadow-md transition-all duration-200 hover:scale-[1.02] overflow-hidden">
-        <CardContent className="p-0">
-          <div class="aspect-square relative overflow-hidden">
-            <img 
-              src={game.image} 
-              alt={`Compact view: ${game.title}`}
-              class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105" 
-              loading="lazy"
-            />
-            <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
-            <div class="absolute bottom-0 left-0 right-0 p-2 bg-gradient-to-t from-black/80 to-transparent">
-              <CardTitle 
-                className="text-white font-medium text-xs line-clamp-2"
-                id={`compact-game-title-${game.id}`}
-              >
-                {game.title}
-              </CardTitle>
-              <span 
-                class="sr-only"
-                id={`compact-game-desc-${game.id}`}
-              >
-                {getGameDescription(game.description)}
-              </span>
-            </div>
+<!-- Trending variant (unified structure) -->
+{variant === 'trending' && (
+  <article role="article" aria-labelledby={`game-title-${game.id}`}>
+    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2 h-full flex flex-col">
+      <CardContent className="p-0 flex-1 flex flex-col">
+        <div class="aspect-video relative overflow-hidden">
+          <ResponsivePicture
+            src={game.image}
+            alt={`${game.title} - ${getGameDescription(game.description)}`}
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+            width={400}
+            height={225}
+            loading="lazy"
+            decoding="async"
+          />
+          <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+            <a
+              href={gameUrl}
+              class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 focus:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
+              aria-label={`Play ${game.title} now`}
+            >
+              <svg class="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+              Play Now
+            </a>
           </div>
-        </CardContent>
-      </Card>
-    </a>
+        </div>
+        <div class="p-4 space-y-3 min-h-[120px] flex flex-col">
+          <CardTitle
+            className="text-lg font-semibold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors"
+            id={`game-title-${game.id}`}
+          >
+            {game.title}
+          </CardTitle>
+          <CardDescription className="text-sm line-clamp-2 text-muted-foreground">
+            {getGameDescription(game.description)}
+          </CardDescription>
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3 min-w-0">
+            <span
+              class="inline-flex items-center rounded-full border px-2 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20 whitespace-nowrap shrink-0"
+              aria-label={`Category: ${formatCategory(game.category)}`}
+            >
+              {formatCategory(game.category)}
+            </span>
+            <a
+              href={gameUrl}
+              class="inline-flex items-center min-h-[36px] sm:min-h-[44px] text-primary hover:text-primary/80 focus:text-primary/80 text-sm font-medium transition-colors focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded px-2 whitespace-nowrap shrink-0"
+              aria-describedby={`game-title-${game.id}`}
+            >
+              Learn More →
+            </a>
+          </div>
+        </div>
+      </CardContent>
+    </Card>
+  </article>
+)}
+
+<!-- Compact variant (unified structure) -->
+{variant === 'compact' && (
+  <article role="article" aria-labelledby={`game-title-${game.id}`}>
+    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 overflow-hidden focus-within:ring-2 focus-within:ring-primary focus-within:ring-offset-2 h-full flex flex-col">
+      <CardContent className="p-0 flex-1 flex flex-col">
+        <div class="aspect-video relative overflow-hidden">
+          <ResponsivePicture
+            src={game.image}
+            alt={`${game.title} - ${getGameDescription(game.description)}`}
+            class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+            width={300}
+            height={169}
+            loading="lazy"
+            decoding="async"
+          />
+          <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+            <a
+              href={gameUrl}
+              class="inline-flex items-center justify-center whitespace-nowrap rounded-full text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 focus:bg-primary/90 shadow-lg hover:shadow-xl transition-all duration-200 h-11 px-8 focus:ring-2 focus:ring-primary-foreground focus:ring-offset-2 focus:ring-offset-primary"
+              aria-label={`Play ${game.title} now`}
+            >
+              <svg class="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+              Play Now
+            </a>
+          </div>
+        </div>
+        <div class="p-4 space-y-3 min-h-[120px] flex flex-col">
+          <CardTitle
+            className="text-lg font-semibold line-clamp-2 text-card-foreground group-hover:text-primary transition-colors"
+            id={`game-title-${game.id}`}
+          >
+            {game.title}
+          </CardTitle>
+          <CardDescription className="text-sm line-clamp-2 text-muted-foreground">
+            {getGameDescription(game.description)}
+          </CardDescription>
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3 min-w-0">
+            <span
+              class="inline-flex items-center rounded-full border px-2 py-0.5 text-xs font-semibold transition-colors border-transparent bg-primary/10 text-primary hover:bg-primary/20 whitespace-nowrap shrink-0"
+              aria-label={`Category: ${formatCategory(game.category)}`}
+            >
+              {formatCategory(game.category)}
+            </span>
+            <a
+              href={gameUrl}
+              class="inline-flex items-center min-h-[36px] sm:min-h-[44px] text-primary hover:text-primary/80 focus:text-primary/80 text-sm font-medium transition-colors focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded px-2 whitespace-nowrap shrink-0"
+              aria-describedby={`game-title-${game.id}`}
+            >
+              Learn More →
+            </a>
+          </div>
+        </div>
+      </CardContent>
+    </Card>
   </article>
 )}
 

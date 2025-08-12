@@ -17,69 +17,69 @@ export interface Props {
   showErrorDetails?: boolean;
 }
 
-const { 
-  audioSrc, 
-  title = "Audio Track", 
-  autoplay = false, 
+const {
+  audioSrc,
+  title = "Audio Track",
+  autoplay = false,
   showProgress = true,
   className = "",
-  useSlider = true,
+  useSlider = false,
   loading = false,
   showErrorDetails = false
 } = Astro.props;
 
-const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
+const uniqueId = `audio-player-${Math.random().toString(36).slice(2, 11)}`;
 ---
 
 {loading ? (
-  <AudioPlayerSkeleton 
-    title={title} 
-    showProgress={showProgress} 
-    className={className} 
+  <AudioPlayerSkeleton
+    title={title}
+    showProgress={showProgress}
+    className={className}
   />
 ) : (
-  <Card 
-    className={`audio-player audio-player-card ${className}`} 
+  <Card
+    className={`audio-player audio-player-card ${className}`}
     data-audio-id={uniqueId}
     role="region"
     aria-labelledby={`audio-title-${uniqueId}`}
-    aria-describedby={showProgress ? `audio-progress-${uniqueId}` : undefined}
+     aria-describedby={showProgress ? `current-time-${uniqueId} duration-${uniqueId}` : undefined}
   >
     <CardContent className="p-4 sm:p-6">
       <div class="flex items-center space-x-3 sm:space-x-4">
         <!-- Play/Pause Controls -->
-        <AudioPlayerControls 
+        <AudioPlayerControls
           uniqueId={uniqueId}
           title={title}
         />
-        
+
         <!-- Progress Bar and Time Display -->
         <div class="flex-1 flex items-center space-x-2 sm:space-x-3">
-          <AudioPlayerProgress 
+          <AudioPlayerProgress
             uniqueId={uniqueId}
             showProgress={showProgress}
             useSlider={useSlider}
             className="flex-1"
           />
-          
-          <AudioPlayerTime 
+
+          <AudioPlayerTime
             uniqueId={uniqueId}
             showTime={showProgress}
           />
         </div>
       </div>
-      
+
       <!-- Track Title -->
       <div class="mt-3">
-        <h3 
+        <h3
           id={`audio-title-${uniqueId}`}
           class="text-sm font-medium text-foreground truncate"
         >
           {title}
         </h3>
-        
+
         <!-- Screen reader status -->
-        <div 
+        <div
           id={`audio-status-${uniqueId}`}
           class="sr-only"
           aria-live="polite"
@@ -87,24 +87,22 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
           Ready to play
         </div>
       </div>
-      
+
       <!-- Error Handling -->
-      <AudioPlayerError 
+      <AudioPlayerError
         uniqueId={uniqueId}
         showErrorDetails={showErrorDetails}
       />
-      
+
       <!-- Hidden Audio Element -->
-      <audio 
-        id={uniqueId} 
-        preload="metadata" 
+      <audio
+        id={uniqueId}
+        preload="metadata"
         class="hidden"
         {autoplay}
         aria-label={`Audio player for ${title}`}
       >
-        <source src={audioSrc} type="audio/wav">
-        <source src={audioSrc} type="audio/mp3">
-        <source src={audioSrc} type="audio/ogg">
+        <source src={audioSrc} />
         Your browser does not support the audio element.
       </audio>
     </CardContent>
@@ -115,59 +113,59 @@ const uniqueId = `audio-player-${Math.random().toString(36).substr(2, 9)}`;
   .audio-player-card {
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   }
-  
+
   .audio-player-card:hover {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   }
-  
+
   .audio-player-card.playing {
     border-color: hsl(var(--primary) / 0.5);
     box-shadow: 0 0 0 1px hsl(var(--primary) / 0.2), 0 4px 12px rgba(0, 0, 0, 0.15);
   }
-  
+
   .audio-player-card.error {
     border-color: hsl(var(--destructive) / 0.3);
     background-color: hsl(var(--destructive) / 0.02);
   }
-  
+
   /* Responsive adjustments */
   @media (max-width: 640px) {
     .audio-player-card {
       margin: 8px 0;
     }
-    
+
     .audio-player-card .space-x-3 > :not([hidden]) ~ :not([hidden]) {
       margin-left: 8px;
     }
-    
+
     .audio-player-card .space-x-4 > :not([hidden]) ~ :not([hidden]) {
       margin-left: 8px;
     }
   }
-  
+
   /* High contrast mode */
   @media (prefers-contrast: high) {
     .audio-player-card {
       border-width: 2px;
     }
-    
+
     .audio-player-card.playing {
       border-width: 3px;
     }
   }
-  
+
   /* Focus management */
   .audio-player-card:focus-within {
     outline: 2px solid hsl(var(--primary));
     outline-offset: 2px;
   }
-  
+
   /* Reduced motion */
   @media (prefers-reduced-motion: reduce) {
     .audio-player-card {
       transition: none;
     }
-    
+
     .audio-player-card:hover {
       transform: none;
     }

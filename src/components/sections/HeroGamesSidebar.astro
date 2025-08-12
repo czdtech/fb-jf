@@ -15,11 +15,11 @@ const { title, games, variant, musicDelayStart } = Astro.props
 <div class={`hero-sidebar hero-sidebar--${variant}`}>
   <div class={`hero-sidebar__content music-element hero-music-delay-${musicDelayStart}`}>
     <h3 class="hero-sidebar__title">{title}</h3>
-    <div class="hero-sidebar__games">
+    <div class="hero-sidebar__games grid gap-4 grid-cols-1 sm:grid-cols-2">
       {
         games.slice(0, 5).map((game: any, index: number) => (
           <div class={`music-element hero-music-delay-${musicDelayStart + index + 1}`}>
-            <GameCard game={game} variant="compact" />
+            <GameCard game={game} variant="grid" />
           </div>
         ))
       }
@@ -124,12 +124,16 @@ const { title, games, variant, musicDelayStart } = Astro.props
     .hero-sidebar {
       flex-direction: row;
       overflow-x: auto;
+      overflow-y: hidden; /* 防止横向滚动触发额外纵向滚动条 */
+      -webkit-overflow-scrolling: touch;
       padding-bottom: var(--space-base);
       height: auto;
+      max-width: 100%;
     }
 
     .hero-sidebar__content {
       min-width: 280px;
+      max-width: 100%;
       flex-shrink: 0;
     }
   }

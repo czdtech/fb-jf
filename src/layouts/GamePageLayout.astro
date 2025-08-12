@@ -4,24 +4,26 @@ import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import GameRating from '@/components/GameRating.astro'
 
-// 导入新的游戏页面Section组件
-import GameHeroSection from '@/components/sections/GameHeroSection.astro'
+// 导入统一的游戏页面组件
+import GameHero from '@/components/GameHero.astro'
 import GameMainSection from '@/components/sections/GameMainSection.astro'
 import GameFeaturesSection from '@/components/sections/GameFeaturesSection.astro'
 import GameHowToPlaySection from '@/components/sections/GameHowToPlaySection.astro'
 import GameRelatedSection from '@/components/sections/GameRelatedSection.astro'
 
-// 导入数据
+// 导入数据和类型
 import extractedData from '@/data/extracted-data.json'
+import type { ExtractedData } from '@/types/game'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
-const { navigation, games } = extractedData
+const { navigation, games } = extractedData as ExtractedData
 
 export interface Props {
   meta: {
     title: string
     description: string
     keywords?: string
-    canonical: string
+    canonical?: string
     ogImage: string
   }
   gameData: {
@@ -61,14 +63,14 @@ const {
   schemaData,
 } = Astro.props
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map(lang => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url:
-    meta.canonical.replace('https://www.playfiddlebops.com', '') +
-    (lang.code !== 'en' ? lang.url.replace('/', '') + '/' : ''),
-  label: lang.label,
-}))
+// 统一的hreflang生成 - 消除重复实现
+const canonicalPath = meta && typeof meta.canonical === 'string' && meta.canonical 
+  ? meta.canonical.replace('https://www.playfiddlebops.com', '') 
+  : '/';
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages, 
+  canonicalPath
+)
 
 // 增强的结构化数据，使用来自games-extended.json的schema数据
 const structuredData = schemaData
@@ -91,7 +93,7 @@ const structuredData = schemaData
       '@type': 'Game',
       name: gameData.title,
       alternateName: 'playfiddlebops.com',
-      url: meta.canonical,
+      url: meta?.canonical || `https://www.playfiddlebops.com/${gameData.slug}`,
       description: meta.description,
       ...(gameData.rating && {
         aggregateRating: {
@@ -137,15 +139,22 @@ const contentSections = [
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang="en"
-    currentPath={meta.canonical.replace('https://www.playfiddlebops.com', '')}
+    currentPath={canonicalPath}
   />
 
   <main>
-    <!-- Game Hero Section: 游戏标题和介绍 -->
-    <GameHeroSection
-      gameData={gameData}
-      navigation={navigation}
-      breadcrumb={breadcrumb}
+    <!-- 统一的游戏Hero组件 -->
+    <GameHero
+      game={{
+        title: gameData.title,
+        description: gameData.description,
+        category: gameData.category,
+        image: gameData.backgroundImage,
+        iframe: gameData.iframe,
+        slug: gameData.slug,
+        breadcrumb
+      }}
+      rating={gameData.rating}
     />
 
     <!-- Game Main Section: 三栏布局 - 游戏主体和侧边栏 -->
@@ -268,10 +277,7 @@ const contentSections = [
   <Footer />
 </BaseLayout>
 
-<!-- 引入交互系统 -->
-<script>
-  import '@/scripts/interactions.js'
-</script>
+<!-- 交互系统已由 BaseLayout 全局引入 -->
 
 <style>
   /* ==========================================================================

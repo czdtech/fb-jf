@@ -120,12 +120,15 @@ export class AudioPlayerManager {
 
     audio.addEventListener('error', (e) => {
       const audioError = e.target as HTMLAudioElement;
-      const error = audioError?.error || new Error('Audio loading failed');
+      const err: Error = audioError?.error
+        ? new Error(`MediaError code: ${audioError.error.code}`)
+        : new Error('Audio loading failed');
+      const stored = this.audioElements.get(audioId);
       this.audioErrorHandler.handleLoadError(
         audio,
         audioId,
-        error,
-        { button, card, retryBtn: elements.retryBtn }
+        err,
+        { button, card: (stored?.card as HTMLElement), retryBtn: (stored?.retryBtn as HTMLElement | null) || null }
       );
       this.showErrorState(audioId, e);
     });
@@ -153,17 +156,26 @@ export class AudioPlayerManager {
     if (!elements) return;
 
     const { card, audio } = elements;
-    
+
     const fallbackProgressBar = card.querySelector('.fallback-progress-bar') as HTMLElement;
     if (fallbackProgressBar) {
+      // 鼠标点击定位
       fallbackProgressBar.addEventListener('click', (e) => {
         const rect = fallbackProgressBar.getBoundingClientRect();
-        const clickX = e.clientX - rect.left;
+        const clickX = (e as MouseEvent).clientX - rect.left;
         const width = rect.width;
         const percentage = clickX / width;
-        
+
         if (audio.duration) {
           audio.currentTime = percentage * audio.duration;
+        }
+      });
+
+      // 键盘导航定位（来自 AudioPlayerProgress 的自定义事件）
+      fallbackProgressBar.addEventListener('audioSeek', (e: Event) => {
+        const detail = (e as CustomEvent).detail as { percentage?: number };
+        if (typeof detail?.percentage === 'number' && audio.duration) {
+          audio.currentTime = detail.percentage * audio.duration;
         }
       });
     }
@@ -191,23 +203,23 @@ export class AudioPlayerManager {
     if (audio.paused) {
       try {
         button.classList.add('loading');
-        
+
         button.setAttribute('aria-label', `Pause ${audio.title || 'audio'}`);
         if (statusElement) {
           statusElement.textContent = 'Loading...';
         }
-        
+
         await audio.play();
-        
+
         button.classList.remove('loading');
         button.classList.add('playing');
         card.classList.add('playing');
         this.currentlyPlaying = audioId;
-        
+
         if (statusElement) {
           statusElement.textContent = 'Playing';
         }
-        
+
       } catch (error) {
         console.error('Error playing audio:', error);
         button.classList.remove('loading');
@@ -215,7 +227,7 @@ export class AudioPlayerManager {
         if (statusElement) {
           statusElement.textContent = 'Error loading audio';
         }
-        
+
         // 使用音频错误处理器处理播放错误
         await this.audioErrorHandler.handlePlayError(
           audio,
@@ -239,7 +251,7 @@ export class AudioPlayerManager {
     button.classList.remove('playing');
     card.classList.remove('playing');
     button.setAttribute('aria-label', `Play ${audio.title || 'audio'}`);
-    
+
     if (statusElement) {
       statusElement.textContent = 'Paused';
     }
@@ -254,7 +266,7 @@ export class AudioPlayerManager {
     if (!elements) return;
 
     const { audio } = elements;
-    
+
     this.pauseAudio(audioId);
     audio.currentTime = 0;
   }
@@ -267,18 +279,20 @@ export class AudioPlayerManager {
 
     if (audio.duration) {
       const progress = (audio.currentTime / audio.duration) * 100;
-      
+
       if (progressBar) {
         progressBar.style.width = `${progress}%`;
       }
-      
+
       if (fallbackProgressBar) {
         const progressFill = fallbackProgressBar.querySelector('.progress-fill') as HTMLElement;
         if (progressFill) {
           progressFill.style.width = `${progress}%`;
         }
+        // 同步 ARIA 数值，提升可访问性
+        fallbackProgressBar.setAttribute('aria-valuenow', Math.round(progress).toString());
       }
-      
+
       if (currentTimeSpan) {
         currentTimeSpan.textContent = this.formatTime(audio.currentTime);
       }
@@ -357,11 +371,11 @@ export class AudioPlayerManager {
     const { audio, button, card } = elements;
 
     this.clearErrorState(audioId);
-    
+
     try {
       button.classList.add('loading');
       audio.load();
-      
+
       // 等待音频加载完成后自动播放
       audio.addEventListener('canplaythrough', async () => {
         try {
@@ -379,7 +393,7 @@ export class AudioPlayerManager {
           );
         }
       }, { once: true });
-      
+
     } catch (loadError) {
       this.audioErrorHandler.handleLoadError(
         audio,
@@ -404,7 +418,7 @@ export class AudioPlayerManager {
       3: 'MEDIA_ERR_DECODE: An error occurred while decoding the media resource.',
       4: 'MEDIA_ERR_SRC_NOT_SUPPORTED: The media resource is not supported.'
     };
-    
+
     return errorCode ? errorMessages[errorCode] || 'Unknown error occurred.' : 'Audio loading failed.';
   }
 

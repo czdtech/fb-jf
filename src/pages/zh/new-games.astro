@@ -1,0 +1,136 @@
+---
+import { getCollection } from 'astro:content';
+import { getLocalizedGamesList } from '@/utils/i18n';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navigation from '@/components/Navigation.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
+
+// 获取本地化的游戏集合
+const localizedGames = await getLocalizedGamesList('zh');
+
+// 定义新游戏的 slug 列表（基于原始页面）
+const newGameSlugs = [
+  'pikmin-no-sprunki',
+  'the-haze-pixelbox',
+  'yojou-sprunki-mustard',
+  'sprunki-retake-bonus-characters'
+];
+
+// 筛选新游戏（使用本地化版本）
+const newGames = localizedGames.filter((game: any) =>
+  newGameSlugs.includes(game.slug)
+);
+
+// SEO配置
+const meta = {
+  title: '新游戏 - Fiddlebops',
+  description: '体验最新的 Fiddlebops 和 Sprunki 游戏。发现刚刚添加到我们收藏中的全新音乐创作体验。',
+  keywords: '新游戏, 最新游戏, 全新游戏, fiddlebops, sprunki, 音乐游戏',
+  canonical: 'https://www.playfiddlebops.com/zh/new-games/',
+  ogImage: '/tw.jpg'
+};
+---
+
+<BaseLayout meta={meta}>
+  <Navigation
+    locale="zh"
+    currentPath="/zh/new-games/"
+  />
+
+  <main class="new-games-page">
+    <div class="responsive-container container-standard">
+      <div class="page-header">
+        <h1>▶ 新游戏</h1>
+        <p>我们音乐游戏收藏中的全新作品</p>
+      </div>
+
+      <div class="game-iframe-new">
+        <GamesList games={newGames} variant="simple" />
+      </div>
+
+      <div class="all-new-games-section">
+        <h2>最新添加的游戏</h2>
+        <GamesList
+          games={localizedGames.slice(0, 16)}
+          variant="grid"
+        />
+      </div>
+    </div>
+  </main>
+
+  <Footer locale="zh" />
+</BaseLayout>
+
+<style>
+  .new-games-page {
+    min-height: calc(100vh - 160px);
+    padding: var(--space-8) 0;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: var(--space-12);
+  }
+
+  .page-header h1 {
+    font-size: var(--font-size-4xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-4);
+  }
+
+  .page-header p {
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-600);
+  }
+
+  .game-iframe-new {
+    background: var(--color-white);
+    border-radius: var(--border-radius-xl);
+    padding: var(--space-8);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: var(--space-12);
+  }
+
+  .game-iframe-new h3 {
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-gray-900);
+    margin-bottom: var(--space-6);
+  }
+
+  .all-new-games-section {
+    margin-top: var(--space-16);
+  }
+
+  .all-new-games-section h2 {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+    margin-bottom: var(--space-8);
+    color: var(--color-gray-900);
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 {
+      font-size: var(--font-size-3xl);
+    }
+
+    .page-header p {
+      font-size: var(--font-size-lg);
+    }
+
+    .game-iframe-new {
+      padding: var(--space-6);
+    }
+
+    .all-new-games-section h2 {
+      font-size: var(--font-size-2xl);
+    }
+  }
+</style>

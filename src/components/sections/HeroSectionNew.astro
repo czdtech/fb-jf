@@ -3,6 +3,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import GameGrid from '@/components/GameGrid.astro';
 import GameIframe from '@/components/GameIframe.astro';
+import { getCurrentLocale, getTranslation } from '@/i18n/utils';
 
 interface Props {
   hero: {
@@ -21,6 +22,10 @@ interface Props {
 }
 
 const { hero, games } = Astro.props;
+
+// 获取当前语言和翻译
+const currentLocale = getCurrentLocale(Astro.url);
+const { ui } = await getTranslation(currentLocale);
 
 // Transform games data to match Game interface
 const transformGame = (game: any) => ({
@@ -44,14 +49,14 @@ const newGames = games.new.slice(0, 6).map(transformGame);
 const trendingGames = games.trending.slice(0, 8).map(transformGame);
 
 // Create a main game object for the iframe
-const mainGame = {
+const mainGame: any = {
   id: 'fiddlebops-main',
   slug: 'fiddlebops',
   title: 'FiddleBops',
   description: 'Create amazing music with FiddleBops!',
   image: hero.mainGame.backgroundImage,
   iframe: hero.mainGame.iframe,
-  category: 'featured' as const,
+  category: 'featured',
   meta: {
     title: 'FiddleBops - Music Creation Game',
     description: 'Create amazing music with FiddleBops!',
@@ -63,42 +68,28 @@ const mainGame = {
 
 <!-- Clean Hero Section with enhanced responsive design -->
 <section class="relative min-h-screen bg-gradient-to-br from-primary/5 via-background to-primary/10 safe-area-top">
-  <div class="responsive-container mx-auto px-4 py-8 sm:py-12 md:py-16 lg:py-24 safe-area-left safe-area-right">
-    
+  <div class="responsive-container container-wide py-8 sm:py-12 md:py-16 lg:py-24 safe-area-left safe-area-right overflow-hidden">
+    {/**
+     * AURA-X: Add - 为首屏关键背景图添加预加载与高优先级，减少 LCP 延迟。Confirmed via 寸止。
+     */}
+    {hero?.mainGame?.backgroundImage && (
+      <link rel="preload" as="image" href={hero.mainGame.backgroundImage} imagesrcset={hero.mainGame.backgroundImage} fetchpriority="high" />
+    )}
+
     <!-- Hero Header with improved mobile spacing -->
     <div class="text-center mb-8 sm:mb-12 md:mb-16 space-y-4 sm:space-y-6">
       <h1 class="text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent leading-tight">
         {hero.title}
       </h1>
-      <p class="text-base sm:text-lg md:text-xl text-muted-foreground max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-3xl mx-auto leading-relaxed px-2">
+      <p class="text-base sm:text-lg md:text-xl text-muted-foreground max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-3xl mx-auto leading-relaxed px-2 break-words">
         {hero.description}
       </p>
-      <div class="flex flex-col xs:flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center pt-4">
-        <Button 
-          size="lg" 
-          class="focus-enhanced touch-target w-full xs:w-auto text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6 rounded-full min-h-[48px] min-w-[140px]"
-          aria-label="开始玩 FiddleBops 音乐游戏"
-        >
-          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M8 5v14l11-7z"/>
-          </svg>
-          Play Now
-        </Button>
-        <Button 
-          variant="outline" 
-          size="lg" 
-          class="focus-enhanced touch-target w-full xs:w-auto text-base sm:text-lg px-6 sm:px-8 py-4 sm:py-6 rounded-full min-h-[48px] min-w-[140px]"
-          aria-label="了解更多关于 FiddleBops 的信息"
-        >
-          Learn More
-        </Button>
-      </div>
     </div>
 
     <!-- Main Game Section with responsive improvements -->
     <div class="mb-12 sm:mb-16 md:mb-20">
-      <Card class="overflow-hidden shadow-lg sm:shadow-xl md:shadow-2xl border-primary/20">
-        <CardContent class="p-0">
+      <Card className="overflow-hidden shadow-lg sm:shadow-xl md:shadow-2xl border-primary/20">
+        <CardContent className="p-0">
           <div class="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 relative">
             <GameIframe game={mainGame} autoLoad={false} />
           </div>
@@ -111,15 +102,15 @@ const mainGame = {
       <div class="mb-12 sm:mb-16 md:mb-20">
         <div class="text-center mb-8 sm:mb-10 md:mb-12">
           <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
-            🔥 Featured Games
+            🔥 {ui.sections.popularGames}
           </h2>
           <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
             Discover our most popular music creation experiences
           </p>
         </div>
-        <GameGrid 
-          games={featuredGames} 
-          variant="featured" 
+        <GameGrid
+          games={featuredGames}
+          variant="featured"
           showTitle={false}
           className="mb-4 sm:mb-6 md:mb-8"
         />
@@ -131,15 +122,15 @@ const mainGame = {
       <div class="mb-12 sm:mb-16 md:mb-20">
         <div class="text-center mb-8 sm:mb-10 md:mb-12">
           <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
-            ✨ New Releases
+            ✨ {ui.sections.newGames}
           </h2>
           <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
             Fresh beats and new ways to create music
           </p>
         </div>
-        <GameGrid 
-          games={newGames} 
-          variant="standard" 
+        <GameGrid
+          games={newGames}
+          variant="standard"
           showTitle={false}
           className="mb-4 sm:mb-6 md:mb-8"
         />
@@ -151,15 +142,15 @@ const mainGame = {
       <div class="mb-12 sm:mb-16 md:mb-20">
         <div class="text-center mb-8 sm:mb-10 md:mb-12">
           <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-4xl font-bold text-foreground mb-3 sm:mb-4">
-            📈 Trending Now
+            📈 {ui.sections.trendingGames}
           </h2>
           <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
             What everyone's playing right now
           </p>
         </div>
-        <GameGrid 
-          games={trendingGames} 
-          variant="compact" 
+        <GameGrid
+          games={trendingGames}
+          variant="compact"
           showTitle={false}
           moreLink="/games"
         />

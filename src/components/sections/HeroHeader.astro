@@ -32,6 +32,7 @@ const { title, description } = Astro.props
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    word-break: break-word; /* 防止中等屏幕出现长词溢出 */
   }
 
   .hero-header__description {
@@ -56,6 +57,7 @@ const { title, description } = Astro.props
     .hero-header__title {
       font-size: clamp(2rem, 8vw, 2.5rem);
       margin-bottom: var(--space-4);
+      word-break: break-word; /* 防止中等屏幕出现长词溢出 */
     }
 
     .hero-header__description {

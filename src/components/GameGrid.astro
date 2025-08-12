@@ -14,33 +14,34 @@ export interface Props {
   loadingCount?: number;
 }
 
-const { 
-  games, 
-  title, 
-  variant = 'standard', 
-  moreLink, 
+const {
+  games,
+  title,
+  variant = 'standard',
+  moreLink,
   className = '',
   showTitle = true,
   loading = false,
   loadingCount = 8
 } = Astro.props;
 
-// Define responsive grid classes for each variant with enhanced mobile-first approach
+// Define ONE unified responsive grid class to keep card size consistent across sections
+const unifiedGrid = 'grid gap-4 md:gap-5 lg:gap-6 xl:gap-8 grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4';
 const gridClasses = {
-  standard: 'responsive-grid-standard grid gap-4 grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6',
-  featured: 'responsive-grid-featured grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3',
-  compact: 'responsive-grid-compact grid gap-3 grid-cols-2 xs:grid-cols-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-7 2xl:grid-cols-8'
+  standard: unifiedGrid,
+  featured: unifiedGrid,
+  compact: unifiedGrid
 };
 
-// Map grid variants to appropriate GameCard variants
+// Map grid variants to GameCard variants (structure only; size is unified by grid)
 const cardVariants = {
   standard: 'grid' as const,
-  featured: 'featured' as const, 
-  compact: 'compact' as const
+  featured: 'grid' as const,
+  compact: 'grid' as const
 };
 
 // Container classes for proper spacing and responsive behavior with safe areas
-const containerClasses = 'responsive-container w-full max-w-7xl mx-auto px-4 xs:px-4 sm:px-6 lg:px-8 safe-area-left safe-area-right';
+const containerClasses = 'responsive-container container-wide safe-area-left safe-area-right';
 ---
 
 <section class={`games-grid-section ${className}`}>
@@ -50,20 +51,20 @@ const containerClasses = 'responsive-container w-full max-w-7xl mx-auto px-4 xs:
         {title}
       </h2>
     )}
-    
+
     {loading ? (
       <GameGridSkeleton variant={variant} count={loadingCount} />
     ) : (
       <div class={`games-grid ${gridClasses[variant]}`} data-game-grid>
-        {games.map((game, index) => (
-          <GameCard game={game} index={index} />
+        {games.map((game) => (
+          <GameCard game={game} variant={cardVariants[variant]} />
         ))}
       </div>
     )}
-    
+
     {moreLink && !loading && (
       <div class="flex justify-center mt-8 md:mt-12">
-        <a 
+        <a
           href={moreLink}
           class="inline-flex items-center justify-center px-6 py-3 text-base font-medium text-primary-foreground bg-primary rounded-lg hover:bg-primary/90 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
         >

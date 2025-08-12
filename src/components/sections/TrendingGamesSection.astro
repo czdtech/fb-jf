@@ -8,7 +8,7 @@ const allGames = await getCollection('games');
 // 定义趋势游戏的 slug 列表
 const trendingGameSlugs = [
   'ayocs-sprunkr',
-  'incredibox-donki-abgerny', 
+  'incredibox-donki-abgerny',
   'sprunki-pyramixed-version',
   'sprunki-squid-remix',
   'sprunki-1996',
@@ -22,7 +22,7 @@ const trendingGameSlugs = [
 ];
 
 // 筛选趋势游戏
-const trendingGames = allGames.filter(game => 
+const trendingGames = allGames.filter((game: any) =>
   trendingGameSlugs.includes(game.slug)
 );
 
@@ -55,7 +55,7 @@ const displayGames = maxItems ? trendingGames.slice(0, maxItems) : trendingGames
     margin-bottom: var(--space-8);
     color: var(--color-gray-900);
   }
-  
+
   @media (max-width: 768px) {
     .trending-games-section h2 {
       font-size: var(--font-size-2xl);

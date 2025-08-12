@@ -12,7 +12,7 @@ export function GameCardSkeleton({ variant = 'default' }: GameCardSkeletonProps)
         <CardContent className="p-0">
           {/* Featured game image skeleton */}
           <div className="relative overflow-hidden">
-            <Skeleton className="aspect-[16/10] w-full bg-primary/10" />
+            <Skeleton className="aspect-video w-full bg-primary/10" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
             <div className="absolute bottom-4 left-4 right-4">
               <Skeleton className="h-8 w-3/4 bg-white/20 mb-2" />
@@ -61,19 +61,19 @@ export function GameCardSkeleton({ variant = 'default' }: GameCardSkeletonProps)
       <CardContent className="p-0">
         {/* Game image skeleton */}
         <div className="relative overflow-hidden">
-          <Skeleton className="aspect-[4/3] w-full bg-primary/10" />
+          <Skeleton className="aspect-video w-full bg-primary/10" />
           {/* Play button overlay skeleton */}
           <div className="absolute inset-0 flex items-center justify-center bg-black/20">
             <Skeleton className="w-16 h-16 rounded-full bg-white/20" />
           </div>
         </div>
-        
+
         {/* Game info skeleton */}
         <div className="p-4">
           <div className="space-y-3">
             {/* Title skeleton */}
             <Skeleton className="h-5 w-4/5 bg-primary/10" />
-            
+
             {/* Rating and stats skeleton */}
             <div className="flex items-center justify-between">
               <div className="flex items-center space-x-1">
@@ -84,13 +84,13 @@ export function GameCardSkeleton({ variant = 'default' }: GameCardSkeletonProps)
               </div>
               <Skeleton className="h-4 w-12 bg-primary/10" />
             </div>
-            
+
             {/* Tags skeleton */}
             <div className="flex gap-2">
               <Skeleton className="h-5 w-16 bg-primary/10 rounded-full" />
               <Skeleton className="h-5 w-20 bg-primary/10 rounded-full" />
             </div>
-            
+
             {/* Description skeleton */}
             <div className="space-y-2">
               <Skeleton className="h-3 w-full bg-primary/10" />

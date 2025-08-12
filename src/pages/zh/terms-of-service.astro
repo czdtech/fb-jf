@@ -1,5 +1,6 @@
----
 import NAV from "../../components/legacy/nav.astro"
+import '@/styles/design-tokens.css';
+import '@/styles/components.css';
 ---
 <!DOCTYPE html>
 <html lang="zh">
@@ -8,20 +9,19 @@ import NAV from "../../components/legacy/nav.astro"
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>服务条款 | FiddleBops</title>
 
-    <!-- 使用新的设计系统 -->
-    <link rel="stylesheet" href="/src/styles/design-tokens.css" />
-    <link rel="stylesheet" href="/src/styles/components.css" />
+    <!-- 设计系统样式已通过前置 import 引入并由 Astro 打包 -->
 
     <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"></noscript>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="canonical" href="https://www.playfiddlebops.com/zh/terms-of-service/"/>
     <style>
       .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
     </style>
-<script>
+<script is:inline>
   document.addEventListener('DOMContentLoaded', function() {
   const navToggle = document.querySelector('.nav-toggle');
   const navMenu = document.querySelector('.nav-menu');
@@ -32,15 +32,7 @@ import NAV from "../../components/legacy/nav.astro"
 
 });
 </script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
+<!-- 已移除页面内重复的 GA/Ads 注入，统一由 BaseLayout 管理（PROD 注入，DEV 禁用外链） -->
 </head>
 <body>
   <header>
@@ -57,7 +49,7 @@ import NAV from "../../components/legacy/nav.astro"
         </nav>
   <select style="float:right;">
     <option data-lang="en" data-url="/terms-of-service/">English</option>
-    <option data-lang="zh" data-url="/zh/terms-of-service/">简体中文</option>  
+    <option data-lang="zh" data-url="/zh/terms-of-service/">简体中文</option>
     <option data-lang="es" data-url="/es/terms-of-service/">Español</option>
     <option data-lang="fr" data-url="/fr/terms-of-service/">Français</option>
     <option data-lang="de" data-url="/de/terms-of-service/">Deutsch</option>
@@ -75,13 +67,13 @@ import NAV from "../../components/legacy/nav.astro"
                 <p class="title"></p>
             </div>
         </div>
-    
-        
-    
+
+
+
         <div class="translations-content-container">
             <div class="container">
-    
-                
+
+
                 <div class="tab-content translations-content-item en visible" id="en">
 
                   <h1 data-custom-class="title">服务条款</h1>
@@ -382,13 +374,13 @@ import NAV from "../../components/legacy/nav.astro"
                   为了解决有关服务的投诉或接收有关使用服务的更多信息，请通过以下方式联系我们：chongzhidatech@gmail.com
                   </p>
                 </div>
-                
-    
+
+
             </div>
         </div>
         <!-- content end -->
-        
-    
+
+
     </div>
     </main>
 
@@ -404,30 +396,31 @@ import NAV from "../../components/legacy/nav.astro"
       </div>
     </footer>
     <script>
-      function goToLink(event) {
-        const select = event.target;
+      function goToLink(event: Event) {
+        const select = event.target as HTMLSelectElement | null;
+        if (!select) return;
         const selectedOption = select.options[select.selectedIndex];
         const url = selectedOption.getAttribute('data-url');
         if (url) {
           window.location.href = url;
         }
       }
-  
+
       // Add event listener
       document.addEventListener('DOMContentLoaded', () => {
         const select = document.querySelector('select');
         if (select) {
           select.addEventListener('change', goToLink);
-  
+
           // Set current language based on the <html> tag's lang attribute
           const htmlLang = document.documentElement.lang;
           const options = Array.from(select.options);
-  
+
           // Try to find an option that exactly matches the lang attribute
           const currentOption = options.find(option =>
             option.getAttribute('data-lang') === htmlLang
           );
-  
+
           if (currentOption) {
             currentOption.selected = true;
           } else {
@@ -435,14 +428,14 @@ import NAV from "../../components/legacy/nav.astro"
             let defaultOption = options.find(option =>
               option.getAttribute('data-lang') === 'en' // common default
             );
-  
+
             if (!defaultOption) {
               defaultOption = options.find(option =>
                 option.getAttribute('data-lang') === '/' // older convention
               );
             }
-  
-  
+
+
             if (defaultOption) {
               defaultOption.selected = true;
             }

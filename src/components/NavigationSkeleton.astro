@@ -4,7 +4,7 @@ export interface Props {
   showMobileMenu?: boolean;
 }
 
-const { 
+const {
   className = '',
   showMobileMenu = true
 } = Astro.props;
@@ -16,12 +16,12 @@ const {
     <div class="mr-6 flex items-center space-x-2">
       <div class="h-6 w-32 animate-pulse rounded-md bg-primary/10"></div>
     </div>
-    
+
     <!-- Desktop Navigation Skeleton -->
     <div class="hidden md:flex">
       <nav class="flex items-center space-x-1">
-        {Array.from({ length: 4 }, (_, i) => (
-          <div key={i} class="h-10 w-20 animate-pulse rounded-md bg-primary/10"></div>
+        {Array.from({ length: 4 }).map(() => (
+          <div class="h-10 w-20 animate-pulse rounded-md bg-primary/10"></div>
         ))}
       </nav>
     </div>

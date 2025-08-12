@@ -72,6 +72,12 @@
   body {
     @apply bg-background text-foreground;
   }
+  html,
+  body {
+    /* 防止横向滚动条，修复平板竖屏(768×1024)偶发水平溢出 */
+    overflow-x: hidden;
+    width: 100%;
+  }
 }
 
 @layer components {
@@ -79,20 +85,20 @@
   .music-primary {
     @apply bg-primary text-primary-foreground;
   }
-  
+
   .music-primary-hover {
     @apply hover:bg-primary/90;
   }
-  
+
   .music-focus {
     @apply focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2;
   }
-  
+
   /* Card variants for game components */
   .game-card {
     @apply bg-card text-card-foreground rounded-lg border shadow-sm;
   }
-  
+
   .game-card-hover {
     @apply hover:shadow-lg transition-all duration-300 hover:-translate-y-1;
   }
@@ -197,38 +203,6 @@
     z-index: 10;
   }
 
-  /* Container system - simplified */
-  .container {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  @media (min-width: 640px) {
-    .container {
-      max-width: 640px;
-    }
-  }
-
-  @media (min-width: 768px) {
-    .container {
-      max-width: 768px;
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .container {
-      max-width: 1024px;
-    }
-  }
-
-  @media (min-width: 1280px) {
-    .container {
-      max-width: 1400px;
-    }
-  }
 
   /* Animation keyframes */
   @keyframes fadeInUp {

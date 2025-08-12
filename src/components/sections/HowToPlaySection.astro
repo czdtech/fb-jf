@@ -4,16 +4,21 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { getCurrentLocale, getTranslation } from '@/i18n/utils';
+
+// 获取当前语言和翻译
+const currentLocale = getCurrentLocale(Astro.url);
+const { ui } = await getTranslation(currentLocale);
 
 ---
 
 <!-- How to Play Section - 统一设计风格 -->
 <section class="py-12 scroll-animate">
-  <div class="container mx-auto px-4">
+  <div class="responsive-container container-standard">
     <!-- Section Header -->
     <div class="text-center max-w-4xl mx-auto mb-12">
       <h2 class="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-        🎵 How to Play FiddleBops
+        🎵 {ui.sections.howToPlay}
       </h2>
       <p class="text-xl text-muted-foreground leading-relaxed">
         Drag characters like Garrett (belly slapping beats), Green Drum Machine (snowwoman bongos), and YTPMV Elf onto the stage to create hilarious musical combinations and unlock bonus content
@@ -22,17 +27,14 @@ import { Badge } from "@/components/ui/badge";
 
     <!-- Quick Start Section - 统一Card设计风格 -->
     <div class="mb-12 scroll-animate">
-      <Card 
-        className="bg-gradient-to-br from-primary/5 via-background to-primary/10 border-primary/20 shadow-lg"
-        client:load
-      >
-        <CardHeader className="text-center pb-6" client:load>
-          <CardTitle className="text-2xl md:text-3xl font-bold mb-2" client:load>
+      <Card className="bg-gradient-to-br from-primary/5 via-background to-primary/10 border-primary/20 shadow-lg">
+        <CardHeader className="text-center pb-6">
+          <CardTitle className="text-2xl md:text-3xl font-bold mb-2">
             🚀 Quick Start - 3 Easy Steps!
           </CardTitle>
           <p class="text-lg text-muted-foreground">Get creating music in under 30 seconds!</p>
         </CardHeader>
-        <CardContent client:load>
+        <CardContent>
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             <!-- Step 1 -->
             <div class="flex flex-col md:flex-row items-start md:items-center gap-4 p-4 bg-white/60 rounded-lg border border-white/30 transition-all duration-300 hover:shadow-md hover:bg-white/80">
@@ -77,57 +79,38 @@ import { Badge } from "@/components/ui/badge";
     <!-- Main Content Grid - 统一设计系统 -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <!-- Meet the Characters -->
-      <Card 
-        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
-        client:load
-      >
-        <CardHeader className="pb-4" client:load>
+      <Card className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20">
+        <CardHeader className="pb-4">
           <div class="flex items-center gap-3">
             <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
               🎭
             </div>
-            <CardTitle className="text-xl font-bold" client:load>
+            <CardTitle className="text-xl font-bold">
               Meet the Characters
             </CardTitle>
           </div>
         </CardHeader>
-        <CardContent className="space-y-3" client:load>
+        <CardContent className="space-y-3">
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🥁</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🥁</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Beats</strong> - Garrett (belly slaps), Green Drum Machine, Mr. Moon, Snaire, Combi
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🌟</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🌟</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Effects</strong> - YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen, Tina
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🎹</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🎹</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Melodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🎤</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🎤</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Voices</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie
             </span>
@@ -136,57 +119,38 @@ import { Badge } from "@/components/ui/badge";
       </Card>
 
       <!-- Bonus Characters -->
-      <Card 
-        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
-        client:load
-      >
-        <CardHeader className="pb-4" client:load>
+      <Card className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20">
+        <CardHeader className="pb-4">
           <div class="flex items-center gap-3">
             <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
               🎆
             </div>
-            <CardTitle className="text-xl font-bold" client:load>
+            <CardTitle className="text-xl font-bold">
               Bonus Characters
             </CardTitle>
           </div>
         </CardHeader>
-        <CardContent className="space-y-3" client:load>
+        <CardContent className="space-y-3">
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🎲</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🎲</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Words With Friends Tile</strong> - Special bonus character with unique animations
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >😂</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">😂</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Fred Figglehorn</strong> - The iconic high-pitched YouTube character
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🧩</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🧩</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Scrub Daddy GF</strong> - A cleaning product with personality
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🎵</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🎵</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Jummbox & Boykixxer</strong> - Unlock through special combinations
             </span>
@@ -195,57 +159,38 @@ import { Badge } from "@/components/ui/badge";
       </Card>
 
       <!-- Game Features -->
-      <Card 
-        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
-        client:load
-      >
-        <CardHeader className="pb-4" client:load>
+      <Card className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20">
+        <CardHeader className="pb-4">
           <div class="flex items-center gap-3">
             <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
               🎮
             </div>
-            <CardTitle className="text-xl font-bold" client:load>
+            <CardTitle className="text-xl font-bold">
               Game Features
             </CardTitle>
           </div>
         </CardHeader>
-        <CardContent className="space-y-3" client:load>
+        <CardContent className="space-y-3">
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >⚡</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">⚡</Badge>
             <span class="text-sm leading-relaxed">
               <strong>206 BPM</strong> - Fast-paced rhythm that keeps the energy high
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >😂</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">😂</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Joke Mod</strong> - Intentionally absurd and funny character design
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🖱️</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🖱️</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Easy Controls</strong> - Classic Incredibox drag-and-drop gameplay
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🎆</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🎆</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Special Animations</strong> - Watch characters like Mr. Moon come alive in 3D
             </span>
@@ -254,57 +199,38 @@ import { Badge } from "@/components/ui/badge";
       </Card>
 
       <!-- Creation Mechanics -->
-      <Card 
-        className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20"
-        client:load
-      >
-        <CardHeader className="pb-4" client:load>
+      <Card className="scroll-animate hover:shadow-lg transition-all duration-300 border-primary/20">
+        <CardHeader className="pb-4">
           <div class="flex items-center gap-3">
             <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/30 rounded-lg flex items-center justify-center text-xl shadow-sm">
               🎼
             </div>
-            <CardTitle className="text-xl font-bold" client:load>
+            <CardTitle className="text-xl font-bold">
               Creation Mechanics
             </CardTitle>
           </div>
         </CardHeader>
-        <CardContent className="space-y-3" client:load>
+        <CardContent className="space-y-3">
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🎵</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🎵</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >⏱️</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">⏱️</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🔁</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🔁</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
-            <Badge 
-              variant="secondary" 
-              className="shrink-0 text-lg p-1"
-              client:load
-            >🧪</Badge>
+            <Badge variant="secondary" className="shrink-0 text-lg p-1">🧪</Badge>
             <span class="text-sm leading-relaxed">
               <strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!
             </span>

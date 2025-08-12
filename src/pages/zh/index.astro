@@ -1,78 +1,88 @@
 ---
-import I18nPageLayout from '../../layouts/I18nPageLayout.astro';
-import I18nPageContent from '../../components/I18nPageContent.astro';
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import HeroSectionNew from '@/components/sections/HeroSectionNew.astro'
+import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
+import AboutSection from '@/components/sections/AboutSection.astro'
+import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
+import VideosSection from '@/components/sections/VideosSection.astro'
+import FAQSection from '@/components/sections/FAQSection.astro'
 
-const lang = 'zh';
-const title = 'Fiddlebops - 免费在线Fiddlebops Incredibox游戏';
-const description = '用 Fiddlebops 创建你独一无二的音乐！这是一个受 Incredibox 启发的粉丝自制项目，允许你混合搭配各种声音，创作个性化音乐。在 Fiddlebops 中，探索你的音乐天赋，分享你的独特音乐。';
+import { getCollection } from 'astro:content';
+import { getTranslation, LOCALE_NAMES } from '@/i18n/utils';
+import { getLocalizedGamesList } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/utils';
+import { getAbsoluteLocaleUrl } from 'astro:i18n';
+import { generateHomeHreflangLinks } from '@/utils/hreflang';
+import extractedData from '@/data/extracted-data.json'
 
-const structuredData = {
-  "@context": "https://schema.org",
-  "@type": "Game",
-  "name": title,
-  "alternateName": "playfiddlebops.com",
-  "url": "https://www.playfiddlebops.com/zh/",
-  "description": description
+const lang: SupportedLocale = 'zh';
+
+// UI 翻译
+const translation = await getTranslation(lang);
+const uiText = translation.ui;
+
+// 获取本地化的游戏集合（优先中文版本，自动fallback到英文）
+const localizedGames = await getLocalizedGamesList(lang);
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);
+
+const games = {
+  popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),
+  new: newGames.map((g: any) => ({ slug: g.slug, ...g.data })),
+  trending: trendingGames.map((g: any) => ({ slug: g.slug, ...g.data })),
 };
 
-const content = {
-  headerTitle: "欢迎来到 Fiddlebops！",
-  headerDescription: "开始你的音乐创作之旅！Fiddlebops 是一个受 Incredibox 启发的粉丝自制项目。在这里，您可以自由混搭各种声音，创造属于您自己的独特音乐。",
-  aboutTitle: "关于 Fiddlebops Incredibox",
-  aboutContent: `
-    <h3>I. Fiddlebops 基本信息与玩法</h3>
-    <p><strong>游戏名称:</strong> Fiddlebops</p>
-    <p><strong>类型/标签:</strong> 音乐创作, 节奏, 实验, 教育, 家庭友好, 休闲, 单人, 创意</p>
-    <p><strong>平台:</strong> Web (浏览器)</p>
-    <p><strong>发布日期:</strong> 大约在2024年11月7日</p>
-    <p><strong>价格/获取方式:</strong> 免费</p>
-    <hr />
-    <h4>1. 创作机制</h4>
-    <ul>
-      <li><strong>核心机制:</strong> 选择可爱的 Fiddlebops 角色，每个角色代表一种独特的乐器声音或音乐元素。通过拖放角色到表演位置或时间轴上来组合声音。</li>
-      <li><strong>声音组合:</strong> 组合多个 Fiddlebops 角色，创作多层次的音乐。不同的组合会产生不同的音乐纹理。</li>
-      <li><strong>节奏与时序:</strong> 可能会使用基于网格的放置方式或简单的时间轴来控制声音的时序和节奏。</li>
-      <li><strong>循环与重复:</strong> 可能会包含循环播放声音的机制来创造重复的音乐乐句。</li>
-      <li><strong>探索与实验:</strong> 鼓励自由探索声音组合，强调创作的乐趣。</li>
-    </ul>
-  `,
-  soundsTitle: "探索Fiddlebops中不同的声音",
-  videoTitle: "Fiddlebops Incredibox Game Video",
-  faqTitle: "关于 Fiddlebops游戏的常见问题",
-  faqItems: [
-    {
-      question: "什么是 Fiddlebops 游戏",
-      answer: "Fiddlebops 游戏是由 Incredibox 粉丝制作的项目，灵感来源于 Incredibox。在这里，你可以体验声音混搭的乐趣，并通过直观的界面创作出独一无二的音乐作品。"
-    },
-    {
-      question: "Fiddlebops 游戏是否免费？",
-      answer: "是的，Fiddlebops 游戏完全免费，玩家可以在线游玩，无需下载。"
-    },
-    {
-      question: "是否需要下载或安装？",
-      answer: "不需要。游戏直接在浏览器中运行，支持桌面和移动设备"
-    },
-    {
-      question: "Fiddlebops 游戏如何开始创作音乐？",
-      answer: "玩家可以通过拖拽角色到舞台上，将它们的独特声音组合成音乐作品。尝试不同的角色组合可以解锁隐藏的旋律和奖励内容"
-    },
-    {
-      question: "游戏是否适合音乐爱好者？",
-      answer: "绝对适合！《Fiddlebops》为音乐爱好者提供了一个充满创意和乐趣的平台。"
-    },
-    {
-      question: "游戏是否支持多人协作？",
-      answer: "是的，玩家可以与其他玩家实时协作，共同创作音乐。"
-    }
-  ],
-  navigation: {
-    home: "首页",
-    privacy: "隐私策略",
-    terms: "服务条款"
-  }
+// hreflang
+const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '');
+const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({ code, label, url: '' }));
+const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
+
+// meta
+const pageMeta = {
+  title: uiText?.meta?.title || 'FiddleBops - 免费在线音乐创作游戏',
+  description: uiText?.meta?.description || '用 FiddleBops 创作你的专属音乐！',
+  keywords: uiText?.meta?.keywords || 'fiddlebops, 音乐游戏, 音乐创作',
+  canonical: getAbsoluteLocaleUrl(lang, '/'),
+  ogImage: 'https://www.playfiddlebops.com/images/fiddlebops-og.jpg'
+};
+
+// 结构化数据（与英文首页一致）
+const websiteNode = {
+  '@type': 'WebSite',
+  name: pageMeta.title,
+  alternateName: 'playfiddlebops.com',
+  url: pageMeta.canonical,
+  description: pageMeta.description,
+};
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [websiteNode],
 };
 ---
 
-<I18nPageLayout {lang} {title} {description} {structuredData}>
-  <I18nPageContent {lang} {content} />
-</I18nPageLayout>
+<BaseLayout meta={pageMeta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>
+  <Navigation locale={lang} currentPath={`/${lang}/`} />
+  <main id="main-content" class="min-h-screen" role="main">
+    <HeroSectionNew
+      hero={{
+        title: uiText?.hero?.title || '用 FiddleBops 创作精彩音乐',
+        description: uiText?.hero?.subtitle || '互动式音乐创作，角色丰富，创意无限',
+        mainGame: {
+          iframe: 'https://fiddlebops.netlify.app/',
+          backgroundImage: '/tw.jpg'
+        }
+      }}
+      games={games}
+    />
+
+    <HowToPlaySection />
+    <AboutSection />
+    <SoundSamplesSection soundSamples={[]}/>
+    <VideosSection />
+    <FAQSection />
+  </main>
+  <Footer locale={lang} />
+</BaseLayout>

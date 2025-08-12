@@ -10,13 +10,13 @@ interface Props {
   basePath: string;
 }
 
-const { 
-  currentPage, 
-  totalPages, 
-  totalItems, 
-  prevUrl, 
+const {
+  currentPage,
+  totalPages,
+  totalItems,
+  prevUrl,
   nextUrl,
-  basePath = '/games/' 
+  basePath = '/games/'
 } = Astro.props;
 
 // 计算要显示的页码数量
@@ -25,24 +25,24 @@ function getPaginationNumbers(current: number, total: number, maxDisplayed: numb
   if (total <= maxDisplayed) {
     return Array.from({ length: total }, (_, i) => i + 1);
   }
-  
+
   // 否则，计算要显示哪些页码
   const half = Math.floor(maxDisplayed / 2);
   let start = Math.max(current - half, 1);
   let end = Math.min(start + maxDisplayed - 1, total);
-  
+
   // 调整开始位置，确保显示正确数量的页码
   if (end - start + 1 < maxDisplayed) {
     start = Math.max(end - maxDisplayed + 1, 1);
   }
-  
+
   return Array.from({ length: end - start + 1 }, (_, i) => start + i);
 }
 
 const pageNumbers = getPaginationNumbers(currentPage, totalPages);
 ---
 
-<nav 
+<nav
   class="bg-white/70 backdrop-blur-md border border-white/20 shadow-lg rounded-xl p-6 text-center"
   aria-label="Games pagination"
 >
@@ -53,10 +53,10 @@ const pageNumbers = getPaginationNumbers(currentPage, totalPages);
     </span>
   </div>
 
-  <div class="flex flex-col md:flex-row items-center justify-center gap-4">
+  <div class="pagination flex flex-col md:flex-row items-center justify-center gap-4">
     {prevUrl && (
       <Button variant="outline" size="sm" asChild>
-        <a href={prevUrl} rel="prev" class="flex items-center gap-2">
+        <a href={prevUrl} rel="prev" class="pagination-link gap-2">
           <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="w-4 h-4">
             <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
           </svg>
@@ -70,7 +70,7 @@ const pageNumbers = getPaginationNumbers(currentPage, totalPages);
       {!pageNumbers.includes(1) && (
         <>
           <Button variant="outline" size="sm" asChild>
-            <a href={basePath}>1</a>
+            <a href={basePath} class="pagination-link">1</a>
           </Button>
           <span class="text-gray-400 text-sm">...</span>
         </>
@@ -82,15 +82,16 @@ const pageNumbers = getPaginationNumbers(currentPage, totalPages);
         const pageUrl = pageNum === 1 ? basePath : `${basePath}${pageNum}/`;
 
         return (
-          <Button 
-            variant={isCurrentPage ? "default" : "outline"} 
-            size="sm" 
+          <Button
+            variant={isCurrentPage ? "default" : "outline"}
+            size="sm"
             asChild
           >
             <a
               href={pageUrl}
               aria-current={isCurrentPage ? 'page' : undefined}
               aria-label={`Page ${pageNum}`}
+              class="pagination-link"
             >
               {pageNum}
             </a>
@@ -103,7 +104,7 @@ const pageNumbers = getPaginationNumbers(currentPage, totalPages);
         <>
           <span class="text-gray-400 text-sm">...</span>
           <Button variant="outline" size="sm" asChild>
-            <a href={`${basePath}${totalPages}/`}>{totalPages}</a>
+            <a href={`${basePath}${totalPages}/`} class="pagination-link">{totalPages}</a>
           </Button>
         </>
       )}
@@ -111,7 +112,7 @@ const pageNumbers = getPaginationNumbers(currentPage, totalPages);
 
     {nextUrl && (
       <Button variant="outline" size="sm" asChild>
-        <a href={nextUrl} rel="next" class="flex items-center gap-2">
+        <a href={nextUrl} rel="next" class="pagination-link gap-2">
           <span>Next</span>
           <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="w-4 h-4">
             <path d="M8.59 16.59L10 18l6-6-6-6-1.41 1.41L13.17 12z"/>
@@ -121,4 +122,3 @@ const pageNumbers = getPaginationNumbers(currentPage, totalPages);
     )}
   </div>
 </nav>
-

@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "games": "Juegos", 
+    "newGames": "Juegos Nuevos",
+    "popularGames": "Juegos Populares",
+    "trendingGames": "Juegos en Tendencia",
+    "aboutUs": "Acerca de Nosotros",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "language": "Idioma"
+  },
+  "meta": {
+    "title": "FiddleBops - Juegos de Creación Musical Online",
+    "description": "¡Crea música increíble con FiddleBops! Juegos interactivos de creación musical con personajes divertidos y ritmos. Juega gratis en tu navegador.",
+    "keywords": "fiddlebops, juegos musicales, creación musical, incredibox, sprunki, hacer ritmos, música interactiva"
+  },
+  "hero": {
+    "title": "Crea Música Increíble con FiddleBops",
+    "subtitle": "Juegos de creación musical interactivos con personajes divertidos y creatividad ilimitada",
+    "playNow": "Jugar Ahora",
+    "learnMore": "Saber Más"
+  },
+  "sections": {
+    "howToPlay": "Cómo Jugar",
+    "newGames": "Juegos Nuevos",
+    "popularGames": "Juegos Populares",
+    "trendingGames": "Juegos en Tendencia", 
+    "about": "Acerca de FiddleBops",
+    "videos": "Tutoriales en Video"
+  },
+  "games": {
+    "playNow": "Jugar Ahora",
+    "loading": "Cargando...",
+    "error": "Error al cargar el juego",
+    "retry": "Intentar de Nuevo",
+    "viewMore": "Ver Más Juegos",
+    "noGames": "No se encontraron juegos",
+    "category": "Categoría",
+    "rating": "Calificación"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Intentar de Nuevo",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior", 
+    "close": "Cerrar",
+    "menu": "Menú"
+  },
+  "footer": {
+    "aboutUs": "Acerca de Nosotros",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyright": "© 2025 FiddleBops. Todos los derechos reservados.",
+    "legal": "Legal",
+    "contactUs": "Contáctanos",
+    "quickLinks": "Enlaces Rápidos",
+    "tagline": "Crear Música, Compartir Alegría",
+    "description": "Plataforma gratuita de creación musical online"
+  }
+}

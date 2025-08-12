@@ -1,3 +1,4 @@
+import ResponsivePicture from '@/components/ResponsivePicture.astro'
 ---
 interface Props {
   communityMods: Array<{
@@ -19,7 +20,8 @@ const { communityMods, musicDelayStart } = Astro.props
         <div class={`music-element hero-music-delay-${musicDelayStart + index}`}>
           <a href={`/${mod.slug}/`} class="hero-community-card-inline">
             <div class="hero-community-image-inline">
-              <img src={mod.image} alt={mod.title} />
+              <!-- AURA-X: Modify - 社区卡片图片添加懒加载与异步解码。Confirmed via 寸止。 -->
+              <ResponsivePicture src={mod.image} alt={mod.title} loading="lazy" decoding="async" width={400} height={300} class="w-full h-full object-cover" />
               <div class="hero-community-overlay-inline" />
               <div class="hero-community-title-inline">
                 <h3>{mod.title}</h3>
@@ -53,6 +55,7 @@ const { communityMods, musicDelayStart } = Astro.props
     gap: var(--space-3);
     padding: 0;
     width: 100%;
+    max-width: 100%;
   }
 
   .hero-community-card-inline {
@@ -69,6 +72,7 @@ const { communityMods, musicDelayStart } = Astro.props
     box-shadow:
       0 2px 8px rgba(0, 0, 0, 0.08),
       0 1px 3px rgba(0, 0, 0, 0.04);
+    min-height: 44px; /* 提升触控可点击面积 */
   }
 
   .hero-community-card-inline:hover {
@@ -131,6 +135,10 @@ const { communityMods, musicDelayStart } = Astro.props
     margin: 0;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
     text-align: center;
+    min-height: 44px; /* 保证标题区域触控高度 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   /* 响应式设计 */
@@ -139,6 +147,7 @@ const { communityMods, musicDelayStart } = Astro.props
       grid-template-columns: repeat(2, 1fr);
       gap: var(--space-3);
       padding: var(--space-3);
+      overflow-x: hidden; /* 防止平板宽度下产生水平滚动 */
     }
   }
 

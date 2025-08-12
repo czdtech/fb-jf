@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "Home",
+    "games": "Games", 
+    "newGames": "New Games",
+    "popularGames": "Popular Games",
+    "trendingGames": "Trending Games",
+    "aboutUs": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "language": "Language"
+  },
+  "meta": {
+    "title": "FiddleBops - Play FiddleBops Incredibox Game",
+    "description": "Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.",
+    "keywords": "fiddlebops, music games, music creation, incredibox, sprunki, beat making, interactive music"
+  },
+  "hero": {
+    "title": "Welcome to Fiddlebops Incredibox!",
+    "subtitle": "Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music."
+  },
+  "sections": {
+    "howToPlay": "How to Play",
+    "newGames": "New Games",
+    "popularGames": "Popular Games",
+    "trendingGames": "Trending Games", 
+    "about": "About FiddleBops",
+    "videos": "Video Tutorials"
+  },
+  "games": {
+    "playNow": "Play Now",
+    "loading": "Loading...",
+    "error": "Failed to load game",
+    "retry": "Try Again",
+    "viewMore": "View More Games",
+    "noGames": "No games found",
+    "category": "Category",
+    "rating": "Rating"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous", 
+    "close": "Close",
+    "menu": "Menu"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 FiddleBops. All rights reserved.",
+    "legal": "Legal",
+    "contactUs": "Contact Us",
+    "quickLinks": "Quick Links",
+    "tagline": "Create Music, Share Joy",
+    "description": "Free Online Music Creation Platform"
+  }
+}

@@ -317,7 +317,7 @@ class FiddleBopsInteractions {
   }
 
   /**
-   * 导航交互
+   * 导航交互 - 已清理移动端菜单逻辑
    */
   setupNavigation() {
     const navLinks = document.querySelectorAll('.nav-link');
@@ -328,15 +328,7 @@ class FiddleBopsInteractions {
       });
     });
 
-    // 移动端导航切换
-    const navToggle = document.querySelector('.nav-toggle');
-    const navMenu = document.querySelector('.nav-menu');
-
-    if (navToggle && navMenu) {
-      navToggle.addEventListener('click', () => {
-        this.toggleMobileNav(navMenu);
-      });
-    }
+    // 移动端导航切换逻辑已移除 - Navigation.astro已改用shadcn/ui组件
   }
 
   /**
@@ -353,19 +345,6 @@ class FiddleBopsInteractions {
     }, 600);
   }
 
-  /**
-   * 移动端导航切换
-   */
-  toggleMobileNav(menu) {
-    menu.classList.toggle('active');
-
-    // 添加动画类
-    if (menu.classList.contains('active')) {
-      menu.style.animation = 'slideDown 300ms ease-out';
-    } else {
-      menu.style.animation = 'slideUp 300ms ease-out';
-    }
-  }
 
   /**
    * 页面过渡效果 - 已禁用

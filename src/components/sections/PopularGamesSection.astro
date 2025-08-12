@@ -8,12 +8,12 @@ const allGames = await getCollection('games');
 // 定义流行游戏的 slug 列表
 const popularGameSlugs = [
   'sprunki-red-sun',
-  'sprunki-abgerny', 
+  'sprunki-abgerny',
   'sprunki-sonic'
 ];
 
 // 筛选流行游戏
-const popularGames = allGames.filter(game => 
+const popularGames = allGames.filter((game: any) =>
   popularGameSlugs.includes(game.slug)
 );
 
@@ -46,7 +46,7 @@ const displayGames = maxItems ? popularGames.slice(0, maxItems) : popularGames;
     margin-bottom: var(--space-8);
     color: var(--color-gray-900);
   }
-  
+
   @media (max-width: 768px) {
     .popular-games-section h2 {
       font-size: var(--font-size-2xl);

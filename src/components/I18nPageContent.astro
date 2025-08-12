@@ -3,6 +3,8 @@ import TrendingGamesSection from './sections/TrendingGamesSection.astro'
 import NewGamesSection from './sections/NewGamesSection.astro'
 import PopularGamesSection from './sections/PopularGamesSection.astro'
 import NAV from "./legacy/nav.astro"
+import { Image } from 'astro:assets';
+import GameIframe from '@/components/GameIframe.astro'
 
 export interface Props {
   lang: string;
@@ -54,8 +56,8 @@ const languageOptions = [
     </nav>
     <select style="float:right;">
       {languageOptions.map(option => (
-        <option 
-          data-lang={option.code} 
+        <option
+          data-lang={option.code}
           data-url={option.url}
           selected={option.code === lang}
         >
@@ -76,15 +78,8 @@ const languageOptions = [
         </div>
         <PopularGamesSection showTitle={false} maxItems={3} variant="grid" />
         <div class="game-iframe-sprunki">
-          <iframe
-            id="fiddlebops-iframe"
-            src=""
-            allowtransparency="true"
-            frameborder="0"
-            scrolling="no"
-            allowfullscreen
-            width="100%"
-            height="100%"></iframe>
+          <!-- AURA-X: Modify - 统一使用 GameIframe 以集中管控 sandbox。Confirmed via 寸止。 -->
+          <GameIframe id="fiddlebops-iframe" src="" backgroundImage="/tw.jpg" autoLoad={false} gameTitle={content.headerTitle} gameDescription={content.headerDescription} />
           <button id="playButton">Play</button>
         </div>
         <NewGamesSection showTitle={false} maxItems={4} variant="grid" />
@@ -92,21 +87,21 @@ const languageOptions = [
     </div>
   </section>
   <TrendingGamesSection showTitle={true} maxItems={8} variant="grid" />
-  
+
   <section class="about" id="about">
     <div class="container">
       <h2>{content.aboutTitle}</h2>
       <div class="about-content" set:html={content.aboutContent}></div>
     </div>
   </section>
-  
+
   <section class="games">
     <div class="container">
       <h2>{content.soundsTitle}</h2>
       <div class="game-grid">
         <div class="game">
           <div class="game-logo">
-            <img src="../img-1.png" alt="Beat 1" />
+            <img src="../img-1.png" alt="Beat 1" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Beat 1</p>
           <audio
@@ -122,7 +117,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-2.png" alt="Beat 3" />
+            <img src="../img-2.png" alt="Beat 3" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Beat 3</p>
           <audio
@@ -138,7 +133,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-3.png" alt="Beat 5" />
+            <img src="../img-3.png" alt="Beat 5" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Beat 5</p>
           <audio
@@ -154,7 +149,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-4.png" alt="Effect 3" />
+            <img src="../img-4.png" alt="Effect 3" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Effect 3</p>
           <audio
@@ -170,7 +165,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-5.png" alt="Effect 4" />
+            <img src="../img-5.png" alt="Effect 4" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Effect 4</p>
           <audio
@@ -186,7 +181,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-6.png" alt="Effect 5" />
+            <img src="../img-6.png" alt="Effect 5" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Effect 5</p>
           <audio
@@ -202,7 +197,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-7.png" alt="Voice 2" />
+            <img src="../img-7.png" alt="Voice 2" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Voice 2</p>
           <audio
@@ -218,7 +213,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-8.png" alt="Voice 3" />
+            <img src="../img-8.png" alt="Voice 3" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Voice 3</p>
           <audio
@@ -234,7 +229,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-9.png" alt="Voice 5" />
+            <img src="../img-9.png" alt="Voice 5" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Voice 5</p>
           <audio
@@ -250,7 +245,7 @@ const languageOptions = [
         </div>
         <div class="game">
           <div class="game-logo">
-            <img src="../img-10.png" alt="Bonus 1" />
+            <img src="../img-10.png" alt="Bonus 1" width="60" height="60" loading="lazy" decoding="async" />
           </div>
           <p>Bonus 1</p>
           <audio
@@ -277,20 +272,50 @@ const languageOptions = [
           title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
+          allowfullscreen
+          loading="lazy"></iframe>
         <iframe
           src="https://www.youtube.com/embed/JlMa-fRBOwE"
           title="Every Incredibox Fiddlebops in 8 Minutes"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
-          allowfullscreen></iframe>
+          allowfullscreen
+          loading="lazy"></iframe>
+        <!-- AURA-X: Add - 为页面内视频添加 JSON-LD（VideoObject）并合并至 @graph。Confirmed via 寸止。 -->
+        <script type="application/ld+json">
+          {JSON.stringify({
+            '@context': 'https://schema.org',
+            '@graph': [
+              {
+                '@type': 'VideoObject',
+                name: 'FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4',
+                description: 'FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4',
+                thumbnailUrl: ['https://i.ytimg.com/vi/4Oj-dVLSA70/hqdefault.jpg'],
+                uploadDate: '2024-11-14',
+                embedUrl: 'https://www.youtube.com/embed/4Oj-dVLSA70',
+                contentUrl: 'https://www.youtube.com/watch?v=4Oj-dVLSA70',
+                publisher: { '@type': 'Organization', name: 'Mozziface' },
+              },
+              {
+                '@type': 'VideoObject',
+                name: 'Every Incredibox FiddleBops in 8 Minutes',
+                description: 'Every Incredibox FiddleBops in 8 Minutes',
+                thumbnailUrl: ['https://i.ytimg.com/vi/JlMa-fRBOwE/hqdefault.jpg'],
+                uploadDate: '2024-12-29',
+                embedUrl: 'https://www.youtube.com/embed/JlMa-fRBOwE',
+                contentUrl: 'https://www.youtube.com/watch?v=JlMa-fRBOwE',
+                publisher: { '@type': 'Organization', name: 'PlayGameWithZubby' },
+              },
+            ],
+          })}
+        </script>
         <div style="clear:both"></div>
       </div>
     </div>
     <div style="clear:both"></div>
   </section>
   <div style="clear:both"></div>
-  
+
   <section class="about" id="faq">
     <div class="container">
       <h2>{content.faqTitle}</h2>

@@ -1,0 +1,65 @@
+---
+import { getImage } from 'astro:assets';
+
+export interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  width?: number;
+  height?: number;
+  loading?: 'eager' | 'lazy';
+  decoding?: 'sync' | 'async' | 'auto';
+  sizes?: string;
+  fetchpriority?: 'high' | 'low' | 'auto';
+}
+
+const {
+  src,
+  alt,
+  class: className = '',
+  width = 400,
+  height = 225,
+  loading = 'lazy',
+  decoding = 'async',
+  sizes = '100vw',
+  fetchpriority = 'auto',
+} = Astro.props as Props;
+
+// 仅处理本地图片（以 / 或 ./ 开头），远程图片直接回退为 <img>
+const isLocal = src.startsWith('/') || src.startsWith('./');
+
+let avif: any; let webp: any; let orig: any;
+if (isLocal) {
+  avif = await getImage({ src, width, height, format: 'avif' as const });
+  webp = await getImage({ src, width, height, format: 'webp' as const });
+  orig = await getImage({ src, width, height });
+}
+---
+
+{isLocal ? (
+  <picture>
+    <source srcset={avif.src} type="image/avif" sizes={sizes} />
+    <source srcset={webp.src} type="image/webp" sizes={sizes} />
+    <img
+      src={orig.src}
+      width={width}
+      height={height}
+      alt={alt}
+      class={className}
+      loading={loading}
+      decoding={decoding}
+      fetchpriority={fetchpriority}
+    />
+  </picture>
+) : (
+  <img
+    src={src}
+    alt={alt}
+    class={className}
+    width={width}
+    height={height}
+    loading={loading}
+    decoding={decoding}
+    fetchpriority={fetchpriority}
+  />
+)}

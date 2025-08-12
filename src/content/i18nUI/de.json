@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "games": "Spiele", 
+    "newGames": "Neue Spiele",
+    "popularGames": "Beliebte Spiele",
+    "trendingGames": "Trending Spiele",
+    "aboutUs": "Über Uns",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "language": "Sprache"
+  },
+  "meta": {
+    "title": "FiddleBops - Online Musik-Kreationsspiele",
+    "description": "Erstelle erstaunliche Musik mit FiddleBops! Interaktive Musik-Kreationsspiele mit lustigen Charakteren und Beats. Spiele kostenlos in deinem Browser.",
+    "keywords": "fiddlebops, musikspiele, musik erstellen, incredibox, sprunki, beat making, interaktive musik"
+  },
+  "hero": {
+    "title": "Erstelle Erstaunliche Musik mit FiddleBops",
+    "subtitle": "Interaktive Musik-Kreationsspiele mit lustigen Charakteren und unbegrenzter Kreativität",
+    "playNow": "Jetzt Spielen",
+    "learnMore": "Mehr Erfahren"
+  },
+  "sections": {
+    "howToPlay": "Wie Man Spielt",
+    "newGames": "Neue Spiele",
+    "popularGames": "Beliebte Spiele",
+    "trendingGames": "Trending Spiele", 
+    "about": "Über FiddleBops",
+    "videos": "Video-Tutorials"
+  },
+  "games": {
+    "playNow": "Jetzt Spielen",
+    "loading": "Laden...",
+    "error": "Spiel konnte nicht geladen werden",
+    "retry": "Erneut Versuchen",
+    "viewMore": "Mehr Spiele Ansehen",
+    "noGames": "Keine Spiele gefunden",
+    "category": "Kategorie",
+    "rating": "Bewertung"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schiefgelaufen",
+    "retry": "Erneut Versuchen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige", 
+    "close": "Schließen",
+    "menu": "Menü"
+  },
+  "footer": {
+    "aboutUs": "Über Uns",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2025 FiddleBops. Alle Rechte vorbehalten.",
+    "legal": "Rechtliches",
+    "contactUs": "Kontakt",
+    "quickLinks": "Schnelle Links",
+    "tagline": "Musik Erstellen, Freude Teilen",
+    "description": "Kostenlose Online-Musikerstellungsplattform"
+  }
+}

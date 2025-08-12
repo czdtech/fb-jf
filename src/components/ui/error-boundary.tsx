@@ -1,4 +1,4 @@
-import React, { Component, ReactNode } from 'react'
+import React, { Component, type ReactNode } from 'react'
 import { Alert, AlertDescription, AlertTitle } from './alert'
 import { Button } from './button'
 
@@ -26,7 +26,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
 
   componentDidCatch(error: Error, errorInfo: React.ErrorInfo) {
     console.error('ErrorBoundary caught an error:', error, errorInfo)
-    
+
     if (this.props.onError) {
       this.props.onError(error, errorInfo)
     }
@@ -44,11 +44,11 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
 
       return (
         <Alert variant="destructive" className="max-w-2xl mx-auto">
-          <svg 
-            className="h-4 w-4" 
-            viewBox="0 0 24 24" 
-            fill="none" 
-            stroke="currentColor" 
+          <svg
+            className="h-4 w-4"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
             strokeWidth="2"
           >
             <circle cx="12" cy="12" r="10"/>
@@ -61,7 +61,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
               <p className="text-sm">
                 该组件遇到了意外错误，请尝试刷新页面或联系技术支持。
               </p>
-              
+
               {this.props.showDetails && this.state.error && (
                 <details className="text-xs bg-muted/30 p-2 rounded border">
                   <summary className="cursor-pointer font-medium mb-2">错误详情</summary>
@@ -77,14 +77,14 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
                   </pre>
                 </details>
               )}
-              
+
               <div className="flex gap-2">
                 <Button variant="outline" size="sm" onClick={this.handleRetry}>
-                  <svg 
-                    className="w-3 h-3 mr-1" 
-                    viewBox="0 0 24 24" 
-                    fill="none" 
-                    stroke="currentColor" 
+                  <svg
+                    className="w-3 h-3 mr-1"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
                     strokeWidth="2"
                   >
                     <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/>
@@ -94,9 +94,9 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
                   </svg>
                   重试
                 </Button>
-                <Button 
-                  variant="outline" 
-                  size="sm" 
+                <Button
+                  variant="outline"
+                  size="sm"
                   onClick={() => window.location.reload()}
                 >
                   刷新页面

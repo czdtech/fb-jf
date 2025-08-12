@@ -21,7 +21,7 @@ const newGameSlugs = [
 ];
 
 // 筛选新游戏
-const newGames = allGames.filter(game => 
+const newGames = allGames.filter((game: any) =>
   newGameSlugs.includes(game.slug)
 );
 
@@ -30,8 +30,8 @@ const meta = {
   title: 'New Games - Fiddlebops',
   description: 'Play the newest Fiddlebops and Sprunki games. Discover fresh music creation experiences just added to our collection.',
   keywords: 'new games, latest games, fresh games, fiddlebops, sprunki, music games',
-  canonical: 'https://www.playfiddlebops.com/new-games',
-  ogImage: '/social-share.png'
+  canonical: 'https://www.playfiddlebops.com/new-games/',
+  ogImage: '/tw.jpg'
 };
 ---
 
@@ -44,7 +44,7 @@ const meta = {
   />
 
   <main class="new-games-page">
-    <div class="container">
+    <div class="responsive-container container-standard">
       <div class="page-header">
         <h1>&#9658; New Games</h1>
         <p>Fresh additions to our music game collection</p>
@@ -56,9 +56,9 @@ const meta = {
 
       <div class="all-new-games-section">
         <h2>Recently Added Games</h2>
-        <GamesList 
-          games={allGames.slice(0, 16)} 
-          variant="grid" 
+        <GamesList
+          games={allGames.slice(0, 16)}
+          variant="grid"
         />
       </div>
     </div>

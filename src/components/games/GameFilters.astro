@@ -21,7 +21,7 @@ const { categories = [], totalGames } = Astro.props;
         id="game-search"
         type="search"
         placeholder="Search for games..."
-        class="w-full"
+        className="w-full"
       />
     </div>
 
@@ -30,7 +30,7 @@ const { categories = [], totalGames } = Astro.props;
       <label for="category-select" class="block text-sm font-medium text-gray-700 mb-2">
         Category
       </label>
-      <select 
+      <select
         id="category-select"
         class="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
       >
@@ -48,7 +48,7 @@ const { categories = [], totalGames } = Astro.props;
       <label for="sort-select" class="block text-sm font-medium text-gray-700 mb-2">
         Sort By
       </label>
-      <select 
+      <select
         id="sort-select"
         class="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
       >
@@ -62,7 +62,7 @@ const { categories = [], totalGames } = Astro.props;
 
     <!-- 清除筛选按钮 -->
     <div class="md:col-span-2">
-      <Button variant="outline" class="w-full" id="clear-filters">
+      <Button variant="outline" className="w-full" id="clear-filters">
         Clear Filters
       </Button>
     </div>
@@ -76,7 +76,7 @@ const { categories = [], totalGames } = Astro.props;
     const categorySelect = document.getElementById('category-select') as HTMLSelectElement;
     const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
     const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement;
-    
+
     // 搜索功能
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
@@ -113,7 +113,7 @@ const { categories = [], totalGames } = Astro.props;
         if (sortSelect) {
           sortSelect.selectedIndex = 0;
         }
-        
+
         // 显示所有游戏
         showAllGames();
       });
@@ -126,10 +126,10 @@ const { categories = [], totalGames } = Astro.props;
       gameCards.forEach((card) => {
         const title = card.getAttribute('data-game-title')?.toLowerCase() || '';
         const gameCategory = card.getAttribute('data-game-category')?.toLowerCase() || '';
-        
+
         const matchesSearch = !searchTerm || title.includes(searchTerm) || gameCategory.includes(searchTerm);
         const matchesCategory = !category || category === 'all' || gameCategory === category;
-        
+
         if (matchesSearch && matchesCategory) {
           (card as HTMLElement).style.display = '';
           visibleCount++;
@@ -146,11 +146,11 @@ const { categories = [], totalGames } = Astro.props;
       if (!gameGrid) return;
 
       const gameCards = Array.from(gameGrid.querySelectorAll('[data-game-card]'));
-      
+
       gameCards.sort((a, b) => {
         const titleA = a.getAttribute('data-game-title') || '';
         const titleB = b.getAttribute('data-game-title') || '';
-        
+
         switch (sortBy) {
           case 'name':
             return titleA.localeCompare(titleB);
@@ -173,7 +173,7 @@ const { categories = [], totalGames } = Astro.props;
       gameCards.forEach((card) => {
         (card as HTMLElement).style.display = '';
       });
-      
+
       updateResultsCount(gameCards.length);
     }
 

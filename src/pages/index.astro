@@ -11,58 +11,134 @@ import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
 
-// Import data
+// Import i18n system
 import { getCollection } from 'astro:content';
-import extractedData from '@/data/extracted-data.json'
+import { getCurrentLocale, getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getAbsoluteLocaleUrl } from 'astro:i18n';
+import { generateHomeHreflangLinks } from '@/utils/hreflang';
 
-const { navigation, homepage } = extractedData
+// 获取当前语言
+const currentLocale: SupportedLocale = getCurrentLocale(Astro.url);
+
+// 获取翻译内容
+const translation = await getTranslation(currentLocale);
+const uiText = translation.ui;
+const homeContent = translation.home;
 
 // Fetch all games and filter them by category
 const allGames = await getCollection('games');
-const popularGames = allGames.filter(game => game.data.category === 'popular').slice(0, 5);
-const newGames = allGames.filter(game => game.data.category === 'new').slice(0, 5);
-const trendingGames = allGames.filter(game => game.data.category === 'trending').slice(0, 10);
+const popularGames = allGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
+const newGames = allGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
+const trendingGames = allGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);
 
 const games = {
-  popular: popularGames.map(g => ({ slug: g.slug, ...g.data })),
-  new: newGames.map(g => ({ slug: g.slug, ...g.data })),
-  trending: trendingGames.map(g => ({ slug: g.slug, ...g.data })),
+  popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),
+  new: newGames.map((g: any) => ({ slug: g.slug, ...g.data })),
+  trending: trendingGames.map((g: any) => ({ slug: g.slug, ...g.data })),
 };
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: `https://www.playfiddlebops.com${lang.url}`,
-  label: lang.label,
-}))
+// 生成 hreflang 链接（对齐 BaseLayout 期望的 { code, url, label } 结构）
+const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '');
+const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
+  code,
+  label,
+  url: ''
+}));
+const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
 
-// 结构化数据
+// 构建页面meta数据
+const pageMeta = {
+  title: uiText?.meta?.title || 'FiddleBops - Play Music Games',
+  description: uiText?.meta?.description || 'Create your unique music with FiddleBops!',
+  keywords: uiText?.meta?.keywords || 'fiddlebops, music games, music creation',
+  canonical: getAbsoluteLocaleUrl(currentLocale, '/'),
+  ogImage: 'https://www.playfiddlebops.com/images/fiddlebops-og.jpg'
+};
+
+// 默认音频样本数据（保持兼容性）
+const defaultSoundSamples = {
+  title: uiText?.sections?.about || 'Sound Samples',
+  samples: [
+    {
+      name: 'Beat 1',
+      audioSrc: '/audio/beat1.mp3',
+      color: '#FF6B6B'
+    },
+    {
+      name: 'Beat 2',
+      audioSrc: '/audio/beat2.mp3',
+      color: '#4ECDC4'
+    },
+    {
+      name: 'Beat 3',
+      audioSrc: '/audio/beat3.mp3',
+      color: '#45B7D1'
+    }
+  ]
+};
+
+// 结构化数据：网站级（首页） + 视频 JSON-LD（合并为 @graph）
+const websiteNode = {
+  '@type': 'WebSite',
+  name: pageMeta.title,
+  alternateName: 'playfiddlebops.com',
+  url: pageMeta.canonical,
+  description: pageMeta.description,
+};
+
+const videoObjects = [
+  {
+    '@type': 'VideoObject',
+    name: 'FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4',
+    description: 'FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4',
+    thumbnailUrl: ['https://i.ytimg.com/vi/4Oj-dVLSA70/hqdefault.jpg'],
+    uploadDate: '2024-11-14',
+    embedUrl: 'https://www.youtube.com/embed/4Oj-dVLSA70',
+    contentUrl: 'https://www.youtube.com/watch?v=4Oj-dVLSA70',
+    publisher: { '@type': 'Organization', name: 'Mozziface' },
+  },
+  {
+    '@type': 'VideoObject',
+    name: 'Every Incredibox FiddleBops in 8 Minutes',
+    description: 'Every Incredibox FiddleBops in 8 Minutes',
+    thumbnailUrl: ['https://i.ytimg.com/vi/JlMa-fRBOwE/hqdefault.jpg'],
+    uploadDate: '2024-12-29',
+    embedUrl: 'https://www.youtube.com/embed/JlMa-fRBOwE',
+    contentUrl: 'https://www.youtube.com/watch?v=JlMa-fRBOwE',
+    publisher: { '@type': 'Organization', name: 'PlayGameWithZubby' },
+  },
+];
+
 const structuredData = {
   '@context': 'https://schema.org',
-  '@type': 'Game',
-  name: homepage.meta?.title || 'FiddleBops - Play Music Games',
-  alternateName: 'playfiddlebops.com',
-  url: homepage.meta?.canonical || 'https://www.playfiddlebops.com/',
-  description: homepage.meta?.description || 'Create your unique music with FiddleBops!',
-}
+  '@graph': [websiteNode, ...videoObjects],
+};
 ---
 
 <BaseLayout
-  meta={homepage.meta}
-  lang="en"
+  meta={pageMeta}
+  lang={currentLocale}
   hreflang={hreflangLinks}
   structuredData={structuredData}
 >
   <Navigation
-    navigation={navigation.main}
-    languages={navigation.languages}
-    currentLang="en"
+    locale={currentLocale}
     currentPath="/"
   />
 
   <main id="main-content" class="min-h-screen" role="main">
     <!-- Clean Hero Section with shadcn/ui components -->
-    <HeroSectionNew hero={homepage.hero} games={games} />
+    <HeroSectionNew
+      hero={{
+        title: uiText?.hero?.title || 'Create Amazing Music with FiddleBops',
+        description: uiText?.hero?.subtitle || 'Interactive music creation games with fun characters and unlimited creativity',
+        mainGame: {
+          iframe: 'https://fiddlebops.netlify.app/',
+          backgroundImage: '/tw.jpg'
+        }
+      }}
+      games={games}
+    />
 
     <!-- How to Play Section -->
     <HowToPlaySection />
@@ -71,7 +147,7 @@ const structuredData = {
     <AboutSection />
 
     <!-- Sound Samples Section -->
-    <SoundSamplesSection soundSamples={homepage.soundSamples} />
+    <SoundSamplesSection soundSamples={defaultSoundSamples.samples} />
 
     <!-- Video Section -->
     <VideosSection />
@@ -84,41 +160,72 @@ const structuredData = {
   <Footer />
 </BaseLayout>
 
-<!-- 引入交互系统 -->
-<script>
-  import '@/scripts/interactions.js'
-</script>
+  <!-- 交互系统已由 BaseLayout 全局引入 -->
 
-<!-- 音频播放器脚本 - 已模块化，使用统一的音频管理器 -->
-<script>
-  import '@/scripts/sound-sample-player.js'
-</script>
+  <!--
+    AURA-X: Modify - 首页脚本治理（B-1）。Confirmed via 寸止。
+    - 移除全局 body 级监听与同步模块导入
+    - 当 `.sound-samples-section` 接近视窗时再动态加载脚本
+    - 仅在该区块内绑定点击音符动画（节流）
+  -->
+  <script type="module" is:inline>
+    const scheduleLoad = () => {
+      const section = document.querySelector('.sound-samples-section');
+      if (!section) return;
 
-<!-- 音符点击动画 - 已模块化，使用统一的音符动画模块 -->
-<script>
-  import { musicNotesAnimation } from '@/scripts/music-notes-animation.js'
+      const loadModules = async () => {
+        try {
+          const [notesMod] = await Promise.all([
+            import('/src/scripts/music-notes-animation.js'),
+            // 音频管理器脚本具有副作用：初始化卡片事件，无需导出
+            import('/src/scripts/sound-sample-player.js'),
+          ]);
+          const { musicNotesAnimation } = notesMod;
 
-  document.addEventListener('DOMContentLoaded', function () {
-    // 点击事件监听（带节流）- 全局音符效果
-    let lastClick = 0
-    document.body.addEventListener('click', function (e) {
-      const now = Date.now()
-      if (now - lastClick < 200) return
-      lastClick = now
+          // 仅在声音示例区块内绑定点击动画，避免全局监听
+          let last = 0;
+          section.addEventListener('click', (e) => {
+            const now = Date.now();
+            if (now - last < 200) return;
+            last = now;
+            musicNotesAnimation?.createClickAnimation?.(e, {
+              noteCount: Math.floor(Math.random() * 3) + 1,
+              staggerDelay: 100,
+              duration: 1200,
+            });
+          }, { passive: true });
+        } catch (err) {
+          console.warn('[index] 延迟加载交互脚本失败', err);
+        }
+      };
 
-      // 使用模块化的音符动画
-      musicNotesAnimation.createClickAnimation(e, {
-        noteCount: Math.floor(Math.random() * 3) + 1,
-        staggerDelay: 100,
-        duration: 1200
-      })
-    })
-  })
-</script>
+      if ('IntersectionObserver' in window) {
+        const io = new IntersectionObserver((entries) => {
+          if (entries.some((en) => en.isIntersecting)) {
+            io.disconnect();
+            loadModules();
+          }
+        }, { rootMargin: '200px' });
+        io.observe(section);
+      } else if ('requestIdleCallback' in window) {
+        // 兜底：空闲时加载
+        // @ts-ignore
+        requestIdleCallback(() => loadModules());
+      } else {
+        setTimeout(() => loadModules(), 1);
+      }
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', scheduleLoad);
+    } else {
+      scheduleLoad();
+    }
+  </script>
 
 <style>
   /* Minimal custom styles - most styling now handled by Tailwind utilities */
-  
+
   /* Font loading optimization */
   * {
     font-display: swap;

@@ -29,7 +29,7 @@ const trendingGameSlugs = [
 ];
 
 // 筛选趋势游戏
-const trendingGames = allGames.filter(game => 
+const trendingGames = allGames.filter((game: any) =>
   trendingGameSlugs.includes(game.slug)
 );
 
@@ -38,8 +38,8 @@ const meta = {
   title: 'Trending Games - Fiddlebops',
   description: 'Discover the latest trending Fiddlebops and Sprunki games. Play the hottest music creation games everyone is talking about.',
   keywords: 'trending games, hot games, new games, fiddlebops, sprunki, music games',
-  canonical: 'https://www.playfiddlebops.com/trending-games',
-  ogImage: '/social-share.png'
+  canonical: 'https://www.playfiddlebops.com/trending-games/',
+  ogImage: '/tw.jpg'
 };
 ---
 
@@ -53,16 +53,16 @@ const meta = {
 
   <main class="trending-games-page">
     <section class="games">
-      <div class="container">
+      <div class="responsive-container container-standard">
         <h2>Trending Games</h2>
         <GamesList games={trendingGames} variant="grid" />
-        
+
         {allGames.length > trendingGames.length && (
           <div class="more-games-section">
             <h3>Discover More Games</h3>
-            <GamesList 
-              games={allGames.filter(game => !trendingGameSlugs.includes(game.slug)).slice(0, 8)} 
-              variant="grid" 
+            <GamesList
+              games={allGames.filter((game: any) => !trendingGameSlugs.includes(game.slug)).slice(0, 8)}
+              variant="grid"
             />
           </div>
         )}

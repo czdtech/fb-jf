@@ -22,21 +22,59 @@ const {
   gameTitle = game?.title || "FiddleBops - A Musical Creation Game",
   gameDescription = game?.description || "Interactive music creation interface based on Incredibox"
 } = props;
+
+// 安全策略：B 模式（白名单动态放宽）
+// 默认 sandbox 仅包含必要权限；仅当 src 主机名命中白名单时，追加 allow-same-origin
+const iframeWhitelistHosts = [
+  "turbowarp.org",
+  "minijuegos.com",
+  "kdata1.com",
+  // 放宽至所有 Netlify 预览/部署子域
+  "netlify.app",
+];
+
+function isHostnameWhitelisted(urlString: string): boolean {
+  try {
+    if (!urlString) return false;
+    const hostname = new URL(urlString).hostname;
+    return iframeWhitelistHosts.some(
+      (allowed) => hostname === allowed || hostname.endsWith(`.${allowed}`)
+    );
+  } catch {
+    return false;
+  }
+}
+
+const sandboxBase = "allow-scripts allow-forms allow-popups allow-presentation";
+const sandboxValue = isHostnameWhitelisted(src)
+  ? `${sandboxBase} allow-same-origin`
+  : sandboxBase;
+
+// 根据 autoLoad 调整初始样式：
+// - autoLoad: 直接可交互显示
+// - !autoLoad: 初始隐藏，待加载流程控制显示
+const iframeStyle = autoLoad
+  ? "background-color: #000000; position: absolute; top: 0; left: 0; z-index: 5; opacity: 1; pointer-events: auto; transition: opacity 0.3s ease-in-out;"
+  : "background-color: #000000; position: absolute; top: 0; left: 0; z-index: 5; opacity: 0; pointer-events: none; transition: opacity 0.3s ease-in-out;";
 ---
 
 <div class="game-iframe-sprunki" style={`background-image: url(${backgroundImage})`}>
   <div class="game-overlay"></div>
 
-  <!-- 预连接优化 -->
-  <link rel="preconnect" href={new URL(src).origin}>
-  <link rel="dns-prefetch" href={new URL(src).origin}>
-  
+  <!-- 预连接优化：仅在存在 src 时输出，且由观察者在接近视窗时再插入 -->
+  {src && (
+    <>
+      <link rel="preconnect" href={new URL(src).origin}>
+      <link rel="dns-prefetch" href={new URL(src).origin}>
+    </>
+  )}
+
   <!-- 预加载关键资源 -->
   {src.includes('turbowarp.org') && (
     <link rel="preconnect" href="https://turbowarp.org">
     <link rel="preconnect" href="https://projects.scratch.mit.edu">
   )}
-  
+
   {src.includes('minijuegos.com') && (
     <link rel="preconnect" href="https://www.minijuegos.com">
     <link rel="preconnect" href="https://cdn.minijuegos.com">
@@ -51,8 +89,9 @@ const {
     allowfullscreen
     width="100%"
     height="100%"
-    loading="eager"
-    style="background-color: #000000; position: absolute; top: 0; left: 0; z-index: 5; opacity: 0; pointer-events: none; transition: opacity 0.3s ease-in-out;"
+    loading="lazy"
+    sandbox={sandboxValue}
+    style={iframeStyle}
     title={gameTitle}
   ></iframe>
 
@@ -84,6 +123,33 @@ const {
     const iframe = document.getElementById(iframeId);
     const playButton = document.getElementById("playButton");
     const loadingIndicator = document.getElementById("loadingIndicator");
+    const container = iframe?.parentElement;
+
+    // 当容器接近视窗时，预先插入 preconnect/dns-prefetch（减少首屏无关连接开销）
+    try {
+      if (iframeSrc && 'IntersectionObserver' in window && container) {
+        const observedOnce = { done: false };
+        const io = new IntersectionObserver((entries) => {
+          if (observedOnce.done) return;
+          if (entries.some((en) => en.isIntersecting)) {
+            observedOnce.done = true;
+            io.disconnect();
+            const origin = new URL(iframeSrc).origin;
+            const link1 = document.createElement('link');
+            link1.rel = 'preconnect';
+            link1.href = origin;
+            document.head.appendChild(link1);
+            const link2 = document.createElement('link');
+            link2.rel = 'dns-prefetch';
+            link2.href = origin;
+            document.head.appendChild(link2);
+          }
+        }, { rootMargin: '200px' });
+        io.observe(container);
+      }
+    } catch (e) {
+      // 忽略非关键失败
+    }
 
     function loadIframe() {
       if (!iframeLoaded) {

@@ -1,10 +1,14 @@
 ---
-import I18nPageLayout from '../../layouts/I18nPageLayout.astro';
-import I18nPageContent from '../../components/I18nPageContent.astro';
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+import { getEntryBySlug } from 'astro:content'
+//
 
-const lang = 'de';
-const title = 'Fiddlebops - Kostenloses Online Fiddlebops Incredibox Spiel';
-const description = 'Erstelle deine einzigartige Musik mit Fiddlebops! Dieses Fanprojekt, inspiriert von Incredibox, ermöglicht es dir, verschiedene Sounds zu mischen und zu kombinieren, um personalisierte Musikstücke zu erstellen.';
+const lang = 'de'
+const title = 'Fiddlebops - Kostenloses Online Fiddlebops Incredibox Spiel'
+const description = 'Erstelle deine einzigartige Musik mit Fiddlebops! Dieses Fanprojekt, inspiriert von Incredibox, ermöglicht es dir, verschiedene Sounds zu mischen und zu kombinieren, um personalisierte Musikstücke zu erstellen.'
 
 const structuredData = {
   "@context": "https://schema.org",
@@ -15,39 +19,33 @@ const structuredData = {
   "description": description
 };
 
-const content = {
-  headerTitle: "Willkommen bei Fiddlebops!",
-  headerDescription: "Beginnen Sie Ihre Musikreise! Fiddlebops ist ein von Incredibox inspiriertes Fanprojekt. Hier können Sie frei verschiedene Sounds mischen und Ihre eigene einzigartige Musik erstellen.",
-  aboutTitle: "Über Fiddlebops Incredibox",
-  aboutContent: `
-    <h3>I. Grundlegende Informationen und Gameplay von Fiddlebops</h3>
-    <p><strong>Spielname:</strong> Fiddlebops</p>
-    <p><strong>Typ/Tags:</strong> Musikkreation, Rhythmus, Experimentell, Bildung, Familienfreundlich, Gelegenheitsspiel, Einzelspieler, Kreativ</p>
-    <p><strong>Plattform:</strong> Web (Browser)</p>
-    <p><strong>Veröffentlichungsdatum:</strong> Etwa am 7. November 2024</p>
-    <p><strong>Preis/Verfügbarkeit:</strong> Kostenlos</p>
-  `,
-  soundsTitle: "Entdecken Sie verschiedene Sounds in Fiddlebops",
-  videoTitle: "Fiddlebops Incredibox Game Video",
-  faqTitle: "Häufig gestellte Fragen zum Fiddlebops-Spiel",
-  faqItems: [
-    {
-      question: "Was ist das Fiddlebops-Spiel?",
-      answer: "Das Fiddlebops-Spiel ist ein von Incredibox-Fans erstelltes Projekt, inspiriert von Incredibox. Hier können Sie das Vergnügen des Sound-Mixing erleben und durch eine intuitive Benutzeroberfläche einzigartige Musikwerke erstellen."
-    },
-    {
-      question: "Ist das Fiddlebops-Spiel kostenlos?",
-      answer: "Ja, das Fiddlebops-Spiel ist völlig kostenlos und Spieler können online spielen, ohne etwas herunterladen zu müssen."
-    }
-  ],
-  navigation: {
-    home: "Startseite",
-    privacy: "Datenschutz", 
-    terms: "Nutzungsbedingungen"
-  }
-};
+const meta = {
+  title,
+  description,
+  canonical: 'https://www.playfiddlebops.com/de/',
+  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
+}
+
+const { navigation } = extractedData
+const hreflangLinks = (navigation?.languages || []).map((l: any) => ({
+  code: l.code === 'en' ? 'x-default' : l.code,
+  url: `https://www.playfiddlebops.com${l.url}`
+}))
+
+const home = await getEntryBySlug('i18nHome', 'de')
+const { Content } = await home.render()
 ---
 
-<I18nPageLayout {lang} {title} {description} {structuredData}>
-  <I18nPageContent {lang} {content} />
-</I18nPageLayout>
+<BaseLayout meta={meta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>
+  <Navigation navigation={navigation.main} languages={navigation.languages} currentLang={lang} currentPath={`/${lang}/`} />
+  <main class="container" style="min-height:60vh; padding:2rem 0;">
+    <h1 style="margin-bottom:1rem;">{home.data.title}</h1>
+    <p style="margin-bottom:2rem;">{home.data.description}</p>
+    <section class="about" id="about">
+      <div class="about-content">
+        <Content />
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>

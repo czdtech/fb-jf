@@ -1,5 +1,7 @@
 ---
 // 定义明确的类型接口，提高类型安全
+import { Image } from 'astro:assets';
+
 interface Game {
   slug: string;
   url: string;
@@ -138,13 +140,29 @@ const generateStars = (rating: number) => {
           <div class="game-glow" style={`background: radial-gradient(circle at center, ${colorScheme.glow} 0%, transparent 70%)`}></div>
         </div>
         
-        <img
-          src={imagePath}
-          alt={title}
-          class="game-image"
-          loading="lazy"
-          decoding="async"
-        />
+        {imagePath.startsWith('/') ? (
+          <Image
+            src={imagePath}
+            alt={title}
+            class="game-image"
+            loading="lazy"
+            decoding="async"
+            width={300}
+            height={225}
+            format="webp"
+            quality={85}
+          />
+        ) : (
+          <img
+            src={imagePath}
+            alt={title}
+            class="game-image"
+            loading="lazy"
+            decoding="async"
+            width="300"
+            height="225"
+          />
+        )}
         
         <!-- 图片底部渐变阴影 -->
         <div class="image-bottom-fade"></div>

@@ -1,4 +1,5 @@
 ---
+import ResponsivePicture from '@/components/ResponsivePicture.astro'
 import type { SoundSample } from '@/types';
 
 export interface Props {
@@ -6,13 +7,14 @@ export interface Props {
 }
 
 const { sample } = Astro.props;
-const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase()}`;
+const uniqueId = `audio-${(sample?.title || 'unknown').replace(/[^a-zA-Z0-9]/g, '-').toLowerCase()}`;
 ---
 
 <div class="sound-sample-card glass" data-sample-id={uniqueId}>
   <div class="sound-sample-image-container">
     <div class="sound-sample-image-wrapper">
-      <img src={sample.image} alt={sample.title} class="sound-sample-image">
+      <!-- AURA-X: Modify - 使用 ResponsivePicture 输出 AVIF/WebP/原图。Confirmed via 寸止。 -->
+      <ResponsivePicture src={sample?.image || '/characters/images/beat1.png'} alt={sample?.title || 'Sound sample'} class="sound-sample-image" loading="lazy" decoding="async" width={160} height={160} />
 
       <!-- Audio Visualization Rings -->
       <div class="audio-viz-rings">
@@ -68,15 +70,15 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
       </div>
     </div>
 
-    <div class="sound-sample-category">{sample.category}</div>
+    <div class="sound-sample-category">{sample?.category || 'Sound'}</div>
   </div>
 
   <div class="sound-sample-content">
-    <h3 class="sound-sample-title">{sample.title}</h3>
+    <h3 class="sound-sample-title">{sample?.title || 'Unknown Sound'}</h3>
 
     <!-- Hidden Audio Element -->
     <audio id={uniqueId} preload="none" class="hidden-audio">
-      <source src={sample.audio} type="audio/wav">
+      <source src={sample?.audio || ''} type="audio/wav">
     </audio>
 
     <!-- Audio Waveform Visualization -->
@@ -584,22 +586,22 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     width: 140px;
     height: 140px;
   }
-  
+
   .audio-viz-rings {
     width: 160px;
     height: 160px;
   }
-  
+
   .ring-1 {
     width: 140px;
     height: 140px;
   }
-  
+
   .ring-2 {
     width: 120px;
     height: 120px;
   }
-  
+
   .ring-3 {
     width: 160px;
     height: 160px;
@@ -616,22 +618,22 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     height: 120px;
     padding: 6px;
   }
-  
+
   .audio-viz-rings {
     width: 140px;
     height: 140px;
   }
-  
+
   .ring-1 {
     width: 120px;
     height: 120px;
   }
-  
+
   .ring-2 {
     width: 100px;
     height: 100px;
   }
-  
+
   .ring-3 {
     width: 140px;
     height: 140px;
@@ -649,12 +651,12 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     width: 50px;
     height: 50px;
   }
-  
+
   .play-icon {
     width: 20px;
     height: 20px;
   }
-  
+
   .sound-sample-category {
     top: 8px;
     right: 8px;
@@ -673,22 +675,22 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     height: 100px;
     padding: 6px;
   }
-  
+
   .audio-viz-rings {
     width: 120px;
     height: 120px;
   }
-  
+
   .ring-1 {
     width: 100px;
     height: 100px;
   }
-  
+
   .ring-2 {
     width: 80px;
     height: 80px;
   }
-  
+
   .ring-3 {
     width: 120px;
     height: 120px;
@@ -698,7 +700,7 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     width: 45px;
     height: 45px;
   }
-  
+
   .play-icon {
     width: 18px;
     height: 18px;
@@ -720,12 +722,12 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     padding: 2px 8px;
     font-size: 10px;
   }
-  
+
   .waveform-bars {
     gap: 2px;
     height: 16px;
   }
-  
+
   .waveform-bars .bar {
     width: 3px;
   }
@@ -737,22 +739,22 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     height: 80px;
     padding: 4px;
   }
-  
+
   .audio-viz-rings {
     width: 100px;
     height: 100px;
   }
-  
+
   .ring-1 {
     width: 80px;
     height: 80px;
   }
-  
+
   .ring-2 {
     width: 60px;
     height: 60px;
   }
-  
+
   .ring-3 {
     width: 100px;
     height: 100px;
@@ -762,12 +764,12 @@ const uniqueId = `audio-${sample.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase
     width: 40px;
     height: 40px;
   }
-  
+
   .play-icon {
     width: 16px;
     height: 16px;
   }
-  
+
   .sound-sample-title {
     font-size: 11px;
   }

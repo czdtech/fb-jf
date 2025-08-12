@@ -14,7 +14,7 @@ const newGameSlugs = [
 ];
 
 // 筛选新游戏
-const newGames = allGames.filter(game => 
+const newGames = allGames.filter((game: any) =>
   newGameSlugs.includes(game.slug)
 );
 
@@ -47,7 +47,7 @@ const displayGames = maxItems ? newGames.slice(0, maxItems) : newGames;
     margin-bottom: var(--space-8);
     color: var(--color-gray-900);
   }
-  
+
   @media (max-width: 768px) {
     .new-games-section h2 {
       font-size: var(--font-size-2xl);

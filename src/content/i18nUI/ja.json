@@ -1,0 +1,63 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "games": "ゲーム", 
+    "newGames": "新着ゲーム",
+    "popularGames": "人気ゲーム",
+    "trendingGames": "トレンドゲーム",
+    "aboutUs": "私たちについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "language": "言語"
+  },
+  "meta": {
+    "title": "FiddleBops - オンライン音楽制作ゲーム",
+    "description": "FiddleBopsで素晴らしい音楽を作ろう！楽しいキャラクターとビートを使ったインタラクティブ音楽制作ゲーム。ブラウザで無料プレイ。",
+    "keywords": "fiddlebops, 音楽ゲーム, 音楽制作, incredibox, sprunki, ビート制作, インタラクティブ音楽"
+  },
+  "hero": {
+    "title": "FiddleBopsで素晴らしい音楽を作ろう",
+    "subtitle": "楽しいキャラクターと無限の創造性で音楽制作を楽しもう",
+    "playNow": "今すぐプレイ",
+    "learnMore": "詳しく見る"
+  },
+  "sections": {
+    "howToPlay": "遊び方",
+    "newGames": "新着ゲーム",
+    "popularGames": "人気ゲーム",
+    "trendingGames": "トレンドゲーム", 
+    "about": "FiddleBopsについて",
+    "videos": "ビデオチュートリアル"
+  },
+  "games": {
+    "playNow": "今すぐプレイ",
+    "loading": "読み込み中...",
+    "error": "ゲームの読み込みに失敗しました",
+    "retry": "再試行",
+    "viewMore": "他のゲームを見る",
+    "noGames": "ゲームが見つかりません",
+    "category": "カテゴリー",
+    "rating": "評価"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "問題が発生しました",
+    "retry": "再試行",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ", 
+    "close": "閉じる",
+    "menu": "メニュー"
+  },
+  "footer": {
+    "aboutUs": "私たちについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyright": "© 2025 FiddleBops. 全著作権所有。",
+    "legal": "法的事項",
+    "contactUs": "お問い合わせ",
+    "quickLinks": "クイックリンク",
+    "tagline": "音楽を創造し、喜びを共有する",
+    "description": "無料オンライン音楽制作プラットフォーム"
+  }
+}

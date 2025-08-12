@@ -1,4 +1,6 @@
 ---
+import GameIframe from '@/components/GameIframe.astro'
+
 interface Props {
   game: {
     title: string
@@ -23,6 +25,7 @@ interface Props {
 const { game, rating, pageType } = Astro.props
 ---
 
+
 <!-- Apple-inspired Premium Game Hero -->
 <section class="hero-apple-container">
   <!-- Refined Background System -->
@@ -31,7 +34,7 @@ const { game, rating, pageType } = Astro.props
     <div class="hero-bg-mesh"></div>
     <div class="hero-bg-blur"></div>
   </div>
-  
+
   <!-- Premium Navigation -->
   <div class="container">
     <nav class="breadcrumb-apple">
@@ -52,7 +55,7 @@ const { game, rating, pageType } = Astro.props
   <div class="hero-main-content">
     <div class="container">
       <div class="hero-apple-grid">
-        
+
         <!-- Info Panel -->
         <div class="hero-info-panel">
           <div class="info-content">
@@ -62,7 +65,7 @@ const { game, rating, pageType } = Astro.props
                 <h1 class="game-title-apple">{game.title}</h1>
                 <div class="title-accent"></div>
               </div>
-              
+
               <div class="badges-apple">
                 <span class="badge-category">
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
@@ -102,23 +105,7 @@ const { game, rating, pageType } = Astro.props
               </div>
             )}
 
-            <!-- Action Buttons -->
-            <div class="actions-apple">
-              <button class="btn-primary-apple" onclick="scrollToGame()">
-                <svg class="btn-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M8 5v14l11-7z"/>
-                </svg>
-                <span>Play Now</span>
-                <div class="btn-shine"></div>
-              </button>
-
-              <button class="btn-secondary-apple" onclick="shareGame()">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/>
-                </svg>
-                <span>Share</span>
-              </button>
-            </div>
+            <!-- Action Buttons removed per spec -->
           </div>
         </div>
 
@@ -132,14 +119,14 @@ const { game, rating, pageType } = Astro.props
                 <div class="control-dot minimize"></div>
                 <div class="control-dot maximize"></div>
               </div>
-              
+
               <div class="window-title">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M21,6V8H3V6H21M3,18V16H21V18H3M3,13H21V11H3V13Z"/>
                 </svg>
                 <span>{game.title}</span>
               </div>
-              
+
               <div class="window-actions">
                 <button class="action-btn" onclick="reloadGame()" title="Reload">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
@@ -155,7 +142,7 @@ const { game, rating, pageType } = Astro.props
             </div>
 
             <!-- Game Content Area -->
-            <div class="game-content-area">
+              <div class="game-content-area">
               <div class="game-loading-state">
                 <div class="loading-animation">
                   <div class="loading-circle"></div>
@@ -164,17 +151,17 @@ const { game, rating, pageType } = Astro.props
                 </div>
                 <span class="loading-text">Loading Experience...</span>
               </div>
-              
-              <iframe
-                id="hero-game-iframe"
-                src={game.iframe}
-                title={game.title}
-                width="100%"
-                height="100%"
-                frameborder="0"
-                allowfullscreen
-              >
-              </iframe>
+
+              <!-- AURA-X: Modify - 统一使用 GameIframe 以集中管控 sandbox。Confirmed via 寸止。 -->
+              <GameIframe game={{
+                id: 'hero-game-iframe',
+                iframe: game.iframe,
+                image: game.image,
+                title: game.title,
+                description: game.description,
+                category: game.category,
+                slug: game.slug,
+              }} autoLoad={true} />
             </div>
           </div>
         </div>
@@ -189,8 +176,8 @@ const { game, rating, pageType } = Astro.props
   function scrollToGame() {
     const iframe = document.getElementById('hero-game-iframe')
     if (iframe) {
-      iframe.scrollIntoView({ 
-        behavior: 'smooth', 
+      iframe.scrollIntoView({
+        behavior: 'smooth',
         block: 'center',
         inline: 'nearest'
       })
@@ -208,7 +195,7 @@ const { game, rating, pageType } = Astro.props
       text: `Experience ${document.querySelector('.game-title-apple')?.textContent} - An incredible music creation game`,
       url: window.location.href,
     }
-    
+
     if (navigator.share && navigator.canShare?.(shareData)) {
       navigator.share(shareData)
     } else {
@@ -233,18 +220,16 @@ const { game, rating, pageType } = Astro.props
   }
 
   function reloadGame() {
-    const iframe = document.getElementById('hero-game-iframe')
-    const loadingState = document.querySelector('.game-loading-state')
-    
+    const iframe = document.getElementById('hero-game-iframe') as HTMLIFrameElement | null
+    const loadingState = document.querySelector('.game-loading-state') as HTMLElement | null
+
     if (iframe && loadingState) {
-      // Show loading animation
       loadingState.style.opacity = '1'
       loadingState.style.pointerEvents = 'auto'
-      
-      // Reload iframe
+
+      // 重新加载 iframe
       iframe.src = iframe.src
-      
-      // Hide loading after delay
+
       setTimeout(() => {
         loadingState.style.opacity = '0'
         loadingState.style.pointerEvents = 'none'
@@ -252,18 +237,18 @@ const { game, rating, pageType } = Astro.props
     }
   }
 
-  function showToast(message) {
+  function showToast(message: string) {
     const toast = document.createElement('div')
     toast.className = 'apple-toast'
     toast.textContent = message
     document.body.appendChild(toast)
-    
+
     // Animate in
     requestAnimationFrame(() => {
       toast.style.transform = 'translateX(-50%) translateY(0)'
       toast.style.opacity = '1'
     })
-    
+
     // Remove after delay
     setTimeout(() => {
       toast.style.transform = 'translateX(-50%) translateY(-100%)'
@@ -276,26 +261,28 @@ const { game, rating, pageType } = Astro.props
 
   // Enhanced loading experience
   document.addEventListener('DOMContentLoaded', () => {
-    const iframe = document.getElementById('hero-game-iframe')
-    const loadingState = document.querySelector('.game-loading-state')
-    
+    const iframe = document.getElementById('hero-game-iframe') as HTMLIFrameElement | null
+    const loadingState = document.querySelector('.game-loading-state') as HTMLElement | null
+
     if (iframe && loadingState) {
       iframe.addEventListener('load', () => {
         setTimeout(() => {
-          loadingState.style.opacity = '0'
-          loadingState.style.pointerEvents = 'none'
+          if (loadingState) {
+            loadingState.style.opacity = '0'
+            loadingState.style.pointerEvents = 'none'
+          }
         }, 800) // Allow time for content to render
       })
-      
+
       // Timeout fallback
       setTimeout(() => {
-        if (loadingState.style.opacity !== '0') {
+        if (loadingState && loadingState.style.opacity !== '0') {
           loadingState.style.opacity = '0'
           loadingState.style.pointerEvents = 'none'
         }
       }, 5000)
     }
-    
+
     // Add intersection observer for animations
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
@@ -304,8 +291,8 @@ const { game, rating, pageType } = Astro.props
         }
       })
     }, { threshold: 0.1 })
-    
-    document.querySelectorAll('.hero-info-panel, .hero-preview-panel').forEach(el => {
+
+    document.querySelectorAll('.hero-info-panel, .hero-preview-panel').forEach((el) => {
       observer.observe(el)
     })
   })
@@ -358,7 +345,7 @@ const { game, rating, pageType } = Astro.props
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: 
+    background-image:
       radial-gradient(circle at 20% 30%, rgba(168, 85, 247, 0.08) 0%, transparent 40%),
       radial-gradient(circle at 80% 70%, rgba(236, 72, 153, 0.06) 0%, transparent 40%),
       radial-gradient(circle at 50% 50%, rgba(59, 130, 246, 0.04) 0%, transparent 60%);
@@ -373,7 +360,7 @@ const { game, rating, pageType } = Astro.props
     right: 0;
     bottom: 0;
     backdrop-filter: blur(1px);
-    background: 
+    background:
       repeating-linear-gradient(
         45deg,
         transparent,
@@ -526,14 +513,14 @@ const { game, rating, pageType } = Astro.props
   }
 
   @keyframes accentWave {
-    0% { 
+    0% {
       width: 0;
       opacity: 0;
     }
     50% {
       width: 100px;
     }
-    100% { 
+    100% {
       width: 80px;
       opacity: 1;
     }
@@ -699,7 +686,7 @@ const { game, rating, pageType } = Astro.props
     cursor: pointer;
     transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     overflow: hidden;
-    box-shadow: 
+    box-shadow:
       0 4px 20px rgba(168, 85, 247, 0.3),
       0 0 0 2px rgba(255, 255, 255, 0.2) inset,
       0 8px 16px -4px rgba(236, 72, 153, 0.3);
@@ -722,7 +709,7 @@ const { game, rating, pageType } = Astro.props
 
   .btn-primary-apple:hover {
     transform: translateY(-3px) scale(1.02);
-    box-shadow: 
+    box-shadow:
       0 8px 30px rgba(168, 85, 247, 0.4),
       0 0 0 3px rgba(255, 255, 255, 0.3) inset,
       0 12px 24px -4px rgba(236, 72, 153, 0.4);
@@ -816,7 +803,7 @@ const { game, rating, pageType } = Astro.props
     border: 2px solid rgba(168, 85, 247, 0.2);
     border-radius: 20px;
     overflow: hidden;
-    box-shadow: 
+    box-shadow:
       0 20px 60px rgba(168, 85, 247, 0.15),
       0 0 0 1px rgba(255, 255, 255, 0.8) inset,
       0 0 100px rgba(236, 72, 153, 0.1);

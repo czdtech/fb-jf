@@ -1,6 +1,12 @@
 ---
 // TypeScript接口定义
+import { getCurrentLocale, getTranslation } from '@/i18n/utils';
+
 interface Props {}
+
+// 获取当前语言和翻译
+const currentLocale = getCurrentLocale(Astro.url);
+const { ui } = await getTranslation(currentLocale);
 ---
 
 <!-- About Section -->
@@ -8,7 +14,7 @@ interface Props {}
   <div class="container">
     <div class="section-header center-only">
       <div>
-        <h2 class="section-title">📖 About FiddleBops Incredibox</h2>
+        <h2 class="section-title">📖 {ui.sections.about}</h2>
         <p class="section-description">
           Released November 7, 2024, this comedy-focused Incredibox mod features
           25 absurd characters including Garrett, Mr. Moon, and Skibidi Biden,
