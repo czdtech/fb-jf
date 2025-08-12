@@ -1,5 +1,5 @@
 ---
-import { getCurrentLocale, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getCurrentLocale, getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import LanguageSelectorNative from './LanguageSelectorNative.astro'
 
@@ -12,15 +12,20 @@ const { currentPath = '', className = '' } = Astro.props
 
 // 使用新的i18n系统获取当前语言
 const currentLocale = getCurrentLocale(Astro.url);
+const { ui: uiText } = await getTranslation(currentLocale);
 
-// 安全的获取当前页面路径（不含语言前缀）
+// 安全的获取当前页面路径（不含语言前缀） - 动态移除前缀（SEO友好，避免硬编码）
 let pathWithoutLocale = '/';
 try {
   const url = new URL(Astro.request.url);
   const pathname = url.pathname || '/';
-  
+
+  // 根据受支持语言动态构造去前缀正则
+  const SUPPORTED = Object.keys(LOCALE_NAMES).filter(code => code !== 'en');
+  const prefixPattern = new RegExp(`^/(?:${SUPPORTED.join('|')})(?=/|$)`, 'i');
+
   // 移除语言前缀
-  pathWithoutLocale = pathname.replace(/^\/(zh|es|fr|de|ja|ko)/, '') || '/';
+  pathWithoutLocale = pathname.replace(prefixPattern, '') || '/';
 } catch (error) {
   console.warn('Failed to parse pathname for language selector', error);
   pathWithoutLocale = '/';
@@ -38,5 +43,6 @@ const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
   <LanguageSelectorNative 
     currentLang={currentLocale}
     languages={languages}
+    ariaLabel={uiText?.navigation?.language || 'Language'}
   />
 </div>

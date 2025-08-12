@@ -1,0 +1,55 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import GamesList from '@/components/GamesList.astro'
+import { getLocalizedGamesList } from '@/utils/i18n'
+import { getTranslation, type SupportedLocale } from '@/i18n/utils'
+import { getAbsoluteLocaleUrl } from 'astro:i18n'
+
+const locale: SupportedLocale = 'ko'
+const translation = await getTranslation(locale)
+const uiText = translation.ui
+const localizedGames = await getLocalizedGamesList(locale)
+
+const newGameSlugs = ['pikmin-no-sprunki', 'the-haze-pixelbox', 'yojou-sprunki-mustard', 'sprunki-retake-bonus-characters']
+const newGames = localizedGames.filter((g: any) => newGameSlugs.includes(g.slug))
+
+const pageMeta = {
+  title: `${uiText?.sections?.newGames || 'New Games'} - Fiddlebops`,
+  description: uiText?.meta?.description || '새로운 Fiddlebops / Sprunki 게임',
+  keywords: uiText?.meta?.keywords || 'fiddlebops, sprunki, 음악 게임',
+  canonical: getAbsoluteLocaleUrl(locale, '/new-games'),
+  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
+}
+---
+
+<BaseLayout meta={pageMeta} lang={locale}>
+  <Navigation locale={locale} currentPath={`/${locale}/new-games/`} />
+  <main class="new-games-page">
+    <div class="responsive-container container-standard">
+      <div class="page-header">
+        <h1>▶ {uiText?.sections?.newGames || 'New Games'}</h1>
+        <p>{uiText?.sections?.about || '최신 음악 게임'}</p>
+      </div>
+      <div class="game-iframe-new"><GamesList games={newGames} variant="simple" /></div>
+      <div class="all-new-games-section">
+        <h2>{uiText?.sections?.newGames || 'New Games'}</h2>
+        <GamesList games={localizedGames.slice(0, 16)} variant="grid" />
+      </div>
+    </div>
+  </main>
+  <Footer locale={locale} />
+</BaseLayout>
+
+<style>
+  .new-games-page { min-height: calc(100vh - 160px); padding: var(--space-8) 0; }
+  .page-header { text-align: center; margin-bottom: var(--space-12); }
+  .page-header h1 { font-size: var(--font-size-4xl); font-weight: var(--font-weight-bold); color: var(--color-gray-900); margin-bottom: var(--space-4); }
+  .page-header p { font-size: var(--font-size-xl); color: var(--color-gray-600); }
+  .game-iframe-new { background: var(--color-white); border-radius: var(--border-radius-xl); padding: var(--space-8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: var(--space-12); }
+  .all-new-games-section { margin-top: var(--space-16); }
+  .all-new-games-section h2 { font-size: var(--font-size-3xl); font-weight: var(--font-weight-bold); text-align: center; margin-bottom: var(--space-8); color: var(--color-gray-900); }
+  @media (max-width: 768px) { .page-header h1 { font-size: var(--font-size-3xl); } .page-header p { font-size: var(--font-size-lg); } .game-iframe-new { padding: var(--space-6); } .all-new-games-section h2 { font-size: var(--font-size-2xl); } }
+</style>
+

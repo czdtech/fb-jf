@@ -1,7 +1,7 @@
 {
   "navigation": {
     "home": "Inicio",
-    "games": "Juegos", 
+    "games": "Juegos",
     "newGames": "Juegos Nuevos",
     "popularGames": "Juegos Populares",
     "trendingGames": "Juegos en Tendencia",
@@ -25,7 +25,7 @@
     "howToPlay": "Cómo Jugar",
     "newGames": "Juegos Nuevos",
     "popularGames": "Juegos Populares",
-    "trendingGames": "Juegos en Tendencia", 
+    "trendingGames": "Juegos en Tendencia",
     "about": "Acerca de FiddleBops",
     "videos": "Tutoriales en Video"
   },
@@ -45,7 +45,7 @@
     "retry": "Intentar de Nuevo",
     "back": "Volver",
     "next": "Siguiente",
-    "previous": "Anterior", 
+    "previous": "Anterior",
     "close": "Cerrar",
     "menu": "Menú"
   },
@@ -59,5 +59,17 @@
     "quickLinks": "Enlaces Rápidos",
     "tagline": "Crear Música, Compartir Alegría",
     "description": "Plataforma gratuita de creación musical online"
+  },
+  "error": {
+    "404": {
+      "title": "Página no encontrada",
+      "message": "Es posible que la página haya sido movida o que el enlace sea incorrecto.",
+      "backToHome": "Volver a la página principal",
+      "suggestionsTitle": "Juegos Populares",
+      "suggestionsDescription": "Ya que estás aquí, ¿por qué no pruebas algunos de nuestros juegos de creación musical más populares?",
+      "originalExperience": "La experiencia original de FiddleBops con funciones mejoradas",
+      "sprunikiExperience": "Crea ritmos increíbles con coloridos personajes Sprunki",
+      "incrediboxExperience": "El clásico juego de creación musical que empezó todo"
+    }
   }
 }

@@ -30,7 +30,7 @@ const currentLocale: SupportedLocale = locale || getCurrentLocale(Astro.url) || 
 const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 
-// 生成导航链接 - 使用Astro i18n helpers
+// 生成导航链接 - 使用Astro i18n helpers（所有语言已提供分类页，无需回退）
 const navigationItems = legacyNavigation || [
   {
     label: uiText?.navigation?.home || 'Home',

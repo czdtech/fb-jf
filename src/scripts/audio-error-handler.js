@@ -8,10 +8,10 @@ export class AudioErrorHandler {
     this.logErrors = options.logErrors !== false;
     this.retryAttempts = options.retryAttempts || 2;
     this.retryDelay = options.retryDelay || 1000;
-    
+
     // 错误统计
     this.errorStats = new Map();
-    
+
     // 确保通知样式已加载
     if (this.showUserNotifications) {
       this.ensureNotificationStyles();
@@ -27,11 +27,11 @@ export class AudioErrorHandler {
    */
   handleLoadError(audio, audioId, error, context = {}) {
     const errorInfo = {
-      type: 'LOAD_ERROR',
+      type: "LOAD_ERROR",
       audioId,
-      error: error.message || '音频加载失败',
+      error: error.message || "音频加载失败",
       timestamp: Date.now(),
-      context
+      context,
     };
 
     this.recordError(errorInfo);
@@ -42,12 +42,12 @@ export class AudioErrorHandler {
         src: audio.src,
         networkState: audio.networkState,
         readyState: audio.readyState,
-        context
+        context,
       });
     }
 
     if (this.showUserNotifications) {
-      this.showErrorNotification('音频文件加载失败，请检查网络连接', 'warning');
+      this.showErrorNotification("音频文件加载失败，请检查网络连接", "warning");
     }
 
     // 清理加载状态
@@ -63,35 +63,38 @@ export class AudioErrorHandler {
    */
   async handlePlayError(audio, audioId, error, context = {}) {
     const errorInfo = {
-      type: 'PLAY_ERROR',
+      type: "PLAY_ERROR",
       audioId,
-      error: error.message || '音频播放失败',
+      error: error.message || "音频播放失败",
       timestamp: Date.now(),
-      context
+      context,
     };
 
     this.recordError(errorInfo);
 
     // 根据错误类型进行不同处理
     const errorMessage = this.getPlayErrorMessage(error);
-    
+
     if (this.logErrors) {
       console.error(`[AudioErrorHandler] 音频播放失败: ${audioId}`, {
         error: error.message,
         name: error.name,
         src: audio.src,
         paused: audio.paused,
-        context
+        context,
       });
     }
 
     // 尝试重新播放（某些情况下）
-    if (this.shouldRetryPlay(error) && context.retryCount < this.retryAttempts) {
+    if (
+      this.shouldRetryPlay(error) &&
+      context.retryCount < this.retryAttempts
+    ) {
       return this.retryPlay(audio, audioId, context);
     }
 
     if (this.showUserNotifications) {
-      this.showErrorNotification(errorMessage, 'error');
+      this.showErrorNotification(errorMessage, "error");
     }
 
     // 清理播放状态
@@ -106,11 +109,11 @@ export class AudioErrorHandler {
    */
   handleNetworkError(audio, audioId, context = {}) {
     const errorInfo = {
-      type: 'NETWORK_ERROR',
+      type: "NETWORK_ERROR",
       audioId,
-      error: '网络连接错误',
+      error: "网络连接错误",
       timestamp: Date.now(),
-      context
+      context,
     };
 
     this.recordError(errorInfo);
@@ -119,12 +122,12 @@ export class AudioErrorHandler {
       console.error(`[AudioErrorHandler] 网络错误: ${audioId}`, {
         src: audio.src,
         networkState: audio.networkState,
-        context
+        context,
       });
     }
 
     if (this.showUserNotifications) {
-      this.showErrorNotification('网络连接不稳定，请稍后重试', 'warning');
+      this.showErrorNotification("网络连接不稳定，请稍后重试", "warning");
     }
 
     this.cleanupLoadingState(context);
@@ -138,9 +141,11 @@ export class AudioErrorHandler {
    */
   async retryPlay(audio, audioId, context) {
     const retryCount = (context.retryCount || 0) + 1;
-    
-    if (this.logErrors) {
-      console.log(`[AudioErrorHandler] 重试播放 ${audioId} (第${retryCount}次)`);
+
+    if (this.logErrors && import.meta.env.DEV) {
+      console.log(
+        `[AudioErrorHandler] 重试播放 ${audioId} (第${retryCount}次)`
+      );
     }
 
     return new Promise((resolve, reject) => {
@@ -149,9 +154,9 @@ export class AudioErrorHandler {
           await audio.play();
           resolve();
         } catch (error) {
-          await this.handlePlayError(audio, audioId, error, { 
-            ...context, 
-            retryCount 
+          await this.handlePlayError(audio, audioId, error, {
+            ...context,
+            retryCount,
           });
           reject(error);
         }
@@ -165,22 +170,25 @@ export class AudioErrorHandler {
    * @returns {string} 用户友好的错误消息
    */
   getPlayErrorMessage(error) {
-    const errorName = error.name || '';
-    const errorMessage = error.message || '';
+    const errorName = error.name || "";
+    const errorMessage = error.message || "";
 
-    if (errorName === 'NotAllowedError' || errorMessage.includes('user activation')) {
-      return '请先点击页面任意位置以启用音频播放';
+    if (
+      errorName === "NotAllowedError" ||
+      errorMessage.includes("user activation")
+    ) {
+      return "请先点击页面任意位置以启用音频播放";
     }
-    
-    if (errorName === 'NotSupportedError') {
-      return '您的浏览器不支持此音频格式';
+
+    if (errorName === "NotSupportedError") {
+      return "您的浏览器不支持此音频格式";
     }
-    
-    if (errorMessage.includes('network') || errorMessage.includes('fetch')) {
-      return '音频加载失败，请检查网络连接';
+
+    if (errorMessage.includes("network") || errorMessage.includes("fetch")) {
+      return "音频加载失败，请检查网络连接";
     }
-    
-    return '音频播放失败，请稍后重试';
+
+    return "音频播放失败，请稍后重试";
   }
 
   /**
@@ -189,16 +197,18 @@ export class AudioErrorHandler {
    * @returns {boolean}
    */
   shouldRetryPlay(error) {
-    const errorName = error.name || '';
-    const errorMessage = error.message || '';
-    
+    const errorName = error.name || "";
+    const errorMessage = error.message || "";
+
     // 不重试的错误类型
-    if (errorName === 'NotAllowedError' || 
-        errorName === 'NotSupportedError' ||
-        errorMessage.includes('user activation')) {
+    if (
+      errorName === "NotAllowedError" ||
+      errorName === "NotSupportedError" ||
+      errorMessage.includes("user activation")
+    ) {
       return false;
     }
-    
+
     return true;
   }
 
@@ -209,11 +219,11 @@ export class AudioErrorHandler {
   recordError(errorInfo) {
     const key = `${errorInfo.type}_${errorInfo.audioId}`;
     const current = this.errorStats.get(key) || { count: 0, lastError: null };
-    
+
     this.errorStats.set(key, {
       count: current.count + 1,
       lastError: errorInfo,
-      firstOccurrence: current.firstOccurrence || errorInfo.timestamp
+      firstOccurrence: current.firstOccurrence || errorInfo.timestamp,
     });
   }
 
@@ -222,26 +232,28 @@ export class AudioErrorHandler {
    * @param {string} message - 错误消息
    * @param {string} type - 通知类型 ('error', 'warning', 'info')
    */
-  showErrorNotification(message, type = 'error') {
+  showErrorNotification(message, type = "error") {
     // 避免重复显示相同消息
-    if (this.lastNotificationMessage === message && 
-        Date.now() - this.lastNotificationTime < 3000) {
+    if (
+      this.lastNotificationMessage === message &&
+      Date.now() - this.lastNotificationTime < 3000
+    ) {
       return;
     }
 
     this.lastNotificationMessage = message;
     this.lastNotificationTime = Date.now();
 
-    const notification = document.createElement('div');
+    const notification = document.createElement("div");
     notification.className = `audio-error-notification audio-error-${type}`;
     notification.textContent = message;
-    
+
     document.body.appendChild(notification);
-    
+
     // 自动移除通知
     setTimeout(() => {
       if (document.body.contains(notification)) {
-        notification.classList.add('fade-out');
+        notification.classList.add("fade-out");
         setTimeout(() => {
           if (document.body.contains(notification)) {
             document.body.removeChild(notification);
@@ -257,10 +269,10 @@ export class AudioErrorHandler {
    */
   cleanupLoadingState(context) {
     if (context.button) {
-      context.button.classList.remove('loading');
+      context.button.classList.remove("loading");
     }
     if (context.card) {
-      context.card.classList.remove('loading');
+      context.card.classList.remove("loading");
     }
   }
 
@@ -270,12 +282,12 @@ export class AudioErrorHandler {
    */
   cleanupPlayingState(context) {
     this.cleanupLoadingState(context);
-    
+
     if (context.button) {
-      context.button.classList.remove('playing');
+      context.button.classList.remove("playing");
     }
     if (context.card) {
-      context.card.classList.remove('playing');
+      context.card.classList.remove("playing");
     }
   }
 
@@ -283,9 +295,9 @@ export class AudioErrorHandler {
    * 确保通知样式已加载
    */
   ensureNotificationStyles() {
-    if (!document.querySelector('#audio-error-notification-styles')) {
-      const style = document.createElement('style');
-      style.id = 'audio-error-notification-styles';
+    if (!document.querySelector("#audio-error-notification-styles")) {
+      const style = document.createElement("style");
+      style.id = "audio-error-notification-styles";
       style.textContent = `
         .audio-error-notification {
           position: fixed;

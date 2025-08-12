@@ -1,0 +1,76 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import GamesList from '@/components/GamesList.astro'
+
+import { getLocalizedGamesList } from '@/utils/i18n'
+import { getTranslation, type SupportedLocale } from '@/i18n/utils'
+import { getAbsoluteLocaleUrl } from 'astro:i18n'
+
+const locale: SupportedLocale = 'es'
+const translation = await getTranslation(locale)
+const uiText = translation.ui
+
+const localizedGames = await getLocalizedGamesList(locale)
+
+const trendingGameSlugs = [
+  'ayocs-sprunkr',
+  'incredibox-donki-abgerny',
+  'sprunki-pyramixed-version',
+  'sprunki-squid-remix',
+  'sprunki-1996',
+  'sprunki-rotrizi-5',
+  'sprunki-parasite-parasprunki-15',
+  'yojou-sprunki-mustard',
+  'sprunki-pyramixed',
+  'sprunki-meets-the-cat-spell',
+  'sprunki-phase-2-5',
+  'sprunki-sepbox-steel-factory'
+]
+
+const trendingGames = localizedGames.filter((game: any) => trendingGameSlugs.includes(game.slug))
+
+const pageMeta = {
+  title: `${uiText?.sections?.trendingGames || 'Trending Games'} - Fiddlebops`,
+  description: uiText?.meta?.description || 'Trending Fiddlebops and Sprunki games.',
+  keywords: uiText?.meta?.keywords || 'fiddlebops, sprunki, music games',
+  canonical: getAbsoluteLocaleUrl(locale, '/trending-games'),
+  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
+}
+---
+
+<BaseLayout meta={pageMeta} lang={locale}>
+  <Navigation locale={locale} currentPath={`/${locale}/trending-games/`} />
+
+  <main class="trending-games-page">
+    <section class="games">
+      <div class="responsive-container container-standard">
+        <h2>{uiText?.sections?.trendingGames || 'Trending Games'}</h2>
+        <GamesList games={trendingGames} variant="grid" />
+
+        {localizedGames.length > trendingGames.length && (
+          <div class="more-games-section">
+            <h3>{uiText?.sections?.viewMore || 'Discover More Games'}</h3>
+            <GamesList games={localizedGames.filter((g: any) => !trendingGameSlugs.includes(g.slug)).slice(0, 8)} variant="grid" />
+          </div>
+        )}
+      </div>
+    </section>
+  </main>
+
+  <Footer locale={locale} />
+</BaseLayout>
+
+<style>
+  .trending-games-page { min-height: calc(100vh - 160px); padding: var(--space-8) 0; }
+  .games { padding: var(--space-8) 0; }
+  .games h2 { font-size: var(--font-size-4xl); font-weight: var(--font-weight-bold); text-align: center; margin-bottom: var(--space-12); color: var(--color-gray-900); }
+  .more-games-section { margin-top: var(--space-16); padding-top: var(--space-16); border-top: 1px solid var(--color-gray-200); }
+  .more-games-section h3 { font-size: var(--font-size-3xl); font-weight: var(--font-weight-bold); text-align: center; margin-bottom: var(--space-8); color: var(--color-gray-900); }
+  @media (max-width: 768px) {
+    .games h2 { font-size: var(--font-size-3xl); }
+    .more-games-section h3 { font-size: var(--font-size-2xl); }
+  }
+</style>
+

@@ -1,7 +1,7 @@
 {
   "navigation": {
     "home": "Home",
-    "games": "Games", 
+    "games": "Games",
     "newGames": "New Games",
     "popularGames": "Popular Games",
     "trendingGames": "Trending Games",
@@ -17,13 +17,15 @@
   },
   "hero": {
     "title": "Welcome to Fiddlebops Incredibox!",
-    "subtitle": "Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music."
+    "subtitle": "Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music.",
+    "playNow": "Play Now",
+    "learnMore": "Learn More"
   },
   "sections": {
     "howToPlay": "How to Play",
     "newGames": "New Games",
     "popularGames": "Popular Games",
-    "trendingGames": "Trending Games", 
+    "trendingGames": "Trending Games",
     "about": "About FiddleBops",
     "videos": "Video Tutorials"
   },
@@ -43,7 +45,7 @@
     "retry": "Try Again",
     "back": "Back",
     "next": "Next",
-    "previous": "Previous", 
+    "previous": "Previous",
     "close": "Close",
     "menu": "Menu"
   },
@@ -57,5 +59,17 @@
     "quickLinks": "Quick Links",
     "tagline": "Create Music, Share Joy",
     "description": "Free Online Music Creation Platform"
+  },
+  "error": {
+    "404": {
+      "title": "Page Not Found",
+      "message": "The page you are looking for could not be found.",
+      "backToHome": "Return to Homepage",
+      "suggestionsTitle": "Popular Games",
+      "suggestionsDescription": "While you're here, why not try some of our most popular music creation games?",
+      "originalExperience": "The original FiddleBops experience with improved features",
+      "sprunikiExperience": "Create amazing beats with colorful Sprunki characters",
+      "incrediboxExperience": "The classic music creation game that started it all"
+    }
   }
 }

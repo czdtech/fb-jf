@@ -1,60 +1,70 @@
-import { z, defineCollection } from 'astro:content';
+import { z, defineCollection } from "astro:content";
 
 const gamesCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    id: z.string().optional(), // 多语言版本可能不需要重新定义id
-    title: z.string(),
-    description: z.string(),
-    image: z.string(),
-    iframe: z.string().url(),
-    category: z.string(),
-    meta: z.object({
+  type: "content",
+  schema: z
+    .object({
+      id: z.string().optional(), // 多语言版本可能不需要重新定义id
       title: z.string(),
       description: z.string(),
-      canonical: z.string().url().optional(), // 多语言canonical会自动生成
-      ogImage: z.string().optional(),
-    }),
-    seo: z.object({
-        title: z.string().optional(),
-        description: z.string().optional(),
-        keywords: z.string().optional(),
-        canonical: z.string().url().optional(),
+      image: z.string(),
+      iframe: z.string().url(),
+      category: z.string(),
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        canonical: z.string().url().optional(), // 多语言canonical会自动生成
         ogImage: z.string().optional(),
-        schema: z.object({
-            name: z.string(),
-            alternateName: z.string(),
-            url: z.string().url()
-        }).optional()
-    }).optional(),
-    rating: z.object({
-        score: z.number(),
-        maxScore: z.number(),
-        votes: z.number(),
-        stars: z.number()
-    }).optional(),
-    breadcrumb: z.object({
-        home: z.string(),
-        current: z.string()
-    }).optional(),
-    pageType: z.string().optional(),
-    isDemo: z.boolean().optional(),
-  }).passthrough(),
+      }),
+      seo: z
+        .object({
+          title: z.string().optional(),
+          description: z.string().optional(),
+          keywords: z.string().optional(),
+          canonical: z.string().url().optional(),
+          ogImage: z.string().optional(),
+          schema: z
+            .object({
+              name: z.string().optional(),
+              alternateName: z.string().optional(),
+              url: z.string().url().optional(),
+            })
+            .optional(),
+        })
+        .optional(),
+      rating: z
+        .object({
+          score: z.number(),
+          maxScore: z.number(),
+          votes: z.number(),
+          stars: z.number(),
+        })
+        .optional(),
+      breadcrumb: z
+        .object({
+          home: z.string(),
+          current: z.string(),
+        })
+        .optional(),
+      pageType: z.string().optional(),
+      isDemo: z.boolean().optional(),
+    })
+    .passthrough(),
 });
 
 // 多语言首页内容（使用 Markdown 管理 about 内容，避免 set:html）
 const i18nHomeCollection = defineCollection({
-  type: 'content',
+  type: "content",
   schema: z.object({
     lang: z.string(),
     title: z.string(),
     description: z.string(),
-  })
+  }),
 });
 
 // UI界面翻译内容集合
 const i18nUICollection = defineCollection({
-  type: 'data',
+  type: "data",
   schema: z.object({
     // 导航相关翻译
     navigation: z.object({
@@ -83,7 +93,7 @@ const i18nUICollection = defineCollection({
     sections: z.object({
       howToPlay: z.string(),
       newGames: z.string(),
-      popularGames: z.string(), 
+      popularGames: z.string(),
       trendingGames: z.string(),
       about: z.string(),
       videos: z.string(),
@@ -121,12 +131,25 @@ const i18nUICollection = defineCollection({
       quickLinks: z.string(),
       tagline: z.string(),
       description: z.string(),
-    })
-  })
+    }),
+    // 错误页面相关翻译
+    error: z.object({
+      "404": z.object({
+        title: z.string(),
+        message: z.string(),
+        backToHome: z.string(),
+        suggestionsTitle: z.string(),
+        suggestionsDescription: z.string(),
+        originalExperience: z.string(),
+        sprunikiExperience: z.string(),
+        incrediboxExperience: z.string(),
+      }),
+    }),
+  }),
 });
 
 export const collections = {
-  'games': gamesCollection,
-  'i18nHome': i18nHomeCollection,
-  'i18nUI': i18nUICollection,
+  games: gamesCollection,
+  i18nHome: i18nHomeCollection,
+  i18nUI: i18nUICollection,
 };

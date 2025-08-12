@@ -13,7 +13,7 @@ import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 // 导入数据和工具
 import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
-import { generateEnglishGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
+import { generateAllLocalesGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
 import type { ExtractedData } from '@/types/game'
 
 const { navigation } = extractedData as ExtractedData
@@ -22,7 +22,8 @@ const { navigation } = extractedData as ExtractedData
 const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '')
 
 export async function getStaticPaths() {
-  return await generateEnglishGamePaths();
+  // 统一生成所有语言的静态路径，匹配 astro.config.mjs 的 i18n 配置
+  return await generateAllLocalesGamePaths();
 }
 
 const { game: initialGame, locale } = Astro.props as { 
@@ -30,22 +31,17 @@ const { game: initialGame, locale } = Astro.props as {
   locale: string 
 };
 
-// 使用 props 中的 locale 作为优先选择，然后才是 URL 检测
+// 优先使用 Astro.currentLocale（与 Astro i18n 对齐），兼容 props 与路径回退
 const currentPath = Astro.url.pathname;
-const currentLocale = locale || Astro.currentLocale || extractLocaleFromPath(currentPath);
+const currentLocale = Astro.currentLocale || locale || extractLocaleFromPath(currentPath);
 const slug = Astro.params.slug as string;
 
-console.log(`[DEBUG] [slug].astro - URL: ${currentPath}, Props locale: ${locale}, Astro.currentLocale: ${Astro.currentLocale}, final locale: ${currentLocale}`);
+//
 
 // 加载适当的游戏内容
 const game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
 
-console.log(`[DEBUG] Final game loaded:`, {
-  slug,
-  currentLocale,
-  gameId: game.id,
-  title: game.data.title
-});
+//
 const { Content } = await game.render();
 const gameData = { ...(game.data), slug: game.slug };
 const extendedData = gameData;

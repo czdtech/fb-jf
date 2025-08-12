@@ -7,15 +7,16 @@ export interface Props {
     path: string;
   }>;
   className?: string;
+  ariaLabel?: string;
 }
 
-const { currentLang, languages, className = "" } = Astro.props;
+const { currentLang, languages, className = "", ariaLabel = "Language" } = Astro.props;
 ---
 
 <div class={`language-selector-wrapper ${className}`}>
   <select 
     class="language-selector-native"
-    aria-label="选择语言 / Select Language"
+    aria-label={ariaLabel}
     data-current-lang={currentLang}
   >
     {languages.map(lang => (

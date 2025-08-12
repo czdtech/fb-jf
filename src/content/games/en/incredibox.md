@@ -6,7 +6,7 @@ description: >-
   Want to create your own exclusive hit song with a group of quirky beatboxers?
   Incredibox can make your dream come true! This game is part game, part music
   creation tool, and offers musical fun for people of all ages.
-image: /Incredibox.png
+image: /incredibox.png
 iframe: https://www.minijuegos.com/embed/incredibox
 category: trending
 meta:
@@ -17,7 +17,7 @@ meta:
     game, part music creation tool, and offers musical fun for people of all
     ages.
   canonical: https://www.playfiddlebops.com/incredibox/
-  ogImage: https://www.playfiddlebops.com/Incredibox.png
+  ogImage: https://www.playfiddlebops.com/incredibox.png
 seo:
   title: Incredibox - Play Incredibox Online
   description: >-
@@ -27,7 +27,7 @@ seo:
     ages.
   keywords: Incredibox, Incredibox online
   canonical: https://www.playfiddlebops.com/incredibox/
-  ogImage: https://www.playfiddlebops.com/Incredibox.png
+  ogImage: https://www.playfiddlebops.com/incredibox.png
   schema:
     name: Incredibox - Play Incredibox Online
     alternateName: playfiddlebops.com

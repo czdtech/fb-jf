@@ -105,7 +105,7 @@ const mainGame: any = {
             🔥 {ui.sections.popularGames}
           </h2>
           <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
-            Discover our most popular music creation experiences
+            {ui?.games?.viewMore || 'Discover more games'}
           </p>
         </div>
         <GameGrid
@@ -125,7 +125,7 @@ const mainGame: any = {
             ✨ {ui.sections.newGames}
           </h2>
           <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
-            Fresh beats and new ways to create music
+            {ui?.sections?.newGames || 'New Games'}
           </p>
         </div>
         <GameGrid
@@ -145,7 +145,7 @@ const mainGame: any = {
             📈 {ui.sections.trendingGames}
           </h2>
           <p class="text-muted-foreground text-base sm:text-lg max-w-md sm:max-w-lg mx-auto px-4">
-            What everyone's playing right now
+            {ui?.sections?.trendingGames || 'Trending Games'}
           </p>
         </div>
         <GameGrid

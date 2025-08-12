@@ -6,18 +6,25 @@ import extractedData from '@/data/extracted-data.json'
 
 const { navigation } = extractedData
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: `https://www.playfiddlebops.com/404/`,
-  label: lang.label,
+// 多语言配置（动态识别并生成对应语言的 URL）
+import { getCurrentLocale, getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getAbsoluteLocaleUrl } from 'astro:i18n';
+
+const currentLocale: SupportedLocale = getCurrentLocale(Astro.url);
+const translation = await getTranslation(currentLocale);
+const uiText = translation.ui;
+
+const hreflangLinks = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
+  code: code === 'en' ? 'x-default' : code,
+  url: getAbsoluteLocaleUrl(code as SupportedLocale, '/404'),
+  label
 }))
 
-// Meta data for 404 page
+// Meta data for 404 page (localized)
 const meta = {
-  title: "404 - Page Not Found | FiddleBops",
-  description: "The page you are looking for could not be found. Please return to the homepage or check the URL.",
-  canonical: "https://www.playfiddlebops.com/404/",
+  title: `404 - ${uiText?.error?.['404']?.title || 'Page Not Found'} | FiddleBops`,
+  description: uiText?.error?.['404']?.message || "The page you are looking for could not be found. Please return to the homepage or check the URL.",
+  canonical: getAbsoluteLocaleUrl(currentLocale, '/404/'),
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
   robots: "noindex, nofollow"
 }
@@ -25,14 +32,14 @@ const meta = {
 
 <BaseLayout
   meta={meta}
-  lang="en"
+  lang={currentLocale}
   hreflang={hreflangLinks}
 >
   <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
-    currentLang="en"
-    currentPath="/404/"
+    currentLang={currentLocale}
+    currentPath={getAbsoluteLocaleUrl(currentLocale, '/404')}
   />
 
   <main class="error-page">
@@ -44,30 +51,30 @@ const meta = {
           <nav class="breadcrumb" aria-label="面包屑导航">
             <a href="/" class="breadcrumb-link">
               <i class="fas fa-home"></i>
-              <span>Home</span>
+              <span>{uiText?.navigation?.home || 'Home'}</span>
             </a>
             <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">404 Error</span>
+            <span class="breadcrumb-current">404</span>
           </nav>
 
           <div class="error-content">
             <div class="error-number">404</div>
             <h1 class="error-title heading-display">
-              <span class="title-main">Page</span>
-              <span class="title-accent">Not Found</span>
+              <span class="title-main">{uiText?.error?.['404']?.title || 'Page Not Found'}</span>
+              <span class="title-accent">{uiText?.error?.['404']?.message || 'The page you visited does not exist'}</span>
             </h1>
             <p class="error-subtitle body-large">
-              The page you are looking for could not be found. It may have been moved, deleted, or you entered the wrong URL.
+              {uiText?.error?.['404']?.message || 'The page you are looking for could not be found.'}
             </p>
 
             <div class="error-actions">
-              <a href="/" class="btn btn-primary btn-lg">
+              <a href={getAbsoluteLocaleUrl(currentLocale, '/')} class="btn btn-primary btn-lg">
                 <i class="fas fa-home"></i>
-                <span>Return to Homepage</span>
+                <span>{uiText?.error?.['404']?.backToHome || 'Return to Homepage'}</span>
               </a>
-              <a href="/games/" class="btn btn-secondary btn-lg">
+              <a href={getAbsoluteLocaleUrl(currentLocale, '/games')} class="btn btn-secondary btn-lg">
                 <i class="fas fa-gamepad"></i>
-                <span>Browse Games</span>
+                <span>{uiText?.games?.viewMore || 'Browse Games'}</span>
               </a>
             </div>
           </div>
@@ -86,9 +93,9 @@ const meta = {
     <section class="error-suggestions section">
       <div class="container">
         <div class="section-header center-only">
-          <h2 class="section-title">🎵 Popular Games</h2>
+          <h2 class="section-title">🎵 {uiText?.error?.['404']?.suggestionsTitle || 'Popular Games'}</h2>
           <p class="section-description">
-            While you're here, why not try some of our most popular music creation games?
+            {uiText?.error?.['404']?.suggestionsDescription || 'While you\'re here, why not try some of our most popular music creation games?'}
           </p>
         </div>
 
@@ -96,9 +103,9 @@ const meta = {
           <div class="suggestion-card glass">
             <div class="suggestion-icon">🎮</div>
             <h3 class="suggestion-title">FiddleBops Fix</h3>
-            <p class="suggestion-description">The original FiddleBops experience with improved features</p>
+            <p class="suggestion-description">{uiText?.error?.['404']?.originalExperience || 'The original FiddleBops experience with improved features'}</p>
             <a href="/fiddlebops-fix/" class="suggestion-link">
-              <span>Play Now</span>
+              <span>{uiText?.games?.playNow || 'Play Now'}</span>
               <i class="fas fa-arrow-right"></i>
             </a>
           </div>
@@ -106,19 +113,19 @@ const meta = {
           <div class="suggestion-card glass">
             <div class="suggestion-icon">🎵</div>
             <h3 class="suggestion-title">Sprunki Retake</h3>
-            <p class="suggestion-description">A fresh take on the beloved Sprunki musical adventure</p>
+            <p class="suggestion-description">{uiText?.error?.['404']?.sprunikiExperience || 'Create amazing beats with colorful Sprunki characters'}</p>
             <a href="/sprunki-retake/" class="suggestion-link">
-              <span>Play Now</span>
+              <span>{uiText?.games?.playNow || 'Play Now'}</span>
               <i class="fas fa-arrow-right"></i>
             </a>
           </div>
 
           <div class="suggestion-card glass">
             <div class="suggestion-icon">🎶</div>
-            <h3 class="suggestion-title">Browse All Games</h3>
-            <p class="suggestion-description">Explore our complete collection of musical games</p>
-            <a href="/games/" class="suggestion-link">
-              <span>Explore</span>
+            <h3 class="suggestion-title">Incredibox</h3>
+            <p class="suggestion-description">{uiText?.error?.['404']?.incrediboxExperience || 'The classic music creation game that started it all'}</p>
+            <a href={getAbsoluteLocaleUrl(currentLocale, '/incredibox')} class="suggestion-link">
+              <span>{uiText?.games?.playNow || 'Play Now'}</span>
               <i class="fas fa-arrow-right"></i>
             </a>
           </div>
