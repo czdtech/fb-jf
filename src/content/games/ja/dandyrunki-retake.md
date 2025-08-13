@@ -1,5 +1,4 @@
 ---
-id: dandyrunki-retake
 slug: dandyrunki-retake
 title: Dandyrunki Retake
 description: >-

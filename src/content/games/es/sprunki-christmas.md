@@ -1,5 +1,4 @@
 ---
-id: sprunki-christmas
 slug: sprunki-christmas
 title: Sprunki Christmas
 description: >-

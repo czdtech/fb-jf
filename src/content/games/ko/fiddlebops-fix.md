@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-fix
 slug: fiddlebops-fix
 title: 피들밥스 픽스
 description: >-

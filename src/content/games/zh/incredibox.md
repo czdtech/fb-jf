@@ -1,5 +1,4 @@
 ---
-id: incredibox
 slug: incredibox
 title: Incredibox - 音乐创作之王
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: incredibox-shatter-sprunk
 slug: incredibox-shatter-sprunk
 title: Incredibox Shatter Sprunk
 description: >-

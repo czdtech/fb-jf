@@ -1,5 +1,4 @@
 ---
-id: sprunki-mod-BFDI
 slug: sprunki-mod-BFDI
 title: Sprunki Mod BFDI
 description: >-

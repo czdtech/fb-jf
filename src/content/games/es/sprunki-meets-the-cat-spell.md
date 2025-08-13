@@ -1,5 +1,4 @@
 ---
-id: sprunki-meets-the-cat-spell
 slug: sprunki-meets-the-cat-spell
 title: Sprunki Meets The Cat Spell
 description: 'Este mod es una versión retrabajada de un mod existente titulado '

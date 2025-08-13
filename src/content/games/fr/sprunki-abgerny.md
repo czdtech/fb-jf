@@ -1,5 +1,4 @@
 ---
-id: sprunki-abgerny
 slug: sprunki-abgerny
 title: Sprunki Abgerny
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: sprunki-eggs-mix
 slug: sprunki-eggs-mix
 title: Sprunki Eggs Mix
 description: Sprunki 彩蛋

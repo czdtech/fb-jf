@@ -1,5 +1,4 @@
 ---
-id: mundo-torajo-sprunki
 slug: mundo-torajo-sprunki
 title: 뭀도 토라호 스프렁키
 description: >

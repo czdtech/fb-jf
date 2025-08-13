@@ -1,5 +1,4 @@
 ---
-id: incredibox-cool-as-ice
 slug: incredibox-cool-as-ice
 title: Incredibox Cool As Ice
 description: >

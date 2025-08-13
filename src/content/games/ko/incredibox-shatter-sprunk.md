@@ -1,5 +1,4 @@
 ---
-id: incredibox-shatter-sprunk
 slug: incredibox-shatter-sprunk
 title: 인크레디박스 샤터 스프렁크
 description: >-

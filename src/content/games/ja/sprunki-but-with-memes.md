@@ -1,5 +1,4 @@
 ---
-id: sprunki-but-with-memes
 slug: sprunki-but-with-memes
 title: Sprunki But With Memes
 description: >-

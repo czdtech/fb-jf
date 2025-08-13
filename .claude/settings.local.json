@@ -5,7 +5,23 @@
       "mcp__playwright__browser_navigate",
       "Bash(npm run build:*)",
       "Bash(rm:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(find:*)",
+      "mcp__playwright__browser_wait_for",
+      "Bash(curl:*)",
+      "mcp__playwright__browser_resize",
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(pkill:*)",
+      "Bash(timeout:*)",
+      "Bash(kill:*)",
+      "Bash(touch:*)",
+      "Bash(npm install)",
+      "Bash(for:*)",
+      "Bash(do if ! grep -q \"^iframe:\" \"$file\")",
+      "Bash(cp:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }

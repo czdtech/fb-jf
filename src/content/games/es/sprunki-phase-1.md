@@ -1,5 +1,4 @@
 ---
-id: sprunki-phase-1
 slug: sprunki-phase-1
 title: Sprunki Phase 1
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: sprunki-rotrizi-5
 slug: sprunki-rotrizi-5
 title: Sprunki Rotrizi 5
 description: >-

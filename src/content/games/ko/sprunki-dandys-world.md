@@ -1,5 +1,4 @@
 ---
-id: sprunki-dandys-world
 slug: sprunki-dandys-world
 title: 스프런키 댄디즈 월드
 description: 스프런키 댄디

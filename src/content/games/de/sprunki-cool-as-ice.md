@@ -1,5 +1,4 @@
 ---
-id: sprunki-cool-as-ice
 slug: sprunki-cool-as-ice
 title: Sprunki Cool As Ice
 description: >

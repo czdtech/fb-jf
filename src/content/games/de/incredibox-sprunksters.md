@@ -1,5 +1,4 @@
 ---
-id: incredibox-sprunksters
 slug: incredibox-sprunksters
 title: Incredibox Sprunksters
 description: >

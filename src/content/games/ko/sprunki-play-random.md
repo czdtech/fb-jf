@@ -1,5 +1,4 @@
 ---
-id: FILE_ID
 slug: FILE_ID
 title: TITLE
 description: >-

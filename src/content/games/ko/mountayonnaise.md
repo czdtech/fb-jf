@@ -1,5 +1,4 @@
 ---
-id: mountayonnaise
 slug: mountayonnaise
 title: 마운테요네즈
 description: >

@@ -1,5 +1,4 @@
 ---
-id: sprunki-maker
 slug: sprunki-maker
 title: Sprunki Maker
 description: >-

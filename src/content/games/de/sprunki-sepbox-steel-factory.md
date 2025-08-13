@@ -1,5 +1,4 @@
 ---
-id: sprunki-sepbox-steel-factory
 slug: sprunki-sepbox-steel-factory
 title: Sprunki Sepbox Steel Factory
 description: Sprunki x SepBox Steel Factory ist eine einzigartige Zusammenarbeit, die Sprunki kombiniert

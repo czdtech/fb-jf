@@ -1,5 +1,4 @@
 ---
-id: the-haze-pixelbox
 slug: the-haze-pixelbox
 title: 더 헤이즈 픽셀박스
 description: >-

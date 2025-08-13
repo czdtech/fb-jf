@@ -1,5 +1,4 @@
 ---
-id: sprunki-interactive-beta
 slug: sprunki-interactive-beta
 title: 스프런키 인터랙티브 베타
 description: >-

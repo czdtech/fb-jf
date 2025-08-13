@@ -1,5 +1,4 @@
 ---
-id: sprunki-mustard
 slug: sprunki-mustard
 title: 스프런키 머스타드
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: sprunki-craft
 slug: sprunki-craft
 title: 스프런키 크래프트
 description: >-

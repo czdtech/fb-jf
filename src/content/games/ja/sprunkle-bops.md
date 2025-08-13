@@ -1,5 +1,4 @@
 ---
-id: sprunkle-bops
 slug: sprunkle-bops
 title: Sprunkle Bops
 description: >-

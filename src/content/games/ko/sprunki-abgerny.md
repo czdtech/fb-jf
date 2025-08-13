@@ -1,5 +1,4 @@
 ---
-id: sprunki-abgerny
 slug: sprunki-abgerny
 title: 스프렁키 애브거니
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: sprunki-red-sun
 slug: sprunki-red-sun
 title: Sprunki 红太阳
 description: >-

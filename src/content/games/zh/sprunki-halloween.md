@@ -1,5 +1,4 @@
 ---
-id: sprunki-halloween
 slug: sprunki-halloween
 title: Sprunki Halloween - 万圣节惊悚音乐
 description: >-

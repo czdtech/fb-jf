@@ -1,5 +1,4 @@
 ---
-id: sprunki-good-night
 slug: sprunki-good-night
 title: 스프런키 굿나이트
 description: >-

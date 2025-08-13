@@ -16,6 +16,7 @@ import { getCollection } from 'astro:content';
 import { getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
 import { generateHomeHreflangLinks } from '@/utils/hreflang';
+import extractedData from '@/data/extracted-data.json';
 
 // 获取当前语言 - 使用Astro官方i18n系统
 const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
@@ -25,22 +26,92 @@ const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 const homeContent = translation.home;
 
-// 获取当前语言的游戏，支持fallback策略
-let allGames = await getCollection('games', (entry) => {
-  return entry.id.startsWith(`${currentLocale}/`);
-});
+// 获取当前语言的游戏 - 已优化版本
+const currentPath = Astro.url.pathname;
 
-// Fallback策略：如果当前语言没有游戏，fallback到英文
-if (allGames.length === 0 && currentLocale !== 'en') {
-  allGames = await getCollection('games', (entry) => {
-    return entry.id.startsWith('en/');
+let allGames: any[] = [];
+
+try {
+  // 🔧 尝试直接获取英文游戏（根目录下的文件）
+  let englishGamesOnly;
+  try {
+    englishGamesOnly = await getCollection('games', ({ id }) => !id.includes('/'));
+    console.log('Direct English games query result:', englishGamesOnly.length);
+  } catch (englishError) {
+    console.error('Error loading English games directly:', englishError);
+    englishGamesOnly = [];
+  }
+  
+  // 获取所有游戏进行分析
+  const allGamesRaw = await getCollection('games');
+  
+  // 调试：打印游戏ID格式以确认实际结构
+  console.log('Total games loaded:', allGamesRaw.length);
+  
+  // 尝试获取特定语言的游戏
+  const languageStats = {};
+  allGamesRaw.forEach(game => {
+    const gameId = game.id.replace(/\.md$/, '');
+    let lang;
+    if (gameId.includes('/')) {
+      lang = gameId.split('/')[0];
+    } else {
+      lang = 'en'; // 根目录文件是英文
+    }
+    languageStats[lang] = (languageStats[lang] || 0) + 1;
   });
-}
-
-// 如果英文也没有，使用任何可用的语言
-if (allGames.length === 0) {
-  const allAvailableGames = await getCollection('games');
-  allGames = allAvailableGames.slice(0, 70); // 限制数量避免性能问题
+  console.log('Language distribution:', languageStats);
+  console.log('Current locale:', currentLocale);
+  
+  // 手动过滤当前语言的游戏
+  const currentLocaleGames = allGamesRaw.filter(game => {
+    const gameId = game.id.replace(/\.md$/, '');
+    if (currentLocale === 'en') {
+      // 英文游戏在根目录，ID中不包含'/'
+      return !gameId.includes('/');
+    } else {
+      // 其他语言游戏在子目录，ID格式为 "language/game-name"
+      return gameId.startsWith(`${currentLocale}/`);
+    }
+  });
+  
+  allGames = currentLocaleGames;
+  console.log(`Found ${allGames.length} games for locale ${currentLocale}`);
+  
+  // 调试：检查前3个游戏的内容
+  if (allGames.length > 0) {
+    console.log('Sample games content:');
+    allGames.slice(0, 3).forEach((game, index) => {
+      console.log(`${index + 1}. ${game.id} - ${game.data.title}`);
+      console.log(`   Description: ${game.data.description.substring(0, 50)}...`);
+    });
+  }
+  
+  // Fallback策略：如果当前语言没有游戏，fallback到英文
+  if (allGames.length === 0 && currentLocale !== 'en') {
+    const englishGames = allGamesRaw.filter(game => {
+      const gameId = game.id.replace(/\.md$/, '');
+      return !gameId.includes('/'); // 英文游戏在根目录
+    });
+    allGames = englishGames;
+    console.log(`Fallback to English: Found ${allGames.length} English games`);
+  }
+  
+  // 特殊处理：如果是英文页面但没有找到游戏，使用直接查询的结果
+  if (currentLocale === 'en' && allGames.length === 0 && englishGamesOnly.length > 0) {
+    allGames = englishGamesOnly;
+    console.log(`Using direct English query result: ${allGames.length} games`);
+  }
+  
+  // 如果仍然没有找到游戏，使用前20个作为应急备份
+  if (allGames.length === 0) {
+    allGames = allGamesRaw.slice(0, 20);
+    console.log('Emergency fallback: Using first 20 games');
+  }
+  
+} catch (collectionError) {
+  console.error('Content collection loading failed:', collectionError);
+  allGames = [];
 }
 
 const popularGames = allGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
@@ -71,27 +142,19 @@ const pageMeta = {
   ogImage: 'https://www.playfiddlebops.com/images/fiddlebops-og.jpg'
 };
 
-// 默认音频样本数据（保持兼容性）
-const defaultSoundSamples = {
-  title: uiText?.sections?.about || 'Sound Samples',
-  samples: [
-    {
-      name: 'Beat 1',
-      audioSrc: '/audio/beat1.mp3',
-      color: '#FF6B6B'
-    },
-    {
-      name: 'Beat 2',
-      audioSrc: '/audio/beat2.mp3',
-      color: '#4ECDC4'
-    },
-    {
-      name: 'Beat 3',
-      audioSrc: '/audio/beat3.mp3',
-      color: '#45B7D1'
-    }
-  ]
-};
+// 获取完整的25个角色音频数据
+const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
+  name: sample.title,
+  title: sample.title,
+  image: sample.image,
+  audioSrc: sample.audio,
+  category: sample.category,
+  color: sample.category === 'Beats' ? '#FF6B6B' : 
+         sample.category === 'Effects' ? '#4ECDC4' :
+         sample.category === 'Melodies' ? '#45B7D1' :
+         sample.category === 'Voices' ? '#FFA726' :
+         '#9C27B0' // Bonus characters
+}));
 
 // 结构化数据：网站级（首页） + 视频 JSON-LD（合并为 @graph）
 const websiteNode = {
@@ -163,7 +226,7 @@ const structuredData = {
     <AboutSection />
 
     <!-- Sound Samples Section -->
-    <SoundSamplesSection soundSamples={defaultSoundSamples.samples} />
+    <SoundSamplesSection soundSamples={soundSamples} />
 
     <!-- Video Section -->
     <VideosSection />

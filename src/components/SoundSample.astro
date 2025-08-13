@@ -665,9 +665,79 @@ const uniqueId = `audio-${(sample?.title || 'unknown').replace(/[^a-zA-Z0-9]/g, 
   }
 }
 
-@media (max-width: 480px) {
+/* iPhone 14 Pro 和现代手机优化 (390-430px) */
+@media (max-width: 430px) and (min-width: 390px) {
   .sound-sample-card {
-    aspect-ratio: 1;
+    aspect-ratio: 3/4;
+  }
+
+  .sound-sample-image-wrapper {
+    width: 120px;
+    height: 120px;
+    padding: 6px;
+  }
+
+  .audio-viz-rings {
+    width: 140px;
+    height: 140px;
+  }
+
+  .ring-1 {
+    width: 120px;
+    height: 120px;
+  }
+
+  .ring-2 {
+    width: 100px;
+    height: 100px;
+  }
+
+  .ring-3 {
+    width: 140px;
+    height: 140px;
+  }
+
+  .play-btn {
+    width: 50px;
+    height: 50px;
+  }
+
+  .play-icon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .sound-sample-content {
+    padding: 10px 8px;
+  }
+
+  .sound-sample-title {
+    font-size: 13px;
+    margin-bottom: 10px;
+    min-height: 32px;
+  }
+
+  .sound-sample-category {
+    top: 8px;
+    right: 8px;
+    padding: 3px 8px;
+    font-size: 10px;
+  }
+
+  .waveform-bars {
+    gap: 2px;
+    height: 18px;
+  }
+
+  .waveform-bars .bar {
+    width: 3px;
+  }
+}
+
+/* 小屏手机优化 (360-390px) */
+@media (max-width: 390px) and (min-width: 360px) {
+  .sound-sample-card {
+    aspect-ratio: 3/4;
   }
 
   .sound-sample-image-wrapper {
@@ -719,8 +789,8 @@ const uniqueId = `audio-${(sample?.title || 'unknown').replace(/[^a-zA-Z0-9]/g, 
   .sound-sample-category {
     top: 6px;
     right: 6px;
-    padding: 2px 8px;
-    font-size: 10px;
+    padding: 2px 6px;
+    font-size: 9px;
   }
 
   .waveform-bars {
@@ -729,14 +799,19 @@ const uniqueId = `audio-${(sample?.title || 'unknown').replace(/[^a-zA-Z0-9]/g, 
   }
 
   .waveform-bars .bar {
-    width: 3px;
+    width: 2px;
   }
 }
 
+/* 超小屏幕 (iPhone SE 等) */
 @media (max-width: 360px) {
+  .sound-sample-card {
+    aspect-ratio: 3/4;
+  }
+
   .sound-sample-image-wrapper {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     padding: 4px;
   }
 
@@ -746,13 +821,13 @@ const uniqueId = `audio-${(sample?.title || 'unknown').replace(/[^a-zA-Z0-9]/g, 
   }
 
   .ring-1 {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
   }
 
   .ring-2 {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
   }
 
   .ring-3 {
@@ -772,6 +847,11 @@ const uniqueId = `audio-${(sample?.title || 'unknown').replace(/[^a-zA-Z0-9]/g, 
 
   .sound-sample-title {
     font-size: 11px;
+  }
+
+  .sound-sample-category {
+    padding: 2px 6px;
+    font-size: 8px;
   }
 }
 </style>

@@ -245,10 +245,6 @@ const htmlDir = getLanguageDirection(lang as any);
       import '/src/scripts/interactions.js'
     </script>
 
-    <!-- Stagewise Toolbar（仅开发环境注入 - 外链模块） -->
-    {import.meta.env.DEV && (
-      <script type="module" src="/src/scripts/stagewise-toolbar.ts"></script>
-    )}
 
 
 </body>

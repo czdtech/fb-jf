@@ -1,5 +1,4 @@
 ---
-id: sprunki-like-minecraft
 slug: sprunki-like-minecraft
 title: Sprunki Like Minecraft
 description: >

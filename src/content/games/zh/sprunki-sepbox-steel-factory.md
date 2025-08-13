@@ -1,5 +1,4 @@
 ---
-id: sprunki-sepbox-steel-factory
 slug: sprunki-sepbox-steel-factory
 title: Sprunki Sepbox 钢铁工厂
 description: Sprunki x SepBox 钢铁工厂是一次独特的合作，结合了 Sprunki

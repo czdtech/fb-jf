@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-sprunkbop
 slug: fiddlebops-sprunkbop
 title: Fiddlebops Sprunkbop
 description: >-

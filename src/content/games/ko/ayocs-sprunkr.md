@@ -1,5 +1,4 @@
 ---
-id: ayocs-sprunkr
 slug: ayocs-sprunkr
 title: 아요스 스프렁크
 description: >-

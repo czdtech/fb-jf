@@ -1,5 +1,4 @@
 ---
-id: incredibox
 slug: incredibox
 title: 인크레디박스
 description: >-

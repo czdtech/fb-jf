@@ -1,5 +1,4 @@
 ---
-id: sprunki-phase-5
 slug: sprunki-phase-5
 title: Sprunki Phase 5 - 恐怖音乐创作
 description: >

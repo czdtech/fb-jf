@@ -1,5 +1,4 @@
 ---
-id: sprunki-phase-8
 slug: sprunki-phase-8
 title: 스프런키 페이즈 8
 description: >-

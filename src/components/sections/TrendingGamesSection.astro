@@ -1,9 +1,10 @@
----
-import { getCollection } from 'astro:content';
+import { getLocalizedGamesList } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/utils';
 import GamesList from '@/components/GamesList.astro';
 
-// 获取所有游戏
-const allGames = await getCollection('games');
+// 获取与当前语言匹配的游戏（自动 fallback 英文）
+const locale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
+const allGames = await getLocalizedGamesList(locale);
 
 // 定义趋势游戏的 slug 列表
 const trendingGameSlugs = [

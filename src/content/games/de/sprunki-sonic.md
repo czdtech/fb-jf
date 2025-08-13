@@ -1,5 +1,4 @@
 ---
-id: sprunki-sonic
 slug: sprunki-sonic
 title: Sprunki Sonic
 description: >-

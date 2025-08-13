@@ -1,5 +1,4 @@
 ---
-id: sprunki-squid-remix
 slug: sprunki-squid-remix
 title: Sprunki 鱿鱼游戏重混
 image: /sprunki-squid-remix.png

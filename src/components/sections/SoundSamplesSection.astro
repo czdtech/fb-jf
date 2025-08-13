@@ -1,5 +1,6 @@
 ---
 import SoundSample from '@/components/SoundSample.astro';
+import { getTranslation } from '@/i18n/utils';
 
 // TypeScript接口定义
 interface Props {
@@ -7,6 +8,11 @@ interface Props {
 }
 
 const { soundSamples } = Astro.props;
+
+// 获取当前语言和翻译 - 使用Astro官方i18n系统
+const currentLocale = (Astro.currentLocale as any) || 'en';
+const translation = await getTranslation(currentLocale);
+const ui = translation?.ui || {};
 ---
 
 <!-- Sound Samples Section -->
@@ -14,9 +20,9 @@ const { soundSamples } = Astro.props;
   <div class="container">
     <div class="section-header center-only">
       <div>
-        <h2 class="section-title">Explore the Different Sounds in Fiddlebops Incredibox</h2>
+        <h2 class="section-title">{ui?.soundSamples?.title || 'Explore the Different Sounds in Fiddlebops Incredibox'}</h2>
         <p class="section-description">
-          Listen to authentic FiddleBops character sounds: Beats from Garrett and Mr. Moon, Effects from Cyborg Throat Singing, Melodies from Blues Clues Radio 2011, and Vocals from Mike Ehrmantraut
+          {ui?.soundSamples?.description || 'Listen to authentic FiddleBops character sounds: Beats from Garrett and Mr. Moon, Effects from Cyborg Throat Singing, Melodies from Blues Clues Radio 2011, and Vocals from Mike Ehrmantraut'}
         </p>
       </div>
     </div>
@@ -120,7 +126,7 @@ const { soundSamples } = Astro.props;
 .sound-samples-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: var(--space-grid-gap);
+  gap: var(--space-large);
   margin: 0 auto;
 }
 
@@ -163,23 +169,62 @@ const { soundSamples } = Astro.props;
   letter-spacing: 0.5px;
 }
 
-/* Responsive Design - 使用语义化间距自动缩放 */
+/* Responsive Design - 移动优先设计 */
+/* 超宽屏幕 - 5列布局 */
+@media (min-width: 1600px) {
+  .sound-samples-grid {
+    grid-template-columns: repeat(5, 1fr);
+    gap: var(--space-large);
+  }
+  
+  .sound-samples-container {
+    max-width: 1500px;
+    margin: 0 auto;
+  }
+}
+
 @media (max-width: 1400px) {
   .sound-samples-grid {
     grid-template-columns: repeat(4, 1fr);
-    /* gap 由语义化变量自动处理 */
+    gap: var(--space-base);
   }
 }
 
 @media (max-width: 1200px) {
   .sound-samples-grid {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-base);
   }
 }
 
-@media (max-width: 900px) {
+/* iPad 和平板优化 - 精确宽度控制 */
+@media (max-width: 1024px) and (min-width: 900px) {
   .sound-samples-grid {
     grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-small);
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-base);
+    margin: 0 var(--space-base);
+    max-width: 950px;
+  }
+}
+
+/* 移动优先：优化平板和大手机的显示 */
+@media (max-width: 900px) {
+  .sound-samples-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-base);
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-base);
+    margin: 0 var(--space-base);
   }
 }
 
@@ -193,10 +238,17 @@ const { soundSamples } = Astro.props;
     max-width: 100%;
     line-height: 1.5;
     text-align: left;
+    padding: 0 var(--space-small);
   }
 
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-base);
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-base);
+    margin: 0 var(--space-xs);
   }
 
   .sound-sample-wrapper {
@@ -204,10 +256,56 @@ const { soundSamples } = Astro.props;
   }
 }
 
-@media (max-width: 480px) {
+/* iPhone 14 Pro 和现代手机优化 (390-430px) */
+@media (max-width: 430px) and (min-width: 390px) {
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    /* 确保最小可用性，gap 由全局变量保证 */
+    gap: var(--space-base);
+    padding: 0 var(--space-xs);
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-base);
+    margin: 0 var(--space-xs);
+  }
+
+  .sound-sample-wrapper {
+    min-height: 0;
+  }
+
+  .section-title {
+    font-size: var(--font-size-xl) !important;
+  }
+  
+  .section-description {
+    font-size: var(--font-size-base);
+    line-height: 1.4;
+    text-align: center;
+    padding: 0 var(--space-xs);
+  }
+}
+
+/* 手机竖屏优化 - 小屏手机 */
+@media (max-width: 390px) {
+  .section-header {
+    margin-bottom: var(--space-base);
+    padding: 0 var(--space-xs);
+  }
+  
+  .section-title {
+    font-size: var(--font-size-xl) !important;
+    line-height: 1.2;
+  }
+
+  .sound-samples-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-base);
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-base);
+    margin: 0 var(--space-xs);
+    border-radius: var(--border-radius-base);
   }
 
   .sound-sample-wrapper {
@@ -219,13 +317,35 @@ const { soundSamples } = Astro.props;
     line-height: 1.4;
     letter-spacing: 0.01em;
     text-align: center;
+    padding: 0 var(--space-xs);
   }
 }
 
+/* 超小屏幕优化（iPhone SE等） */
 @media (max-width: 360px) {
+  .section-header {
+    padding: 0 var(--space-xs);
+  }
+  
+  .section-title {
+    font-size: var(--font-size-lg) !important;
+    line-height: 1.1;
+  }
+  
+  .section-description {
+    font-size: var(--font-size-sm);
+    line-height: 1.3;
+    padding: 0 var(--space-xs);
+  }
+
   .sound-samples-grid {
     grid-template-columns: repeat(2, 1fr);
-    /* gap 由全局最小间距保证 */
+    gap: var(--space-small);
+  }
+  
+  .sound-samples-container {
+    padding: var(--space-base);
+    margin: 0 var(--space-xs);
   }
 }
 </style>

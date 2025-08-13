@@ -1,5 +1,4 @@
 ---
-id: pikmin-no-sprunki
 slug: pikmin-no-sprunki
 title: Pikmin No Sprunki
 description: Pikmin No Sprunki ist mehr als nur ein einfaches Spiel; es

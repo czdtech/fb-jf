@@ -1,5 +1,4 @@
 ---
-id: sprunki-play-random
 slug: sprunki-play-random
 title: Sprunki Play Random
 description: >-

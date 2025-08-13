@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-but-dandys-world
 slug: fiddlebops-but-dandys-world
 title: Fiddlebops But Dandys World
 description: >-

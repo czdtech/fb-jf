@@ -1,5 +1,4 @@
 ---
-id: sprunki-halloween
 slug: sprunki-halloween
 title: 스프런키 할로윈
 description: >

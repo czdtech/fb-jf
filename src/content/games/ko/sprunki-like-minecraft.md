@@ -1,5 +1,4 @@
 ---
-id: sprunki-like-minecraft
 slug: sprunki-like-minecraft
 title: 스프런키 라이크 마인크래프트
 description: >-

@@ -186,6 +186,48 @@
       }
     }
   },
+  "soundSamples": {
+    "title": "Explore the Different Sounds in Fiddlebops Incredibox",
+    "description": "Listen to authentic FiddleBops character sounds: Beats from Garrett and Mr. Moon, Effects from Cyborg Throat Singing, Melodies from Blues Clues Radio 2011, and Vocals from Mike Ehrmantraut"
+  },
+  "videos": {
+    "title": "Fiddlebops Incredibox Game Video",
+    "description": "Watch complete FiddleBops gameplay demonstrations in 4K HD with subtitles, plus 8-minute highlight reels showcasing all 25 characters and their unique animations in action",
+    "demo": {
+      "title": "🎵 Fiddlebops Complete Demo",
+      "description": "4K HD gameplay demonstration with subtitles"
+    },
+    "highlights": {
+      "title": "🎮 8-Minute Highlights",
+      "description": "Every FiddleBops character in 8 minutes"
+    }
+  },
+  "faq": {
+    "title": "❓ Frequently Asked Questions",
+    "description": "Get answers about FiddleBops gameplay, character mechanics, browser compatibility, music creation tips, and how to unlock all 25 characters including the 5 special bonus ones",
+    "items": [
+      {
+        "question": "🎮 What is Fiddlebops Incredibox?",
+        "answer": "Fiddlebops is a fan-made project inspired by Incredibox. Here, you can experience the joy of music mixing and create unique musical works through an intuitive interface."
+      },
+      {
+        "question": "💰 Is Fiddlebops Incredibox free?",
+        "answer": "Yes, Fiddlebops Incredibox is completely free. Players can play online without any downloads required."
+      },
+      {
+        "question": "📱 Do I need to download or install anything?",
+        "answer": "No downloads required. The game runs directly in your browser and supports both desktop and mobile devices."
+      },
+      {
+        "question": "🎵 Do I need a music background?",
+        "answer": "Not at all! Fiddlebops Incredibox is designed for people without musical backgrounds. It's more like a musical toy and creative tool."
+      },
+      {
+        "question": "🚀 How do I start creating music?",
+        "answer": "Players can drag characters onto the stage and combine their unique sounds to create musical compositions. Try different character combinations to unlock hidden melodies and bonus content."
+      }
+    ]
+  },
   "games": {
     "playNow": "Play Now",
     "loading": "Loading...",

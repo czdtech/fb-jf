@@ -1,5 +1,4 @@
 ---
-id: sprunkgerny
 slug: sprunkgerny
 title: 스프렁거니
 description: >-

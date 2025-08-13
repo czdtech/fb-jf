@@ -1,5 +1,4 @@
 ---
-id: sprunki-christmas
 slug: sprunki-christmas
 title: Sprunki Christmas - 圣诞节音乐盛宴
 description: >-

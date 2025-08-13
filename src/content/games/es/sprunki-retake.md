@@ -1,5 +1,4 @@
 ---
-id: sprunki-retake
 slug: sprunki-retake
 title: Sprunki Retake
 description: >-

@@ -9,22 +9,28 @@ export async function getLocalizedGamesList(locale: string = "en") {
     const allGames = await getCollection("games");
     const gameMap = new Map<string, CollectionEntry<"games">>();
 
-    // 首先收集所有游戏的slug（基于英文版本）
+    // 首先收集所有游戏的slug（基于英文版本，现在在根目录）
     const englishGames = allGames.filter((game) => {
       const gameId = game.id.replace(/\.md$/, "");
-      const parts = gameId.split("/");
-      return parts.length === 2 && parts[0] === "en";
+      // 英文游戏现在在根目录，ID中不包含'/'
+      return !gameId.includes("/");
     });
 
     // 为每个游戏slug寻找最佳语言版本
     for (const englishGame of englishGames) {
       const gameId = englishGame.id.replace(/\.md$/, "");
-      const slug = gameId.split("/")[1];
+      const slug = gameId; // 英文游戏的ID就是slug，不再有路径前缀
 
       // 优先查找目标语言版本
       const localizedGame = allGames.find((game) => {
         const targetGameId = game.id.replace(/\.md$/, "");
-        return targetGameId === `${locale}/${slug}`;
+        if (locale === "en") {
+          // 英文版本直接匹配slug
+          return targetGameId === slug;
+        } else {
+          // 其他语言版本在子目录中
+          return targetGameId === `${locale}/${slug}`;
+        }
       });
 
       // 使用本地化版本或fallback到英文版本
@@ -52,8 +58,13 @@ export async function getLocalizedGameContent(
     // 查找目标语言的内容
     const localizedGame = games.find((game) => {
       const gameId = game.id.replace(/\.md$/, "");
-      // 匹配对应语言目录下的内容
-      return gameId === `${locale}/${slug}`;
+      if (locale === "en") {
+        // 英文内容直接匹配slug
+        return gameId === slug;
+      } else {
+        // 其他语言内容在子目录中
+        return gameId === `${locale}/${slug}`;
+      }
     });
 
     if (localizedGame) {
@@ -64,7 +75,7 @@ export async function getLocalizedGameContent(
     if (locale !== "en") {
       const englishGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        return gameId === `en/${slug}`;
+        return gameId === slug; // 英文内容直接匹配slug
       });
       return englishGame || null;
     }
@@ -118,30 +129,30 @@ export async function generateEnglishGamePaths(): Promise<
     props: { game: CollectionEntry<"games">; locale: string };
   }>
 > {
-  const allGames = await getCollection("games");
+  // 🔧 优化：直接过滤英文游戏，现在在根目录
+  const englishGames = await getCollection("games", (entry) => {
+    return !entry.id.includes("/"); // 英文游戏在根目录，ID中不包含'/'
+  });
+
   const paths: Array<{
     params: { slug: string };
     props: { game: CollectionEntry<"games">; locale: string };
   }> = [];
 
   if (import.meta.env.DEV)
-    console.log(`[DEBUG] Total games found: ${allGames.length}`);
+    console.log(`[DEBUG] English games found: ${englishGames.length}`);
 
-  // 只处理英文游戏
-  for (const game of allGames) {
+  // 处理英文游戏
+  for (const game of englishGames) {
     const gameId = game.id.replace(/\.md$/, "");
-    const parts = gameId.split("/");
+    const slug = gameId; // 英文游戏的ID就是slug
 
     if (import.meta.env.DEV) {
-      console.log(
-        `[DEBUG] Processing game: ${gameId}, parts: ${JSON.stringify(parts)}`
-      );
+      console.log(`[DEBUG] Processing English game: ${gameId}`);
     }
 
-    // 只处理英文游戏
-    if (parts.length === 2 && parts[0] === "en") {
-      const [locale, slug] = parts;
-
+    // 英文游戏现在直接在根目录
+    if (gameId && !gameId.includes("/")) {
       paths.push({
         params: { slug },
         props: {
@@ -171,42 +182,45 @@ export async function generateLocalizedGamePaths(targetLocale: string): Promise<
     props: { game: CollectionEntry<"games">; locale: string };
   }>
 > {
-  const allGames = await getCollection("games");
+  // 🔧 优化：分别获取目标语言和英文游戏，避免加载全部文件
+  const [localizedGames, englishGames] = await Promise.all([
+    getCollection("games", (entry) => entry.id.startsWith(`${targetLocale}/`)),
+    getCollection("games", (entry) => !entry.id.includes("/")), // 英文游戏在根目录
+  ]);
+
   const paths: Array<{
     params: { slug: string };
     props: { game: CollectionEntry<"games">; locale: string };
   }> = [];
 
-  if (import.meta.env.DEV)
-    console.log(`[DEBUG] Generating paths for locale: ${targetLocale}`);
-
-  // 收集所有游戏slug
-  const allSlugs = new Set<string>();
-  for (const game of allGames) {
-    const gameId = game.id.replace(/\.md$/, "");
-    const parts = gameId.split("/");
-    if (parts.length === 2) {
-      allSlugs.add(parts[1]);
-    }
+  if (import.meta.env.DEV) {
+    console.log(
+      `[DEBUG] ${targetLocale} games found: ${localizedGames.length}`
+    );
+    console.log(`[DEBUG] English games for fallback: ${englishGames.length}`);
   }
 
-  if (import.meta.env.DEV)
-    console.log(`[DEBUG] Found ${allSlugs.size} unique game slugs`);
+  // 获取所有英文游戏的slug用于生成路径
+  const englishSlugs = englishGames
+    .map((game) => {
+      const gameId = game.id.replace(/\.md$/, "");
+      return gameId; // 英文游戏的ID就是slug
+    })
+    .filter(Boolean);
 
-  // 为每个slug生成本地化路径
-  for (const slug of allSlugs) {
-    // 查找指定语言的游戏内容
-    const localizedGame = allGames.find((game) => {
+  for (const slug of englishSlugs) {
+    // 首先尝试找到本地化版本
+    const localizedGame = localizedGames.find((game) => {
       const gameId = game.id.replace(/\.md$/, "");
       return gameId === `${targetLocale}/${slug}`;
     });
 
     // 如果有本地化内容，使用本地化内容；否则fallback到英文
     let gameToUse = localizedGame;
-    if (!gameToUse && targetLocale !== "en") {
-      const englishGame = allGames.find((game) => {
+    if (!gameToUse) {
+      const englishGame = englishGames.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        return gameId === `en/${slug}`;
+        return gameId === slug; // 英文游戏直接匹配slug
       });
       gameToUse = englishGame;
     }

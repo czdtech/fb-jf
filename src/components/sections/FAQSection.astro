@@ -1,61 +1,60 @@
 ---
 // FAQ Section 组件
 // 展示 Fiddlebops 常见问题和答案
+import { getTranslation } from '@/i18n/utils';
+
+// 获取当前语言和翻译 - 使用Astro官方i18n系统
+const currentLocale = (Astro.currentLocale as any) || 'en';
+const translation = await getTranslation(currentLocale);
+const ui = translation?.ui || {};
+
+// 默认FAQ数据作为fallback
+const defaultFAQItems = [
+  {
+    question: "🎮 What is Fiddlebops Incredibox?",
+    answer: "Fiddlebops is a fan-made project inspired by Incredibox. Here, you can experience the joy of music mixing and create unique musical works through an intuitive interface."
+  },
+  {
+    question: "💰 Is Fiddlebops Incredibox free?",
+    answer: "Yes, Fiddlebops Incredibox is completely free. Players can play online without any downloads required."
+  },
+  {
+    question: "📱 Do I need to download or install anything?",
+    answer: "No downloads required. The game runs directly in your browser and supports both desktop and mobile devices."
+  },
+  {
+    question: "🎵 Do I need a music background?",
+    answer: "Not at all! Fiddlebops Incredibox is designed for people without musical backgrounds. It's more like a musical toy and creative tool."
+  },
+  {
+    question: "🚀 How do I start creating music?",
+    answer: "Players can drag characters onto the stage and combine their unique sounds to create musical compositions. Try different character combinations to unlock hidden melodies and bonus content."
+  }
+];
+
+const faqItems = ui?.faq?.items || defaultFAQItems;
 ---
 
 <section class="faq-section scroll-animate">
   <div class="container">
     <div class="section-header center-only">
       <div>
-        <h2 class="section-title">❓ Frequently Asked Questions</h2>
+        <h2 class="section-title">{ui?.faq?.title || '❓ Frequently Asked Questions'}</h2>
         <p class="section-description">
-          Get answers about FiddleBops gameplay, character mechanics, browser compatibility, music creation tips, and how to unlock all 25 characters including the 5 special bonus ones
+          {ui?.faq?.description || 'Get answers about FiddleBops gameplay, character mechanics, browser compatibility, music creation tips, and how to unlock all 25 characters including the 5 special bonus ones'}
         </p>
       </div>
     </div>
 
     <div class="faq-grid">
-      <div class="faq-item glass scroll-animate">
-        <h3 class="faq-question">🎮 What is Fiddlebops Incredibox?</h3>
-        <p class="faq-answer">
-          Fiddlebops is a fan-made project inspired by Incredibox. Here, you can experience the joy of music mixing and create unique musical works through an intuitive interface.
-        </p>
-      </div>
-
-      <div class="faq-item glass scroll-animate">
-        <h3 class="faq-question">💰 Is Fiddlebops Incredibox free?</h3>
-        <p class="faq-answer">
-          Yes, Fiddlebops Incredibox is completely free. Players can play online without any downloads required.
-        </p>
-      </div>
-
-      <div class="faq-item glass scroll-animate">
-        <h3 class="faq-question">📱 Do I need to download or install anything?</h3>
-        <p class="faq-answer">
-          No downloads required. The game runs directly in your browser and supports both desktop and mobile devices.
-        </p>
-      </div>
-
-      <div class="faq-item glass scroll-animate">
-        <h3 class="faq-question">🎵 Do I need a music background?</h3>
-        <p class="faq-answer">
-          Not at all! Fiddlebops Incredibox is designed for people without musical backgrounds. It's more like a musical toy and creative tool.
-        </p>
-      </div>
-
-      <div class="faq-item glass scroll-animate">
-        <h3 class="faq-question">🚀 How do I start creating music?</h3>
-        <p class="faq-answer">
-          Players can drag characters onto the stage and combine their unique sounds to create musical compositions. Try different character combinations to unlock hidden melodies and bonus content.
-        </p>
-      </div>
-
-      <div class="faq-item glass scroll-animate">
-        <h3 class="faq-question">🎤 Is it suitable for music lovers?</h3>
-        <p class="faq-answer">
-          Absolutely! Fiddlebops provides music enthusiasts with a creative and fun platform to explore musical expression.
-        </p>
-      </div>
+      {faqItems.map((item: any) => (
+        <div class="faq-item glass scroll-animate">
+          <h3 class="faq-question">{item.question}</h3>
+          <p class="faq-answer">
+            {item.answer}
+          </p>
+        </div>
+      ))}
     </div>
   </div>
 </section>

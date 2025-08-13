@@ -1,5 +1,4 @@
 ---
-id: sprunkr-but-sprunki
 slug: sprunkr-but-sprunki
 title: 스프런커 벗 스프런키
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: yojou-sprunki-mustard
 slug: yojou-sprunki-mustard
 title: Yojou Sprunki 芥末
 description: >-

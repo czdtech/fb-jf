@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-but-sprunki
 slug: fiddlebops-but-sprunki
 title: Fiddlebops But Sprunki
 description: >-

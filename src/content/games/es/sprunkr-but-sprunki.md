@@ -1,5 +1,4 @@
 ---
-id: sprunkr-but-sprunki
 slug: sprunkr-but-sprunki
 title: Sprunkr But Sprunki
 description: >-

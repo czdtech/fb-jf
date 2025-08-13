@@ -1,5 +1,4 @@
 ---
-id: sprunki-virus-new-update
 slug: sprunki-virus-new-update
 title: Sprunki 病毒新更新
 description: >-

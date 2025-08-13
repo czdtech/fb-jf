@@ -1,5 +1,4 @@
 ---
-id: sprunki-parasite-parasprunki-15
 slug: sprunki-parasite-parasprunki-15
 title: Sprunki Parasite Parasprunki 15
 description: >-

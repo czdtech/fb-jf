@@ -1,5 +1,4 @@
 ---
-id: incredibox-sprunksters
 slug: incredibox-sprunksters
 title: 인크레디박스 스프렁크스터스
 description: >-

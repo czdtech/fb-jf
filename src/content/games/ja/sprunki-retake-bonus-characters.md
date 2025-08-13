@@ -1,5 +1,4 @@
 ---
-id: sprunki-retake-bonus-characters
 slug: sprunki-retake-bonus-characters
 title: Sprunki Retake Bonus Characters
 description: >-

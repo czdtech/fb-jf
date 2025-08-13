@@ -1,5 +1,4 @@
 ---
-id: sprunki-basical
 slug: sprunki-basical
 title: Sprunki Basical
 description: >

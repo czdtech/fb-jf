@@ -1,5 +1,4 @@
 ---
-id: mundo-torajo-sprunki
 slug: mundo-torajo-sprunki
 title: Mundo Torajo Sprunki
 description: >-

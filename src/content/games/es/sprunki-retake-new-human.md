@@ -1,5 +1,4 @@
 ---
-id: sprunki-retake-new-human
 slug: sprunki-retake-new-human
 title: Sprunki Retake New Human
 description: >-

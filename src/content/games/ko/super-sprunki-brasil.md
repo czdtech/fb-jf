@@ -1,5 +1,4 @@
 ---
-id: super-sprunki-brasil
 slug: super-sprunki-brasil
 title: 슈퍼 스프런키 브라질
 description: >-

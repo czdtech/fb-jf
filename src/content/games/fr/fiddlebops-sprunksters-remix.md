@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-sprunksters-remix
 slug: fiddlebops-sprunksters-remix
 title: Fiddlebops Sprunksters Remix
 description: >-

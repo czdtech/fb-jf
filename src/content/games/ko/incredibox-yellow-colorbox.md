@@ -1,5 +1,4 @@
 ---
-id: incredibox-yellow-colorbox
 slug: incredibox-yellow-colorbox
 title: 인크레디박스 옐로우 컬러박스
 description: >-

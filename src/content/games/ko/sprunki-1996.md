@@ -1,5 +1,4 @@
 ---
-id: sprunki-1996
 slug: sprunki-1996
 title: 스프렁키 1996
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: sprunki-police-and-prisoners
 slug: sprunki-police-and-prisoners
 title: Sprunki Police And Prisoners
 description: >

@@ -1,5 +1,4 @@
 ---
-id: pikmin-no-sprunki
 slug: pikmin-no-sprunki
 title: 피크민 노 스프렁키
 description: 피크민 노 스프렁키는 단순한 게임 그 이상입니다;

@@ -1,5 +1,4 @@
 ---
-id: sprunki-meets-the-cat-spell
 slug: sprunki-meets-the-cat-spell
 title: Sprunki Meets The Cat Spell
 description: '这个 mod 是现有 mod 的重制版本'

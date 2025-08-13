@@ -1,5 +1,4 @@
 ---
-id: sprunki-interactive-beta
 slug: sprunki-interactive-beta
 title: Sprunki Interactive Beta
 description: Sprunki Interactive BETA n'est pas qu'une simple mise à niveau du jeu Sprunki, c'est

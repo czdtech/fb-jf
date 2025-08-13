@@ -1,5 +1,4 @@
 ---
-id: incredibox-sprinkle
 slug: incredibox-sprinkle
 title: 인크레디박스 스프링클
 description: >-

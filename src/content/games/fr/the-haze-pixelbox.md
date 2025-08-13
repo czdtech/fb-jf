@@ -1,5 +1,4 @@
 ---
-id: the-haze-pixelbox
 slug: the-haze-pixelbox
 title: The Haze Pixelbox
 description: >-

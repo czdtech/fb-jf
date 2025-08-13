@@ -1,5 +1,4 @@
 ---
-id: sprunki-pyramixed
 slug: sprunki-pyramixed
 title: Sprunki Pyramixed
 description: >-

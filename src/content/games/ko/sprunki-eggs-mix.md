@@ -1,5 +1,4 @@
 ---
-id: sprunki-eggs-mix
 slug: sprunki-eggs-mix
 title: 스프런키 에그 믹스
 description: >-

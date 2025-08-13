@@ -1,5 +1,4 @@
 ---
-id: sprunki-phase-2-5
 slug: sprunki-phase-2-5
 title: Sprunki Phase 2.5 - 搞怪音乐冒险
 description: >-

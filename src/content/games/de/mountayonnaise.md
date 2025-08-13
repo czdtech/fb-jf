@@ -1,5 +1,4 @@
 ---
-id: mountayonnaise
 slug: mountayonnaise
 title: Mountayonnaise
 description: >

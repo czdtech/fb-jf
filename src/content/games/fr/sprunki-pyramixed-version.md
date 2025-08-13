@@ -1,5 +1,4 @@
 ---
-id: sprunki-pyramixed-version
 slug: sprunki-pyramixed-version
 title: Sprunki Pyramixed Version
 description: >-

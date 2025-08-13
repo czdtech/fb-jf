@@ -1,5 +1,4 @@
 ---
-id: sprunki-night-time
 slug: sprunki-night-time
 title: 스프런키 나이트타임
 description: >-

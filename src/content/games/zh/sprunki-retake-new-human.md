@@ -1,5 +1,4 @@
 ---
-id: sprunki-retake-new-human
 slug: sprunki-retake-new-human
 title: Sprunki 重制版新人类
 description: >-

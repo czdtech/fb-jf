@@ -1,5 +1,4 @@
 ---
-id: sprunki-sepbox-steel-factory
 slug: sprunki-sepbox-steel-factory
 title: "Sprunki x SepBox Steel Factory"
 description: >-

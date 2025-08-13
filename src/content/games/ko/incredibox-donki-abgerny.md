@@ -1,5 +1,4 @@
 ---
-id: incredibox-donki-abgerny
 slug: incredibox-donki-abgerny
 title: 인크레디박스 돈키 애브거니
 description: >-

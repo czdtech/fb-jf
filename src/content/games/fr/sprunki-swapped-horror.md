@@ -1,5 +1,4 @@
 ---
-id: sprunki-swapped-horror
 slug: sprunki-swapped-horror
 title: Sprunki Swapped Horror
 description: >-

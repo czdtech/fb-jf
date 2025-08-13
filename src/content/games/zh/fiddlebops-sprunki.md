@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-sprunki
 slug: fiddlebops-sprunki
 title: Fiddlebops Sprunki
 description: >

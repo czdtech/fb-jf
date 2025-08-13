@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-but-dandys-world
 slug: fiddlebops-but-dandys-world
 title: 피들밥스 벗 댄디 월드
 description: >-

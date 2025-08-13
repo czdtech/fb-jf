@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-polos
 slug: fiddlebops-polos
 title: Fiddlebops Polos
 description: >-

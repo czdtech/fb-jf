@@ -1,5 +1,4 @@
 ---
-id: swap-sprunkgerny
 slug: swap-sprunkgerny
 title: Swap Sprunkgerny
 description: >-

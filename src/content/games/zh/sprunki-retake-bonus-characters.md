@@ -1,5 +1,4 @@
 ---
-id: sprunki-retake-bonus-characters
 slug: sprunki-retake-bonus-characters
 title: Sprunki 重制版奖励角色
 description: >-

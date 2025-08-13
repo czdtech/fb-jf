@@ -1,5 +1,4 @@
 ---
-id: sprunki-but-with-memes
 slug: sprunki-but-with-memes
 title: 스프런키 밈 버전
 description: >-

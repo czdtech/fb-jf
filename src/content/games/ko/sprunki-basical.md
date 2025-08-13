@@ -1,5 +1,4 @@
 ---
-id: sprunki-basical
 slug: sprunki-basical
 title: 스프런키 베이직
 description: >-

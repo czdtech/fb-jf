@@ -1,5 +1,4 @@
 ---
-id: ayocs-sprunkr
 slug: ayocs-sprunkr
 title: Ayocs Sprunkr
 description: >-

@@ -1,5 +1,4 @@
 ---
-id: the-haze-pixelbox
 slug: the-haze-pixelbox
 title: 迷雾像素盒
 description: >-

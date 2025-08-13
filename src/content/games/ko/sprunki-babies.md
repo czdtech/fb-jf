@@ -1,5 +1,4 @@
 ---
-id: sprunki-babies
 slug: sprunki-babies
 title: 스프런키 베이비즈
 description: >-

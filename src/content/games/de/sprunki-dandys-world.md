@@ -1,5 +1,4 @@
 ---
-id: sprunki-dandys-world
 slug: sprunki-dandys-world
 title: Sprunki Dandys World
 description: >

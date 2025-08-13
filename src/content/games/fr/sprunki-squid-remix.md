@@ -1,5 +1,4 @@
 ---
-id: sprunki-squid-remix
 slug: sprunki-squid-remix
 title: Sprunki Squid Remix
 description: >-

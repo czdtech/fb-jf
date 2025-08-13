@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-sprunki
 slug: fiddlebops-sprunki
 title: 피들밥스 스프렁키
 description: >-

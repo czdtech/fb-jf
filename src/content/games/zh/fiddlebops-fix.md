@@ -1,5 +1,4 @@
 ---
-id: fiddlebops-fix
 slug: fiddlebops-fix
 title: Fiddlebops Fix
 description: >-
