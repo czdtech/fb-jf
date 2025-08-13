@@ -1,5 +1,5 @@
 ---
-import { getCurrentLocale, getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import LanguageSelectorNative from './LanguageSelectorNative.astro'
 
@@ -10,8 +10,8 @@ interface Props {
 
 const { currentPath = '', className = '' } = Astro.props
 
-// 使用新的i18n系统获取当前语言
-const currentLocale = getCurrentLocale(Astro.url);
+// 使用Astro官方i18n系统获取当前语言
+const currentLocale = (Astro.currentLocale as SupportedLocale) || 'en';
 const { ui: uiText } = await getTranslation(currentLocale);
 
 // 安全的获取当前页面路径（不含语言前缀） - 动态移除前缀（SEO友好，避免硬编码）

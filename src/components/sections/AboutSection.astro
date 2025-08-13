@@ -1,12 +1,13 @@
 ---
 // TypeScript接口定义
-import { getCurrentLocale, getTranslation } from '@/i18n/utils';
+import { getTranslation } from '@/i18n/utils';
 
 interface Props {}
 
-// 获取当前语言和翻译
-const currentLocale = getCurrentLocale(Astro.url);
-const { ui } = await getTranslation(currentLocale);
+// 获取当前语言和翻译 - 使用Astro官方i18n系统
+const currentLocale = (Astro.currentLocale as any) || 'en';
+const translation = await getTranslation(currentLocale);
+const ui = translation?.ui || {};
 ---
 
 <!-- About Section -->
@@ -16,167 +17,134 @@ const { ui } = await getTranslation(currentLocale);
       <div>
         <h2 class="section-title">📖 {ui.sections.about}</h2>
         <p class="section-description">
-          Released November 7, 2024, this comedy-focused Incredibox mod features
-          25 absurd characters including Garrett, Mr. Moon, and Skibidi Biden,
-          creating chaotic music at an energetic 206 BPM
+          {ui.about?.description || 'Released November 7, 2024, this comedy-focused Incredibox mod features 25 absurd characters including Garrett, Mr. Moon, and Skibidi Biden, creating chaotic music at an energetic 206 BPM'}
         </p>
       </div>
     </div>
 
     <div class="about-container">
       <div class="about-content glass scroll-animate">
-        <h3 class="about-section-title">🎮 I. FiddleBops Game Information</h3>
+        <h3 class="about-section-title">{ui.about?.gameInfo?.title || '🎮 I. FiddleBops Game Information'}</h3>
 
         <div class="about-info-grid">
           <div class="about-info-item">
-            <span class="about-label">Official Name:</span>
-            <span class="about-value">FiddleBops (Fanon Incredibox Mod)</span>
+            <span class="about-label">{ui.about?.gameInfo?.officialName || 'Official Name:'}</span>
+            <span class="about-value">{ui.about?.gameInfo?.officialNameValue || 'FiddleBops (Fanon Incredibox Mod)'}</span>
           </div>
           <div class="about-info-item">
-            <span class="about-label">Release Date:</span>
-            <span class="about-value">November 7th, 2024</span>
+            <span class="about-label">{ui.about?.gameInfo?.releaseDate || 'Release Date:'}</span>
+            <span class="about-value">{ui.about?.gameInfo?.releaseDateValue || 'November 7th, 2024'}</span>
           </div>
           <div class="about-info-item">
-            <span class="about-label">BPM:</span>
-            <span class="about-value">206 BPM (103 in half-time)</span>
+            <span class="about-label">{ui.about?.gameInfo?.bpm || 'BPM:'}</span>
+            <span class="about-value">{ui.about?.gameInfo?.bpmValue || '206 BPM (103 in half-time)'}</span>
           </div>
           <div class="about-info-item">
-            <span class="about-label">Character Count:</span>
-            <span class="about-value">25 Characters (20 Main + 5 Bonuses)</span>
+            <span class="about-label">{ui.about?.gameInfo?.characterCount || 'Character Count:'}</span>
+            <span class="about-value">{ui.about?.gameInfo?.characterCountValue || '25 Characters (20 Main + 5 Bonuses)'}</span>
           </div>
           <div class="about-info-item">
-            <span class="about-label">Mod Type:</span>
-            <span class="about-value">"Joke" Mod with Absurd Characters</span>
+            <span class="about-label">{ui.about?.gameInfo?.modType || 'Mod Type:'}</span>
+            <span class="about-value">{ui.about?.gameInfo?.modTypeValue || '"Joke" Mod with Absurd Characters'}</span>
           </div>
           <div class="about-info-item">
-            <span class="about-label">Creators:</span>
+            <span class="about-label">{ui.about?.gameInfo?.creators || 'Creators:'}</span>
             <span class="about-value"
-              >Kautaruma, SkyFactorial, BezieAnims, Maddie (Jukebox), RubysArt_,
-              Shackle, radio_cative, personaladventure</span
+              >{ui.about?.gameInfo?.creatorsValue || 'Kautaruma, SkyFactorial, BezieAnims, Maddie (Jukebox), RubysArt_, Shackle, radio_cative, personaladventure'}</span
             >
           </div>
         </div>
 
         <div class="about-divider"></div>
 
-        <h4 class="about-subsection-title">🎭 II. Character Categories</h4>
+        <h4 class="about-subsection-title">{ui.about?.characterCategories?.title || '🎭 II. Character Categories'}</h4>
         <div class="about-features">
           <div class="about-feature-item">
-            <h5>🥁 Beats (5 Characters)</h5>
+            <h5>{ui.about?.characterCategories?.beats?.title || '🥁 Beats (5 Characters)'}</h5>
             <p>
-              <strong>This Is Garrett</strong> - Slaps his belly for kick drums and
-              opens mouth for snares<br />
-              <strong>Green Drum Machine</strong> - Christmas snowwoman with bongo
-              drums<br />
-              <strong>Mr. Moon</strong> - Apple "Full Moon Face" emoji with 3D animation<br
-              />
-              <strong>Snaire</strong> & <strong>Combi</strong> - Additional rhythmic
-              elements
+              <strong>{ui.about?.characterCategories?.beats?.thisIsGarrett || 'This Is Garrett - Slaps his belly for kick drums and opens mouth for snares'}</strong><br />
+              <strong>{ui.about?.characterCategories?.beats?.greenDrumMachine || 'Green Drum Machine - Christmas snowwoman with bongo drums'}</strong><br />
+              <strong>{ui.about?.characterCategories?.beats?.mrMoon || 'Mr. Moon - Apple "Full Moon Face" emoji with 3D animation'}</strong><br />
+              <strong>{ui.about?.characterCategories?.beats?.snaireCombi || 'Snaire & Combi - Additional rhythmic elements'}</strong>
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🌟 Effects (5 Characters)</h5>
+            <h5>{ui.about?.characterCategories?.effects?.title || '🌟 Effects (5 Characters)'}</h5>
             <p>
-              <strong>YTPMV Elf</strong>, <strong>Cyborg Throat Singing</strong
-              >, <strong>Lil' Purp</strong>,<br />
-              <strong>Braylen B. Bothamious I</strong>, <strong
-                >Tina The Beepboxer</strong
-              ><br />
-              Each provides unique sound effects and atmospheric elements
+              <strong>{ui.about?.characterCategories?.effects?.description || 'YTPMV Elf, Cyborg Throat Singing, Lil\' Purp, Braylen B. Bothamious I, Tina The Beepboxer'}</strong><br />
+              {ui.about?.characterCategories?.effects?.subtitle || 'Each provides unique sound effects and atmospheric elements'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎹 Melodies (5 Characters)</h5>
+            <h5>{ui.about?.characterCategories?.melodies?.title || '🎹 Melodies (5 Characters)'}</h5>
             <p>
-              <strong>Blues Clues Radio 2011</strong>, <strong>Marcello</strong
-              >, <strong>Eucerin</strong>,<br />
-              <strong>Uncanny Melody</strong>, <strong>Keisha</strong><br />
-              Create the main melodic lines and musical themes
+              <strong>{ui.about?.characterCategories?.melodies?.description || 'Blues Clues Radio 2011, Marcello, Eucerin, Uncanny Melody, Keisha'}</strong><br />
+              {ui.about?.characterCategories?.melodies?.subtitle || 'Create the main melodic lines and musical themes'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎤 Voices (5 Characters)</h5>
+            <h5>{ui.about?.characterCategories?.voices?.title || '🎤 Voices (5 Characters)'}</h5>
             <p>
-              <strong>Skibidi Biden</strong>, <strong
-                >Sporbb The Animator</strong
-              >,<br />
-              <strong>Tronic the Chipmunk</strong>, <strong
-                >Mike Ehrmantraut</strong
-              >,<br />
-              <strong>Blue Vest Munchie</strong> - Vocal elements and character expressions
+              <strong>{ui.about?.characterCategories?.voices?.description || 'Skibidi Biden, Sporbb The Animator, Tronic the Chipmunk, Mike Ehrmantraut, Blue Vest Munchie'}</strong><br />
+              {ui.about?.characterCategories?.voices?.subtitle || 'Vocal elements and character expressions'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎆 Bonus Characters (5 Special)</h5>
+            <h5>{ui.about?.characterCategories?.bonus?.title || '🎆 Bonus Characters (5 Special)'}</h5>
             <p>
-              <strong>Words With Friends Tile</strong>, <strong
-                >Fred Figglehorn</strong
-              >,<br />
-              <strong>Scrub Daddy GF</strong>, <strong>Jummbox</strong>, <strong
-                >Boykixxer</strong
-              ><br />
-              Unlockable through special combinations and secret methods
+              <strong>{ui.about?.characterCategories?.bonus?.description || 'Words With Friends Tile, Fred Figglehorn, Scrub Daddy GF, Jummbox, Boykixxer'}</strong><br />
+              {ui.about?.characterCategories?.bonus?.subtitle || 'Unlockable through special combinations and secret methods'}
             </p>
           </div>
         </div>
 
         <div class="about-divider"></div>
 
-        <h4 class="about-subsection-title">🎨 III. Game Features & Design</h4>
+        <h4 class="about-subsection-title">{ui.about?.features?.title || '🎨 III. Game Features & Design'}</h4>
         <div class="about-features">
           <div class="about-feature-item">
-            <h5>😂 Comedy-Focused Design</h5>
+            <h5>{ui.about?.features?.comedy?.title || '😂 Comedy-Focused Design'}</h5>
             <p>
-              Intentionally absurd character names and designs create a humorous
-              experience. Characters like "Skibidi Biden" and "Scrub Daddy GF"
-              exemplify the mod's comedic approach.
+              {ui.about?.features?.comedy?.description || 'Intentionally absurd character names and designs create a humorous experience. Characters like "Skibidi Biden" and "Scrub Daddy GF" exemplify the mod\'s comedic approach.'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎵 High-Energy Music</h5>
+            <h5>{ui.about?.features?.highEnergy?.title || '🎵 High-Energy Music'}</h5>
             <p>
-              206 BPM creates fast-paced, energetic compositions. The tempo
-              encourages dynamic and lively musical creations unlike traditional
-              Incredibox versions.
+              {ui.about?.features?.highEnergy?.description || '206 BPM creates fast-paced, energetic compositions. The tempo encourages dynamic and lively musical creations unlike traditional Incredibox versions.'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🎪 Special Animations</h5>
+            <h5>{ui.about?.features?.animations?.title || '🎪 Special Animations'}</h5>
             <p>
-              Characters feature unique animations: Garrett's belly slapping,
-              Green Drum Machine's leg dangling, Mr. Moon's 3D transformations
-              bring personalities to life.
+              {ui.about?.features?.animations?.description || 'Characters feature unique animations: Garrett\'s belly slapping, Green Drum Machine\'s leg dangling, Mr. Moon\'s 3D transformations bring personalities to life.'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🔒 Anti-Piracy Protection</h5>
+            <h5>{ui.about?.features?.antiPiracy?.title || '🔒 Anti-Piracy Protection'}</h5>
             <p>
-              The mod includes special anti-piracy measures to protect the
-              creators' work and ensure proper distribution through authorized
-              channels.
+              {ui.about?.features?.antiPiracy?.description || 'The mod includes special anti-piracy measures to protect the creators\' work and ensure proper distribution through authorized channels.'}
             </p>
           </div>
         </div>
 
         <div class="about-divider"></div>
 
-        <h4 class="about-subsection-title">🎯 IV. Game Tags & Platform</h4>
+        <h4 class="about-subsection-title">{ui.about?.platform?.title || '🎯 IV. Game Tags & Platform'}</h4>
         <div class="about-features">
           <div class="about-feature-item">
-            <h5>🏷️ Game Categories</h5>
+            <h5>{ui.about?.platform?.categories?.title || '🏷️ Game Categories'}</h5>
             <p>
-              Music Creation, Rhythm, Experimental, Educational,
-              Family-Friendly, Casual, Single Player, Creative, Comedy Mod
+              {ui.about?.platform?.categories?.description || 'Music Creation, Rhythm, Experimental, Educational, Family-Friendly, Casual, Single Player, Creative, Comedy Mod'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🌐 Platforms & Access</h5>
+            <h5>{ui.about?.platform?.access?.title || '🌐 Platforms & Access'}</h5>
             <p>
-              <strong>Main Platform:</strong> playfiddlebops.com (Web Browser)<br
-              />
-              <strong>Also Available:</strong> itch.io, Scratch<br />
-              <strong>Price:</strong> Free to Play<br />
-              <strong>No Download Required</strong> - Play directly in browser
+              <strong>{ui.about?.platform?.access?.mainPlatform || 'Main Platform:'}</strong> {ui.about?.platform?.access?.mainPlatformValue || 'playfiddlebops.com (Web Browser)'}<br />
+              <strong>{ui.about?.platform?.access?.alsoAvailable || 'Also Available:'}</strong> {ui.about?.platform?.access?.alsoAvailableValue || 'itch.io, Scratch'}<br />
+              <strong>{ui.about?.platform?.access?.price || 'Price:'}</strong> {ui.about?.platform?.access?.priceValue || 'Free to Play'}<br />
+              <strong>{ui.about?.platform?.access?.noDownload || 'No Download Required - Play directly in browser'}</strong>
             </p>
           </div>
         </div>
@@ -184,31 +152,27 @@ const { ui } = await getTranslation(currentLocale);
         <div class="about-divider"></div>
 
         <h4 class="about-subsection-title">
-          🌟 V. Popular FiddleBops Mods & Community
+          {ui.about?.community?.title || '🌟 V. Popular FiddleBops Mods & Community'}
         </h4>
         <div class="about-features">
           <div class="about-feature-item">
-            <h5>🎮 Community Mods</h5>
+            <h5>{ui.about?.community?.mods?.title || '🎮 Community Mods'}</h5>
             <p>
-              <strong>• Fiddlebops but Sprunki</strong> - Horror-themed crossover<br
-              />
-              <strong>• Fiddlebops Fix</strong> - Bug fixes and improvements<br
-              />
-              <strong>• Fiddlebops Sprunksters Remix</strong> - New sound combinations<br
-              />
-              <strong>• Fiddlebops Pyramixed</strong> - Egyptian-themed remix<br
-              />
-              Explore more mods in our games section!
+              {ui.about?.community?.mods?.fiddlebopsSprunki || '• Fiddlebops but Sprunki - Horror-themed crossover'}<br />
+              {ui.about?.community?.mods?.fiddlebopsFix || '• Fiddlebops Fix - Bug fixes and improvements'}<br />
+              {ui.about?.community?.mods?.sprunksters || '• Fiddlebops Sprunksters Remix - New sound combinations'}<br />
+              {ui.about?.community?.mods?.pyramixed || '• Fiddlebops Pyramixed - Egyptian-themed remix'}<br />
+              {ui.about?.community?.mods?.exploreMore || 'Explore more mods in our games section!'}
             </p>
           </div>
           <div class="about-feature-item">
-            <h5>🔗 Share Your Creations</h5>
+            <h5>{ui.about?.community?.share?.title || '🔗 Share Your Creations'}</h5>
             <p>
-              Join the FiddleBops community!<br />
-              <strong>YouTube:</strong> Upload gameplay videos<br />
-              <strong>TikTok:</strong> Share short music clips<br />
-              <strong>Twitter:</strong> Use #FiddleBops<br />
-              Use screen recording software to capture and share your musical masterpieces!
+              {ui.about?.community?.share?.joinCommunity || 'Join the FiddleBops community!'}<br />
+              <strong>{ui.about?.community?.share?.youtube || 'YouTube:'}</strong> {ui.about?.community?.share?.youtubeDesc || 'Upload gameplay videos'}<br />
+              <strong>{ui.about?.community?.share?.tiktok || 'TikTok:'}</strong> {ui.about?.community?.share?.tiktokDesc || 'Share short music clips'}<br />
+              <strong>{ui.about?.community?.share?.twitter || 'Twitter:'}</strong> {ui.about?.community?.share?.twitterDesc || 'Use #FiddleBops'}<br />
+              {ui.about?.community?.share?.screenRecord || 'Use screen recording software to capture and share your musical masterpieces!'}
             </p>
           </div>
         </div>

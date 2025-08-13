@@ -1,5 +1,6 @@
 ---
 import GameCard from '@/components/GameCard.astro'
+import { getTranslation } from '@/i18n/utils'
 
 interface Props {
   games: {
@@ -11,6 +12,10 @@ interface Props {
 }
 
 const { games, currentGameSlug } = Astro.props
+
+// 获取当前语言和翻译 - 使用Astro官方i18n系统
+const currentLocale = (Astro.currentLocale as any) || 'en'
+const { ui } = await getTranslation(currentLocale)
 
 // 从所有游戏中选择相关游戏，排除当前游戏
 const allGames = [...games.trending, ...games.popular, ...games.new].filter(
@@ -26,11 +31,11 @@ const relatedGames = allGames.sort(() => Math.random() - 0.5).slice(0, 6)
     <div class="section-header music-element hero-music-delay-35">
       <h2 class="section-title">
         <i class="fas fa-gamepad"></i>
-        Related Games
+        {ui?.sections?.relatedGames || '相关游戏'}
       </h2>
-      <p class="section-subtitle">Discover more amazing music creation games</p>
+      <p class="section-subtitle">{ui?.sections?.relatedGamesDesc || '发现更多惊人的音乐创作游戏'}</p>
       <a href="/games/" class="view-all-btn">
-        <span>View All Games</span>
+        <span>{ui?.games?.viewAllGames || '查看所有游戏'}</span>
         <i class="fas fa-arrow-right"></i>
       </a>
     </div>

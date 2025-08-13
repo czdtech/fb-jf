@@ -4,11 +4,12 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { getCurrentLocale, getTranslation } from '@/i18n/utils';
+import { getTranslation } from '@/i18n/utils';
 
-// 获取当前语言和翻译
-const currentLocale = getCurrentLocale(Astro.url);
-const { ui } = await getTranslation(currentLocale);
+// 获取当前语言和翻译 - 使用Astro官方i18n系统
+const currentLocale = (Astro.currentLocale as any) || 'en';
+const translation = await getTranslation(currentLocale);
+const ui = translation?.ui || {};
 
 ---
 
@@ -21,7 +22,7 @@ const { ui } = await getTranslation(currentLocale);
         🎵 {ui.sections.howToPlay}
       </h2>
       <p class="text-xl text-muted-foreground leading-relaxed">
-        Drag characters like Garrett (belly slapping beats), Green Drum Machine (snowwoman bongos), and YTPMV Elf onto the stage to create hilarious musical combinations and unlock bonus content
+        {ui.howToPlay?.description || 'Drag characters like Garrett (belly slapping beats), Green Drum Machine (snowwoman bongos), and YTPMV Elf onto the stage to create hilarious musical combinations and unlock bonus content'}
       </p>
     </div>
 
@@ -30,9 +31,9 @@ const { ui } = await getTranslation(currentLocale);
       <Card className="bg-gradient-to-br from-primary/5 via-background to-primary/10 border-primary/20 shadow-lg">
         <CardHeader className="text-center pb-6">
           <CardTitle className="text-2xl md:text-3xl font-bold mb-2">
-            🚀 Quick Start - 3 Easy Steps!
+            🚀 {ui.howToPlay?.quickStart?.title || 'Quick Start - 3 Easy Steps!'}
           </CardTitle>
-          <p class="text-lg text-muted-foreground">Get creating music in under 30 seconds!</p>
+          <p class="text-lg text-muted-foreground">{ui.howToPlay?.quickStart?.subtitle || 'Get creating music in under 30 seconds!'}</p>
         </CardHeader>
         <CardContent>
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -43,8 +44,8 @@ const { ui } = await getTranslation(currentLocale);
               </div>
               <div class="flex-1 text-center md:text-left">
                 <div class="text-2xl mb-2">🎭</div>
-                <h4 class="font-bold text-lg mb-2">Pick Your Characters</h4>
-                <p class="text-sm text-muted-foreground leading-relaxed">Choose from 27 hilarious characters like Garrett, Mr. Moon, and Skibidi Biden!</p>
+                <h4 class="font-bold text-lg mb-2">{ui.howToPlay?.quickStart?.steps?.pick?.title || 'Pick Your Characters'}</h4>
+                <p class="text-sm text-muted-foreground leading-relaxed">{ui.howToPlay?.quickStart?.steps?.pick?.description || 'Choose from 27 hilarious characters like Garrett, Mr. Moon, and Skibidi Biden!'}</p>
               </div>
             </div>
             
@@ -55,8 +56,8 @@ const { ui } = await getTranslation(currentLocale);
               </div>
               <div class="flex-1 text-center md:text-left">
                 <div class="text-2xl mb-2">🖱️</div>
-                <h4 class="font-bold text-lg mb-2">Drag & Drop</h4>
-                <p class="text-sm text-muted-foreground leading-relaxed">Simply drag characters onto the stage - watch Garrett slap his belly!</p>
+                <h4 class="font-bold text-lg mb-2">{ui.howToPlay?.quickStart?.steps?.drag?.title || 'Drag & Drop'}</h4>
+                <p class="text-sm text-muted-foreground leading-relaxed">{ui.howToPlay?.quickStart?.steps?.drag?.description || 'Simply drag characters onto the stage - watch Garrett slap his belly!'}</p>
               </div>
             </div>
             
@@ -67,8 +68,8 @@ const { ui } = await getTranslation(currentLocale);
               </div>
               <div class="flex-1 text-center md:text-left">
                 <div class="text-2xl mb-2">🎶</div>
-                <h4 class="font-bold text-lg mb-2">Create Chaos</h4>
-                <p class="text-sm text-muted-foreground leading-relaxed">Mix absurd sounds at 206 BPM for wonderfully weird music!</p>
+                <h4 class="font-bold text-lg mb-2">{ui.howToPlay?.quickStart?.steps?.create?.title || 'Create Chaos'}</h4>
+                <p class="text-sm text-muted-foreground leading-relaxed">{ui.howToPlay?.quickStart?.steps?.create?.description || 'Mix absurd sounds at 206 BPM for wonderfully weird music!'}</p>
               </div>
             </div>
           </div>
@@ -86,7 +87,7 @@ const { ui } = await getTranslation(currentLocale);
               🎭
             </div>
             <CardTitle className="text-xl font-bold">
-              Meet the Characters
+              {ui.howToPlay?.characters?.title || 'Meet the Characters'}
             </CardTitle>
           </div>
         </CardHeader>
@@ -94,25 +95,25 @@ const { ui } = await getTranslation(currentLocale);
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🥁</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Beats</strong> - Garrett (belly slaps), Green Drum Machine, Mr. Moon, Snaire, Combi
+              {ui.howToPlay?.characters?.beats || '<strong>Beats</strong> - Garrett (belly slaps), Green Drum Machine, Mr. Moon, Snaire, Combi'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🌟</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Effects</strong> - YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen, Tina
+              {ui.howToPlay?.characters?.effects || '<strong>Effects</strong> - YTPMV Elf, Cyborg Throat Singing, Lil\' Purp, Braylen, Tina'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🎹</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Melodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha
+              {ui.howToPlay?.characters?.melodies || '<strong>Melodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🎤</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Voices</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie
+              {ui.howToPlay?.characters?.voices || '<strong>Voices</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie'}
             </span>
           </div>
         </CardContent>
@@ -126,7 +127,7 @@ const { ui } = await getTranslation(currentLocale);
               🎆
             </div>
             <CardTitle className="text-xl font-bold">
-              Bonus Characters
+              {ui.howToPlay?.bonusCharacters?.title || 'Bonus Characters'}
             </CardTitle>
           </div>
         </CardHeader>
@@ -134,25 +135,25 @@ const { ui } = await getTranslation(currentLocale);
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🎲</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Words With Friends Tile</strong> - Special bonus character with unique animations
+              {ui.howToPlay?.bonusCharacters?.wordsWithFriends || '<strong>Words With Friends Tile</strong> - Special bonus character with unique animations'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">😂</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Fred Figglehorn</strong> - The iconic high-pitched YouTube character
+              {ui.howToPlay?.bonusCharacters?.fredFigglehorn || '<strong>Fred Figglehorn</strong> - The iconic high-pitched YouTube character'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🧩</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Scrub Daddy GF</strong> - A cleaning product with personality
+              {ui.howToPlay?.bonusCharacters?.scrubDaddy || '<strong>Scrub Daddy GF</strong> - A cleaning product with personality'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🎵</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Jummbox & Boykixxer</strong> - Unlock through special combinations
+              {ui.howToPlay?.bonusCharacters?.jummbox || '<strong>Jummbox & Boykixxer</strong> - Unlock through special combinations'}
             </span>
           </div>
         </CardContent>
@@ -166,7 +167,7 @@ const { ui } = await getTranslation(currentLocale);
               🎮
             </div>
             <CardTitle className="text-xl font-bold">
-              Game Features
+              {ui.howToPlay?.features?.title || 'Game Features'}
             </CardTitle>
           </div>
         </CardHeader>
@@ -174,25 +175,25 @@ const { ui } = await getTranslation(currentLocale);
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">⚡</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>206 BPM</strong> - Fast-paced rhythm that keeps the energy high
+              {ui.howToPlay?.features?.bpm || '<strong>206 BPM</strong> - Fast-paced rhythm that keeps the energy high'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">😂</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Joke Mod</strong> - Intentionally absurd and funny character design
+              {ui.howToPlay?.features?.jokeMod || '<strong>Joke Mod</strong> - Intentionally absurd and funny character design'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🖱️</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Easy Controls</strong> - Classic Incredibox drag-and-drop gameplay
+              {ui.howToPlay?.features?.easyControls || '<strong>Easy Controls</strong> - Classic Incredibox drag-and-drop gameplay'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🎆</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Special Animations</strong> - Watch characters like Mr. Moon come alive in 3D
+              {ui.howToPlay?.features?.animations || '<strong>Special Animations</strong> - Watch characters like Mr. Moon come alive in 3D'}
             </span>
           </div>
         </CardContent>
@@ -206,7 +207,7 @@ const { ui } = await getTranslation(currentLocale);
               🎼
             </div>
             <CardTitle className="text-xl font-bold">
-              Creation Mechanics
+              {ui.howToPlay?.mechanics?.title || 'Creation Mechanics'}
             </CardTitle>
           </div>
         </CardHeader>
@@ -214,25 +215,25 @@ const { ui } = await getTranslation(currentLocale);
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🎵</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats
+              {ui.howToPlay?.mechanics?.soundCombination || '<strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">⏱️</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo
+              {ui.howToPlay?.mechanics?.rhythm || '<strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🔁</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching
+              {ui.howToPlay?.mechanics?.loop || '<strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching'}
             </span>
           </div>
           <div class="flex items-start gap-3 p-3 bg-primary/5 rounded-lg border border-primary/10 transition-all duration-200 hover:bg-primary/10 hover:translate-x-1">
             <Badge variant="secondary" className="shrink-0 text-lg p-1">🧪</Badge>
             <span class="text-sm leading-relaxed">
-              <strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!
+              {ui.howToPlay?.mechanics?.explore || '<strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!'}
             </span>
           </div>
         </CardContent>

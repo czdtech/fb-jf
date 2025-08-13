@@ -4,10 +4,15 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navigation from '@/components/Navigation.astro';
 import Footer from '@/components/Footer.astro';
 import GamesList from '@/components/GamesList.astro';
+import { getTranslation } from '@/i18n/utils';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
 const { navigation } = extractedData;
+
+// 获取当前语言和翻译 - 使用Astro官方i18n系统
+const currentLocale = (Astro.currentLocale as any) || 'en';
+const { ui } = await getTranslation(currentLocale);
 
 // 获取所有游戏
 const allGames = await getCollection('games');
@@ -28,10 +33,10 @@ const popularGames = allGames.filter((game: any) =>
 const fiddlebopsGame = {
   slug: '',
   data: {
-    title: 'Fiddlebops',
+    title: ui.hero?.title || 'Fiddlebops',
     image: '/tw.jpg',
     category: 'Music',
-    description: 'Create amazing music with Fiddlebops'
+    description: ui.hero?.subtitle || '创造惊人的音乐！'
   }
 };
 
@@ -39,8 +44,8 @@ const displayGames = [...popularGames, fiddlebopsGame];
 
 // SEO配置
 const meta = {
-  title: 'Popular Games - Fiddlebops',
-  description: 'Play the most popular Fiddlebops and Sprunki games. Discover trending music creation games loved by millions.',
+  title: ui.sections?.popularGames ? `${ui.sections.popularGames} - Fiddlebops` : 'Popular Games - Fiddlebops',
+  description: ui.meta?.description || 'Play the most popular Fiddlebops and Sprunki games. Discover trending music creation games loved by millions.',
   keywords: 'popular games, fiddlebops, sprunki, music games, trending games',
   canonical: 'https://www.playfiddlebops.com/popular-games/',
   ogImage: '/tw.jpg'
@@ -58,8 +63,8 @@ const meta = {
   <main class="popular-games-page">
     <div class="responsive-container container-standard">
       <div class="page-header">
-        <h1>&#9658; Popular Games</h1>
-        <p>Discover the most loved games in our collection</p>
+        <h1>&#9658; {ui.sections?.popularGames || '热门游戏'}</h1>
+        <p>{ui.sections?.popularGamesDesc || ui.games?.viewMore || '发现我们收藏中最受喜爱的游戏'}</p>
       </div>
 
       <div class="game-iframe-pop">
@@ -67,7 +72,7 @@ const meta = {
       </div>
 
       <div class="more-games-section">
-        <h2>More Popular Games</h2>
+        <h2>{ui.sections?.popularGames || '更多热门游戏'}</h2>
         <GamesList games={allGames.slice(0, 12)} variant="grid" />
       </div>
     </div>

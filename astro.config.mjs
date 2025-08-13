@@ -20,8 +20,16 @@ export default defineConfig({
     routing: {
       prefixDefaultLocale: false, // 英文保持根路径
       redirectToDefaultLocale: false // 不重定向，保持原有URL结构
+    },
+    // 统一回退配置：所有非英文语言回退到英文
+    fallback: {
+      zh: "en",
+      es: "en", 
+      fr: "en",
+      de: "en",
+      ja: "en",
+      ko: "en"
     }
-    // 移除 fallback 配置，让每个语言独立处理
   },
   integrations: [
     tailwind({ applyBaseStyles: false }), // Disable base styles to use shadcn/ui styles

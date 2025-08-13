@@ -7,10 +7,10 @@ import extractedData from '@/data/extracted-data.json'
 const { navigation } = extractedData
 
 // 多语言配置（动态识别并生成对应语言的 URL）
-import { getCurrentLocale, getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
 
-const currentLocale: SupportedLocale = getCurrentLocale(Astro.url);
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
 const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 

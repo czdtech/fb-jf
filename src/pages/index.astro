@@ -13,20 +13,36 @@ import FAQSection from '@/components/sections/FAQSection.astro'
 
 // Import i18n system
 import { getCollection } from 'astro:content';
-import { getCurrentLocale, getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
 import { generateHomeHreflangLinks } from '@/utils/hreflang';
 
-// 获取当前语言
-const currentLocale: SupportedLocale = getCurrentLocale(Astro.url);
+// 获取当前语言 - 使用Astro官方i18n系统
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
 
 // 获取翻译内容
 const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 const homeContent = translation.home;
 
-// Fetch all games and filter them by category
-const allGames = await getCollection('games');
+// 获取当前语言的游戏，支持fallback策略
+let allGames = await getCollection('games', (entry) => {
+  return entry.id.startsWith(`${currentLocale}/`);
+});
+
+// Fallback策略：如果当前语言没有游戏，fallback到英文
+if (allGames.length === 0 && currentLocale !== 'en') {
+  allGames = await getCollection('games', (entry) => {
+    return entry.id.startsWith('en/');
+  });
+}
+
+// 如果英文也没有，使用任何可用的语言
+if (allGames.length === 0) {
+  const allAvailableGames = await getCollection('games');
+  allGames = allAvailableGames.slice(0, 70); // 限制数量避免性能问题
+}
+
 const popularGames = allGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
 const newGames = allGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
 const trendingGames = allGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);

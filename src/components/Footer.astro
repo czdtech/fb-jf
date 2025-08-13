@@ -1,5 +1,6 @@
 ---
-import { getCurrentLocale, getTranslation, type SupportedLocale } from '@/i18n/utils';
+import { getTranslation, type SupportedLocale } from '@/i18n/utils';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 
 export interface Props {
   className?: string;
@@ -8,8 +9,8 @@ export interface Props {
 
 const { className = '', locale } = Astro.props;
 
-// 获取当前语言 - 优先使用传入的locale
-const currentLocale: SupportedLocale = locale || getCurrentLocale(Astro.url) || 'en';
+// 获取当前语言 - 使用Astro官方i18n系统
+const currentLocale: SupportedLocale = locale || (Astro.currentLocale as SupportedLocale) || 'en';
 
 // 获取翻译内容
 const translation = await getTranslation(currentLocale);
@@ -28,17 +29,17 @@ const uiText = translation.ui;
       <div class="footer-section">
         <h3>{uiText?.footer?.quickLinks || 'Quick Links'}</h3>
         <ul class="footer-links">
-          <li><a href={currentLocale === 'en' ? '/' : `/${currentLocale}/`} class="touch-target">{uiText?.navigation?.home || 'Home'}</a></li>
-          <li><a href={currentLocale === 'en' ? '/games/' : `/${currentLocale}/games/`} class="touch-target">{uiText?.navigation?.games || 'Games'}</a></li>
-          <li><a href={currentLocale === 'en' ? '/about/' : `/${currentLocale}/about/`} class="touch-target">{uiText?.navigation?.aboutUs || 'About Us'}</a></li>
+          <li><a href={getRelativeLocaleUrl(currentLocale, '/')} class="touch-target">{uiText?.navigation?.home || 'Home'}</a></li>
+          <li><a href={getRelativeLocaleUrl(currentLocale, '/games/')} class="touch-target">{uiText?.navigation?.games || 'Games'}</a></li>
+          <li><a href={getRelativeLocaleUrl(currentLocale, '/about/')} class="touch-target">{uiText?.navigation?.aboutUs || 'About Us'}</a></li>
         </ul>
       </div>
       
       <div class="footer-section">
         <h3>{uiText?.footer?.legal || 'Legal'}</h3>
         <ul class="footer-links">
-          <li><a href={currentLocale === 'en' ? '/privacy/' : `/${currentLocale}/privacy/`} class="touch-target">{uiText?.footer?.privacy || 'Privacy Policy'}</a></li>
-          <li><a href={currentLocale === 'en' ? '/terms-of-service/' : `/${currentLocale}/terms-of-service/`} class="touch-target">{uiText?.footer?.terms || 'Terms of Service'}</a></li>
+          <li><a href={getRelativeLocaleUrl(currentLocale, '/privacy/')} class="touch-target">{uiText?.footer?.privacy || 'Privacy Policy'}</a></li>
+          <li><a href={getRelativeLocaleUrl(currentLocale, '/terms-of-service/')} class="touch-target">{uiText?.footer?.terms || 'Terms of Service'}</a></li>
         </ul>
       </div>
       

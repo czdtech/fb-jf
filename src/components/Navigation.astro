@@ -1,6 +1,6 @@
 ---
 import type { NavigationItem, Language } from '@/types';
-import { getCurrentLocale, getTranslation, type SupportedLocale } from '@/i18n/utils';
+import { getTranslation, type SupportedLocale } from '@/i18n/utils';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import LanguageSelector from './LanguageSelector.astro';
 import MobileSheetNav from './MobileSheetNav';
@@ -23,8 +23,8 @@ const {
   locale 
 } = Astro.props;
 
-// 获取当前语言 - 优先使用新的i18n系统
-const currentLocale: SupportedLocale = locale || getCurrentLocale(Astro.url) || (legacyCurrentLang as SupportedLocale) || 'en';
+// 获取当前语言 - 使用Astro官方i18n系统
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || locale || (legacyCurrentLang as SupportedLocale) || 'en';
 
 // 获取翻译内容
 const translation = await getTranslation(currentLocale);
@@ -102,7 +102,3 @@ const navigationItems = legacyNavigation || [
     </div>
   </div>
 </header>
-
-<script>
-// Desktop uses anchors; mobile uses shadcn/ui Sheet
-</script>
