@@ -3,8 +3,8 @@ slug: ko-sprunki-mod-BFDI
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
+image: /sprunki-mod-bfdi.png
+iframe: https://turbowarp.org/1087434086/embed
 category: trending
 meta:
   title: TITLE - TITLE 온라인 플레이
@@ -26,7 +26,7 @@ seo:
 rating:
   score: 4.2
   maxScore: 5
-  votes: 200
+  votes: 347
   stars: 4
 breadcrumb:
   home: 홈

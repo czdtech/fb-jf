@@ -3,9 +3,9 @@ slug: ko-sprunki-red-sun
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
-category: trending
+image: /sprunki-red-sun.png
+iframe: https://turbowarp.org/1124916265/embed
+category: popular
 meta:
   title: TITLE - TITLE 온라인 플레이
   description: >-
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/FILE_ID/
 rating:
-  score: 4.2
+  score: 4.4
   maxScore: 5
-  votes: 200
+  votes: 232
   stars: 4
 breadcrumb:
   home: 홈

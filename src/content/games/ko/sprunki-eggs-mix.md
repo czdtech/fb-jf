@@ -4,7 +4,7 @@ title: 스프런키 에그 믹스
 description: >-
   스프런키 에그 믹스는 독특한 음악 창작 경험을 제공하는 게임입니다.
 image: /sprunki-eggs-mix.png
-iframe: https://example.com/embed
+iframe: https://turbowarp.org/1102648676/embed
 category: trending
 meta:
   title: 스프런키 에그 믹스 - 스프런키 에그 믹스 온라인 플레이
@@ -24,10 +24,10 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-eggs-mix/
 rating:
-  score: 4.2
+  score: 3.9
   maxScore: 5
-  votes: 200
-  stars: 4
+  votes: 125
+  stars: 3
 breadcrumb:
   home: 홈
   current: 스프런키 에그 믹스

@@ -3,8 +3,8 @@ slug: ko-sprunki-virus-new-update
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
+image: /sprunki-virus-new-update.png
+iframe: https://turbowarp.org/1104064786/embed
 category: trending
 meta:
   title: TITLE - TITLE 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/FILE_ID/
 rating:
-  score: 4.2
+  score: 4
   maxScore: 5
-  votes: 200
+  votes: 407
   stars: 4
 breadcrumb:
   home: 홈

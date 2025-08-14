@@ -5,7 +5,7 @@ description: >
   Sprunki Good Night ist eine entspannende Nachtzeit-Version von Sprunki mit
   beruhigenden Charakteren und friedlichen Soundlandschaften.
 image: /sprunki-good-night.png
-iframe: https://turbowarp.org/1105173019/embed
+iframe: https://turbowarp.org/1082747168/embed
 category: trending
 meta:
   title: Sprunki Good Night - Entspannendes Musikspiel
@@ -22,9 +22,9 @@ seo:
     name: Sprunki Good Night
     url: https://www.playfiddlebops.com/sprunki-good-night/
 rating:
-  score: 4.6
+  score: 4.2
   maxScore: 5
-  votes: 189
+  votes: 227
   stars: 4
 breadcrumb:
   home: startseite

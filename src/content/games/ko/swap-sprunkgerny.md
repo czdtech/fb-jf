@@ -3,8 +3,8 @@ slug: ko-swap-sprunkgerny
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
+image: /swap-sprunkgerny.png
+iframe: https://turbowarp.org/1141050651/embed
 category: trending
 meta:
   title: TITLE - TITLE 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/FILE_ID/
 rating:
-  score: 4.2
+  score: 4.9
   maxScore: 5
-  votes: 200
+  votes: 724
   stars: 4
 breadcrumb:
   home: 홈

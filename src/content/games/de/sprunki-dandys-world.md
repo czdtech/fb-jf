@@ -5,7 +5,7 @@ description: >
   Sprunki Dandys World ist eine faszinierende Crossover-Mod, die Charaktere
   und Themen aus Dandys World in das Sprunki-Musikkreations-Gameplay integriert.
 image: /sprunki-dandys-world.png
-iframe: https://turbowarp.org/1118756965/embed
+iframe: https://turbowarp.org/1075503895/embed
 category: trending
 meta:
   title: Sprunki Dandys World - Spiele Sprunki Dandys World Online
@@ -27,9 +27,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-dandys-world/
 rating:
-  score: 4.5
+  score: 4.4
   maxScore: 5
-  votes: 423
+  votes: 304
   stars: 4
 breadcrumb:
   home: startseite

@@ -4,7 +4,7 @@ title: 스프런키 인터랙티브 베타
 description: >-
   스프런키 인터랙티브 베타는 새로운 기능들을 테스트할 수 있는 베타 버전입니다.
 image: /sprunki-interactive-beta.png
-iframe: https://example.com/embed
+iframe: https://turbowarp.org/1090663998/embed
 category: trending
 meta:
   title: 스프런키 인터랙티브 베타 - 스프런키 인터랙티브 베타 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-interactive-beta/
 rating:
-  score: 4.2
+  score: 4
   maxScore: 5
-  votes: 200
+  votes: 407
   stars: 4
 breadcrumb:
   home: 홈

@@ -3,8 +3,8 @@ slug: ko-sprunki-squid-remix
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
+image: /sprunki-squid-remix.png
+iframe: https://turbowarp.org/1123885023/embed
 category: trending
 meta:
   title: TITLE - TITLE 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/FILE_ID/
 rating:
-  score: 4.2
+  score: 4.1
   maxScore: 5
-  votes: 200
+  votes: 92
   stars: 4
 breadcrumb:
   home: 홈

@@ -4,7 +4,7 @@ title: 스프런키 머스타드
 description: >-
   독특한 머스타드 테마의 스프런키 변형입니다.
 image: /sprunki-mustard.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1089514503/embed
 category: trending
 meta:
   title: 스프런키 머스타드 - 스프런키 머스타드 온라인 플레이
@@ -24,10 +24,10 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-mustard/
 rating:
-  score: 4.2
+  score: 3.9
   maxScore: 5
-  votes: 200
-  stars: 4
+  votes: 827
+  stars: 3
 breadcrumb:
   home: 홈
   current: 스프런키 머스타드

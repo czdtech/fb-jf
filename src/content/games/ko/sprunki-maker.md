@@ -4,7 +4,7 @@ title: 스프런키 메이커
 description: >-
   나만의 스프런키 캐릭터와 음악을 만들 수 있는 게임입니다.
 image: /sprunki-maker.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1107842897/embed
 category: trending
 meta:
   title: 스프런키 메이커 - 스프런키 메이커 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-maker/
 rating:
-  score: 4.2
+  score: 4.8
   maxScore: 5
-  votes: 200
+  votes: 700
   stars: 4
 breadcrumb:
   home: 홈

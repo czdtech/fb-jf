@@ -843,3 +843,95 @@
 11:40:45 [vite] Port 4322 is in use, trying another one...
 11:40:45 [vite] Port 4323 is in use, trying another one...
 11:40:45 [vite] Port 4324 is in use, trying another one...
+22:05:06 Configuration file updated. Restarting...
+22:05:06 [content] Syncing content
+22:05:06 [content] Content config changed
+22:05:06 [content] Clearing content store
+22:05:06 [WARN] [glob-loader] The base directory "D:\Users\33267\Documents\GitHub\fb-jf\src\content\i18nHome\" does not exist.
+22:05:07 [glob-loader] Reloaded data from ayocs-sprunkr.md
+22:05:07 [glob-loader] Reloaded data from de/ayocs-sprunkr.md
+22:05:07 [glob-loader] Reloaded data from dandyrunki-retake.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-fix.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-but-sprunki.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-but-dandys-world.md
+22:05:07 [glob-loader] Reloaded data from de/ayocs-sprunkr.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-polos.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-sprunksters-remix.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-sprunki.md
+22:05:07 [glob-loader] Reloaded data from de/dandyrunki-retake.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox-cool-as-ice.md
+22:05:07 [glob-loader] Reloaded data from de/fiddlebops-sprunkbop.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox-donki-abgerny.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox-shatter-sprunk.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox-sprunksters.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox-sprinkle.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox.md
+22:05:07 [glob-loader] Reloaded data from de/mundo-torajo-sprunki.md
+22:05:07 [glob-loader] Reloaded data from de/mountayonnaise.md
+22:05:07 [glob-loader] Reloaded data from de/incredibox-yellow-colorbox.md
+22:05:07 [glob-loader] Reloaded data from de/sprunkgerny.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-abgerny.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-1996.md
+22:05:07 [glob-loader] Reloaded data from de/pikmin-no-sprunki.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-christmas.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-babies.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-basical.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-cool-as-ice.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-craft.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-eggs-mix.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-interactive-beta.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-dandys-world.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-good-night.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-but-with-memes.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-halloween.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-maker.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-meets-the-cat-spell.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-like-minecraft.md
+22:05:07 [glob-loader] Reloaded data from de/sprunki-minecraft.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-mod-BFDI.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-parasite-parasprunki-15.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-mustard.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-night-time.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-phase-1.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-phase-8.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-phase-2-5.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-phase-5.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-play-random.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-retake.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-police-and-prisoners.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-red-sun.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-pyramixed-version.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-retake-bonus-characters.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-sonic.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-sepbox-steel-factory.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-pyramixed.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-squid-remix.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-rotrizi-5.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-retake-new-human.md
+22:05:08 [glob-loader] Reloaded data from de/sprunkle-bops.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-swapped-horror.md
+22:05:08 [glob-loader] Reloaded data from de/sprunki-virus-new-update.md
+22:05:08 [glob-loader] Reloaded data from de/the-haze-pixelbox.md
+22:05:08 [glob-loader] Reloaded data from de/sprunkr-but-sprunki.md
+22:05:08 [glob-loader] Reloaded data from de/super-sprunki-brasil.md
+22:05:08 [glob-loader] Reloaded data from de/swap-sprunkgerny.md
+22:05:08 [glob-loader] Reloaded data from es/ayocs-sprunkr.md
+22:05:08 [glob-loader] Reloaded data from de/yojou-sprunki-mustard.md
+22:05:11 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at MutableDataStore.writeToDisk (file:///D:/Users/33267/Documents/GitHub/fb-jf/node_modules/astro/dist/content/mutable-data-store.js:337:13)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+22:05:12 [content] Syncing content
+22:05:12 [content] Astro config changed
+22:05:12 [content] Clearing content store
+22:05:14 [content] Synced content
+22:05:14 [types] Generated 3.49s
+22:05:14 [vite] Port 4321 is in use, trying another one...

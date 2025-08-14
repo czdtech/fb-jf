@@ -4,7 +4,7 @@ title: 스프런커 벗 스프런키
 description: >-
   스프런커와 스프런키의 특별한 조합입니다.
 image: /sprunkr-but-sprunki.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1113707117/embed
 category: trending
 meta:
   title: 스프런커 벗 스프런키 - 스프런커 벗 스프런키 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunkr-but-sprunki/
 rating:
-  score: 4.2
+  score: 4.5
   maxScore: 5
-  votes: 200
+  votes: 541
   stars: 4
 breadcrumb:
   home: 홈

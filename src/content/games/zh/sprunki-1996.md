@@ -4,7 +4,7 @@ title: Sprunki 1996
 description: >
   Sprunki 1996 带你回到音乐游戏的黄金时代！体验复古的视觉效果和怀旧的音效，重温90年代的经典音乐制作乐趣。
 image: /sprunki-1996.png
-iframe: https://turbowarp.org/1129628318/embed
+iframe: https://turbowarp.org/1149082786/embed
 category: trending
 meta:
   title: Sprunki 1996 - 在线玩 Sprunki 1996
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-1996/
 rating:
-  score: 4.6
+  score: 4
   maxScore: 5
-  votes: 523
+  votes: 122
   stars: 4
 breadcrumb:
   home: 首页

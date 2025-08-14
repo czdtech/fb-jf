@@ -1,13 +1,13 @@
 ---
 // 示例：在Astro页面中使用新的内容管理系统
-import { getContent } from '@/lib/content';
+import { getSimpleContent } from '@/lib/content-simple/SimpleContentManager';
 import { getCurrentLocale } from '@/i18n/utils';
 
 // 获取当前语言
 const currentLocale = getCurrentLocale(Astro.url);
 
 // 初始化内容管理器
-const contentManager = getContent();
+const contentManager = getSimpleContent();
 
 try {
   // 使用新的内容管理系统获取UI翻译

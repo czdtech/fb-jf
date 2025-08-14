@@ -25,9 +25,9 @@ const uiText = translation.ui;
 
 // 获取本地化的游戏集合（优先中文版本，自动fallback到英文）
 const localizedGames = await getLocalizedGamesList(lang);
-const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
-const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
-const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 4);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 4);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 8);
 
 const games = {
   popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),
@@ -106,7 +106,8 @@ const structuredData = {
     <HowToPlaySection />
     <AboutSection />
     <SoundSamplesSection soundSamples={soundSamples} />
-    <!-- <VideosSection /> -->
+    <VideosSection />
+    <FAQSection />
     
   </main>
   <Footer locale={lang} />

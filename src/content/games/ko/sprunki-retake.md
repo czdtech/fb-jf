@@ -4,8 +4,8 @@ title: 스프런키 리테이크
 description: >-
   스프런키의 새로운 해석과 개선된 경험을 제공합니다.
 image: /sprunki-retake.png
-iframe: https://turbowarp.org/embed
-category: trending
+iframe: https://www.minijuegos.com/embed/sprunki-retake
+category: popular
 meta:
   title: 스프런키 리테이크 - 스프런키 리테이크 온라인 플레이
   description: >-
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-retake/
 rating:
-  score: 4.2
+  score: 4.3
   maxScore: 5
-  votes: 200
+  votes: 524
   stars: 4
 breadcrumb:
   home: 홈

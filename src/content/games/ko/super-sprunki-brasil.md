@@ -4,7 +4,7 @@ title: 슈퍼 스프런키 브라질
 description: >-
   브라질 테마의 활기찬 스프런키 게임입니다.
 image: /super-sprunki-brasil.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1080827660/embed
 category: trending
 meta:
   title: 슈퍼 스프런키 브라질 - 슈퍼 스프런키 브라질 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/super-sprunki-brasil/
 rating:
-  score: 4.2
+  score: 4.3
   maxScore: 5
-  votes: 200
+  votes: 380
   stars: 4
 breadcrumb:
   home: 홈

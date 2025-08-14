@@ -5,7 +5,7 @@ description: >
   Sprunki Eggs Mix ist eine Oster-thematische Variante von Sprunki mit
   eierbezogenen Charakteren und frühlingshaften Soundeffekten.
 image: /sprunki-eggs-mix.png
-iframe: https://turbowarp.org/1105173019/embed
+iframe: https://turbowarp.org/1102648676/embed
 category: trending
 meta:
   title: Sprunki Eggs Mix - Spiele Online
@@ -23,10 +23,10 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-eggs-mix/
 rating:
-  score: 4.1
+  score: 3.9
   maxScore: 5
-  votes: 234
-  stars: 4
+  votes: 125
+  stars: 3
 breadcrumb:
   home: startseite
   current: Sprunki Eggs Mix

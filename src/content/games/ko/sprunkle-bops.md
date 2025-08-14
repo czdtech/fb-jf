@@ -4,7 +4,7 @@ title: 스프런클 밥스
 description: >-
   독특한 스프런클 캐릭터들의 음악 게임입니다.
 image: /sprunkle-bops.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1122091658/embed
 category: trending
 meta:
   title: 스프런클 밥스 - 스프런클 밥스 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunkle-bops/
 rating:
-  score: 4.2
+  score: 4.3
   maxScore: 5
-  votes: 200
+  votes: 524
   stars: 4
 breadcrumb:
   home: 홈

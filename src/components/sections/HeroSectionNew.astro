@@ -44,8 +44,8 @@ const transformGame = (game: any) => ({
   }
 });
 
-const featuredGames = games.popular.slice(0, 3).map(transformGame);
-const newGames = games.new.slice(0, 6).map(transformGame);
+const featuredGames = games.popular.slice(0, 4).map(transformGame);
+const newGames = games.new.slice(0, 4).map(transformGame);
 const trendingGames = games.trending.slice(0, 8).map(transformGame);
 
 // Create a main game object for the iframe

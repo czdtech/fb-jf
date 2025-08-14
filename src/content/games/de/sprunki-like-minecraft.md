@@ -5,7 +5,7 @@ description: >
   Sprunki Like Minecraft kombiniert die Musikkreation von Sprunki mit der
   blockigen Ästhetik und dem Gameplay-Stil von Minecraft.
 image: /sprunki-like-minecraft.png
-iframe: https://turbowarp.org/1105173019/embed
+iframe: https://turbowarp.org/1095572358/embed
 category: trending
 meta:
   title: Sprunki Like Minecraft - Minecraft-Stil Musikspiel
@@ -22,9 +22,9 @@ seo:
     name: Sprunki Like Minecraft
     url: https://www.playfiddlebops.com/sprunki-like-minecraft/
 rating:
-  score: 4.4
+  score: 4.6
   maxScore: 5
-  votes: 298
+  votes: 601
   stars: 4
 breadcrumb:
   home: startseite

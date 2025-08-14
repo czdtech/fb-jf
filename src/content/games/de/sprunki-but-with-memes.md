@@ -6,7 +6,7 @@ description: >
   die populäre Internet-Memes in die Musikkreation einbaut und ein lustiges,
   unterhaltsames Erlebnis schafft.
 image: /sprunki-but-with-memes.png
-iframe: https://turbowarp.org/1078205965/embed
+iframe: https://turbowarp.org/1095572358/embed
 category: trending
 meta:
   title: Sprunki But With Memes - Spiele Sprunki But With Memes Online
@@ -30,7 +30,7 @@ seo:
 rating:
   score: 4.2
   maxScore: 5
-  votes: 285
+  votes: 142
   stars: 4
 breadcrumb:
   home: startseite

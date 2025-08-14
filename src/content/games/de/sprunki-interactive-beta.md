@@ -5,8 +5,8 @@ description: >
   Sprunki Interactive Beta ist eine experimentelle Version mit erweiterten
   interaktiven Features und Beta-Funktionen für erweiterte Musikkreation.
 image: /sprunki-interactive-beta.png
-iframe: https://turbowarp.org/1105173019/embed
-category: new
+iframe: https://turbowarp.org/1090663998/embed
+category: trending
 meta:
   title: Sprunki Interactive Beta - Beta Musikspiel
   description: Experimentelle Sprunki-Version mit Beta-Features
@@ -22,9 +22,9 @@ seo:
     name: Sprunki Interactive Beta
     url: https://www.playfiddlebops.com/sprunki-interactive-beta/
 rating:
-  score: 4.0
+  score: 4
   maxScore: 5
-  votes: 156
+  votes: 407
   stars: 4
 breadcrumb:
   home: startseite

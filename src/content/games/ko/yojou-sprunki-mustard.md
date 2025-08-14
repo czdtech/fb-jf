@@ -3,9 +3,9 @@ slug: ko-yojou-sprunki-mustard
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
-category: trending
+image: /yojou-sprunki-mustard.png
+iframe: https://turbowarp.org/1115597573/embed
+category: new
 meta:
   title: TITLE - TITLE 온라인 플레이
   description: >-
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/FILE_ID/
 rating:
-  score: 4.2
+  score: 4.5
   maxScore: 5
-  votes: 200
+  votes: 322
   stars: 4
 breadcrumb:
   home: 홈

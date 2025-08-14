@@ -5,8 +5,8 @@ description: >
   Sprunki Craft kombiniert Musikkreation mit Minecraft-inspirierter Pixel-Ästhetik
   und bietet ein einzigartiges blockiges Spielerlebnis für kreative Musikliebhaber.
 image: /sprunki-craft.png
-iframe: https://turbowarp.org/1105173019/embed
-category: trending
+iframe: https://www.minijuegos.com/embed/sprunki-craft
+category: popular
 meta:
   title: Sprunki Craft - Spiele Sprunki Craft Online
   description: >
@@ -27,9 +27,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-craft/
 rating:
-  score: 4.3
+  score: 4.9
   maxScore: 5
-  votes: 367
+  votes: 724
   stars: 4
 breadcrumb:
   home: startseite

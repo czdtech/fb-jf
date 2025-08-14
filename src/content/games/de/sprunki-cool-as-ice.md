@@ -6,7 +6,7 @@ description: >
   winterlichen Themen, gefrorenen Charakteren und frostigen Soundeffekten für
   eine kühle musikalische Erfahrung.
 image: /sprunki-cool-as-ice.png
-iframe: https://turbowarp.org/1108441752/embed
+iframe: https://turbowarp.org/1101497138/embed
 category: trending
 meta:
   title: Sprunki Cool As Ice - Spiele Sprunki Cool As Ice Online
@@ -28,9 +28,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-cool-as-ice/
 rating:
-  score: 4.7
+  score: 4.2
   maxScore: 5
-  votes: 512
+  votes: 324
   stars: 4
 breadcrumb:
   home: startseite

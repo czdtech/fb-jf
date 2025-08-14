@@ -14,6 +14,7 @@ import FAQSection from '@/components/sections/FAQSection.astro'
 // Import i18n system
 import { getCollection } from 'astro:content';
 import { getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
+import { getLocalizedGamesList } from '@/utils/i18n';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
 import { generateHomeHreflangLinks } from '@/utils/hreflang';
 import extractedData from '@/data/extracted-data.json';
@@ -26,37 +27,11 @@ const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 const homeContent = translation.home;
 
-// 获取当前语言的游戏 - 使用Content Collections API
-const currentPath = Astro.url.pathname;
-
-let allGames: any[] = [];
-
-try {
-  // ✅ 修复完成：现在使用正确的Content Collections API
-  console.log(`🔍 Loading games for locale: ${currentLocale}`);
-  
-  // 使用修复后的getLocalizedGamesList函数
-  const { getLocalizedGamesList } = await import('@/utils/i18n');
-  allGames = await getLocalizedGamesList(currentLocale);
-  
-  console.log(`✅ Successfully loaded ${allGames.length} games for ${currentLocale}`);
-  
-  // 验证内容语言正确性
-  console.log('🔍 Content verification:');
-  allGames.slice(0, 3).forEach((game, index) => {
-    const firstSentence = game.data.description.substring(0, 100);
-    console.log(`${index + 1}. ${game.data.slug} ✅`);
-    console.log(`   Content: ${firstSentence}...`);
-  });
-  
-} catch (collectionError) {
-  console.error('Content collection loading failed:', collectionError);
-  allGames = [];
-}
-
-const popularGames = allGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
-const newGames = allGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
-const trendingGames = allGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);
+// 获取本地化的游戏集合
+const localizedGames = await getLocalizedGamesList(currentLocale);
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 4);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 4);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 8);
 
 const games = {
   popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),

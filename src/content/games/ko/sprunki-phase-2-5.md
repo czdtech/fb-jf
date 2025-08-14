@@ -4,7 +4,7 @@ title: 스프런키 페이즈 2.5
 description: >-
   스프런키의 중간 단계를 경험할 수 있는 특별한 버전입니다.
 image: /sprunki-phase-2-5.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1122769169/embed
 category: trending
 meta:
   title: 스프런키 페이즈 2.5 - 스프런키 페이즈 2.5 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-phase-2-5/
 rating:
-  score: 4.2
+  score: 4.3
   maxScore: 5
-  votes: 200
+  votes: 218
   stars: 4
 breadcrumb:
   home: 홈

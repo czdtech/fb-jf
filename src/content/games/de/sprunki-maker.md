@@ -5,7 +5,7 @@ description: >
   Sprunki Maker ist ein erweiterte Musikkreations-Tool, das Spielern ermöglicht,
   ihre eigenen Sprunki-Charaktere und Sounds zu erstellen und anzupassen.
 image: /sprunki-maker.png
-iframe: https://turbowarp.org/1105173019/embed
+iframe: https://turbowarp.org/1107842897/embed
 category: trending
 meta:
   title: Sprunki Maker - Erstelle eigene Sprunki-Musik
@@ -22,9 +22,9 @@ seo:
     name: Sprunki Maker
     url: https://www.playfiddlebops.com/sprunki-maker/
 rating:
-  score: 4.7
+  score: 4.8
   maxScore: 5
-  votes: 445
+  votes: 700
   stars: 4
 breadcrumb:
   home: startseite

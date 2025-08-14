@@ -4,7 +4,7 @@ title: 스프런키 마인크래프트
 description: >-
   마인크래프트 테마의 스프런키 음악 게임입니다.
 image: /sprunki-minecraft.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1094240845/embed
 category: trending
 meta:
   title: 스프런키 마인크래프트 - 스프런키 마인크래프트 온라인 플레이
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-minecraft/
 rating:
-  score: 4.2
+  score: 4
   maxScore: 5
-  votes: 200
+  votes: 212
   stars: 4
 breadcrumb:
   home: 홈

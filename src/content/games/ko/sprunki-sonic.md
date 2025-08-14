@@ -4,8 +4,8 @@ title: 스프런키 소닉
 description: >-
   소닉 더 헤지혹과 만나는 스프런키 게임입니다.
 image: /sprunki-sonic.png
-iframe: https://turbowarp.org/embed
-category: trending
+iframe: https://turbowarp.org/1114980098/embed
+category: popular
 meta:
   title: 스프런키 소닉 - 스프런키 소닉 온라인 플레이
   description: >-
@@ -24,9 +24,9 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/sprunki-sonic/
 rating:
-  score: 4.2
+  score: 4
   maxScore: 5
-  votes: 200
+  votes: 829
   stars: 4
 breadcrumb:
   home: 홈

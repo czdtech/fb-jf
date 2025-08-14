@@ -4,7 +4,7 @@ title: 스프런키 굿나이트
 description: >-
   스프런키 굿나이트는 평온한 음악적 분위기를 제공하는 게임입니다.
 image: /sprunki-good-night.png
-iframe: https://example.com/embed
+iframe: https://turbowarp.org/1082747168/embed
 category: trending
 meta:
   title: 스프런키 굿나이트 - 스프런키 굿나이트 온라인 플레이
@@ -26,7 +26,7 @@ seo:
 rating:
   score: 4.2
   maxScore: 5
-  votes: 200
+  votes: 227
   stars: 4
 breadcrumb:
   home: 홈

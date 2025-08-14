@@ -23,9 +23,9 @@ const translation = await getTranslation(lang);
 const uiText = translation.ui;
 
 const localizedGames = await getLocalizedGamesList(lang);
-const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
-const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
-const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 4);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 4);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 8);
 
 const games = {
   popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),

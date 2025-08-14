@@ -4,8 +4,8 @@ title: 더 헤이즈 픽셀박스
 description: >-
   신비한 헤이즈 분위기의 픽셀 스타일 게임입니다.
 image: /the-haze-pixelbox.png
-iframe: https://turbowarp.org/embed
-category: trending
+iframe: https://turbowarp.org/1020955547/embed
+category: new
 meta:
   title: 더 헤이즈 픽셀박스 - 더 헤이즈 픽셀박스 온라인 플레이
   description: >-
@@ -24,10 +24,10 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/the-haze-pixelbox/
 rating:
-  score: 4.2
+  score: 3.9
   maxScore: 5
-  votes: 200
-  stars: 4
+  votes: 132
+  stars: 3
 breadcrumb:
   home: 홈
   current: 더 헤이즈 픽셀박스

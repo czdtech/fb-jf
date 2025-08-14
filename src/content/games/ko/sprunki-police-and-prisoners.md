@@ -3,8 +3,8 @@ slug: ko-sprunki-police-and-prisoners
 title: TITLE
 description: >-
   DESCRIPTION
-image: /FILE_ID.png
-iframe: https://turbowarp.org/embed
+image: /sprunki-police-and-prisoners.png
+iframe: https://turbowarp.org/1113493234/embed
 category: trending
 meta:
   title: TITLE - TITLE 온라인 플레이
@@ -24,10 +24,10 @@ seo:
     alternateName: playfiddlebops.com
     url: https://www.playfiddlebops.com/FILE_ID/
 rating:
-  score: 4.2
+  score: 3.9
   maxScore: 5
-  votes: 200
-  stars: 4
+  votes: 325
+  stars: 3
 breadcrumb:
   home: 홈
   current: TITLE

@@ -4,7 +4,7 @@ title: 스프런키 나이트타임
 description: >-
   밤의 분위기로 가득한 스프런키 게임입니다.
 image: /sprunki-night-time.png
-iframe: https://turbowarp.org/embed
+iframe: https://turbowarp.org/1100659044/embed
 category: trending
 meta:
   title: 스프런키 나이트타임 - 스프런키 나이트타임 온라인 플레이
@@ -26,7 +26,7 @@ seo:
 rating:
   score: 4.2
   maxScore: 5
-  votes: 200
+  votes: 324
   stars: 4
 breadcrumb:
   home: 홈
