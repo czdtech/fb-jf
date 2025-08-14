@@ -1,5 +1,5 @@
 ---
-slug: sprunki-christmas-de
+slug: de-sprunki-christmas
 title: Sprunki Christmas
 description: >-
   Sprunki Christmas ist eine Mod, die es Ihnen ermöglicht, den Spaß des Spiels

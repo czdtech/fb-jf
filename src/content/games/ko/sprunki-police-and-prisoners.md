@@ -1,5 +1,5 @@
 ---
-slug: sprunki-police-and-prisoners-ko
+slug: ko-sprunki-police-and-prisoners
 title: TITLE
 description: >-
   DESCRIPTION

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-basical-ko
+slug: ko-sprunki-basical
 title: 스프런키 베이직
 description: >-
   스프런키 베이직은 기본으로 돌아간 음악 제작 게임으로, 간단한 

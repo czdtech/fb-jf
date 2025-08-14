@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5-fr
+slug: fr-sprunki-rotrizi-5
 title: "Sprunki Rotrizi 5"
 description: >-
   Sprunki Rotrizi 5.0 est une expérience de mixage musicale palpitante qui 

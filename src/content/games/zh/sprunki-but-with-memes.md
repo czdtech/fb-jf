@@ -1,5 +1,5 @@
 ---
-slug: sprunki-but-with-memes-zh
+slug: zh-sprunki-but-with-memes
 title: Sprunki But With Memes
 description: >-
   Sprunki but with memes 是一款音乐游戏，让你在表情包的海洋中尽情创作。来加入 Sprunki but with memes，用你独特的音乐才华点燃表情包狂潮！

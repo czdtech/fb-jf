@@ -2,51 +2,114 @@
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
+import HeroSectionNew from '@/components/sections/HeroSectionNew.astro'
+import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
+import AboutSection from '@/components/sections/AboutSection.astro'
+import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
+import VideosSection from '@/components/sections/VideosSection.astro'
+import FAQSection from '@/components/sections/FAQSection.astro'
+
+import { getCollection } from 'astro:content';
+import { getTranslation, LOCALE_NAMES } from '@/i18n/utils';
+import { getLocalizedGamesList } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/utils';
+import { getAbsoluteLocaleUrl } from 'astro:i18n';
+import { generateHomeHreflangLinks } from '@/utils/hreflang';
 import extractedData from '@/data/extracted-data.json'
-import { getEntry, render } from 'astro:content'
-//
 
-const lang = 'de'
-const title = 'Fiddlebops - Kostenloses Online Fiddlebops Incredibox Spiel'
-const description = 'Erstelle deine einzigartige Musik mit Fiddlebops! Dieses Fanprojekt, inspiriert von Incredibox, ermöglicht es dir, verschiedene Sounds zu mischen und zu kombinieren, um personalisierte Musikstücke zu erstellen.'
+const lang: SupportedLocale = 'de';
 
-const structuredData = {
-  "@context": "https://schema.org",
-  "@type": "Game",
-  "name": title,
-  "alternateName": "playfiddlebops.com",
-  "url": "https://www.playfiddlebops.com/de/",
-  "description": description
+const translation = await getTranslation(lang);
+const uiText = translation.ui;
+
+const localizedGames = await getLocalizedGamesList(lang);
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 5);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 5);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 10);
+
+const games = {
+  popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),
+  new: newGames.map((g: any) => ({ slug: g.slug, ...g.data })),
+  trending: trendingGames.map((g: any) => ({ slug: g.slug, ...g.data })),
 };
 
-const meta = {
-  title,
-  description,
-  canonical: 'https://www.playfiddlebops.com/de/',
-  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
-}
+// 获取完整的25个角色音频数据
+const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
+  name: sample.title,
+  title: sample.title,
+  image: sample.image,
+  audioSrc: sample.audio,
+  category: sample.category,
+  color: sample.category === 'Beats' ? '#FF6B6B' : 
+         sample.category === 'Effects' ? '#4ECDC4' :
+         sample.category === 'Melodies' ? '#45B7D1' :
+         sample.category === 'Voices' ? '#FFA726' :
+         '#9C27B0' // Bonus characters
+}));
 
-const { navigation } = extractedData
-const hreflangLinks = (navigation?.languages || []).map((l: any) => ({
-  code: l.code === 'en' ? 'x-default' : l.code,
-  url: `https://www.playfiddlebops.com${l.url}`
-}))
+const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '');
+const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({ code, label, url: '' }));
+const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
 
-const home = await getEntry('i18nHome', 'de')
-if (!home) throw new Error('Home content not found for locale: de')
-const { Content } = await render(home)
+const pageMeta = {
+  title: uiText?.meta?.title || extractedData.homepage.meta.title,
+  description: uiText?.meta?.description || extractedData.homepage.meta.description,
+  keywords: uiText?.meta?.keywords || extractedData.homepage.meta.keywords,
+  canonical: getAbsoluteLocaleUrl(lang, '/'),
+  ogImage: extractedData.homepage.meta.ogImage
+};
+
+const websiteNode = {
+  '@type': 'WebSite',
+  name: pageMeta.title,
+  alternateName: 'playfiddlebops.com',
+  url: pageMeta.canonical,
+  description: pageMeta.description,
+};
+
+const videoObjects = extractedData.homepage.videos.map((video: any) => ({
+  '@type': 'VideoObject',
+  name: video.name,
+  description: video.description,
+  thumbnailUrl: [video.thumbnailUrl],
+  uploadDate: video.uploadDate,
+  embedUrl: video.embedUrl,
+  contentUrl: video.contentUrl,
+  publisher: { '@type': 'Organization', name: video.publisher },
+}));
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [websiteNode, ...videoObjects],
+};
 ---
 
-<BaseLayout meta={meta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>
-  <Navigation navigation={navigation.main} languages={navigation.languages} currentLang={lang} currentPath={`/${lang}/`} />
-  <main class="container" style="min-height:60vh; padding:2rem 0;">
-    <h1 style="margin-bottom:1rem;">{home.data.title}</h1>
-    <p style="margin-bottom:2rem;">{home.data.description}</p>
-    <section class="about" id="about">
-      <div class="about-content">
-        <Content />
-      </div>
-    </section>
+<BaseLayout meta={pageMeta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>
+  <Navigation locale={lang} currentPath={`/${lang}/`} />
+  <main id="main-content" class="min-h-screen" role="main">
+    <HeroSectionNew
+      hero={{
+        title: uiText?.hero?.title || extractedData.homepage.hero.title,
+        description: uiText?.hero?.subtitle || extractedData.homepage.hero.description,
+        mainGame: extractedData.homepage.hero.mainGame,
+      }}
+      games={games}
+    />
+
+    <!-- How to Play Section -->
+    <HowToPlaySection />
+
+    <!-- About Section -->
+    <AboutSection />
+
+    <!-- Sound Samples Section -->
+    <SoundSamplesSection soundSamples={soundSamples} />
+
+    <!-- Video Section -->
+    <VideosSection />
+
+    <!-- FAQ Section -->
+    <FAQSection />
   </main>
-  <Footer />
+  <Footer locale={lang} />
 </BaseLayout>

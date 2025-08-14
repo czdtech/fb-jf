@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunkbop-ja
+slug: ja-fiddlebops-sprunkbop
 title: Fiddlebops Sprunkbop
 description: >-
   Fiddlebops Sprunkbopは素晴らしいクロスオーバーイベントです！

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-interactive-beta-ja
+slug: ja-sprunki-interactive-beta
 title: Sprunki Interactive Beta
 description: Sprunki Interactive BETAはSprunkiゲームの単純なアップグレードではなく、
 image: /sprunki-interactive-beta.png

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-christmas-zh
+slug: zh-sprunki-christmas
 title: Sprunki Christmas - 圣诞节音乐盛宴
 description: >-
   Sprunki Christmas是一个让你在节日氛围中充分享受游戏乐趣的MOD。来到Sprunki Christmas的世界，用充满活力的音乐点亮你的圣诞节！

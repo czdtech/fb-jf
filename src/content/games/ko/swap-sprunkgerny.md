@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny-ko
+slug: ko-swap-sprunkgerny
 title: TITLE
 description: >-
   DESCRIPTION

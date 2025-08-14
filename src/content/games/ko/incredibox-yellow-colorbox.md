@@ -1,5 +1,5 @@
 ---
-slug: incredibox-yellow-colorbox-ko
+slug: ko-incredibox-yellow-colorbox
 title: 인크레디박스 옐로우 컬러박스
 description: >-
   인크레디박스 옐로우 컬러박스는 팬이 제작한 인크레디박스 모드 음악 게임입니다. 이 버전에서는 

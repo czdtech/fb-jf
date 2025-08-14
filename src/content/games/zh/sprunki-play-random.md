@@ -1,5 +1,5 @@
 ---
-slug: sprunki-play-random-zh
+slug: zh-sprunki-play-random
 title: Sprunki Play Random
 description: >-
   Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random 绝对适合你！

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sepbox-steel-factory-fr
+slug: fr-sprunki-sepbox-steel-factory
 title: "Sprunki x SepBox Steel Factory"
 description: >-
   Une collaboration unique mêlant l’art dynamique de Sprunki à la puissance 

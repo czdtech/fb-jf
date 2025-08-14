@@ -1,5 +1,5 @@
 ---
-slug: mountayonnaise-ko
+slug: ko-mountayonnaise
 title: 마운테요네즈
 description: >
   스프렁키 마운테요네즈는 추가된 사운드 효과에 따라 다양한 동물 피규어가 나타나는 놀랍도록

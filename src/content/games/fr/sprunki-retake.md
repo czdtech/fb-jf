@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-fr
+slug: fr-sprunki-retake
 title: Sprunki Retake
 description: >-
   Si vous aimez les jeux de rythme et avez un penchant pour les éléments

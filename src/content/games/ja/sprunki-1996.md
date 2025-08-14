@@ -1,5 +1,5 @@
 ---
-slug: sprunki-1996-ja
+slug: ja-sprunki-1996
 title: Sprunki 1996
 description: >-
   Sprunki 1996は創造性とノスタルジアに満ちた音楽ゲームです。独特の90年代レトロコンピューター美学とシンプルで楽しい音楽創作ゲームプレイを組み合わせ、SprunkiとIncrediboxのファンに新鮮な体験を提供します。

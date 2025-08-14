@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human-fr
+slug: fr-sprunki-retake-new-human
 title: "Sprunki Retake : Nouveau Humain"
 description: >-
   Sprunki Retake : Nouveau Humain réimagine l’expérience Incredibox avec des

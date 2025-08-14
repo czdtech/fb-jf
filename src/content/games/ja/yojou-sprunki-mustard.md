@@ -1,5 +1,5 @@
 ---
-slug: yojou-sprunki-mustard-ja
+slug: ja-yojou-sprunki-mustard
 title: Yojou Sprunki Mustard
 description: >-
   Yojou Sprunki Mustardは、このパロディModがSprunki世界を完全に転覆させ、

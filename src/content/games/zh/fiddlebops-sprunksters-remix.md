@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunksters-remix-zh
+slug: zh-fiddlebops-sprunksters-remix
 title: Fiddlebops Sprunksters Remix
 description: >-
   Fiddlebops Sprunksters 是一个出色的模组，完美融合了创意、节奏和视觉魅力。凭借其迷人的角色设计、新颖的声音和那超酷的功能

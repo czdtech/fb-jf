@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies-de
+slug: de-sprunki-babies
 title: Sprunki Babies
 description: >-
   Diese charmante Musik-Sandbox stellt Sie vor eine Crew aus bezaubernden Baby-

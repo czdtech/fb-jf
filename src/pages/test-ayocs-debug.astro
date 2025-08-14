@@ -1,0 +1,72 @@
+---
+import { getCollection } from "astro:content";
+import { getLocalizedGameContent, generateLanguageSlug } from "@/utils/i18n";
+
+console.log("🔍 Testing ayocs-sprunkr Chinese content loading...");
+
+// Test the function directly
+const baseSlug = "ayocs-sprunkr";
+const locale = "zh";
+
+console.log(`Looking for baseSlug: ${baseSlug}, locale: ${locale}`);
+
+const targetSlug = generateLanguageSlug(baseSlug, locale);
+console.log(`Generated targetSlug: ${targetSlug}`);
+
+const games = await getCollection("games");
+console.log(`Total games loaded: ${games.length}`);
+
+// Find all ayocs games
+const ayocsGames = games.filter(g => 
+  g.data.slug?.includes('ayocs-sprunkr') || g.id.includes('ayocs-sprunkr')
+);
+
+console.log(`Found ${ayocsGames.length} ayocs-sprunkr games:`);
+ayocsGames.forEach(game => {
+  console.log(`  - ID: "${game.id}" | Slug: "${game.data.slug}" | Title: "${game.data.title}"`);
+});
+
+// Test the specific Chinese lookup
+const chineseGames = games.filter(game => {
+  const gameId = game.id.replace(/\.md$/, "");
+  return gameId.startsWith(`${locale}-`);
+});
+
+console.log(`Found ${chineseGames.length} Chinese games`);
+console.log("Sample Chinese games:");
+chineseGames.slice(0, 5).forEach(game => {
+  console.log(`  - ID: "${game.id}" | Slug: "${game.data.slug}"`);
+});
+
+// Test the specific match for zh-ayocs-sprunkr
+const specificMatch = games.find((game) => {
+  const gameId = game.id.replace(/\.md$/, "");
+  const matches = gameId.startsWith(`${locale}-`) && game.data.slug === targetSlug;
+  console.log(`Testing game "${game.id}": startsWith("${locale}-")=${gameId.startsWith(`${locale}-`)}, slug="${game.data.slug}" === targetSlug="${targetSlug}" = ${game.data.slug === targetSlug}, overall match: ${matches}`);
+  return matches;
+});
+
+if (specificMatch) {
+  console.log(`✅ Found specific match: ${specificMatch.id}`);
+} else {
+  console.log(`❌ No specific match found for targetSlug: ${targetSlug}`);
+}
+
+// Test the actual function
+const result = await getLocalizedGameContent(baseSlug, locale);
+if (result) {
+  console.log(`✅ getLocalizedGameContent result: ${result.id} | slug: ${result.data.slug} | title: ${result.data.title}`);
+} else {
+  console.log(`❌ getLocalizedGameContent returned null`);
+}
+---
+
+<html>
+<head>
+  <title>Ayocs Sprunkr Debug</title>
+</head>
+<body>
+  <h1>Check the console for debug output</h1>
+  <p>Testing ayocs-sprunkr Chinese content loading</p>
+</body>
+</html>

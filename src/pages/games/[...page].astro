@@ -23,6 +23,8 @@ interface GamePageItem {
   title: string;
   category: string;
   rating: number;
+  description: string;
+  iframe: string;
 }
 
 interface Language {
@@ -36,14 +38,22 @@ export async function getStaticPaths() {
   // 获取所有游戏
   const allGames = await getCollection('games');
 
-  const formattedGames: GamePageItem[] = allGames.map((game: any) => {
+  // 只获取英文版本的游戏（slug以-en结尾）
+  const enGames = allGames.filter((game: any) => game.data.slug.endsWith('-en'));
+
+  const formattedGames: GamePageItem[] = enGames.map((game: any) => {
+    // 从 slug 中去除语言后缀 (-en)
+    const baseSlug = game.data.slug.replace(/-en$/, '');
+    
     return {
-      slug: game.slug,
-      url: `/${game.slug}/`,
+      slug: baseSlug,
+      url: `/${baseSlug}/`,
       imageUrl: game.data.image,
       title: game.data.title,
       category: game.data.category,
       rating: game.data.rating?.score || 5, // 默认5星评分
+      description: game.data.description,
+      iframe: game.data.iframe,
     };
   });
 
@@ -183,7 +193,21 @@ const structuredData = {
 
         <!-- Games Grid -->
         <!-- 适配 GameGrid 的 Game 类型结构 -->
-        <GameGrid games={page.data.map((g: any) => ({ id: g.slug, slug: g.slug, title: g.title, description: '', image: g.imageUrl, iframe: '', category: g.category || 'popular', meta: { title: g.title, description: '', canonical: g.url, ogImage: g.imageUrl } }))} variant="standard" />
+        <GameGrid games={page.data.map((g: any) => ({ 
+          id: g.slug, 
+          slug: g.slug, 
+          title: g.title, 
+          description: g.description || '', 
+          image: g.imageUrl, 
+          iframe: g.iframe || '', 
+          category: g.category || 'popular', 
+          meta: { 
+            title: g.title, 
+            description: g.description || '', 
+            canonical: g.url, 
+            ogImage: g.imageUrl 
+          } 
+        }))} variant="standard" />
 
         <!-- Pagination -->
         <GamesPagination

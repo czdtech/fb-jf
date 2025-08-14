@@ -1,5 +1,5 @@
 ---
-slug: sprunkr-but-sprunki-ko
+slug: ko-sprunkr-but-sprunki
 title: 스프런커 벗 스프런키
 description: >-
   스프런커와 스프런키의 특별한 조합입니다.

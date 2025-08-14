@@ -14,7 +14,7 @@ import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 // 导入数据和工具
 import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
-import { generateEnglishGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
+import { generateAllLocalesGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
 import type { ExtractedData } from '@/types/game'
 
 const { navigation } = extractedData as ExtractedData
@@ -23,8 +23,26 @@ const { navigation } = extractedData as ExtractedData
 const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '')
 
 export async function getStaticPaths() {
-  // 只生成英文游戏路径，其他语言由Astro i18n自动处理
-  return await generateEnglishGamePaths();
+  // 为所有支持的语言生成游戏路径
+  console.log('🔍 [slug].astro getStaticPaths() called...');
+  const paths = await generateAllLocalesGamePaths();
+  console.log(`📊 Generated ${paths.length} paths`);
+  
+  // Debug: show Chinese paths
+  const chinesePaths = paths.filter(p => p.props.locale === 'zh');
+  console.log(`📊 Chinese paths: ${chinesePaths.length}`);
+  chinesePaths.slice(0, 3).forEach((path, i) => {
+    console.log(`  ${i + 1}. /zh/${path.params.slug}/ → ${path.props.game.id}`);
+  });
+  
+  // Check for ayocs specifically
+  const ayocsPaths = paths.filter(p => p.params.slug === 'ayocs-sprunkr');
+  console.log(`📊 Ayocs paths: ${ayocsPaths.length}`);
+  ayocsPaths.forEach(path => {
+    console.log(`  ${path.props.locale}: /${path.props.locale === 'en' ? '' : path.props.locale + '/'}${path.params.slug}/ → ${path.props.game.id}`);
+  });
+  
+  return paths;
 }
 
 const { game: initialGame, locale } = Astro.props as { 
@@ -38,13 +56,31 @@ const currentLocale = Astro.currentLocale || locale || extractLocaleFromPath(cur
 const slug = Astro.params.slug as string;
 
 //
+console.log(`🔍 Processing ${slug} for locale ${currentLocale}`);
 
 // 加载适当的游戏内容
-const game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
+let game;
+try {
+  game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
+  console.log(`✅ Game loaded: ${game.id} (slug: ${game.data.slug}) for ${currentLocale}`);
+} catch (error) {
+  console.error(`❌ Error loading game content for ${slug} in ${currentLocale}:`, error);
+  game = initialGame;
+}
+
+if (!game) {
+  console.error(`❌ No game found for ${slug} in ${currentLocale}`);
+  // fallback to initialGame or throw error
+  game = initialGame;
+  if (!game) {
+    throw new Error(`Game not found: ${slug} for locale ${currentLocale}`);
+  }
+}
 
 //
 const { Content } = await render(game);
-const gameData = { ...(game.data), slug: game.slug };
+// 使用 frontmatter 中的 slug (game.data.slug) 或 URL 参数中的基础 slug
+const gameData = { ...(game.data), slug: game.data.slug || slug };
 const extendedData = gameData;
 
 // Fetch and prepare related games - 优先显示当前语言的游戏
@@ -57,7 +93,13 @@ const relatedGames = allGames
     }
     // 优先显示当前语言的游戏
     const gameId = g.id.replace(/\.md$/, '');
-    return gameId.startsWith(`${currentLocale}/`);
+    if (currentLocale === 'en') {
+      // 英文游戏: ID不以任何语言代码开头
+      return !['zh', 'es', 'fr', 'de', 'ja', 'ko'].some(lang => gameId.startsWith(`${lang}-`));
+    } else {
+      // 其他语言游戏: ID以语言代码开头
+      return gameId.startsWith(`${currentLocale}-`);
+    }
   })
   .slice(0, 4)
   .map((g: CollectionEntry<'games'>) => ({ slug: g.slug, ...g.data }));

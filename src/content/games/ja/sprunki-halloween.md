@@ -1,5 +1,5 @@
 ---
-slug: sprunki-halloween-ja
+slug: ja-sprunki-halloween
 title: Sprunki Halloween
 description: >-
   Sprunki Halloweenは、ハロウィンの雰囲気の中であなたの音楽的才能を解き放つことができるModです。

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-swapped-horror-fr
+slug: fr-sprunki-swapped-horror
 title: Sprunki Swapped Horror
 description: >-
   Un Mod Incredibox créatif où les personnages échangent leurs rôles : 

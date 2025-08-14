@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed-es
+slug: es-sprunki-pyramixed
 title: Sprunki Pyramixed
 description: >-
   Sprunkgerny Pyramixed 0.9 es un juego innovador de creación musical que rompe

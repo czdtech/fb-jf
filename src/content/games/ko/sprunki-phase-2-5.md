@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-2-5-ko
+slug: ko-sprunki-phase-2-5
 title: 스프런키 페이즈 2.5
 description: >-
   스프런키의 중간 단계를 경험할 수 있는 특별한 버전입니다.

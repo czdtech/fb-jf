@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human-ko
+slug: ko-sprunki-retake-new-human
 title: TITLE
 description: >-
   DESCRIPTION

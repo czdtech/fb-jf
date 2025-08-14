@@ -1,5 +1,5 @@
 ---
-slug: sprunki-dandys-world-fr
+slug: fr-sprunki-dandys-world
 title: Sprunki Dandys World
 description: Sprunki Dandy
 image: /sprunki-dandys-world.png

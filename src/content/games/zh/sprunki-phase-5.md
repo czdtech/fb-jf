@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-5-zh
+slug: zh-sprunki-phase-5
 title: Sprunki Phase 5 - 恐怖音乐创作
 description: >
   Sprunki Phase 5是一款粉丝自制的音乐创作游戏，将节奏创意与恐怖氛围完美融合。体验黑暗沉浸式音乐创作体验！

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-squid-remix-zh
+slug: zh-sprunki-squid-remix
 title: Sprunki 鱿鱼游戏重混
 image: /sprunki-squid-remix.png
 iframe: https://turbowarp.org/1123885023/embed

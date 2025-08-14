@@ -12,6 +12,9 @@ const { navigation } = extractedData;
 // 获取所有游戏
 const allGames = await getCollection('games');
 
+// 只获取英文版本的游戏（因为这是根路径页面）
+const enGames = allGames.filter((game: any) => game.data.slug.endsWith('-en'));
+
 // 定义趋势游戏的 slug 列表（基于原始页面）
 const trendingGameSlugs = [
   'ayocs-sprunkr',
@@ -28,10 +31,11 @@ const trendingGameSlugs = [
   'sprunki-sepbox-steel-factory'
 ];
 
-// 筛选趋势游戏
-const trendingGames = allGames.filter((game: any) =>
-  trendingGameSlugs.includes(game.slug)
-);
+// 筛选趋势游戏，去掉语言后缀进行匹配
+const trendingGames = enGames.filter((game: any) => {
+  const baseSlug = game.data.slug.replace(/-en$/, '');
+  return trendingGameSlugs.includes(baseSlug);
+});
 
 // SEO配置
 const meta = {

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sepbox-steel-factory-ko
+slug: ko-sprunki-sepbox-steel-factory
 title: TITLE
 description: >-
   DESCRIPTION

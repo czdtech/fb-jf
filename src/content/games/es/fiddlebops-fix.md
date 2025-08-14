@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-fix-es
+slug: es-fiddlebops-fix
 title: Fiddlebops Fix
 description: >-
   Fiddlebops Fix es un juego musical creativo donde los jugadores componen

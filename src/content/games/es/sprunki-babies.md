@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies-es
+slug: es-sprunki-babies
 title: Sprunki Babies
 description: >-
   Esta encantadora caja de arena musical te pone a cargo de un grupo de

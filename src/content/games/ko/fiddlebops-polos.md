@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-polos-ko
+slug: ko-fiddlebops-polos
 title: 피들밥스 폴로스
 description: >-
   피들밥스 폴로스는 플레이어들이 트랙을 작곡하고, 인터랙티브 스토리를 

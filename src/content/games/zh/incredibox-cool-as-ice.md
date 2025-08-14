@@ -1,5 +1,5 @@
 ---
-slug: incredibox-cool-as-ice-zh
+slug: zh-incredibox-cool-as-ice
 title: Incredibox Cool As Ice
 description: >-
   Incredibox Cool as Ice Mod是音乐创作爱好者的冰雪奇缘！体验全新冰霜版本，免费在线创作冰爽节奏，让你的音乐作品酷到没朋友！

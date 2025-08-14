@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mustard-zh
+slug: zh-sprunki-mustard
 title: Sprunki Mustard
 description: >-
   在这个 Sprunki Mustard Mod 中，所有角色都被重新塑造以呈现统一的芥末黄色配色方案，为原本充满活力的画面增添了挥之不去的诡异感觉。

@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops-de
+slug: de-sprunkle-bops
 title: Sprunkle Bops
 description: >-
   Sprunkle Bops ist eine von Fans erstellte Erweiterung des beliebten

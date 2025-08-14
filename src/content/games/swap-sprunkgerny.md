@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny-en
+slug: swap-sprunkgerny
 title: Swap Sprunkgerny
 description: >-
   Imagine a group of alien creatures standing in front of you, with exaggerated

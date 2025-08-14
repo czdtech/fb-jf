@@ -1,5 +1,5 @@
 ---
-slug: sprunki-swapped-horror-zh
+slug: zh-sprunki-swapped-horror
 title: Sprunki 交换恐怖
 description: >
   Sprunki 交换恐怖是一个创意的 Incredibox 模组，通过创新的

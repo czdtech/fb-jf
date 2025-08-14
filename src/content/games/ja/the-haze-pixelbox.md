@@ -1,5 +1,5 @@
 ---
-slug: the-haze-pixelbox-ja
+slug: ja-the-haze-pixelbox
 title: The Haze Pixelbox
 description: >-
   経験豊富なミュージシャンでも好奇心旺盛な初心者でも、The Haze Pixelboxは

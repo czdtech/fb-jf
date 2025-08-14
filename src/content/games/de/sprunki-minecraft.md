@@ -1,5 +1,5 @@
 ---
-slug: sprunki-minecraft-de
+slug: de-sprunki-minecraft
 title: Sprunki Minecraft
 description: >-
   Sprunki Minecraft beweist, dass Innovation auch in bekannten

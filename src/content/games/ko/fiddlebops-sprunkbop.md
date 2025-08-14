@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunkbop-ko
+slug: ko-fiddlebops-sprunkbop
 title: 피들밥스 스프렁크밥
 description: >-
   피들밥스 스프렁크밥은 놀라운 크로스오버 이벤트입니다! 피들밥스의 

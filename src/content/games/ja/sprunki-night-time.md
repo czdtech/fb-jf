@@ -1,5 +1,5 @@
 ---
-slug: sprunki-night-time-ja
+slug: ja-sprunki-night-time
 title: Sprunki Night Time
 description: >-
   Sprunki Night Timeは、神秘と未知に満ちた暗い世界へあなたを連れて行き、夜の静寂の中でサイケデリックな音楽の旅を体験させます。Sprunki Night Timeに参加して、あなたの音楽でこの深く神秘的な夜を照らしましょう！

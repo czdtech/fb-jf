@@ -1,5 +1,5 @@
 ---
-slug: sprunki-craft-es
+slug: es-sprunki-craft
 title: Sprunki Craft
 description: >-
   Sprunki Craft es la combinación perfecta de Minecraft e Incredibox,

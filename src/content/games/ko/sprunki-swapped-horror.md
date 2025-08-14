@@ -1,5 +1,5 @@
 ---
-slug: sprunki-swapped-horror-ko
+slug: ko-sprunki-swapped-horror
 title: TITLE
 description: >-
   DESCRIPTION

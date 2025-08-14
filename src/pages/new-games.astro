@@ -12,6 +12,9 @@ const { navigation } = extractedData;
 // 获取所有游戏
 const allGames = await getCollection('games');
 
+// 只获取英文版本的游戏
+const enGames = allGames.filter((game: any) => game.data.slug.endsWith('-en'));
+
 // 定义新游戏的 slug 列表（基于原始页面）
 const newGameSlugs = [
   'pikmin-no-sprunki',
@@ -20,10 +23,11 @@ const newGameSlugs = [
   'sprunki-retake-bonus-characters'
 ];
 
-// 筛选新游戏
-const newGames = allGames.filter((game: any) =>
-  newGameSlugs.includes(game.slug)
-);
+// 筛选新游戏，去掉语言后缀进行匹配
+const newGames = enGames.filter((game: any) => {
+  const baseSlug = game.data.slug.replace(/-en$/, '');
+  return newGameSlugs.includes(baseSlug);
+});
 
 // SEO配置
 const meta = {
@@ -57,7 +61,7 @@ const meta = {
       <div class="all-new-games-section">
         <h2>Recently Added Games</h2>
         <GamesList
-          games={allGames.slice(0, 16)}
+          games={enGames.slice(0, 16)}
           variant="grid"
         />
       </div>

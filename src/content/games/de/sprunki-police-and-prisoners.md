@@ -1,5 +1,5 @@
 ---
-slug: sprunki-police-and-prisoners-de
+slug: de-sprunki-police-and-prisoners
 title: Sprunki Police And Prisoners
 description: >-
   Sprunki Police and Prisoners Mod ist eine fesselnde und innovative

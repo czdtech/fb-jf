@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mod-BFDI-ja
+slug: ja-sprunki-mod-BFDI
 title: Sprunki Mod BFDI
 description: >-
   Sprunki Mod BFDI（Sprunki Battle for Dream Islandとも呼ばれる）は、Battle for Dream Island（BFDI）の幻想的でオブジェクトテーマの美学を統合することで、クラシックなIncredibox Sprunkiゲームプレイを再構想しています。

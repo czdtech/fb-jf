@@ -1,5 +1,5 @@
 ---
-slug: mountayonnaise-ja
+slug: ja-mountayonnaise
 title: Mountayonnaise
 description: >-
   Sprunki Mountayonnaiseは、追加される音響効果に基づいて異なる動物キャラクターが登場する驚くほど楽しいSprunkiの改造ゲームです。高いリプレイ価値を誇ります！

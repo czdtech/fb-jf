@@ -23,30 +23,73 @@ const { games, title, variant = 'grid' } = Astro.props;
 
 {variant === 'grid' && (
   <div class="grid gap-4 md:gap-5 lg:gap-6 xl:gap-8 grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
-    {games.map((game) => (
-      <GameCard game={{ id: game.slug, slug: game.slug, iframe: '', meta: { title: game.data.title, description: game.data.description, canonical: `/${game.slug}/`, ogImage: game.data.image }, category: game.data.category || 'popular', title: game.data.title, description: game.data.description, image: game.data.image }} variant="grid" />
-    ))}
+    {games.map((game) => {
+      // 从 slug 中去除语言后缀，添加安全检查
+      const gameSlug = game.slug || game.data?.slug || '';
+      const baseSlug = gameSlug.replace(/-[a-z]{2}$/, '');
+      return (
+        <GameCard game={{ 
+          id: baseSlug, 
+          slug: baseSlug, 
+          iframe: game.data.iframe || '', 
+          meta: { 
+            title: game.data.title, 
+            description: game.data.description, 
+            canonical: `/${baseSlug}/`, 
+            ogImage: game.data.image 
+          }, 
+          category: game.data.category || 'popular', 
+          title: game.data.title, 
+          description: game.data.description, 
+          image: game.data.image 
+        }} variant="grid" />
+      )
+    })}
   </div>
 )}
 
 {variant === 'list' && (
   <div class="grid gap-4 md:gap-5 lg:gap-6 xl:gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
-    {games.map((game) => (
-      <GameCard game={{ id: game.slug, slug: game.slug, iframe: '', meta: { title: game.data.title, description: game.data.description, canonical: `/${game.slug}/`, ogImage: game.data.image }, category: game.data.category || 'popular', title: game.data.title, description: game.data.description, image: game.data.image }} variant="grid" />
-    ))}
+    {games.map((game) => {
+      // 从 slug 中去除语言后缀，添加安全检查
+      const gameSlug = game.slug || game.data?.slug || '';
+      const baseSlug = gameSlug.replace(/-[a-z]{2}$/, '');
+      return (
+        <GameCard game={{ 
+          id: baseSlug, 
+          slug: baseSlug, 
+          iframe: game.data.iframe || '', 
+          meta: { 
+            title: game.data.title, 
+            description: game.data.description, 
+            canonical: `/${baseSlug}/`, 
+            ogImage: game.data.image 
+          }, 
+          category: game.data.category || 'popular', 
+          title: game.data.title, 
+          description: game.data.description, 
+          image: game.data.image 
+        }} variant="grid" />
+      )
+    })}
   </div>
 )}
 
 {variant === 'simple' && (
   <ul class="games-simple-list">
-    {games.map((game) => (
-      <li>
-        <a href={`/${game.slug}/`} title={game.data.title}>
-          <ResponsivePicture src={game.data.image} alt={game.data.title} width={60} height={60} decoding="async" loading="lazy" class="rounded-md" />
-          <div class="title min-h-[44px] flex items-center">{game.data.title}</div>
-        </a>
-      </li>
-    ))}
+    {games.map((game) => {
+      // 从 slug 中去除语言后缀，添加安全检查
+      const gameSlug = game.slug || game.data?.slug || '';
+      const baseSlug = gameSlug.replace(/-[a-z]{2}$/, '');
+      return (
+        <li>
+          <a href={`/${baseSlug}/`} title={game.data.title}>
+            <ResponsivePicture src={game.data.image} alt={game.data.title} width={60} height={60} decoding="async" loading="lazy" class="rounded-md" />
+            <div class="title min-h-[44px] flex items-center">{game.data.title}</div>
+          </a>
+        </li>
+      )
+    })}
   </ul>
 )}
 

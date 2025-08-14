@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8-es
+slug: es-sprunki-phase-8
 title: Sprunki Phase 8
 description: >-
   Sprunki Phase 8 es un experimento audaz que casa exitosamente la creación

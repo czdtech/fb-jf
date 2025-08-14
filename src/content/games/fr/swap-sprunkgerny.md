@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny-fr
+slug: fr-swap-sprunkgerny
 title: Swap Sprunkgerny
 description: >-
   Prenez la baguette d’un chef d’orchestre extraterrestre : 20 personnages 

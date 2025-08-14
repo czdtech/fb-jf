@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunki-ko
+slug: ko-fiddlebops-sprunki
 title: 피들밥스 스프렁키
 description: >-
   피들밥스 스프렁키는 오리지널 스프렁키 게임에 즐거운 트위스트를 

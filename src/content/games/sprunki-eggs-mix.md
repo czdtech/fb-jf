@@ -1,5 +1,5 @@
 ---
-slug: sprunki-eggs-mix-en
+slug: sprunki-eggs-mix
 title: Sprunki Eggs Mix
 description: >-
   Sprunki Egg's Mix is a visually stunning, intellectually stimulating puzzle

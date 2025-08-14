@@ -1,5 +1,5 @@
 ---
-slug: sprunkr-but-sprunki-ja
+slug: ja-sprunkr-but-sprunki
 title: Sprunkr But Sprunki
 description: >-
   Sprunkr But Sprunki Modは、元のSprunkr Modに創造的なひねりを加えたもので、

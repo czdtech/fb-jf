@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny-es
+slug: es-swap-sprunkgerny
 title: Swap Sprunkgerny
 description: >-
   Imagina un grupo de criaturas alienígenas paradas frente a ti, con ojos

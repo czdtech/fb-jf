@@ -1,5 +1,5 @@
 ---
-slug: pikmin-no-sprunki-ja
+slug: ja-pikmin-no-sprunki
 title: Pikmin No Sprunki
 description: Pikmin No Sprunkiは単なるゲーム以上の存在です。
 image: /pikmin-no-sprunki.png

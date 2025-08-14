@@ -1,5 +1,5 @@
 ---
-slug: sprunki-parasite-parasprunki-15-fr
+slug: fr-sprunki-parasite-parasprunki-15
 title: Sprunki Parasite Parasprunki 15
 description: >-
   Préparez-vous pour Sprunki Parasite ParaSprunki 15 ! Ce n'est pas le Sprunki

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-good-night-fr
+slug: fr-sprunki-good-night
 title: Sprunki Good Night
 description: >-
   Sprunki Good Night est un Mod qui vous permet de complètement détendre votre

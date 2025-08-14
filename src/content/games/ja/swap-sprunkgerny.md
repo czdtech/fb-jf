@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny-ja
+slug: ja-swap-sprunkgerny
 title: Swap Sprunkgerny
 description: >-
   目の前に異星生物のグループが立っている様子を想像してみてください。誇張された目と

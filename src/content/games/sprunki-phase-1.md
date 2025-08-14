@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-1-en
+slug: sprunki-phase-1
 title: Sprunki Phase 1
 description: >-
   Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It

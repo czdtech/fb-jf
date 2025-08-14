@@ -1,5 +1,5 @@
 ---
-slug: sprunki-eggs-mix-de
+slug: de-sprunki-eggs-mix
 title: Sprunki Eggs Mix
 description: >
   Sprunki Eggs Mix ist eine Oster-thematische Variante von Sprunki mit

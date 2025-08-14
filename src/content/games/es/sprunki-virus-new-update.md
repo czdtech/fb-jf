@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update-es
+slug: es-sprunki-virus-new-update
 title: Sprunki Virus New Update
 description: >-
   ¿Anhelas un viaje musical que desafíe los límites de tus sentidos? Sprunki

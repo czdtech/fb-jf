@@ -1,5 +1,5 @@
 ---
-slug: incredibox-donki-abgerny-ko
+slug: ko-incredibox-donki-abgerny
 title: 인크레디박스 돈키 애브거니
 description: >-
   인크레디박스 돈키 애브거니는 깊은 부족 리듬, 독특한 디지리두, 

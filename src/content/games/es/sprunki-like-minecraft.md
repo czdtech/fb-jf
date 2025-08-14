@@ -1,5 +1,5 @@
 ---
-slug: sprunki-like-minecraft-es
+slug: es-sprunki-like-minecraft
 title: Sprunki Like Minecraft
 description: >-
   ¿Eres tanto un fanático leal de Incredibox Sprunki como un amante apasionado del

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mustard-ja
+slug: ja-sprunki-mustard
 title: Sprunki Mustard
 description: >-
   このSprunki Mustard Modでは、すべてのキャラクターが統一されたマスタードイエローのカラースキームを提示するよう再形成されており、元の鮮やかな絵に印象的な不気味な感覚を追加しています。

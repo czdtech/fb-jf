@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunki-zh
+slug: zh-fiddlebops-sprunki
 title: Fiddlebops Sprunki
 description: >
   Fiddlebops Sprunki 通过添加一个令人愉悦的转折，为原本的 Sprunki 游戏注入了新的生命力。它为玩家提供了一个享受更加奇幻、压力更少的游戏体验的机会。

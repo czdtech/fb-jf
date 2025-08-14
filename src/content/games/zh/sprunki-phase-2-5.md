@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-2-5-zh
+slug: zh-sprunki-phase-2-5
 title: Sprunki Phase 2.5 - 搞怪音乐冒险
 description: >-
   Sprunki Phase 2.5 (JOKE MOD)不只是游戏，而是充满惊喜和转折的音乐冒险。它完美平衡了轻松有趣和意想不到的黑色幽默，在你创作时给你独一无二的刺激体验。

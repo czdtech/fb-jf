@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-dandys-world-zh
+slug: zh-fiddlebops-but-dandys-world
 title: Fiddlebops But Dandys World
 description: >-
   Fiddlebops But Dandys World 不仅仅是一个游戏；它是一场充满惊喜的音乐之旅。你准备好加入这个奇幻冒险了吗？

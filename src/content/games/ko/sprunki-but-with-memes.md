@@ -1,5 +1,5 @@
 ---
-slug: sprunki-but-with-memes-ko
+slug: ko-sprunki-but-with-memes
 title: 스프런키 밈 버전
 description: >-
   스프런키 밈 버전은 밈의 바다에서 원하는 만큼 창작할 수 있게 해주는 

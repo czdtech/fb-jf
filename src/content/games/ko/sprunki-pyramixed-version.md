@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed-version-ko
+slug: ko-sprunki-pyramixed-version
 title: TITLE
 description: >-
   DESCRIPTION

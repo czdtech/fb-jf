@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-sprunki-fr
+slug: fr-fiddlebops-but-sprunki
 title: Fiddlebops But Sprunki
 description: >-
   FiddleBops but Sprunki est un événement de crossover génial ! Il garde le

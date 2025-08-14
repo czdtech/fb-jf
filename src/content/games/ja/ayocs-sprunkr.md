@@ -1,5 +1,5 @@
 ---
-slug: ayocs-sprunkr-ja
+slug: ja-ayocs-sprunkr
 title: Ayocs Sprunkr
 description: >-
   AYOCS Sprunkrをチェックしてみてください！このModはSprunkiユニバースに

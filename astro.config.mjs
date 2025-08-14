@@ -18,17 +18,17 @@ export default defineConfig({
     defaultLocale: "en",
     locales: ["en", "zh", "es", "fr", "de", "ja", "ko"],
     routing: {
-      prefixDefaultLocale: false, // 英文保持根路径，移除 redirectToDefaultLocale
+      prefixDefaultLocale: false, // 英文保持根路径
     },
-    // 统一回退配置：所有非英文语言回退到英文
-    fallback: {
-      zh: "en",
-      es: "en",
-      fr: "en",
-      de: "en",
-      ja: "en",
-      ko: "en",
-    },
+    // 暂时禁用自动fallback，让我们的代码处理内容fallback
+    // fallback: {
+    //   zh: "en",
+    //   es: "en", 
+    //   fr: "en",
+    //   de: "en",
+    //   ja: "en",
+    //   ko: "en",
+    // },
   },
   integrations: [
     tailwind({ applyBaseStyles: false }), // Disable base styles to use shadcn/ui styles

@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunki-fr
+slug: fr-fiddlebops-sprunki
 title: Fiddlebops Sprunki
 description: >-
   Le Fiddlebops Sprunki donne une nouvelle vie au jeu Sprunki original en

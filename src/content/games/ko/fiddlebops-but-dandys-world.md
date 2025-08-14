@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-dandys-world-ko
+slug: ko-fiddlebops-but-dandys-world
 title: 피들밥스 벗 댄디 월드
 description: >-
   피들밥스 벗 댄디 월드는 단순한 게임이 아닙니다; 놀라움으로 가득한 

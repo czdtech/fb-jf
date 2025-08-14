@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprunksters-ko
+slug: ko-incredibox-sprunksters
 title: 인크레디박스 스프렁크스터스
 description: >-
   똑같은 오래된 사운드에 작별을 고하세요! 인크레디박스 스프렁크스터스는 새로운 샘플과 효과를 

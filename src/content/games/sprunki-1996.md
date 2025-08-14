@@ -1,5 +1,5 @@
 ---
-slug: sprunki-1996-en
+slug: sprunki-1996
 title: Sprunki 1996
 description: >-
   Sprunki 1996 is a music game brimming with creativity and nostalgia. It uses a

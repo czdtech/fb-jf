@@ -1,5 +1,5 @@
 ---
-slug: yojou-sprunki-mustard-ko
+slug: ko-yojou-sprunki-mustard
 title: TITLE
 description: >-
   DESCRIPTION

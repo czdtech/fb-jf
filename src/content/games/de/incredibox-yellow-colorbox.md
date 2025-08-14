@@ -1,5 +1,5 @@
 ---
-slug: incredibox-yellow-colorbox-de
+slug: de-incredibox-yellow-colorbox
 title: Incredibox Yellow Colorbox
 description: >
   Incredibox Yellow Colorbox ist ein von Fans erstelltes Incredibox Mod-Musikspiel.

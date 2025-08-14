@@ -1,5 +1,5 @@
 ---
-slug: sprunki-maker-ko
+slug: ko-sprunki-maker
 title: 스프런키 메이커
 description: >-
   나만의 스프런키 캐릭터와 음악을 만들 수 있는 게임입니다.

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update-ko
+slug: ko-sprunki-virus-new-update
 title: TITLE
 description: >-
   DESCRIPTION

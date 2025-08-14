@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprunksters-fr
+slug: fr-incredibox-sprunksters
 title: Incredibox Sprunksters
 description: >-
   Fini les mêmes vieux sons ! Incredibox Sprunksters apporte de nouveaux

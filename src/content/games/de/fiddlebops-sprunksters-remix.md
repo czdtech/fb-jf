@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunksters-remix-de
+slug: de-fiddlebops-sprunksters-remix
 title: Fiddlebops Sprunksters Remix
 description: >-
   Fiddlebops Sprunksters ist eine herausragende Mod, die Kreativität, Rhythmus

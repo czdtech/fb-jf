@@ -33,6 +33,9 @@ const defaultFAQItems = [
 ];
 
 const faqItems = ui?.faq?.items || defaultFAQItems;
+
+// 确保faqItems是数组类型
+const safeFaqItems = Array.isArray(faqItems) ? faqItems : defaultFAQItems;
 ---
 
 <section class="faq-section scroll-animate">
@@ -47,7 +50,7 @@ const faqItems = ui?.faq?.items || defaultFAQItems;
     </div>
 
     <div class="faq-grid">
-      {faqItems.map((item: any) => (
+      {safeFaqItems.map((item: any) => (
         <div class="faq-item glass scroll-animate">
           <h3 class="faq-question">{item.question}</h3>
           <p class="faq-answer">

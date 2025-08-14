@@ -1,5 +1,5 @@
 ---
-slug: sprunki-red-sun-ja
+slug: ja-sprunki-red-sun
 title: Sprunki Red Sun
 description: >-
   Sprunki Red Sun Modは、馴染みのあるSprunkiユニバースを劇的で燃えるような領域に

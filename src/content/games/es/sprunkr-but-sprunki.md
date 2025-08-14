@@ -1,5 +1,5 @@
 ---
-slug: sprunkr-but-sprunki-es
+slug: es-sprunkr-but-sprunki
 title: Sprunkr But Sprunki
 description: >-
   Sprunkr But Sprunki Mod es un giro creativo en el mod original Sprunkr,

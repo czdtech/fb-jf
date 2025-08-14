@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-1-ko
+slug: ko-sprunki-phase-1
 title: 스프런키 페이즈 1
 description: >-
   스프런키 페이즈 1은 놀라운 스프런키 우주로 들어가는 완벽한 관문입니다. 

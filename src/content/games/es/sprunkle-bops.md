@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops-es
+slug: es-sprunkle-bops
 title: Sprunkle Bops
 description: >-
   Sprunkle Bops es una expansión hecha por fanáticos del popular juego de mezcla

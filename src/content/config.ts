@@ -2,7 +2,10 @@ import { z, defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 
 const gamesCollection = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/games" }),
+  loader: glob({ 
+    pattern: ["*.md", "**/*.md"], 
+    base: "./src/content/games" 
+  }),
   schema: z
     .object({
       id: z.string().optional(), // 多语言版本可能不需要重新定义id
@@ -53,14 +56,72 @@ const gamesCollection = defineCollection({
     .passthrough(),
 });
 
-// 多语言首页内容（使用 Markdown 管理 about 内容，避免 set:html）
-const i18nHomeCollection = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/i18nHome" }),
+// i18nHome collection 已移除 - 现在使用 i18nUI 进行统一的UI翻译管理
+
+// 静态数据内容集合
+const staticDataCollection = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/staticData" }),
   schema: z.object({
-    lang: z.string(),
-    title: z.string(),
-    description: z.string(),
-  }),
+    navigation: z.object({
+      main: z.array(z.object({
+        label: z.string(),
+        url: z.string()
+      })),
+      languages: z.array(z.object({
+        code: z.string(),
+        url: z.string(),
+        label: z.string()
+      }))
+    }),
+    homepage: z.object({
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        keywords: z.string(),
+        canonical: z.string().optional(),
+        ogImage: z.string().optional()
+      }),
+      hero: z.object({
+        title: z.string(),
+        description: z.string(),
+        mainGame: z.object({
+          iframe: z.string(),
+          backgroundImage: z.string()
+        }).optional()
+      }),
+      soundSamples: z.array(z.object({
+        title: z.string(),
+        image: z.string(),
+        audio: z.string(),
+        category: z.string()
+      })),
+      videos: z.array(z.object({
+        name: z.string(),
+        description: z.string(),
+        thumbnailUrl: z.string(),
+        uploadDate: z.string(),
+        embedUrl: z.string(),
+        contentUrl: z.string(),
+        publisher: z.string()
+      })).optional()
+    }),
+    seoTemplates: z.object({
+      gamePage: z.object({
+        titleTemplate: z.string(),
+        descriptionTemplate: z.string(),
+        ogImageTemplate: z.string(),
+        canonicalTemplate: z.string(),
+        structuredData: z.object({
+          "@context": z.string(),
+          "@type": z.string(),
+          name: z.string(),
+          alternateName: z.string(),
+          url: z.string(),
+          description: z.string()
+        })
+      })
+    }).optional()
+  })
 });
 
 // UI界面翻译内容集合
@@ -339,6 +400,6 @@ const i18nUICollection = defineCollection({
 
 export const collections = {
   games: gamesCollection,
-  i18nHome: i18nHomeCollection,
   i18nUI: i18nUICollection,
+  staticData: staticDataCollection,
 };

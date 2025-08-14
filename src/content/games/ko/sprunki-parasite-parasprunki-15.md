@@ -1,5 +1,5 @@
 ---
-slug: sprunki-parasite-parasprunki-15-ko
+slug: ko-sprunki-parasite-parasprunki-15
 title: TITLE
 description: >-
   DESCRIPTION

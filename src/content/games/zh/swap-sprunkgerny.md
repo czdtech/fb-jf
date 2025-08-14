@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny-zh
+slug: zh-swap-sprunkgerny
 title: 互换 Sprunkgerny
 description: >-
   想象一群外星生物站在你面前，有着夸张的眼睛和古怪的个性，

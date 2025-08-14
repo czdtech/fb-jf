@@ -1,5 +1,5 @@
 ---
-slug: sprunki-christmas-ja
+slug: ja-sprunki-christmas
 title: Sprunki Christmas
 description: >-
   Sprunki Christmasは、お祭りの雰囲気の中でゲームの楽しさを存分に味わうことができるModです。

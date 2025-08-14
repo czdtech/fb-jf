@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human-zh
+slug: zh-sprunki-retake-new-human
 title: Sprunki 重制版新人类
 description: >-
   Sprunki 重制版新人类的核心是通过全新的人形角色设计重新诠释经典的

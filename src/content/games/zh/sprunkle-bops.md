@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops-zh
+slug: zh-sprunkle-bops
 title: Sprunkle Bops
 description: >-
   Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝制作扩展，

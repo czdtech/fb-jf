@@ -1,5 +1,5 @@
 ---
-slug: sprunki-play-random-ko
+slug: ko-sprunki-play-random
 title: TITLE
 description: >-
   DESCRIPTION

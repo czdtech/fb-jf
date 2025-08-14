@@ -1,5 +1,5 @@
 ---
-slug: sprunki-eggs-mix-ko
+slug: ko-sprunki-eggs-mix
 title: 스프런키 에그 믹스
 description: >-
   스프런키 에그 믹스는 독특한 음악 창작 경험을 제공하는 게임입니다.

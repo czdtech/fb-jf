@@ -1,5 +1,5 @@
 ---
-slug: sprunki-abgerny-es
+slug: es-sprunki-abgerny
 title: Sprunki Abgerny
 description: >-
   Sprunki Abgerny no es solo un juego de música regular, es un tributo a las

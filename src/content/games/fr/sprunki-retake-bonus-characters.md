@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-bonus-characters-fr
+slug: fr-sprunki-retake-bonus-characters
 title: "Sprunki Retake - Personnages bonus"
 description: >-
   Sprunki Retake - Personnages bonus n’est pas un simple jeu musical ;

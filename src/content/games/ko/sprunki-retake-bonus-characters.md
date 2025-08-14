@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-bonus-characters-ko
+slug: ko-sprunki-retake-bonus-characters
 title: TITLE
 description: >-
   DESCRIPTION

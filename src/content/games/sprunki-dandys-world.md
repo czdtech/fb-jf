@@ -1,5 +1,5 @@
 ---
-slug: sprunki-dandys-world-en
+slug: sprunki-dandys-world
 title: Sprunki Dandys World
 description: >-
   Sprunki Dandy's World is a unique game that combines music, art, and

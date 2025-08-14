@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-sprunki-ko
+slug: ko-fiddlebops-but-sprunki
 title: 피들밥스 벗 스프렁키
 description: >-
   피들밥스 벗 스프렁키는 놀라운 크로스오버 이벤트입니다! 피들밥스의 

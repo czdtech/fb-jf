@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprunksters-de
+slug: de-incredibox-sprunksters
 title: Incredibox Sprunksters
 description: >
   Verabschiede dich von den immer gleichen Klängen! Incredibox Sprunksters

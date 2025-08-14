@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sonic-zh
+slug: zh-sprunki-sonic
 title: Sprunki Sonic
 description: >
   无论你是节奏游戏爱好者还是 Sonic 系列的忠实粉丝，

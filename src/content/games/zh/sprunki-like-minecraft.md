@@ -1,5 +1,5 @@
 ---
-slug: sprunki-like-minecraft-zh
+slug: zh-sprunki-like-minecraft
 title: Sprunki Like Minecraft
 description: >-
   你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的热情爱好者吗？那么 Sprunki Like Minecraft Mod 一定会让你眼前一亮！

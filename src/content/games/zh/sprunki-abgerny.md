@@ -1,5 +1,5 @@
 ---
-slug: sprunki-abgerny-zh
+slug: zh-sprunki-abgerny
 title: Sprunki Abgerny
 description: >-
   Sprunki Abgerny 不仅仅是一个普通的音乐游戏，它是对古代文化的致敬，也是对音乐无限可能性的探索。在这里，你不仅可以创作音乐，还能感受到文化的传承与融合。

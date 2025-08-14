@@ -1,5 +1,5 @@
 ---
-slug: sprunki-night-time-ko
+slug: ko-sprunki-night-time
 title: 스프런키 나이트타임
 description: >-
   밤의 분위기로 가득한 스프런키 게임입니다.

@@ -17,6 +17,11 @@ const { ui } = await getTranslation(currentLocale);
 // 获取所有游戏
 const allGames = await getCollection('games');
 
+// 只获取当前语言的游戏
+const currentLangGames = allGames.filter((game: any) => 
+  game.data.slug.endsWith(`-${currentLocale}`)
+);
+
 // 定义流行游戏的 slug 列表（基于原始页面）
 const popularGameSlugs = [
   'sprunki-red-sun',
@@ -24,10 +29,11 @@ const popularGameSlugs = [
   'sprunki-sonic'
 ];
 
-// 筛选流行游戏
-const popularGames = allGames.filter((game: any) =>
-  popularGameSlugs.includes(game.slug)
-);
+// 筛选流行游戏，去掉语言后缀进行匹配
+const popularGames = currentLangGames.filter((game: any) => {
+  const baseSlug = game.data.slug.replace(/-[a-z]{2}$/, '');
+  return popularGameSlugs.includes(baseSlug);
+});
 
 // 添加 fiddlebops 主游戏
 const fiddlebopsGame = {

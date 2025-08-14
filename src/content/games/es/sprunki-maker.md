@@ -1,5 +1,5 @@
 ---
-slug: sprunki-maker-es
+slug: es-sprunki-maker
 title: Sprunki Maker
 description: >-
   ¿Quieres tener un personaje Sprunki único? ¡Ahora es tu oportunidad! Sprunki

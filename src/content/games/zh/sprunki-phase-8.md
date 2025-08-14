@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8-zh
+slug: zh-sprunki-phase-8
 title: Sprunki Phase 8 - 恐怖音乐新体验
 description: >
   Sprunki Phase 8是一个大胆的实验，成功将音乐创作与恐怖美学结合。它提供了一个充满神秘和创意的平台，让你在探索黑暗一面的同时享受音乐乐趣。

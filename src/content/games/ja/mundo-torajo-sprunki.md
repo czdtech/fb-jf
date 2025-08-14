@@ -1,5 +1,5 @@
 ---
-slug: mundo-torajo-sprunki-ja
+slug: ja-mundo-torajo-sprunki
 title: Mundo Torajo Sprunki
 description: >-
   このユニークなModは、Mundo Torajoの幻想的な世界とSprunkiプラットフォームのリズミカルで創造的な楽しさを巧みに融合させ、プレイしながら無限の創造性を発揮できるゲームです。

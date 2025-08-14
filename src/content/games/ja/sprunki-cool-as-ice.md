@@ -1,5 +1,5 @@
 ---
-slug: sprunki-cool-as-ice-ja
+slug: ja-sprunki-cool-as-ice
 title: Sprunki Cool As Ice
 description: >-
   Sprunki: Cool As Iceは、Incrediboxファミリーにおける重要な革新で、ユニークな冬のテーマを通じて音楽創作に新しい視点をもたらします。

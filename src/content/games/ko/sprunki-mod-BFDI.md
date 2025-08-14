@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mod-BFDI-ko
+slug: ko-sprunki-mod-BFDI
 title: TITLE
 description: >-
   DESCRIPTION

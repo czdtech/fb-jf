@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-polos-ja
+slug: ja-fiddlebops-polos
 title: Fiddlebops Polos
 description: >-
   Fiddlebops Polosは、プレイヤーがトラックを作曲し、インタラクティブなストーリーを探求し、

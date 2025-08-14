@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-fix-fr
+slug: fr-fiddlebops-fix
 title: Fiddlebops Fix
 description: >-
   Fiddlebops Fix est un jeu de musique créatif où les joueurs composent des

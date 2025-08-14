@@ -1,5 +1,5 @@
 ---
-slug: sprunki-halloween-zh
+slug: zh-sprunki-halloween
 title: Sprunki Halloween - 万圣节惊悚音乐
 description: >-
   Sprunki Halloween是一个让你在万圣节氛围中释放音乐才华的MOD。快来加入Sprunki Halloween，用惊悚有趣的音符迎接万圣节的到来！

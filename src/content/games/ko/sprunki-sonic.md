@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sonic-ko
+slug: ko-sprunki-sonic
 title: 스프런키 소닉
 description: >-
   소닉 더 헤지혹과 만나는 스프런키 게임입니다.

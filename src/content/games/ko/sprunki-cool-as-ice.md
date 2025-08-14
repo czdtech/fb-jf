@@ -1,5 +1,5 @@
 ---
-slug: sprunki-cool-as-ice-ko
+slug: ko-sprunki-cool-as-ice
 title: 스프런키 쿨 애즈 아이스
 description: >-
   스프런키: 쿨 애즈 아이스는 인크레디박스 패밀리의 주요 혁신이며, 

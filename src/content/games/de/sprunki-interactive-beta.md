@@ -1,5 +1,5 @@
 ---
-slug: sprunki-interactive-beta-de
+slug: de-sprunki-interactive-beta
 title: Sprunki Interactive Beta
 description: >
   Sprunki Interactive Beta ist eine experimentelle Version mit erweiterten

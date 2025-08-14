@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-5-ja
+slug: ja-sprunki-phase-5
 title: Sprunki Phase 5
 description: >-
   Sprunki Phase 5は、リズムベースの創造性と不気味で雰囲気のあるひねりを融合したファン制作の音楽制作ゲームです。

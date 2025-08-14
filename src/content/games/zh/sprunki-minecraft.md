@@ -1,5 +1,5 @@
 ---
-slug: sprunki-minecraft-zh
+slug: zh-sprunki-minecraft
 title: Sprunki Minecraft
 description: >-
   Sprunki Minecraft 证明创新仍然可以在熟悉的玩法循环中蓬勃发展。如果你

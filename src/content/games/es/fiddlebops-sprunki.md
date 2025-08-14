@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunki-es
+slug: es-fiddlebops-sprunki
 title: Fiddlebops Sprunki
 description: >-
   El Fiddlebops Sprunki da nueva vida al juego original Sprunki al agregar un

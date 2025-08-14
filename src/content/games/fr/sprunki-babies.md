@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies-fr
+slug: fr-sprunki-babies
 title: Sprunki Babies
 description: >-
   Ce charmant bac à sable musical vous met en charge d'une équipe d'adorables

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-police-and-prisoners-zh
+slug: zh-sprunki-police-and-prisoners
 title: Sprunki Police And Prisoners
 description: >-
   Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的引人入胜且创新的改编。

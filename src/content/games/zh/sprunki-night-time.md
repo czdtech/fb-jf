@@ -1,5 +1,5 @@
 ---
-slug: sprunki-night-time-zh
+slug: zh-sprunki-night-time
 title: Sprunki Night Time
 description: >-
   Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验迷幻的音乐之旅。来加入 Sprunki Night Time，用你的音乐点亮这深邃神秘的夜晚！

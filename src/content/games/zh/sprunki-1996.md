@@ -1,5 +1,5 @@
 ---
-slug: sprunki-1996-zh
+slug: zh-sprunki-1996
 title: Sprunki 1996
 description: >
   Sprunki 1996 带你回到音乐游戏的黄金时代！体验复古的视觉效果和怀旧的音效，重温90年代的经典音乐制作乐趣。

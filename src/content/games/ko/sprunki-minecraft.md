@@ -1,5 +1,5 @@
 ---
-slug: sprunki-minecraft-ko
+slug: ko-sprunki-minecraft
 title: 스프런키 마인크래프트
 description: >-
   마인크래프트 테마의 스프런키 음악 게임입니다.

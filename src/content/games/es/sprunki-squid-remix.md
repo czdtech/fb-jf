@@ -1,5 +1,5 @@
 ---
-slug: sprunki-squid-remix-es
+slug: es-sprunki-squid-remix
 title: Sprunki Squid Remix
 description: >-
   Sprunki Squid ofrece una experiencia verdaderamente única y emocionante.

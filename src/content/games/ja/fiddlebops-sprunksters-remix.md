@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunksters-remix-ja
+slug: ja-fiddlebops-sprunksters-remix
 title: Fiddlebops Sprunksters Remix
 description: >
   Fiddlebops Sprunksters は、創造性、リズム、視覚的な魅力を完璧に融合させた優れたModです。

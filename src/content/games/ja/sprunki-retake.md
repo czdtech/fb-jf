@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-ja
+slug: ja-sprunki-retake
 title: Sprunki Retake
 description: >-
   リズムゲームが好きで、ホラー要素に傾倒があるなら、Sprunki Retakeは間違いなくあなたを夢中にさせます！

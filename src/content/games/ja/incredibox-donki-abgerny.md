@@ -1,5 +1,5 @@
 ---
-slug: incredibox-donki-abgerny-ja
+slug: ja-incredibox-donki-abgerny
 title: Incredibox Donki Abgerny
 description: >
   Incredibox Donki Abgernyは、深い部族のリズム、独特なディジュリドゥ、

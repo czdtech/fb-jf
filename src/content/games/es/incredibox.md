@@ -1,5 +1,5 @@
 ---
-slug: incredibox-es
+slug: es-incredibox
 title: Incredibox
 description: >-
   ¿Quieres crear tu propia canción exitosa exclusiva con un grupo de beatboxers

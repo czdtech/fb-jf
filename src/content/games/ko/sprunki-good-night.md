@@ -1,5 +1,5 @@
 ---
-slug: sprunki-good-night-ko
+slug: ko-sprunki-good-night
 title: 스프런키 굿나이트
 description: >-
   스프런키 굿나이트는 평온한 음악적 분위기를 제공하는 게임입니다.

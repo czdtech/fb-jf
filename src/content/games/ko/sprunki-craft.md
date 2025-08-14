@@ -1,5 +1,5 @@
 ---
-slug: sprunki-craft-ko
+slug: ko-sprunki-craft
 title: 스프런키 크래프트
 description: >-
   스프런키 크래프트는 마인크래프트와 인크레디박스의 완벽한 조합으로, 

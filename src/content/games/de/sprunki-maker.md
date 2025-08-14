@@ -1,5 +1,5 @@
 ---
-slug: sprunki-maker-de
+slug: de-sprunki-maker
 title: Sprunki Maker
 description: >
   Sprunki Maker ist ein erweiterte Musikkreations-Tool, das Spielern ermöglicht,

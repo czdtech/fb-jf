@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprunksters-ja
+slug: ja-incredibox-sprunksters
 title: Incredibox Sprunksters
 description: >-
   いつものサウンドにさよならを！Incredibox Sprunksters は新しいサンプルと

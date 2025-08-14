@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-2-5-en
+slug: sprunki-phase-2-5
 title: Sprunki Phase 2 5
 description: >-
   Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure

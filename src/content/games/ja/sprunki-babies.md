@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies-ja
+slug: ja-sprunki-babies
 title: Sprunki Babies
 description: >-
   この魅力的な音楽サンドボックスでは、愛らしいベビーSprunkiキャラクターたちのクルーを指揮し、それぞれがあなたの作品に独自の音楽的声を貸してくれます。

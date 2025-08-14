@@ -1,5 +1,5 @@
 ---
-slug: incredibox-ko
+slug: ko-incredibox
 title: 인크레디박스
 description: >-
   기발한 비트박서들과 함께 나만의 독점 히트곡을 만들고 싶나요?

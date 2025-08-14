@@ -1,5 +1,5 @@
 ---
-slug: mundo-torajo-sprunki-zh
+slug: zh-mundo-torajo-sprunki
 title: Mundo Torajo Sprunki
 description: >-
   这个独特的模组巧妙地将 Mundo Torajo 的奇幻世界与 Sprunki 平台的节奏创作乐趣相结合，让你在游戏中释放无限创意。

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-christmas-ko
+slug: ko-sprunki-christmas
 title: 스프런키 크리스마스
 description: >
   스프런키 크리스마스는 축제 분위기 속에서 게임의 재미를 

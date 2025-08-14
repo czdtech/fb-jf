@@ -1,5 +1,5 @@
 ---
-slug: sprunki-meets-the-cat-spell-ko
+slug: ko-sprunki-meets-the-cat-spell
 title: TITLE
 description: >-
   DESCRIPTION

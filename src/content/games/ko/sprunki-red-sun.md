@@ -1,5 +1,5 @@
 ---
-slug: sprunki-red-sun-ko
+slug: ko-sprunki-red-sun
 title: TITLE
 description: >-
   DESCRIPTION

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update-zh
+slug: zh-sprunki-virus-new-update
 title: Sprunki 病毒新更新
 description: >-
   你渴望一个挑战感官极限的音乐之旅吗？

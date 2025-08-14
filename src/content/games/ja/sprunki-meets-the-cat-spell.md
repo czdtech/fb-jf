@@ -1,5 +1,5 @@
 ---
-slug: sprunki-meets-the-cat-spell-ja
+slug: ja-sprunki-meets-the-cat-spell
 title: Sprunki Meets The Cat Spell
 description: 'このModは既存のModのリワーク版です '
 image: /sprunki-meets-the-cat-spell.png

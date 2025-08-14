@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed-ja
+slug: ja-sprunki-pyramixed
 title: Sprunki Pyramixed
 description: >-
   Sprunkgerny Pyramixed 0.9は、従来の音楽ゲームの制約を打破し、リズムと

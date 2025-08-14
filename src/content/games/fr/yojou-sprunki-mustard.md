@@ -1,5 +1,5 @@
 ---
-slug: yojou-sprunki-mustard-fr
+slug: fr-yojou-sprunki-mustard
 title: Yojou Sprunki Mustard
 description: >-
   Un Mod parodique qui subvertit l’univers Sprunki : tout vire au « 

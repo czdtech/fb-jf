@@ -1,5 +1,5 @@
 ---
-slug: sprunki-swapped-horror-ja
+slug: ja-sprunki-swapped-horror
 title: Sprunki Swapped Horror
 description: >-
   Sprunki Swapped Horrorは、革新的なキャラクター交換メカニクスを通じて

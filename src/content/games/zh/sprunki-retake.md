@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-zh
+slug: zh-sprunki-retake
 title: Sprunki Retake
 description: >-
   如果你喜欢节奏游戏，还对恐怖元素情有独钟，那Sprunki Retake绝对让你上瘾！免费在线体验音乐创作的惊悚魅力！

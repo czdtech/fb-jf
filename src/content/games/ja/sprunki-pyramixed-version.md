@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed-version-ja
+slug: ja-sprunki-pyramixed-version
 title: Sprunki Pyramixed Version
 description: >-
   Sprunki Pyramixedは使いやすさと深さを巧みにバランスさせた素晴らしい音楽制作プラットフォームで、

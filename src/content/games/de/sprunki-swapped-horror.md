@@ -1,5 +1,5 @@
 ---
-slug: sprunki-swapped-horror-de
+slug: de-sprunki-swapped-horror
 title: Sprunki Swapped Horror
 description: >-
   Sprunki Swapped Horror ist ein kreativer Incredibox-Mod, der eine neue

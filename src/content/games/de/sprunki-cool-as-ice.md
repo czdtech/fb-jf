@@ -1,5 +1,5 @@
 ---
-slug: sprunki-cool-as-ice-de
+slug: de-sprunki-cool-as-ice
 title: Sprunki Cool As Ice
 description: >
   Sprunki Cool As Ice ist eine eisige Variante des beliebten Sprunki-Spiels mit

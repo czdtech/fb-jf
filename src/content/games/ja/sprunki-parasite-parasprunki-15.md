@@ -1,5 +1,5 @@
 ---
-slug: sprunki-parasite-parasprunki-15-ja
+slug: ja-sprunki-parasite-parasprunki-15
 title: Sprunki Parasite Parasprunki 15
 description: >-
   Sprunki Parasite ParaSprunki 15の準備をしよう！これは慣れ親しんだ明るいSprunkiではありません。

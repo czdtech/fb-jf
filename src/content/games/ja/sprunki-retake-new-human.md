@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human-ja
+slug: ja-sprunki-retake-new-human
 title: Sprunki Retake New Human
 description: >-
   Sprunki Retake New Humanの核心は、新しい人型キャラクターデザインを通じて

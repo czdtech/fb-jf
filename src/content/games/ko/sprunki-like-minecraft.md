@@ -1,5 +1,5 @@
 ---
-slug: sprunki-like-minecraft-ko
+slug: ko-sprunki-like-minecraft
 title: 스프런키 라이크 마인크래프트
 description: >-
   마인크래프트 스타일의 스프런키 게임입니다.

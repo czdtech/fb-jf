@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5-ko
+slug: ko-sprunki-rotrizi-5
 title: TITLE
 description: >-
   DESCRIPTION

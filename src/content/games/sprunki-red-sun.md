@@ -1,5 +1,5 @@
 ---
-slug: sprunki-red-sun-en
+slug: sprunki-red-sun
 title: Sprunki Red Sun
 description: >-
   The Sprunki Red Sun Mod plunges the familiar Sprunki universe into a dramatic,

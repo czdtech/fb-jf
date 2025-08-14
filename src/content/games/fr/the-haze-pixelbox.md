@@ -1,5 +1,5 @@
 ---
-slug: the-haze-pixelbox-fr
+slug: fr-the-haze-pixelbox
 title: The Haze Pixelbox
 description: >-
   Une expérience musicale simple et inspirante : idéal pour les débutants 

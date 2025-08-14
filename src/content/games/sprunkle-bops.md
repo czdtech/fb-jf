@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops-en
+slug: sprunkle-bops
 title: Sprunkle Bops
 description: >-
   Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing

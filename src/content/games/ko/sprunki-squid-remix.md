@@ -1,5 +1,5 @@
 ---
-slug: sprunki-squid-remix-ko
+slug: ko-sprunki-squid-remix
 title: TITLE
 description: >-
   DESCRIPTION
