@@ -140,6 +140,12 @@ export function getGameLocalizedPath(baseSlug: string, locale: string): string {
  * 新格式：{language}-{baseSlug} -> {baseSlug}
  */
 export function extractBaseSlug(fullSlug: string): string {
+  // 安全检查：确保fullSlug不为undefined或null
+  if (!fullSlug || typeof fullSlug !== 'string') {
+    console.warn('extractBaseSlug received invalid input:', fullSlug);
+    return '';
+  }
+  
   // 匹配语言前缀：zh-, es-, fr-, de-, ja-, ko- 等
   const match = fullSlug.match(/^(zh|es|fr|de|ja|ko)-(.+)$/);
   return match ? match[2] : fullSlug; // 如果匹配到前缀则返回基础部分，否则返回原值（英文）

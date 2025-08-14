@@ -1,116 +1,112 @@
 ---
-import { getCollection } from 'astro:content';
-import { getLocalizedGamesList } from '@/utils/i18n';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navigation from '@/components/Navigation.astro';
 import Footer from '@/components/Footer.astro';
 import GamesList from '@/components/GamesList.astro';
+import { getTranslation } from '@/i18n/utils';
+import { getLocalizedGamesList, extractBaseSlug } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/types';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
 const { navigation } = extractedData;
 
-// 获取本地化的游戏集合
-const localizedGames = await getLocalizedGamesList('zh');
+// 使用Astro官方i18n系统 - 复用首页成功模式
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
+const { ui } = await getTranslation(currentLocale);
+
+// 获取本地化的游戏集合 - 使用统一的错误处理
+let localizedGames: any[] = [];
+try {
+  localizedGames = await getLocalizedGamesList(currentLocale);
+  if (!localizedGames || localizedGames.length === 0) {
+    localizedGames = await getLocalizedGamesList('en');
+  }
+} catch (error) {
+  console.error(`[zh/trending-games] Failed to load games for locale ${currentLocale}:`, error);
+  try {
+    localizedGames = await getLocalizedGamesList('en');
+  } catch (fallbackError) {
+    console.error('Failed to load fallback English games:', fallbackError);
+    localizedGames = [];
+  }
+}
 
 // 定义趋势游戏的 slug 列表（基于原始页面）
 const trendingGameSlugs = [
   'ayocs-sprunkr',
-  'incredibox-donki-abgerny',
-  'sprunki-pyramixed-version',
-  'sprunki-squid-remix',
-  'sprunki-1996',
-  'sprunki-rotrizi-5',
-  'sprunki-parasite-parasprunki-15',
-  'yojou-sprunki-mustard',
-  'sprunki-pyramixed',
-  'sprunki-meets-the-cat-spell',
-  'sprunki-phase-2-5',
-  'sprunki-sepbox-steel-factory'
+  'dandyrunki-retake',
+  'fiddlebops-but-dandys-world',
+  'fiddlebops-but-sprunki',
+  'fiddlebops-polos',
+  'fiddlebops-sprunkbop',
+  'fiddlebops-sprunki',
+  'fiddlebops-fix'
 ];
 
-// 筛选趋势游戏（使用本地化版本）
-const trendingGames = localizedGames.filter((game: any) =>
-  trendingGameSlugs.includes(game.slug)
-);
+// 筛选趋势游戏 - 使用统一的游戏筛选逻辑，提取基础slug进行匹配
+const trendingGames = localizedGames.filter((game: any) => {
+  const baseSlug = extractBaseSlug(game.data.slug);
+  return game.data.category === 'trending' && trendingGameSlugs.includes(baseSlug);
+});
 
 // SEO配置
 const meta = {
-  title: '趋势游戏 - Fiddlebops',
-  description: '发现最新趋势的 Fiddlebops 和 Sprunki 游戏。体验大家都在谈论的最热门音乐创作游戏。',
-  keywords: '趋势游戏, 热门游戏, 新游戏, fiddlebops, sprunki, 音乐游戏',
-  canonical: 'https://www.playfiddlebops.com/zh/trending-games/',
-  ogImage: '/tw.jpg'
+  title: ui.sections?.trendingGames ? `${ui.sections.trendingGames} - Fiddlebops` : 'Trending Games - Fiddlebops',
+  description: ui.sections?.trendingGames ? `${ui.sections.trendingGames} - 热门 Fiddlebops 游戏` : 'Trending Games - Fiddlebops'
 };
 ---
 
-<BaseLayout meta={meta}>
-  <Navigation
-    locale="zh"
-    currentPath="/zh/trending-games/"
+<BaseLayout 
+  title={meta.title}
+  description={meta.description}
+  currentLocale={currentLocale}
+>
+  <Navigation 
+    navigation={navigation.main} 
+    currentLocale={currentLocale}
   />
-
-  <main class="trending-games-page">
-    <section class="games">
-      <div class="responsive-container container-standard">
-        <h2>趋势游戏</h2>
-        <GamesList games={trendingGames} variant="grid" />
-
-        {localizedGames.length > trendingGames.length && (
-          <div class="more-games-section">
-            <h3>发现更多游戏</h3>
-            <GamesList
-              games={localizedGames.filter((game: any) => !trendingGameSlugs.includes(game.slug)).slice(0, 8)}
-              variant="grid"
-            />
-          </div>
-        )}
-      </div>
-    </section>
+  
+  <main class="main">
+    <div class="container">
+      <h1 class="page-title">
+        {ui.sections?.trendingGames || 'Trending Games'}
+      </h1>
+      
+      <GamesList 
+        games={trendingGames}
+        currentLocale={currentLocale}
+      />
+    </div>
   </main>
-
-  <Footer locale="zh" />
+  
+  <Footer currentLocale={currentLocale} />
 </BaseLayout>
 
 <style>
-  .trending-games-page {
-    min-height: calc(100vh - 160px);
-    padding: var(--space-8) 0;
-  }
+.main {
+  padding: 2rem 0;
+  min-height: 70vh;
+}
 
-  .games {
-    padding: var(--space-8) 0;
-  }
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
 
-  .games h2 {
-    font-size: var(--font-size-4xl);
-    font-weight: var(--font-weight-bold);
-    text-align: center;
-    margin-bottom: var(--space-12);
-    color: var(--color-gray-900);
-  }
+.page-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
 
-  .more-games-section {
-    margin-top: var(--space-16);
-    padding-top: var(--space-16);
-    border-top: 1px solid var(--color-gray-200);
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
   }
-
-  .more-games-section h3 {
-    font-size: var(--font-size-3xl);
-    font-weight: var(--font-weight-bold);
-    text-align: center;
-    margin-bottom: var(--space-8);
-    color: var(--color-gray-900);
-  }
-
-  @media (max-width: 768px) {
-    .games h2 {
-      font-size: var(--font-size-3xl);
-    }
-
-    .more-games-section h3 {
-      font-size: var(--font-size-2xl);
-    }
-  }
+}
 </style>

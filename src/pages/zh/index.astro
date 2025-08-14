@@ -1,7 +1,10 @@
 ---
+// Astro官方i18n系统会自动提供currentLocale为'zh'
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
+
+// Import new clean sections with shadcn/ui
 import HeroSectionNew from '@/components/sections/HeroSectionNew.astro'
 import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
 import AboutSection from '@/components/sections/AboutSection.astro'
@@ -9,25 +12,34 @@ import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
 
+// Import i18n system and game config
 import { getCollection } from 'astro:content';
-import { getTranslation, LOCALE_NAMES } from '@/i18n/utils';
+import { getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getLocalizedGamesList } from '@/utils/i18n';
-import type { SupportedLocale } from '@/i18n/utils';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
 import { generateHomeHreflangLinks } from '@/utils/hreflang';
-import extractedData from '@/data/extracted-data.json'
+import extractedData from '@/data/extracted-data.json';
+import { HOMEPAGE_GAME_COUNTS } from '@/config/game-config';
 
-const lang: SupportedLocale = 'zh';
+// Astro官方i18n系统自动提供currentLocale
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
 
-// UI 翻译
-const translation = await getTranslation(lang);
+// 获取翻译内容
+const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
+const homeContent = translation.home;
 
-// 获取本地化的游戏集合（优先中文版本，自动fallback到英文）
-const localizedGames = await getLocalizedGamesList(lang);
-const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 4);
-const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 4);
-const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 8);
+// 获取本地化的游戏集合 - 使用集中配置的数量，添加错误处理
+let localizedGames;
+try {
+  localizedGames = await getLocalizedGamesList(currentLocale);
+} catch (error) {
+  console.error('[zh/index] 获取游戏列表失败:', error);
+  localizedGames = [];
+}
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, HOMEPAGE_GAME_COUNTS.popular);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, HOMEPAGE_GAME_COUNTS.new);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, HOMEPAGE_GAME_COUNTS.trending);
 
 const games = {
   popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),
@@ -35,9 +47,13 @@ const games = {
   trending: trendingGames.map((g: any) => ({ slug: g.slug, ...g.data })),
 };
 
-// hreflang
+// 生成 hreflang 链接
 const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '');
-const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({ code, label, url: '' }));
+const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
+  code,
+  label,
+  url: ''
+}));
 const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
 
 // 构建页面meta数据
@@ -45,7 +61,7 @@ const pageMeta = {
   title: uiText?.meta?.title || extractedData.homepage.meta.title,
   description: uiText?.meta?.description || extractedData.homepage.meta.description,
   keywords: uiText?.meta?.keywords || extractedData.homepage.meta.keywords,
-  canonical: getAbsoluteLocaleUrl(lang, '/'),
+  canonical: getAbsoluteLocaleUrl(currentLocale, '/'),
   ogImage: extractedData.homepage.meta.ogImage
 };
 
@@ -56,7 +72,6 @@ const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
   image: sample.image,
   audioSrc: sample.audio,
   category: sample.category,
-  // 颜色配置可以考虑移到数据文件，但先保持现有逻辑
   color: sample.category === 'Beats' ? '#FF6B6B' : 
          sample.category === 'Effects' ? '#4ECDC4' :
          sample.category === 'Melodies' ? '#45B7D1' :
@@ -91,9 +106,19 @@ const structuredData = {
 };
 ---
 
-<BaseLayout meta={pageMeta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>
-  <Navigation locale={lang} currentPath={`/${lang}/`} />
+<BaseLayout
+  meta={pageMeta}
+  lang={currentLocale}
+  hreflang={hreflangLinks}
+  structuredData={structuredData}
+>
+  <Navigation
+    locale={currentLocale}
+    currentPath="/zh/"
+  />
+
   <main id="main-content" class="min-h-screen" role="main">
+    <!-- Clean Hero Section with shadcn/ui components -->
     <HeroSectionNew
       hero={{
         title: uiText?.hero?.title || extractedData.homepage.hero.title,
@@ -103,12 +128,104 @@ const structuredData = {
       games={games}
     />
 
+    <!-- How to Play Section -->
     <HowToPlaySection />
+
+    <!-- About Section -->
     <AboutSection />
+
+    <!-- Sound Samples Section -->
     <SoundSamplesSection soundSamples={soundSamples} />
+
+    <!-- Video Section -->
     <VideosSection />
+
+    <!-- FAQ Section -->
     <FAQSection />
-    
+
   </main>
-  <Footer locale={lang} />
+
+  <Footer />
 </BaseLayout>
+
+<script type="module" is:inline>
+  const scheduleLoad = () => {
+    const section = document.querySelector('.sound-samples-section');
+    if (!section) return;
+
+    const loadModules = async () => {
+      try {
+        const [notesMod] = await Promise.all([
+          import('/src/scripts/music-notes-animation.js'),
+          import('/src/scripts/sound-sample-player.js'),
+        ]);
+        const { musicNotesAnimation } = notesMod;
+
+        let last = 0;
+        section.addEventListener('click', (e) => {
+          const now = Date.now();
+          if (now - last < 200) return;
+          last = now;
+          musicNotesAnimation?.createClickAnimation?.(e, {
+            noteCount: Math.floor(Math.random() * 3) + 1,
+            staggerDelay: 100,
+            duration: 1200,
+          });
+        }, { passive: true });
+      } catch (err) {
+        console.warn('[zh/index] 延迟加载交互脚本失败', err);
+      }
+    };
+
+    if ('IntersectionObserver' in window) {
+      const io = new IntersectionObserver((entries) => {
+        if (entries.some((en) => en.isIntersecting)) {
+          io.disconnect();
+          loadModules();
+        }
+      }, { rootMargin: '200px' });
+      io.observe(section);
+    } else if ('requestIdleCallback' in window) {
+      // @ts-ignore
+      requestIdleCallback(() => loadModules());
+    } else {
+      setTimeout(() => loadModules(), 1);
+    }
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', scheduleLoad);
+  } else {
+    scheduleLoad();
+  }
+</script>
+
+<style>
+  /* Minimal custom styles - most styling now handled by Tailwind utilities */
+
+  /* Font loading optimization */
+  * {
+    font-display: swap;
+  }
+
+  /* Image optimization */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .game-iframe-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* Scroll animations using Tailwind-compatible approach */
+  .scroll-animate {
+    @apply opacity-0 translate-y-8 transition-all duration-700 ease-out;
+  }
+
+  .scroll-animate.animate {
+    @apply opacity-100 translate-y-0;
+  }
+</style>

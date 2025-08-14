@@ -11,13 +11,14 @@ import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
 
-// Import i18n system
+// Import i18n system and game config
 import { getCollection } from 'astro:content';
 import { getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getLocalizedGamesList } from '@/utils/i18n';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
 import { generateHomeHreflangLinks } from '@/utils/hreflang';
 import extractedData from '@/data/extracted-data.json';
+import { HOMEPAGE_GAME_COUNTS } from '@/config/game-config';
 
 // 获取当前语言 - 使用Astro官方i18n系统
 const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
@@ -27,11 +28,27 @@ const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 const homeContent = translation.home;
 
-// 获取本地化的游戏集合
-const localizedGames = await getLocalizedGamesList(currentLocale);
-const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, 4);
-const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, 4);
-const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, 8);
+// 获取本地化的游戏集合 - 使用集中配置的数量
+let localizedGames: any[] = [];
+try {
+  localizedGames = await getLocalizedGamesList(currentLocale);
+  if (!localizedGames || localizedGames.length === 0) {
+    // 如果当前语言没有游戏数据，回退到英文
+    localizedGames = await getLocalizedGamesList('en');
+  }
+} catch (error) {
+  console.error(`Failed to load games for locale ${currentLocale}:`, error);
+  // 错误时回退到英文游戏列表
+  try {
+    localizedGames = await getLocalizedGamesList('en');
+  } catch (fallbackError) {
+    console.error('Failed to load fallback English games:', fallbackError);
+    localizedGames = [];
+  }
+}
+const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, HOMEPAGE_GAME_COUNTS.popular);
+const newGames = localizedGames.filter((game: any) => game.data.category === 'new').slice(0, HOMEPAGE_GAME_COUNTS.new);
+const trendingGames = localizedGames.filter((game: any) => game.data.category === 'trending').slice(0, HOMEPAGE_GAME_COUNTS.trending);
 
 const games = {
   popular: popularGames.map((g: any) => ({ slug: g.slug, ...g.data })),

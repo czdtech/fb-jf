@@ -1,55 +1,108 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro'
-import Navigation from '@/components/Navigation.astro'
-import Footer from '@/components/Footer.astro'
-import GamesList from '@/components/GamesList.astro'
-import { getLocalizedGamesList } from '@/utils/i18n'
-import { getTranslation, type SupportedLocale } from '@/i18n/utils'
-import { getAbsoluteLocaleUrl } from 'astro:i18n'
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navigation from '@/components/Navigation.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
+import { getTranslation } from '@/i18n/utils';
+import { getLocalizedGamesList, extractBaseSlug } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/types';
 
-const locale: SupportedLocale = 'de'
-const translation = await getTranslation(locale)
-const uiText = translation.ui
-const localizedGames = await getLocalizedGamesList(locale)
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
 
-const newGameSlugs = ['pikmin-no-sprunki', 'the-haze-pixelbox', 'yojou-sprunki-mustard', 'sprunki-retake-bonus-characters']
-const newGames = localizedGames.filter((g: any) => newGameSlugs.includes(g.slug))
+// 使用Astro官方i18n系统 - 复用首页成功模式
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
+const { ui } = await getTranslation(currentLocale);
 
-const pageMeta = {
-  title: `${uiText?.sections?.newGames || 'New Games'} - Fiddlebops`,
-  description: uiText?.meta?.description || 'Neue Fiddlebops- und Sprunki-Spiele.',
-  keywords: uiText?.meta?.keywords || 'fiddlebops, sprunki, musikspiele',
-  canonical: getAbsoluteLocaleUrl(locale, '/new-games'),
-  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
+// 获取本地化的游戏集合 - 使用统一的错误处理
+let localizedGames: any[] = [];
+try {
+  localizedGames = await getLocalizedGamesList(currentLocale);
+  if (!localizedGames || localizedGames.length === 0) {
+    localizedGames = await getLocalizedGamesList('en');
+  }
+} catch (error) {
+  console.error(`[de/new-games] Failed to load games for locale ${currentLocale}:`, error);
+  try {
+    localizedGames = await getLocalizedGamesList('en');
+  } catch (fallbackError) {
+    console.error('Failed to load fallback English games:', fallbackError);
+    localizedGames = [];
+  }
 }
+
+// 定义新游戏的 slug 列表（基于原始页面）
+const newGameSlugs = [
+  'pikmin-no-sprunki',
+  'the-haze-pixelbox',
+  'yojou-sprunki-mustard',
+  'sprunki-retake-bonus-characters'
+];
+
+// 筛选新游戏 - 使用统一的游戏筛选逻辑，提取基础slug进行匹配
+const newGames = localizedGames.filter((game: any) => {
+  const baseSlug = extractBaseSlug(game.data.slug);
+  return game.data.category === 'new' && newGameSlugs.includes(baseSlug);
+});
+
+// SEO配置
+const meta = {
+  title: ui.sections?.newGames ? `${ui.sections.newGames} - Fiddlebops` : 'New Games - Fiddlebops',
+  description: ui.sections?.newGames ? `${ui.sections.newGames} - 最新 Fiddlebops 游戏` : 'New Games - Fiddlebops'
+};
 ---
 
-<BaseLayout meta={pageMeta} lang={locale}>
-  <Navigation locale={locale} currentPath={`/${locale}/new-games/`} />
-  <main class="new-games-page">
-    <div class="responsive-container container-standard">
-      <div class="page-header">
-        <h1>▶ {uiText?.sections?.newGames || 'New Games'}</h1>
-        <p>{uiText?.sections?.about || 'Fresh additions to our music game collection'}</p>
-      </div>
-      <div class="game-iframe-new"><GamesList games={newGames} variant="simple" /></div>
-      <div class="all-new-games-section">
-        <h2>{uiText?.sections?.newGames || 'New Games'}</h2>
-        <GamesList games={localizedGames.slice(0, 16)} variant="grid" />
-      </div>
+<BaseLayout 
+  title={meta.title}
+  description={meta.description}
+  currentLocale={currentLocale}
+>
+  <Navigation 
+    navigation={navigation.main} 
+    currentLocale={currentLocale}
+  />
+  
+  <main class="main">
+    <div class="container">
+      <h1 class="page-title">
+        {ui.sections?.newGames || 'New Games'}
+      </h1>
+      
+      <GamesList 
+        games={newGames}
+        currentLocale={currentLocale}
+      />
     </div>
   </main>
-  <Footer locale={locale} />
+  
+  <Footer currentLocale={currentLocale} />
 </BaseLayout>
 
 <style>
-  .new-games-page { min-height: calc(100vh - 160px); padding: var(--space-8) 0; }
-  .page-header { text-align: center; margin-bottom: var(--space-12); }
-  .page-header h1 { font-size: var(--font-size-4xl); font-weight: var(--font-weight-bold); color: var(--color-gray-900); margin-bottom: var(--space-4); }
-  .page-header p { font-size: var(--font-size-xl); color: var(--color-gray-600); }
-  .game-iframe-new { background: var(--color-white); border-radius: var(--border-radius-xl); padding: var(--space-8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: var(--space-12); }
-  .all-new-games-section { margin-top: var(--space-16); }
-  .all-new-games-section h2 { font-size: var(--font-size-3xl); font-weight: var(--font-weight-bold); text-align: center; margin-bottom: var(--space-8); color: var(--color-gray-900); }
-  @media (max-width: 768px) { .page-header h1 { font-size: var(--font-size-3xl); } .page-header p { font-size: var(--font-size-lg); } .game-iframe-new { padding: var(--space-6); } .all-new-games-section h2 { font-size: var(--font-size-2xl); } }
-</style>
+.main {
+  padding: 2rem 0;
+  min-height: 70vh;
+}
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.page-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
+
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+</style>

@@ -20,15 +20,7 @@ export default defineConfig({
     routing: {
       prefixDefaultLocale: false, // 英文保持根路径
     },
-    // 暂时禁用自动fallback，让我们的代码处理内容fallback
-    // fallback: {
-    //   zh: "en",
-    //   es: "en", 
-    //   fr: "en",
-    //   de: "en",
-    //   ja: "en",
-    //   ko: "en",
-    // },
+    // 不使用自动fallback，在代码层面处理内容回退
   },
   integrations: [
     tailwind({ applyBaseStyles: false }), // Disable base styles to use shadcn/ui styles

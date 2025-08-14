@@ -28,7 +28,11 @@
       "Bash(npm run content:validate:*)",
       "Bash(npm run preview:*)",
       "Bash(tsx scripts/test-slug-fix.ts:*)",
-      "Bash(npx tsx:*)"
+      "Bash(npx tsx:*)",
+      "Bash(do sed -i 's/import { getLocalizedGamesList } from/import { getLocalizedGamesList, extractBaseSlug } from/g' \"$file\")",
+      "Bash(done)",
+      "Bash(do sed -i 's/const popularGames = localizedGames\\.filter((game: any) =>/const popularGames = localizedGames.filter((game: any) => {/' \"$file\")",
+      "Bash(sed:*)"
     ],
     "deny": []
   }

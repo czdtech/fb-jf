@@ -1,70 +1,120 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro'
-import Navigation from '@/components/Navigation.astro'
-import Footer from '@/components/Footer.astro'
-import GamesList from '@/components/GamesList.astro'
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navigation from '@/components/Navigation.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
+import { getTranslation } from '@/i18n/utils';
+import { getLocalizedGamesList, extractBaseSlug } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/types';
 
-import { getLocalizedGamesList } from '@/utils/i18n'
-import { getTranslation, type SupportedLocale } from '@/i18n/utils'
-import { getAbsoluteLocaleUrl } from 'astro:i18n'
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
 
-const locale: SupportedLocale = 'es'
-const translation = await getTranslation(locale)
-const uiText = translation.ui
+// 使用Astro官方i18n系统 - 复用首页成功模式
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
+const { ui } = await getTranslation(currentLocale);
 
-const localizedGames = await getLocalizedGamesList(locale)
-
-const popularGameSlugs = ['sprunki-red-sun', 'sprunki-abgerny', 'sprunki-sonic']
-const popularGames = localizedGames.filter((game: any) => popularGameSlugs.includes(game.slug))
-
-const featureGame = { slug: '', data: { title: 'Fiddlebops', image: '/tw.jpg', category: 'Music', description: 'Fiddlebops' } }
-const displayGames = [...popularGames, featureGame]
-
-const pageMeta = {
-  title: `${uiText?.sections?.popularGames || 'Popular Games'} - Fiddlebops`,
-  description: uiText?.meta?.description || 'Popular Fiddlebops and Sprunki games.',
-  keywords: uiText?.meta?.keywords || 'fiddlebops, music games',
-  canonical: getAbsoluteLocaleUrl(locale, '/popular-games'),
-  ogImage: 'https://www.playfiddlebops.com/tw.jpg'
+// 获取本地化的游戏集合 - 使用统一的错误处理
+let localizedGames: any[] = [];
+try {
+  localizedGames = await getLocalizedGamesList(currentLocale);
+  if (!localizedGames || localizedGames.length === 0) {
+    localizedGames = await getLocalizedGamesList('en');
+  }
+} catch (error) {
+  console.error(`[es/popular-games] Failed to load games for locale ${currentLocale}:`, error);
+  try {
+    localizedGames = await getLocalizedGamesList('en');
+  } catch (fallbackError) {
+    console.error('Failed to load fallback English games:', fallbackError);
+    localizedGames = [];
+  }
 }
+
+// 定义流行游戏的 slug 列表（基于原始页面）
+const popularGameSlugs = [
+  'sprunki-red-sun',
+  'sprunki-abgerny',
+  'sprunki-sonic'
+];
+
+// 筛选流行游戏 - 使用统一的游戏筛选逻辑，提取基础slug进行匹配
+const popularGames = localizedGames.filter((game: any) => {
+  const baseSlug = extractBaseSlug(game.data.slug);
+  return game.data.category === 'popular' && popularGameSlugs.includes(baseSlug);
+});
+
+// 添加 fiddlebops 主游戏
+const fiddlebopsGame = {
+  slug: '',
+  data: {
+    title: ui.hero?.title || 'Fiddlebops',
+    image: '/tw.jpg',
+    category: 'Music',
+    description: ui.hero?.subtitle || '创造惊人的音乐！'
+  }
+};
+
+const displayGames = [...popularGames, fiddlebopsGame];
+
+// SEO配置
+const meta = {
+  title: ui.sections?.popularGames ? `${ui.sections.popularGames} - Fiddlebops` : 'Popular Games - Fiddlebops',
+  description: '最受欢迎的 Fiddlebops 游戏合集'
+};
 ---
 
-<BaseLayout meta={pageMeta} lang={locale}>
-  <Navigation locale={locale} currentPath={`/${locale}/popular-games/`} />
-
-  <main class="popular-games-page">
-    <div class="responsive-container container-standard">
-      <div class="page-header">
-        <h1>▶ {uiText?.sections?.popularGames || 'Popular Games'}</h1>
-        <p>{uiText?.sections?.about || 'Discover the most loved games'}</p>
-      </div>
-
-      <div class="game-iframe-pop">
-        <GamesList games={displayGames} variant="simple" />
-      </div>
-
-      <div class="more-games-section">
-        <h2>{uiText?.sections?.popularGames || 'Popular Games'}</h2>
-        <GamesList games={localizedGames.slice(0, 12)} variant="grid" />
-      </div>
+<BaseLayout 
+  title={meta.title}
+  description={meta.description}
+  currentLocale={currentLocale}
+>
+  <Navigation 
+    navigation={navigation.main} 
+    currentLocale={currentLocale}
+  />
+  
+  <main class="main">
+    <div class="container">
+      <h1 class="page-title">
+        {ui.sections?.popularGames || 'Popular Games'}
+      </h1>
+      
+      <GamesList 
+        games={displayGames}
+        currentLocale={currentLocale}
+      />
     </div>
   </main>
-
-  <Footer locale={locale} />
+  
+  <Footer currentLocale={currentLocale} />
 </BaseLayout>
 
 <style>
-  .popular-games-page { min-height: calc(100vh - 160px); padding: var(--space-8) 0; }
-  .page-header { text-align: center; margin-bottom: var(--space-12); }
-  .page-header h1 { font-size: var(--font-size-4xl); font-weight: var(--font-weight-bold); color: var(--color-gray-900); margin-bottom: var(--space-4); }
-  .page-header p { font-size: var(--font-size-xl); color: var(--color-gray-600); }
-  .game-iframe-pop { background: var(--color-white); border-radius: var(--border-radius-xl); padding: var(--space-8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: var(--space-12); }
-  .more-games-section { margin-top: var(--space-16); }
-  .more-games-section h2 { font-size: var(--font-size-3xl); font-weight: var(--font-weight-bold); text-align: center; margin-bottom: var(--space-8); color: var(--color-gray-900); }
-  @media (max-width: 768px) {
-    .page-header h1 { font-size: var(--font-size-3xl); }
-    .page-header p { font-size: var(--font-size-lg); }
-    .game-iframe-pop { padding: var(--space-6); }
-  }
-</style>
+.main {
+  padding: 2rem 0;
+  min-height: 70vh;
+}
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.page-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
+
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+</style>

@@ -7,7 +7,7 @@ description: >-
   personnages originaux pour l'équipe iconique de Sprunki.
 image: /fiddlebops-but-sprunki.png
 iframe: https://turbowarp.org/1114915532/embed
-category: new
+category: trending
 meta:
   title: Fiddlebops But Sprunki - Jouer à Fiddlebops But Sprunki en Ligne
   description: >-

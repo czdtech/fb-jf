@@ -7,7 +7,7 @@ description: >-
   すべてのオリジナルキャラクターを象徴的なSprunkiクルーに入れ替えます。
 image: /fiddlebops-but-sprunki.png
 iframe: https://turbowarp.org/1114915532/embed
-category: new
+category: trending
 meta:
   title: Fiddlebops But Sprunki - Fiddlebops But Sprunki をオンラインでプレイ
   description: >-

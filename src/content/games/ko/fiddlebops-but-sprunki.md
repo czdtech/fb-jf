@@ -7,7 +7,7 @@ description: >-
   상징적인 스프렁키 크루로 교체했습니다.
 image: /fiddlebops-but-sprunki.png
 iframe: https://turbowarp.org/1114915532/embed
-category: new
+category: trending
 meta:
   title: 피들밥스 벗 스프렁키 - 피들밥스 벗 스프렁키 온라인 플레이
   description: >-

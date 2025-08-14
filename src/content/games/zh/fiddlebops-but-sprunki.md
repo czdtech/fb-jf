@@ -5,7 +5,7 @@ description: >-
   FiddleBops but Sprunki 是一个超棒的跨界活动！它保持了 Fiddlebops 令人上瘾的音乐制作核心，但将所有原始角色替换为标志性的 Sprunki 团队。
 image: /fiddlebops-but-sprunki.png
 iframe: https://turbowarp.org/1114915532/embed
-category: new
+category: trending
 meta:
   title: Fiddlebops But Sprunki - 在线玩 Fiddlebops But Sprunki
   description: >-

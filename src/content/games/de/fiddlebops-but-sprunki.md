@@ -7,7 +7,7 @@ description: >-
   die ikonische Sprunki-Crew aus.
 image: /fiddlebops-but-sprunki.png
 iframe: https://turbowarp.org/1114915532/embed
-category: new
+category: trending
 meta:
   title: Fiddlebops But Sprunki - Fiddlebops But Sprunki Online spielen
   description: >-

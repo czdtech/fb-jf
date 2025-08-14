@@ -1,26 +1,38 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navigation from '@/components/Navigation.astro';
 import Footer from '@/components/Footer.astro';
 import GamesList from '@/components/GamesList.astro';
 import { getTranslation } from '@/i18n/utils';
+import { getLocalizedGamesList, extractBaseSlug } from '@/utils/i18n';
+import type { SupportedLocale } from '@/i18n/types';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
 const { navigation } = extractedData;
 
-// 获取当前语言和翻译 - 使用Astro官方i18n系统
-const currentLocale = (Astro.currentLocale as any) || 'en';
+// 使用Astro官方i18n系统 - 复用首页成功模式
+const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
 const { ui } = await getTranslation(currentLocale);
 
-// 获取所有游戏
-const allGames = await getCollection('games');
-
-// 只获取当前语言的游戏
-const currentLangGames = allGames.filter((game: any) => 
-  game.data.slug.endsWith(`-${currentLocale}`)
-);
+// 获取本地化的游戏集合 - 使用统一的错误处理
+let localizedGames: any[] = [];
+try {
+  localizedGames = await getLocalizedGamesList(currentLocale);
+  if (!localizedGames || localizedGames.length === 0) {
+    // 如果当前语言没有游戏数据，回退到英文
+    localizedGames = await getLocalizedGamesList('en');
+  }
+} catch (error) {
+  console.error(`Failed to load games for locale ${currentLocale}:`, error);
+  // 错误时回退到英文游戏列表
+  try {
+    localizedGames = await getLocalizedGamesList('en');
+  } catch (fallbackError) {
+    console.error('Failed to load fallback English games:', fallbackError);
+    localizedGames = [];
+  }
+}
 
 // 定义流行游戏的 slug 列表（基于原始页面）
 const popularGameSlugs = [
@@ -29,10 +41,14 @@ const popularGameSlugs = [
   'sprunki-sonic'
 ];
 
-// 筛选流行游戏，去掉语言后缀进行匹配
-const popularGames = currentLangGames.filter((game: any) => {
-  const baseSlug = game.data.slug.replace(/-[a-z]{2}$/, '');
-  return popularGameSlugs.includes(baseSlug);
+// 筛选流行游戏 - 使用统一的游戏筛选逻辑，提取基础slug进行匹配
+const popularGames = localizedGames.filter((game: any) => {
+  if (!game || !game.data || !game.data.slug) {
+    console.warn('Invalid game object found:', game);
+    return false;
+  }
+  const baseSlug = extractBaseSlug(game.data.slug);
+  return game.data.category === 'popular' && popularGameSlugs.includes(baseSlug);
 });
 
 // 添加 fiddlebops 主游戏
@@ -51,103 +67,60 @@ const displayGames = [...popularGames, fiddlebopsGame];
 // SEO配置
 const meta = {
   title: ui.sections?.popularGames ? `${ui.sections.popularGames} - Fiddlebops` : 'Popular Games - Fiddlebops',
-  description: ui.meta?.description || 'Play the most popular Fiddlebops and Sprunki games. Discover trending music creation games loved by millions.',
-  keywords: 'popular games, fiddlebops, sprunki, music games, trending games',
-  canonical: 'https://www.playfiddlebops.com/popular-games/',
-  ogImage: '/tw.jpg'
+  description: ui.sections?.popularGames ? `${ui.sections.popularGames} - 热门 Fiddlebops 游戏` : 'Popular Games - Fiddlebops'
 };
 ---
 
-<BaseLayout meta={meta}>
-  <Navigation
-    navigation={navigation.main}
-    languages={navigation.languages}
-    currentLang="en"
-    currentPath="/popular-games/"
+<BaseLayout 
+  title={meta.title}
+  description={meta.description}
+  currentLocale={currentLocale}
+>
+  <Navigation 
+    navigation={navigation.main} 
+    currentLocale={currentLocale}
   />
-
-  <main class="popular-games-page">
-    <div class="responsive-container container-standard">
-      <div class="page-header">
-        <h1>&#9658; {ui.sections?.popularGames || '热门游戏'}</h1>
-        <p>{ui.sections?.popularGamesDesc || ui.games?.viewMore || '发现我们收藏中最受喜爱的游戏'}</p>
-      </div>
-
-      <div class="game-iframe-pop">
-        <GamesList games={displayGames} variant="simple" />
-      </div>
-
-      <div class="more-games-section">
-        <h2>{ui.sections?.popularGames || '更多热门游戏'}</h2>
-        <GamesList games={allGames.slice(0, 12)} variant="grid" />
-      </div>
+  
+  <main class="main">
+    <div class="container">
+      <h1 class="page-title">
+        {ui.sections?.popularGames || 'Popular Games'}
+      </h1>
+      
+      <GamesList 
+        games={displayGames}
+        currentLocale={currentLocale}
+      />
     </div>
   </main>
-
-  <Footer />
+  
+  <Footer currentLocale={currentLocale} />
 </BaseLayout>
 
 <style>
-  .popular-games-page {
-    min-height: calc(100vh - 160px);
-    padding: var(--space-8) 0;
+.main {
+  padding: 2rem 0;
+  min-height: 70vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.page-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
+
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
   }
-
-  .page-header {
-    text-align: center;
-    margin-bottom: var(--space-12);
-  }
-
-  .page-header h1 {
-    font-size: var(--font-size-4xl);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-gray-900);
-    margin-bottom: var(--space-4);
-  }
-
-  .page-header p {
-    font-size: var(--font-size-xl);
-    color: var(--color-gray-600);
-  }
-
-  .game-iframe-pop {
-    background: var(--color-white);
-    border-radius: var(--border-radius-xl);
-    padding: var(--space-8);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: var(--space-12);
-  }
-
-  .game-iframe-pop h3 {
-    font-size: var(--font-size-2xl);
-    font-weight: var(--font-weight-bold);
-    color: var(--color-gray-900);
-    margin-bottom: var(--space-6);
-  }
-
-  .more-games-section {
-    margin-top: var(--space-16);
-  }
-
-  .more-games-section h2 {
-    font-size: var(--font-size-3xl);
-    font-weight: var(--font-weight-bold);
-    text-align: center;
-    margin-bottom: var(--space-8);
-    color: var(--color-gray-900);
-  }
-
-  @media (max-width: 768px) {
-    .page-header h1 {
-      font-size: var(--font-size-3xl);
-    }
-
-    .page-header p {
-      font-size: var(--font-size-lg);
-    }
-
-    .game-iframe-pop {
-      padding: var(--space-6);
-    }
-  }
+}
 </style>
