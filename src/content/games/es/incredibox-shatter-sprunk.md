@@ -1,5 +1,5 @@
 ---
-slug: incredibox-shatter-sprunk
+slug: incredibox-shatter-sprunk-es
 title: Incredibox Shatter Sprunk
 description: >-
   Incredibox Shatter Sprunk es un juego de música mod de Incredibox creado por fanáticos. En esta

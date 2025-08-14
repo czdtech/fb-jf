@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5
+slug: sprunki-rotrizi-5-ja
 title: Sprunki Rotrizi 5
 description: >
   Sprunki Rotrizi 5.0は、あなたの創造性を解き放ち、電撃的なビートを作り出すことができる

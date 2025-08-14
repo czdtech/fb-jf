@@ -1,5 +1,5 @@
 ---
-slug: incredibox-cool-as-ice
+slug: incredibox-cool-as-ice-fr
 title: Incredibox Cool As Ice
 description: >-
   Le Mod Incredibox Cool as Ice est parfait pour les fans qui aiment à la fois

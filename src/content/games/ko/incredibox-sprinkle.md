@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprinkle
+slug: incredibox-sprinkle-ko
 title: 인크레디박스 스프링클
 description: >-
   스프링클은 조작이 간단하고 재미가 가득한 음악 창작 게임입니다. 캐주얼 플레이어든 음악 제작에 

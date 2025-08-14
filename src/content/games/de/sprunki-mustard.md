@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mustard
+slug: sprunki-mustard-de
 title: Sprunki Mustard
 description: >-
   In diesem Sprunki Mustard Mod wurden alle Charaktere umgestaltet, um ein

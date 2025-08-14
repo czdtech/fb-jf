@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-retake-bonus-characters-ko
 title: TITLE
 description: >-
   DESCRIPTION

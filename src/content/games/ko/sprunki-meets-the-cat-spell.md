@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-meets-the-cat-spell-ko
 title: TITLE
 description: >-
   DESCRIPTION

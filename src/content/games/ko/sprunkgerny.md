@@ -1,5 +1,5 @@
 ---
-slug: sprunkgerny
+slug: sprunkgerny-ko
 title: 스프렁거니
 description: >-
   독특한 음악적 경험을 찾고 있다면 스프렁거니를 절대 놓치지 마세요! 전통적인 리듬 게임의 

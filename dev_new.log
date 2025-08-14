@@ -1,0 +1,845 @@
+
+> fiddlebops-refactored@1.0.0 dev
+> astro dev
+
+02:04:15 [types] Generated 1ms
+02:04:15 [content] Syncing content
+02:04:17 [content] Synced content
+02:04:17 [vite] Re-optimizing dependencies because vite config has changed
+
+ astro  v5.12.9 ready in 2577 ms
+
+┃ Local    http://localhost:4321/
+
+02:04:17 watching for file changes...
+✅ Found 66 English games (root directory)
+✅ Sample games verification:
+1. ayocs-sprunkr - Ayocs Sprunkr ❌
+   Content check: AYOCS Sprunkrをチェックしてみてください！このModはSprunkiユニバースに 超スタ...
+2. dandyrunki-retake - Dandyrunki Retake ❌
+   Content check: Dandyrunki Retakeでは、簡単に始められ、様々なリズムとメロディを楽に探求できます。 ...
+3. fiddlebops-but-dandys-world - Fiddlebops But Dandys World ❌
+   Content check: Fiddlebops But Dandys Worldはただのゲームではありません。驚きに満ちた音楽...
+02:04:26 [200] / 710ms
+✅ Found 66 English games (root directory)
+✅ Sample games verification:
+1. ayocs-sprunkr - Ayocs Sprunkr ❌
+   Content check: AYOCS Sprunkrをチェックしてみてください！このModはSprunkiユニバースに 超スタ...
+2. dandyrunki-retake - Dandyrunki Retake ❌
+   Content check: Dandyrunki Retakeでは、簡単に始められ、様々なリズムとメロディを楽に探求できます。 ...
+3. fiddlebops-but-dandys-world - Fiddlebops But Dandys World ❌
+   Content check: Fiddlebops But Dandys Worldはただのゲームではありません。驚きに満ちた音楽...
+02:04:31 [200] / 8ms
+✅ Found 66 English games (root directory)
+✅ Sample games verification:
+1. ayocs-sprunkr - Ayocs Sprunkr ❌
+   Content check: AYOCS Sprunkrをチェックしてみてください！このModはSprunkiユニバースに 超スタ...
+2. dandyrunki-retake - Dandyrunki Retake ❌
+   Content check: Dandyrunki Retakeでは、簡単に始められ、様々なリズムとメロディを楽に探求できます。 ...
+3. fiddlebops-but-dandys-world - Fiddlebops But Dandys World ❌
+   Content check: Fiddlebops But Dandys Worldはただのゲームではありません。驚きに満ちた音楽...
+02:04:32 [200] / 5ms
+02:05:14 [watch] src/pages/index.astro
+✅ Found 66 English games (root directory)
+✅ Sample games verification:
+1. ayocs-sprunkr - Ayocs Sprunkr ❌
+   Content check: AYOCS Sprunkrをチェックしてみてください！このModはSprunkiユニバースに 超スタ...
+2. dandyrunki-retake - Dandyrunki Retake ❌
+   Content check: Dandyrunki Retakeでは、簡単に始められ、様々なリズムとメロディを楽に探求できます。 ...
+3. fiddlebops-but-dandys-world - Fiddlebops But Dandys World ❌
+   Content check: Fiddlebops But Dandys Worldはただのゲームではありません。驚きに満ちた音楽...
+🔧 Detected language mismatch, attempting manual content verification...
+02:05:15 [200] / 76ms
+✅ Found 66 English games (root directory)
+✅ Sample games verification:
+1. ayocs-sprunkr - Ayocs Sprunkr ❌
+   Content check: 你一定要试试 AYOCS Sprunkr！这个模组为 Sprunki 宇宙提供了超级时尚的改造，为熟...
+2. dandyrunki-retake - Dandyrunki Retake ❌
+   Content check: 在 Dandyrunki Retake 中，你可以轻松上手，毫不费力地探索各种节奏和旋律。无论你是休...
+3. fiddlebops-but-dandys-world - Fiddlebops But Dandys World ❌
+   Content check: Fiddlebops But Dandys World 不仅仅是一个游戏；它是一场充满惊喜的音乐之旅...
+🔧 Detected language mismatch, attempting manual content verification...
+02:05:39 [200] / 37ms
+✅ Found 66 English games (root directory)
+✅ Sample games verification:
+1. ayocs-sprunkr - Ayocs Sprunkr ❌
+   Content check: 你一定要试试 AYOCS Sprunkr！这个模组为 Sprunki 宇宙提供了超级时尚的改造，为熟...
+2. dandyrunki-retake - Dandyrunki Retake ❌
+   Content check: 在 Dandyrunki Retake 中，你可以轻松上手，毫不费力地探索各种节奏和旋律。无论你是休...
+3. fiddlebops-but-dandys-world - Fiddlebops But Dandys World ❌
+   Content check: Fiddlebops But Dandys World 不仅仅是一个游戏；它是一场充满惊喜的音乐之旅...
+🔧 Detected language mismatch, attempting manual content verification...
+02:05:43 [200] / 16ms
+02:08:06 [watch] src/pages/index.astro
+🔍 Loading games for locale: en
+📂 English file: ayocs-sprunkr
+📂 English file: dandyrunki-retake
+📂 English file: fiddlebops-but-dandys-world
+📂 English file: fiddlebops-fix
+📂 English file: fiddlebops-but-sprunki
+📂 English file: fiddlebops-polos
+📂 English file: fiddlebops-sprunkbop
+📂 English file: fiddlebops-sprunki
+📂 English file: fiddlebops-sprunksters-remix
+📂 English file: incredibox-cool-as-ice
+📂 English file: incredibox-donki-abgerny
+📂 English file: incredibox-shatter-sprunk
+📂 English file: incredibox-sprinkle
+📂 English file: incredibox-yellow-colorbox
+📂 English file: incredibox-sprunksters
+📂 English file: incredibox
+📂 English file: mountayonnaise
+📂 English file: mundo-torajo-sprunki
+📂 English file: pikmin-no-sprunki
+📂 English file: sprunkgerny
+📂 English file: sprunki-1996
+📂 English file: sprunki-babies
+📂 English file: sprunki-but-with-memes
+📂 English file: sprunki-craft
+📂 English file: sprunki-abgerny
+📂 English file: sprunki-basical
+📂 English file: sprunki-christmas
+📂 English file: sprunki-cool-as-ice
+📂 English file: sprunki-eggs-mix
+📂 English file: sprunki-dandys-world
+📂 English file: sprunki-good-night
+📂 English file: sprunki-halloween
+📂 English file: sprunki-like-minecraft
+📂 English file: sprunki-meets-the-cat-spell
+📂 English file: sprunki-maker
+📂 English file: sprunki-minecraft
+📂 English file: sprunki-interactive-beta
+📂 English file: sprunki-mustard
+📂 English file: sprunki-mod-BFDI
+📂 English file: sprunki-night-time
+📂 English file: sprunki-phase-1
+📂 English file: sprunki-play-random
+📂 English file: sprunki-parasite-parasprunki-15
+📂 English file: sprunki-phase-5
+📂 English file: sprunki-phase-2-5
+📂 English file: sprunki-phase-8
+📂 English file: sprunki-police-and-prisoners
+📂 English file: sprunki-pyramixed
+📂 English file: sprunki-pyramixed-version
+📂 English file: sprunki-red-sun
+📂 English file: sprunki-retake-bonus-characters
+📂 English file: sprunki-retake
+📂 English file: sprunki-rotrizi-5
+📂 English file: sprunki-sonic
+📂 English file: sprunki-sepbox-steel-factory
+📂 English file: sprunki-retake-new-human
+📂 English file: sprunki-squid-remix
+📂 English file: sprunki-swapped-horror
+📂 English file: sprunki-virus-new-update
+📂 English file: sprunkle-bops
+📂 English file: sprunkr-but-sprunki
+📂 English file: swap-sprunkgerny
+📂 English file: super-sprunki-brasil
+📂 English file: yojou-sprunki-mustard
+📂 English file: the-haze-pixelbox
+📂 English file: FILE_ID
+✅ Successfully loaded 66 games for en
+🔍 Content verification:
+1. ayocs-sprunkr ❌
+   Content: 你一定要试试 AYOCS Sprunkr！这个模组为 Sprunki 宇宙提供了超级时尚的改造，为熟悉的音乐创作体验注入了新的活力。...
+2. dandyrunki-retake ❌
+   Content: 在 Dandyrunki Retake 中，你可以轻松上手，毫不费力地探索各种节奏和旋律。无论你是休闲玩家还是音乐爱好者，你都能在这个混音版本中找到属于自己的乐趣。...
+3. fiddlebops-but-dandys-world ❌
+   Content: Fiddlebops But Dandys World 不仅仅是一个游戏；它是一场充满惊喜的音乐之旅。你准备好加入这个奇幻冒险了吗？...
+02:08:13 [200] / 56ms
+02:08:41 Configuration file removed. Restarting...
+02:08:42 [content] Syncing content
+02:08:43 [content] Synced content
+02:08:43 [types] Generated 2.70s
+02:08:43 [vite] Port 4321 is in use, trying another one...
+🔍 Loading games for locale: en
+📂 English file: ayocs-sprunkr
+📂 English file: dandyrunki-retake
+📂 English file: fiddlebops-but-dandys-world
+📂 English file: fiddlebops-polos
+📂 English file: fiddlebops-sprunkbop
+📂 English file: fiddlebops-fix
+📂 English file: fiddlebops-sprunki
+📂 English file: fiddlebops-sprunksters-remix
+📂 English file: fiddlebops-but-sprunki
+📂 English file: incredibox-cool-as-ice
+📂 English file: incredibox-donki-abgerny
+📂 English file: incredibox-shatter-sprunk
+📂 English file: incredibox-sprinkle
+📂 English file: incredibox-sprunksters
+📂 English file: mountayonnaise
+📂 English file: incredibox
+📂 English file: sprunkgerny
+📂 English file: pikmin-no-sprunki
+📂 English file: incredibox-yellow-colorbox
+📂 English file: mundo-torajo-sprunki
+📂 English file: sprunki-but-with-memes
+📂 English file: sprunki-cool-as-ice
+📂 English file: sprunki-basical
+📂 English file: sprunki-babies
+📂 English file: sprunki-1996
+📂 English file: sprunki-craft
+📂 English file: sprunki-abgerny
+📂 English file: sprunki-christmas
+📂 English file: sprunki-eggs-mix
+📂 English file: sprunki-dandys-world
+📂 English file: sprunki-good-night
+📂 English file: sprunki-halloween
+📂 English file: sprunki-interactive-beta
+📂 English file: sprunki-maker
+📂 English file: sprunki-like-minecraft
+📂 English file: sprunki-meets-the-cat-spell
+📂 English file: sprunki-minecraft
+📂 English file: sprunki-mod-BFDI
+📂 English file: sprunki-night-time
+📂 English file: sprunki-mustard
+📂 English file: sprunki-parasite-parasprunki-15
+📂 English file: sprunki-phase-1
+📂 English file: sprunki-phase-5
+📂 English file: sprunki-phase-2-5
+📂 English file: sprunki-play-random
+📂 English file: sprunki-phase-8
+📂 English file: sprunki-police-and-prisoners
+📂 English file: sprunki-pyramixed-version
+📂 English file: sprunki-pyramixed
+📂 English file: sprunki-red-sun
+📂 English file: sprunki-retake-bonus-characters
+📂 English file: sprunki-rotrizi-5
+📂 English file: sprunki-swapped-horror
+📂 English file: sprunki-sepbox-steel-factory
+📂 English file: sprunki-squid-remix
+📂 English file: sprunki-virus-new-update
+📂 English file: sprunki-retake
+📂 English file: sprunkle-bops
+📂 English file: sprunki-retake-new-human
+📂 English file: sprunki-sonic
+📂 English file: super-sprunki-brasil
+📂 English file: yojou-sprunki-mustard
+📂 English file: swap-sprunkgerny
+📂 English file: the-haze-pixelbox
+📂 English file: sprunkr-but-sprunki
+📂 English file: FILE_ID
+✅ Successfully loaded 66 games for en
+🔍 Content verification:
+1. ayocs-sprunkr ❌
+   Content: AYOCS Sprunkrをチェックしてみてください！このModはSprunkiユニバースに 超スタイリッシュなメイクオーバーを施し、おなじみの音楽制作体験に新鮮な生命を吹き込みます。...
+2. dandyrunki-retake ❌
+   Content: Dandyrunki Retakeでは、簡単に始められ、様々なリズムとメロディを楽に探求できます。 カジュアルプレイヤーでも音楽愛好家でも、このリミックス版で自分だけの楽しみを見つけることができます。...
+3. fiddlebops-but-dandys-world ❌
+   Content: Fiddlebops But Dandys Worldはただのゲームではありません。驚きに満ちた音楽の旅です。 この幻想的な冒険に参加する準備はできていますか？...
+02:08:44 [200] / 130ms
+02:08:46 Configuration file added. Restarting...
+02:08:46 [vite] Re-optimizing dependencies because vite config has changed
+02:08:47 [content] Syncing content
+02:08:49 [content] Synced content
+02:08:49 [types] Generated 2.59s
+02:08:49 [vite] Port 4321 is in use, trying another one...
+02:08:49 [vite] Port 4322 is in use, trying another one...
+02:39:40 [glob-loader] Reloaded data from ayocs-sprunkr.md
+02:39:40 [glob-loader] Reloaded data from dandyrunki-retake.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-but-dandys-world.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-but-sprunki.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-fix.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-polos.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-sprunkbop.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-sprunki.md
+02:39:40 [glob-loader] Reloaded data from incredibox-cool-as-ice.md
+02:39:40 [glob-loader] Reloaded data from fiddlebops-sprunksters-remix.md
+02:39:40 [glob-loader] Reloaded data from incredibox-donki-abgerny.md
+02:39:40 [glob-loader] Reloaded data from incredibox-shatter-sprunk.md
+02:39:40 [glob-loader] Reloaded data from incredibox-sprunksters.md
+02:39:40 [glob-loader] Reloaded data from incredibox-sprinkle.md
+02:39:40 [glob-loader] Reloaded data from incredibox-yellow-colorbox.md
+02:39:40 [glob-loader] Reloaded data from incredibox.md
+02:39:40 [glob-loader] Reloaded data from mountayonnaise.md
+02:39:40 [glob-loader] Reloaded data from pikmin-no-sprunki.md
+02:39:40 [glob-loader] Reloaded data from sprunki-1996.md
+02:39:40 [glob-loader] Reloaded data from sprunki-babies.md
+02:39:40 [glob-loader] Reloaded data from sprunkgerny.md
+02:39:40 [glob-loader] Reloaded data from mundo-torajo-sprunki.md
+02:39:40 [glob-loader] Reloaded data from sprunki-but-with-memes.md
+02:39:40 [glob-loader] Reloaded data from sprunki-abgerny.md
+02:39:40 [glob-loader] Reloaded data from sprunki-basical.md
+02:39:40 [glob-loader] Reloaded data from sprunki-christmas.md
+02:39:40 [glob-loader] Reloaded data from sprunki-cool-as-ice.md
+02:39:40 [glob-loader] Reloaded data from sprunki-craft.md
+02:39:40 [glob-loader] Reloaded data from sprunki-dandys-world.md
+02:39:40 [glob-loader] Reloaded data from sprunki-eggs-mix.md
+02:39:40 [glob-loader] Reloaded data from sprunki-halloween.md
+02:39:40 [glob-loader] Reloaded data from sprunki-good-night.md
+02:39:40 [glob-loader] Reloaded data from sprunki-interactive-beta.md
+02:39:40 [glob-loader] Reloaded data from sprunki-like-minecraft.md
+02:39:40 [glob-loader] Reloaded data from sprunki-meets-the-cat-spell.md
+02:39:40 [glob-loader] Reloaded data from sprunki-maker.md
+02:39:40 [glob-loader] Reloaded data from sprunki-minecraft.md
+02:39:40 [glob-loader] Reloaded data from sprunki-mustard.md
+02:39:40 [glob-loader] Reloaded data from sprunki-phase-1.md
+02:39:40 [glob-loader] Reloaded data from sprunki-phase-2-5.md
+02:39:40 [glob-loader] Reloaded data from sprunki-parasite-parasprunki-15.md
+02:39:40 [glob-loader] Reloaded data from sprunki-night-time.md
+02:39:40 [glob-loader] Reloaded data from sprunki-phase-8.md
+02:39:40 [glob-loader] Reloaded data from sprunki-mod-BFDI.md
+02:39:40 [glob-loader] Reloaded data from sprunki-phase-5.md
+02:39:40 [glob-loader] Reloaded data from sprunki-play-random.md
+02:39:40 [glob-loader] Reloaded data from de/ayocs-sprunkr.md
+02:39:40 [glob-loader] Reloaded data from sprunki-police-and-prisoners.md
+02:39:40 [glob-loader] Reloaded data from sprunki-pyramixed-version.md
+02:39:40 [glob-loader] Reloaded data from sprunki-pyramixed.md
+02:39:40 [glob-loader] Reloaded data from sprunki-retake-new-human.md
+02:39:40 [glob-loader] Reloaded data from sprunki-red-sun.md
+02:39:40 [glob-loader] Reloaded data from sprunki-retake-bonus-characters.md
+02:39:40 [glob-loader] Reloaded data from sprunki-sepbox-steel-factory.md
+02:39:40 [glob-loader] Reloaded data from sprunki-rotrizi-5.md
+02:39:40 [glob-loader] Reloaded data from sprunki-retake.md
+02:39:40 [glob-loader] Reloaded data from sprunki-sonic.md
+02:39:40 [glob-loader] Reloaded data from sprunkle-bops.md
+02:39:40 [glob-loader] Reloaded data from sprunki-swapped-horror.md
+02:39:40 [glob-loader] Reloaded data from sprunkr-but-sprunki.md
+02:39:40 [glob-loader] Reloaded data from super-sprunki-brasil.md
+02:39:40 [glob-loader] Reloaded data from sprunki-squid-remix.md
+02:39:40 [glob-loader] Reloaded data from the-haze-pixelbox.md
+02:39:40 [glob-loader] Reloaded data from sprunki-virus-new-update.md
+02:39:40 [glob-loader] Reloaded data from swap-sprunkgerny.md
+02:39:40 [glob-loader] Reloaded data from yojou-sprunki-mustard.md
+02:39:41 [glob-loader] Reloaded data from de/dandyrunki-retake.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-but-sprunki.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-polos.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-but-dandys-world.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-sprunkbop.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox-cool-as-ice.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-fix.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox-donki-abgerny.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-sprunksters-remix.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox-sprinkle.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox-shatter-sprunk.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox-sprunksters.md
+02:39:41 [glob-loader] Reloaded data from de/mundo-torajo-sprunki.md
+02:39:41 [glob-loader] Reloaded data from de/incredibox-yellow-colorbox.md
+02:39:41 [glob-loader] Reloaded data from de/pikmin-no-sprunki.md
+02:39:41 [glob-loader] Reloaded data from de/fiddlebops-sprunki.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-1996.md
+02:39:41 [glob-loader] Reloaded data from de/mountayonnaise.md
+02:39:41 [glob-loader] Reloaded data from de/sprunkgerny.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-abgerny.md
+02:39:41 [glob-loader] Reloaded data from de/ayocs-sprunkr.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-basical.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-but-with-memes.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-christmas.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-babies.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-craft.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-eggs-mix.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-interactive-beta.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-cool-as-ice.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-dandys-world.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-good-night.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-like-minecraft.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-maker.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-halloween.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-minecraft.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-meets-the-cat-spell.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-mod-BFDI.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-parasite-parasprunki-15.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-mustard.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-night-time.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-phase-5.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-phase-2-5.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-play-random.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-pyramixed-version.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-pyramixed.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-phase-8.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-phase-1.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-retake-new-human.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-police-and-prisoners.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-rotrizi-5.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-red-sun.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-sonic.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-sepbox-steel-factory.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-retake-bonus-characters.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-squid-remix.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-retake.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-swapped-horror.md
+02:39:41 [glob-loader] Reloaded data from de/the-haze-pixelbox.md
+02:39:41 [glob-loader] Reloaded data from de/sprunkle-bops.md
+02:39:41 [glob-loader] Reloaded data from de/super-sprunki-brasil.md
+02:39:41 [glob-loader] Reloaded data from de/sprunkr-but-sprunki.md
+02:39:41 [glob-loader] Reloaded data from de/sprunki-virus-new-update.md
+02:39:41 [glob-loader] Reloaded data from de/swap-sprunkgerny.md
+02:39:41 [glob-loader] Reloaded data from de/yojou-sprunki-mustard.md
+02:39:41 [glob-loader] Reloaded data from es/ayocs-sprunkr.md
+02:39:41 [glob-loader] Reloaded data from de/yojou-sprunki-mustard.md
+02:39:41 [glob-loader] Reloaded data from es/dandyrunki-retake.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-but-sprunki.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-sprunkbop.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-fix.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-but-dandys-world.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-sprunksters-remix.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-sprunki.md
+02:39:41 [glob-loader] Reloaded data from es/fiddlebops-polos.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox-shatter-sprunk.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox-sprinkle.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox-donki-abgerny.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox-yellow-colorbox.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox-sprunksters.md
+02:39:41 [glob-loader] Reloaded data from es/sprunkgerny.md
+02:39:41 [glob-loader] Reloaded data from es/incredibox-cool-as-ice.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-babies.md
+02:39:41 [glob-loader] Reloaded data from es/pikmin-no-sprunki.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-christmas.md
+02:39:41 [glob-loader] Reloaded data from es/mountayonnaise.md
+02:39:41 [glob-loader] Reloaded data from es/mundo-torajo-sprunki.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-craft.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-basical.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-dandys-world.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-interactive-beta.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-1996.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-cool-as-ice.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-good-night.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-eggs-mix.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-but-with-memes.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-halloween.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-abgerny.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-minecraft.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-mod-BFDI.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-like-minecraft.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-maker.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-night-time.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-mustard.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-phase-1.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-phase-5.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-phase-8.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-parasite-parasprunki-15.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-play-random.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-phase-2-5.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-pyramixed-version.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-red-sun.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-pyramixed.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-sepbox-steel-factory.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-retake-bonus-characters.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-police-and-prisoners.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-rotrizi-5.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-retake-new-human.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-retake.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-meets-the-cat-spell.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-swapped-horror.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-sonic.md
+02:39:41 [glob-loader] Reloaded data from es/sprunkr-but-sprunki.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-virus-new-update.md
+02:39:41 [glob-loader] Reloaded data from es/sprunki-squid-remix.md
+02:39:41 [glob-loader] Reloaded data from es/super-sprunki-brasil.md
+02:39:41 [glob-loader] Reloaded data from es/sprunkle-bops.md
+02:39:41 [glob-loader] Reloaded data from es/swap-sprunkgerny.md
+02:39:41 [glob-loader] Reloaded data from es/yojou-sprunki-mustard.md
+02:39:41 [glob-loader] Reloaded data from es/the-haze-pixelbox.md
+02:39:41 [glob-loader] Reloaded data from fr/ayocs-sprunkr.md
+02:39:41 [glob-loader] Reloaded data from ja/ayocs-sprunkr.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-but-sprunki.md
+02:39:41 [glob-loader] Reloaded data from fr/dandyrunki-retake.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-but-dandys-world.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-fix.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-sprunksters-remix.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox-donki-abgerny.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-polos.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox-shatter-sprunk.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox-cool-as-ice.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox-sprunksters.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-sprunkbop.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox-yellow-colorbox.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox-sprinkle.md
+02:39:41 [glob-loader] Reloaded data from fr/incredibox.md
+02:39:41 [glob-loader] Reloaded data from fr/fiddlebops-sprunki.md
+02:39:41 [glob-loader] Reloaded data from fr/mundo-torajo-sprunki.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-1996.md
+02:39:41 [glob-loader] Reloaded data from fr/mountayonnaise.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunkgerny.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-abgerny.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-babies.md
+02:39:41 [glob-loader] Reloaded data from fr/pikmin-no-sprunki.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-basical.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-christmas.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-but-with-memes.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-good-night.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-cool-as-ice.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-craft.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-eggs-mix.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-halloween.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-dandys-world.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-like-minecraft.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-meets-the-cat-spell.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-maker.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-minecraft.md
+02:39:41 [glob-loader] Reloaded data from fr/sprunki-interactive-beta.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-mod-BFDI.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-parasite-parasprunki-15.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-phase-5.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-phase-2-5.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-police-and-prisoners.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-phase-8.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-night-time.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-phase-1.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-pyramixed.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-retake-bonus-characters.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-pyramixed-version.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-play-random.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-retake-new-human.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-red-sun.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-retake.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-rotrizi-5.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-sonic.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-squid-remix.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-sepbox-steel-factory.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-swapped-horror.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunkr-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from fr/super-sprunki-brasil.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunki-virus-new-update.md
+02:39:42 [glob-loader] Reloaded data from fr/sprunkle-bops.md
+02:39:42 [glob-loader] Reloaded data from fr/swap-sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from fr/yojou-sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from fr/the-haze-pixelbox.md
+02:39:42 [glob-loader] Reloaded data from ja/dandyrunki-retake.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-but-dandys-world.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-sprunkbop.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-polos.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox-cool-as-ice.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-fix.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox-donki-abgerny.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-sprunksters-remix.md
+02:39:42 [glob-loader] Reloaded data from ja/fiddlebops-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox-shatter-sprunk.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox-sprinkle.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox-sprunksters.md
+02:39:42 [glob-loader] Reloaded data from ja/mountayonnaise.md
+02:39:42 [glob-loader] Reloaded data from ja/mundo-torajo-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-1996.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox.md
+02:39:42 [glob-loader] Reloaded data from ja/pikmin-no-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-babies.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-abgerny.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-but-with-memes.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-christmas.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-cool-as-ice.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-craft.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-basical.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-eggs-mix.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-dandys-world.md
+02:39:42 [glob-loader] Reloaded data from ja/incredibox-yellow-colorbox.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-halloween.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-like-minecraft.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-interactive-beta.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-minecraft.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-good-night.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-meets-the-cat-spell.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-mod-BFDI.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-maker.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-phase-1.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-night-time.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-parasite-parasprunki-15.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-phase-5.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-phase-8.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-play-random.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-police-and-prisoners.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-pyramixed.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-phase-2-5.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-red-sun.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-rotrizi-5.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-sepbox-steel-factory.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-retake-bonus-characters.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-retake.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-pyramixed-version.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-retake-new-human.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-sonic.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-swapped-horror.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-virus-new-update.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunkle-bops.md
+02:39:42 [glob-loader] Reloaded data from ja/swap-sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from ja/super-sprunki-brasil.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunkr-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ja/the-haze-pixelbox.md
+02:39:42 [glob-loader] Reloaded data from ja/sprunki-squid-remix.md
+02:39:42 [glob-loader] Reloaded data from ja/yojou-sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from ko/ayocs-sprunkr.md
+02:39:42 [glob-loader] Reloaded data from zh/ayocs-sprunkr.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ko/dandyrunki-retake.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-polos.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-sprunkbop.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-but-dandys-world.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-fix.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox-cool-as-ice.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox-shatter-sprunk.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox-yellow-colorbox.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox-sprunksters.md
+02:39:42 [glob-loader] Reloaded data from ko/fiddlebops-sprunksters-remix.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox-sprinkle.md
+02:39:42 [glob-loader] Reloaded data from ko/mountayonnaise.md
+02:39:42 [glob-loader] Reloaded data from ko/mundo-torajo-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ko/incredibox-donki-abgerny.md
+02:39:42 [glob-loader] Reloaded data from ko/pikmin-no-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-1996.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-abgerny.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-basical.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-babies.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-christmas.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-craft.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-but-with-memes.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-dandys-world.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-eggs-mix.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-cool-as-ice.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-good-night.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-interactive-beta.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-minecraft.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-halloween.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-meets-the-cat-spell.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-like-minecraft.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-maker.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-night-time.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-parasite-parasprunki-15.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-phase-1.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-mod-BFDI.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-phase-2-5.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-phase-5.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-play-random.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-phase-8.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-police-and-prisoners.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-pyramixed.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-pyramixed-version.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-retake-bonus-characters.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-retake-new-human.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-retake.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-red-sun.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-rotrizi-5.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-sepbox-steel-factory.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-sonic.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-virus-new-update.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-squid-remix.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunkle-bops.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunki-swapped-horror.md
+02:39:42 [glob-loader] Reloaded data from ko/sprunkr-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ko/swap-sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from ko/the-haze-pixelbox.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-but-dandys-world.md
+02:39:42 [glob-loader] Reloaded data from ko/yojou-sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from zh/dandyrunki-retake.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-polos.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-sprunki.md
+02:39:42 [glob-loader] Reloaded data from ko/super-sprunki-brasil.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-fix.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-sprunkbop.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox-shatter-sprunk.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox-donki-abgerny.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox-cool-as-ice.md
+02:39:42 [glob-loader] Reloaded data from zh/fiddlebops-sprunksters-remix.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox-sprunksters.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox-sprinkle.md
+02:39:42 [glob-loader] Reloaded data from zh/mundo-torajo-sprunki.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox.md
+02:39:42 [glob-loader] Reloaded data from zh/mountayonnaise.md
+02:39:42 [glob-loader] Reloaded data from zh/pikmin-no-sprunki.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from zh/incredibox-yellow-colorbox.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-babies.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-basical.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-abgerny.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-christmas.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-1996.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-cool-as-ice.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-dandys-world.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-craft.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-eggs-mix.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-but-with-memes.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-minecraft.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-good-night.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-interactive-beta.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-halloween.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-like-minecraft.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-maker.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-meets-the-cat-spell.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-night-time.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-mod-BFDI.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-parasite-parasprunki-15.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-phase-2-5.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-phase-1.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-play-random.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-phase-8.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-pyramixed.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-phase-5.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-police-and-prisoners.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-red-sun.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-retake.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-retake-bonus-characters.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-pyramixed-version.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-rotrizi-5.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-sepbox-steel-factory.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-sonic.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-squid-remix.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-retake-new-human.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-swapped-horror.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunki-virus-new-update.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunkr-but-sprunki.md
+02:39:42 [glob-loader] Reloaded data from zh/swap-sprunkgerny.md
+02:39:42 [glob-loader] Reloaded data from zh/super-sprunki-brasil.md
+02:39:42 [glob-loader] Reloaded data from zh/the-haze-pixelbox.md
+02:39:42 [glob-loader] Reloaded data from zh/yojou-sprunki-mustard.md
+02:39:42 [glob-loader] Reloaded data from zh/sprunkle-bops.md
+03:25:24 [glob-loader] Reloaded data from zh.json
+03:25:25 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:25:45 [glob-loader] Reloaded data from de.json
+03:25:46 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:26:07 [glob-loader] Reloaded data from es.json
+03:26:08 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:26:29 [glob-loader] Reloaded data from fr.json
+03:26:30 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:26:54 [glob-loader] Reloaded data from ja.json
+03:26:55 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:27:18 [glob-loader] Reloaded data from ko.json
+03:27:19 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:34:44 [glob-loader] Reloaded data from de.json
+03:34:45 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:36:08 [glob-loader] Reloaded data from es.json
+03:36:08 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:37:28 [glob-loader] Reloaded data from fr.json
+03:37:29 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+03:38:49 [glob-loader] Reloaded data from ja.json
+03:41:34 [glob-loader] Reloaded data from ko.json
+03:41:35 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at D:\Users\33267\Documents\GitHub\fb-jf\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json.tmp' -> 'D:\Users\33267\Documents\GitHub\fb-jf\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:783:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+11:30:58 [content] Syncing content
+11:30:58 [content] Content config changed
+11:30:58 [content] Clearing content store
+11:31:01 [content] Synced content
+11:36:31 Configuration file removed. Restarting...
+11:36:31 [vite] Re-optimizing dependencies because vite config has changed
+11:36:33 [content] Syncing content
+[Shiki] 10 instances have been created. Shiki is supposed to be used as a singleton, consider refactoring your code to cache your highlighter instance; Or call `highlighter.dispose()` to release unused instances.
+11:36:37 [content] Synced content
+11:36:37 [types] Generated 5.91s
+11:36:37 [vite] Re-optimizing dependencies because vite config has changed
+11:40:44 Configuration file added. Restarting...
+11:40:44 [vite] Re-optimizing dependencies because vite config has changed
+11:40:45 [content] Syncing content
+11:40:45 [content] Synced content
+11:40:45 [types] Generated 1.49s
+11:40:45 [vite] Port 4321 is in use, trying another one...
+11:40:45 [vite] Port 4322 is in use, trying another one...
+11:40:45 [vite] Port 4323 is in use, trying another one...
+11:40:45 [vite] Port 4324 is in use, trying another one...

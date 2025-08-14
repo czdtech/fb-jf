@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-1
+slug: sprunki-phase-1-zh
 title: Sprunki Phase 1 - 音乐创作原点
 description: >-
   Sprunki Phase 1是进入神奇Sprunki宇宙的完美入口。它提供了一种简单直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界最初是什么样子的。

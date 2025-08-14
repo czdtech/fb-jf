@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update
+slug: sprunki-virus-new-update-de
 title: Sprunki Virus New Update
 description: >-
   Sehnst du dich nach einer musikalischen Reise, die die Grenzen deiner Sinne

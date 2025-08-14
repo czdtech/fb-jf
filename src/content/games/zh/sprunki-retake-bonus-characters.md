@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-bonus-characters
+slug: sprunki-retake-bonus-characters-zh
 title: Sprunki 重制版奖励角色
 description: >-
   Sprunki 重制版奖励角色不仅仅是一个常规的音乐游戏，它是对古代文化的致敬，

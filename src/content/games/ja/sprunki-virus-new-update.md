@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update
+slug: sprunki-virus-new-update-ja
 title: Sprunki Virus New Update
 description: >-
   感覚の限界に挑戦する音楽の旅を渇望していませんか？Sprunki Virusが

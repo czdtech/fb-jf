@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: swap-sprunkgerny-ko
 title: TITLE
 description: >-
   DESCRIPTION

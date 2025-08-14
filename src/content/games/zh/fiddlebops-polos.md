@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-polos
+slug: fiddlebops-polos-zh
 title: Fiddlebops Polos
 description: >
   Fiddlebops Polos 是一个创意音乐游戏，玩家可以创作音轨、探索互动故事，并与充满活力的社区互动，全部免费在线体验。

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-interactive-beta
+slug: sprunki-interactive-beta-zh
 title: Sprunki Interactive Beta
 description: Sprunki Interactive BETA 不仅仅是对 Sprunki 游戏的简单升级，它
 image: /sprunki-interactive-beta.png

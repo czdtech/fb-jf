@@ -1,5 +1,5 @@
 ---
-slug: sprunki-but-with-memes
+slug: sprunki-but-with-memes-es
 title: Sprunki But With Memes
 description: >-
   Sprunki pero con memes es un juego de música que te permite crear tanto como

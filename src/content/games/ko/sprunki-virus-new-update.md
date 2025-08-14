@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-virus-new-update-ko
 title: TITLE
 description: >-
   DESCRIPTION

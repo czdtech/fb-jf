@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-1
+slug: sprunki-phase-1-ja
 title: Sprunki Phase 1
 description: >-
   Sprunki Phase 1は、素晴らしいSprunkiユニバースへの完璧な入門ゲートです。

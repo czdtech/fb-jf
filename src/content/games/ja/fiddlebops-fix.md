@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-fix
+slug: fiddlebops-fix-ja
 title: Fiddlebops Fix
 description: >-
   Fiddlebops Fixは、プレイヤーがトラックを作曲し、インタラクティブなストーリーを探求し、

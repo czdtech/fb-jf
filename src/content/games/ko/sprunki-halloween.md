@@ -1,5 +1,5 @@
 ---
-slug: sprunki-halloween
+slug: sprunki-halloween-ko
 title: 스프런키 할로윈
 description: >
   스프런키 할로윈은 할로윈 분위기 속에서 음악적 재능을 

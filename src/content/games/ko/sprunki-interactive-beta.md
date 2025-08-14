@@ -1,5 +1,5 @@
 ---
-slug: sprunki-interactive-beta
+slug: sprunki-interactive-beta-ko
 title: 스프런키 인터랙티브 베타
 description: >-
   스프런키 인터랙티브 베타는 새로운 기능들을 테스트할 수 있는 베타 버전입니다.

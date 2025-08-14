@@ -218,6 +218,48 @@
     "tagline": "创作音乐，分享快乐",
     "description": "免费在线音乐创作平台"
   },
+  "soundSamples": {
+    "title": "探索FiddleBops Incredibox中的不同声音",
+    "description": "聆听正宗的FiddleBops角色声音：来自Garrett和月亮先生的节拍，来自Cyborg Throat Singing的效果，来自Blues Clues Radio 2011的旋律，以及来自Mike Ehrmantraut的人声"
+  },
+  "videos": {
+    "title": "FiddleBops Incredibox游戏视频",
+    "description": "观看带字幕的4K高清FiddleBops完整游戏演示，以及展示所有25个角色及其独特动画的8分钟精彩集锦",
+    "demo": {
+      "title": "🎵 FiddleBops完整演示",
+      "description": "带字幕的4K高清游戏演示"
+    },
+    "highlights": {
+      "title": "🎮 8分钟精彩集锦",
+      "description": "8分钟内展示所有FiddleBops角色"
+    }
+  },
+  "faq": {
+    "title": "❓ 常见问题",
+    "description": "获取关于FiddleBops游戏玩法、角色机制、浏览器兼容性、音乐创作技巧以及如何解锁所有25个角色（包括5个特殊奖励角色）的答案",
+    "items": [
+      {
+        "question": "🎮 什么是FiddleBops Incredibox？",
+        "answer": "FiddleBops是一个受Incredibox启发的粉丝制作项目。在这里，您可以体验音乐混合的乐趣，通过直观的界面创作独特的音乐作品。"
+      },
+      {
+        "question": "💰 FiddleBops Incredibox是免费的吗？",
+        "answer": "是的，FiddleBops Incredibox完全免费。玩家可以在线游玩，无需任何下载。"
+      },
+      {
+        "question": "📱 我需要下载或安装什么吗？",
+        "answer": "无需下载。游戏直接在您的浏览器中运行，支持桌面和移动设备。"
+      },
+      {
+        "question": "🎵 我需要音乐背景吗？",
+        "answer": "完全不需要！FiddleBops Incredibox是为没有音乐背景的人设计的。它更像是一个音乐玩具和创作工具。"
+      },
+      {
+        "question": "🚀 如何开始创作音乐？",
+        "answer": "玩家可以将角色拖拽到舞台上，结合它们的独特声音来创作音乐作品。尝试不同的角色组合来解锁隐藏旋律和奖励内容。"
+      }
+    ]
+  },
   "error": {
     "404": {
       "title": "页面未找到",

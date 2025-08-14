@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprunksters
+slug: incredibox-sprunksters-zh
 title: Incredibox Sprunksters
 description: >-
   告别千篇一律的声音！Incredibox Sprunksters 带来全新的音效采样和特效，让你的音乐感受独特而富有创意。

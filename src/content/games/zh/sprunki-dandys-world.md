@@ -1,5 +1,5 @@
 ---
-slug: sprunki-dandys-world
+slug: sprunki-dandys-world-zh
 title: Sprunki Dandy's World - 奇幻音乐世界
 description: Sprunki Dandy's World是一款融合音乐、艺术和故事的独特游戏。在这里，你可以释放创造力，创建属于你自己的音乐世界。
 image: /sprunki-dandys-world.png

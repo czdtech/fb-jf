@@ -1,5 +1,5 @@
 ---
-slug: sprunki-dandys-world
+slug: sprunki-dandys-world-de
 title: Sprunki Dandys World
 description: >
   Sprunki Dandys World ist eine faszinierende Crossover-Mod, die Charaktere

@@ -1,5 +1,5 @@
 ---
-slug: yojou-sprunki-mustard
+slug: yojou-sprunki-mustard-zh
 title: Yojou Sprunki 芥末
 description: >-
   Yojou Sprunki 芥末，这个恶搞模组完全颠覆了 Sprunki 世界，

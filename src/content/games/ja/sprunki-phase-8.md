@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8
+slug: sprunki-phase-8-ja
 title: Sprunki Phase 8
 description: >-
   Sprunki Phase 8は、音楽創作とホラー美学を見事に融合させた大胆な実験です。神秘と創造性に満ちたプラットフォームを提供し、ダークサイドを探求しながら音楽を楽しむことができます。

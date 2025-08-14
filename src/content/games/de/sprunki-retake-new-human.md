@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human
+slug: sprunki-retake-new-human-de
 title: Sprunki Retake New Human
 description: >-
   Der Kern von Sprunki Retake New Human ist es, die klassische

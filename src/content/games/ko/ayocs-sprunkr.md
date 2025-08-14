@@ -1,5 +1,5 @@
 ---
-slug: ayocs-sprunkr
+slug: ayocs-sprunkr-ko
 title: 아요스 스프렁크
 description: >-
   아요스 스프렁크를 확인해보세요! 이 모드는 스프렁키 유니버스에 매우 세련된 변신을 

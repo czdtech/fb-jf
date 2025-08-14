@@ -1,5 +1,5 @@
 ---
-slug: swap-sprunkgerny
+slug: swap-sprunkgerny-de
 title: Swap Sprunkgerny
 description: >-
   Stellen Sie sich eine Gruppe außerirdischer Kreaturen vor, die vor Ihnen stehen, 

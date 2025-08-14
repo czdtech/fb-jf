@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-swapped-horror-ko
 title: TITLE
 description: >-
   DESCRIPTION

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update
+slug: sprunki-virus-new-update-en
 title: Sprunki Virus New Update
 description: >-
   Are you craving a musical journey that challenges the limits of your senses?

@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops
+slug: sprunkle-bops-ko
 title: 스프런클 밥스
 description: >-
   독특한 스프런클 캐릭터들의 음악 게임입니다.

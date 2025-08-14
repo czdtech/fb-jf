@@ -64,7 +64,7 @@ export async function GET() {
   for (const game of games) {
     const gameId = game.id.replace(/\.md$/, ""); // e.g. 'en/sprunki-retake'
     const [localePrefix, slug] = gameId.split("/");
-    const normalizedSlug = slug || game.slug.replace(/\/$/, "");
+    const normalizedSlug = slug || (game.slug ? game.slug.replace(/\/$/, "") : gameId);
     const isEnglish = localePrefix === "en" || !slug;
 
     const loc = isEnglish

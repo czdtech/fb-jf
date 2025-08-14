@@ -1,5 +1,5 @@
 ---
-slug: incredibox-donki-abgerny
+slug: incredibox-donki-abgerny-de
 title: Incredibox Donki Abgerny
 description: >
   Incredibox Donki Abgerny bringt tiefe Stammes-Rhythmen, einzigartige Didgeridoos

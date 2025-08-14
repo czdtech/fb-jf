@@ -1,5 +1,5 @@
 ---
-slug: sprunki-parasite-parasprunki-15
+slug: sprunki-parasite-parasprunki-15-zh
 title: Sprunki Parasite Parasprunki 15
 description: >-
   准备好迎接 Sprunki Parasite ParaSprunki 15！这不是你可能习惯的阳光明媚的 Sprunki；这是天才 mondaymuncher 制作的粉丝 mod，充满了刺激元素。它将熟悉的音乐创作体验扭转成令人愉快的恐怖冒险。

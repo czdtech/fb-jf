@@ -1,5 +1,5 @@
 ---
-slug: dandyrunki-retake
+slug: dandyrunki-retake-ko
 title: 댄디런키 리테이크
 description: >-
   댄디런키 리테이크에서는 쉽게 시작할 수 있으며 다양한 리듬과 멜로디를 

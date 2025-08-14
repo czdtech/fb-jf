@@ -1,5 +1,5 @@
 ---
-slug: super-sprunki-brasil
+slug: super-sprunki-brasil-ja
 title: Super Sprunki Brasil
 description: >-
   Super Sprunki Brasilは、情熱的なブラジルの才能で音楽的創造性に火を点けることができる

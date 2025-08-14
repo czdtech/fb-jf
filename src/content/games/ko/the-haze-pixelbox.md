@@ -1,5 +1,5 @@
 ---
-slug: the-haze-pixelbox
+slug: the-haze-pixelbox-ko
 title: 더 헤이즈 픽셀박스
 description: >-
   신비한 헤이즈 분위기의 픽셀 스타일 게임입니다.

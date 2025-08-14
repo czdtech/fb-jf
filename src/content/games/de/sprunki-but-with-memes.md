@@ -1,5 +1,5 @@
 ---
-slug: sprunki-but-with-memes
+slug: sprunki-but-with-memes-de
 title: Sprunki But With Memes
 description: >
   Sprunki But With Memes ist eine humorvolle Variation des klassischen Sprunki-Spiels,

@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunkbop
+slug: fiddlebops-sprunkbop-es
 title: Fiddlebops Sprunkbop
 description: >-
   Fiddlebops Sprunkbop es un evento de cruce increíble! Mantiene el núcleo

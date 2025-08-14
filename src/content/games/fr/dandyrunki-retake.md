@@ -1,5 +1,5 @@
 ---
-slug: dandyrunki-retake
+slug: dandyrunki-retake-fr
 title: Dandyrunki Retake
 description: >-
   Dans Dandyrunki Retake, vous pouvez facilement commencer et explorer sans effort

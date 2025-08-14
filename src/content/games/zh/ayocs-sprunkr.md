@@ -1,5 +1,5 @@
 ---
-slug: ayocs-sprunkr
+slug: ayocs-sprunkr-zh
 title: Ayocs Sprunkr
 description: >-
   你一定要试试 AYOCS Sprunkr！这个模组为 Sprunki 宇宙提供了超级时尚的改造，为熟悉的音乐创作体验注入了新的活力。

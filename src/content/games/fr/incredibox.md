@@ -1,5 +1,5 @@
 ---
-slug: incredibox
+slug: incredibox-fr
 title: Incredibox
 description: >-
   Vous voulez créer votre propre tube exclusif avec un groupe de beatboxers

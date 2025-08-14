@@ -1,5 +1,5 @@
 ---
-slug: sprunkr-but-sprunki
+slug: sprunkr-but-sprunki-fr
 title: Sprunkr But Sprunki
 description: >-
   Un Mod créatif qui remplace les personnages de Sprunkr par des figures 

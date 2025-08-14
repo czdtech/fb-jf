@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8
+slug: sprunki-phase-8-ko
 title: 스프런키 페이즈 8
 description: >-
   스프런키 페이즈 8은 음악 창작과 호러 미학을 성공적으로 결합한 

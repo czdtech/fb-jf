@@ -1,5 +1,5 @@
 ---
-slug: sprunki-maker
+slug: sprunki-maker-ja
 title: Sprunki Maker
 description: >-
   ユニークなSprunkiキャラクターを持ちたいですか？今がチャンスです！Sprunki Makerは想像力を解き放ち、頭からつま先まで独占的なSprunkiをカスタマイズして、あなたを最もよく表現するパーソナライズされたキャラクターを作ることができます！

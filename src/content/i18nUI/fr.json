@@ -27,7 +27,206 @@
     "popularGames": "Jeux Populaires",
     "trendingGames": "Jeux Tendances",
     "about": "À Propos de FiddleBops",
-    "videos": "Tutoriels Vidéo"
+    "videos": "Tutoriels Vidéo",
+    "relatedGames": "Jeux Connexes",
+    "relatedGamesDesc": "Découvrez plus de jeux incroyables de création musicale"
+  },
+  "howToPlay": {
+    "description": "Faites glisser des personnages comme Garrett (claques de ventre), Green Drum Machine (bongos de bonhomme de neige) et YTPMV Elf sur scène pour créer des combinaisons musicales amusantes et débloquer du contenu bonus",
+    "quickStart": {
+      "title": "Démarrage Rapide - 3 Étapes Faciles !",
+      "subtitle": "Créez de la musique en moins de 30 secondes !",
+      "steps": {
+        "pick": {
+          "title": "Choisissez Vos Personnages",
+          "description": "Choisissez parmi 27 personnages amusants comme Garrett, Mr. Moon et Skibidi Biden !"
+        },
+        "drag": {
+          "title": "Glisser & Déposer",
+          "description": "Faites simplement glisser des personnages sur scène - regardez Garrett claquer son ventre !"
+        },
+        "create": {
+          "title": "Créer le Chaos",
+          "description": "Mélangez des sons absurdes à 206 BPM pour une musique merveilleusement étrange !"
+        }
+      }
+    },
+    "characters": {
+      "title": "Rencontrez les Personnages",
+      "beats": "<strong>Rythmes</strong> - Garrett (claques de ventre), Green Drum Machine, Mr. Moon, Snaire, Combi",
+      "effects": "<strong>Effets</strong> - YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen, Tina",
+      "melodies": "<strong>Mélodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha",
+      "voices": "<strong>Voix</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie"
+    },
+    "bonusCharacters": {
+      "title": "Personnages Bonus",
+      "wordsWithFriends": "<strong>Words With Friends Tile</strong> - Personnage bonus spécial avec des animations uniques",
+      "fredFigglehorn": "<strong>Fred Figglehorn</strong> - Le personnage YouTube iconique à la voix aiguë",
+      "scrubDaddy": "<strong>Scrub Daddy GF</strong> - Un produit de nettoyage avec de la personnalité",
+      "jummbox": "<strong>Jummbox & Boykixxer</strong> - Déblocable via des combinaisons spéciales"
+    },
+    "features": {
+      "title": "Fonctionnalités du Jeu",
+      "bpm": "<strong>206 BPM</strong> - Rythme rapide qui maintient l'énergie élevée",
+      "jokeMod": "<strong>Mod Blague</strong> - Conception de personnages intentionnellement absurde et amusante",
+      "easyControls": "<strong>Contrôles Faciles</strong> - Gameplay classique d'Incredibox glisser-déposer",
+      "animations": "<strong>Animations Spéciales</strong> - Regardez des personnages comme Mr. Moon prendre vie en 3D"
+    },
+    "mechanics": {
+      "title": "Mécaniques de Création",
+      "soundCombination": "<strong>Combinaison de Sons</strong> - Mélangez jusqu'à 7 personnages à la fois pour créer des rythmes uniques",
+      "rhythm": "<strong>Rythme et Tempo</strong> - Tous les sons se synchronisent automatiquement au tempo de 206 BPM",
+      "loop": "<strong>Boucle et Répétition</strong> - Créez des boucles fluides avec correspondance automatique des rythmes",
+      "explore": "<strong>Explorer et Expérimenter</strong> - Aucune mauvaise combinaison - découvrez des combos de sons cachés !"
+    }
+  },
+  "about": {
+    "description": "Sorti le 7 novembre 2024, ce mod Incredibox axé sur la comédie présente 25 personnages absurdes comme Garrett, Mr. Moon et Skibidi Biden, créant une musique chaotique à 206 BPM énergiques",
+    "gameInfo": {
+      "title": "🎮 I. Informations sur le Jeu FiddleBops",
+      "officialName": "Nom Officiel :",
+      "officialNameValue": "FiddleBops (Fanon Incredibox Mod)",
+      "releaseDate": "Date de Sortie :",
+      "releaseDateValue": "7 novembre 2024",
+      "bpm": "BPM :",
+      "bpmValue": "206 BPM (103 en demi-temps)",
+      "characterCount": "Nombre de Personnages :",
+      "characterCountValue": "25 Personnages (20 Principaux + 5 Bonus)",
+      "modType": "Type de Mod :",
+      "modTypeValue": "Mod \"Blague\" avec Personnages Absurdes",
+      "creators": "Créateurs :",
+      "creatorsValue": "Kautaruma, SkyFactorial, BezieAnims, Maddie (Jukebox), RubysArt_, Shackle, radio_cative, personaladventure"
+    },
+    "characterCategories": {
+      "title": "🎭 II. Catégories de Personnages",
+      "beats": {
+        "title": "🥁 Rythmes (5 Personnages)",
+        "thisIsGarrett": "This Is Garrett - Claque son ventre pour les grosses caisses et ouvre la bouche pour les caisses claires",
+        "greenDrumMachine": "Green Drum Machine - Bonhomme de neige de Noël avec des tambours bongo",
+        "mrMoon": "Mr. Moon - Emoji Apple \"Full Moon Face\" avec animation 3D",
+        "snaireCombi": "Snaire & Combi - Éléments rythmiques supplémentaires"
+      },
+      "effects": {
+        "title": "🌟 Effets (5 Personnages)",
+        "description": "YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen B. Bothamious I, Tina The Beepboxer",
+        "subtitle": "Chacun fournit des effets sonores uniques et des éléments atmosphériques"
+      },
+      "melodies": {
+        "title": "🎹 Mélodies (5 Personnages)",
+        "description": "Blues Clues Radio 2011, Marcello, Eucerin, Uncanny Melody, Keisha",
+        "subtitle": "Créent les lignes mélodiques principales et les thèmes musicaux"
+      },
+      "voices": {
+        "title": "🎤 Voix (5 Personnages)",
+        "description": "Skibidi Biden, Sporbb The Animator, Tronic the Chipmunk, Mike Ehrmantraut, Blue Vest Munchie",
+        "subtitle": "Éléments vocaux et expressions des personnages"
+      },
+      "bonus": {
+        "title": "🎆 Personnages Bonus (5 Spéciaux)",
+        "description": "Words With Friends Tile, Fred Figglehorn, Scrub Daddy GF, Jummbox, Boykixxer",
+        "subtitle": "Déblocables via des combinaisons spéciales et des méthodes secrètes"
+      }
+    },
+    "features": {
+      "title": "🎨 III. Fonctionnalités et Conception du Jeu",
+      "comedy": {
+        "title": "😂 Conception Axée sur la Comédie",
+        "description": "Noms et conceptions de personnages intentionnellement absurdes créent une expérience humoristique. Des personnages comme \"Skibidi Biden\" et \"Scrub Daddy GF\" illustrent l'approche comédique du mod."
+      },
+      "highEnergy": {
+        "title": "🎵 Musique Haute Énergie",
+        "description": "206 BPM créent des compositions rapides et énergiques. Le tempo encourage des créations musicales dynamiques et vives contrairement aux versions traditionnelles d'Incredibox."
+      },
+      "animations": {
+        "title": "🎪 Animations Spéciales",
+        "description": "Les personnages ont des animations uniques : claques de ventre de Garrett, jambes pendantes de Green Drum Machine, transformations 3D de Mr. Moon donnent vie aux personnalités."
+      },
+      "antiPiracy": {
+        "title": "🔒 Protection Anti-Piratage",
+        "description": "Le mod inclut des mesures spéciales anti-piratage pour protéger le travail des créateurs et assurer une distribution appropriée via des canaux autorisés."
+      }
+    },
+    "platform": {
+      "title": "🎯 IV. Tags du Jeu et Plateforme",
+      "categories": {
+        "title": "🏷️ Catégories du Jeu",
+        "description": "Création Musicale, Rythme, Expérimental, Éducatif, Familial, Décontracté, Solo, Créatif, Mod Comédie"
+      },
+      "access": {
+        "title": "🌐 Plateformes et Accès",
+        "mainPlatform": "Plateforme Principale :",
+        "mainPlatformValue": "playfiddlebops.com (Navigateur Web)",
+        "alsoAvailable": "Aussi Disponible :",
+        "alsoAvailableValue": "itch.io, Scratch",
+        "price": "Prix :",
+        "priceValue": "Gratuit à Jouer",
+        "noDownload": "Aucun téléchargement requis - Jouez directement dans le navigateur"
+      }
+    },
+    "community": {
+      "title": "🌟 V. Mods Populaires de FiddleBops et Communauté",
+      "mods": {
+        "title": "🎮 Mods de la Communauté",
+        "fiddlebopsSprunki": "• Fiddlebops but Sprunki - Croisement à thème d'horreur",
+        "fiddlebopsFix": "• Fiddlebops Fix - Corrections de bugs et améliorations",
+        "sprunksters": "• Fiddlebops Sprunksters Remix - Nouvelles combinaisons sonores",
+        "pyramixed": "• Fiddlebops Pyramixed - Remix à thème égyptien",
+        "exploreMore": "Explorez plus de mods dans notre section jeux !"
+      },
+      "share": {
+        "title": "🔗 Partagez Vos Créations",
+        "joinCommunity": "Rejoignez la communauté FiddleBops !",
+        "youtube": "YouTube :",
+        "youtubeDesc": "Téléchargez des vidéos de gameplay",
+        "tiktok": "TikTok :",
+        "tiktokDesc": "Partagez de courts clips musicaux",
+        "twitter": "Twitter :",
+        "twitterDesc": "Utilisez #FiddleBops",
+        "screenRecord": "Utilisez un logiciel d'enregistrement d'écran pour capturer et partager vos chefs-d'œuvre musicaux !"
+      }
+    }
+  },
+  "soundSamples": {
+    "title": "Explorez les différents sons de Fiddlebops Incredibox",
+    "description": "Écoutez les sons authentiques des personnages FiddleBops : Rythmes de Garrett et Mr. Moon, Effets de Cyborg Throat Singing, Mélodies de Blues Clues Radio 2011, et Voix de Mike Ehrmantraut"
+  },
+  "videos": {
+    "title": "Vidéo du Jeu Fiddlebops Incredibox",
+    "description": "Regardez des démonstrations complètes de gameplay FiddleBops en 4K HD avec sous-titres, plus des compilations de 8 minutes mettant en vedette tous les 25 personnages et leurs animations uniques en action",
+    "demo": {
+      "title": "🎵 Démo Complète de Fiddlebops",
+      "description": "Démonstration de gameplay 4K HD avec sous-titres"
+    },
+    "highlights": {
+      "title": "🎮 Moments Forts de 8 Minutes",
+      "description": "Tous les personnages FiddleBops en 8 minutes"
+    }
+  },
+  "faq": {
+    "title": "❓ Questions Fréquemment Posées",
+    "description": "Obtenez des réponses sur le gameplay de FiddleBops, les mécaniques des personnages, la compatibilité du navigateur, les conseils de création musicale et comment débloquer tous les 25 personnages y compris les 5 personnages bonus spéciaux",
+    "items": [
+      {
+        "question": "🎮 Qu'est-ce que Fiddlebops Incredibox ?",
+        "answer": "Fiddlebops est un projet de fans inspiré d'Incredibox. Ici, vous pouvez découvrir la joie du mixage musical et créer des œuvres musicales uniques grâce à une interface intuitive."
+      },
+      {
+        "question": "💰 Fiddlebops Incredibox est-il gratuit ?",
+        "answer": "Oui, Fiddlebops Incredibox est entièrement gratuit. Les joueurs peuvent jouer en ligne sans aucun téléchargement requis."
+      },
+      {
+        "question": "📱 Dois-je télécharger ou installer quelque chose ?",
+        "answer": "Aucun téléchargement requis. Le jeu fonctionne directement dans votre navigateur et prend en charge les appareils de bureau et mobiles."
+      },
+      {
+        "question": "🎵 Ai-je besoin d'un background musical ?",
+        "answer": "Pas du tout ! Fiddlebops Incredibox est conçu pour les personnes sans formation musicale. C'est plutôt comme un jouet musical et un outil créatif."
+      },
+      {
+        "question": "🚀 Comment puis-je commencer à créer de la musique ?",
+        "answer": "Les joueurs peuvent faire glisser des personnages sur scène et combiner leurs sons uniques pour créer des compositions musicales. Essayez différentes combinaisons de personnages pour débloquer des mélodies cachées et du contenu bonus."
+      }
+    ]
   },
   "games": {
     "playNow": "Jouer Maintenant",
@@ -35,6 +234,7 @@
     "error": "Échec du chargement du jeu",
     "retry": "Réessayer",
     "viewMore": "Voir Plus de Jeux",
+    "viewAllGames": "Voir Tous les Jeux",
     "noGames": "Aucun jeu trouvé",
     "category": "Catégorie",
     "rating": "Évaluation"

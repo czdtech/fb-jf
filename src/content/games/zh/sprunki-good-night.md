@@ -1,5 +1,5 @@
 ---
-slug: sprunki-good-night
+slug: sprunki-good-night-zh
 title: Sprunki Good Night
 description: >-
   Sprunki Good Night 是一个让你在疲惫一天后完全放松身心的 Mod。来到 Sprunki Good Night，用温柔平静的节拍创作完美的摇篮曲，迎接甜美的梦境！

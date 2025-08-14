@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-bonus-characters
+slug: sprunki-retake-bonus-characters-ja
 title: Sprunki Retake Bonus Characters
 description: >-
   Sprunki Retake Bonus Charactersは単なる普通の音楽ゲームではありません。

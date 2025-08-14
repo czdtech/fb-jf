@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5
+slug: sprunki-rotrizi-5-zh
 title: Sprunki Rotrizi 5
 description: >-
   Sprunki Rotrizi 5.0 是一个令人兴奋的免费音乐混音体验，

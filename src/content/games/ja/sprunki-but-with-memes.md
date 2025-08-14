@@ -1,5 +1,5 @@
 ---
-slug: sprunki-but-with-memes
+slug: sprunki-but-with-memes-ja
 title: Sprunki But With Memes
 description: >-
   Sprunki But With Memesは、ミームの海で思いっきり創作できる音楽ゲームです。Sprunki But With Memesに参加して、あなたのユニークな音楽的才能でミームブームを点火させましょう！

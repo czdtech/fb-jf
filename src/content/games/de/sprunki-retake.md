@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake
+slug: sprunki-retake-de
 title: Sprunki Retake
 description: >-
   Wenn Sie Rhythmusspiele lieben und eine Vorliebe für Horror-Elemente haben,

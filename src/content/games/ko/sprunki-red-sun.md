@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-red-sun-ko
 title: TITLE
 description: >-
   DESCRIPTION

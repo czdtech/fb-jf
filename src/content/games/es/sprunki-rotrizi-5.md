@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5
+slug: sprunki-rotrizi-5-es
 title: Sprunki Rotrizi 5
 description: >-
   Sprunki Rotrizi 5.0 es una experiencia emocionante y gratuita de mezcla

@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: yojou-sprunki-mustard-ko
 title: TITLE
 description: >-
   DESCRIPTION

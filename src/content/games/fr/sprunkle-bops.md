@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops
+slug: sprunkle-bops-fr
 title: Sprunkle Bops
 description: >-
   Une extension non officielle du jeu de mixage musical Incredibox, avec 

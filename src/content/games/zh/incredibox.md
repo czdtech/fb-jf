@@ -1,5 +1,5 @@
 ---
-slug: incredibox
+slug: incredibox-zh
 title: Incredibox - 音乐创作之王
 description: >-
   想和一群古怪的节拍大师一起创作专属爆款歌曲吗？Incredibox让你的音乐梦想成真！这既是游戏，也是音乐创作工具，为各个年龄段的音乐爱好者带来无限乐趣。

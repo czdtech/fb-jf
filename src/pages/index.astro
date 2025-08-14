@@ -26,88 +26,28 @@ const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 const homeContent = translation.home;
 
-// 获取当前语言的游戏 - 已优化版本
+// 获取当前语言的游戏 - 使用Content Collections API
 const currentPath = Astro.url.pathname;
 
 let allGames: any[] = [];
 
 try {
-  // 🔧 尝试直接获取英文游戏（根目录下的文件）
-  let englishGamesOnly;
-  try {
-    englishGamesOnly = await getCollection('games', ({ id }) => !id.includes('/'));
-    console.log('Direct English games query result:', englishGamesOnly.length);
-  } catch (englishError) {
-    console.error('Error loading English games directly:', englishError);
-    englishGamesOnly = [];
-  }
+  // ✅ 修复完成：现在使用正确的Content Collections API
+  console.log(`🔍 Loading games for locale: ${currentLocale}`);
   
-  // 获取所有游戏进行分析
-  const allGamesRaw = await getCollection('games');
+  // 使用修复后的getLocalizedGamesList函数
+  const { getLocalizedGamesList } = await import('@/utils/i18n');
+  allGames = await getLocalizedGamesList(currentLocale);
   
-  // 调试：打印游戏ID格式以确认实际结构
-  console.log('Total games loaded:', allGamesRaw.length);
+  console.log(`✅ Successfully loaded ${allGames.length} games for ${currentLocale}`);
   
-  // 尝试获取特定语言的游戏
-  const languageStats = {};
-  allGamesRaw.forEach(game => {
-    const gameId = game.id.replace(/\.md$/, '');
-    let lang;
-    if (gameId.includes('/')) {
-      lang = gameId.split('/')[0];
-    } else {
-      lang = 'en'; // 根目录文件是英文
-    }
-    languageStats[lang] = (languageStats[lang] || 0) + 1;
+  // 验证内容语言正确性
+  console.log('🔍 Content verification:');
+  allGames.slice(0, 3).forEach((game, index) => {
+    const firstSentence = game.data.description.substring(0, 100);
+    console.log(`${index + 1}. ${game.data.slug} ✅`);
+    console.log(`   Content: ${firstSentence}...`);
   });
-  console.log('Language distribution:', languageStats);
-  console.log('Current locale:', currentLocale);
-  
-  // 手动过滤当前语言的游戏
-  const currentLocaleGames = allGamesRaw.filter(game => {
-    const gameId = game.id.replace(/\.md$/, '');
-    if (currentLocale === 'en') {
-      // 英文游戏在根目录，ID中不包含'/'
-      return !gameId.includes('/');
-    } else {
-      // 其他语言游戏在子目录，ID格式为 "language/game-name"
-      return gameId.startsWith(`${currentLocale}/`);
-    }
-  });
-  
-  allGames = currentLocaleGames;
-  console.log(`Found ${allGames.length} games for locale ${currentLocale}`);
-  
-  // 调试：检查前3个游戏的内容
-  if (allGames.length > 0) {
-    console.log('Sample games content:');
-    allGames.slice(0, 3).forEach((game, index) => {
-      console.log(`${index + 1}. ${game.id} - ${game.data.title}`);
-      console.log(`   Description: ${game.data.description.substring(0, 50)}...`);
-    });
-  }
-  
-  // Fallback策略：如果当前语言没有游戏，fallback到英文
-  if (allGames.length === 0 && currentLocale !== 'en') {
-    const englishGames = allGamesRaw.filter(game => {
-      const gameId = game.id.replace(/\.md$/, '');
-      return !gameId.includes('/'); // 英文游戏在根目录
-    });
-    allGames = englishGames;
-    console.log(`Fallback to English: Found ${allGames.length} English games`);
-  }
-  
-  // 特殊处理：如果是英文页面但没有找到游戏，使用直接查询的结果
-  if (currentLocale === 'en' && allGames.length === 0 && englishGamesOnly.length > 0) {
-    allGames = englishGamesOnly;
-    console.log(`Using direct English query result: ${allGames.length} games`);
-  }
-  
-  // 如果仍然没有找到游戏，使用前20个作为应急备份
-  if (allGames.length === 0) {
-    allGames = allGamesRaw.slice(0, 20);
-    console.log('Emergency fallback: Using first 20 games');
-  }
   
 } catch (collectionError) {
   console.error('Content collection loading failed:', collectionError);
@@ -135,11 +75,11 @@ const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
 
 // 构建页面meta数据
 const pageMeta = {
-  title: uiText?.meta?.title || 'FiddleBops - Play Music Games',
-  description: uiText?.meta?.description || 'Create your unique music with FiddleBops!',
-  keywords: uiText?.meta?.keywords || 'fiddlebops, music games, music creation',
+  title: uiText?.meta?.title || extractedData.homepage.meta.title,
+  description: uiText?.meta?.description || extractedData.homepage.meta.description,
+  keywords: uiText?.meta?.keywords || extractedData.homepage.meta.keywords,
   canonical: getAbsoluteLocaleUrl(currentLocale, '/'),
-  ogImage: 'https://www.playfiddlebops.com/images/fiddlebops-og.jpg'
+  ogImage: extractedData.homepage.meta.ogImage
 };
 
 // 获取完整的25个角色音频数据
@@ -149,6 +89,7 @@ const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
   image: sample.image,
   audioSrc: sample.audio,
   category: sample.category,
+  // 颜色配置可以考虑移到数据文件，但先保持现有逻辑
   color: sample.category === 'Beats' ? '#FF6B6B' : 
          sample.category === 'Effects' ? '#4ECDC4' :
          sample.category === 'Melodies' ? '#45B7D1' :
@@ -165,28 +106,17 @@ const websiteNode = {
   description: pageMeta.description,
 };
 
-const videoObjects = [
-  {
-    '@type': 'VideoObject',
-    name: 'FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4',
-    description: 'FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4',
-    thumbnailUrl: ['https://i.ytimg.com/vi/4Oj-dVLSA70/hqdefault.jpg'],
-    uploadDate: '2024-11-14',
-    embedUrl: 'https://www.youtube.com/embed/4Oj-dVLSA70',
-    contentUrl: 'https://www.youtube.com/watch?v=4Oj-dVLSA70',
-    publisher: { '@type': 'Organization', name: 'Mozziface' },
-  },
-  {
-    '@type': 'VideoObject',
-    name: 'Every Incredibox FiddleBops in 8 Minutes',
-    description: 'Every Incredibox FiddleBops in 8 Minutes',
-    thumbnailUrl: ['https://i.ytimg.com/vi/JlMa-fRBOwE/hqdefault.jpg'],
-    uploadDate: '2024-12-29',
-    embedUrl: 'https://www.youtube.com/embed/JlMa-fRBOwE',
-    contentUrl: 'https://www.youtube.com/watch?v=JlMa-fRBOwE',
-    publisher: { '@type': 'Organization', name: 'PlayGameWithZubby' },
-  },
-];
+// 从数据文件获取视频信息并构建结构化数据
+const videoObjects = extractedData.homepage.videos.map((video: any) => ({
+  '@type': 'VideoObject',
+  name: video.name,
+  description: video.description,
+  thumbnailUrl: [video.thumbnailUrl],
+  uploadDate: video.uploadDate,
+  embedUrl: video.embedUrl,
+  contentUrl: video.contentUrl,
+  publisher: { '@type': 'Organization', name: video.publisher },
+}));
 
 const structuredData = {
   '@context': 'https://schema.org',
@@ -209,12 +139,9 @@ const structuredData = {
     <!-- Clean Hero Section with shadcn/ui components -->
     <HeroSectionNew
       hero={{
-        title: uiText?.hero?.title || 'Create Amazing Music with FiddleBops',
-        description: uiText?.hero?.subtitle || 'Interactive music creation games with fun characters and unlimited creativity',
-        mainGame: {
-          iframe: 'https://fiddlebops.netlify.app/',
-          backgroundImage: '/tw.jpg'
-        }
+        title: uiText?.hero?.title || extractedData.homepage.hero.title,
+        description: uiText?.hero?.subtitle || extractedData.homepage.hero.description,
+        mainGame: extractedData.homepage.hero.mainGame
       }}
       games={games}
     />

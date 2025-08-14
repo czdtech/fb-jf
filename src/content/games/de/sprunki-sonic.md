@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sonic
+slug: sprunki-sonic-de
 title: Sprunki Sonic
 description: >-
   Ob du ein Rhythmusspiel-Liebhaber oder ein treuer Fan der Sonic-Serie bist,

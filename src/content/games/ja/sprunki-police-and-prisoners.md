@@ -1,5 +1,5 @@
 ---
-slug: sprunki-police-and-prisoners
+slug: sprunki-police-and-prisoners-ja
 title: Sprunki Police And Prisoners
 description: >-
   Sprunki Police and Prisoners Modは、有名なIncrediblebox Sprunki現実への魅力的で革新的な変更です。

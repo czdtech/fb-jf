@@ -1,5 +1,5 @@
 ---
-slug: pikmin-no-sprunki
+slug: pikmin-no-sprunki-zh
 title: Pikmin No Sprunki
 description: Pikmin No Sprunki 不仅仅是一个简单的游戏；它
 image: /pikmin-no-sprunki.png

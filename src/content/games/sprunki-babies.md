@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies
+slug: sprunki-babies-en
 title: Sprunki Babies
 description: >-
   This charming music sandbox puts you in charge of a crew of adorable baby

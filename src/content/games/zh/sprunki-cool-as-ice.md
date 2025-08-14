@@ -1,5 +1,5 @@
 ---
-slug: sprunki-cool-as-ice
+slug: sprunki-cool-as-ice-zh
 title: Sprunki Cool As Ice
 description: >-
   Sprunki：Cool As Ice 是 Incredibox 家族的重大创新，它通过独特的冬季主题为音乐创作带来新视角。

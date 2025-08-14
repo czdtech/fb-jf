@@ -1,5 +1,5 @@
 ---
-slug: sprunki-minecraft
+slug: sprunki-minecraft-ja
 title: Sprunki Minecraft
 description: >-
   Sprunki Minecraftは、馴染みのあるゲームプレイループの中でもイノベーションが花開くことを証明しています。もしあなたが

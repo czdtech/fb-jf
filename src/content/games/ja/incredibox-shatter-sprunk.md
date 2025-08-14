@@ -1,5 +1,5 @@
 ---
-slug: incredibox-shatter-sprunk
+slug: incredibox-shatter-sprunk-ja
 title: Incredibox Shatter Sprunk
 description: >-
   Incredibox Shatter Sprunkは、ファンが制作したIncrebiboxのMod音楽ゲームです。

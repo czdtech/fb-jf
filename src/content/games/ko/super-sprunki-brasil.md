@@ -1,5 +1,5 @@
 ---
-slug: super-sprunki-brasil
+slug: super-sprunki-brasil-ko
 title: 슈퍼 스프런키 브라질
 description: >-
   브라질 테마의 활기찬 스프런키 게임입니다.

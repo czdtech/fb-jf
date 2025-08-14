@@ -1,5 +1,5 @@
 ---
-slug: super-sprunki-brasil
+slug: super-sprunki-brasil-zh
 title: 超级 Sprunki 巴西
 description: >-
   超级 Sprunki 巴西是一个 Incredibox 模组，让你用充满激情的巴西风情

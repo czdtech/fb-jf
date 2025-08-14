@@ -1,5 +1,5 @@
 ---
-slug: sprunki-cool-as-ice
+slug: sprunki-cool-as-ice-es
 title: Sprunki Cool As Ice
 description: >-
   Sprunki: Cool As Ice es una innovación importante en la familia Incredibox, y

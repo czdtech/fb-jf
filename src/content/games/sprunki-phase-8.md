@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8
+slug: sprunki-phase-8-en
 title: Sprunki Phase 8
 description: >-
   Sprunki Phase 8 is a bold experiment that successfully marries music creation

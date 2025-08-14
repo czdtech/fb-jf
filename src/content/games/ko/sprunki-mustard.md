@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mustard
+slug: sprunki-mustard-ko
 title: 스프런키 머스타드
 description: >-
   독특한 머스타드 테마의 스프런키 변형입니다.

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8
+slug: sprunki-phase-8-de
 title: Sprunki Phase 8
 description: >-
   Sprunki Phase 8 ist ein kühnes Experiment, das erfolgreich Musikerstellung

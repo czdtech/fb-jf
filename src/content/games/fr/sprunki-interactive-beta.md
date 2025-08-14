@@ -1,5 +1,5 @@
 ---
-slug: sprunki-interactive-beta
+slug: sprunki-interactive-beta-fr
 title: Sprunki Interactive Beta
 description: Sprunki Interactive BETA n'est pas qu'une simple mise à niveau du jeu Sprunki, c'est
 image: /sprunki-interactive-beta.png

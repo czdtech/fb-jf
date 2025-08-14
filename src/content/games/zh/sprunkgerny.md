@@ -1,5 +1,5 @@
 ---
-slug: sprunkgerny
+slug: sprunkgerny-zh
 title: Sprunkgerny
 description: >-
   如果你正在寻找独特的音乐体验，那么 Sprunkgerny 绝对不容错过！它打破了传统节奏游戏的束缚，鼓励你拥抱不完美和随机性，让你在探索和乐趣中释放音乐灵感。

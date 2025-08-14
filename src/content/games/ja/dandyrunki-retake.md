@@ -1,5 +1,5 @@
 ---
-slug: dandyrunki-retake
+slug: dandyrunki-retake-ja
 title: Dandyrunki Retake
 description: >-
   Dandyrunki Retakeでは、簡単に始められ、様々なリズムとメロディを楽に探求できます。

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-dandys-world
+slug: sprunki-dandys-world-ko
 title: 스프런키 댄디즈 월드
 description: 스프런키 댄디
 image: /sprunki-dandys-world.png

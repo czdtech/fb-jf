@@ -1,5 +1,5 @@
 ---
-slug: sprunkle-bops
+slug: sprunkle-bops-ja
 title: Sprunkle Bops
 description: >-
   Sprunkle Bopsは、人気のIncrediblebox音楽ミキシングゲームのファン制作拡張で、

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-halloween
+slug: sprunki-halloween-en
 title: Sprunki Halloween
 description: >-
   Sprunki Halloween is a Mod that allows you to unleash your musical talents in

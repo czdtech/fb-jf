@@ -1,5 +1,5 @@
 ---
-slug: super-sprunki-brasil
+slug: super-sprunki-brasil-de
 title: Super Sprunki Brasil
 description: >-
   Super Sprunki Brasil ist ein Incredibox Mod, der es Ihnen ermöglicht, Ihre

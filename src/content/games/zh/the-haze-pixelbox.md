@@ -1,5 +1,5 @@
 ---
-slug: the-haze-pixelbox
+slug: the-haze-pixelbox-zh
 title: 迷雾像素盒
 description: >-
   无论你是经验丰富的音乐家还是好奇的初学者，迷雾像素盒都提供无穷乐趣，

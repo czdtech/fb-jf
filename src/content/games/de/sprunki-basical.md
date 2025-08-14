@@ -1,5 +1,5 @@
 ---
-slug: sprunki-basical
+slug: sprunki-basical-de
 title: Sprunki Basical
 description: >
   Sprunki Basical ist ein zurück-zu-den-Grundlagen Musikkreationsspiel, das

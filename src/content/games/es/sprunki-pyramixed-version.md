@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed-version
+slug: sprunki-pyramixed-version-es
 title: Sprunki Pyramixed Version
 description: >-
   Sprunki Pyramixed es una plataforma fantástica de creación musical que

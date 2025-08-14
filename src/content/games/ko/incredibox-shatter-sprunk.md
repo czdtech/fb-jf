@@ -1,5 +1,5 @@
 ---
-slug: incredibox-shatter-sprunk
+slug: incredibox-shatter-sprunk-ko
 title: 인크레디박스 샤터 스프렁크
 description: >-
   인크레디박스 샤터 스프렁크는 팬이 제작한 인크레디박스 모드 음악 게임입니다. 이 버전에서는 

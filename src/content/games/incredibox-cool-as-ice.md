@@ -1,5 +1,5 @@
 ---
-slug: incredibox-cool-as-ice
+slug: incredibox-cool-as-ice-en
 title: Incredibox Cool As Ice
 description: >-
   The Incredibox Cool as Ice Mod is perfect for fans who love both music-making

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake
+slug: sprunki-retake-ko
 title: 스프런키 리테이크
 description: >-
   스프런키의 새로운 해석과 개선된 경험을 제공합니다.

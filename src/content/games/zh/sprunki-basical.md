@@ -1,5 +1,5 @@
 ---
-slug: sprunki-basical
+slug: sprunki-basical-zh
 title: Sprunki Basical
 description: >-
   Sprunki Basical 是一款回归基础的音乐创作游戏，让你在简单操作中体验最纯粹的音乐乐趣。如果你喜欢 Incredibox 并想尝试新东西，那么 Sprunki Basical 绝对是个好选择！

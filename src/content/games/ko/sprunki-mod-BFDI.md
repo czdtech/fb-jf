@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-mod-BFDI-ko
 title: TITLE
 description: >-
   DESCRIPTION

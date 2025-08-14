@@ -1,5 +1,5 @@
 ---
-slug: ayocs-sprunkr
+slug: ayocs-sprunkr-de
 title: Ayocs Sprunkr
 description: >-
   Sie müssen AYOCS Sprunkr ausprobieren! Diese Mod verleiht dem Sprunki-Universum

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-5
+slug: sprunki-phase-5-ko
 title: 스프런키 페이즈 5
 description: >-
   스프런키 페이즈 5는 리듬 기반 창의성과 소름 끼치고 분위기 있는 

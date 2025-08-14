@@ -1,5 +1,5 @@
 ---
-slug: pikmin-no-sprunki
+slug: pikmin-no-sprunki-en
 title: Pikmin No Sprunki
 description: >-
   Pikmin No Sprunki is more than just a simple game; it's a creative platform

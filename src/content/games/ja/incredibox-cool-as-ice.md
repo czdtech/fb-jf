@@ -1,5 +1,5 @@
 ---
-slug: incredibox-cool-as-ice
+slug: incredibox-cool-as-ice-ja
 title: Incredibox Cool As Ice
 description: >
   Incredibox Cool as Ice Modは、音楽制作とシーズンテーマの両方を愛するファンに最適です。

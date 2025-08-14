@@ -1,5 +1,5 @@
 ---
-slug: sprunki-play-random
+slug: sprunki-play-random-de
 title: Sprunki Play Random
 description: >-
   Sprunki Play Random ist ein Musikerstellungsspiel voller Überraschungen und

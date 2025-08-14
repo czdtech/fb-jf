@@ -1,5 +1,5 @@
 ---
-slug: sprunki-night-time
+slug: sprunki-night-time-de
 title: Sprunki Night Time
 description: >-
   Sprunki Night Time führt Sie in eine dunkle Welt voller Geheimnisse und

@@ -227,6 +227,26 @@
         "audio": "/characters/sounds/bonus5.wav",
         "category": "Bonus"
       }
+    ],
+    "videos": [
+      {
+        "name": "FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4",
+        "description": "FIDDLEBOPS ALL POLOS 4K (WITH SUBTITLES) #4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4Oj-dVLSA70/hqdefault.jpg",
+        "uploadDate": "2024-11-14",
+        "embedUrl": "https://www.youtube.com/embed/4Oj-dVLSA70",
+        "contentUrl": "https://www.youtube.com/watch?v=4Oj-dVLSA70",
+        "publisher": "Mozziface"
+      },
+      {
+        "name": "Every Incredibox FiddleBops in 8 Minutes",
+        "description": "Every Incredibox FiddleBops in 8 Minutes",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JlMa-fRBOwE/hqdefault.jpg",
+        "uploadDate": "2024-12-29",
+        "embedUrl": "https://www.youtube.com/embed/JlMa-fRBOwE",
+        "contentUrl": "https://www.youtube.com/watch?v=JlMa-fRBOwE",
+        "publisher": "PlayGameWithZubby"
+      }
     ]
   },
   "seoTemplates": {

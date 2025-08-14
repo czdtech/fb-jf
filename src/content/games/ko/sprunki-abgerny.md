@@ -1,5 +1,5 @@
 ---
-slug: sprunki-abgerny
+slug: sprunki-abgerny-ko
 title: 스프렁키 애브거니
 description: >-
   스프렁키 애브거니는 일반적인 음악 게임이 아닙니다. 고대 문화에 대한 헌사이자 음악의 

@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprinkle
+slug: incredibox-sprinkle-ja
 title: Incredibox Sprinkle
 description: >-
   Sprinkleは、操作が簡単で楽しさに満ちた音楽制作ゲームです。

@@ -1,5 +1,5 @@
 ---
-slug: pikmin-no-sprunki
+slug: pikmin-no-sprunki-de
 title: Pikmin No Sprunki
 description: Pikmin No Sprunki ist mehr als nur ein einfaches Spiel; es
 image: /pikmin-no-sprunki.png

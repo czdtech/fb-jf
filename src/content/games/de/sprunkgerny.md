@@ -1,5 +1,5 @@
 ---
-slug: sprunkgerny
+slug: sprunkgerny-de
 title: Sprunkgerny
 description: >
   Wenn du nach einer einzigartigen musikalischen Erfahrung suchst, dann ist

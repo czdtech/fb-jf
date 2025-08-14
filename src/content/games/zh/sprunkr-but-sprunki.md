@@ -1,5 +1,5 @@
 ---
-slug: sprunkr-but-sprunki
+slug: sprunkr-but-sprunki-zh
 title: Sprunkr But Sprunki
 description: >-
   Sprunkr But Sprunki 模组是原版 Sprunkr 模组的创意变体，

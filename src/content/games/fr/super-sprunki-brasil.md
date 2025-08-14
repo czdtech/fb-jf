@@ -1,5 +1,5 @@
 ---
-slug: super-sprunki-brasil
+slug: super-sprunki-brasil-fr
 title: Super Sprunki Brasil
 description: >-
   Un Mod Incredibox vibrant inspiré par le Brésil : samba, bossa nova, 

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human
+slug: sprunki-retake-new-human-es
 title: Sprunki Retake New Human
 description: >-
   El núcleo de Sprunki Retake New Human es reimaginar la experiencia clásica de

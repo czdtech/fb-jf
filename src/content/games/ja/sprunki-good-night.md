@@ -1,5 +1,5 @@
 ---
-slug: sprunki-good-night
+slug: sprunki-good-night-ja
 title: Sprunki Good Night
 description: >-
   Sprunki Good Nightは、疲れた一日の後に心と体を完全にリラックスさせることができるModです。Sprunki Good Nightへ来て、優しく平和なビートを使って完璧な子守歌を作り、甘い夢を迎えましょう！

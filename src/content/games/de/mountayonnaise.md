@@ -1,5 +1,5 @@
 ---
-slug: mountayonnaise
+slug: mountayonnaise-de
 title: Mountayonnaise
 description: >
   Sprunki Mountayonnaise ist ein überraschend entzückendes Sprunki Mod-Spiel,

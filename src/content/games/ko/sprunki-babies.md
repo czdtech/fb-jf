@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies
+slug: sprunki-babies-ko
 title: 스프런키 베이비즈
 description: >-
   이 매력적인 음악 샌드박스에서 사랑스러운 스프런키 아기 캐릭터들의 

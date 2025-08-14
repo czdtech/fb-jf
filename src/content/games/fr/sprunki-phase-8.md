@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-8
+slug: sprunki-phase-8-fr
 title: Sprunki Phase 8
 description: >-
   Sprunki Phase 8 est une expérience audacieuse qui marie avec succès la

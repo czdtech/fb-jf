@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-rotrizi-5-ko
 title: TITLE
 description: >-
   DESCRIPTION

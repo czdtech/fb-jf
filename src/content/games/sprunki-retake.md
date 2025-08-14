@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake
+slug: sprunki-retake-en
 title: Sprunki Retake
 description: >-
   If you love rhythm games and have a penchant for horror elements, Sprunki

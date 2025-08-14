@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-parasite-parasprunki-15-ko
 title: TITLE
 description: >-
   DESCRIPTION

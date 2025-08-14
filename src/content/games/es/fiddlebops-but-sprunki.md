@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-sprunki
+slug: fiddlebops-but-sprunki-es
 title: Fiddlebops But Sprunki
 description: >-
   FiddleBops but Sprunki es un evento de cruce increíble! Mantiene el núcleo

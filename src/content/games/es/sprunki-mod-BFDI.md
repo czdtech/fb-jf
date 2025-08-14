@@ -1,5 +1,5 @@
 ---
-slug: sprunki-mod-BFDI
+slug: sprunki-mod-BFDI-es
 title: Sprunki Mod BFDI
 description: >-
   El Sprunki Mod BFDI, también conocido como Sprunki Battle for Dream Island,

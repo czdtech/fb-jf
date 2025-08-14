@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprinkle
+slug: incredibox-sprinkle-es
 title: Incredibox Sprinkle
 description: >-
   Sprinkle es un juego de creación musical que es simple de operar y lleno de diversión.

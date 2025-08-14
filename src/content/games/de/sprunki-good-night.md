@@ -1,5 +1,5 @@
 ---
-slug: sprunki-good-night
+slug: sprunki-good-night-de
 title: Sprunki Good Night
 description: >
   Sprunki Good Night ist eine entspannende Nachtzeit-Version von Sprunki mit

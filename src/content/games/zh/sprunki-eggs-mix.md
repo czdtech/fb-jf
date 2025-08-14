@@ -1,5 +1,5 @@
 ---
-slug: sprunki-eggs-mix
+slug: sprunki-eggs-mix-zh
 title: Sprunki Eggs Mix
 description: Sprunki 彩蛋
 image: /sprunki-eggs-mix.png

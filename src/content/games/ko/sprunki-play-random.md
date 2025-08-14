@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-play-random-ko
 title: TITLE
 description: >-
   DESCRIPTION

@@ -3,7 +3,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
-import { getEntryBySlug } from 'astro:content'
+import { getEntry, render } from 'astro:content'
 //
 
 const lang = 'fr'
@@ -32,8 +32,9 @@ const hreflangLinks = (navigation?.languages || []).map((l: any) => ({
   url: `https://www.playfiddlebops.com${l.url}`
 }))
 
-const home = await getEntryBySlug('i18nHome', 'fr')
-const { Content } = await home.render()
+const home = await getEntry('i18nHome', 'fr')
+if (!home) throw new Error('Home content not found for locale: fr')
+const { Content } = await render(home)
 ---
 
 <BaseLayout meta={meta} lang={lang} hreflang={hreflangLinks} structuredData={structuredData}>

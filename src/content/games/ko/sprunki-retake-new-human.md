@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-retake-new-human-ko
 title: TITLE
 description: >-
   DESCRIPTION

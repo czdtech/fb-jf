@@ -27,7 +27,206 @@
     "popularGames": "人気ゲーム",
     "trendingGames": "トレンドゲーム",
     "about": "FiddleBopsについて",
-    "videos": "ビデオチュートリアル"
+    "videos": "ビデオチュートリアル",
+    "relatedGames": "関連ゲーム",
+    "relatedGamesDesc": "他の素晴らしい音楽制作ゲームを発見しよう"
+  },
+  "howToPlay": {
+    "description": "Garrett（お腹叩き）、Green Drum Machine（雪だるまボンゴ）、YTPMV Elfなどのキャラクターをステージにドラッグして、面白い音楽の組み合わせを作り、ボーナスコンテンツをアンロックしよう",
+    "quickStart": {
+      "title": "クイックスタート - 簡単3ステップ！",
+      "subtitle": "30秒以内で音楽制作を始めよう！",
+      "steps": {
+        "pick": {
+          "title": "キャラクターを選ぶ",
+          "description": "Garrett、Mr. Moon、Skibidi Bidenなど27体の面白いキャラクターから選ぼう！"
+        },
+        "drag": {
+          "title": "ドラッグ＆ドロップ",
+          "description": "キャラクターをステージにドラッグするだけ - Garrettがお腹を叩く様子を見よう！"
+        },
+        "create": {
+          "title": "カオスを創造",
+          "description": "206 BPMで不条理なサウンドをミックスして、素晴らしく奇妙な音楽を作ろう！"
+        }
+      }
+    },
+    "characters": {
+      "title": "キャラクターを知ろう",
+      "beats": "<strong>ビート</strong> - Garrett（お腹叩き）、Green Drum Machine、Mr. Moon、Snaire、Combi",
+      "effects": "<strong>エフェクト</strong> - YTPMV Elf、Cyborg Throat Singing、Lil' Purp、Braylen、Tina",
+      "melodies": "<strong>メロディー</strong> - Blues Clues Radio、Marcello、Eucerin、Uncanny Melody、Keisha",
+      "voices": "<strong>ボイス</strong> - Skibidi Biden、Sporbb、Tronic the Chipmunk、Mike、Blue Vest Munchie"
+    },
+    "bonusCharacters": {
+      "title": "ボーナスキャラクター",
+      "wordsWithFriends": "<strong>Words With Friends Tile</strong> - ユニークなアニメーション付きの特別ボーナスキャラクター",
+      "fredFigglehorn": "<strong>Fred Figglehorn</strong> - 象徴的な高音のYouTubeキャラクター",
+      "scrubDaddy": "<strong>Scrub Daddy GF</strong> - 個性のある掃除用品",
+      "jummbox": "<strong>Jummbox & Boykixxer</strong> - 特別な組み合わせでアンロック可能"
+    },
+    "features": {
+      "title": "ゲーム機能",
+      "bpm": "<strong>206 BPM</strong> - エネルギーを高く保つ速いリズム",
+      "jokeMod": "<strong>ジョークMod</strong> - 意図的に不条理で面白いキャラクターデザイン",
+      "easyControls": "<strong>簡単操作</strong> - クラシックなIncrediboxドラッグアンドドロップゲームプレイ",
+      "animations": "<strong>特別アニメーション</strong> - Mr. Moonのような3Dキャラクターが命を吹き込まれる様子を見よう"
+    },
+    "mechanics": {
+      "title": "制作メカニクス",
+      "soundCombination": "<strong>サウンド組み合わせ</strong> - 最大7体のキャラクターを同時にミックスしてユニークなビートを作成",
+      "rhythm": "<strong>リズム＆タイミング</strong> - すべてのサウンドが206 BPMテンポに自動同期",
+      "loop": "<strong>ループ＆リピート</strong> - 自動ビートマッチングでシームレスなループを作成",
+      "explore": "<strong>探索＆実験</strong> - 間違った組み合わせはない - 隠されたサウンドコンボを発見しよう！"
+    }
+  },
+  "about": {
+    "description": "2024年11月7日リリース、このコメディ重視のIncrediboxModは、Garrett、Mr. Moon、Skibidi Bidenなどの25体の不条理なキャラクターを特徴とし、エネルギッシュな206 BPMでカオティックな音楽を作成します",
+    "gameInfo": {
+      "title": "🎮 I. FiddleBopsゲーム情報",
+      "officialName": "公式名称：",
+      "officialNameValue": "FiddleBops（Fanon Incredibox Mod）",
+      "releaseDate": "リリース日：",
+      "releaseDateValue": "2024年11月7日",
+      "bpm": "BPM：",
+      "bpmValue": "206 BPM（ハーフタイムで103）",
+      "characterCount": "キャラクター数：",
+      "characterCountValue": "25キャラクター（メイン20 + ボーナス5）",
+      "modType": "Modタイプ：",
+      "modTypeValue": "不条理キャラクターの\"ジョーク\"Mod",
+      "creators": "制作者：",
+      "creatorsValue": "Kautaruma、SkyFactorial、BezieAnims、Maddie（Jukebox）、RubysArt_、Shackle、radio_cative、personaladventure"
+    },
+    "characterCategories": {
+      "title": "🎭 II. キャラクターカテゴリー",
+      "beats": {
+        "title": "🥁 ビート（5キャラクター）",
+        "thisIsGarrett": "This Is Garrett - キックドラム用にお腹を叩き、スネア用に口を開ける",
+        "greenDrumMachine": "Green Drum Machine - ボンゴドラム付きクリスマス雪だるま",
+        "mrMoon": "Mr. Moon - Apple \"Full Moon Face\"絵文字の3Dアニメーション",
+        "snaireCombi": "Snaire & Combi - 追加のリズム要素"
+      },
+      "effects": {
+        "title": "🌟 エフェクト（5キャラクター）",
+        "description": "YTPMV Elf、Cyborg Throat Singing、Lil' Purp、Braylen B. Bothamious I、Tina The Beepboxer",
+        "subtitle": "それぞれがユニークなサウンドエフェクトと雰囲気要素を提供"
+      },
+      "melodies": {
+        "title": "🎹 メロディー（5キャラクター）",
+        "description": "Blues Clues Radio 2011、Marcello、Eucerin、Uncanny Melody、Keisha",
+        "subtitle": "メインメロディラインと音楽テーマを作成"
+      },
+      "voices": {
+        "title": "🎤 ボイス（5キャラクター）",
+        "description": "Skibidi Biden、Sporbb The Animator、Tronic the Chipmunk、Mike Ehrmantraut、Blue Vest Munchie",
+        "subtitle": "ボーカル要素とキャラクター表現"
+      },
+      "bonus": {
+        "title": "🎆 ボーナスキャラクター（5特別）",
+        "description": "Words With Friends Tile、Fred Figglehorn、Scrub Daddy GF、Jummbox、Boykixxer",
+        "subtitle": "特別な組み合わせと秘密の方法でアンロック可能"
+      }
+    },
+    "features": {
+      "title": "🎨 III. ゲーム機能＆デザイン",
+      "comedy": {
+        "title": "😂 コメディ重視デザイン",
+        "description": "意図的に不条理なキャラクター名とデザインがユーモラスな体験を作り出します。\"Skibidi Biden\"や\"Scrub Daddy GF\"などのキャラクターがModのコメディアプローチを例証しています。"
+      },
+      "highEnergy": {
+        "title": "🎵 ハイエナジー音楽",
+        "description": "206 BPMが速いペースでエネルギッシュな作曲を作り出します。このテンポは従来のIncrediboxバージョンとは異なり、ダイナミックで活気のある音楽創作を促進します。"
+      },
+      "animations": {
+        "title": "🎪 特別アニメーション",
+        "description": "キャラクターはユニークなアニメーションを持ちます：Garrettのお腹叩き、Green Drum Machineの足ぶらぶら、Mr. Moonの3D変身が個性を生き生きとさせます。"
+      },
+      "antiPiracy": {
+        "title": "🔒 海賊版対策保護",
+        "description": "Modには制作者の作品を保護し、認可されたチャンネルを通じた適切な配布を確保するための特別な海賊版対策が含まれています。"
+      }
+    },
+    "platform": {
+      "title": "🎯 IV. ゲームタグ＆プラットフォーム",
+      "categories": {
+        "title": "🏷️ ゲームカテゴリー",
+        "description": "音楽制作、リズム、実験的、教育的、ファミリーフレンドリー、カジュアル、シングルプレイヤー、クリエイティブ、コメディMod"
+      },
+      "access": {
+        "title": "🌐 プラットフォーム＆アクセス",
+        "mainPlatform": "メインプラットフォーム：",
+        "mainPlatformValue": "playfiddlebops.com（ウェブブラウザ）",
+        "alsoAvailable": "利用可能：",
+        "alsoAvailableValue": "itch.io、Scratch",
+        "price": "価格：",
+        "priceValue": "無料プレイ",
+        "noDownload": "ダウンロード不要 - ブラウザで直接プレイ"
+      }
+    },
+    "community": {
+      "title": "🌟 V. 人気FiddleBops Mod＆コミュニティ",
+      "mods": {
+        "title": "🎮 コミュニティMod",
+        "fiddlebopsSprunki": "• Fiddlebops but Sprunki - ホラーテーマクロスオーバー",
+        "fiddlebopsFix": "• Fiddlebops Fix - バグ修正と改善",
+        "sprunksters": "• Fiddlebops Sprunksters Remix - 新しいサウンドコンビネーション",
+        "pyramixed": "• Fiddlebops Pyramixed - エジプトテーマリミックス",
+        "exploreMore": "ゲームセクションでより多くのModを探索しよう！"
+      },
+      "share": {
+        "title": "🔗 作品を共有",
+        "joinCommunity": "FiddleBopsコミュニティに参加しよう！",
+        "youtube": "YouTube：",
+        "youtubeDesc": "ゲームプレイ動画をアップロード",
+        "tiktok": "TikTok：",
+        "tiktokDesc": "短い音楽クリップを共有",
+        "twitter": "Twitter：",
+        "twitterDesc": "#FiddleBopsを使用",
+        "screenRecord": "スクリーン録画ソフトウェアを使って音楽の傑作を録画・共有しよう！"
+      }
+    }
+  },
+  "soundSamples": {
+    "title": "Fiddlebops Incrediboxの様々なサウンドを探索しよう",
+    "description": "本物のFiddleBopsキャラクターサウンドを聴こう：GarrettとMr. Moonのビート、Cyborg Throat Singingのエフェクト、Blues Clues Radio 2011のメロディー、Mike Ehrmantrautのボイス"
+  },
+  "videos": {
+    "title": "Fiddlebops Incrediboxゲームビデオ",
+    "description": "字幕付き4K HDでのFiddleBops完全ゲームプレイデモンストレーション、さらに全25キャラクターとそのユニークなアニメーションを紹介する8分間のハイライト集をご覧ください",
+    "demo": {
+      "title": "🎵 Fiddlebops完全デモ",
+      "description": "字幕付き4K HDゲームプレイデモンストレーション"
+    },
+    "highlights": {
+      "title": "🎮 8分間ハイライト",
+      "description": "全FiddleBopsキャラクターを8分で紹介"
+    }
+  },
+  "faq": {
+    "title": "❓ よくある質問",
+    "description": "FiddleBopsのゲームプレイ、キャラクターメカニクス、ブラウザ互換性、音楽制作のコツ、そして5つの特別ボーナスキャラクターを含む全25キャラクターのアンロック方法について回答を得よう",
+    "items": [
+      {
+        "question": "🎮 Fiddlebops Incrediboxとは何ですか？",
+        "answer": "FiddleBopsはIncrediboxにインスパイアされたファン制作プロジェクトです。ここでは音楽ミキシングの楽しさを体験し、直感的なインターフェースを通じてユニークな音楽作品を作ることができます。"
+      },
+      {
+        "question": "💰 Fiddlebops Incrediboxは無料ですか？",
+        "answer": "はい、Fiddlebops Incrediboxは完全に無料です。プレイヤーはダウンロード不要でオンラインでプレイできます。"
+      },
+      {
+        "question": "📱 何かダウンロードやインストールは必要ですか？",
+        "answer": "ダウンロードは必要ありません。ゲームはブラウザで直接動作し、デスクトップとモバイルデバイスの両方をサポートしています。"
+      },
+      {
+        "question": "🎵 音楽の経験は必要ですか？",
+        "answer": "全く必要ありません！Fiddlebops Incrediboxは音楽経験のない人向けに設計されています。音楽おもちゃやクリエイティブツールのようなものです。"
+      },
+      {
+        "question": "🚀 音楽制作を始めるにはどうすればいいですか？",
+        "answer": "プレイヤーはキャラクターをステージにドラッグし、それぞれのユニークなサウンドを組み合わせて音楽作品を作ることができます。異なるキャラクターの組み合わせを試して、隠されたメロディーやボーナスコンテンツをアンロックしましょう。"
+      }
+    ]
   },
   "games": {
     "playNow": "今すぐプレイ",
@@ -35,6 +234,7 @@
     "error": "ゲームの読み込みに失敗しました",
     "retry": "再試行",
     "viewMore": "他のゲームを見る",
+    "viewAllGames": "すべてのゲームを見る",
     "noGames": "ゲームが見つかりません",
     "category": "カテゴリー",
     "rating": "評価"

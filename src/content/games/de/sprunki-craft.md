@@ -1,5 +1,5 @@
 ---
-slug: sprunki-craft
+slug: sprunki-craft-de
 title: Sprunki Craft
 description: >
   Sprunki Craft kombiniert Musikkreation mit Minecraft-inspirierter Pixel-Ästhetik

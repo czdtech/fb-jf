@@ -1,5 +1,5 @@
 ---
-slug: sprunki-1996
+slug: sprunki-1996-ko
 title: 스프렁키 1996
 description: >-
   스프렁키 1996은 창의성과 향수로 가득한 음악 게임입니다. 독특한 90년대 레트로 컴퓨터 

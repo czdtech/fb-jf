@@ -1,5 +1,5 @@
 ---
-slug: sprunki-craft
+slug: sprunki-craft-zh
 title: Sprunki Craft
 description: >-
   Sprunki Craft 是 Minecraft 和 Incredibox 的完美结合，为玩家提供了一个富有创意和趣味性的音乐创作平台。来加入 Sprunki Craft 的世界，用你熟悉的 Minecraft 角色创作你专属的音乐作品！

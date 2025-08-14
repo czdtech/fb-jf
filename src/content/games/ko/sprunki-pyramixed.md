@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-pyramixed-ko
 title: TITLE
 description: >-
   DESCRIPTION

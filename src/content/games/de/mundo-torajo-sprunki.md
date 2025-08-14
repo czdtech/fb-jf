@@ -1,5 +1,5 @@
 ---
-slug: mundo-torajo-sprunki
+slug: mundo-torajo-sprunki-de
 title: Mundo Torajo Sprunki
 description: >
   Diese einzigartige Mod verbindet geschickt das fantasievolle Universum von

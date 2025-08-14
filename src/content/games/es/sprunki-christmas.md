@@ -1,5 +1,5 @@
 ---
-slug: sprunki-christmas
+slug: sprunki-christmas-es
 title: Sprunki Christmas
 description: >-
   Sprunki Christmas es un Mod que te permite disfrutar plenamente la diversión

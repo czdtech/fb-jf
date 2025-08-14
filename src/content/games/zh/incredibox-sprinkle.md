@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprinkle
+slug: incredibox-sprinkle-zh
 title: Incredibox Sprinkle
 description: >-
   Sprinkle 是一款操作简单且充满乐趣的音乐创作游戏。无论你是休闲玩家还是对音乐制作感兴趣的粉丝，都能在 Sprinkle 的世界中找到属于自己的乐趣。

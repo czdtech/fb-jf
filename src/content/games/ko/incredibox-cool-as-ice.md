@@ -1,5 +1,5 @@
 ---
-slug: incredibox-cool-as-ice
+slug: incredibox-cool-as-ice-ko
 title: 인크레디박스 쿨 애즈 아이스
 description: >-
   인크레디박스 쿨 애즈 아이스 모드는 음악 제작과 계절적 테마를 모두 

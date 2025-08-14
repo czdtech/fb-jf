@@ -1,5 +1,5 @@
 ---
-slug: sprunki-babies
+slug: sprunki-babies-zh
 title: Sprunki Babies
 description: >-
   这款迷人的音乐沙盒游戏让你管理一群可爱的 Sprunki 宝宝角色，每个都准备为你的作品贡献独特的音乐声音。

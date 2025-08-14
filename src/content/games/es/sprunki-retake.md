@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake
+slug: sprunki-retake-es
 title: Sprunki Retake
 description: >-
   Si amas los juegos de ritmo y tienes predilección por elementos de terror,

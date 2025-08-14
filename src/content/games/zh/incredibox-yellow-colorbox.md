@@ -1,5 +1,5 @@
 ---
-slug: incredibox-yellow-colorbox
+slug: incredibox-yellow-colorbox-zh
 title: Incredibox Yellow Colorbox
 description: >-
   Incredibox Yellow Colorbox 是一款由粉丝创作的 Incredibox 模组音乐游戏。在这个版本中，所有角色都呈现出引人注目的黄色，每个角色都有独特且不可重复的音效。

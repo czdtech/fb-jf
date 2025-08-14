@@ -1,5 +1,5 @@
 ---
-slug: incredibox-yellow-colorbox
+slug: incredibox-yellow-colorbox-ja
 title: Incredibox Yellow Colorbox
 description: >-
   Incredibox Yellow Colorboxは、ファンが作成したIncredibioxの改造音楽ゲームです。このバージョンでは、すべてのキャラクターが印象的な黄色で表現されており、それぞれのキャラクターが独自で繰り返されない音響効果を持っています。

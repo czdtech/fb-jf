@@ -1,5 +1,5 @@
 ---
-slug: incredibox
+slug: incredibox-ja
 title: Incredibox
 description: >-
   個性的なビートボクサーたちと一緒にオリジナルヒット曲を作りたいですか？

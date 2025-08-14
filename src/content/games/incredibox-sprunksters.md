@@ -1,5 +1,5 @@
 ---
-slug: incredibox-sprunksters
+slug: incredibox-sprunksters-en
 title: Incredibox Sprunksters
 description: >-
   Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples

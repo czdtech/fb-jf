@@ -1,5 +1,5 @@
 ---
-slug: mountayonnaise
+slug: mountayonnaise-zh
 title: Mountayonnaise
 description: >-
   Sprunki Mountayonnaise 是一款令人惊喜愉悦的 Sprunki 模组游戏，根据添加的音效会出现不同的动物角色。它具有很高的可重玩性！

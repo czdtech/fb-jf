@@ -1,5 +1,5 @@
 ---
-slug: dandyrunki-retake
+slug: dandyrunki-retake-zh
 title: Dandyrunki Retake
 description: >-
   在 Dandyrunki Retake 中，你可以轻松上手，毫不费力地探索各种节奏和旋律。无论你是休闲玩家还是音乐爱好者，你都能在这个混音版本中找到属于自己的乐趣。

@@ -1,5 +1,5 @@
 ---
-slug: sprunkgerny
+slug: sprunkgerny-ja
 title: Sprunkgerny
 description: >-
   ユニークな音楽体験をお探しなら、Sprunkgernyは絶対に見逃せません！従来のリズムゲームの枠を破り、不完全さとランダム性を受け入れることを奨励し、探索と楽しさの中で音楽的インスピレーションを発揮できるゲームです。

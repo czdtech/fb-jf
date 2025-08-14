@@ -1,5 +1,5 @@
 ---
-slug: sprunki-squid-remix
+slug: sprunki-squid-remix-ja
 title: Sprunki Squid Remix
 description: >-
   Sprunki Squidは真にユニークでスリリングな体験を提供します。

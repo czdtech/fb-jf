@@ -1,5 +1,5 @@
 ---
-slug: sprunki-meets-the-cat-spell
+slug: sprunki-meets-the-cat-spell-fr
 title: Sprunki Meets The Cat Spell
 description: 'Ce mod est une version retravaillée d''un mod existant intitulé '
 image: /sprunki-meets-the-cat-spell.png

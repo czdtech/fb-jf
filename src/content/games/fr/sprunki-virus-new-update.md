@@ -1,5 +1,5 @@
 ---
-slug: sprunki-virus-new-update
+slug: sprunki-virus-new-update-fr
 title: "Sprunki Virus - Nouvelle mise à jour"
 description: >-
   Un voyage musical sombre et immersif : sonorités inquiétantes, visuels 

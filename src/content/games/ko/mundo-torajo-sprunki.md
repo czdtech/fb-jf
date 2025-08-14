@@ -1,5 +1,5 @@
 ---
-slug: mundo-torajo-sprunki
+slug: mundo-torajo-sprunki-ko
 title: 뭀도 토라호 스프렁키
 description: >
   이 독특한 모드는 뭀도 토라호의 기발한 세계와 스프렁키 플랫폼의 리드미컬한 창의적 재미를 

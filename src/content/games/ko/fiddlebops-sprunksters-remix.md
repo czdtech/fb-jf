@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunksters-remix
+slug: fiddlebops-sprunksters-remix-ko
 title: 피들밥스 스프렁크스터즈 리믹스
 description: >-
   피들밥스 스프렁크스터즈는 창의성, 리듬, 비주얼적 매력을 완벽하게 

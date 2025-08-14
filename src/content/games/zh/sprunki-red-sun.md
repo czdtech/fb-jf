@@ -1,5 +1,5 @@
 ---
-slug: sprunki-red-sun
+slug: sprunki-red-sun-zh
 title: Sprunki 红太阳
 description: >-
   Sprunki 红太阳模组将熟悉的 Sprunki 宇宙带入了一个戏剧性的火焰世界，

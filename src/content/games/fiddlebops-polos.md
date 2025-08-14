@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-polos
+slug: fiddlebops-polos-en
 title: Fiddlebops Polos
 description: >-
   Fiddlebops Polos is a creative music game where players compose tracks,

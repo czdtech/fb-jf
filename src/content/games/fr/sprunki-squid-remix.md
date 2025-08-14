@@ -1,5 +1,5 @@
 ---
-slug: sprunki-squid-remix
+slug: sprunki-squid-remix-fr
 title: Sprunki Squid Remix
 description: >-
   Un crossover sous haute tension : l’univers de Squid Game rencontre la 

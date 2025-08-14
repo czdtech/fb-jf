@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunkbop
+slug: fiddlebops-sprunkbop-en
 title: Fiddlebops Sprunkbop
 description: >-
   Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive

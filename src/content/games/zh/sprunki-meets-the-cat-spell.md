@@ -1,5 +1,5 @@
 ---
-slug: sprunki-meets-the-cat-spell
+slug: sprunki-meets-the-cat-spell-zh
 title: Sprunki Meets The Cat Spell
 description: '这个 mod 是现有 mod 的重制版本'
 image: /sprunki-meets-the-cat-spell.png

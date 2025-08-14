@@ -1,5 +1,5 @@
 ---
-slug: sprunki-retake-new-human
+slug: sprunki-retake-new-human-en
 title: Sprunki Retake New Human
 description: >-
   The core of Sprunki Retake New Human is to reimagine the classic Incredibox

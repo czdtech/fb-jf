@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5
+slug: sprunki-rotrizi-5-de
 title: Sprunki Rotrizi 5
 description: >-
   Sprunki Rotrizi 5.0 ist ein aufregendes kostenloses Musikmix-Erlebnis, das

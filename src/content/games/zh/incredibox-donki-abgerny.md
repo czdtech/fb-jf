@@ -1,5 +1,5 @@
 ---
-slug: incredibox-donki-abgerny
+slug: incredibox-donki-abgerny-zh
 title: Incredibox Donki Abgerny
 description: >-
   Incredibox Donki Abgerny 将深沉的部落节奏、独特的迪吉里杜管和充满灵魂的吟唱融入到经典的 Incredibox 游戏玩法中。

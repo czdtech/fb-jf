@@ -1,5 +1,5 @@
 ---
-slug: sprunki-like-minecraft
+slug: sprunki-like-minecraft-ja
 title: Sprunki Like Minecraft
 description: >-
   Incredibox Sprunkiの忠実なファンでありながら、Minecraftのピクセル世界の熱狂的な愛好家でもありますか？そんなあなたには、Sprunki Like Minecraft Modが目を輝かせることでしょう！

@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-squid-remix-ko
 title: TITLE
 description: >-
   DESCRIPTION

@@ -1,5 +1,5 @@
 ---
-slug: incredibox-donki-abgerny
+slug: incredibox-donki-abgerny-fr
 title: Incredibox Donki Abgerny
 description: >-
   Incredibox Donki Abgerny insuffle des rythmes tribaux profonds, des didgeridoos

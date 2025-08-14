@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sonic
+slug: sprunki-sonic-ja
 title: Sprunki Sonic
 description: >-
   リズムゲーム愛好家でもSonicシリーズの忠実なファンでも、

@@ -1,5 +1,5 @@
 ---
-slug: the-haze-pixelbox
+slug: the-haze-pixelbox-en
 title: The Haze Pixelbox
 description: >-
   Whether you're an experienced musician or a curious beginner, The Haze

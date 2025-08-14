@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-sprunki
+slug: fiddlebops-sprunki-ja
 title: Fiddlebops Sprunki
 description: >-
   Fiddlebops Sprunkiは、魅力的なひねりを加えてオリジナルのSprunkiゲームに新しい命を吹き込みます。

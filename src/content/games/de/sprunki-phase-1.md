@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-1
+slug: sprunki-phase-1-de
 title: Sprunki Phase 1
 description: >-
   Sprunki Phase 1 ist das perfekte Tor in das erstaunliche Sprunki-Universum.

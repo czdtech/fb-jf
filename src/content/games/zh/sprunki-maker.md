@@ -1,5 +1,5 @@
 ---
-slug: sprunki-maker
+slug: sprunki-maker-zh
 title: Sprunki Maker
 description: >-
   想拥有一个独特的 Sprunki 角色吗？现在就是你的机会！Sprunki Maker 让你释放想象力，从头到脚定制你专属的 Sprunki，创造一个最能代表你的个性化角色！

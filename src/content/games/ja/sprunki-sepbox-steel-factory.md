@@ -1,5 +1,5 @@
 ---
-slug: sprunki-sepbox-steel-factory
+slug: sprunki-sepbox-steel-factory-ja
 title: Sprunki Sepbox Steel Factory
 description: Sprunki x SepBox Steel Factoryは、Sprunkiの独特なコラボレーションです
 image: /sprunki-sepbox-steel-factory.png

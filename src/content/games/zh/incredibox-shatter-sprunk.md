@@ -1,5 +1,5 @@
 ---
-slug: incredibox-shatter-sprunk
+slug: incredibox-shatter-sprunk-zh
 title: Incredibox Shatter Sprunk
 description: >-
   Incredibox Shatter Sprunk 是一款由粉丝创作的 Incredibox 模组音乐游戏。在这个版本中，所有角色都呈现出引人注目的黄色，每个角色都有独特且不可重复的音效。

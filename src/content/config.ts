@@ -294,6 +294,33 @@ const i18nUICollection = defineCollection({
       tagline: z.string(),
       description: z.string(),
     }),
+    // Sound Samples Section
+    soundSamples: z.object({
+      title: z.string(),
+      description: z.string(),
+    }),
+    // Videos Section
+    videos: z.object({
+      title: z.string(),
+      description: z.string(),
+      demo: z.object({
+        title: z.string(),
+        description: z.string(),
+      }),
+      highlights: z.object({
+        title: z.string(),
+        description: z.string(),
+      }),
+    }),
+    // FAQ Section
+    faq: z.object({
+      title: z.string(),
+      description: z.string(),
+      items: z.array(z.object({
+        question: z.string(),
+        answer: z.string(),
+      })),
+    }),
     // 错误页面相关翻译
     error: z.object({
       "404": z.object({

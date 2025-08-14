@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-sepbox-steel-factory-ko
 title: TITLE
 description: >-
   DESCRIPTION

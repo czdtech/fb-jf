@@ -1,5 +1,5 @@
 ---
-slug: sprunki-parasite-parasprunki-15
+slug: sprunki-parasite-parasprunki-15-en
 title: Sprunki Parasite Parasprunki 15
 description: >-
   Get ready for Sprunki Parasite ParaSprunki 15! This isn't the sunny Sprunki

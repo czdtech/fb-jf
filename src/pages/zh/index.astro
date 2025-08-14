@@ -40,16 +40,31 @@ const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops
 const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({ code, label, url: '' }));
 const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
 
-// meta
+// 构建页面meta数据
 const pageMeta = {
-  title: uiText?.meta?.title || 'FiddleBops - 免费在线音乐创作游戏',
-  description: uiText?.meta?.description || '用 FiddleBops 创作你的专属音乐！',
-  keywords: uiText?.meta?.keywords || 'fiddlebops, 音乐游戏, 音乐创作',
+  title: uiText?.meta?.title || extractedData.homepage.meta.title,
+  description: uiText?.meta?.description || extractedData.homepage.meta.description,
+  keywords: uiText?.meta?.keywords || extractedData.homepage.meta.keywords,
   canonical: getAbsoluteLocaleUrl(lang, '/'),
-  ogImage: 'https://www.playfiddlebops.com/images/fiddlebops-og.jpg'
+  ogImage: extractedData.homepage.meta.ogImage
 };
 
-// 结构化数据（与英文首页一致）
+// 获取完整的25个角色音频数据
+const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
+  name: sample.title,
+  title: sample.title,
+  image: sample.image,
+  audioSrc: sample.audio,
+  category: sample.category,
+  // 颜色配置可以考虑移到数据文件，但先保持现有逻辑
+  color: sample.category === 'Beats' ? '#FF6B6B' : 
+         sample.category === 'Effects' ? '#4ECDC4' :
+         sample.category === 'Melodies' ? '#45B7D1' :
+         sample.category === 'Voices' ? '#FFA726' :
+         '#9C27B0' // Bonus characters
+}));
+
+// 结构化数据：网站级（首页） + 视频 JSON-LD（合并为 @graph）
 const websiteNode = {
   '@type': 'WebSite',
   name: pageMeta.title,
@@ -57,9 +72,22 @@ const websiteNode = {
   url: pageMeta.canonical,
   description: pageMeta.description,
 };
+
+// 从数据文件获取视频信息并构建结构化数据
+const videoObjects = extractedData.homepage.videos.map((video: any) => ({
+  '@type': 'VideoObject',
+  name: video.name,
+  description: video.description,
+  thumbnailUrl: [video.thumbnailUrl],
+  uploadDate: video.uploadDate,
+  embedUrl: video.embedUrl,
+  contentUrl: video.contentUrl,
+  publisher: { '@type': 'Organization', name: video.publisher },
+}));
+
 const structuredData = {
   '@context': 'https://schema.org',
-  '@graph': [websiteNode],
+  '@graph': [websiteNode, ...videoObjects],
 };
 ---
 
@@ -68,19 +96,16 @@ const structuredData = {
   <main id="main-content" class="min-h-screen" role="main">
     <HeroSectionNew
       hero={{
-        title: uiText?.hero?.title || '用 FiddleBops 创作精彩音乐',
-        description: uiText?.hero?.subtitle || '互动式音乐创作，角色丰富，创意无限',
-        mainGame: {
-          iframe: 'https://fiddlebops.netlify.app/',
-          backgroundImage: '/tw.jpg'
-        }
+        title: uiText?.hero?.title || extractedData.homepage.hero.title,
+        description: uiText?.hero?.subtitle || extractedData.homepage.hero.description,
+        mainGame: extractedData.homepage.hero.mainGame
       }}
       games={games}
     />
 
     <HowToPlaySection />
     <AboutSection />
-    <SoundSamplesSection soundSamples={[]}/>
+    <SoundSamplesSection soundSamples={soundSamples} />
     <VideosSection />
     <FAQSection />
   </main>

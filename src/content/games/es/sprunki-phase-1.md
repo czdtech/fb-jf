@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-1
+slug: sprunki-phase-1-es
 title: Sprunki Phase 1
 description: >-
   Sprunki Phase 1 es la puerta de entrada perfecta al increíble universo

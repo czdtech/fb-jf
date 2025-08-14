@@ -1,5 +1,5 @@
 ---
-slug: sprunki-like-minecraft
+slug: sprunki-like-minecraft-de
 title: Sprunki Like Minecraft
 description: >
   Sprunki Like Minecraft kombiniert die Musikkreation von Sprunki mit der

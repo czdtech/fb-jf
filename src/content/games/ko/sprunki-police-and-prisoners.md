@@ -1,5 +1,5 @@
 ---
-slug: FILE_ID
+slug: sprunki-police-and-prisoners-ko
 title: TITLE
 description: >-
   DESCRIPTION

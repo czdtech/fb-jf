@@ -1,5 +1,6 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
@@ -13,7 +14,7 @@ import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 // 导入数据和工具
 import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
-import { generateAllLocalesGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
+import { generateEnglishGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
 import type { ExtractedData } from '@/types/game'
 
 const { navigation } = extractedData as ExtractedData
@@ -22,8 +23,8 @@ const { navigation } = extractedData as ExtractedData
 const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '')
 
 export async function getStaticPaths() {
-  // 统一生成所有语言的静态路径，匹配 astro.config.mjs 的 i18n 配置
-  return await generateAllLocalesGamePaths();
+  // 只生成英文游戏路径，其他语言由Astro i18n自动处理
+  return await generateEnglishGamePaths();
 }
 
 const { game: initialGame, locale } = Astro.props as { 
@@ -42,7 +43,7 @@ const slug = Astro.params.slug as string;
 const game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
 
 //
-const { Content } = await game.render();
+const { Content } = await render(game);
 const gameData = { ...(game.data), slug: game.slug };
 const extendedData = gameData;
 

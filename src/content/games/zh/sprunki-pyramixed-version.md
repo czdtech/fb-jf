@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed-version
+slug: sprunki-pyramixed-version-zh
 title: Sprunki Pyramixed Version
 description: >-
   Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。

@@ -1,5 +1,5 @@
 ---
-slug: sprunki-phase-5
+slug: sprunki-phase-5-es
 title: Sprunki Phase 5
 description: >-
   Sprunki Phase 5 es un juego de creación musical hecho por fanáticos que

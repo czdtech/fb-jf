@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-sprunki
+slug: fiddlebops-but-sprunki-ja
 title: Fiddlebops But Sprunki
 description: >-
   FiddleBops but Sprunkiは素晴らしいクロスオーバーイベントです！

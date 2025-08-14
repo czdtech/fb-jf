@@ -1,5 +1,5 @@
 ---
-slug: sprunki-pyramixed
+slug: sprunki-pyramixed-zh
 title: Sprunki Pyramixed
 description: >-
   Sprunkgerny Pyramixed 0.9 是一款创新的音乐创作游戏，打破了传统音乐游戏的束缚，完美结合了节奏与个性化角色设计。

@@ -1,5 +1,5 @@
 ---
-slug: fiddlebops-but-dandys-world
+slug: fiddlebops-but-dandys-world-de
 title: Fiddlebops But Dandys World
 description: >-
   Fiddlebops But Dandys World ist nicht nur ein Spiel; es ist eine musikalische

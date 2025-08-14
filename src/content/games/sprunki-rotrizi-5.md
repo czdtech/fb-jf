@@ -1,5 +1,5 @@
 ---
-slug: sprunki-rotrizi-5
+slug: sprunki-rotrizi-5-en
 title: Sprunki Rotrizi 5
 description: >-
   Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing experience

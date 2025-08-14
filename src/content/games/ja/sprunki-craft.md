@@ -1,5 +1,5 @@
 ---
-slug: sprunki-craft
+slug: sprunki-craft-ja
 title: Sprunki Craft
 description: >-
   Sprunki CraftはMinecraftとIncrediboxの完璧な組み合わせで、プレイヤーに創造的で楽しい音楽創作プラットフォームを提供します。Sprunki Craftの世界に参加して、おなじみのMinecraftキャラクターを使って自分だけの専用音楽作品を作りましょう！
