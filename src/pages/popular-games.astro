@@ -3,9 +3,21 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navigation from '@/components/Navigation.astro';
 import Footer from '@/components/Footer.astro';
 import GamesList from '@/components/GamesList.astro';
+import Pagination from '@/components/Pagination.astro';
+import EmptyState from '@/components/EmptyState.astro';
+import GameErrorBoundary from '@/components/GameErrorBoundary.astro';
 import { getTranslation } from '@/i18n/utils';
-import { getLocalizedGamesList, extractBaseSlug } from '@/utils/i18n';
+import { getLocalizedGamesList } from '@/utils/i18n';
 import type { SupportedLocale } from '@/i18n/types';
+
+// Import centralized utilities
+import { GAME_CATEGORIES } from '@/config/pagination';
+import { 
+  validatePageNumber, 
+  calculatePagination, 
+  filterGamesByCategory,
+  generatePaginationUrls 
+} from '@/utils/pagination';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
@@ -17,6 +29,8 @@ const { ui } = await getTranslation(currentLocale);
 
 // 获取本地化的游戏集合 - 使用统一的错误处理
 let localizedGames: any[] = [];
+let gameLoadError: string | undefined;
+
 try {
   localizedGames = await getLocalizedGamesList(currentLocale);
   if (!localizedGames || localizedGames.length === 0) {
@@ -24,45 +38,35 @@ try {
     localizedGames = await getLocalizedGamesList('en');
   }
 } catch (error) {
-  console.error(`Failed to load games for locale ${currentLocale}:`, error);
+  gameLoadError = `Failed to load games for locale ${currentLocale}: ${error}`;
+  console.error(gameLoadError);
+  
   // 错误时回退到英文游戏列表
   try {
     localizedGames = await getLocalizedGamesList('en');
   } catch (fallbackError) {
-    console.error('Failed to load fallback English games:', fallbackError);
+    gameLoadError = `Failed to load fallback English games: ${fallbackError}`;
+    console.error(gameLoadError);
     localizedGames = [];
   }
 }
 
-// 定义流行游戏的 slug 列表（基于原始页面）
-const popularGameSlugs = [
-  'sprunki-red-sun',
-  'sprunki-abgerny',
-  'sprunki-sonic'
-];
+// 获取URL参数中的页码 - 使用验证函数
+const url = new URL(Astro.request.url);
+const currentPage = validatePageNumber(url.searchParams.get('page'));
 
-// 筛选流行游戏 - 使用统一的游戏筛选逻辑，提取基础slug进行匹配
-const popularGames = localizedGames.filter((game: any) => {
-  if (!game || !game.data || !game.data.slug) {
-    console.warn('Invalid game object found:', game);
-    return false;
-  }
-  const baseSlug = extractBaseSlug(game.data.slug);
-  return game.data.category === 'popular' && popularGameSlugs.includes(baseSlug);
-});
+// 筛选流行游戏 - 使用工具函数
+const allPopularGames = filterGamesByCategory(localizedGames, GAME_CATEGORIES.POPULAR);
 
-// 添加 fiddlebops 主游戏
-const fiddlebopsGame = {
-  slug: '',
-  data: {
-    title: ui.hero?.title || 'Fiddlebops',
-    image: '/tw.jpg',
-    category: 'Music',
-    description: ui.hero?.subtitle || '创造惊人的音乐！'
-  }
-};
+// 计算分页 - 使用工具函数
+const paginationResult = calculatePagination(allPopularGames, currentPage);
 
-const displayGames = [...popularGames, fiddlebopsGame];
+// 生成分页URL
+const paginationUrls = generatePaginationUrls(
+  '/popular-games', 
+  paginationResult.currentPage, 
+  paginationResult.totalPages
+);
 
 // SEO配置
 const meta = {
@@ -87,10 +91,37 @@ const meta = {
         {ui.sections?.popularGames || 'Popular Games'}
       </h1>
       
-      <GamesList 
-        games={displayGames}
-        currentLocale={currentLocale}
-      />
+      {gameLoadError ? (
+        <GameErrorBoundary 
+          error={gameLoadError}
+          category="popular games"
+          fallbackMessage="We encountered an issue loading the popular games. Please try refreshing the page."
+        />
+      ) : paginationResult.isEmpty ? (
+        <EmptyState 
+          category="popular"
+          title="No Popular Games Found"
+          description="There are currently no popular games available. Please check back later or browse other categories."
+          backButtonText="Browse All Games"
+          backButtonUrl="/games/"
+        />
+      ) : (
+        <>
+          <GamesList 
+            games={paginationResult.games}
+            currentLocale={currentLocale}
+          />
+          
+          {paginationResult.totalPages > 1 && (
+            <Pagination 
+              currentPage={paginationResult.currentPage}
+              totalPages={paginationResult.totalPages}
+              basePath="/popular-games"
+              currentLocale={currentLocale}
+            />
+          )}
+        </>
+      )}
     </div>
   </main>
   

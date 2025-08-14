@@ -3,8 +3,9 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navigation from '@/components/Navigation.astro';
 import Footer from '@/components/Footer.astro';
 import GamesList from '@/components/GamesList.astro';
+import Pagination from '@/components/Pagination.astro';
 import { getTranslation } from '@/i18n/utils';
-import { getLocalizedGamesList, extractBaseSlug } from '@/utils/i18n';
+import { getLocalizedGamesList } from '@/utils/i18n';
 import type { SupportedLocale } from '@/i18n/types';
 
 // 导入数据
@@ -23,7 +24,7 @@ try {
     localizedGames = await getLocalizedGamesList('en');
   }
 } catch (error) {
-  console.error(`[zh/new-games] Failed to load games for locale ${currentLocale}:`, error);
+  console.error(`Failed to load games for locale ${currentLocale}:`, error);
   try {
     localizedGames = await getLocalizedGamesList('en');
   } catch (fallbackError) {
@@ -32,19 +33,26 @@ try {
   }
 }
 
-// 定义新游戏的 slug 列表（基于原始页面）
-const newGameSlugs = [
-  'pikmin-no-sprunki',
-  'the-haze-pixelbox',
-  'yojou-sprunki-mustard',
-  'sprunki-retake-bonus-characters'
-];
+// 获取URL参数中的页码
+const url = new URL(Astro.request.url);
+const currentPage = parseInt(url.searchParams.get('page') || '1', 10);
+const gamesPerPage = 12;
 
-// 筛选新游戏 - 使用统一的游戏筛选逻辑，提取基础slug进行匹配
-const newGames = localizedGames.filter((game: any) => {
-  const baseSlug = extractBaseSlug(game.data.slug);
-  return game.data.category === 'new' && newGameSlugs.includes(baseSlug);
+// 筛选新游戏 - 显示所有new分类的游戏
+const allNewGames = localizedGames.filter((game: any) => {
+  if (!game || !game.data || !game.data.slug) {
+    console.warn('Invalid game object found:', game);
+    return false;
+  }
+  return game.data.category === 'new';
 });
+
+// 计算分页
+const totalGames = allNewGames.length;
+const totalPages = Math.ceil(totalGames / gamesPerPage);
+const startIndex = (currentPage - 1) * gamesPerPage;
+const endIndex = startIndex + gamesPerPage;
+const displayGames = allNewGames.slice(startIndex, endIndex);
 
 // SEO配置
 const meta = {
@@ -70,7 +78,14 @@ const meta = {
       </h1>
       
       <GamesList 
-        games={newGames}
+        games={displayGames}
+        currentLocale={currentLocale}
+      />
+      
+      <Pagination 
+        currentPage={currentPage}
+        totalPages={totalPages}
+        basePath="/new-games"
         currentLocale={currentLocale}
       />
     </div>
