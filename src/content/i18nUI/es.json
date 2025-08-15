@@ -272,5 +272,57 @@
       "sprunikiExperience": "Crea ritmos increíbles con coloridos personajes Sprunki",
       "incrediboxExperience": "El clásico juego de creación musical que empezó todo"
     }
+  },
+  "game": {
+    "sections": {
+      "features": "Características del Juego",
+      "howToPlay": "Cómo Jugar",
+      "screenshots": "Capturas del Juego",
+      "about": "Acerca de {title}",
+      "relatedGames": "Más Juegos Como Este"
+    },
+    "features": {
+      "defaultTitle": "¿Qué Hace Especial a Este Juego?",
+      "defaultDescription": "Descubre qué hace único a este juego",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "Creación Musical Rica",
+          "description": "Crea composiciones musicales únicas con diversos elementos sonoros"
+        },
+        {
+          "icon": "🎭",
+          "title": "Variedad de Personajes",
+          "description": "Elige entre una amplia gama de personajes animados, cada uno con sonidos únicos"
+        },
+        {
+          "icon": "🔄",
+          "title": "Libertad Creativa",
+          "description": "Posibilidades ilimitadas para mezclar y combinar sonidos"
+        },
+        {
+          "icon": "💫",
+          "title": "Efectos Visuales",
+          "description": "Animaciones y efectos impresionantes que reaccionan a tu música"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "Domina el arte de la creación musical",
+      "defaults": [
+        "Elige tus personajes favoritos de la selección",
+        "Arrástralos y suéltalos en el escenario para empezar a crear",
+        "Experimenta con diferentes combinaciones para encontrar tu mezcla perfecta",
+        "Guarda y comparte tu obra maestra musical con amigos"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "Echa un vistazo a la experiencia de juego",
+      "musicPreviewTitle": "Vista Previa de Música del Juego",
+      "musicPreviewDescription": "Experimenta la banda sonora inmersiva"
+    },
+    "navigation": {
+      "continueJourney": "Continúa tu viaje musical"
+    }
   }
 }

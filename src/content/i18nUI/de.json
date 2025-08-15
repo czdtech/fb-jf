@@ -272,5 +272,57 @@
       "sprunikiExperience": "Erstelle fantastische Beats mit bunten Sprunki-Charakteren",
       "incrediboxExperience": "Das klassische Musikerstellungsspiel, das alles begonnen hat"
     }
+  },
+  "game": {
+    "sections": {
+      "features": "Spiel-Features",
+      "howToPlay": "Wie man spielt",
+      "screenshots": "Spiel-Screenshots",
+      "about": "Über {title}",
+      "relatedGames": "Weitere ähnliche Spiele"
+    },
+    "features": {
+      "defaultTitle": "Was macht dieses Spiel besonders?",
+      "defaultDescription": "Entdecke, was dieses Spiel einzigartig macht",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "Reichhaltige Musikerstellung",
+          "description": "Erstelle einzigartige Musikkompositionen mit vielfältigen Klangelementen"
+        },
+        {
+          "icon": "🎭",
+          "title": "Charaktervielfalt",
+          "description": "Wähle aus einer breiten Palette animierter Charaktere, jeder mit einzigartigen Klängen"
+        },
+        {
+          "icon": "🔄",
+          "title": "Kreative Freiheit",
+          "description": "Unbegrenzte Möglichkeiten zum Mischen und Kombinieren von Klängen"
+        },
+        {
+          "icon": "💫",
+          "title": "Visuelle Effekte",
+          "description": "Atemberaubende Animationen und Effekte, die auf deine Musik reagieren"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "Meistere die Kunst der Musikerstellung",
+      "defaults": [
+        "Wähle deine Lieblingsfiguren aus der Auswahl",
+        "Ziehe sie per Drag & Drop auf die Bühne, um mit dem Erstellen zu beginnen",
+        "Experimentiere mit verschiedenen Kombinationen, um deine perfekte Mischung zu finden",
+        "Speichere und teile dein musikalisches Meisterwerk mit Freunden"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "Werfen Sie einen Blick auf das Spielerlebnis",
+      "musicPreviewTitle": "Spiel-Musikvorschau",
+      "musicPreviewDescription": "Erlebe den immersiven Soundtrack"
+    },
+    "navigation": {
+      "continueJourney": "Setze deine musikalische Reise fort"
+    }
   }
 }

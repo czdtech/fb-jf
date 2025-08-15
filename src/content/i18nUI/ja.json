@@ -272,5 +272,57 @@
       "sprunikiExperience": "カラフルなSprunki キャラクターで素晴らしいビートを作成",
       "incrediboxExperience": "すべての始まりとなったクラシック音楽制作ゲーム"
     }
+  },
+  "game": {
+    "sections": {
+      "features": "ゲーム機能",
+      "howToPlay": "遊び方",
+      "screenshots": "ゲームスクリーンショット",
+      "about": "{title}について",
+      "relatedGames": "似たようなゲーム"
+    },
+    "features": {
+      "defaultTitle": "このゲームの特別な点は？",
+      "defaultDescription": "このゲームのユニークさを発見しよう",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "豊かな音楽制作",
+          "description": "多様なサウンド要素でユニークな音楽作品を作成"
+        },
+        {
+          "icon": "🎭",
+          "title": "キャラクターの多様性",
+          "description": "それぞれユニークなサウンドを持つ幅広いアニメーションキャラクターから選択"
+        },
+        {
+          "icon": "🔄",
+          "title": "創造の自由",
+          "description": "サウンドのミックスと組み合わせの無限の可能性"
+        },
+        {
+          "icon": "💫",
+          "title": "視覚効果",
+          "description": "音楽に反応する素晴らしいアニメーションと効果"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "音楽制作の芸術をマスターしよう",
+      "defaults": [
+        "選択からお気に入りのキャラクターを選ぶ",
+        "ステージにドラッグ＆ドロップして制作を開始",
+        "さまざまな組み合わせを試して完璧なミックスを見つける",
+        "あなたの音楽的傑作を保存して友達と共有"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "ゲームプレイ体験を見てみよう",
+      "musicPreviewTitle": "ゲーム音楽プレビュー",
+      "musicPreviewDescription": "没入感のあるサウンドトラックを体験"
+    },
+    "navigation": {
+      "continueJourney": "音楽の旅を続ける"
+    }
   }
 }

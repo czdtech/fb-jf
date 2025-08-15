@@ -272,5 +272,57 @@
       "sprunikiExperience": "Créez des rythmes incroyables avec des personnages Sprunki colorés",
       "incrediboxExperience": "Le jeu classique de création musicale qui a tout commencé"
     }
+  },
+  "game": {
+    "sections": {
+      "features": "Caractéristiques du Jeu",
+      "howToPlay": "Comment Jouer",
+      "screenshots": "Captures du Jeu",
+      "about": "À Propos de {title}",
+      "relatedGames": "Plus de Jeux Comme Celui-ci"
+    },
+    "features": {
+      "defaultTitle": "Qu'est-ce qui Rend ce Jeu Spécial ?",
+      "defaultDescription": "Découvrez ce qui rend ce jeu unique",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "Création Musicale Riche",
+          "description": "Créez des compositions musicales uniques avec des éléments sonores diversifiés"
+        },
+        {
+          "icon": "🎭",
+          "title": "Variété de Personnages",
+          "description": "Choisissez parmi une large gamme de personnages animés, chacun avec des sons uniques"
+        },
+        {
+          "icon": "🔄",
+          "title": "Liberté Créative",
+          "description": "Possibilités illimitées pour mélanger et assortir les sons"
+        },
+        {
+          "icon": "💫",
+          "title": "Effets Visuels",
+          "description": "Animations et effets époustouflants qui réagissent à votre musique"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "Maîtrisez l'art de la création musicale",
+      "defaults": [
+        "Choisissez vos personnages préférés dans la sélection",
+        "Glissez-les et déposez-les sur la scène pour commencer à créer",
+        "Expérimentez avec différentes combinaisons pour trouver votre mélange parfait",
+        "Sauvegardez et partagez votre chef-d'œuvre musical avec vos amis"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "Jetez un œil à l'expérience de jeu",
+      "musicPreviewTitle": "Aperçu Musical du Jeu",
+      "musicPreviewDescription": "Découvrez la bande sonore immersive"
+    },
+    "navigation": {
+      "continueJourney": "Continuez votre voyage musical"
+    }
   }
 }

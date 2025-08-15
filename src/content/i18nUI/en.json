@@ -272,5 +272,57 @@
       "sprunikiExperience": "Create amazing beats with colorful Sprunki characters",
       "incrediboxExperience": "The classic music creation game that started it all"
     }
+  },
+  "game": {
+    "sections": {
+      "features": "Game Features",
+      "howToPlay": "How to Play",
+      "screenshots": "Game Screenshots",
+      "about": "About {title}",
+      "relatedGames": "More Games Like This"
+    },
+    "features": {
+      "defaultTitle": "What Makes This Game Special?",
+      "defaultDescription": "Discover what makes this game unique",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "Rich Music Creation",
+          "description": "Create unique musical compositions with diverse sound elements"
+        },
+        {
+          "icon": "🎭",
+          "title": "Character Variety",
+          "description": "Choose from a wide range of animated characters, each with unique sounds"
+        },
+        {
+          "icon": "🔄",
+          "title": "Creative Freedom",
+          "description": "Unlimited possibilities for mixing and matching sounds"
+        },
+        {
+          "icon": "💫",
+          "title": "Visual Effects",
+          "description": "Stunning animations and effects that react to your music"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "Master the art of music creation",
+      "defaults": [
+        "Choose your favorite characters from the selection",
+        "Drag and drop them onto the stage to start creating",
+        "Experiment with different combinations to find your perfect mix",
+        "Save and share your musical masterpiece with friends"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "Take a look at the gameplay experience",
+      "musicPreviewTitle": "Game Music Preview",
+      "musicPreviewDescription": "Experience the immersive soundtrack"
+    },
+    "navigation": {
+      "continueJourney": "Continue your musical journey"
+    }
   }
 }

@@ -272,5 +272,57 @@
       "sprunikiExperience": "다채로운 Sprunki 캐릭터로 멋진 비트 창조하기",
       "incrediboxExperience": "모든 것의 시작이 된 클래식 음악 제작 게임"
     }
+  },
+  "game": {
+    "sections": {
+      "features": "게임 특징",
+      "howToPlay": "게임 방법",
+      "screenshots": "게임 스크린샷",
+      "about": "{title} 소개",
+      "relatedGames": "비슷한 게임들"
+    },
+    "features": {
+      "defaultTitle": "이 게임의 특별한 점은?",
+      "defaultDescription": "이 게임만의 독특함을 발견해보세요",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "풍부한 음악 창작",
+          "description": "다양한 사운드 요소로 독특한 음악 작품 만들기"
+        },
+        {
+          "icon": "🎭",
+          "title": "캐릭터 다양성",
+          "description": "각각 고유한 사운드를 가진 다양한 애니메이션 캐릭터 중에서 선택"
+        },
+        {
+          "icon": "🔄",
+          "title": "창작의 자유",
+          "description": "사운드 믹싱과 매칭의 무한한 가능성"
+        },
+        {
+          "icon": "💫",
+          "title": "시각 효과",
+          "description": "음악에 반응하는 놀라운 애니메이션과 효과"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "음악 창작의 예술을 마스터하세요",
+      "defaults": [
+        "선택지에서 좋아하는 캐릭터들을 선택하세요",
+        "스테이지에 드래그 앤 드롭하여 창작을 시작하세요",
+        "다양한 조합을 실험하여 완벽한 믹스를 찾아보세요",
+        "음악 걸작을 저장하고 친구들과 공유하세요"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "게임플레이 경험을 살펴보세요",
+      "musicPreviewTitle": "게임 음악 미리보기",
+      "musicPreviewDescription": "몰입감 있는 사운드트랙을 경험하세요"
+    },
+    "navigation": {
+      "continueJourney": "음악 여행을 계속하세요"
+    }
   }
 }

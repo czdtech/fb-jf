@@ -14,7 +14,8 @@ import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 // 导入数据和工具
 import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
-import { generateAllLocalesGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath } from '@/utils/i18n'
+import { generateAllLocalesGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath, extractBaseSlug } from '@/utils/i18n'
+import { getTranslation } from '@/i18n/utils'
 import type { ExtractedData } from '@/types/game'
 
 const { navigation } = extractedData as ExtractedData
@@ -83,6 +84,10 @@ const { Content } = await render(game);
 const gameData = { ...(game.data), slug: game.data.slug || slug };
 const extendedData = gameData;
 
+// 获取当前语言的翻译内容
+const translation = await getTranslation(currentLocale);
+const gameTexts = translation.ui?.game || {};
+
 // Fetch and prepare related games - 优先显示当前语言的游戏
 const allGames = await getCollection('games');
 const relatedGames = allGames
@@ -102,7 +107,16 @@ const relatedGames = allGames
     }
   })
   .slice(0, 4)
-  .map((g: CollectionEntry<'games'>) => ({ slug: g.slug, ...g.data }));
+  .map((g: CollectionEntry<'games'>) => {
+    // 生成正确的链接 slug
+    const originalSlug = (g as any).slug ?? g.data.slug ?? g.id.replace(/\.md$/, "");
+    const baseSlug = extractBaseSlug(originalSlug);
+    const linkSlug = currentLocale === 'en' ? baseSlug : `${currentLocale}/${baseSlug}`;
+    return {
+      ...g.data, // 先展开 front-matter 数据
+      slug: linkSlug, // 最后覆盖 slug，确保用于链接
+    };
+  });
 
 // 统一的hreflang生成 - 仅为存在翻译的语言生成链接
 const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], gameData.slug)
@@ -231,15 +245,15 @@ const defaultSteps = [
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
             <span class="text-purple-600">✨</span>
-            Game Features
+            {gameTexts.sections?.features || 'Game Features'}
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            Discover what makes this game special
+            {gameTexts.features?.defaultDescription || 'Discover what makes this game special'}
           </p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {(extendedData.features || defaultFeatures).map((feature: any, index: number) => (
+          {(extendedData.features || gameTexts.features?.defaults || defaultFeatures).map((feature: any, index: number) => (
             <Card className="h-full hover:shadow-lg transition-shadow duration-300">
               <CardContent className="p-6 text-center">
                 <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
@@ -260,17 +274,17 @@ const defaultSteps = [
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
             <span class="text-purple-600">🎮</span>
-            How to Play
+            {gameTexts.sections?.howToPlay || 'How to Play'}
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            Master the art of music creation
+            {gameTexts.howToPlay?.defaultTitle || 'Master the art of music creation'}
           </p>
         </div>
 
         <Card className="max-w-4xl mx-auto">
           <CardContent className="p-8">
             <div class="space-y-6">
-              {(extendedData.howToPlay || defaultSteps).map((step: any, index: number) => (
+              {(extendedData.howToPlay || gameTexts.howToPlay?.defaults || defaultSteps).map((step: any, index: number) => (
                 <div class="flex gap-6 items-start">
                   <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
                     {index + 1}
@@ -291,10 +305,10 @@ const defaultSteps = [
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">📸</span>
-              Game Screenshots
+              {gameTexts.sections?.screenshots || 'Game Screenshots'}
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              Take a look at the gameplay experience
+              {gameTexts.media?.screenshotsTitle || 'Take a look at the gameplay experience'}
             </p>
           </div>
 
@@ -330,10 +344,10 @@ const defaultSteps = [
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">🎵</span>
-              Game Music Preview
+              {gameTexts.media?.musicPreviewTitle || 'Game Music Preview'}
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              Experience the immersive soundtrack
+              {gameTexts.media?.musicPreviewDescription || 'Experience the immersive soundtrack'}
             </p>
           </div>
 
@@ -353,7 +367,7 @@ const defaultSteps = [
           <CardHeader className="bg-gradient-to-r from-purple-50 to-pink-50 border-b">
             <div class="flex items-center gap-4">
               <div class="text-purple-600 text-3xl">📖</div>
-              <CardTitle className="text-3xl text-gray-900">About {gameData.title}</CardTitle>
+              <CardTitle className="text-3xl text-gray-900">{gameTexts.sections?.about?.replace('{title}', gameData.title) || `About ${gameData.title}`}</CardTitle>
             </div>
             <div class="flex items-center gap-2 mt-4">
               <Badge variant="secondary" className="bg-purple-100 text-purple-700 hover:bg-purple-200">
@@ -383,10 +397,10 @@ const defaultSteps = [
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">🎯</span>
-              More Games Like This
+              {gameTexts.sections?.relatedGames || 'More Games Like This'}
             </h2>
             <p class="text-xl text-gray-600">
-              Continue your musical journey
+              {gameTexts.navigation?.continueJourney || 'Continue your musical journey'}
             </p>
           </div>
 
