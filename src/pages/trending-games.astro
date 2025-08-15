@@ -59,6 +59,13 @@ const allTrendingGames = filterGamesByCategory(localizedGames, GAME_CATEGORIES.T
 // 计算分页 - 使用工具函数
 const paginationResult = calculatePagination(allTrendingGames, currentPage);
 
+// 调试信息
+console.log(`[trending-games] currentLocale: ${currentLocale}`);
+console.log(`[trending-games] allTrendingGames.length: ${allTrendingGames.length}`);
+console.log(`[trending-games] currentPage: ${paginationResult.currentPage}`);
+console.log(`[trending-games] totalPages: ${paginationResult.totalPages}`);
+console.log(`[trending-games] totalItems: ${paginationResult.totalItems}`);
+
 // 生成分页URL
 const paginationUrls = generatePaginationUrls(
   '/trending-games', 

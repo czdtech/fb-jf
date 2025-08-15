@@ -1,0 +1,249 @@
+---
+export interface Props {
+  currentPage: number;
+  totalPages: number;
+  basePath: string;
+  currentLocale?: string;
+}
+
+const { currentPage, totalPages, basePath, currentLocale } = Astro.props;
+
+// 构建分页URL
+const buildPageUrl = (page: number) => {
+  if (page === 1) {
+    return currentLocale && currentLocale !== 'en' ? `/${currentLocale}${basePath}` : basePath;
+  }
+  return currentLocale && currentLocale !== 'en' 
+    ? `/${currentLocale}${basePath}?page=${page}`
+    : `${basePath}?page=${page}`;
+};
+
+// 计算显示的页码范围
+const getPageRange = () => {
+  const delta = 2;
+  const left = currentPage - delta;
+  const right = currentPage + delta + 1;
+  
+  const pages = [];
+
+  // 添加第一页
+  pages.push(1);
+
+  // 添加省略号（如果需要）
+  if (left > 2) {
+    pages.push('...');
+  }
+
+  // 添加当前页面周围的页码
+  for (let i = Math.max(2, left); i < Math.min(totalPages, right); i++) {
+    if (i !== currentPage && !pages.includes(i)) {
+      pages.push(i);
+    }
+  }
+
+  // 添加省略号（如果需要）
+  if (right < totalPages) {
+    pages.push('...');
+  }
+
+  // 添加最后一页（如果不是第一页）
+  if (totalPages > 1 && !pages.includes(totalPages) && totalPages !== currentPage) {
+    pages.push(totalPages);
+  }
+
+  return pages;
+};
+
+const pageRange = totalPages > 1 ? getPageRange() : [];
+---
+
+{totalPages > 1 && (
+  <nav class="pagination" aria-label="Page navigation">
+    <div class="pagination-container">
+      {/* 上一页 */}
+      {currentPage > 1 && (
+        <a 
+          href={buildPageUrl(currentPage - 1)} 
+          class="pagination-btn pagination-prev"
+          aria-label="Previous page"
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="15,18 9,12 15,6"></polyline>
+          </svg>
+          Previous
+        </a>
+      )}
+
+      {/* 页码 */}
+      <div class="pagination-pages">
+        {pageRange.map((page) => (
+          typeof page === 'number' ? (
+            <a 
+              href={buildPageUrl(page)} 
+              class="pagination-page"
+              aria-label={`Go to page ${page}`}
+            >
+              {page}
+            </a>
+          ) : (
+            <span class="pagination-dots">{page}</span>
+          )
+        ))}
+        
+        {/* 当前页 */}
+        <span 
+          class="pagination-page pagination-current" 
+          aria-current="page"
+          aria-label={`Current page ${currentPage}`}
+        >
+          {currentPage}
+        </span>
+      </div>
+
+      {/* 下一页 */}
+      {currentPage < totalPages && (
+        <a 
+          href={buildPageUrl(currentPage + 1)} 
+          class="pagination-btn pagination-next"
+          aria-label="Next page"
+        >
+          Next
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9,18 15,12 9,6"></polyline>
+          </svg>
+        </a>
+      )}
+    </div>
+
+    {/* 页面信息 */}
+    <div class="pagination-info">
+      Page {currentPage} of {totalPages}
+    </div>
+  </nav>
+)}
+
+<style>
+.pagination {
+  margin: 3rem 0 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.pagination-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pagination-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  border: 1px solid var(--border-color);
+}
+
+.pagination-btn:hover {
+  background: var(--primary-color);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.pagination-pages {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0 1rem;
+}
+
+.pagination-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  border: 1px solid var(--border-color);
+}
+
+.pagination-page:hover {
+  background: var(--primary-color);
+  color: white;
+  transform: translateY(-1px);
+}
+
+.pagination-current {
+  background: var(--primary-color);
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.pagination-dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.pagination-info {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .pagination-container {
+    gap: 0.25rem;
+  }
+
+  .pagination-btn {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .pagination-page {
+    width: 36px;
+    height: 36px;
+    font-size: 0.9rem;
+  }
+
+  .pagination-dots {
+    width: 36px;
+    height: 36px;
+  }
+
+  .pagination-pages {
+    margin: 0 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .pagination-container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .pagination-pages {
+    margin: 0;
+  }
+}
+</style>

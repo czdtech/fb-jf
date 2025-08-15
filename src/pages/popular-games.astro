@@ -34,14 +34,12 @@ let gameLoadError: string | undefined;
 try {
   localizedGames = await getLocalizedGamesList(currentLocale);
   if (!localizedGames || localizedGames.length === 0) {
-    // 如果当前语言没有游戏数据，回退到英文
     localizedGames = await getLocalizedGamesList('en');
   }
 } catch (error) {
   gameLoadError = `Failed to load games for locale ${currentLocale}: ${error}`;
   console.error(gameLoadError);
   
-  // 错误时回退到英文游戏列表
   try {
     localizedGames = await getLocalizedGamesList('en');
   } catch (fallbackError) {

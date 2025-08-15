@@ -8,6 +8,14 @@ import { getTranslation } from '@/i18n/utils';
 import { getLocalizedGamesList } from '@/utils/i18n';
 import type { SupportedLocale } from '@/i18n/types';
 
+// Import centralized utilities
+import { GAME_CATEGORIES } from '@/config/pagination';
+import { 
+  validatePageNumber, 
+  calculatePagination, 
+  filterGamesByCategory 
+} from '@/utils/pagination';
+
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
 const { navigation } = extractedData;
@@ -33,26 +41,14 @@ try {
   }
 }
 
-// 获取URL参数中的页码
-const url = new URL(Astro.request.url);
-const currentPage = parseInt(url.searchParams.get('page') || '1', 10);
-const gamesPerPage = 12;
+// 获取URL参数中的页码 - 使用验证函数
+const currentPage = validatePageNumber(Astro.url.searchParams.get('page'));
 
-// 筛选趋势游戏 - 显示所有trending分类的游戏
-const allTrendingGames = localizedGames.filter((game: any) => {
-  if (!game || !game.data || !game.data.slug) {
-    console.warn('Invalid game object found:', game);
-    return false;
-  }
-  return game.data.category === 'trending';
-});
+// 筛选趋势游戏 - 使用工具函数
+const allTrendingGames = filterGamesByCategory(localizedGames, GAME_CATEGORIES.TRENDING);
 
-// 计算分页
-const totalGames = allTrendingGames.length;
-const totalPages = Math.ceil(totalGames / gamesPerPage);
-const startIndex = (currentPage - 1) * gamesPerPage;
-const endIndex = startIndex + gamesPerPage;
-const displayGames = allTrendingGames.slice(startIndex, endIndex);
+// 计算分页 - 使用工具函数
+const paginationResult = calculatePagination(allTrendingGames, currentPage);
 
 // SEO配置
 const meta = {
@@ -78,14 +74,14 @@ const meta = {
       </h1>
       
       <GamesList 
-        games={displayGames}
+        games={paginationResult.games}
         currentLocale={currentLocale}
       />
       
       <Pagination 
-        currentPage={currentPage}
-        totalPages={totalPages}
-        basePath="/trending-games"
+        currentPage={paginationResult.currentPage}
+        totalPages={paginationResult.totalPages}
+        basePath="/es/trending-games"
         currentLocale={currentLocale}
       />
     </div>
