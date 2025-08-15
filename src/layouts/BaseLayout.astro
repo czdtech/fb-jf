@@ -52,7 +52,7 @@ const htmlDir = getLanguageDirection(lang as any);
     {safeMeta.keywords && <meta name="keywords" content={safeMeta.keywords}>}
     <meta name="robots" content={meta?.robots || 'index, follow'}/>
     <link rel="canonical" href={safeMeta.canonical}/>
-    
+
     <!-- Pagination SEO -->
     {meta?.prevUrl && <link rel="prev" href={meta.prevUrl} />}
     {meta?.nextUrl && <link rel="next" href={meta.nextUrl} />}
@@ -205,7 +205,7 @@ const htmlDir = getLanguageDirection(lang as any);
 
         <!-- 全局错误处理器 -->
     <script type="module" is:inline data-is-prod={import.meta.env.PROD}>
-      import { GlobalErrorHandler } from '/src/scripts/global-error-handler.js';
+      import { GlobalErrorHandler } from '@/scripts/global-error-handler.js';
 
       // 从 data 属性获取环境变量（防御性编程）
       const isProd = document.currentScript?.getAttribute('data-is-prod') === 'true' || false;
@@ -225,7 +225,7 @@ const htmlDir = getLanguageDirection(lang as any);
 
     <!-- 可访问性管理器 -->
     <script type="module" is:inline>
-      import { AccessibilityManager } from '/src/scripts/accessibility-manager.js';
+      import { AccessibilityManager } from '@/scripts/accessibility-manager.js';
 
       // 初始化可访问性管理器
       window.accessibilityManager = new AccessibilityManager({
@@ -246,7 +246,7 @@ const htmlDir = getLanguageDirection(lang as any);
 
     <!-- 设计系统交互脚本 -->
     <script type="module" is:inline>
-      import '/src/scripts/interactions.js'
+      import '@/scripts/interactions.js'
     </script>
 
 

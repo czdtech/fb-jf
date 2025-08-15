@@ -6,7 +6,6 @@
     "newGames": "New Games",
     "popularGames": "Popular Games",
     "trendingGames": "Trending Games",
-    "aboutUs": "About Us",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "language": "Language"
@@ -251,7 +250,6 @@
     "menu": "Menu"
   },
   "footer": {
-    "aboutUs": "About Us",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyright": "© 2025 FiddleBops. All rights reserved.",

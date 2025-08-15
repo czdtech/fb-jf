@@ -1,4 +1,5 @@
 import ResponsivePicture from '@/components/ResponsivePicture.astro'
+import UrlService from '@/utils/url-service';
 ---
 interface Props {
   communityMods: Array<{
@@ -10,6 +11,7 @@ interface Props {
 }
 
 const { communityMods, musicDelayStart } = Astro.props
+const currentLocale = Astro.currentLocale || 'en';
 ---
 
 <!-- Community Games - Directly below iframe -->
@@ -18,7 +20,7 @@ const { communityMods, musicDelayStart } = Astro.props
     {
       communityMods.map((mod: any, index: number) => (
         <div class={`music-element hero-music-delay-${musicDelayStart + index}`}>
-          <a href={`/${mod.slug}/`} class="hero-community-card-inline">
+          <a href={UrlService.getGameUrl(mod, currentLocale)} class="hero-community-card-inline">
             <div class="hero-community-image-inline">
               <!-- AURA-X: Modify - 社区卡片图片添加懒加载与异步解码。Confirmed via 寸止。 -->
               <ResponsivePicture src={mod.image} alt={mod.title} loading="lazy" decoding="async" width={400} height={300} class="w-full h-full object-cover" />

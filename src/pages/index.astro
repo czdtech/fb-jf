@@ -6,7 +6,6 @@ import Footer from '@/components/Footer.astro'
 // Import new clean sections with shadcn/ui
 import HeroSectionNew from '@/components/sections/HeroSectionNew.astro'
 import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
-import AboutSection from '@/components/sections/AboutSection.astro'
 import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
@@ -70,7 +69,7 @@ const pageMeta = {
   title: uiText?.meta?.title || extractedData.homepage.meta.title,
   description: uiText?.meta?.description || extractedData.homepage.meta.description,
   keywords: uiText?.meta?.keywords || extractedData.homepage.meta.keywords,
-  canonical: getAbsoluteLocaleUrl(currentLocale, '/'),
+  canonical: currentLocale === 'en' ? `${SITE_URL}/` : `${SITE_URL}/${currentLocale}/`,
   ogImage: extractedData.homepage.meta.ogImage
 };
 
@@ -82,7 +81,7 @@ const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
   audioSrc: sample.audio,
   category: sample.category,
   // 颜色配置可以考虑移到数据文件，但先保持现有逻辑
-  color: sample.category === 'Beats' ? '#FF6B6B' : 
+  color: sample.category === 'Beats' ? '#FF6B6B' :
          sample.category === 'Effects' ? '#4ECDC4' :
          sample.category === 'Melodies' ? '#45B7D1' :
          sample.category === 'Voices' ? '#FFA726' :
@@ -142,7 +141,6 @@ const structuredData = {
     <HowToPlaySection />
 
     <!-- About Section -->
-    <AboutSection />
 
     <!-- Sound Samples Section -->
     <SoundSamplesSection soundSamples={soundSamples} />

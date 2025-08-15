@@ -1,6 +1,7 @@
 ---
 // 定义明确的类型接口，提高类型安全
 import { Image } from 'astro:assets';
+import UrlService from '@/utils/url-service';
 
 interface Game {
   slug: string;
@@ -19,6 +20,12 @@ interface Props {
 // 解构组件参数
 const { game, index = 0 } = Astro.props;
 const { slug, url, imageUrl: imagePath, title, category, rating = 0 } = game;
+
+// 获取当前locale
+const currentLocale = Astro.currentLocale || 'en';
+
+// 使用统一URL生成服务
+const gamePath = UrlService.getGameUrl(game, currentLocale);
 
 // 格式化分类名称的函数
 const categoryNames = {
@@ -70,9 +77,9 @@ const generateStars = (rating: number) => {
   const fullStars = Math.floor(rating);
   const hasHalfStar = rating % 1 >= 0.5;
   const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
-  
+
   let starsHTML = '';
-  
+
   // 完整星星
   for (let i = 0; i < fullStars; i++) {
     starsHTML += `<span class="star filled">
@@ -81,7 +88,7 @@ const generateStars = (rating: number) => {
       </svg>
     </span>`;
   }
-  
+
   // 半星
   if (hasHalfStar) {
     starsHTML += `<span class="star half-filled">
@@ -93,7 +100,7 @@ const generateStars = (rating: number) => {
       </svg>
     </span>`;
   }
-  
+
   // 空星星
   for (let i = 0; i < emptyStars; i++) {
     starsHTML += `<span class="star empty">
@@ -102,14 +109,14 @@ const generateStars = (rating: number) => {
       </svg>
     </span>`;
   }
-  
+
   return starsHTML;
 };
 ---
 
-<article 
-  class="game-card glass animate-in" 
-  data-index={index} 
+<article
+  class="game-card glass animate-in"
+  data-index={index}
   data-game-card
   data-game-title={title}
   data-game-category={category}
@@ -119,8 +126,8 @@ const generateStars = (rating: number) => {
     <div class="glow-effect" style={`background: ${colorScheme.gradient}`}></div>
     <div class="subtle-noise"></div>
   </div>
-  
-  <a href={`/${slug}/`} class="game-link" title={title}>
+
+  <a href={gamePath} class="game-link" title={title}>
     <div class="game-card-inner">
       <!-- 游戏图片容器 -->
       <div class="game-image-container">
@@ -129,7 +136,7 @@ const generateStars = (rating: number) => {
           {formattedCategory}
           <div class="badge-glow"></div>
         </div>
-        
+
         <div class="game-image-overlay">
           <div class="play-button glass">
             <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor">
@@ -139,7 +146,7 @@ const generateStars = (rating: number) => {
           </div>
           <div class="game-glow" style={`background: radial-gradient(circle at center, ${colorScheme.glow} 0%, transparent 70%)`}></div>
         </div>
-        
+
         {imagePath.startsWith('/') ? (
           <Image
             src={imagePath}
@@ -163,7 +170,7 @@ const generateStars = (rating: number) => {
             height="225"
           />
         )}
-        
+
         <!-- 图片底部渐变阴影 -->
         <div class="image-bottom-fade"></div>
       </div>
@@ -171,7 +178,7 @@ const generateStars = (rating: number) => {
       <!-- 游戏信息 -->
       <div class="game-info">
         <h3 class="game-title heading-medium">{title}</h3>
-        
+
         <div class="game-meta">
           <div class="game-rating">
             <div class="stars" set:html={generateStars(rating)}></div>
@@ -181,7 +188,7 @@ const generateStars = (rating: number) => {
       </div>
     </div>
   </a>
-  
+
   <!-- 卡片边缘发光效果 -->
   <div class="card-edge-highlight"></div>
 </article>
@@ -560,21 +567,21 @@ const generateStars = (rating: number) => {
     .game-title {
       font-size: var(--font-size-base);
     }
-    
+
     .play-button {
       width: 3.5rem;
       height: 3.5rem;
     }
-    
+
     .play-icon {
       width: 1.25rem;
       height: 1.25rem;
     }
-    
+
     .game-info {
       padding: var(--space-4);
     }
-    
+
     .star-icon {
       width: 0.875rem;
       height: 0.875rem;

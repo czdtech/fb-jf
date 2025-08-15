@@ -136,7 +136,6 @@ const i18nUICollection = defineCollection({
       newGames: z.string(),
       popularGames: z.string(),
       trendingGames: z.string(),
-      aboutUs: z.string(),
       privacy: z.string(),
       terms: z.string(),
       language: z.string(),
@@ -346,7 +345,6 @@ const i18nUICollection = defineCollection({
     }),
     // 页脚
     footer: z.object({
-      aboutUs: z.string(),
       privacy: z.string(),
       terms: z.string(),
       copyright: z.string(),

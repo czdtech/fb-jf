@@ -7,7 +7,6 @@ import Footer from '@/components/Footer.astro'
 // Import new clean sections with shadcn/ui
 import HeroSectionNew from '@/components/sections/HeroSectionNew.astro'
 import HowToPlaySection from '@/components/sections/HowToPlaySection.astro'
-import AboutSection from '@/components/sections/AboutSection.astro'
 import SoundSamplesSection from '@/components/sections/SoundSamplesSection.astro'
 import VideosSection from '@/components/sections/VideosSection.astro'
 import FAQSection from '@/components/sections/FAQSection.astro'
@@ -72,7 +71,7 @@ const soundSamples = extractedData.homepage.soundSamples.map((sample: any) => ({
   image: sample.image,
   audioSrc: sample.audio,
   category: sample.category,
-  color: sample.category === 'Beats' ? '#FF6B6B' : 
+  color: sample.category === 'Beats' ? '#FF6B6B' :
          sample.category === 'Effects' ? '#4ECDC4' :
          sample.category === 'Melodies' ? '#45B7D1' :
          sample.category === 'Voices' ? '#FFA726' :
@@ -132,7 +131,6 @@ const structuredData = {
     <HowToPlaySection />
 
     <!-- About Section -->
-    <AboutSection />
 
     <!-- Sound Samples Section -->
     <SoundSamplesSection soundSamples={soundSamples} />

@@ -6,7 +6,7 @@
     "newGames": "Nouveaux Jeux",
     "popularGames": "Jeux Populaires",
     "trendingGames": "Jeux Tendances",
-    "aboutUs": "À Propos",
+    
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
     "language": "Langue"
@@ -251,7 +251,7 @@
     "menu": "Menu"
   },
   "footer": {
-    "aboutUs": "À Propos",
+    
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
     "copyright": "© 2025 FiddleBops. Tous droits réservés.",

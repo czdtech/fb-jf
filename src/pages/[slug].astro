@@ -14,14 +14,17 @@ import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 // 导入数据和工具
 import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
-import { generateAllLocalesGamePaths, getLocalizedGameContent, getGameLocalizedPath, extractLocaleFromPath, extractBaseSlug } from '@/utils/i18n'
+import { generateAllLocalesGamePaths, getLocalizedGameContent, extractLocaleFromPath } from '@/utils/i18n'
+import { extractBaseSlug, getGameLocalizedPath } from '@/utils/url-service'
 import { getTranslation } from '@/i18n/utils'
 import type { ExtractedData } from '@/types/game'
+import UrlService from '@/utils/url-service'
 
 const { navigation } = extractedData as ExtractedData
 
 // 基础站点域名（统一 canonical 基准域，去除末尾斜杠）
-const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '')
+// 强制使用生产环境URL，避免开发环境localhost泄露
+const SITE_URL = 'https://www.playfiddlebops.com'
 
 export async function getStaticPaths() {
   // 为所有支持的语言生成游戏路径
@@ -108,25 +111,25 @@ const relatedGames = allGames
   })
   .slice(0, 4)
   .map((g: CollectionEntry<'games'>) => {
-    // 生成正确的链接 slug
-    const originalSlug = (g as any).slug ?? g.data.slug ?? g.id.replace(/\.md$/, "");
-    const baseSlug = extractBaseSlug(originalSlug);
-    const linkSlug = currentLocale === 'en' ? baseSlug : `${currentLocale}/${baseSlug}`;
+    // 使用UrlService标准化游戏数据
+    const normalizedData = UrlService.normalizeGameData(g);
     return {
       ...g.data, // 先展开 front-matter 数据
-      slug: linkSlug, // 最后覆盖 slug，确保用于链接
+      slug: normalizedData.baseSlug, // 使用标准化的基础slug
     };
   });
 
 // 统一的hreflang生成 - 仅为存在翻译的语言生成链接
-const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], gameData.slug)
+// 使用URL参数中的基础slug，而非frontmatter中的完整slug
+const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], slug)
 
 // 规范化 ogImage（确保绝对URL）
 const rawOgImage = extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || '/tw.jpg'
 const normalizedOgImage = rawOgImage?.startsWith('http') ? rawOgImage : `${SITE_URL}${rawOgImage.startsWith('/') ? '' : '/'}${rawOgImage}`
 
 // SEO配置 - 多语言支持的 canonical URL
-const canonicalPath = getGameLocalizedPath(gameData.slug, currentLocale);
+// 使用URL参数中的基础slug生成正确的canonical路径
+const canonicalPath = getGameLocalizedPath(slug, currentLocale);
 const meta = {
   title: extendedData.seo?.title || gameData.meta?.title || `${gameData.title} - Play ${gameData.title} Online | FiddleBops`,
   description: extendedData.seo?.description || gameData.meta?.description || `Play ${gameData.title} online for free! ${gameData.description || 'Experience this amazing music creation game.'}`,

@@ -5,8 +5,8 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  // 站点基础配置 - 影响绝对链接生成和sitemap自动化
-  site: "https://www.playfiddlebops.com",
+  // 站点基础配置 - 根据环境动态设置，修复hreflang URL问题
+  site: process.env.PUBLIC_SITE_URL || "https://www.playfiddlebops.com",
   output: "static",
   publicDir: "public",
   server: {
@@ -26,5 +26,13 @@ export default defineConfig({
     tailwind({ applyBaseStyles: false }), // Disable base styles to use shadcn/ui styles
     react(),
   ],
-  vite: {},
+  vite: {
+    define: {
+      // 修复React开发模式问题
+      'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'development'),
+    },
+    optimizeDeps: {
+      include: ['react', 'react-dom']
+    }
+  },
 });

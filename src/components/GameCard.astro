@@ -4,6 +4,7 @@ import { GameCardError } from '@/components/ui'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
 import { Image } from 'astro:assets';
 import ResponsivePicture from '@/components/ResponsivePicture.astro';
+import UrlService from '@/utils/url-service';
 
 export interface Props {
   game: Game
@@ -14,16 +15,11 @@ export interface Props {
 
 const { game, variant = 'grid', hasError = false } = Astro.props
 
-// 安全的URL处理
-const gameUrl = game.url
-  ? (game.url.startsWith('http') || game.url.startsWith('/'))
-      ? game.url
-      : `/${game.url}`
-  : game.slug
-      ? game.slug.startsWith('http')
-        ? game.slug
-        : `/${game.slug}/`
-      : '#'
+// 获取当前locale
+const currentLocale = Astro.currentLocale || 'en';
+
+// 使用统一URL生成服务
+const gameUrl = UrlService.getGameUrl(game, currentLocale);
 
 // 简化的描述获取函数：直接使用传入的描述，不进行语言覆盖
 const getGameDescription = (description: string | undefined) => {

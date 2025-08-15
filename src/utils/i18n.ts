@@ -8,10 +8,10 @@ import { SUPPORTED_LOCALES } from "@/i18n/utils";
 export async function getLocalizedGamesList(locale: string = "en") {
   try {
     const allGames = await getCollection("games");
-    
+
     // 基于扁平化ID过滤当前语言的游戏
     let currentLocaleGames: typeof allGames;
-    
+
     if (locale === "en") {
       // 英文游戏: ID不以任何语言代码开头
       currentLocaleGames = allGames.filter((game) => {
@@ -58,7 +58,7 @@ export async function getLocalizedGameContent(
 
     // 生成目标语言的完整slug
     const targetSlug = generateLanguageSlug(baseSlug, locale);
-    
+
     // 查找目标语言的内容 - 根据文件路径和完整slug匹配
     let localizedGame: CollectionEntry<"games"> | undefined;
 
@@ -105,30 +105,6 @@ export async function getLocalizedGameContent(
     );
     return null;
   }
-}
-
-/**
- * 获取游戏的本地化路径
- * 更新：适配新的slug模式，URL仍使用基础slug（不带语言后缀）
- */
-export function getGameLocalizedPath(baseSlug: string, locale: string): string {
-  return locale === "en" ? `/${baseSlug}/` : `/${locale}/${baseSlug}/`;
-}
-
-/**
- * 从完整slug中提取基础slug（去除语言前缀）
- * 新格式：{language}-{baseSlug} -> {baseSlug}
- */
-export function extractBaseSlug(fullSlug: string): string {
-  // 安全检查：确保fullSlug不为undefined或null
-  if (!fullSlug || typeof fullSlug !== 'string') {
-    console.warn('extractBaseSlug received invalid input:', fullSlug);
-    return '';
-  }
-  
-  // 匹配语言前缀：zh-, es-, fr-, de-, ja-, ko- 等
-  const match = fullSlug.match(/^(zh|es|fr|de|ja|ko)-(.+)$/);
-  return match ? match[2] : fullSlug; // 如果匹配到前缀则返回基础部分，否则返回原值（英文）
 }
 
 /**
@@ -193,7 +169,7 @@ export async function generateEnglishGamePaths(): Promise<
 
     // 英文游戏: 基于扁平化ID过滤
     const isEnglishGame = !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
-    
+
     if (gameId && isEnglishGame) {
       paths.push({
         params: { slug: baseSlug },
@@ -290,7 +266,7 @@ export async function generateMultiLanguageStaticPaths(): Promise<
  * 生成所有受支持语言的静态路径（用于统一的单文件路由）
  * - 英文：无前缀
  * - 其它语言：带 /{locale}/ 前缀
- * 修复：避免重复生成，每个游戏只生成一次对应语言版本
+ * 修复：适配基于文件夹的语言结构
  */
 export async function generateAllLocalesGamePaths(): Promise<
   Array<{
@@ -305,34 +281,33 @@ export async function generateAllLocalesGamePaths(): Promise<
 
   // 获取所有游戏文件
   const allGames = await getCollection("games");
-  
-  
-  // 按语言分组游戏
+
+  // 按语言分组游戏 - 基于文件路径而非ID前缀
   const gamesByLocale: Record<string, CollectionEntry<"games">[]> = {};
   const englishGames: CollectionEntry<"games">[] = [];
 
   for (const game of allGames) {
     const gameId = game.id.replace(/\.md$/, "");
-    
-    // 检查是否为非英文游戏 (以语言代码开头)
-    const languageMatch = SUPPORTED_LOCALES.find(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
-    
-    if (languageMatch) {
-      // 多语言游戏：{locale}-{slug}
-      if (!gamesByLocale[languageMatch]) {
-        gamesByLocale[languageMatch] = [];
+
+    // 检查文件路径是否在语言子文件夹中
+    const pathParts = gameId.split('/');
+    if (pathParts.length === 2) {
+      // 文件在语言子文件夹中：{locale}/{filename}
+      const locale = pathParts[0];
+      if (SUPPORTED_LOCALES.includes(locale) && locale !== "en") {
+        if (!gamesByLocale[locale]) {
+          gamesByLocale[locale] = [];
+        }
+        gamesByLocale[locale].push(game);
       }
-      gamesByLocale[languageMatch].push(game);
     } else {
-      // 英文游戏：{slug}
+      // 文件在根目录：英文游戏
       englishGames.push(game);
     }
   }
 
-
   // 生成英文路径（无前缀）
   for (const game of englishGames) {
-    // 英文游戏的slug就是基础slug
     const baseSlug = game.data.slug || game.id.replace(/\.md$/, "");
     paths.push({
       params: { slug: baseSlug },
@@ -345,28 +320,27 @@ export async function generateAllLocalesGamePaths(): Promise<
     if (locale === "en") continue;
 
     const localeGames = gamesByLocale[locale] || [];
-    
+
     // 为每个英文游戏生成对应语言路径
     for (const englishGame of englishGames) {
       const baseSlug = englishGame.data.slug || englishGame.id.replace(/\.md$/, "");
-      
-      // 查找对应的本地化游戏（通过语言前缀slug匹配）
-      const targetSlug = generateLanguageSlug(baseSlug, locale);
+
+      // 查找对应的本地化游戏（通过基础文件名匹配）
+      const englishFileName = englishGame.id.replace(/\.md$/, "");
       const localizedGame = localeGames.find(game => {
-        return game.data.slug === targetSlug;
+        const localeFileName = game.id.replace(/\.md$/, "").split('/')[1]; // 获取文件名部分
+        return localeFileName === englishFileName;
       });
 
       // 使用本地化内容或fallback到英文
       const gameToUse = localizedGame || englishGame;
-      
-      
+
       paths.push({
-        params: { slug: baseSlug }, // URL路径使用基础slug
+        params: { slug: baseSlug }, // 始终使用基础slug，不使用本地化的slug
         props: { game: gameToUse, locale }
       });
     }
   }
-
 
   return paths;
 }

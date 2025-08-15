@@ -53,6 +53,11 @@ export class GlobalErrorHandler {
       url: window.location.href,
     };
 
+    // 如果是应该忽略的错误，直接返回
+    if (this.shouldIgnoreError(error)) {
+      return;
+    }
+
     this.logError(error);
     this.recordError(error);
 
@@ -74,6 +79,12 @@ export class GlobalErrorHandler {
       userAgent: navigator.userAgent,
       url: window.location.href,
     };
+
+    // 如果是应该忽略的错误，直接返回
+    if (this.shouldIgnoreError(error)) {
+      event.preventDefault(); // 仍然阻止默认行为
+      return;
+    }
 
     this.logError(error);
     this.recordError(error);
@@ -197,11 +208,52 @@ export class GlobalErrorHandler {
   shouldShowUserNotification(error) {
     if (!this.enableNotifications) return false;
 
+    // 过滤React开发工具和开发环境错误
+    if (this.shouldIgnoreError(error)) return false;
+
     // 避免重复显示相同错误
     const key = `${error.type}:${error.message || error.reason}`;
     const count = this.errorCounts.get(key) || 0;
 
     return count <= 2; // 只显示前两次
+  }
+
+  /**
+   * 判断是否应该忽略该错误
+   */
+  shouldIgnoreError(error) {
+    const errorMessage = error.message || error.reason || '';
+    
+    // 忽略React开发工具相关错误
+    if (errorMessage.includes('React is running in production mode, but dead code elimination has not been applied')) {
+      return true;
+    }
+    
+    if (errorMessage.includes('jsxDEV is not a function')) {
+      return true;
+    }
+    
+    // 忽略沙盒iframe安全警告
+    if (errorMessage.includes('iframe which has both allow-scripts and allow-same-origin')) {
+      return true;
+    }
+    
+    // 忽略开发模式相关错误
+    if (errorMessage.includes('hook.js') || error.filename?.includes('hook.js')) {
+      return true;
+    }
+    
+    // 忽略content script相关的开发工具错误
+    if (errorMessage.includes('content.js') || error.filename?.includes('content.js')) {
+      return true;
+    }
+    
+    // 忽略vite开发服务器消息
+    if (errorMessage.includes('[vite]')) {
+      return true;
+    }
+    
+    return false;
   }
 
   /**

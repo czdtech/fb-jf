@@ -6,7 +6,7 @@
     "newGames": "새로운 게임",
     "popularGames": "인기 게임",
     "trendingGames": "트렌딩 게임",
-    "aboutUs": "회사 소개",
+    
     "privacy": "개인정보처리방침",
     "terms": "이용약관",
     "language": "언어"
@@ -251,7 +251,7 @@
     "menu": "메뉴"
   },
   "footer": {
-    "aboutUs": "회사 소개",
+    
     "privacy": "개인정보처리방침",
     "terms": "이용약관",
     "copyright": "© 2025 FiddleBops. 모든 권리 보유.",
