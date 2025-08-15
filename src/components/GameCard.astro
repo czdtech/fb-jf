@@ -15,11 +15,15 @@ export interface Props {
 const { game, variant = 'grid', hasError = false } = Astro.props
 
 // 安全的URL处理
-const gameUrl = game.slug
-  ? game.slug.startsWith('http')
-    ? game.slug
-    : `/${game.slug}/`
-  : '#'
+const gameUrl = game.url
+  ? (game.url.startsWith('http') || game.url.startsWith('/'))
+      ? game.url
+      : `/${game.url}`
+  : game.slug
+      ? game.slug.startsWith('http')
+        ? game.slug
+        : `/${game.slug}/`
+      : '#'
 
 // 简化的描述获取函数：直接使用传入的描述，不进行语言覆盖
 const getGameDescription = (description: string | undefined) => {
