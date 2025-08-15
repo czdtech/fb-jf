@@ -11,11 +11,14 @@ import { getTranslation } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/types';
 import { PAGINATION_CONFIG } from '@/config/pagination';
 import { generateSEOPagination } from '@/utils/pagination';
-import { getEnglishGamesPaginated, filterGamesByCategory } from '@/utils/content';
+import { filterGamesByLanguage, filterGamesByCategory, getPaginatedGames, validateGameData } from '@/utils/content';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
 const { navigation } = extractedData;
+
+// 当前语言
+const currentLocale: SupportedLocale = 'ja';
 
 export async function getStaticPaths() {
   const GAME_CATEGORIES = {
@@ -33,18 +36,21 @@ export async function getStaticPaths() {
   const paths = [];
 
   for (const { slug, category } of categories) {
-    // 只为英语生成根路径，其他语言通过 i18n 路由处理
     try {
-      // 使用统一工具获取分类游戏和分页信息
-      const allCategoryGames = await getEnglishGamesPaginated(category);
+      // 获取所有游戏，然后过滤日语游戏和分类
+      const allGames = await getCollection('games');
+      const jaGames = filterGamesByLanguage(allGames, 'ja');
+      const categoryGames = filterGamesByCategory(jaGames, category);
+      const validGames = categoryGames.filter(validateGameData);
       
-      // 确保至少有一页
-      const totalPages = Math.max(1, allCategoryGames.totalPages);
+      // 使用统一工具获取分页信息
+      const paginationData = getPaginatedGames(validGames);
+      const totalPages = Math.max(1, paginationData.totalPages);
 
-      // 生成英文路径
+      // 生成日语路径
       for (let page = 1; page <= totalPages; page++) {
         // 获取特定页面的数据
-        const pageData = await getEnglishGamesPaginated(category, page);
+        const pageData = getPaginatedGames(validGames, page);
         
         paths.push({
           params: { 
@@ -52,7 +58,7 @@ export async function getStaticPaths() {
             page: page === 1 ? undefined : page.toString()
           },
           props: {
-            locale: 'en',
+            locale: 'ja',
             category,
             slug,
             pageNumber: page,
@@ -63,7 +69,7 @@ export async function getStaticPaths() {
         });
       }
     } catch (error) {
-      console.error(`Error generating paths for ${slug}:`, error);
+      console.error(`Error generating ja paths for ${slug}:`, error);
     }
   }
 
@@ -81,12 +87,11 @@ interface Props {
 }
 
 const { locale, category, slug, pageNumber, allGames, totalGames, paginationData } = Astro.props;
-const currentLocale = locale;
 
 // 获取翻译
 const { ui } = await getTranslation(currentLocale);
 
-// 使用传入的分页数据而不是重新计算
+// 使用传入的分页数据
 const paginationResult = {
   games: allGames,
   currentPage: paginationData.currentPage,
@@ -99,13 +104,13 @@ const paginationResult = {
 const getCategoryTitle = (category: string) => {
   switch (category) {
     case 'popular':
-      return ui.sections?.popularGames || 'Popular Games';
+      return ui.sections?.popularGames || '人気ゲーム';
     case 'trending':
-      return ui.sections?.trendingGames || 'Trending Games';
+      return ui.sections?.trendingGames || 'トレンドゲーム';
     case 'new':
-      return ui.sections?.newGames || 'New Games';
+      return ui.sections?.newGames || '新しいゲーム';
     default:
-      return 'Games';
+      return 'ゲーム';
   }
 };
 
@@ -116,21 +121,21 @@ const seoUrls = generateSEOPagination(`/${slug}`, pageNumber, paginationResult.t
 
 // 调试信息（开发环境）
 if (import.meta.env.DEV) {
-  console.log(`[${slug}] currentLocale: ${currentLocale}`);
-  console.log(`[${slug}] totalGames: ${totalGames}`);
-  console.log(`[${slug}] pageNumber: ${pageNumber}`);
-  console.log(`[${slug}] currentPage: ${paginationResult.currentPage}`);
-  console.log(`[${slug}] totalPages: ${paginationResult.totalPages}`);
+  console.log(`[ja/${slug}] currentLocale: ${currentLocale}`);
+  console.log(`[ja/${slug}] totalGames: ${totalGames}`);
+  console.log(`[ja/${slug}] pageNumber: ${pageNumber}`);
+  console.log(`[ja/${slug}] currentPage: ${paginationResult.currentPage}`);
+  console.log(`[ja/${slug}] totalPages: ${paginationResult.totalPages}`);
 }
 
 // SEO配置
 const meta = {
   title: pageNumber === 1 
     ? `${categoryTitle} - Fiddlebops`
-    : `${categoryTitle} - Page ${pageNumber} - Fiddlebops`,
-  description: `${categoryTitle} - ${pageNumber === 1 ? '' : `Page ${pageNumber} - `}Fiddlebops`,
+    : `${categoryTitle} - ページ${pageNumber} - Fiddlebops`,
+  description: `${categoryTitle} - ${pageNumber === 1 ? '' : `ページ${pageNumber} - `}Fiddlebops`,
   canonical: seoUrls.canonical,
-  keywords: `${categoryTitle.toLowerCase()}, fiddlebops, music games, incredibox`,
+  keywords: `${categoryTitle}, fiddlebops, 音楽ゲーム, incredibox`,
   ogImage: 'https://www.playfiddlebops.com/tw.jpg',
   prevUrl: seoUrls.prev,
   nextUrl: seoUrls.next
@@ -155,10 +160,10 @@ const meta = {
       {paginationResult.isEmpty ? (
         <EmptyState 
           category={category}
-          title={`No ${categoryTitle} Found`}
-          description={`There are currently no ${categoryTitle.toLowerCase()} available. Please check back later or browse other categories.`}
-          backButtonText="Browse All Games"
-          backButtonUrl="/games/"
+          title={`${categoryTitle}が見つかりません`}
+          description={`現在利用可能な${categoryTitle}はありません。後で再度確認するか、他のカテゴリを参照してください。`}
+          backButtonText="すべてのゲームを見る"
+          backButtonUrl="/ja/games/"
         />
       ) : (
         <>

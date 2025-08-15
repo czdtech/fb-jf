@@ -11,11 +11,14 @@ import { getTranslation } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/types';
 import { PAGINATION_CONFIG } from '@/config/pagination';
 import { generateSEOPagination } from '@/utils/pagination';
-import { getEnglishGamesPaginated, filterGamesByCategory } from '@/utils/content';
+import { filterGamesByLanguage, filterGamesByCategory, getPaginatedGames, validateGameData } from '@/utils/content';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
 const { navigation } = extractedData;
+
+// 当前语言
+const currentLocale: SupportedLocale = 'fr';
 
 export async function getStaticPaths() {
   const GAME_CATEGORIES = {
@@ -33,18 +36,17 @@ export async function getStaticPaths() {
   const paths = [];
 
   for (const { slug, category } of categories) {
-    // 只为英语生成根路径，其他语言通过 i18n 路由处理
     try {
-      // 使用统一工具获取分类游戏和分页信息
-      const allCategoryGames = await getEnglishGamesPaginated(category);
+      const allGames = await getCollection('games');
+      const frGames = filterGamesByLanguage(allGames, 'fr');
+      const categoryGames = filterGamesByCategory(frGames, category);
+      const validGames = categoryGames.filter(validateGameData);
       
-      // 确保至少有一页
-      const totalPages = Math.max(1, allCategoryGames.totalPages);
+      const paginationData = getPaginatedGames(validGames);
+      const totalPages = Math.max(1, paginationData.totalPages);
 
-      // 生成英文路径
       for (let page = 1; page <= totalPages; page++) {
-        // 获取特定页面的数据
-        const pageData = await getEnglishGamesPaginated(category, page);
+        const pageData = getPaginatedGames(validGames, page);
         
         paths.push({
           params: { 
@@ -52,7 +54,7 @@ export async function getStaticPaths() {
             page: page === 1 ? undefined : page.toString()
           },
           props: {
-            locale: 'en',
+            locale: 'fr',
             category,
             slug,
             pageNumber: page,
@@ -63,7 +65,7 @@ export async function getStaticPaths() {
         });
       }
     } catch (error) {
-      console.error(`Error generating paths for ${slug}:`, error);
+      console.error(`Error generating fr paths for ${slug}:`, error);
     }
   }
 
@@ -81,12 +83,8 @@ interface Props {
 }
 
 const { locale, category, slug, pageNumber, allGames, totalGames, paginationData } = Astro.props;
-const currentLocale = locale;
-
-// 获取翻译
 const { ui } = await getTranslation(currentLocale);
 
-// 使用传入的分页数据而不是重新计算
 const paginationResult = {
   games: allGames,
   currentPage: paginationData.currentPage,
@@ -95,77 +93,53 @@ const paginationResult = {
   isEmpty: paginationData.isEmpty
 };
 
-// 获取分类标题
 const getCategoryTitle = (category: string) => {
   switch (category) {
     case 'popular':
-      return ui.sections?.popularGames || 'Popular Games';
+      return ui.sections?.popularGames || 'Jeux Populaires';
     case 'trending':
-      return ui.sections?.trendingGames || 'Trending Games';
+      return ui.sections?.trendingGames || 'Jeux Tendance';
     case 'new':
-      return ui.sections?.newGames || 'New Games';
+      return ui.sections?.newGames || 'Nouveaux Jeux';
     default:
-      return 'Games';
+      return 'Jeux';
   }
 };
 
 const categoryTitle = getCategoryTitle(category);
-
-// 生成 SEO 分页元数据
 const seoUrls = generateSEOPagination(`/${slug}`, pageNumber, paginationResult.totalPages, currentLocale);
 
-// 调试信息（开发环境）
-if (import.meta.env.DEV) {
-  console.log(`[${slug}] currentLocale: ${currentLocale}`);
-  console.log(`[${slug}] totalGames: ${totalGames}`);
-  console.log(`[${slug}] pageNumber: ${pageNumber}`);
-  console.log(`[${slug}] currentPage: ${paginationResult.currentPage}`);
-  console.log(`[${slug}] totalPages: ${paginationResult.totalPages}`);
-}
-
-// SEO配置
 const meta = {
   title: pageNumber === 1 
     ? `${categoryTitle} - Fiddlebops`
     : `${categoryTitle} - Page ${pageNumber} - Fiddlebops`,
   description: `${categoryTitle} - ${pageNumber === 1 ? '' : `Page ${pageNumber} - `}Fiddlebops`,
   canonical: seoUrls.canonical,
-  keywords: `${categoryTitle.toLowerCase()}, fiddlebops, music games, incredibox`,
+  keywords: `${categoryTitle.toLowerCase()}, fiddlebops, jeux musicaux, incredibox`,
   ogImage: 'https://www.playfiddlebops.com/tw.jpg',
   prevUrl: seoUrls.prev,
   nextUrl: seoUrls.next
 };
 ---
 
-<BaseLayout 
-  meta={meta}
-  lang={currentLocale}
->
-  <Navigation 
-    navigation={navigation.main} 
-    currentLocale={currentLocale}
-  />
+<BaseLayout meta={meta} lang={currentLocale}>
+  <Navigation navigation={navigation.main} currentLocale={currentLocale} />
   
   <main class="main">
     <div class="container">
-      <h1 class="page-title">
-        {categoryTitle}
-      </h1>
+      <h1 class="page-title">{categoryTitle}</h1>
       
       {paginationResult.isEmpty ? (
         <EmptyState 
           category={category}
-          title={`No ${categoryTitle} Found`}
-          description={`There are currently no ${categoryTitle.toLowerCase()} available. Please check back later or browse other categories.`}
-          backButtonText="Browse All Games"
-          backButtonUrl="/games/"
+          title={`Aucun ${categoryTitle} trouvé`}
+          description={`Il n'y a actuellement aucun ${categoryTitle.toLowerCase()} disponible. Revenez plus tard ou explorez d'autres catégories.`}
+          backButtonText="Voir Tous les Jeux"
+          backButtonUrl="/fr/games/"
         />
       ) : (
         <>
-          <GamesList 
-            games={paginationResult.games}
-            currentLocale={currentLocale}
-          />
+          <GamesList games={paginationResult.games} currentLocale={currentLocale} />
           
           {paginationResult.totalPages > 1 && (
             <UnifiedPagination 
@@ -185,29 +159,8 @@ const meta = {
 </BaseLayout>
 
 <style>
-.main {
-  padding: 2rem 0;
-  min-height: 70vh;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-.page-title {
-  font-size: 2.5rem;
-  font-weight: 700;
-  text-align: center;
-  margin-bottom: 3rem;
-  color: var(--text-primary);
-}
-
-@media (max-width: 768px) {
-  .page-title {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-  }
-}
+.main { padding: 2rem 0; min-height: 70vh; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 1rem; }
+.page-title { font-size: 2.5rem; font-weight: 700; text-align: center; margin-bottom: 3rem; color: var(--text-primary); }
+@media (max-width: 768px) { .page-title { font-size: 2rem; margin-bottom: 2rem; } }
 </style>
