@@ -38,12 +38,16 @@ export async function getStaticPaths() {
   // 获取所有游戏
   const allGames = await getCollection('games');
 
-  // 只获取英文版本的游戏（slug以-en结尾）
-  const enGames = allGames.filter((game: any) => game.data.slug.endsWith('-en'));
+  // 只获取英文版本的游戏（不以语言代码开头的）
+  const enGames = allGames.filter((game: any) => {
+    const gameId = game.id.replace(/\.md$/, "");
+    // 检查是否不以任何语言代码开头（英文游戏）
+    return !['zh', 'es', 'fr', 'de', 'ja', 'ko'].some(lang => gameId.startsWith(`${lang}-`));
+  });
 
   const formattedGames: GamePageItem[] = enGames.map((game: any) => {
-    // 从 slug 中去除语言后缀 (-en)
-    const baseSlug = game.data.slug.replace(/-en$/, '');
+    // 英文游戏的slug就是基础slug
+    const baseSlug = game.data.slug;
     
     return {
       slug: baseSlug,

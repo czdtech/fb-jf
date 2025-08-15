@@ -37,6 +37,10 @@ const navigationItems = legacyNavigation || [
     url: getRelativeLocaleUrl(currentLocale, '/'),
   },
   {
+    label: uiText?.navigation?.allGames || 'ALL Games',
+    url: getRelativeLocaleUrl(currentLocale, '/games'),
+  },
+  {
     label: uiText?.navigation?.newGames || 'New Games', 
     url: getRelativeLocaleUrl(currentLocale, '/new-games'),
   },

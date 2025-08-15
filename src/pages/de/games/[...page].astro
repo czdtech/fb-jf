@@ -1,0 +1,228 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navigation from '@/components/Navigation.astro';
+import Footer from '@/components/Footer.astro';
+import GamesHero from '@/components/games/GamesHero.astro';
+import GameFilters from '@/components/games/GameFilters.astro';
+import GameGrid from '@/components/GameGrid.astro';
+import GamesPagination from '@/components/games/GamesPagination.astro';
+import { generateHreflangLinks } from '@/utils/hreflang';
+import { getLocalizedGamesList } from '@/utils/i18n';
+import { getTranslation } from '@/i18n/utils';
+import type { SupportedLocale } from '@/i18n/types';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+
+// --- 当前语言配置 ---
+const currentLocale: SupportedLocale = 'de';
+
+// --- 环境变量 ---
+const SITE_URL = (import.meta.env.PUBLIC_SITE_URL || 'https://www.playfiddlebops.com').replace(/\/$/, '');
+
+// --- 类型定义 ---
+interface GamePageItem {
+  slug: string;
+  url: string;
+  imageUrl: string;
+  title: string;
+  category: string;
+  rating: number;
+  description: string;
+  iframe: string;
+}
+
+interface Language {
+  code: string;
+  url: string;
+  label: string;
+}
+
+// --- 静态路径生成 ---
+export async function getStaticPaths() {
+  // 获取德语本地化游戏
+  const localeForPaths: SupportedLocale = 'de';
+  const localizedGames = await getLocalizedGamesList(localeForPaths);
+  
+  const formattedGames: GamePageItem[] = localizedGames.map((game: any) => {
+    // 生成正确的本地化URL路径
+    const baseSlug = game.data.slug.replace(/^de-/, ''); // 移除语言前缀
+    
+    return {
+      slug: baseSlug,
+      url: `/de/${baseSlug}/`,
+      imageUrl: game.data.image,
+      title: game.data.title,
+      category: game.data.category,
+      rating: game.data.rating?.score || 5,
+      description: game.data.description,
+      iframe: game.data.iframe,
+    };
+  });
+
+  const pageSize = 30;
+  const totalGames = formattedGames.length;
+  const totalPages = Math.ceil(totalGames / pageSize);
+
+  const paths = [];
+
+  // 生成所有页面路径
+  for (let i = 1; i <= totalPages; i++) {
+    const startIndex = (i - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+    const currentGames = formattedGames.slice(startIndex, endIndex);
+
+    paths.push({
+      params: { page: i === 1 ? undefined : i.toString() },
+      props: {
+        page: {
+          data: currentGames,
+          currentPage: i,
+          lastPage: totalPages,
+          total: totalGames,
+          start: startIndex,
+          url: {
+            prev: i > 1 ? (i === 2 ? `/de/games/` : `/de/games/${i - 1}/`) : undefined,
+            next: i < totalPages ? `/de/games/${i + 1}/` : undefined
+          }
+        },
+        allGames: formattedGames
+      },
+    });
+  }
+
+  return paths;
+}
+
+// --- 页面属性 ---
+const { page, allGames } = Astro.props as {
+  page: {
+    data: GamePageItem[];
+    currentPage: number;
+    lastPage: number;
+    total: number;
+    start: number;
+    url: {
+      prev?: string;
+      next?: string;
+    };
+  };
+  allGames: GamePageItem[];
+};
+
+// --- 从extractedData中获取导航数据 ---
+const { navigation } = extractedData;
+
+// 获取翻译内容
+const translation = await getTranslation(currentLocale);
+const uiText = translation.ui;
+
+// --- 从extractedData中获取游戏分类 ---
+const categories = [
+  { name: uiText?.sections?.allGames || 'Alle Spiele', count: allGames.length, active: true },
+  { name: uiText?.sections?.popularGames || 'Beliebt', count: allGames.filter(g => g.category === 'popular').length, active: false },
+  { name: uiText?.sections?.newGames || 'Neu', count: allGames.filter(g => g.category === 'new').length, active: false },
+  { name: uiText?.sections?.trendingGames || 'Trending', count: allGames.filter(g => g.category === 'trending').length, active: false },
+];
+
+// --- 多语言链接 ---
+const languages: Language[] = [
+  { code: 'en', url: '/games/', label: 'English' },
+  { code: 'zh', url: '/zh/games/', label: '简体中文' },
+  { code: 'es', url: '/es/games/', label: 'Español' },
+  { code: 'fr', url: '/fr/games/', label: 'Français' },
+  { code: 'de', url: '/de/games/', label: 'Deutsch' },
+  { code: 'ja', url: '/ja/games/', label: '日本語' },
+  { code: 'ko', url: '/ko/games/', label: '한국어' }
+];
+
+const hreflangLinks = generateHreflangLinks(languages, SITE_URL);
+
+// --- SEO元数据 ---
+const pageTitle = page.currentPage === 1 
+  ? `${uiText?.sections?.allGames || 'Alle Spiele'} - Fiddlebops`
+  : `${uiText?.sections?.allGames || 'Alle Spiele'} - ${uiText?.common?.page || 'Seite'} ${page.currentPage} - Fiddlebops`;
+
+const meta = {
+  title: pageTitle,
+  description: `${uiText?.sections?.allGames || 'Alle'} Fiddlebops ${uiText?.sections?.games || 'Spiele'} durchsuchen. ${uiText?.common?.page || 'Seite'} ${page.currentPage} von ${page.lastPage}.`,
+  canonical: page.currentPage === 1 ? `${SITE_URL}/de/games/` : `${SITE_URL}/de/games/${page.currentPage}/`,
+  ogImage: `${SITE_URL}/tw.jpg`
+};
+
+// --- 结构化数据 ---
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": meta.title,
+  "description": meta.description,
+  "url": meta.canonical,
+  "numberOfItems": page.total,
+  "hasPart": page.data.map(game => ({
+    "@type": "Game",
+    "name": game.title,
+    "url": `${SITE_URL}${game.url}`,
+    "image": `${SITE_URL}${game.imageUrl}`,
+    "genre": game.category
+  }))
+};
+---
+
+<BaseLayout
+  meta={meta}
+  hreflang={hreflangLinks}
+  structuredData={structuredData}
+>
+  <Navigation
+    navigation={navigation.main}
+    currentLocale={currentLocale}
+  />
+  
+  <main class="min-h-screen">
+    <GamesHero
+      pageTotal={page.total}
+      pageCount={page.lastPage}
+      breadcrumbs={{ home: uiText?.common?.home || 'Home', current: uiText?.sections?.allGames || 'Alle Spiele' }}
+      title={{ main: uiText?.sections?.all || 'Alle', accent: uiText?.sections?.games || 'Spiele' }}
+      subtitle={`${page.total} ${uiText?.meta?.description || 'erstaunliche'} Fiddlebops ${uiText?.sections?.games || 'Spiele'}`}
+    />
+    
+    <section class="container mx-auto px-4 py-8">
+      <GameFilters categories={categories} />
+      
+      <GameGrid games={page.data.map((g: any) => ({ 
+        id: g.slug, 
+        slug: g.slug, 
+        title: g.title, 
+        description: g.description || '', 
+        image: g.imageUrl, 
+        iframe: g.iframe || '', 
+        category: g.category || 'popular', 
+        meta: { 
+          title: g.title, 
+          description: g.description || '', 
+          canonical: g.url, 
+          ogImage: g.imageUrl 
+        } 
+      }))} variant="standard" />
+      
+      <GamesPagination
+        currentPage={page.currentPage}
+        totalPages={page.lastPage}
+        totalItems={page.total}
+        basePath="/de/games"
+        prevUrl={page.url.prev}
+        nextUrl={page.url.next}
+      />
+    </section>
+  </main>
+  
+  <Footer currentLocale={currentLocale} />
+</BaseLayout>
+
+<style>
+.container {
+  max-width: 1200px;
+}
+</style>

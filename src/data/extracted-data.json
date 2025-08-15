@@ -10,16 +10,16 @@
         "url": "/games/"
       },
       {
-        "label": "Sprunki Retake",
-        "url": "/sprunki-retake/"
+        "label": "New Games",
+        "url": "/new-games/"
       },
       {
-        "label": "Sprunki Phase 5",
-        "url": "/sprunki-phase-5/"
+        "label": "Popular Games",
+        "url": "/popular-games/"
       },
       {
-        "label": "Sprunki Craft",
-        "url": "/sprunki-craft/"
+        "label": "Trending Games",
+        "url": "/trending-games/"
       }
     ],
     "languages": [
