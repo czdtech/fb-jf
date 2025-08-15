@@ -27,6 +27,8 @@ export interface SEOMeta {
   canonical: string;
   ogImage: string;
   keywords?: string;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
 export interface GameContent {

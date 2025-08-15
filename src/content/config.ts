@@ -132,6 +132,7 @@ const i18nUICollection = defineCollection({
     navigation: z.object({
       home: z.string(),
       games: z.string(),
+      allGames: z.string(),
       newGames: z.string(),
       popularGames: z.string(),
       trendingGames: z.string(),

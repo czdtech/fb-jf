@@ -2,6 +2,7 @@
   "navigation": {
     "home": "Home",
     "games": "Games",
+    "allGames": "All Games",
     "newGames": "New Games",
     "popularGames": "Popular Games",
     "trendingGames": "Trending Games",

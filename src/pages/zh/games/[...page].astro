@@ -6,11 +6,13 @@ import Footer from '@/components/Footer.astro';
 import GamesHero from '@/components/games/GamesHero.astro';
 import GameFilters from '@/components/games/GameFilters.astro';
 import GameGrid from '@/components/GameGrid.astro';
-import GamesPagination from '@/components/games/GamesPagination.astro';
+import UnifiedPagination from '@/components/UnifiedPagination.astro';
 import { generateHreflangLinks } from '@/utils/hreflang';
+import { getPaginatedGames } from '@/utils/content';
 import { getLocalizedGamesList } from '@/utils/i18n';
 import { getTranslation } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/types';
+import { PAGINATION_CONFIG } from '@/config/pagination';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
@@ -45,6 +47,9 @@ export async function getStaticPaths() {
   const localeForPaths: SupportedLocale = 'zh';
   const localizedGames = await getLocalizedGamesList(localeForPaths);
   
+  // 使用统一的分页工具获取分页信息
+  const totalGamesData = getPaginatedGames(localizedGames);
+  
   const formattedGames: GamePageItem[] = localizedGames.map((game: any) => {
     // 生成正确的本地化URL路径
     const baseSlug = game.data.slug.replace(/^zh-/, ''); // 移除语言前缀
@@ -61,30 +66,37 @@ export async function getStaticPaths() {
     };
   });
 
-  const pageSize = 30;
-  const totalGames = formattedGames.length;
-  const totalPages = Math.ceil(totalGames / pageSize);
+  const totalGames = totalGamesData.totalItems;
+  const totalPages = totalGamesData.totalPages;
 
   const paths = [];
 
-  // 生成所有页面路径
+  // 使用统一工具生成所有页面路径
   for (let i = 1; i <= totalPages; i++) {
-    const startIndex = (i - 1) * pageSize;
-    const endIndex = startIndex + pageSize;
-    const currentGames = formattedGames.slice(startIndex, endIndex);
+    const pageData = getPaginatedGames(localizedGames, i);
+    const currentGames = pageData.games.map((game: any) => ({
+      slug: game.data.slug.replace(/^zh-/, ''),
+      url: `/zh/${game.data.slug.replace(/^zh-/, '')}/`,
+      imageUrl: game.data.image,
+      title: game.data.title,
+      category: game.data.category,
+      rating: game.data.rating?.score || 5,
+      description: game.data.description,
+      iframe: game.data.iframe,
+    }));
 
     paths.push({
       params: { page: i === 1 ? undefined : i.toString() },
       props: {
         page: {
           data: currentGames,
-          currentPage: i,
-          lastPage: totalPages,
-          total: totalGames,
-          start: startIndex,
+          currentPage: pageData.currentPage,
+          lastPage: pageData.totalPages,
+          total: pageData.totalItems,
+          start: pageData.startIndex,
           url: {
-            prev: i > 1 ? (i === 2 ? `/zh/games/` : `/zh/games/${i - 1}/`) : undefined,
-            next: i < totalPages ? `/zh/games/${i + 1}/` : undefined
+            prev: pageData.hasPrevPage ? (i === 2 ? `/zh/games/` : `/zh/games/${i - 1}/`) : undefined,
+            next: pageData.hasNextPage ? `/zh/games/${i + 1}/` : undefined
           }
         },
         allGames: formattedGames
@@ -207,13 +219,10 @@ const structuredData = {
         } 
       }))} variant="standard" />
       
-      <GamesPagination
+      <UnifiedPagination
         currentPage={page.currentPage}
         totalPages={page.lastPage}
-        totalItems={page.total}
         basePath="/zh/games"
-        prevUrl={page.url.prev}
-        nextUrl={page.url.next}
       />
     </section>
   </main>

@@ -1,0 +1,213 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navigation from '@/components/Navigation.astro';
+import Footer from '@/components/Footer.astro';
+import GamesList from '@/components/GamesList.astro';
+import UnifiedPagination from '@/components/UnifiedPagination.astro';
+import EmptyState from '@/components/EmptyState.astro';
+import GameErrorBoundary from '@/components/GameErrorBoundary.astro';
+import { getTranslation } from '@/i18n/utils';
+import type { SupportedLocale } from '@/i18n/types';
+import { PAGINATION_CONFIG } from '@/config/pagination';
+import { generateSEOPagination } from '@/utils/pagination';
+import { getEnglishGamesPaginated, filterGamesByCategory } from '@/utils/content';
+
+// 导入数据
+import extractedData from '@/data/extracted-data.json';
+const { navigation } = extractedData;
+
+export async function getStaticPaths() {
+  const GAME_CATEGORIES = {
+    POPULAR: 'popular',
+    TRENDING: 'trending', 
+    NEW: 'new',
+  };
+  
+  const categories = [
+    { slug: 'popular-games', category: GAME_CATEGORIES.POPULAR },
+    { slug: 'trending-games', category: GAME_CATEGORIES.TRENDING },
+    { slug: 'new-games', category: GAME_CATEGORIES.NEW }
+  ];
+
+  const paths = [];
+
+  for (const { slug, category } of categories) {
+    // 只为英语生成根路径，其他语言通过 i18n 路由处理
+    try {
+      // 使用统一工具获取分类游戏和分页信息
+      const allCategoryGames = await getEnglishGamesPaginated(category);
+      
+      // 确保至少有一页
+      const totalPages = Math.max(1, allCategoryGames.totalPages);
+
+      // 生成英文路径
+      for (let page = 1; page <= totalPages; page++) {
+        // 获取特定页面的数据
+        const pageData = await getEnglishGamesPaginated(category, page);
+        
+        paths.push({
+          params: { 
+            category: slug, 
+            page: page === 1 ? '' : page.toString()
+          },
+          props: {
+            locale: 'en',
+            category,
+            slug,
+            pageNumber: page,
+            allGames: pageData.games,
+            totalGames: pageData.totalItems,
+            paginationData: pageData
+          }
+        });
+      }
+    } catch (error) {
+      console.error(`Error generating paths for ${slug}:`, error);
+    }
+  }
+
+  return paths;
+}
+
+interface Props {
+  locale: SupportedLocale;
+  category: string;
+  slug: string;
+  pageNumber: number;
+  allGames: any[];
+  totalGames: number;
+  paginationData: any;
+}
+
+const { locale, category, slug, pageNumber, allGames, totalGames, paginationData } = Astro.props;
+const currentLocale = locale;
+
+// 获取翻译
+const { ui } = await getTranslation(currentLocale);
+
+// 使用传入的分页数据而不是重新计算
+const paginationResult = {
+  games: allGames,
+  currentPage: paginationData.currentPage,
+  totalPages: paginationData.totalPages,
+  totalItems: paginationData.totalItems,
+  isEmpty: paginationData.isEmpty
+};
+
+// 获取分类标题
+const getCategoryTitle = (category: string) => {
+  switch (category) {
+    case 'popular':
+      return ui.sections?.popularGames || 'Popular Games';
+    case 'trending':
+      return ui.sections?.trendingGames || 'Trending Games';
+    case 'new':
+      return ui.sections?.newGames || 'New Games';
+    default:
+      return 'Games';
+  }
+};
+
+const categoryTitle = getCategoryTitle(category);
+
+// 生成 SEO 分页元数据
+const seoUrls = generateSEOPagination(`/${slug}`, pageNumber, paginationResult.totalPages, currentLocale);
+
+// 调试信息（开发环境）
+if (import.meta.env.DEV) {
+  console.log(`[${slug}] currentLocale: ${currentLocale}`);
+  console.log(`[${slug}] totalGames: ${totalGames}`);
+  console.log(`[${slug}] pageNumber: ${pageNumber}`);
+  console.log(`[${slug}] currentPage: ${paginationResult.currentPage}`);
+  console.log(`[${slug}] totalPages: ${paginationResult.totalPages}`);
+}
+
+// SEO配置
+const meta = {
+  title: pageNumber === 1 
+    ? `${categoryTitle} - Fiddlebops`
+    : `${categoryTitle} - Page ${pageNumber} - Fiddlebops`,
+  description: `${categoryTitle} - ${pageNumber === 1 ? '' : `Page ${pageNumber} - `}Fiddlebops`,
+  canonical: seoUrls.canonical,
+  keywords: `${categoryTitle.toLowerCase()}, fiddlebops, music games, incredibox`,
+  ogImage: 'https://www.playfiddlebops.com/tw.jpg',
+  prevUrl: seoUrls.prev,
+  nextUrl: seoUrls.next
+};
+---
+
+<BaseLayout 
+  meta={meta}
+  lang={currentLocale}
+>
+  <Navigation 
+    navigation={navigation.main} 
+    currentLocale={currentLocale}
+  />
+  
+  <main class="main">
+    <div class="container">
+      <h1 class="page-title">
+        {categoryTitle}
+      </h1>
+      
+      {paginationResult.isEmpty ? (
+        <EmptyState 
+          category={category}
+          title={`No ${categoryTitle} Found`}
+          description={`There are currently no ${categoryTitle.toLowerCase()} available. Please check back later or browse other categories.`}
+          backButtonText="Browse All Games"
+          backButtonUrl="/games/"
+        />
+      ) : (
+        <>
+          <GamesList 
+            games={paginationResult.games}
+            currentLocale={currentLocale}
+          />
+          
+          {paginationResult.totalPages > 1 && (
+            <UnifiedPagination 
+              currentPage={paginationResult.currentPage}
+              totalPages={paginationResult.totalPages}
+              basePath={`/${slug}`}
+              currentLocale={currentLocale}
+              variant="standard"
+            />
+          )}
+        </>
+      )}
+    </div>
+  </main>
+  
+  <Footer currentLocale={currentLocale} />
+</BaseLayout>
+
+<style>
+.main {
+  padding: 2rem 0;
+  min-height: 70vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.page-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--text-primary);
+}
+
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+</style>

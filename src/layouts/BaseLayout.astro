@@ -52,6 +52,10 @@ const htmlDir = getLanguageDirection(lang as any);
     {safeMeta.keywords && <meta name="keywords" content={safeMeta.keywords}>}
     <meta name="robots" content={meta?.robots || 'index, follow'}/>
     <link rel="canonical" href={safeMeta.canonical}/>
+    
+    <!-- Pagination SEO -->
+    {meta?.prevUrl && <link rel="prev" href={meta.prevUrl} />}
+    {meta?.nextUrl && <link rel="next" href={meta.nextUrl} />}
 
     <!-- hreflang 标签 -->
     {hreflang.map((lang) => (

@@ -1,9 +1,9 @@
 /**
- * Centralized pagination configuration for all game category pages
+ * Centralized pagination configuration for all game pages
  */
 export const PAGINATION_CONFIG = {
-  /** Number of games to display per page */
-  GAMES_PER_PAGE: 12,
+  /** Number of games to display per page across all sections */
+  GAMES_PER_PAGE: 30,
   
   /** Minimum page number (always 1) */
   MIN_PAGE: 1,

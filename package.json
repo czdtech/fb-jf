@@ -10,7 +10,10 @@
     "content:validate": "tsx scripts/validate-content.ts",
     "content:types": "tsx scripts/generate-content-types.ts",
     "content:coverage": "tsx scripts/validate-content.ts --coverage",
-    "content:sync": "npm run content:types && npm run content:validate"
+    "content:sync": "npm run content:types && npm run content:validate",
+    "i18n:validate": "node scripts/validate-translations.js",
+    "i18n:generate": "node scripts/validate-translations.js --generate",
+    "i18n:check": "npm run i18n:validate"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",

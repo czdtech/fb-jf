@@ -6,11 +6,12 @@ import Footer from '@/components/Footer.astro';
 import GamesHero from '@/components/games/GamesHero.astro';
 import GameFilters from '@/components/games/GameFilters.astro';
 import GameGrid from '@/components/GameGrid.astro';
-import GamesPagination from '@/components/games/GamesPagination.astro';
+import UnifiedPagination from '@/components/UnifiedPagination.astro';
 import { generateHreflangLinks } from '@/utils/hreflang';
-import { getLocalizedGamesList } from '@/utils/i18n';
+import { filterGamesByLanguage, calculatePagination } from '@/utils/content';
 import { getTranslation } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/types';
+import { PAGINATION_CONFIG } from '@/config/pagination';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
@@ -41,13 +42,15 @@ interface Language {
 
 // --- 静态路径生成 ---
 export async function getStaticPaths() {
-  // 获取日语本地化游戏
-  const localeForPaths: SupportedLocale = 'ja';
-  const localizedGames = await getLocalizedGamesList(localeForPaths);
+  // 获取所有游戏
+  const allGames = await getCollection('games');
   
-  const formattedGames: GamePageItem[] = localizedGames.map((game: any) => {
-    // 生成正确的本地化URL路径
-    const baseSlug = game.data.slug.replace(/^ja-/, ''); // 移除语言前缀
+  // 使用统一工具获取日语游戏
+  const jaGames = filterGamesByLanguage(allGames, 'ja');
+  
+  const formattedGames: GamePageItem[] = jaGames.map((game: any) => {
+    // 生成正确的本地化URL路径，移除语言前缀
+    const baseSlug = game.data.slug.replace(/^ja-/, '');
     
     return {
       slug: baseSlug,
@@ -61,7 +64,7 @@ export async function getStaticPaths() {
     };
   });
 
-  const pageSize = 30;
+  const pageSize = PAGINATION_CONFIG.GAMES_PER_PAGE;
   const totalGames = formattedGames.length;
   const totalPages = Math.ceil(totalGames / pageSize);
 
@@ -148,7 +151,9 @@ const meta = {
   title: pageTitle,
   description: `${uiText?.sections?.allGames || 'すべての'} Fiddlebops ${uiText?.sections?.games || 'ゲーム'}を探索してください。${uiText?.common?.page || 'ページ'} ${page.currentPage} / ${page.lastPage}`,
   canonical: page.currentPage === 1 ? `${SITE_URL}/ja/games/` : `${SITE_URL}/ja/games/${page.currentPage}/`,
-  ogImage: `${SITE_URL}/tw.jpg`
+  ogImage: `${SITE_URL}/tw.jpg`,
+  prevUrl: page.url.prev ? `${SITE_URL}${page.url.prev}` : undefined,
+  nextUrl: page.url.next ? `${SITE_URL}${page.url.next}` : undefined
 };
 
 // --- 结构化数据 ---
@@ -207,13 +212,10 @@ const structuredData = {
         } 
       }))} variant="standard" />
       
-      <GamesPagination
+      <UnifiedPagination
         currentPage={page.currentPage}
         totalPages={page.lastPage}
-        totalItems={page.total}
         basePath="/ja/games"
-        prevUrl={page.url.prev}
-        nextUrl={page.url.next}
       />
     </section>
   </main>

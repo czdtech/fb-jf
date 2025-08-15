@@ -55,10 +55,6 @@ export async function getLocalizedGameContent(
   try {
     const games = await getCollection("games");
 
-    // 调试信息
-    if (import.meta.env.DEV) {
-      console.log(`[getLocalizedGameContent] Looking for baseSlug: ${baseSlug}, locale: ${locale}`);
-    }
 
     // 生成目标语言的完整slug
     const targetSlug = generateLanguageSlug(baseSlug, locale);
@@ -72,9 +68,6 @@ export async function getLocalizedGameContent(
         const gameId = game.id.replace(/\.md$/, "");
         const isEnglishGame = !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
         const matches = isEnglishGame && game.data.slug === targetSlug;
-        if (import.meta.env.DEV && matches) {
-          console.log(`[getLocalizedGameContent] Found English game: ${gameId}, slug: ${game.data.slug}`);
-        }
         return matches;
       });
     } else {
@@ -82,17 +75,11 @@ export async function getLocalizedGameContent(
       localizedGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
         const matches = gameId.startsWith(`${locale}-`) && game.data.slug === targetSlug;
-        if (import.meta.env.DEV && matches) {
-          console.log(`[getLocalizedGameContent] Found ${locale} game: ${gameId}, slug: ${game.data.slug}`);
-        }
         return matches;
       });
     }
 
     if (localizedGame) {
-      if (import.meta.env.DEV) {
-        console.log(`[getLocalizedGameContent] Returning localized content for ${locale}: ${localizedGame.id}`);
-      }
       return localizedGame;
     }
 
@@ -104,19 +91,12 @@ export async function getLocalizedGameContent(
         const isEnglishGame = !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
         const matches = isEnglishGame && game.data.slug === englishSlug;
         if (import.meta.env.DEV && matches) {
-          console.log(`[getLocalizedGameContent] Fallback to English game: ${gameId}, slug: ${game.data.slug}`);
         }
         return matches;
       });
-      if (englishGame && import.meta.env.DEV) {
-        console.log(`[getLocalizedGameContent] Returning fallback English content: ${englishGame.id}`);
-      }
       return englishGame || null;
     }
 
-    if (import.meta.env.DEV) {
-      console.log(`[getLocalizedGameContent] No content found for ${baseSlug} in ${locale}`);
-    }
     return null;
   } catch (error) {
     console.error(
@@ -203,8 +183,6 @@ export async function generateEnglishGamePaths(): Promise<
     props: { game: CollectionEntry<"games">; locale: string };
   }> = [];
 
-  if (import.meta.env.DEV)
-    console.log(`[DEBUG] English games found: ${englishGames.length}`);
 
   // 处理英文游戏
   for (const game of englishGames) {
@@ -212,9 +190,6 @@ export async function generateEnglishGamePaths(): Promise<
     // 英文游戏的slug就是基础slug（不带语言前缀）
     const baseSlug = game.data.slug || gameId;
 
-    if (import.meta.env.DEV) {
-      console.log(`[DEBUG] Processing English game: ${gameId}, baseSlug: ${baseSlug}`);
-    }
 
     // 英文游戏: 基于扁平化ID过滤
     const isEnglishGame = !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
@@ -227,16 +202,9 @@ export async function generateEnglishGamePaths(): Promise<
           locale: "en",
         },
       });
-      if (import.meta.env.DEV) {
-        console.log(
-          `[DEBUG] Generated English path: /${baseSlug}, gameSlug=${game.data.slug}`
-        );
-      }
     }
   }
 
-  if (import.meta.env.DEV)
-    console.log(`[DEBUG] Total English paths generated: ${paths.length}`);
   return paths;
 }
 
@@ -266,12 +234,6 @@ export async function generateLocalizedGamePaths(targetLocale: string): Promise<
     props: { game: CollectionEntry<"games">; locale: string };
   }> = [];
 
-  if (import.meta.env.DEV) {
-    console.log(
-      `[DEBUG] ${targetLocale} games found: ${localizedGames.length}`
-    );
-    console.log(`[DEBUG] English games for fallback: ${englishGames.length}`);
-  }
 
   // 获取所有英文游戏的基础slug用于生成路径
   const englishSlugs = englishGames
@@ -305,18 +267,9 @@ export async function generateLocalizedGamePaths(targetLocale: string): Promise<
           locale: targetLocale,
         },
       });
-      if (import.meta.env.DEV) {
-        console.log(
-          `[DEBUG] Generated ${targetLocale} path: /${targetLocale}/${baseSlug}, using content from: ${gameToUse.id} (slug: ${gameToUse.data.slug})`
-        );
-      }
     }
   }
 
-  if (import.meta.env.DEV)
-    console.log(
-      `[DEBUG] Total ${targetLocale} paths generated: ${paths.length}`
-    );
   return paths;
 }
 
@@ -353,15 +306,6 @@ export async function generateAllLocalesGamePaths(): Promise<
   // 获取所有游戏文件
   const allGames = await getCollection("games");
   
-  if (import.meta.env.DEV) {
-    console.log(`🔍 Total games loaded: ${allGames.length}`);
-    console.log(`📁 Sample game IDs:`, allGames.slice(0, 5).map(g => g.id));
-    console.log(`📁 All game IDs (first 20):`, allGames.slice(0, 20).map(g => g.id));
-    
-    // Check if any games have paths with slashes
-    const gamesWithSlashes = allGames.filter(g => g.id.includes('/'));
-    console.log(`📁 Games with slashes (first 10):`, gamesWithSlashes.slice(0, 10).map(g => g.id));
-  }
   
   // 按语言分组游戏
   const gamesByLocale: Record<string, CollectionEntry<"games">[]> = {};
@@ -379,18 +323,12 @@ export async function generateAllLocalesGamePaths(): Promise<
         gamesByLocale[languageMatch] = [];
       }
       gamesByLocale[languageMatch].push(game);
-      if (import.meta.env.DEV && languageMatch === "zh") {
-        console.log(`🔍 Found Chinese game: ${gameId}, slug: ${game.data.slug}`);
-      }
     } else {
       // 英文游戏：{slug}
       englishGames.push(game);
     }
   }
 
-  if (import.meta.env.DEV) {
-    console.log(`🔍 Games by locale:`, Object.keys(gamesByLocale).map(locale => `${locale}: ${gamesByLocale[locale].length}`));
-  }
 
   // 生成英文路径（无前缀）
   for (const game of englishGames) {
@@ -421,10 +359,6 @@ export async function generateAllLocalesGamePaths(): Promise<
       // 使用本地化内容或fallback到英文
       const gameToUse = localizedGame || englishGame;
       
-      if (import.meta.env.DEV && locale === "zh" && baseSlug === "ayocs-sprunkr") {
-        console.log(`🔍 Chinese ayocs-sprunkr path: looking for slug '${targetSlug}', found ${localizedGame ? 'localized' : 'fallback'} content from ${gameToUse.id} (slug: ${gameToUse.data.slug})`);
-        console.log(`🔍 Available Chinese games with ayocs:`, localeGames.filter(g => g.data.slug?.includes('ayocs')).map(g => ({id: g.id, slug: g.data.slug})));
-      }
       
       paths.push({
         params: { slug: baseSlug }, // URL路径使用基础slug
@@ -433,16 +367,6 @@ export async function generateAllLocalesGamePaths(): Promise<
     }
   }
 
-  if (import.meta.env.DEV) {
-    console.log(`🔍 Generated ${paths.length} total game paths`);
-    console.log(`📊 English games: ${englishGames.length}`);
-    for (const locale of SUPPORTED_LOCALES) {
-      if (locale !== "en") {
-        const count = gamesByLocale[locale]?.length || 0;
-        console.log(`📊 ${locale} games: ${count}`);
-      }
-    }
-  }
 
   return paths;
 }

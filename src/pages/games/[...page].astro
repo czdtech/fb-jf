@@ -6,8 +6,12 @@ import Footer from '@/components/Footer.astro';
 import GamesHero from '@/components/games/GamesHero.astro';
 import GameFilters from '@/components/games/GameFilters.astro';
 import GameGrid from '@/components/GameGrid.astro';
-import GamesPagination from '@/components/games/GamesPagination.astro';
+import UnifiedPagination from '@/components/UnifiedPagination.astro';
 import { generateHreflangLinks } from '@/utils/hreflang';
+import { getEnglishGamesPaginated } from '@/utils/content';
+
+// 导入分页配置
+import { PAGINATION_CONFIG } from '@/config/pagination';
 
 // 导入数据
 import extractedData from '@/data/extracted-data.json';
@@ -35,18 +39,11 @@ interface Language {
 
 // --- 静态路径生成 ---
 export async function getStaticPaths() {
-  // 获取所有游戏
-  const allGames = await getCollection('games');
-
-  // 只获取英文版本的游戏（不以语言代码开头的）
-  const enGames = allGames.filter((game: any) => {
-    const gameId = game.id.replace(/\.md$/, "");
-    // 检查是否不以任何语言代码开头（英文游戏）
-    return !['zh', 'es', 'fr', 'de', 'ja', 'ko'].some(lang => gameId.startsWith(`${lang}-`));
-  });
-
-  const formattedGames: GamePageItem[] = enGames.map((game: any) => {
-    // 英文游戏的slug就是基础slug
+  // 使用统一工具获取所有英文游戏和分页信息
+  const allGamesData = await getEnglishGamesPaginated();
+  
+  // 格式化游戏数据
+  const formattedGames: GamePageItem[] = allGamesData.games.map((game: any) => {
     const baseSlug = game.data.slug;
     
     return {
@@ -55,36 +52,43 @@ export async function getStaticPaths() {
       imageUrl: game.data.image,
       title: game.data.title,
       category: game.data.category,
-      rating: game.data.rating?.score || 5, // 默认5星评分
+      rating: game.data.rating?.score || 5,
       description: game.data.description,
       iframe: game.data.iframe,
     };
   });
 
-  const pageSize = 30;
-  const totalGames = formattedGames.length;
-  const totalPages = Math.ceil(totalGames / pageSize);
+  const totalGames = allGamesData.totalItems;
+  const totalPages = allGamesData.totalPages;
 
   const paths = [];
 
-  // 生成所有页面路径
+  // 使用统一的分页工具生成所有页面路径
   for (let i = 1; i <= totalPages; i++) {
-    const startIndex = (i - 1) * pageSize;
-    const endIndex = startIndex + pageSize;
-    const currentGames = formattedGames.slice(startIndex, endIndex);
+    const pageData = await getEnglishGamesPaginated(undefined, i);
+    const currentGames = pageData.games.map((game: any) => ({
+      slug: game.data.slug,
+      url: `/${game.data.slug}/`,
+      imageUrl: game.data.image,
+      title: game.data.title,
+      category: game.data.category,
+      rating: game.data.rating?.score || 5,
+      description: game.data.description,
+      iframe: game.data.iframe,
+    }));
 
     paths.push({
       params: { page: i === 1 ? undefined : i.toString() },
       props: {
         page: {
           data: currentGames,
-          currentPage: i,
-          lastPage: totalPages,
-          total: totalGames,
-          start: startIndex,
+          currentPage: pageData.currentPage,
+          lastPage: pageData.totalPages,
+          total: pageData.totalItems,
+          start: pageData.startIndex,
           url: {
-            prev: i > 1 ? (i === 2 ? `/games/` : `/games/${i - 1}/`) : undefined,
-            next: i < totalPages ? `/games/${i + 1}/` : undefined
+            prev: pageData.hasPrevPage ? (i === 2 ? `/games/` : `/games/${i - 1}/`) : undefined,
+            next: pageData.hasNextPage ? `/games/${i + 1}/` : undefined
           }
         },
         allGames: formattedGames
@@ -139,7 +143,9 @@ const meta = {
     : `Browse page ${page.currentPage} of our music creation games collection. Discover new Fiddlebops and Sprunki games to play online.`,
   keywords: `music games, rhythm games, fiddlebops, sprunki, online games, free games${page.currentPage > 1 ? `, page ${page.currentPage}` : ''}`,
   canonical: `${SITE_URL}/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`,
-  ogImage: `${SITE_URL}/tw.jpg`
+  ogImage: `${SITE_URL}/tw.jpg`,
+  prevUrl: page.url.prev ? `${SITE_URL}${page.url.prev}` : undefined,
+  nextUrl: page.url.next ? `${SITE_URL}${page.url.next}` : undefined
 };
 
 // --- 结构化数据 ---
@@ -214,13 +220,12 @@ const structuredData = {
         }))} variant="standard" />
 
         <!-- Pagination -->
-        <GamesPagination
+        <UnifiedPagination
           currentPage={page.currentPage}
           totalPages={page.lastPage}
           totalItems={page.total}
-          prevUrl={page.url.prev}
-          nextUrl={page.url.next}
-          basePath="/games/"
+          basePath="/games"
+          variant="games"
         />
       </div>
     </section>

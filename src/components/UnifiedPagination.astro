@@ -1,0 +1,387 @@
+---
+import { buildPageUrl } from '@/utils/pagination';
+
+export interface Props {
+  currentPage: number;
+  totalPages: number;
+  totalItems?: number;
+  basePath: string;
+  currentLocale?: string;
+  variant?: 'standard' | 'games';
+}
+
+const { 
+  currentPage, 
+  totalPages, 
+  totalItems,
+  basePath, 
+  currentLocale,
+  variant = 'standard'
+} = Astro.props;
+
+// 计算显示的页码范围
+const getPageRange = () => {
+  const delta = 2;
+  const left = currentPage - delta;
+  const right = currentPage + delta + 1;
+  
+  const pages = [];
+
+  // 添加第一页
+  pages.push(1);
+
+  // 添加省略号（如果需要）
+  if (left > 2) {
+    pages.push('...');
+  }
+
+  // 添加当前页面周围的页码
+  for (let i = Math.max(2, left); i < Math.min(totalPages, right); i++) {
+    if (i !== currentPage && !pages.includes(i)) {
+      pages.push(i);
+    }
+  }
+
+  // 添加省略号（如果需要）
+  if (right < totalPages) {
+    pages.push('...');
+  }
+
+  // 添加最后一页（如果不是第一页）
+  if (totalPages > 1 && !pages.includes(totalPages) && totalPages !== currentPage) {
+    pages.push(totalPages);
+  }
+
+  return pages;
+};
+
+const pageRange = totalPages > 1 ? getPageRange() : [];
+
+// 计算要显示的页码数量（用于games variant）
+function getPaginationNumbers(current: number, total: number, maxDisplayed: number = 7) {
+  if (total <= maxDisplayed) {
+    return Array.from({ length: total }, (_, i) => i + 1);
+  }
+
+  const half = Math.floor(maxDisplayed / 2);
+  let start = Math.max(current - half, 1);
+  let end = Math.min(start + maxDisplayed - 1, total);
+
+  if (end - start + 1 < maxDisplayed) {
+    start = Math.max(end - maxDisplayed + 1, 1);
+  }
+
+  return Array.from({ length: end - start + 1 }, (_, i) => start + i);
+}
+
+const pageNumbers = variant === 'games' ? getPaginationNumbers(currentPage, totalPages) : [];
+---
+
+{totalPages > 1 && (
+  <nav class={`pagination pagination--${variant}`} aria-label="Page navigation">
+    {variant === 'games' && totalItems && (
+      <div class="pagination-summary">
+        <span class="text-sm text-gray-600">
+          Page <strong class="text-gray-900 font-bold">{currentPage}</strong> of <strong class="text-gray-900 font-bold">{totalPages}</strong>
+          <span class="text-gray-500 text-xs ml-2">({totalItems} games total)</span>
+        </span>
+      </div>
+    )}
+
+    <div class="pagination-container">
+      {/* 上一页 */}
+      {currentPage > 1 ? (
+        <a 
+          href={buildPageUrl(basePath, currentPage - 1, currentLocale)} 
+          class="pagination-btn pagination-prev"
+          aria-label="Previous page"
+          rel="prev"
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="15,18 9,12 15,6"></polyline>
+          </svg>
+          Previous
+        </a>
+      ) : (
+        <span 
+          class="pagination-btn pagination-prev pagination-disabled"
+          aria-label="Previous page (disabled)"
+          aria-disabled="true"
+          tabindex="-1"
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="15,18 9,12 15,6"></polyline>
+          </svg>
+          Previous
+        </span>
+      )}
+
+      {variant === 'standard' ? (
+        <div class="pagination-pages">
+          {pageRange.map((page) => (
+            typeof page === 'number' ? (
+              page === currentPage ? (
+                <span 
+                  class="pagination-page pagination-current"
+                  aria-label={`Current page ${page}`}
+                  aria-current="page"
+                  tabindex="-1"
+                >
+                  {page}
+                </span>
+              ) : (
+                <a 
+                  href={buildPageUrl(basePath, page, currentLocale)} 
+                  class="pagination-page"
+                  aria-label={`Go to page ${page}`}
+                >
+                  {page}
+                </a>
+              )
+            ) : (
+              <span class="pagination-dots" role="presentation">{page}</span>
+            )
+          ))}
+        </div>
+      ) : (
+        <div class="pagination-pages games-pages">
+          {/* 显示第一页 (如果当前不是在第一个显示范围) */}
+          {!pageNumbers.includes(1) && (
+            <>
+              <a href={buildPageUrl(basePath, 1, currentLocale)} class="pagination-page">1</a>
+              <span class="pagination-dots">...</span>
+            </>
+          )}
+
+          {/* 显示计算出的页码 */}
+          {pageNumbers.map((pageNum) => {
+            const isCurrentPage = pageNum === currentPage;
+            return isCurrentPage ? (
+              <span
+                class="pagination-page pagination-current"
+                aria-current="page"
+                aria-label={`Current page ${pageNum}`}
+                tabindex="-1"
+              >
+                {pageNum}
+              </span>
+            ) : (
+              <a
+                href={buildPageUrl(basePath, pageNum, currentLocale)}
+                class="pagination-page"
+                aria-label={`Go to page ${pageNum}`}
+              >
+                {pageNum}
+              </a>
+            );
+          })}
+
+          {/* 显示最后一页 (如果当前不是在最后一个显示范围) */}
+          {!pageNumbers.includes(totalPages) && totalPages > 1 && (
+            <>
+              <span class="pagination-dots">...</span>
+              <a href={buildPageUrl(basePath, totalPages, currentLocale)} class="pagination-page">{totalPages}</a>
+            </>
+          )}
+        </div>
+      )}
+
+      {/* 下一页 */}
+      {currentPage < totalPages ? (
+        <a 
+          href={buildPageUrl(basePath, currentPage + 1, currentLocale)} 
+          class="pagination-btn pagination-next"
+          aria-label="Next page"
+          rel="next"
+        >
+          Next
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9,18 15,12 9,6"></polyline>
+          </svg>
+        </a>
+      ) : (
+        <span 
+          class="pagination-btn pagination-next pagination-disabled"
+          aria-label="Next page (disabled)"
+          aria-disabled="true"
+          tabindex="-1"
+        >
+          Next
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9,18 15,12 9,6"></polyline>
+          </svg>
+        </span>
+      )}
+    </div>
+
+    {variant === 'standard' && (
+      <div class="pagination-info">
+        Page {currentPage} of {totalPages}
+      </div>
+    )}
+  </nav>
+)}
+
+<style>
+.pagination {
+  margin: 3rem 0 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.pagination--games {
+  background: white/70;
+  backdrop-filter: blur(12px);
+  border: 1px solid white/20;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.pagination-summary {
+  margin-bottom: 1rem;
+}
+
+.pagination-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pagination-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-secondary, #f8f9fa);
+  color: var(--text-primary, #333);
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  border: 1px solid var(--border-color, #e9ecef);
+}
+
+.pagination-btn:hover {
+  background: var(--primary-color, #007bff);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.pagination-btn.pagination-disabled {
+  background: var(--bg-tertiary, #f1f3f4);
+  color: var(--text-secondary, #6c757d);
+  border-color: var(--border-light, #dee2e6);
+  cursor: not-allowed;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.pagination-btn.pagination-disabled:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+.pagination-pages {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0 1rem;
+}
+
+.games-pages {
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.pagination-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  height: 40px;
+  padding: 0 0.5rem;
+  background: var(--bg-secondary, #f8f9fa);
+  color: var(--text-primary, #333);
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  border: 1px solid var(--border-color, #e9ecef);
+}
+
+.pagination-page:hover:not(.pagination-current) {
+  background: var(--primary-color, #007bff);
+  color: white;
+  transform: translateY(-1px);
+}
+
+.pagination-current {
+  background: var(--primary-color, #007bff);
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.pagination-dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  color: var(--text-secondary, #6c757d);
+  font-weight: 500;
+}
+
+.pagination-info {
+  font-size: 0.9rem;
+  color: var(--text-secondary, #6c757d);
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .pagination-container {
+    gap: 0.25rem;
+  }
+
+  .pagination-btn {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .pagination-page {
+    min-width: 36px;
+    height: 36px;
+    font-size: 0.9rem;
+  }
+
+  .pagination-dots {
+    width: 36px;
+    height: 36px;
+  }
+
+  .pagination-pages {
+    margin: 0 0.5rem;
+  }
+
+  .games-pages {
+    margin: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .pagination-container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .pagination-pages {
+    margin: 0;
+  }
+}
+</style>
