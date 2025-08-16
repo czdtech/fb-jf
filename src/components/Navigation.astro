@@ -58,7 +58,7 @@ const navigationItems = legacyNavigation || [
 <header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-sm safe-area-top">
   <div class="responsive-container flex min-h-[64px] items-center py-2 safe-area-left safe-area-right">
     <!-- Logo with enhanced touch target -->
-    <a href="/" class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
+    <a href={getRelativeLocaleUrl(currentLocale, '/')} class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
       <span
         class="text-xl font-bold"
         style="

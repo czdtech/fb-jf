@@ -9,7 +9,7 @@ import GameGrid from '@/components/GameGrid.astro';
 import UnifiedPagination from '@/components/UnifiedPagination.astro';
 import { generateHreflangLinks } from '@/utils/hreflang';
 import { getLocalizedGamesList } from '@/utils/i18n';
-import { getTranslation } from '@/i18n/utils';
+import { getTranslation, SUPPORTED_LOCALES } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/utils';
 import { PAGINATION_CONFIG } from '@/config/pagination';
 import UrlService from '@/utils/url-service';
@@ -18,10 +18,8 @@ import UrlService from '@/utils/url-service';
 import extractedData from '@/data/extracted-data.json';
 
 // --- 环境变量 ---
+// Astro.site 会根据环境自动返回正确的 URL (dev/prod)
 const SITE_URL = Astro.site.toString().replace(/\/$/, '');
-
-// --- 当前语言配置（英文默认） ---
-const currentLocale: SupportedLocale = 'en';
 
 // --- 类型定义 ---
 interface GamePageItem {
@@ -37,34 +35,8 @@ interface GamePageItem {
 
 // --- 静态路径生成 ---
 export async function getStaticPaths() {
-  // 直接在函数内定义当前语言
-  const locale: SupportedLocale = 'en';
-  
-  // 获取英文游戏列表
-  const localizedGames = await getLocalizedGamesList(locale);
-  
-  // 格式化游戏数据
-  const formattedGames: GamePageItem[] = localizedGames.map((game: any) => {
-    const normalizedData = UrlService.normalizeGameData(game);
-    const baseSlug = normalizedData.baseSlug;
-    
-    return {
-      slug: baseSlug,
-      url: `/${baseSlug}/`, // 英文游戏无语言前缀
-      imageUrl: game.data.image,
-      title: game.data.title,
-      category: game.data.category,
-      rating: game.data.rating?.score || 5,
-      description: game.data.description,
-      iframe: game.data.iframe,
-    };
-  });
-
-  const totalGames = formattedGames.length;
-  const totalPages = Math.ceil(totalGames / PAGINATION_CONFIG.GAMES_PER_PAGE);
-
   const paths: Array<{
-    params: { page?: string };
+    params: { lang: string; page?: string };
     props: {
       page: {
         data: GamePageItem[];
@@ -82,35 +54,77 @@ export async function getStaticPaths() {
     };
   }> = [];
 
-  // 为英文生成所有分页路径
-  for (let i = 1; i <= totalPages; i++) {
-    const startIndex = (i - 1) * PAGINATION_CONFIG.GAMES_PER_PAGE;
-    const endIndex = startIndex + PAGINATION_CONFIG.GAMES_PER_PAGE;
-    const currentPageGames = formattedGames.slice(startIndex, endIndex);
+  // 只为次要语言生成分页路径，排除英文（默认语言）
+  const secondaryLocales = SUPPORTED_LOCALES.filter(locale => locale !== 'en');
+  
+  for (const locale of secondaryLocales) {
+    try {
+      // 获取当前语言的游戏列表
+      const localizedGames = await getLocalizedGamesList(locale);
+      
+      // 格式化游戏数据
+      const formattedGames: GamePageItem[] = localizedGames.map((game: any) => {
+        const normalizedData = UrlService.normalizeGameData(game);
+        const baseSlug = normalizedData.baseSlug;
+        
+        return {
+          slug: baseSlug,
+          url: locale === 'en' ? `/${baseSlug}/` : `/${locale}/${baseSlug}/`,
+          imageUrl: game.data.image,
+          title: game.data.title,
+          category: game.data.category,
+          rating: game.data.rating?.score || 5,
+          description: game.data.description,
+          iframe: game.data.iframe,
+        };
+      });
 
-    paths.push({
-      params: {
-        page: i === 1 ? undefined : i.toString()
-      },
-      props: {
-        page: {
-          data: currentPageGames,
-          currentPage: i,
-          lastPage: totalPages,
-          total: totalGames,
-          start: startIndex,
-          url: {
-            prev: i > 1 ? (i === 2 ? `/games/` : `/games/${i - 1}/`) : undefined,
-            next: i < totalPages ? `/games/${i + 1}/` : undefined
-          }
-        },
-        allGames: formattedGames,
-        locale: locale
-      },
-    });
+      if (formattedGames.length === 0) {
+        console.log(`⚠️ No games found for locale: ${locale}`);
+        continue;
+      }
+
+      const totalGames = formattedGames.length;
+      const totalPages = Math.ceil(totalGames / PAGINATION_CONFIG.GAMES_PER_PAGE);
+
+      // 为当前语言生成所有分页路径
+      for (let i = 1; i <= totalPages; i++) {
+        const startIndex = (i - 1) * PAGINATION_CONFIG.GAMES_PER_PAGE;
+        const endIndex = startIndex + PAGINATION_CONFIG.GAMES_PER_PAGE;
+        const currentPageGames = formattedGames.slice(startIndex, endIndex);
+
+        const basePath = locale === 'en' ? '/games' : `/${locale}/games`;
+
+        paths.push({
+          params: {
+            lang: locale,
+            page: i === 1 ? undefined : i.toString()
+          },
+          props: {
+            page: {
+              data: currentPageGames,
+              currentPage: i,
+              lastPage: totalPages,
+              total: totalGames,
+              start: startIndex,
+              url: {
+                prev: i > 1 ? (i === 2 ? `${basePath}/` : `${basePath}/${i - 1}/`) : undefined,
+                next: i < totalPages ? `${basePath}/${i + 1}/` : undefined
+              }
+            },
+            allGames: formattedGames,
+            locale: locale
+          },
+        });
+      }
+
+      console.log(`📊 Generated ${totalPages} pages for ${locale} with ${totalGames} games`);
+    } catch (error) {
+      console.error(`❌ Error generating paths for locale ${locale}:`, error);
+    }
   }
 
-  console.log(`📊 Generated ${totalPages} English pages with ${totalGames} games for /games/`);
+  console.log(`📊 为次要语言生成的总路径数: ${paths.length}`);
   return paths;
 }
 
@@ -131,9 +145,12 @@ const { page, allGames, locale } = Astro.props as {
   locale: string;
 };
 
-console.log(`🔍 Processing English games page: /games/, page: ${page.currentPage}`);
+// 确保使用正确的语言 - 优先使用params中的lang参数
+const currentLocale = (Astro.params.lang as SupportedLocale) || locale;
 
-// 获取英文翻译
+console.log(`🔍 Processing games page for locale: ${currentLocale}, page: ${page.currentPage}`);
+
+// 获取当前语言的翻译
 const translation = await getTranslation(currentLocale);
 const ui = translation.ui || {};
 
@@ -143,13 +160,15 @@ const { navigation } = extractedData;
 // --- 从extractedData中获取游戏分类 ---
 const categories = [
   { name: ui.navigation?.allGames || 'All Games', count: allGames.length, active: true },
-  { name: 'Music', count: allGames.filter(g => g.category === 'Music').length, active: false },
+  { name: ui.sections?.newGames || 'Music', count: allGames.filter(g => g.category === 'Music').length, active: false },
   { name: 'Rhythm', count: allGames.filter(g => g.category === 'Rhythm').length, active: false },
   { name: 'Creative', count: allGames.filter(g => g.category === 'Creative').length, active: false },
 ];
 
 // --- 多语言配置（统一使用工具函数生成） ---
-const currentPath = `/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`;
+const currentPath = currentLocale === 'en' 
+  ? `/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`
+  : `/${currentLocale}/games${page.currentPage > 1 ? `/${page.currentPage}` : ''}/`;
 
 const hreflangLinks = generateHreflangLinks(
   navigation?.languages || [],
@@ -160,11 +179,11 @@ const hreflangLinks = generateHreflangLinks(
 // --- SEO配置 ---
 const pageTitle = page.currentPage === 1
   ? (ui.meta?.title || "All Music Creation Games - Fiddlebops")
-  : `Music Games - Page ${page.currentPage} - Fiddlebops`;
+  : (ui.meta?.title || `Music Games - Page ${page.currentPage} - Fiddlebops`);
 
 const pageDescription = page.currentPage === 1
   ? (ui.meta?.description || "Explore our complete collection of music creation games. Play Fiddlebops, Sprunki, and more innovative rhythm games online for free.")
-  : `Browse page ${page.currentPage} of our music creation games collection. Discover new Fiddlebops and Sprunki games to play online.`;
+  : (ui.meta?.description || `Browse page ${page.currentPage} of our music creation games collection. Discover new Fiddlebops and Sprunki games to play online.`);
 
 const meta = {
   title: pageTitle,
@@ -233,7 +252,7 @@ const displayGames = page.data.map((g: any) => ({
         current: ui.navigation?.allGames || 'All Games' 
       }}
       title={{ 
-        main: 'All', 
+        main: ui.navigation?.allGames?.split(' ')[0] || 'All', 
         accent: ui.navigation?.games || 'Games' 
       }}
       subtitle={ui.hero?.subtitle || `${page.total} amazing music creation experiences`}
@@ -248,7 +267,7 @@ const displayGames = page.data.map((g: any) => ({
         <!-- Results Info -->
         <div class="mb-8 text-center results-info">
           <p class="text-sm text-gray-600">
-            Showing {page.start + 1}-{Math.min(page.start + page.data.length, page.total)} of {page.total} games
+            {ui.common?.loading || 'Showing'} {page.start + 1}-{Math.min(page.start + page.data.length, page.total)} {ui.common?.loading || 'of'} {page.total} {ui.navigation?.games || 'games'}
           </p>
         </div>
 
@@ -260,7 +279,7 @@ const displayGames = page.data.map((g: any) => ({
           currentPage={page.currentPage}
           totalPages={page.lastPage}
           totalItems={page.total}
-          basePath="/games"
+          basePath={currentLocale === 'en' ? '/games' : `/${currentLocale}/games`}
           variant="games"
         />
       </div>

@@ -16,75 +16,136 @@ import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
 import { generateAllLocalesGamePaths, getLocalizedGameContent, extractLocaleFromPath } from '@/utils/i18n'
 import { extractBaseSlug, getGameLocalizedPath } from '@/utils/url-service'
-import { getTranslation } from '@/i18n/utils'
+import { getTranslation, SUPPORTED_LOCALES } from '@/i18n/utils'
 import type { ExtractedData } from '@/types/game'
 import UrlService from '@/utils/url-service'
 
 const { navigation } = extractedData as ExtractedData
 
 // 基础站点域名（统一 canonical 基准域，去除末尾斜杠）
-// 强制使用生产环境URL，避免开发环境localhost泄露
-const SITE_URL = 'https://www.playfiddlebops.com'
+// Astro.site 会根据环境自动返回正确的 URL (dev/prod)
+const SITE_URL = Astro.site.toString().replace(/\/$/, '');
 
 export async function getStaticPaths() {
-  // 为所有支持的语言生成游戏路径
-  console.log('🔍 [slug].astro getStaticPaths() called...');
-  const paths = await generateAllLocalesGamePaths();
-  console.log(`📊 Generated ${paths.length} paths`);
+  console.log('🔍 [...slug].astro getStaticPaths() called...');
   
-  // Debug: show Chinese paths
-  const chinesePaths = paths.filter(p => p.props.locale === 'zh');
+  const allGames = await getCollection('games');
+  const paths: Array<{
+    params: { slug: string };
+    props: { game: CollectionEntry<'games'>; locale: string };
+  }> = [];
+
+  // 获取所有英文游戏作为基础
+  const englishGames = allGames.filter(game => {
+    const gameId = game.id.replace(/\.md$/, '');
+    // 英文游戏：文件在根目录，不在语言子目录中
+    return !gameId.includes('/');
+  });
+
+  console.log(`📊 Found ${englishGames.length} English games`);
+
+  // 为每个英文游戏生成所有语言的路径
+  for (const englishGame of englishGames) {
+    const baseSlug = englishGame.data.slug || englishGame.id.replace(/\.md$/, '');
+    
+    // 为每种语言生成路径
+    for (const locale of SUPPORTED_LOCALES) {
+      let gameToUse = englishGame;
+      
+      // 如果不是英文，尝试找到对应的本地化版本
+      if (locale !== 'en') {
+        const englishFileName = englishGame.id.replace(/\.md$/, '');
+        const localizedGame = allGames.find(game => {
+          const gameId = game.id.replace(/\.md$/, '');
+          // 检查是否是对应语言目录下的同名文件
+          return gameId === `${locale}/${englishFileName}`;
+        });
+        
+        if (localizedGame) {
+          gameToUse = localizedGame;
+        }
+      }
+
+      // 构建路径：英文为基础slug，其他语言为 {locale}/{baseSlug}
+      const urlPath = locale === 'en' ? baseSlug : `${locale}/${baseSlug}`;
+
+      paths.push({
+        params: { slug: urlPath },
+        props: { game: gameToUse, locale }
+      });
+    }
+  }
+
+  // 过滤掉一些静态页面，避免冲突
+  const staticPages = ['privacy', 'terms-of-service', '404', 'index', 'games'];
+  const filteredPaths = paths.filter(p => {
+    const slug = p.params.slug;
+    return !staticPages.some(page => slug === page || slug.endsWith(`/${page}`));
+  });
+
+  console.log(`📊 Generated ${filteredPaths.length} total game paths`);
+  
+  // Debug: show a few Chinese paths
+  const chinesePaths = filteredPaths.filter(p => p.params.slug.startsWith('zh/'));
   console.log(`📊 Chinese paths: ${chinesePaths.length}`);
   chinesePaths.slice(0, 3).forEach((path, i) => {
-    console.log(`  ${i + 1}. /zh/${path.params.slug}/ → ${path.props.game.id}`);
+    console.log(`  ${i + 1}. ${path.params.slug} → ${path.props.game.id} (${path.props.locale})`);
   });
-  
-  // Check for ayocs specifically
-  const ayocsPaths = paths.filter(p => p.params.slug === 'ayocs-sprunkr');
-  console.log(`📊 Ayocs paths: ${ayocsPaths.length}`);
-  ayocsPaths.forEach(path => {
-    console.log(`  ${path.props.locale}: /${path.props.locale === 'en' ? '' : path.props.locale + '/'}${path.params.slug}/ → ${path.props.game.id}`);
-  });
-  
-  return paths;
+
+  return filteredPaths;
 }
 
-const { game: initialGame, locale } = Astro.props as { 
+// 从URL参数获取完整slug和解析语言
+const fullSlug = Astro.params.slug as string;
+const urlSegments = fullSlug.split('/');
+
+// 确定当前语言和基础slug
+let currentLocale: string;
+let baseSlug: string;
+
+if (SUPPORTED_LOCALES.includes(urlSegments[0]) && urlSegments[0] !== 'en') {
+  // 路径格式：zh/sprunki-retake
+  currentLocale = urlSegments[0];
+  baseSlug = urlSegments.slice(1).join('/');
+} else {
+  // 路径格式：sprunki-retake (英文)
+  currentLocale = 'en';
+  baseSlug = fullSlug;
+}
+
+// 优先使用 Astro.currentLocale（与 Astro i18n 对齐）
+currentLocale = Astro.currentLocale || currentLocale;
+
+console.log(`🔍 Processing fullSlug: ${fullSlug}, locale: ${currentLocale}, baseSlug: ${baseSlug}`);
+
+// 获取游戏数据
+const { game: initialGame, locale: propsLocale } = Astro.props as { 
   game: CollectionEntry<'games'>; 
   locale: string 
 };
 
-// 优先使用 Astro.currentLocale（与 Astro i18n 对齐），兼容 props 与路径回退
-const currentPath = Astro.url.pathname;
-const currentLocale = Astro.currentLocale || locale || extractLocaleFromPath(currentPath);
-const slug = Astro.params.slug as string;
+let game = initialGame;
 
-//
-console.log(`🔍 Processing ${slug} for locale ${currentLocale}`);
-
-// 加载适当的游戏内容
-let game;
-try {
-  game = await getLocalizedGameContent(slug, currentLocale) || initialGame;
-  console.log(`✅ Game loaded: ${game.id} (slug: ${game.data.slug}) for ${currentLocale}`);
-} catch (error) {
-  console.error(`❌ Error loading game content for ${slug} in ${currentLocale}:`, error);
-  game = initialGame;
-}
-
-if (!game) {
-  console.error(`❌ No game found for ${slug} in ${currentLocale}`);
-  // fallback to initialGame or throw error
-  game = initialGame;
-  if (!game) {
-    throw new Error(`Game not found: ${slug} for locale ${currentLocale}`);
+// 如果有必要，重新加载正确的游戏内容
+if (propsLocale !== currentLocale) {
+  try {
+    const localizedGame = await getLocalizedGameContent(baseSlug, currentLocale);
+    if (localizedGame) {
+      game = localizedGame;
+    }
+  } catch (error) {
+    console.error(`❌ Error loading game content for ${baseSlug} in ${currentLocale}:`, error);
   }
 }
 
-//
+if (!game) {
+  throw new Error(`Game not found: ${baseSlug} for locale ${currentLocale}`);
+}
+
+console.log(`✅ Game loaded: ${game.id} for ${currentLocale}`);
+
 const { Content } = await render(game);
-// 使用 frontmatter 中的 slug (game.data.slug) 或 URL 参数中的基础 slug
-const gameData = { ...(game.data), slug: game.data.slug || slug };
+const gameData = { ...(game.data), slug: game.data.slug || baseSlug };
 const extendedData = gameData;
 
 // 获取当前语言的翻译内容
@@ -99,14 +160,15 @@ const relatedGames = allGames
     if (g.data.category !== gameData.category || g.id === game.id) {
       return false;
     }
-    // 优先显示当前语言的游戏
+    
+    // 根据当前语言过滤相关游戏
     const gameId = g.id.replace(/\.md$/, '');
     if (currentLocale === 'en') {
-      // 英文游戏: ID不以任何语言代码开头
-      return !['zh', 'es', 'fr', 'de', 'ja', 'ko'].some(lang => gameId.startsWith(`${lang}-`));
+      // 英文游戏: 文件在根目录
+      return !gameId.includes('/');
     } else {
-      // 其他语言游戏: ID以语言代码开头
-      return gameId.startsWith(`${currentLocale}-`);
+      // 其他语言游戏: 文件在对应语言目录
+      return gameId.startsWith(`${currentLocale}/`);
     }
   })
   .slice(0, 4)
@@ -114,22 +176,20 @@ const relatedGames = allGames
     // 使用UrlService标准化游戏数据
     const normalizedData = UrlService.normalizeGameData(g);
     return {
-      ...g.data, // 先展开 front-matter 数据
-      slug: normalizedData.baseSlug, // 使用标准化的基础slug
+      ...g.data,
+      slug: normalizedData.baseSlug,
     };
   });
 
 // 统一的hreflang生成 - 仅为存在翻译的语言生成链接
-// 使用URL参数中的基础slug，而非frontmatter中的完整slug
-const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], slug)
+const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], baseSlug)
 
 // 规范化 ogImage（确保绝对URL）
 const rawOgImage = extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || '/tw.jpg'
 const normalizedOgImage = rawOgImage?.startsWith('http') ? rawOgImage : `${SITE_URL}${rawOgImage.startsWith('/') ? '' : '/'}${rawOgImage}`
 
 // SEO配置 - 多语言支持的 canonical URL
-// 使用URL参数中的基础slug生成正确的canonical路径
-const canonicalPath = getGameLocalizedPath(slug, currentLocale);
+const canonicalPath = getGameLocalizedPath(baseSlug, currentLocale);
 const meta = {
   title: extendedData.seo?.title || gameData.meta?.title || `${gameData.title} - Play ${gameData.title} Online | FiddleBops`,
   description: extendedData.seo?.description || gameData.meta?.description || `Play ${gameData.title} online for free! ${gameData.description || 'Experience this amazing music creation game.'}`,
@@ -139,7 +199,6 @@ const meta = {
 }
 
 // 增强的结构化数据（@graph：VideoGame/SoftwareApplication + BreadcrumbList）
-// AURA-X: Modify - C-1 实施。Confirmed via 寸止。
 const gameTypeNode = {
   '@type': 'VideoGame',
   name: gameData.title,

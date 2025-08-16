@@ -9,21 +9,20 @@ export async function getLocalizedGamesList(locale: string = "en") {
   try {
     const allGames = await getCollection("games");
 
-    // 基于扁平化ID过滤当前语言的游戏
+    // 基于文件路径过滤当前语言的游戏
     let currentLocaleGames: typeof allGames;
 
     if (locale === "en") {
-      // 英文游戏: ID不以任何语言代码开头
+      // 英文游戏: 文件在根目录，ID不包含斜杠
       currentLocaleGames = allGames.filter((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        // 检查是否不以任何支持的语言代码开头
-        return !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
+        return !gameId.includes('/'); // 根目录文件
       });
     } else {
-      // 其他语言游戏: ID以语言代码开头
+      // 其他语言游戏: 文件在语言子目录，ID格式为 {locale}/{filename}
       currentLocaleGames = allGames.filter((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        return gameId.startsWith(`${locale}-`);
+        return gameId.startsWith(`${locale}/`);
       });
     }
 
@@ -32,8 +31,7 @@ export async function getLocalizedGamesList(locale: string = "en") {
       console.log(`⚠️ No games found for ${locale}, fallback to English`);
       return allGames.filter((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        // 检查是否不以任何语言代码开头
-        return !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
+        return !gameId.includes('/'); // 英文游戏在根目录
       });
     }
 
@@ -63,18 +61,18 @@ export async function getLocalizedGameContent(
     let localizedGame: CollectionEntry<"games"> | undefined;
 
     if (locale === "en") {
-      // 英文游戏: ID不以任何语言代码开头，slug为基础slug
+      // 英文游戏: 文件在根目录，ID不包含斜杠
       localizedGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        const isEnglishGame = !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
+        const isEnglishGame = !gameId.includes('/'); // 根目录文件
         const matches = isEnglishGame && game.data.slug === targetSlug;
         return matches;
       });
     } else {
-      // 其他语言游戏: ID以语言代码开头，slug为语言前缀格式
+      // 其他语言游戏: 文件在语言子目录，ID格式为 {locale}/{filename}
       localizedGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        const matches = gameId.startsWith(`${locale}-`) && game.data.slug === targetSlug;
+        const matches = gameId.startsWith(`${locale}/`) && game.data.slug === targetSlug;
         return matches;
       });
     }
@@ -88,7 +86,7 @@ export async function getLocalizedGameContent(
       const englishSlug = generateLanguageSlug(baseSlug, "en"); // 英文基础slug
       const englishGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        const isEnglishGame = !SUPPORTED_LOCALES.some(lang => lang !== "en" && gameId.startsWith(`${lang}-`));
+        const isEnglishGame = !gameId.includes('/'); // 根目录文件
         const matches = isEnglishGame && game.data.slug === englishSlug;
         if (import.meta.env.DEV && matches) {
         }
