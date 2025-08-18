@@ -21,7 +21,9 @@ const SUPPORTED_LOCALES = ['en', 'zh', 'es', 'fr', 'de', 'ja', 'ko'] as const;
 
 /**
  * 从完整slug中提取基础slug（去除语言前缀）
- * @param fullSlug - 可能包含语言前缀的slug
+ * @param fullSlug - 包含语言前缀的slug，支持两种格式：
+ *   1. 路径格式: {locale}/{game-name} 
+ *   2. Astro ID格式: {locale}-{game-name}
  * @returns 基础slug（不含语言前缀）
  */
 function extractBaseSlugInternal(fullSlug: string): string {
@@ -29,19 +31,36 @@ function extractBaseSlugInternal(fullSlug: string): string {
     return '';
   }
   
-  // 匹配语言前缀：zh-, es-, fr-, de-, ja-, ko- 等
-  const match = fullSlug.match(/^(zh|es|fr|de|ja|ko)-(.+)$/);
-  return match ? match[2] : fullSlug; // 如果匹配到前缀则返回基础部分，否则返回原值（英文）
+  // 支持两种格式：
+  // 1. 路径格式：{locale}/{game-name}
+  const pathMatch = fullSlug.match(/^(en|zh|es|fr|de|ja|ko)\/(.+)$/);
+  if (pathMatch) {
+    return pathMatch[2];
+  }
+  
+  // 2. Astro ID格式：{locale}-{game-name}
+  const idMatch = fullSlug.match(/^(en|zh|es|fr|de|ja|ko)-(.+)$/);
+  if (idMatch) {
+    return idMatch[2];
+  }
+  
+  // 如果都不匹配，返回原值（可能是英文游戏的基础slug）
+  return fullSlug;
 }
 
 /**
- * 生成本地化路径
+ * 生成本地化路径 - 使用Astro的内置函数
  * @param baseSlug - 基础slug
  * @param locale - 语言代码
  * @returns 完整的本地化路径
  */
 function getGameLocalizedPathInternal(baseSlug: string, locale: string): string {
-  return locale === "en" ? `/${baseSlug}/` : `/${locale}/${baseSlug}/`;
+  // 英文是默认语言，不需要语言前缀
+  if (locale === 'en') {
+    return `/${baseSlug}/`;
+  }
+  // 其他语言使用 /{locale}/{baseSlug}/ 格式
+  return `/${locale}/${baseSlug}/`;
 }
 
 // ============================================================================

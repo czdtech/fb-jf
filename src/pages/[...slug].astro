@@ -38,15 +38,19 @@ export async function getStaticPaths() {
   // 获取所有英文游戏作为基础
   const englishGames = allGames.filter(game => {
     const gameId = game.id.replace(/\.md$/, '');
-    // 英文游戏：文件在根目录，不在语言子目录中
-    return !gameId.includes('/');
+    // 英文游戏：文件在根目录，不包含'/'，且不以语言代码开头
+    const isRootGame = !gameId.includes('/');
+    const hasLanguagePrefix = /^(zh|es|fr|de|ja|ko)-/.test(gameId);
+    return isRootGame && !hasLanguagePrefix;
   });
 
   console.log(`📊 Found ${englishGames.length} English games`);
 
   // 为每个英文游戏生成所有语言的路径
   for (const englishGame of englishGames) {
-    const baseSlug = englishGame.data.slug || englishGame.id.replace(/\.md$/, '');
+    // 提取基础slug（去除可能的语言前缀）
+    const fullSlug = englishGame.data.slug || englishGame.id.replace(/\.md$/, '');
+    const baseSlug = extractBaseSlug(fullSlug);
     
     // 为每种语言生成路径
     for (const locale of SUPPORTED_LOCALES) {
@@ -54,16 +58,24 @@ export async function getStaticPaths() {
       
       // 如果不是英文，尝试找到对应的本地化版本
       if (locale !== 'en') {
-        const englishFileName = englishGame.id.replace(/\.md$/, '');
+        const expectedPath = `${locale}/${baseSlug}`;
         const localizedGame = allGames.find(game => {
           const gameId = game.id.replace(/\.md$/, '');
-          // 检查是否是对应语言目录下的同名文件
-          return gameId === `${locale}/${englishFileName}`;
+          const gameSlug = game.data.slug;
+          
+          // 匹配文件路径或slug格式（与getLocalizedGameContent保持一致）
+          return gameId === expectedPath || gameSlug === `${locale}-${baseSlug}`;
         });
         
         if (localizedGame) {
           gameToUse = localizedGame;
+          console.log(`✅ Using localized game for ${locale}: ${localizedGame.id} (title: "${localizedGame.data.title}")`);
+        } else {
+          console.log(`⚠️ No ${locale} version found for ${baseSlug}, using English version`);
         }
+      } else {
+        // 英文路径必须使用英文游戏
+        console.log(`✅ Using English game for ${locale}: ${englishGame.id} (title: "${englishGame.data.title}")`);
       }
 
       // 构建路径：英文为基础slug，其他语言为 {locale}/{baseSlug}
@@ -113,8 +125,9 @@ if (SUPPORTED_LOCALES.includes(urlSegments[0]) && urlSegments[0] !== 'en') {
   baseSlug = fullSlug;
 }
 
-// 优先使用 Astro.currentLocale（与 Astro i18n 对齐）
-currentLocale = Astro.currentLocale || currentLocale;
+// 保持URL驱动的语言检测，不被Astro.currentLocale覆盖
+// URL路径是用户意图的明确表达，必须优先于浏览器语言偏好
+// currentLocale = Astro.currentLocale || currentLocale; // 移除此覆盖逻辑
 
 console.log(`🔍 Processing fullSlug: ${fullSlug}, locale: ${currentLocale}, baseSlug: ${baseSlug}`);
 
@@ -164,11 +177,13 @@ const relatedGames = allGames
     // 根据当前语言过滤相关游戏
     const gameId = g.id.replace(/\.md$/, '');
     if (currentLocale === 'en') {
-      // 英文游戏: 文件在根目录
-      return !gameId.includes('/');
+      // 英文游戏: 文件在根目录且不包含语言前缀
+      const isRootGame = !gameId.includes('/');
+      const hasLanguagePrefix = /^(zh|es|fr|de|ja|ko)-/.test(gameId);
+      return isRootGame && !hasLanguagePrefix;
     } else {
-      // 其他语言游戏: 文件在对应语言目录
-      return gameId.startsWith(`${currentLocale}/`);
+      // 其他语言游戏: 匹配Astro ID格式或文件路径格式
+      return gameId.startsWith(`${currentLocale}-`) || gameId.startsWith(`${currentLocale}/`);
     }
   })
   .slice(0, 4)
@@ -263,33 +278,43 @@ const structuredData = {
   ],
 };
 
-// 默认游戏特色
-const defaultFeatures = [
+// 获取当前语言的默认游戏特色和步骤
+const defaultFeatures = translation.ui?.game?.features?.defaults || (currentLocale === 'en' ? [
   { icon: '🎵', title: 'Rich Music Creation', description: 'Create unique musical compositions with diverse sound elements' },
   { icon: '🎭', title: 'Character Variety', description: 'Choose from a wide range of animated characters, each with unique sounds' },
   { icon: '🔄', title: 'Creative Freedom', description: 'Unlimited possibilities for mixing and matching sounds' },
   { icon: '💫', title: 'Visual Effects', description: 'Stunning animations and effects that react to your music' }
-];
+] : [
+  { icon: '🎵', title: '丰富音乐创作', description: '使用多样化音效元素创作独特音乐作品' },
+  { icon: '🎭', title: '角色多样性', description: '从众多动画角色中选择，每个都有独特音效' },
+  { icon: '🔄', title: '创作自由', description: '无限可能的声音混合搭配' },
+  { icon: '💫', title: '视觉特效', description: '随音乐响应的精美动画和特效' }
+]);
 
-// 默认游戏步骤
-const defaultSteps = [
+const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale === 'en' ? [
   'Choose your favorite characters from the selection',
   'Drag and drop them onto the stage to start creating',
   'Experiment with different combinations to find your perfect mix',
   'Save and share your musical masterpiece with friends'
-];
+] : [
+  '从角色库中选择你喜欢的角色',
+  '拖拽角色到舞台上开始创作', 
+  '尝试不同组合找到完美搭配',
+  '保存并与朋友分享你的音乐杰作'
+]);
 ---
 
 <BaseLayout
   meta={meta}
   hreflang={hreflangLinks}
   structuredData={structuredData}
+  lang={currentLocale}
 >
   <Navigation
-    navigation={navigation.main}
     languages={navigation.languages}
     currentLang={currentLocale}
     currentPath={canonicalPath}
+    locale={currentLocale}
   />
 
   <!-- 游戏Hero区域 -->
@@ -307,15 +332,15 @@ const defaultSteps = [
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
             <span class="text-purple-600">✨</span>
-            {gameTexts.sections?.features || 'Game Features'}
+            {gameTexts.sections?.features || translation.ui?.sections?.features || translation.ui?.game?.sections?.features || (currentLocale === 'en' ? 'Game Features' : '游戏特色')}
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            {gameTexts.features?.defaultDescription || 'Discover what makes this game special'}
+            {gameTexts.features?.defaultDescription || translation.ui?.game?.features?.defaultDescription || (currentLocale === 'en' ? 'Discover what makes this game special' : '探索这款游戏的独特魅力')}
           </p>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {(extendedData.features || gameTexts.features?.defaults || defaultFeatures).map((feature: any, index: number) => (
+          {(extendedData.features || gameTexts.features?.defaults || translation.ui?.game?.features?.defaults || defaultFeatures).map((feature: any, index: number) => (
             <Card className="h-full hover:shadow-lg transition-shadow duration-300">
               <CardContent className="p-6 text-center">
                 <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
@@ -336,17 +361,17 @@ const defaultSteps = [
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
             <span class="text-purple-600">🎮</span>
-            {gameTexts.sections?.howToPlay || 'How to Play'}
+            {gameTexts.sections?.howToPlay || translation.ui?.game?.sections?.howToPlay || (currentLocale === 'en' ? 'How to Play' : '游戏玩法')}
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            {gameTexts.howToPlay?.defaultTitle || 'Master the art of music creation'}
+            {gameTexts.howToPlay?.defaultTitle || translation.ui?.game?.howToPlay?.defaultTitle || (currentLocale === 'en' ? 'Master the art of music creation' : '掌握音乐创作的艺术')}
           </p>
         </div>
 
         <Card className="max-w-4xl mx-auto">
           <CardContent className="p-8">
             <div class="space-y-6">
-              {(extendedData.howToPlay || gameTexts.howToPlay?.defaults || defaultSteps).map((step: any, index: number) => (
+              {(extendedData.howToPlay || gameTexts.howToPlay?.defaults || translation.ui?.game?.howToPlay?.defaults || defaultSteps).map((step: any, index: number) => (
                 <div class="flex gap-6 items-start">
                   <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
                     {index + 1}
@@ -367,10 +392,10 @@ const defaultSteps = [
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">📸</span>
-              {gameTexts.sections?.screenshots || 'Game Screenshots'}
+              {gameTexts.sections?.screenshots || translation.ui?.game?.sections?.screenshots || (currentLocale === 'en' ? 'Game Screenshots' : '游戏截图')}
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              {gameTexts.media?.screenshotsTitle || 'Take a look at the gameplay experience'}
+              {gameTexts.media?.screenshotsTitle || translation.ui?.game?.media?.screenshotsTitle || (currentLocale === 'en' ? 'Take a look at the gameplay experience' : '看看游戏体验')}
             </p>
           </div>
 
@@ -406,10 +431,10 @@ const defaultSteps = [
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">🎵</span>
-              {gameTexts.media?.musicPreviewTitle || 'Game Music Preview'}
+              {gameTexts.media?.musicPreviewTitle || translation.ui?.game?.media?.musicPreviewTitle || (currentLocale === 'en' ? 'Game Music Preview' : '游戏音乐预览')}
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              {gameTexts.media?.musicPreviewDescription || 'Experience the immersive soundtrack'}
+              {gameTexts.media?.musicPreviewDescription || translation.ui?.game?.media?.musicPreviewDescription || (currentLocale === 'en' ? 'Experience the immersive soundtrack' : '体验沉浸式配乐')}
             </p>
           </div>
 
@@ -459,10 +484,10 @@ const defaultSteps = [
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">🎯</span>
-              {gameTexts.sections?.relatedGames || 'More Games Like This'}
+              {gameTexts.sections?.relatedGames || translation.ui?.game?.sections?.relatedGames || (currentLocale === 'en' ? 'More Games Like This' : '更多相似游戏')}
             </h2>
             <p class="text-xl text-gray-600">
-              {gameTexts.navigation?.continueJourney || 'Continue your musical journey'}
+              {gameTexts.navigation?.continueJourney || translation.ui?.game?.navigation?.continueJourney || (currentLocale === 'en' ? 'Continue your musical journey' : '继续你的音乐之旅')}
             </p>
           </div>
 

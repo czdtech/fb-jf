@@ -30,35 +30,57 @@ const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) 
 const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 
-// 生成导航链接 - 使用Astro i18n helpers（所有语言已提供分类页，无需回退）
-const navigationItems = legacyNavigation || [
-  {
-    label: uiText?.navigation?.home || 'Home',
-    url: getRelativeLocaleUrl(currentLocale, '/'),
-  },
-  {
-    label: uiText?.navigation?.allGames || 'ALL Games',
-    url: getRelativeLocaleUrl(currentLocale, '/games'),
-  },
-  {
-    label: uiText?.navigation?.newGames || 'New Games', 
-    url: getRelativeLocaleUrl(currentLocale, '/new-games'),
-  },
-  {
-    label: uiText?.navigation?.popularGames || 'Popular Games',
-    url: getRelativeLocaleUrl(currentLocale, '/popular-games'),
-  },
-  {
-    label: uiText?.navigation?.trendingGames || 'Trending Games',
-    url: getRelativeLocaleUrl(currentLocale, '/trending-games'),
+// 生成导航链接 - 手动构建多语言URL（解决getRelativeLocaleUrl问题）
+const buildLocaleUrl = (locale: string, path: string): string => {
+  // 确保path以/开头
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+  
+  // 英文使用根路径，其他语言使用语言前缀
+  if (locale === 'en') {
+    return normalizedPath;
+  } else {
+    const result = `/${locale}${normalizedPath}`;
+    return result;
   }
-];
+};
+
+// 如果有legacyNavigation，使用其标签但重新生成URL
+const navigationItems = legacyNavigation ? 
+  legacyNavigation.map((item, index) => {
+    const paths = ['/', '/games', '/new-games', '/popular-games', '/trending-games'];
+    return {
+      label: item.label,
+      url: buildLocaleUrl(currentLocale, paths[index] || '/'),
+    };
+  }) : [
+    {
+      label: uiText?.navigation?.home || 'Home',
+      url: buildLocaleUrl(currentLocale, '/'),
+    },
+    {
+      label: uiText?.navigation?.allGames || 'ALL Games',
+      url: buildLocaleUrl(currentLocale, '/games'),
+    },
+    {
+      label: uiText?.navigation?.newGames || 'New Games', 
+      url: buildLocaleUrl(currentLocale, '/new-games'),
+    },
+    {
+      label: uiText?.navigation?.popularGames || 'Popular Games',
+      url: buildLocaleUrl(currentLocale, '/popular-games'),
+    },
+    {
+      label: uiText?.navigation?.trendingGames || 'Trending Games',
+      url: buildLocaleUrl(currentLocale, '/trending-games'),
+    }
+  ];
+
 ---
 
 <header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-sm safe-area-top">
   <div class="responsive-container flex min-h-[64px] items-center py-2 safe-area-left safe-area-right">
     <!-- Logo with enhanced touch target -->
-    <a href={getRelativeLocaleUrl(currentLocale, '/')} class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
+    <a href={buildLocaleUrl(currentLocale, '/')} class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
       <span
         class="text-xl font-bold"
         style="
@@ -77,19 +99,28 @@ const navigationItems = legacyNavigation || [
     <!-- Desktop Navigation using shadcn/ui NavigationMenu -->
     <div class="hidden md:flex md:flex-1 md:min-w-0 overflow-x-auto">
       <nav class="flex flex-nowrap items-center gap-1 whitespace-nowrap">
-        {navigationItems.map((item) => (
-          <a
-            href={item.url}
-            aria-current={currentPath === item.url ? 'page' : undefined}
-            class={`touch-target inline-flex h-10 min-h-[44px] w-max items-center justify-center rounded-none px-4 py-2 text-sm font-medium border-b-2 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background ${
-              currentPath === item.url
-                ? 'text-foreground border-primary'
-                : 'text-muted-foreground border-transparent hover:text-foreground hover:border-primary/50'
-            }`}
-          >
-            {item.label}
-          </a>
-        ))}
+        {navigationItems.map((item) => {
+          // 为了正确比较当前页面，我们需要处理路径匹配
+          // currentPath 可能是 /zh/games/ 而 item.url 是 /zh/games
+          const isCurrentPage = currentPath === item.url || 
+            currentPath === `${item.url}/` || 
+            `${currentPath}/` === item.url || 
+            currentPath.replace(/\/$/, '') === item.url.replace(/\/$/, '');
+            
+          return (
+            <a
+              href={item.url}
+              aria-current={isCurrentPage ? 'page' : undefined}
+              class={`touch-target inline-flex h-10 min-h-[44px] w-max items-center justify-center rounded-none px-4 py-2 text-sm font-medium border-b-2 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background ${
+                isCurrentPage
+                  ? 'text-foreground border-primary'
+                  : 'text-muted-foreground border-transparent hover:text-foreground hover:border-primary/50'
+              }`}
+            >
+              {item.label}
+            </a>
+          );
+        })}
       </nav>
     </div>
 
