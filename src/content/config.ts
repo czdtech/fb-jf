@@ -394,6 +394,37 @@ const i18nUICollection = defineCollection({
         incrediboxExperience: z.string(),
       }),
     }),
+    // 游戏页面翻译
+    game: z.object({
+      sections: z.object({
+        features: z.string(),
+        howToPlay: z.string(),
+        screenshots: z.string(),
+        about: z.string(),
+        relatedGames: z.string(),
+      }),
+      features: z.object({
+        defaultTitle: z.string(),
+        defaultDescription: z.string(),
+        defaults: z.array(z.object({
+          icon: z.string(),
+          title: z.string(),
+          description: z.string(),
+        })),
+      }),
+      howToPlay: z.object({
+        defaultTitle: z.string(),
+        defaults: z.array(z.string()),
+      }),
+      media: z.object({
+        screenshotsTitle: z.string(),
+        musicPreviewTitle: z.string(),
+        musicPreviewDescription: z.string(),
+      }),
+      navigation: z.object({
+        continueJourney: z.string(),
+      }),
+    }),
   }),
 });
 

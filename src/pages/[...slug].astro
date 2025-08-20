@@ -279,29 +279,19 @@ const structuredData = {
 };
 
 // 获取当前语言的默认游戏特色和步骤
-const defaultFeatures = translation.ui?.game?.features?.defaults || (currentLocale === 'en' ? [
+const defaultFeatures = translation.ui?.game?.features?.defaults || [
   { icon: '🎵', title: 'Rich Music Creation', description: 'Create unique musical compositions with diverse sound elements' },
   { icon: '🎭', title: 'Character Variety', description: 'Choose from a wide range of animated characters, each with unique sounds' },
   { icon: '🔄', title: 'Creative Freedom', description: 'Unlimited possibilities for mixing and matching sounds' },
   { icon: '💫', title: 'Visual Effects', description: 'Stunning animations and effects that react to your music' }
-] : [
-  { icon: '🎵', title: '丰富音乐创作', description: '使用多样化音效元素创作独特音乐作品' },
-  { icon: '🎭', title: '角色多样性', description: '从众多动画角色中选择，每个都有独特音效' },
-  { icon: '🔄', title: '创作自由', description: '无限可能的声音混合搭配' },
-  { icon: '💫', title: '视觉特效', description: '随音乐响应的精美动画和特效' }
-]);
+];
 
-const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale === 'en' ? [
+const defaultSteps = translation.ui?.game?.howToPlay?.defaults || [
   'Choose your favorite characters from the selection',
   'Drag and drop them onto the stage to start creating',
   'Experiment with different combinations to find your perfect mix',
   'Save and share your musical masterpiece with friends'
-] : [
-  '从角色库中选择你喜欢的角色',
-  '拖拽角色到舞台上开始创作', 
-  '尝试不同组合找到完美搭配',
-  '保存并与朋友分享你的音乐杰作'
-]);
+];
 ---
 
 <BaseLayout
@@ -332,10 +322,10 @@ const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
             <span class="text-purple-600">✨</span>
-            {gameTexts.sections?.features || translation.ui?.sections?.features || translation.ui?.game?.sections?.features || (currentLocale === 'en' ? 'Game Features' : '游戏特色')}
+            {gameTexts.sections?.features || translation.ui?.sections?.features || translation.ui?.game?.sections?.features || 'Game Features'}
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            {gameTexts.features?.defaultDescription || translation.ui?.game?.features?.defaultDescription || (currentLocale === 'en' ? 'Discover what makes this game special' : '探索这款游戏的独特魅力')}
+            {gameTexts.features?.defaultDescription || translation.ui?.game?.features?.defaultDescription || 'Discover what makes this game special'}
           </p>
         </div>
 
@@ -361,10 +351,10 @@ const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
             <span class="text-purple-600">🎮</span>
-            {gameTexts.sections?.howToPlay || translation.ui?.game?.sections?.howToPlay || (currentLocale === 'en' ? 'How to Play' : '游戏玩法')}
+            {gameTexts.sections?.howToPlay || translation.ui?.game?.sections?.howToPlay || 'How to Play'}
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            {gameTexts.howToPlay?.defaultTitle || translation.ui?.game?.howToPlay?.defaultTitle || (currentLocale === 'en' ? 'Master the art of music creation' : '掌握音乐创作的艺术')}
+            {gameTexts.howToPlay?.defaultTitle || translation.ui?.game?.howToPlay?.defaultTitle || 'Master the art of music creation'}
           </p>
         </div>
 
@@ -392,10 +382,10 @@ const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">📸</span>
-              {gameTexts.sections?.screenshots || translation.ui?.game?.sections?.screenshots || (currentLocale === 'en' ? 'Game Screenshots' : '游戏截图')}
+              {gameTexts.sections?.screenshots || translation.ui?.game?.sections?.screenshots || 'Game Screenshots'}
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              {gameTexts.media?.screenshotsTitle || translation.ui?.game?.media?.screenshotsTitle || (currentLocale === 'en' ? 'Take a look at the gameplay experience' : '看看游戏体验')}
+              {gameTexts.media?.screenshotsTitle || translation.ui?.game?.media?.screenshotsTitle || 'Take a look at the gameplay experience'}
             </p>
           </div>
 
@@ -431,10 +421,10 @@ const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">🎵</span>
-              {gameTexts.media?.musicPreviewTitle || translation.ui?.game?.media?.musicPreviewTitle || (currentLocale === 'en' ? 'Game Music Preview' : '游戏音乐预览')}
+              {gameTexts.media?.musicPreviewTitle || translation.ui?.game?.media?.musicPreviewTitle || 'Game Music Preview'}
             </h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              {gameTexts.media?.musicPreviewDescription || translation.ui?.game?.media?.musicPreviewDescription || (currentLocale === 'en' ? 'Experience the immersive soundtrack' : '体验沉浸式配乐')}
+              {gameTexts.media?.musicPreviewDescription || translation.ui?.game?.media?.musicPreviewDescription || 'Experience the immersive soundtrack'}
             </p>
           </div>
 
@@ -484,10 +474,10 @@ const defaultSteps = translation.ui?.game?.howToPlay?.defaults || (currentLocale
           <div class="text-center mb-12">
             <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
               <span class="text-purple-600">🎯</span>
-              {gameTexts.sections?.relatedGames || translation.ui?.game?.sections?.relatedGames || (currentLocale === 'en' ? 'More Games Like This' : '更多相似游戏')}
+              {gameTexts.sections?.relatedGames || translation.ui?.game?.sections?.relatedGames || 'More Games Like This'}
             </h2>
             <p class="text-xl text-gray-600">
-              {gameTexts.navigation?.continueJourney || translation.ui?.game?.navigation?.continueJourney || (currentLocale === 'en' ? 'Continue your musical journey' : '继续你的音乐之旅')}
+              {gameTexts.navigation?.continueJourney || translation.ui?.game?.navigation?.continueJourney || 'Continue your musical journey'}
             </p>
           </div>
 
