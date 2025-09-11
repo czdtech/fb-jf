@@ -1,4 +1,7 @@
 ---
+// 简化版 AudioPlayer - 保留完全相同的外部接口和DOM结构
+// v2.0 - 移除AudioPlayerManager依赖，内部实现简化
+
 import { Card, CardContent } from "@/components/ui/card"
 import AudioPlayerSkeleton from '../AudioPlayerSkeleton.astro';
 import AudioPlayerControls from './AudioPlayerControls.astro';
@@ -173,17 +176,197 @@ const uniqueId = `audio-player-${Math.random().toString(36).slice(2, 11)}`;
 </style>
 
 <script>
-  import { AudioPlayerManager } from './AudioPlayerManager';
+  // 简化的内联音频播放器实现 - 不依赖 AudioPlayerManager
+  class SimpleAudioPlayer {
+    constructor(audioId: string) {
+      const card = document.querySelector(`[data-audio-id="${audioId}"]`);
+      if (!card) return;
 
-  // Initialize audio player when DOM is ready
+      const audio = document.getElementById(audioId) as HTMLAudioElement;
+      const button = card.querySelector('.audio-play-btn') as HTMLElement;
+      const progressBar = card.querySelector('.audio-progress-bar') as HTMLElement;
+      const currentTimeSpan = card.querySelector('.audio-current-time') as HTMLElement;
+      const durationSpan = card.querySelector('.audio-duration') as HTMLElement;
+      const errorMessage = card.querySelector('.audio-error-message') as HTMLElement;
+      const errorDetails = card.querySelector('.audio-error-details') as HTMLElement;
+      const errorText = card.querySelector('.audio-error-text') as HTMLElement;
+      const retryBtn = card.querySelector('.audio-retry-btn') as HTMLElement;
+      const statusElement = card.querySelector(`#audio-status-${audioId}`) as HTMLElement;
+      const fallbackProgressBar = card.querySelector('.fallback-progress-bar') as HTMLElement;
+
+      if (!audio || !button) return;
+
+      // Format time helper
+      const formatTime = (seconds: number) => {
+        const mins = Math.floor(seconds / 60);
+        const secs = Math.floor(seconds % 60);
+        return `${mins}:${secs.toString().padStart(2, '0')}`;
+      };
+
+      // Update duration when metadata loads
+      audio.addEventListener('loadedmetadata', () => {
+        if (durationSpan) {
+          durationSpan.textContent = formatTime(audio.duration);
+        }
+      });
+
+      audio.addEventListener('loadstart', () => {
+        button.classList.add('loading');
+      });
+
+      audio.addEventListener('canplaythrough', () => {
+        button.classList.remove('loading');
+        this.clearErrorState(card, errorMessage, errorDetails);
+        if (durationSpan && audio.duration) {
+          durationSpan.textContent = formatTime(audio.duration);
+        }
+      });
+
+      // Update progress
+      audio.addEventListener('timeupdate', () => {
+        const percent = (audio.currentTime / audio.duration) * 100;
+        if (progressBar) {
+          progressBar.style.width = `${percent}%`;
+        }
+        if (fallbackProgressBar) {
+          fallbackProgressBar.style.width = `${percent}%`;
+        }
+        if (currentTimeSpan) {
+          currentTimeSpan.textContent = formatTime(audio.currentTime);
+        }
+      });
+
+      // Handle play/pause
+      button.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+
+        if (audio.paused) {
+          // Stop other players
+          document.querySelectorAll('audio').forEach(a => {
+            if (a !== audio && !a.paused) {
+              a.pause();
+              const otherCard = a.closest('.audio-player-card');
+              const otherButton = otherCard?.querySelector('.audio-play-btn');
+              otherCard?.classList.remove('playing');
+              otherButton?.classList.remove('playing');
+            }
+          });
+
+          audio.play().catch(err => {
+            console.error('Audio play failed:', err);
+            this.showErrorState(card, errorMessage, errorDetails, errorText, err.message);
+          });
+
+          card.classList.add('playing');
+          button.classList.add('playing');
+          button.setAttribute('aria-label', 'Pause');
+          if (statusElement) {
+            statusElement.textContent = 'Playing';
+          }
+        } else {
+          audio.pause();
+          card.classList.remove('playing');
+          button.classList.remove('playing');
+          button.setAttribute('aria-label', 'Play');
+          if (statusElement) {
+            statusElement.textContent = 'Paused';
+          }
+        }
+      });
+
+      // Handle ended
+      audio.addEventListener('ended', () => {
+        card.classList.remove('playing');
+        button.classList.remove('playing');
+        button.setAttribute('aria-label', 'Play');
+        if (progressBar) {
+          progressBar.style.width = '0%';
+        }
+        if (fallbackProgressBar) {
+          fallbackProgressBar.style.width = '0%';
+        }
+        if (currentTimeSpan) {
+          currentTimeSpan.textContent = '0:00';
+        }
+        if (statusElement) {
+          statusElement.textContent = 'Ended';
+        }
+      });
+
+      // Handle errors
+      audio.addEventListener('error', (e) => {
+        const audioError = e.target as HTMLAudioElement;
+        const errorMsg = audioError?.error
+          ? `MediaError code: ${audioError.error.code}`
+          : 'Audio loading failed';
+
+        button.classList.remove('loading');
+        this.showErrorState(card, errorMessage, errorDetails, errorText, errorMsg);
+      });
+
+      // Retry button
+      if (retryBtn) {
+        retryBtn.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          this.clearErrorState(card, errorMessage, errorDetails);
+          audio.load();
+          audio.play().catch(err => {
+            this.showErrorState(card, errorMessage, errorDetails, errorText, err.message);
+          });
+        });
+      }
+    }
+
+    private clearErrorState(card: Element, errorMessage: Element | null, errorDetails: Element | null) {
+      card.classList.remove('error');
+      if (errorMessage) {
+        errorMessage.classList.add('hidden');
+      }
+      if (errorDetails) {
+        errorDetails.classList.add('hidden');
+      }
+    }
+
+    private showErrorState(
+      card: Element,
+      errorMessage: Element | null,
+      errorDetails: Element | null,
+      errorText: Element | null,
+      message: string
+    ) {
+      card.classList.add('error');
+      card.classList.remove('playing');
+      if (errorMessage) {
+        errorMessage.classList.remove('hidden');
+      }
+      if (errorDetails) {
+        errorDetails.classList.remove('hidden');
+      }
+      if (errorText) {
+        errorText.textContent = message;
+      }
+    }
+  }
+
+  // Initialize audio players when DOM is ready
   document.addEventListener('DOMContentLoaded', () => {
-    const audioManager = AudioPlayerManager.getInstance();
-    audioManager.initialize();
+    const audioCards = document.querySelectorAll('.audio-player-card[data-audio-id]');
+    audioCards.forEach((card) => {
+      const audioId = (card as HTMLElement).dataset.audioId;
+      if (audioId) {
+        new SimpleAudioPlayer(audioId);
+      }
+    });
   });
 
   // Clean up on page unload
   window.addEventListener('beforeunload', () => {
-    const audioManager = AudioPlayerManager.getInstance();
-    audioManager.stopAll();
+    document.querySelectorAll('audio').forEach(audio => {
+      if (!audio.paused) {
+        audio.pause();
+      }
+    });
   });
 </script>
