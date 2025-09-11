@@ -1,39 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm run dev:*)",
-      "mcp__playwright__browser_navigate",
-      "Bash(npm run build:*)",
-      "Bash(rm:*)",
-      "Bash(tree:*)",
-      "Bash(find:*)",
-      "mcp__playwright__browser_wait_for",
-      "Bash(curl:*)",
-      "mcp__playwright__browser_resize",
-      "Bash(grep:*)",
-      "Bash(python3:*)",
-      "Bash(node:*)",
-      "Bash(pkill:*)",
-      "Bash(timeout:*)",
-      "Bash(kill:*)",
-      "Bash(touch:*)",
-      "Bash(npm install)",
-      "Bash(for:*)",
-      "Bash(do if ! grep -q \"^iframe:\" \"$file\")",
-      "Bash(cp:*)",
-      "Bash(mv:*)",
+      "mcp__sequential-thinking__sequentialthinking",
       "mcp__context7__resolve-library-id",
-      "mcp__context7__get-library-docs",
-      "Bash(npm install:*)",
-      "Bash(npm run content:validate:*)",
-      "Bash(npm run preview:*)",
-      "Bash(tsx scripts/test-slug-fix.ts:*)",
-      "Bash(npx tsx:*)",
-      "Bash(do sed -i 's/import { getLocalizedGamesList } from/import { getLocalizedGamesList, extractBaseSlug } from/g' \"$file\")",
-      "Bash(done)",
-      "Bash(do sed -i 's/const popularGames = localizedGames\\.filter((game: any) =>/const popularGames = localizedGames.filter((game: any) => {/' \"$file\")",
-      "Bash(sed:*)"
+      "mcp__context7__get-library-docs"
     ],
-    "deny": []
+    "deny": [],
+    "ask": []
   }
 }

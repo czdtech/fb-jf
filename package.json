@@ -13,7 +13,10 @@
     "content:sync": "npm run content:types && npm run content:validate",
     "i18n:validate": "node scripts/validate-translations.js",
     "i18n:generate": "node scripts/validate-translations.js --generate",
-    "i18n:check": "npm run i18n:validate"
+    "i18n:check": "npm run i18n:validate",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier -w ."
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
