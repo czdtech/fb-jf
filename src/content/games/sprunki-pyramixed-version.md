@@ -6,16 +6,16 @@ description: >-
   balances ease of use with depth, allowing everyone to enjoy the fun of making
   music.
 image: /sprunki-pyramixed-version.png
-iframe: https://turbowarp.org/1133167510/embed
+iframe: 'https://turbowarp.org/1133167510/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Pyramixed Version - Play Sprunki Pyramixed Version Online
   description: >-
     Sprunki Pyramixed is a fantastic music creation platform that cleverly
     balances ease of use with depth, allowing everyone to enjoy the fun of
     making music.
-  canonical: https://www.playfiddlebops.com/sprunki-pyramixed-version/
-  ogImage: https://www.playfiddlebops.com/sprunki-pyramixed-version.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
 seo:
   title: Sprunki Pyramixed - Play Sprunki Pyramixed Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     balances ease of use with depth, allowing everyone to enjoy the fun of
     making music.
   keywords: Sprunki Pyramixed
-  canonical: https://www.playfiddlebops.com/sprunki-pyramixed-version/
-  ogImage: https://www.playfiddlebops.com/sprunki-pyramixed-version.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
   schema:
     name: Sprunki Pyramixed - Play Sprunki Pyramixed Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-pyramixed-version/
+    url: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
 rating:
   score: 4
   maxScore: 5
@@ -39,6 +39,89 @@ breadcrumb:
   current: Sprunki Pyramixed
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Pyramixed Version
+    description: >-
+      Sprunki Pyramixed is a fantastic music creation platform that cleverly
+      balances ease of use with depth, allowing everyone to enjoy the fun of
+      making music.
+    meta: *ref_0
+  zh:
+    title: Sprunki Pyramixed Version
+    description: Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。
+    meta:
+      title: Sprunki Pyramixed Version - 在线玩 Sprunki Pyramixed Version
+      description: Sprunki Pyramixed 是一个出色的音乐创作平台，巧妙地平衡了易用性和深度，让每个人都能享受制作音乐的乐趣。
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
+  es:
+    title: Sprunki Pyramixed Version
+    description: >-
+      Sprunki Pyramixed es una plataforma fantástica de creación musical que
+      equilibra inteligentemente la facilidad de uso con la profundidad,
+      permitiendo que todos disfruten de la diversión de hacer música.
+    meta:
+      title: Sprunki Pyramixed Version - Juega Sprunki Pyramixed Version Online
+      description: >-
+        Sprunki Pyramixed es una plataforma fantástica de creación musical que
+        equilibra inteligentemente la facilidad de uso con la profundidad,
+        permitiendo que todos disfruten de la diversión de hacer música.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
+  fr:
+    title: Sprunki Pyramixed Version
+    description: >-
+      Sprunki Pyramixed est une fantastique plateforme de création musicale qui
+      équilibre habilement la facilité d'utilisation avec la profondeur,
+      permettant à tout le monde de profiter du plaisir de faire de la musique.
+    meta:
+      title: Sprunki Pyramixed Version - Jouez à Sprunki Pyramixed Version en Ligne
+      description: >-
+        Sprunki Pyramixed est une fantastique plateforme de création musicale
+        qui équilibre habilement la facilité d'utilisation avec la profondeur,
+        permettant à tout le monde de profiter du plaisir de faire de la
+        musique.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
+  de:
+    title: Sprunki Pyramixed Version
+    description: >-
+      Sprunki Pyramixed ist eine fantastische Musikerstellungsplattform, die
+      geschickt Benutzerfreundlichkeit mit Tiefe ausbalanciert und jedem
+      ermöglicht, den Spaß am Musikmachen zu genießen.
+    meta:
+      title: Sprunki Pyramixed Version - Sprunki Pyramixed Version Online spielen
+      description: >-
+        Sprunki Pyramixed ist eine fantastische Musikerstellungsplattform, die
+        geschickt Benutzerfreundlichkeit mit Tiefe ausbalanciert und jedem
+        ermöglicht, den Spaß am Musikmachen zu genießen.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
+  ja:
+    title: Sprunki Pyramixed Version
+    description: >-
+      Sprunki Pyramixedは使いやすさと深さを巧みにバランスさせた素晴らしい音楽制作プラットフォームで、
+      誰もが音楽制作の楽しさを味わうことができます。
+    meta:
+      title: Sprunki Pyramixed Version - Sprunki Pyramixed Version をオンラインでプレイ
+      description: >-
+        Sprunki Pyramixedは使いやすさと深さを巧みにバランスさせた素晴らしい音楽制作プラットフォームで、
+        誰もが音楽制作の楽しさを味わうことができます。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-pyramixed-version/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
+  ko:
+    title: 스프런키 피라믹스 버전
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 피라믹스 버전 - 스프런키 피라믹스 버전 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed-version/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-version.png'
 ---
 
 ## So, What's This Sprunki Pyramixed Thing All About?

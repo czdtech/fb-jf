@@ -5,16 +5,16 @@ description: >-
   The Sprunki Red Sun Mod plunges the familiar Sprunki universe into a dramatic,
   fiery realm dominated by intense red hues and powerful, rhythmic beats.
 image: /sprunki-red-sun.png
-iframe: https://turbowarp.org/1124916265/embed
+iframe: 'https://turbowarp.org/1124916265/embed'
 category: popular
-meta:
+meta: &ref_0
   title: Sprunki Red Sun - Play Sprunki Red Sun Online
   description: >-
     The Sprunki Red Sun Mod plunges the familiar Sprunki universe into a
     dramatic, fiery realm dominated by intense red hues and powerful, rhythmic
     beats.
-  canonical: https://www.playfiddlebops.com/sprunki-red-sun/
-  ogImage: https://www.playfiddlebops.com/sprunki-red-sun.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
 seo:
   title: Sprunki Red Sun - Play Sprunki Red Sun Online
   description: >-
@@ -22,12 +22,12 @@ seo:
     dramatic, fiery realm dominated by intense red hues and powerful, rhythmic
     beats.
   keywords: Sprunki Red Sun
-  canonical: https://www.playfiddlebops.com/sprunki-red-sun/
-  ogImage: https://www.playfiddlebops.com/sprunki-red-sun.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
   schema:
     name: Sprunki Red Sun - Play Sprunki Red Sun Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-red-sun/
+    url: 'https://www.playfiddlebops.com/sprunki-red-sun/'
 rating:
   score: 4.4
   maxScore: 5
@@ -38,6 +38,88 @@ breadcrumb:
   current: Sprunki Red Sun
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Red Sun
+    description: >-
+      The Sprunki Red Sun Mod plunges the familiar Sprunki universe into a
+      dramatic, fiery realm dominated by intense red hues and powerful, rhythmic
+      beats.
+    meta: *ref_0
+  zh:
+    title: Sprunki 红太阳
+    description: Sprunki 红太阳模组将熟悉的 Sprunki 宇宙带入了一个戏剧性的火焰世界， 主色调为强烈的红色，充满强有力的节拍。
+    meta:
+      title: Sprunki 红太阳 - 在线玩 Sprunki 红太阳
+      description: Sprunki 红太阳模组将熟悉的 Sprunki 宇宙带入了一个戏剧性的火焰世界， 主色调为强烈的红色，充满强有力的节拍。
+      canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
+  es:
+    title: Sprunki Red Sun
+    description: >-
+      El Sprunki Red Sun Mod sumerge el universo familiar de Sprunki en un reino
+      dramático y ardiente dominado por intensos tonos rojos y ritmos poderosos
+      y rítmicos.
+    meta:
+      title: Sprunki Red Sun - Juega Sprunki Red Sun Online
+      description: >-
+        El Sprunki Red Sun Mod sumerge el universo familiar de Sprunki en un
+        reino dramático y ardiente dominado por intensos tonos rojos y ritmos
+        poderosos y rítmicos.
+      canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
+  fr:
+    title: Sprunki Red Sun
+    description: >-
+      Le Sprunki Red Sun Mod plonge l'univers familier de Sprunki dans un
+      royaume dramatique et ardent dominé par des teintes rouges intenses et des
+      rythmes puissants et rythmés.
+    meta:
+      title: Sprunki Red Sun - Jouez à Sprunki Red Sun en Ligne
+      description: >-
+        Le Sprunki Red Sun Mod plonge l'univers familier de Sprunki dans un
+        royaume dramatique et ardent dominé par des teintes rouges intenses et
+        des rythmes puissants et rythmés.
+      canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
+  de:
+    title: Sprunki Red Sun
+    description: >-
+      Der Sprunki Red Sun Mod stürzt das vertraute Sprunki-Universum in ein
+      dramatisches, feuriges Reich, das von intensiven roten Farbtönen und
+      kraftvollen, rhythmischen Beats dominiert wird.
+    meta:
+      title: Sprunki Red Sun - Spiel Sprunki Red Sun Online
+      description: >-
+        Der Sprunki Red Sun Mod stürzt das vertraute Sprunki-Universum in ein
+        dramatisches, feuriges Reich, das von intensiven roten Farbtönen und
+        kraftvollen, rhythmischen Beats dominiert wird.
+      canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
+  ja:
+    title: Sprunki Red Sun
+    description: >-
+      Sprunki Red Sun Modは、馴染みのあるSprunkiユニバースを劇的で燃えるような領域に
+      突っ込み、激しい赤い色合いと力強いリズミカルなビートが支配します。
+    meta:
+      title: Sprunki Red Sun - Sprunki Red Sun をオンラインでプレイ
+      description: >-
+        Sprunki Red Sun Modは、馴染みのあるSprunkiユニバースを劇的で燃えるような領域に
+        突っ込み、激しい赤い色合いと力強いリズミカルなビートが支配します。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-red-sun/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
+  ko:
+    title: 스프런키 레드 선
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 레드 선 - 스프런키 레드 선 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-red-sun/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-red-sun.png'
 ---
 
 ## What is Sprunki Red Sun?

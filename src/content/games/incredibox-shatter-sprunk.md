@@ -6,29 +6,29 @@ description: >-
   version, all characters are presented in a striking yellow color, and each
   character has a unique and unrepeatable sound effect.
 image: /incredibox-shatter-sprunk.png
-iframe: https://turbowarp.org/1144858827/embed
+iframe: 'https://turbowarp.org/1144858827/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online
   description: >-
     Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In
     this version, all characters are presented in a striking yellow color, and
     each character has a unique and unrepeatable sound effect.
-  canonical: https://www.playfiddlebops.com/incredibox-shatter-sprunk/
-  ogImage: https://www.playfiddlebops.com/incredibox-shatter-sprunk.png
+  canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+  ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
 seo:
   title: Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online
   description: >-
     Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In
     this version, all characters are presented in a striking yellow color, and
     each character has a unique and unrepeatable sound effect.
-  keywords: Incredibox Shatter Sprunk, Incredibox Shatter Sprunk online
-  canonical: https://www.playfiddlebops.com/incredibox-shatter-sprunk/
-  ogImage: https://www.playfiddlebops.com/incredibox-shatter-sprunk.png
+  keywords: 'Incredibox Shatter Sprunk, Incredibox Shatter Sprunk online'
+  canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+  ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
   schema:
     name: Incredibox Shatter Sprunk - Play Incredibox Shatter Sprunk Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/incredibox-shatter-sprunk/
+    url: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
 rating:
   score: 4.5
   maxScore: 5
@@ -39,6 +39,98 @@ breadcrumb:
   current: Incredibox Shatter Sprunk
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Incredibox Shatter Sprunk
+    description: >-
+      Incredibox Shatter Sprunk is a fan-created Incredibox mod music game. In
+      this version, all characters are presented in a striking yellow color, and
+      each character has a unique and unrepeatable sound effect.
+    meta: *ref_0
+  zh:
+    title: Incredibox Shatter Sprunk
+    description: >-
+      Incredibox Shatter Sprunk 是一款由粉丝创作的 Incredibox
+      模组音乐游戏。在这个版本中，所有角色都呈现出引人注目的黄色，每个角色都有独特且不可重复的音效。
+    meta:
+      title: Incredibox Shatter Sprunk - 在线玩 Incredibox Shatter Sprunk
+      description: >-
+        Incredibox Shatter Sprunk 是一款由粉丝创作的 Incredibox
+        模组音乐游戏。在这个版本中，所有角色都呈现出引人注目的黄色，每个角色都有独特且不可重复的音效。
+      canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
+  es:
+    title: Incredibox Shatter Sprunk
+    description: >-
+      Incredibox Shatter Sprunk es un juego de música mod de Incredibox creado
+      por fanáticos. En esta versión, todos los personajes se presentan en un
+      llamativo color amarillo, y cada personaje tiene un efecto de sonido único
+      e irrepetible.
+    meta:
+      title: Incredibox Shatter Sprunk - Jugar Incredibox Shatter Sprunk Online
+      description: >-
+        Incredibox Shatter Sprunk es un juego de música mod de Incredibox creado
+        por fanáticos. En esta versión, todos los personajes se presentan en un
+        llamativo color amarillo, y cada personaje tiene un efecto de sonido
+        único e irrepetible.
+      canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
+  fr:
+    title: Incredibox Shatter Sprunk
+    description: >-
+      Incredibox Shatter Sprunk est un jeu de musique mod Incredibox créé par
+      les fans. Dans cette version, tous les personnages sont présentés dans une
+      couleur jaune frappante, et chaque personnage a un effet sonore unique et
+      irremplaçable.
+    meta:
+      title: Incredibox Shatter Sprunk - Jouer à Incredibox Shatter Sprunk en Ligne
+      description: >-
+        Incredibox Shatter Sprunk est un jeu de musique mod Incredibox créé par
+        les fans. Dans cette version, tous les personnages sont présentés dans
+        une couleur jaune frappante, et chaque personnage a un effet sonore
+        unique et irremplaçable.
+      canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
+  de:
+    title: Incredibox Shatter Sprunk
+    description: >
+      Incredibox Shatter Sprunk ist ein von Fans erstelltes Incredibox
+      Mod-Musikspiel. In dieser Version werden alle Charaktere in einer
+      auffälligen gelben Farbe präsentiert, und jeder Charakter hat einen
+      einzigartigen und unwiederholbaren Klangeffekt.
+    meta:
+      title: Incredibox Shatter Sprunk - Spiele Incredibox Shatter Sprunk Online
+      description: >
+        Incredibox Shatter Sprunk ist ein von Fans erstelltes Incredibox
+        Mod-Musikspiel. In dieser Version werden alle Charaktere in einer
+        auffälligen gelben Farbe präsentiert, und jeder Charakter hat einen
+        einzigartigen und unwiederholbaren Klangeffekt.
+      canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
+  ja:
+    title: Incredibox Shatter Sprunk
+    description: >-
+      Incredibox Shatter Sprunkは、ファンが制作したIncrebiboxのMod音楽ゲームです。
+      このバージョンでは、すべてのキャラクターが印象的な黄色で表現され、 各キャラクターが独特で繰り返し不可能なサウンドエフェクトを持っています。
+    meta:
+      title: Incredibox Shatter Sprunk - Incredibox Shatter Sprunk をオンラインでプレイ
+      description: >-
+        Incredibox Shatter Sprunkは、ファンが制作したIncrebiboxのMod音楽ゲームです。
+        このバージョンでは、すべてのキャラクターが印象的な黄色で表現され、 各キャラクターが独特で繰り返し不可能なサウンドエフェクトを持っています。
+      canonical: 'https://www.playfiddlebops.com/ja/incredibox-shatter-sprunk/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
+  ko:
+    title: 인크레디박스 샤터 스프렁크
+    description: >-
+      인크레디박스 샤터 스프렁크는 팬이 제작한 인크레디박스 모드 음악 게임입니다. 이 버전에서는  모든 캐릭터가 인상적인 노란색으로
+      표현되며, 각 캐릭터마다 고유하고 반복되지 않는 사운드  효과를 가지고 있습니다.
+    meta:
+      title: 인크레디박스 샤터 스프렁크 - 인크레디박스 샤터 스프렁크 온라인 플레이
+      description: >-
+        인크레디박스 샤터 스프렁크는 팬이 제작한 인크레디박스 모드 음악 게임입니다. 이 버전에서는  모든 캐릭터가 인상적인 노란색으로
+        표현되며, 각 캐릭터마다 고유하고 반복되지 않는 사운드  효과를 가지고 있습니다.
+      canonical: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-shatter-sprunk.png'
 ---
 
 ## What's So Fun About Incredibox Shatter Sprunk?

@@ -6,29 +6,29 @@ description: >-
   game, offering a creative twist with custom mods, new phases, and unique
   gameplay elements.
 image: /sprunkle-bops.png
-iframe: https://turbowarp.org/1122091658/embed
+iframe: 'https://turbowarp.org/1122091658/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunkle Bops - Play Sprunkle Bops Online
   description: >-
     Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing
     game, offering a creative twist with custom mods, new phases, and unique
     gameplay elements.
-  canonical: https://www.playfiddlebops.com/sprunkle-bops/
-  ogImage: https://www.playfiddlebops.com/sprunkle-bops.png
+  canonical: 'https://www.playfiddlebops.com/sprunkle-bops/'
+  ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
 seo:
   title: Sprunkle Bops - Play Sprunkle Bops Online
   description: >-
     Sprunkle Bops is a fan-made expansion of the popular Incredibox music-mixing
     game, offering a creative twist with custom mods, new phases, and unique
     gameplay elements.
-  keywords: Sprunkle Bops, Sprunkle Bops online
-  canonical: https://www.playfiddlebops.com/fiddlebops-sprunki/
-  ogImage: https://www.playfiddlebops.com/sprunklebops.png
+  keywords: 'Sprunkle Bops, Sprunkle Bops online'
+  canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/sprunklebops.png'
   schema:
     name: Sprunkle Bops - Play Sprunkle Bops Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/fiddlebops-sprunki/
+    url: 'https://www.playfiddlebops.com/fiddlebops-sprunki/'
 rating:
   score: 4.3
   maxScore: 5
@@ -39,6 +39,84 @@ breadcrumb:
   current: Sprunkle Bops
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunkle Bops
+    description: >-
+      Sprunkle Bops is a fan-made expansion of the popular Incredibox
+      music-mixing game, offering a creative twist with custom mods, new phases,
+      and unique gameplay elements.
+    meta: *ref_0
+  zh:
+    title: Sprunkle Bops
+    description: Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝制作扩展， 通过自定义模组、新阶段和独特的游戏元素提供创意新体验。
+    meta:
+      title: Sprunkle Bops - 在线玩 Sprunkle Bops
+      description: Sprunkle Bops 是热门 Incredibox 音乐混音游戏的粉丝制作扩展， 通过自定义模组、新阶段和独特的游戏元素提供创意新体验。
+      canonical: 'https://www.playfiddlebops.com/sprunkle-bops/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
+  es:
+    title: Sprunkle Bops
+    description: >-
+      Sprunkle Bops es una expansión hecha por fanáticos del popular juego de
+      mezcla musical Incredibox, ofreciendo un giro creativo con mods
+      personalizados, nuevas fases y elementos de jugabilidad únicos.
+    meta:
+      title: Sprunkle Bops - Juega Sprunkle Bops Online
+      description: >-
+        Sprunkle Bops es una expansión hecha por fanáticos del popular juego de
+        mezcla musical Incredibox, ofreciendo un giro creativo con mods
+        personalizados, nuevas fases y elementos de jugabilidad únicos.
+      canonical: 'https://www.playfiddlebops.com/sprunkle-bops/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
+  fr:
+    title: Sprunkle Bops
+    description: >-
+      Une extension non officielle du jeu de mixage musical Incredibox, avec 
+      mods personnalisés, nouvelles phases et mécaniques originales.
+    meta:
+      title: Sprunkle Bops - Jouez en ligne
+      description: >-
+        Un mod créatif pour mixer beats, voix et mélodies tout en explorant  des
+        thèmes variés.
+      canonical: 'https://www.playfiddlebops.com/sprunkle-bops/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
+  de:
+    title: Sprunkle Bops
+    description: >-
+      Sprunkle Bops ist eine von Fans erstellte Erweiterung des beliebten
+      Incredibox-Musikmix-Spiels, die einen kreativen Twist mit
+      benutzerdefinierten Mods, neuen Phasen und einzigartigen
+      Gameplay-Elementen bietet.
+    meta:
+      title: Sprunkle Bops - Spiel Sprunkle Bops Online
+      description: >-
+        Sprunkle Bops ist eine von Fans erstellte Erweiterung des beliebten
+        Incredibox-Musikmix-Spiels, die einen kreativen Twist mit
+        benutzerdefinierten Mods, neuen Phasen und einzigartigen
+        Gameplay-Elementen bietet.
+      canonical: 'https://www.playfiddlebops.com/sprunkle-bops/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
+  ja:
+    title: Sprunkle Bops
+    description: >-
+      Sprunkle Bopsは、人気のIncrediblebox音楽ミキシングゲームのファン制作拡張で、
+      カスタムMod、新しいフェーズ、ユニークなゲームプレイ要素で創造的なひねりを提供します。
+    meta:
+      title: Sprunkle Bops - Sprunkle Bops をオンラインでプレイ
+      description: >-
+        Sprunkle Bopsは、人気のIncrediblebox音楽ミキシングゲームのファン制作拡張で、
+        カスタムMod、新しいフェーズ、ユニークなゲームプレイ要素で創造的なひねりを提供します。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunkle-bops/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
+  ko:
+    title: 스프런클 밥스
+    description: 독특한 스프런클 캐릭터들의 음악 게임입니다.
+    meta:
+      title: 스프런클 밥스 - 스프런클 밥스 온라인 플레이
+      description: 독특한 스프런클 캐릭터들의 음악 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunkle-bops/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkle-bops.png'
 ---
 
 ## Introducing to Sprunkle Bops

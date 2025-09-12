@@ -1,0 +1,435 @@
+import { z, defineCollection } from "astro:content";
+import { glob } from "astro/loaders";
+
+const gamesCollection = defineCollection({
+  loader: glob({ 
+    pattern: ["*.md", "**/*.md"], 
+    base: "./src/content/games" 
+  }),
+  schema: z
+    .object({
+      id: z.string().optional(), // 多语言版本可能不需要重新定义id
+      title: z.string(),
+      description: z.string(),
+      image: z.string(),
+      iframe: z.string(), // 临时放宽URL验证
+      category: z.string(),
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        canonical: z.string().optional(), // 临时放宽URL验证
+        ogImage: z.string().optional(),
+      }),
+      seo: z
+        .object({
+          title: z.string().optional(),
+          description: z.string().optional(),
+          keywords: z.string().optional(),
+          canonical: z.string().optional(), // 临时放宽URL验证
+          ogImage: z.string().optional(),
+          schema: z
+            .object({
+              name: z.string().optional(),
+              alternateName: z.string().optional(),
+              url: z.string().optional(), // 临时放宽URL验证
+            })
+            .optional(),
+        })
+        .optional(),
+      rating: z
+        .object({
+          score: z.number(),
+          maxScore: z.number(),
+          votes: z.number(),
+          stars: z.number(),
+        })
+        .optional(),
+      breadcrumb: z
+        .object({
+          home: z.string(),
+          current: z.string(),
+        })
+        .optional(),
+      pageType: z.string().optional(),
+      isDemo: z.boolean().optional(),
+    })
+    .passthrough(),
+});
+
+// i18nHome collection 已移除 - 现在使用 i18nUI 进行统一的UI翻译管理
+
+// 静态数据内容集合
+const staticDataCollection = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/staticData" }),
+  schema: z.object({
+    navigation: z.object({
+      main: z.array(z.object({
+        label: z.string(),
+        url: z.string()
+      })),
+      languages: z.array(z.object({
+        code: z.string(),
+        url: z.string(),
+        label: z.string()
+      }))
+    }),
+    homepage: z.object({
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        keywords: z.string(),
+        canonical: z.string().optional(),
+        ogImage: z.string().optional()
+      }),
+      hero: z.object({
+        title: z.string(),
+        description: z.string(),
+        mainGame: z.object({
+          iframe: z.string(),
+          backgroundImage: z.string()
+        }).optional()
+      }),
+      soundSamples: z.array(z.object({
+        title: z.string(),
+        image: z.string(),
+        audio: z.string(),
+        category: z.string()
+      })),
+      videos: z.array(z.object({
+        name: z.string(),
+        description: z.string(),
+        thumbnailUrl: z.string(),
+        uploadDate: z.string(),
+        embedUrl: z.string(),
+        contentUrl: z.string(),
+        publisher: z.string()
+      })).optional()
+    }),
+    seoTemplates: z.object({
+      gamePage: z.object({
+        titleTemplate: z.string(),
+        descriptionTemplate: z.string(),
+        ogImageTemplate: z.string(),
+        canonicalTemplate: z.string(),
+        structuredData: z.object({
+          "@context": z.string(),
+          "@type": z.string(),
+          name: z.string(),
+          alternateName: z.string(),
+          url: z.string(),
+          description: z.string()
+        })
+      })
+    }).optional()
+  })
+});
+
+// UI界面翻译内容集合
+const i18nUICollection = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/i18nUI" }),
+  schema: z.object({
+    // 导航相关翻译
+    navigation: z.object({
+      home: z.string(),
+      games: z.string(),
+      allGames: z.string(),
+      newGames: z.string(),
+      popularGames: z.string(),
+      trendingGames: z.string(),
+      privacy: z.string(),
+      terms: z.string(),
+      language: z.string(),
+    }),
+    // 页面标题和描述
+    meta: z.object({
+      title: z.string(),
+      description: z.string(),
+      keywords: z.string(),
+    }),
+    // 首页hero section
+    hero: z.object({
+      title: z.string(),
+      subtitle: z.string(),
+    }),
+    // 页面section标题
+    sections: z.object({
+      howToPlay: z.string(),
+      newGames: z.string(),
+      popularGames: z.string(),
+      trendingGames: z.string(),
+      about: z.string(),
+      videos: z.string(),
+    }),
+    // 如何游玩部分
+    howToPlay: z
+      .object({
+        description: z.string(),
+        quickStart: z.object({
+          title: z.string(),
+          subtitle: z.string(),
+          steps: z.object({
+            pick: z.object({
+              title: z.string(),
+              description: z.string(),
+            }),
+            drag: z.object({
+              title: z.string(),
+              description: z.string(),
+            }),
+            create: z.object({
+              title: z.string(),
+              description: z.string(),
+            }),
+          }),
+        }),
+        characters: z.object({
+          title: z.string(),
+          beats: z.string(),
+          effects: z.string(),
+          melodies: z.string(),
+          voices: z.string(),
+        }),
+        bonusCharacters: z.object({
+          title: z.string(),
+          wordsWithFriends: z.string(),
+          fredFigglehorn: z.string(),
+          scrubDaddy: z.string(),
+          jummbox: z.string(),
+        }),
+        features: z.object({
+          title: z.string(),
+          bpm: z.string(),
+          jokeMod: z.string(),
+          easyControls: z.string(),
+          animations: z.string(),
+        }),
+        mechanics: z.object({
+          title: z.string(),
+          soundCombination: z.string(),
+          rhythm: z.string(),
+          loop: z.string(),
+          explore: z.string(),
+        }),
+      })
+      .optional(),
+    // 关于部分
+    about: z
+      .object({
+        description: z.string(),
+        gameInfo: z.object({
+          title: z.string(),
+          officialName: z.string(),
+          officialNameValue: z.string(),
+          releaseDate: z.string(),
+          releaseDateValue: z.string(),
+          bpm: z.string(),
+          bpmValue: z.string(),
+          characterCount: z.string(),
+          characterCountValue: z.string(),
+          modType: z.string(),
+          modTypeValue: z.string(),
+          creators: z.string(),
+          creatorsValue: z.string(),
+        }),
+        characterCategories: z.object({
+          title: z.string(),
+          beats: z.object({
+            title: z.string(),
+            thisIsGarrett: z.string(),
+            greenDrumMachine: z.string(),
+            mrMoon: z.string(),
+            snaireCombi: z.string(),
+          }),
+          effects: z.object({
+            title: z.string(),
+            description: z.string(),
+            subtitle: z.string(),
+          }),
+          melodies: z.object({
+            title: z.string(),
+            description: z.string(),
+            subtitle: z.string(),
+          }),
+          voices: z.object({
+            title: z.string(),
+            description: z.string(),
+            subtitle: z.string(),
+          }),
+          bonus: z.object({
+            title: z.string(),
+            description: z.string(),
+            subtitle: z.string(),
+          }),
+        }),
+        features: z.object({
+          title: z.string(),
+          comedy: z.object({
+            title: z.string(),
+            description: z.string(),
+          }),
+          highEnergy: z.object({
+            title: z.string(),
+            description: z.string(),
+          }),
+          animations: z.object({
+            title: z.string(),
+            description: z.string(),
+          }),
+          antiPiracy: z.object({
+            title: z.string(),
+            description: z.string(),
+          }),
+        }),
+        platform: z.object({
+          title: z.string(),
+          categories: z.object({
+            title: z.string(),
+            description: z.string(),
+          }),
+          access: z.object({
+            title: z.string(),
+            mainPlatform: z.string(),
+            mainPlatformValue: z.string(),
+            alsoAvailable: z.string(),
+            alsoAvailableValue: z.string(),
+            price: z.string(),
+            priceValue: z.string(),
+            noDownload: z.string(),
+          }),
+        }),
+        community: z.object({
+          title: z.string(),
+          mods: z.object({
+            title: z.string(),
+            fiddlebopsSprunki: z.string(),
+            fiddlebopsFix: z.string(),
+            sprunksters: z.string(),
+            pyramixed: z.string(),
+            exploreMore: z.string(),
+          }),
+          share: z.object({
+            title: z.string(),
+            joinCommunity: z.string(),
+            youtube: z.string(),
+            youtubeDesc: z.string(),
+            tiktok: z.string(),
+            tiktokDesc: z.string(),
+            twitter: z.string(),
+            twitterDesc: z.string(),
+            screenRecord: z.string(),
+          }),
+        }),
+      })
+      .optional(),
+    // 游戏相关UI
+    games: z.object({
+      playNow: z.string(),
+      loading: z.string(),
+      error: z.string(),
+      retry: z.string(),
+      viewMore: z.string(),
+      noGames: z.string(),
+      category: z.string(),
+      rating: z.string(),
+    }),
+    // 通用UI文本
+    common: z.object({
+      loading: z.string(),
+      error: z.string(),
+      retry: z.string(),
+      back: z.string(),
+      next: z.string(),
+      previous: z.string(),
+      close: z.string(),
+      menu: z.string(),
+    }),
+    // 页脚
+    footer: z.object({
+      privacy: z.string(),
+      terms: z.string(),
+      copyright: z.string(),
+      legal: z.string(),
+      contactUs: z.string(),
+      quickLinks: z.string(),
+      tagline: z.string(),
+      description: z.string(),
+    }),
+    // Sound Samples Section
+    soundSamples: z.object({
+      title: z.string(),
+      description: z.string(),
+    }),
+    // Videos Section
+    videos: z.object({
+      title: z.string(),
+      description: z.string(),
+      demo: z.object({
+        title: z.string(),
+        description: z.string(),
+      }),
+      highlights: z.object({
+        title: z.string(),
+        description: z.string(),
+      }),
+    }),
+    // FAQ Section
+    faq: z.object({
+      title: z.string(),
+      description: z.string(),
+      items: z.array(z.object({
+        question: z.string(),
+        answer: z.string(),
+      })),
+    }),
+    // 错误页面相关翻译
+    error: z.object({
+      "404": z.object({
+        title: z.string(),
+        message: z.string(),
+        backToHome: z.string(),
+        suggestionsTitle: z.string(),
+        suggestionsDescription: z.string(),
+        originalExperience: z.string(),
+        sprunikiExperience: z.string(),
+        incrediboxExperience: z.string(),
+      }),
+    }),
+    // 游戏页面翻译
+    game: z.object({
+      sections: z.object({
+        features: z.string(),
+        howToPlay: z.string(),
+        screenshots: z.string(),
+        about: z.string(),
+        relatedGames: z.string(),
+      }),
+      features: z.object({
+        defaultTitle: z.string(),
+        defaultDescription: z.string(),
+        defaults: z.array(z.object({
+          icon: z.string(),
+          title: z.string(),
+          description: z.string(),
+        })),
+      }),
+      howToPlay: z.object({
+        defaultTitle: z.string(),
+        defaults: z.array(z.string()),
+      }),
+      media: z.object({
+        screenshotsTitle: z.string(),
+        musicPreviewTitle: z.string(),
+        musicPreviewDescription: z.string(),
+      }),
+      navigation: z.object({
+        continueJourney: z.string(),
+      }),
+    }),
+  }),
+});
+
+export const collections = {
+  games: gamesCollection,
+  i18nUI: i18nUICollection,
+  staticData: staticDataCollection,
+};

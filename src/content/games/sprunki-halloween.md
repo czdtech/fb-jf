@@ -6,16 +6,16 @@ description: >-
   the atmosphere of Halloween. Come and join Sprunki Halloween, and use
   thrilling and interesting notes to welcome the arrival of Halloween!
 image: /sprunki-halloween.png
-iframe: https://turbowarp.org/1087683438/embed
+iframe: 'https://turbowarp.org/1087683438/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Halloween - Play Sprunki Halloween Online
   description: >-
     Sprunki Halloween is a Mod that allows you to unleash your musical talents
     in the atmosphere of Halloween. Come and join Sprunki Halloween, and use
     thrilling and interesting notes to welcome the arrival of Halloween!
-  canonical: https://www.playfiddlebops.com/sprunki-halloween/
-  ogImage: https://www.playfiddlebops.com/sprunki-halloween.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
 seo:
   title: Sprunki Halloween - Play Sprunki Halloween Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     in the atmosphere of Halloween. Come and join Sprunki Halloween, and use
     thrilling and interesting notes to welcome the arrival of Halloween!
   keywords: Sprunki Halloween
-  canonical: https://www.playfiddlebops.com/sprunki-halloween/
-  ogImage: https://www.playfiddlebops.com/sprunki-halloween.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
   schema:
     name: Sprunki Halloween - Play Sprunki Halloween Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-halloween/
+    url: 'https://www.playfiddlebops.com/sprunki-halloween/'
 rating:
   score: 4.2
   maxScore: 5
@@ -39,6 +39,100 @@ breadcrumb:
   current: Sprunki Halloween
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Halloween
+    description: >-
+      Sprunki Halloween is a Mod that allows you to unleash your musical talents
+      in the atmosphere of Halloween. Come and join Sprunki Halloween, and use
+      thrilling and interesting notes to welcome the arrival of Halloween!
+    meta: *ref_0
+  zh:
+    title: Sprunki Halloween - 万圣节惊悚音乐
+    description: >-
+      Sprunki Halloween是一个让你在万圣节氛围中释放音乐才华的MOD。快来加入Sprunki
+      Halloween，用惊悚有趣的音符迎接万圣节的到来！
+    meta:
+      title: Sprunki Halloween - 免费在线玩万圣节音乐游戏
+      description: >-
+        Sprunki Halloween是一个让你在万圣节氛围中释放音乐才华的MOD。快来加入Sprunki
+        Halloween，用惊悚有趣的音符迎接万圣节的到来！
+      canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
+  es:
+    title: Sprunki Halloween
+    description: >-
+      Sprunki Halloween es un Mod que te permite liberar tus talentos musicales
+      en la atmósfera de Halloween. ¡Ven y únete a Sprunki Halloween, y usa
+      notas emocionantes e interesantes para dar la bienvenida a la llegada de
+      Halloween!
+    meta:
+      title: Sprunki Halloween - Juega Sprunki Halloween Online
+      description: >-
+        Sprunki Halloween es un Mod que te permite liberar tus talentos
+        musicales en la atmósfera de Halloween. ¡Ven y únete a Sprunki
+        Halloween, y usa notas emocionantes e interesantes para dar la
+        bienvenida a la llegada de Halloween!
+      canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
+  fr:
+    title: Sprunki Halloween
+    description: >-
+      Sprunki Halloween est un Mod qui vous permet de libérer vos talents
+      musicaux dans l'atmosphère d'Halloween. Venez rejoindre Sprunki Halloween
+      et utilisez des notes palpitantes et intéressantes pour accueillir
+      l'arrivée d'Halloween !
+    meta:
+      title: Sprunki Halloween - Jouer à Sprunki Halloween en Ligne
+      description: >-
+        Sprunki Halloween est un Mod qui vous permet de libérer vos talents
+        musicaux dans l'atmosphère d'Halloween. Venez rejoindre Sprunki
+        Halloween et utilisez des notes palpitantes et intéressantes pour
+        accueillir l'arrivée d'Halloween !
+      canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
+  de:
+    title: Sprunki Halloween
+    description: >-
+      Sprunki Halloween ist eine Mod, die es Ihnen ermöglicht, Ihre
+      musikalischen Talente in der Atmosphäre von Halloween zu entfesseln.
+      Kommen Sie und schließen Sie sich Sprunki Halloween an, und verwenden Sie
+      aufregende und interessante Noten, um die Ankunft von Halloween zu
+      begrüßen!
+    meta:
+      title: Sprunki Halloween - Sprunki Halloween Online spielen
+      description: >-
+        Sprunki Halloween ist eine Mod, die es Ihnen ermöglicht, Ihre
+        musikalischen Talente in der Atmosphäre von Halloween zu entfesseln.
+        Kommen Sie und schließen Sie sich Sprunki Halloween an, und verwenden
+        Sie aufregende und interessante Noten, um die Ankunft von Halloween zu
+        begrüßen!
+      canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
+  ja:
+    title: Sprunki Halloween
+    description: >-
+      Sprunki Halloweenは、ハロウィンの雰囲気の中であなたの音楽的才能を解き放つことができるModです。 Sprunki
+      Halloweenに参加して、スリリングで面白い音符でハロウィンの到来を迎えましょう！
+    meta:
+      title: Sprunki Halloween - Sprunki Halloween をオンラインでプレイ
+      description: >-
+        Sprunki Halloweenは、ハロウィンの雰囲気の中であなたの音楽的才能を解き放つことができるModです。 Sprunki
+        Halloweenに参加して、スリリングで面白い音符でハロウィンの到来を迎えましょう！
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-halloween/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
+  ko:
+    title: 스프런키 할로윈
+    description: >
+      스프런키 할로윈은 할로윈 분위기 속에서 음악적 재능을  발휘할 수 있게 해주는 모드입니다. 스프런키 할로윈에 참여하고,  스릴 넘치고
+      흥미로운 음표로 할로윈의 도래를 맞이하세요!
+    meta:
+      title: 스프런키 할로윈 - 스프런키 할로윈 온라인 플레이
+      description: >
+        스프런키 할로윈은 할로윈 분위기 속에서 음악적 재능을  발휘할 수 있게 해주는 모드입니다. 스프런키 할로윈에 참여하고,  스릴
+        넘치고 흥미로운 음표로 할로윈의 도래를 맞이하세요!
+      canonical: 'https://www.playfiddlebops.com/sprunki-halloween/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-halloween.png'
 ---
 
 ## What is Sprunki Halloween?

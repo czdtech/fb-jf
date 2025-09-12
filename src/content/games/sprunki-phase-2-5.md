@@ -7,17 +7,17 @@ description: >-
   unexpected dark humor, giving you a uniquely thrilling experience while you
   compose.
 image: /sprunki-phase-2-5.png
-iframe: https://turbowarp.org/1122769169/embed
+iframe: 'https://turbowarp.org/1122769169/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Phase 2 5 - Play Sprunki Phase 2 5 Online
   description: >-
     Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure
     packed with surprises and twists. It perfectly balances lighthearted fun
     with unexpected dark humor, giving you a uniquely thrilling experience while
     you compose.
-  canonical: https://www.playfiddlebops.com/sprunki-phase-2-5/
-  ogImage: https://www.playfiddlebops.com/sprunki-phase-2-5.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
 seo:
   title: Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online
   description: >-
@@ -26,12 +26,12 @@ seo:
     with unexpected dark humor, giving you a uniquely thrilling experience while
     you compose.
   keywords: Sprunki Phase 2.5
-  canonical: https://www.playfiddlebops.com/sprunki-phase-2-5/
-  ogImage: https://www.playfiddlebops.com/sprunki-phase-2-5.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
   schema:
     name: Sprunki Phase 2.5 - Play Sprunki Phase 2.5 Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-phase-2-5/
+    url: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
 rating:
   score: 4.3
   maxScore: 5
@@ -42,6 +42,95 @@ breadcrumb:
   current: Sprunki Phase 2.5
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Phase 2 5
+    description: >-
+      Sprunki Phase 2.5 (JOKE MOD) isn't just a game; it's a musical adventure
+      packed with surprises and twists. It perfectly balances lighthearted fun
+      with unexpected dark humor, giving you a uniquely thrilling experience
+      while you compose.
+    meta: *ref_0
+  zh:
+    title: Sprunki Phase 2.5 - 搞怪音乐冒险
+    description: >-
+      Sprunki Phase 2.5 (JOKE
+      MOD)不只是游戏，而是充满惊喜和转折的音乐冒险。它完美平衡了轻松有趣和意想不到的黑色幽默，在你创作时给你独一无二的刺激体验。
+    meta:
+      title: Sprunki Phase 2.5 - 免费在线玩搞怪音乐游戏
+      description: >-
+        Sprunki Phase 2.5 (JOKE
+        MOD)不只是游戏，而是充满惊喜和转折的音乐冒险。它完美平衡了轻松有趣和意想不到的黑色幽默，在你创作时给你独一无二的刺激体验。
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
+  es:
+    title: Sprunki Phase 2 5
+    description: >
+      Sprunki Phase 2.5 (JOKE MOD) no es solo un juego; es una aventura musical
+      llena de sorpresas y giros. Equilibra perfectamente la diversión alegre
+      con el humor negro inesperado, brindándote una experiencia únicamente
+      emocionante mientras compones.
+    meta:
+      title: Sprunki Phase 2 5 - Juega Sprunki Phase 2 5 Online
+      description: >
+        Sprunki Phase 2.5 (JOKE MOD) no es solo un juego; es una aventura
+        musical llena de sorpresas y giros. Equilibra perfectamente la diversión
+        alegre con el humor negro inesperado, brindándote una experiencia
+        únicamente emocionante mientras compones.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
+  fr:
+    title: Sprunki Phase 2 5
+    description: >
+      Sprunki Phase 2.5 (JOKE MOD) n'est pas juste un jeu ; c'est une aventure
+      musicale pleine de surprises et de rebondissements. Il équilibre
+      parfaitement le plaisir léger avec un humour noir inattendu, vous donnant
+      une expérience uniquement palpitante pendant que vous composez.
+    meta:
+      title: Sprunki Phase 2 5 - Jouer à Sprunki Phase 2 5 en Ligne
+      description: >
+        Sprunki Phase 2.5 (JOKE MOD) n'est pas juste un jeu ; c'est une aventure
+        musicale pleine de surprises et de rebondissements. Il équilibre
+        parfaitement le plaisir léger avec un humour noir inattendu, vous
+        donnant une expérience uniquement palpitante pendant que vous composez.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
+  de:
+    title: Sprunki Phase 2 5
+    description: >-
+      Sprunki Phase 2.5 (JOKE MOD) ist nicht nur ein Spiel; es ist ein
+      musikalisches Abenteuer voller Überraschungen und Wendungen. Es balanciert
+      perfekt unbeschwerten Spaß mit unerwartetem dunklem Humor und bietet Ihnen
+      ein einzigartig aufregendes Erlebnis beim Komponieren.
+    meta:
+      title: Sprunki Phase 2 5 - Sprunki Phase 2 5 Online spielen
+      description: >-
+        Sprunki Phase 2.5 (JOKE MOD) ist nicht nur ein Spiel; es ist ein
+        musikalisches Abenteuer voller Überraschungen und Wendungen. Es
+        balanciert perfekt unbeschwerten Spaß mit unerwartetem dunklem Humor und
+        bietet Ihnen ein einzigartig aufregendes Erlebnis beim Komponieren.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
+  ja:
+    title: Sprunki Phase 2 5
+    description: >-
+      Sprunki Phase 2.5 (JOKE MOD)はただのゲームではありません。驚きとひねりが詰まった音楽の冒険です。
+      軽快な楽しさと予想外のダークユーモーのバランスを完璧に保ち、作曲中にユニークでスリリングな体験を提供します。
+    meta:
+      title: Sprunki Phase 2 5 - Sprunki Phase 2 5 をオンラインでプレイ
+      description: >-
+        Sprunki Phase 2.5 (JOKE MOD)はただのゲームではありません。驚きとひねりが詰まった音楽の冒険です。
+        軽快な楽しさと予想外のダークユーモーのバランスを完璧に保ち、作曲中にユニークでスリリングな体験を提供します。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-phase-2-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
+  ko:
+    title: 스프런키 페이즈 2.5
+    description: 스프런키의 중간 단계를 경험할 수 있는 특별한 버전입니다.
+    meta:
+      title: 스프런키 페이즈 2.5 - 스프런키 페이즈 2.5 온라인 플레이
+      description: 스프런키의 중간 단계를 경험할 수 있는 특별한 버전입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-2-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-2-5.png'
 ---
 
 ## So, What's the Deal with Sprunki Phase 2.5 (JOKE MOD)?

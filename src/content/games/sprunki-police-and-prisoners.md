@@ -5,27 +5,27 @@ description: >-
   Sprunki Police and Prisoners Mod is an engaging and innovative modification to
   the renowned Incredibox Sprunki reality.
 image: /sprunki-police-and-prisoners.png
-iframe: https://turbowarp.org/1113493234/embed
+iframe: 'https://turbowarp.org/1113493234/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online
   description: >-
     Sprunki Police and Prisoners Mod is an engaging and innovative modification
     to the renowned Incredibox Sprunki reality.
-  canonical: https://www.playfiddlebops.com/sprunki-police-and-prisoners/
-  ogImage: https://www.playfiddlebops.com/sprunki-police-and-prisoners.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
 seo:
   title: Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online
   description: >-
     Sprunki Police and Prisoners Mod is an engaging and innovative modification
     to the renowned Incredibox Sprunki reality.
   keywords: Sprunki Police And Prisoners
-  canonical: https://www.playfiddlebops.com/sprunki-police-and-prisoners/
-  ogImage: https://www.playfiddlebops.com/sprunki-police-and-prisoners.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
   schema:
     name: Sprunki Police And Prisoners - Play Sprunki Police And Prisoners Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-police-and-prisoners/
+    url: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
 rating:
   score: 3.9
   maxScore: 5
@@ -36,6 +36,85 @@ breadcrumb:
   current: Sprunki Police And Prisoners
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Police And Prisoners
+    description: >-
+      Sprunki Police and Prisoners Mod is an engaging and innovative
+      modification to the renowned Incredibox Sprunki reality.
+    meta: *ref_0
+  zh:
+    title: Sprunki Police And Prisoners
+    description: Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的引人入胜且创新的改编。
+    meta:
+      title: Sprunki Police And Prisoners - 在线玩 Sprunki Police And Prisoners
+      description: Sprunki Police and Prisoners Mod 是对著名 Incredibox Sprunki 现实的引人入胜且创新的改编。
+      canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
+  es:
+    title: Sprunki Police And Prisoners
+    description: >
+      Sprunki Police and Prisoners Mod es una modificación atractiva e
+      innovadora a la renombrada realidad de Incredibox Sprunki.
+    meta:
+      title: Sprunki Police And Prisoners - Juega Sprunki Police And Prisoners Online
+      description: >
+        Sprunki Police and Prisoners Mod es una modificación atractiva e
+        innovadora a la renombrada realidad de Incredibox Sprunki.
+      canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
+  fr:
+    title: Sprunki Police And Prisoners
+    description: >-
+      Le Sprunki Police and Prisoners Mod est une modification engageante et
+      innovante de la célèbre réalité Incredibox Sprunki.
+    meta:
+      title: >-
+        Sprunki Police And Prisoners - Jouez à Sprunki Police And Prisoners en
+        Ligne
+      description: >-
+        Le Sprunki Police and Prisoners Mod est une modification engageante et
+        innovante de la célèbre réalité Incredibox Sprunki.
+      canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
+  de:
+    title: Sprunki Police And Prisoners
+    description: >-
+      Sprunki Police and Prisoners Mod ist eine fesselnde und innovative
+      Modifikation der renommierten Incredibox Sprunki Realität.
+    meta:
+      title: >-
+        Sprunki Police And Prisoners - Sprunki Police And Prisoners Online
+        spielen
+      description: >-
+        Sprunki Police and Prisoners Mod ist eine fesselnde und innovative
+        Modifikation der renommierten Incredibox Sprunki Realität.
+      canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
+  ja:
+    title: Sprunki Police And Prisoners
+    description: >-
+      Sprunki Police and Prisoners Modは、有名なIncrediblebox
+      Sprunki現実への魅力的で革新的な変更です。
+    meta:
+      title: Sprunki Police And Prisoners - Sprunki Police And Prisoners をオンラインでプレイ
+      description: >-
+        Sprunki Police and Prisoners Modは、有名なIncrediblebox
+        Sprunki現実への魅力的で革新的な変更です。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-police-and-prisoners/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
+  ko:
+    title: 스프런키 폴리스 앤 프리즈너스
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 폴리스 앤 프리즈너스 - 스프런키 폴리스 앤 프리즈너스 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-police-and-prisoners.png'
 ---
 
 ## What is Sprunki Police and Prisoners Mod?

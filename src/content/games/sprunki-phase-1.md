@@ -6,16 +6,16 @@ description: >-
   offers a simple, intuitive way to experience the joy of music creation and see
   what this vibrant, creative world was like right at the start.
 image: /sprunki-phase-1.png
-iframe: https://turbowarp.org/1127823859/embed
+iframe: 'https://turbowarp.org/1127823859/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
   description: >-
     Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe. It
     offers a simple, intuitive way to experience the joy of music creation and
     see what this vibrant, creative world was like right at the start.
-  canonical: https://www.playfiddlebops.com/sprunki-phase-1/
-  ogImage: https://www.playfiddlebops.com/sprunki-phase-1.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
 seo:
   title: Sprunki Phase 1 - Play Sprunki Phase 1 Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     offers a simple, intuitive way to experience the joy of music creation and
     see what this vibrant, creative world was like right at the start.
   keywords: Sprunki Phase 1
-  canonical: https://www.playfiddlebops.com/sprunki-phase-1/
-  ogImage: https://www.playfiddlebops.com/sprunki-phase-1.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
   schema:
     name: Sprunki Phase 1 - Play Sprunki Phase 1 Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-phase-1/
+    url: 'https://www.playfiddlebops.com/sprunki-phase-1/'
 rating:
   score: 4.3
   maxScore: 5
@@ -39,6 +39,98 @@ breadcrumb:
   current: Sprunki Phase 1
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Phase 1
+    description: >-
+      Sprunki Phase 1 is the perfect gateway into the amazing Sprunki universe.
+      It offers a simple, intuitive way to experience the joy of music creation
+      and see what this vibrant, creative world was like right at the start.
+    meta: *ref_0
+  zh:
+    title: Sprunki Phase 1 - 音乐创作原点
+    description: >-
+      Sprunki Phase
+      1是进入神奇Sprunki宇宙的完美入口。它提供了一种简单直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界最初是什么样子的。
+    meta:
+      title: Sprunki Phase 1 - 免费在线玩音乐创作游戏
+      description: >-
+        Sprunki Phase
+        1是进入神奇Sprunki宇宙的完美入口。它提供了一种简单直观的方式来体验音乐创作的乐趣，看看这个充满活力的创意世界最初是什么样子的。
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
+  es:
+    title: Sprunki Phase 1
+    description: >-
+      Sprunki Phase 1 es la puerta de entrada perfecta al increíble universo
+      Sprunki. Ofrece una forma simple e intuitiva de experimentar la alegría de
+      la creación musical y ver cómo era este mundo vibrante y creativo desde el
+      principio.
+    meta:
+      title: Sprunki Phase 1 - Juega Sprunki Phase 1 Online
+      description: >-
+        Sprunki Phase 1 es la puerta de entrada perfecta al increíble universo
+        Sprunki. Ofrece una forma simple e intuitiva de experimentar la alegría
+        de la creación musical y ver cómo era este mundo vibrante y creativo
+        desde el principio.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
+  fr:
+    title: Sprunki Phase 1
+    description: >-
+      Sprunki Phase 1 est la porte d'entrée parfaite vers l'incroyable univers
+      Sprunki. Il offre une façon simple et intuitive de découvrir la joie de la
+      création musicale et de voir à quoi ressemblait ce monde vibrant et
+      créatif dès le début.
+    meta:
+      title: Sprunki Phase 1 - Jouer à Sprunki Phase 1 en Ligne
+      description: >-
+        Sprunki Phase 1 est la porte d'entrée parfaite vers l'incroyable univers
+        Sprunki. Il offre une façon simple et intuitive de découvrir la joie de
+        la création musicale et de voir à quoi ressemblait ce monde vibrant et
+        créatif dès le début.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
+  de:
+    title: Sprunki Phase 1
+    description: >-
+      Sprunki Phase 1 ist das perfekte Tor in das erstaunliche
+      Sprunki-Universum. Es bietet eine einfache, intuitive Möglichkeit, die
+      Freude an der Musikerstellung zu erleben und zu sehen, wie diese
+      lebendige, kreative Welt ganz am Anfang war.
+    meta:
+      title: Sprunki Phase 1 - Sprunki Phase 1 Online spielen
+      description: >-
+        Sprunki Phase 1 ist das perfekte Tor in das erstaunliche
+        Sprunki-Universum. Es bietet eine einfache, intuitive Möglichkeit, die
+        Freude an der Musikerstellung zu erleben und zu sehen, wie diese
+        lebendige, kreative Welt ganz am Anfang war.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
+  ja:
+    title: Sprunki Phase 1
+    description: >-
+      Sprunki Phase 1は、素晴らしいSprunkiユニバースへの完璧な入門ゲートです。
+      音楽制作の喜びを体験し、この活気ある創造的な世界が最初どのようなものだったかを 見る簡単で直感的な方法を提供します。
+    meta:
+      title: Sprunki Phase 1 - Sprunki Phase 1 をオンラインでプレイ
+      description: >-
+        Sprunki Phase 1は、素晴らしいSprunkiユニバースへの完璧な入門ゲートです。
+        音楽制作の喜びを体験し、この活気ある創造的な世界が最初どのようなものだったかを 見る簡単で直感的な方法を提供します。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-phase-1/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
+  ko:
+    title: 스프런키 페이즈 1
+    description: >-
+      스프런키 페이즈 1은 놀라운 스프런키 우주로 들어가는 완벽한 관문입니다.  음악 창작의 기쁨을 경험하고 이 활기차고 창의적인 세계가 
+      처음 시작했을 때 어떤 모습이었는지 보는 간단하고 직관적인 방법을 제공합니다.
+    meta:
+      title: 스프런키 페이즈 1 - 스프런키 페이즈 1 온라인 플레이
+      description: >-
+        스프런키 페이즈 1은 놀라운 스프런키 우주로 들어가는 완벽한 관문입니다.  음악 창작의 기쁨을 경험하고 이 활기차고 창의적인
+        세계가  처음 시작했을 때 어떤 모습이었는지 보는 간단하고 직관적인 방법을 제공합니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-1/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-1.png'
 ---
 
 ## What's So Special About Sprunki Phase 1 Anyway?

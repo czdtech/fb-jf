@@ -6,16 +6,16 @@ description: >-
   Sprunki characters, each ready to lend their unique musical voice to your
   compositions.
 image: /sprunki-babies.png
-iframe: https://turbowarp.org/1110888906/embed
+iframe: 'https://turbowarp.org/1110888906/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Babies - Play Sprunki Babies Online
   description: >-
     This charming music sandbox puts you in charge of a crew of adorable baby
     Sprunki characters, each ready to lend their unique musical voice to your
     compositions.
-  canonical: https://www.playfiddlebops.com/sprunki-babies/
-  ogImage: https://www.playfiddlebops.com/sprunki-babies.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
 seo:
   title: Sprunki Babies - Play Sprunki Babies Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     Sprunki characters, each ready to lend their unique musical voice to your
     compositions.
   keywords: Sprunki Babies
-  canonical: https://www.playfiddlebops.com/sprunki-babies/
-  ogImage: https://www.playfiddlebops.com/sprunki-babies.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
   schema:
     name: Sprunki Babies - Play Sprunki Babies Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-babies/
+    url: 'https://www.playfiddlebops.com/sprunki-babies/'
 rating:
   score: 4
   maxScore: 5
@@ -39,6 +39,86 @@ breadcrumb:
   current: Sprunki Babies
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Babies
+    description: >-
+      This charming music sandbox puts you in charge of a crew of adorable baby
+      Sprunki characters, each ready to lend their unique musical voice to your
+      compositions.
+    meta: *ref_0
+  zh:
+    title: Sprunki Babies
+    description: 这款迷人的音乐沙盒游戏让你管理一群可爱的 Sprunki 宝宝角色，每个都准备为你的作品贡献独特的音乐声音。
+    meta:
+      title: Sprunki Babies - 在线玩 Sprunki Babies
+      description: 这款迷人的音乐沙盒游戏让你管理一群可爱的 Sprunki 宝宝角色，每个都准备为你的作品贡献独特的音乐声音。
+      canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
+  es:
+    title: Sprunki Babies
+    description: >-
+      Esta encantadora caja de arena musical te pone a cargo de un grupo de
+      adorables personajes bebé Sprunki, cada uno listo para prestar su voz
+      musical única a tus composiciones.
+    meta:
+      title: Sprunki Babies - Juega Sprunki Babies Online
+      description: >-
+        Esta encantadora caja de arena musical te pone a cargo de un grupo de
+        adorables personajes bebé Sprunki, cada uno listo para prestar su voz
+        musical única a tus composiciones.
+      canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
+  fr:
+    title: Sprunki Babies
+    description: >-
+      Ce charmant bac à sable musical vous met en charge d'une équipe
+      d'adorables personnages bébés Sprunki, chacun prêt à prêter sa voix
+      musicale unique à vos compositions.
+    meta:
+      title: Sprunki Babies - Jouer à Sprunki Babies en Ligne
+      description: >-
+        Ce charmant bac à sable musical vous met en charge d'une équipe
+        d'adorables personnages bébés Sprunki, chacun prêt à prêter sa voix
+        musicale unique à vos compositions.
+      canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
+  de:
+    title: Sprunki Babies
+    description: >-
+      Diese charmante Musik-Sandbox stellt Sie vor eine Crew aus bezaubernden
+      Baby- Sprunki-Charakteren, die alle bereit sind, ihre einzigartige
+      musikalische Stimme zu Ihren Kompositionen beizutragen.
+    meta:
+      title: Sprunki Babies - Sprunki Babies Online spielen
+      description: >-
+        Diese charmante Musik-Sandbox stellt Sie vor eine Crew aus bezaubernden
+        Baby- Sprunki-Charakteren, die alle bereit sind, ihre einzigartige
+        musikalische Stimme zu Ihren Kompositionen beizutragen.
+      canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
+  ja:
+    title: Sprunki Babies
+    description: >-
+      この魅力的な音楽サンドボックスでは、愛らしいベビーSprunkiキャラクターたちのクルーを指揮し、それぞれがあなたの作品に独自の音楽的声を貸してくれます。
+    meta:
+      title: Sprunki Babies - Sprunki Babiesをオンラインでプレイ
+      description: >-
+        この魅力的な音楽サンドボックスでは、愛らしいベビーSprunkiキャラクターたちのクルーを指揮し、それぞれがあなたの作品に独自の音楽的声を貸してくれます。
+      canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
+  ko:
+    title: 스프런키 베이비즈
+    description: >-
+      이 매력적인 음악 샌드박스에서 사랑스러운 스프런키 아기 캐릭터들의  팀을 이끌며, 각각이 고유한 음악적 목소리로 여러분의 작품에 
+      기여할 준비가 되어 있습니다.
+    meta:
+      title: 스프런키 베이비즈 - 스프런키 베이비즈 온라인 플레이
+      description: >-
+        이 매력적인 음악 샌드박스에서 사랑스러운 스프런키 아기 캐릭터들의  팀을 이끌며, 각각이 고유한 음악적 목소리로 여러분의 작품에 
+        기여할 준비가 되어 있습니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-babies/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-babies.png'
 ---
 
 ## So, What's the Deal with Sprunki Babies?

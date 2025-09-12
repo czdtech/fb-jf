@@ -5,15 +5,15 @@ description: >-
   Sprunki Minecraft proves that innovation can still flourish within familiar
   gameplay loops. If you
 image: /sprunki-minecraft.png
-iframe: https://turbowarp.org/1094240845/embed
+iframe: 'https://turbowarp.org/1094240845/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Minecraft - Play Sprunki Minecraft Online
   description: >-
     Sprunki Minecraft proves that innovation can still flourish within familiar
     gameplay loops. If you
-  canonical: https://www.playfiddlebops.com/sprunki-minecraft/
-  ogImage: https://www.playfiddlebops.com/sprunki-minecraft.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
 seo:
   title: Sprunki Minecraft - Play Sprunki Minecraft Online
   description: >-
@@ -22,12 +22,12 @@ seo:
     experience, Sprunki Minecraft will definitely blow your mind and get you
     grooving!
   keywords: Sprunki Minecraft
-  canonical: https://www.playfiddlebops.com/sprunki-minecraft/
-  ogImage: https://www.playfiddlebops.com/sprunki-minecraft.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
   schema:
     name: Sprunki Minecraft - Play Sprunki Minecraft Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-minecraft/
+    url: 'https://www.playfiddlebops.com/sprunki-minecraft/'
 rating:
   score: 4
   maxScore: 5
@@ -38,6 +38,73 @@ breadcrumb:
   current: Sprunki Minecraft
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Minecraft
+    description: >-
+      Sprunki Minecraft proves that innovation can still flourish within
+      familiar gameplay loops. If you
+    meta: *ref_0
+  zh:
+    title: Sprunki Minecraft
+    description: Sprunki Minecraft 证明创新仍然可以在熟悉的玩法循环中蓬勃发展。如果你
+    meta:
+      title: Sprunki Minecraft - 在线玩 Sprunki Minecraft
+      description: Sprunki Minecraft 证明创新仍然可以在熟悉的玩法循环中蓬勃发展。如果你
+      canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
+  es:
+    title: Sprunki Minecraft
+    description: >-
+      Sprunki Minecraft demuestra que la innovación aún puede florecer dentro de
+      bucles de jugabilidad familiares. Si tú
+    meta:
+      title: Sprunki Minecraft - Jugar Sprunki Minecraft Online
+      description: >-
+        Sprunki Minecraft demuestra que la innovación aún puede florecer dentro
+        de bucles de jugabilidad familiares. Si tú
+      canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
+  fr:
+    title: Sprunki Minecraft
+    description: >-
+      Sprunki Minecraft prouve que l'innovation peut encore s'épanouir dans des
+      boucles de gameplay familières. Si vous
+    meta:
+      title: Sprunki Minecraft - Jouez à Sprunki Minecraft en Ligne
+      description: >-
+        Sprunki Minecraft prouve que l'innovation peut encore s'épanouir dans
+        des boucles de gameplay familières. Si vous
+      canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
+  de:
+    title: Sprunki Minecraft
+    description: >-
+      Sprunki Minecraft beweist, dass Innovation auch in bekannten
+      Gameplay-Schleifen gedeihen kann. Wenn Sie
+    meta:
+      title: Sprunki Minecraft - Sprunki Minecraft Online spielen
+      description: >-
+        Sprunki Minecraft beweist, dass Innovation auch in bekannten
+        Gameplay-Schleifen gedeihen kann. Wenn Sie
+      canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
+  ja:
+    title: Sprunki Minecraft
+    description: Sprunki Minecraftは、馴染みのあるゲームプレイループの中でもイノベーションが花開くことを証明しています。もしあなたが
+    meta:
+      title: Sprunki Minecraft - Sprunki Minecraftをオンラインでプレイ
+      description: Sprunki Minecraftは、馴染みのあるゲームプレイループの中でもイノベーションが花開くことを証明しています。もしあなたが
+      canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
+  ko:
+    title: 스프런키 마인크래프트
+    description: 마인크래프트 테마의 스프런키 음악 게임입니다.
+    meta:
+      title: 스프런키 마인크래프트 - 스프런키 마인크래프트 온라인 플레이
+      description: 마인크래프트 테마의 스프런키 음악 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-minecraft.png'
 ---
 
 ## What the Heck is Sprunki Minecraft?

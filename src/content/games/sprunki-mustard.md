@@ -6,16 +6,16 @@ description: >-
   a unified mustard-yellow color scheme, adding a lingering eerie feeling to the
   original vibrant picture.
 image: /sprunki-mustard.png
-iframe: https://turbowarp.org/1089514503/embed
+iframe: 'https://turbowarp.org/1089514503/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Mustard - Play Sprunki Mustard Online
   description: >-
     In this Sprunki Mustard Mod, all the characters have been reshaped to
     present a unified mustard-yellow color scheme, adding a lingering eerie
     feeling to the original vibrant picture.
-  canonical: https://www.playfiddlebops.com/sprunki-mustard/
-  ogImage: https://www.playfiddlebops.com/sprunki-mustard.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
 seo:
   title: Sprunki Mustard - Play Sprunki Mustard Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     present a unified mustard-yellow color scheme, adding a lingering eerie
     feeling to the original vibrant picture.
   keywords: Sprunki Mustard
-  canonical: https://www.playfiddlebops.com/sprunki-mustard/
-  ogImage: https://www.playfiddlebops.com/sprunki-mustard.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
   schema:
     name: Sprunki Mustard - Play Sprunki Mustard Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-mustard/
+    url: 'https://www.playfiddlebops.com/sprunki-mustard/'
 rating:
   score: 3.9
   maxScore: 5
@@ -39,6 +39,87 @@ breadcrumb:
   current: Sprunki Mustard
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Mustard
+    description: >-
+      In this Sprunki Mustard Mod, all the characters have been reshaped to
+      present a unified mustard-yellow color scheme, adding a lingering eerie
+      feeling to the original vibrant picture.
+    meta: *ref_0
+  zh:
+    title: Sprunki Mustard
+    description: 在这个 Sprunki Mustard Mod 中，所有角色都被重新塑造以呈现统一的芥末黄色配色方案，为原本充满活力的画面增添了挥之不去的诡异感觉。
+    meta:
+      title: Sprunki Mustard - 在线玩 Sprunki Mustard
+      description: >-
+        在这个 Sprunki Mustard Mod
+        中，所有角色都被重新塑造以呈现统一的芥末黄色配色方案，为原本充满活力的画面增添了挥之不去的诡异感觉。
+      canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
+  es:
+    title: Sprunki Mustard
+    description: >-
+      En este Sprunki Mustard Mod, todos los personajes han sido rediseñados
+      para presentar un esquema de color amarillo mostaza unificado, añadiendo
+      una sensación inquietante persistente a la imagen vibrante original.
+    meta:
+      title: Sprunki Mustard - Juega Sprunki Mustard Online
+      description: >-
+        En este Sprunki Mustard Mod, todos los personajes han sido rediseñados
+        para presentar un esquema de color amarillo mostaza unificado, añadiendo
+        una sensación inquietante persistente a la imagen vibrante original.
+      canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
+  fr:
+    title: Sprunki Mustard
+    description: >-
+      Dans ce Sprunki Mustard Mod, tous les personnages ont été remodelés pour
+      présenter un schéma de couleurs jaune moutarde unifié, ajoutant une
+      sensation étrange persistante à l'image vibrante originale.
+    meta:
+      title: Sprunki Mustard - Jouez à Sprunki Mustard en Ligne
+      description: >-
+        Dans ce Sprunki Mustard Mod, tous les personnages ont été remodelés pour
+        présenter un schéma de couleurs jaune moutarde unifié, ajoutant une
+        sensation étrange persistante à l'image vibrante originale.
+      canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
+  de:
+    title: Sprunki Mustard
+    description: >-
+      In diesem Sprunki Mustard Mod wurden alle Charaktere umgestaltet, um ein
+      einheitliches senfgelbes Farbschema zu präsentieren, das dem ursprünglich
+      lebendigen Bild ein anhaltendes unheimliches Gefühl verleiht.
+    meta:
+      title: Sprunki Mustard - Sprunki Mustard Online spielen
+      description: >-
+        In diesem Sprunki Mustard Mod wurden alle Charaktere umgestaltet, um ein
+        einheitliches senfgelbes Farbschema zu präsentieren, das dem
+        ursprünglich lebendigen Bild ein anhaltendes unheimliches Gefühl
+        verleiht.
+      canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
+  ja:
+    title: Sprunki Mustard
+    description: >-
+      このSprunki Mustard
+      Modでは、すべてのキャラクターが統一されたマスタードイエローのカラースキームを提示するよう再形成されており、元の鮮やかな絵に印象的な不気味な感覚を追加しています。
+    meta:
+      title: Sprunki Mustard - Sprunki Mustardをオンラインでプレイ
+      description: >-
+        このSprunki Mustard
+        Modでは、すべてのキャラクターが統一されたマスタードイエローのカラースキームを提示するよう再形成されており、元の鮮やかな絵に印象的な不気味な感覚を追加しています。
+      canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
+  ko:
+    title: 스프런키 머스타드
+    description: 독특한 머스타드 테마의 스프런키 변형입니다.
+    meta:
+      title: 스프런키 머스타드 - 스프런키 머스타드 온라인 플레이
+      description: 독특한 머스타드 테마의 스프런키 변형입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mustard.png'
 ---
 
 ## What is Sprunki Mustard?

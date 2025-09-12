@@ -5,23 +5,23 @@ description: >-
   Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki world,
   with all characters being eroded by a mysterious 
 image: /yojou-sprunki-mustard.png
-iframe: https://turbowarp.org/1115597573/embed
+iframe: 'https://turbowarp.org/1115597573/embed'
 category: new
-meta:
+meta: &ref_0
   title: Yojou Sprunki Mustard - Play Yojou Sprunki Mustard Online
   description: >-
     Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki
     world, with all characters being eroded by a mysterious 
-  canonical: https://www.playfiddlebops.com/yojou-sprunki-mustard/
-  ogImage: https://www.playfiddlebops.com/yojou-sprunki-mustard.png
+  canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+  ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
 seo:
   title: Yojou Sprunki Mustard - Play Yojou Sprunki Mustard Online
   description: >-
     Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki
     world, with all characters being eroded by a mysterious 
   keywords: Yojou Sprunki Mustard
-  canonical: https://www.playfiddlebops.com/yojou-sprunki-mustard/
-  ogImage: https://www.playfiddlebops.com/yojou-sprunki-mustard.png
+  canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+  ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
 rating:
   score: 4.5
   maxScore: 5
@@ -32,6 +32,85 @@ breadcrumb:
   current: Yojou Sprunki Mustard
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Yojou Sprunki Mustard
+    description: >-
+      Yojou Sprunki Mustard, this parody Mod, completely subverts the Sprunki
+      world, with all characters being eroded by a mysterious 
+    meta: *ref_0
+  zh:
+    title: Yojou Sprunki 芥末
+    description: Yojou Sprunki 芥末，这个恶搞模组完全颠覆了 Sprunki 世界， 所有角色都被神秘的芥末侵蚀
+    meta:
+      title: Yojou Sprunki 芥末 - 在线玩 Yojou Sprunki 芥末
+      description: Yojou Sprunki 芥末，这个恶搞模组完全颠覆了 Sprunki 世界， 所有角色都被神秘的芥末侵蚀
+      canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
+  es:
+    title: Yojou Sprunki Mustard
+    description: >-
+      Yojou Sprunki Mustard, este Mod de parodia, subvierte completamente el
+      mundo de Sprunki, con todos los personajes siendo erosionados por una
+      misteriosa salsa de mostaza.
+    meta:
+      title: Yojou Sprunki Mustard - Juega Yojou Sprunki Mustard Online
+      description: >-
+        Yojou Sprunki Mustard, este Mod de parodia, subvierte completamente el
+        mundo de Sprunki, con todos los personajes siendo erosionados por una
+        misteriosa salsa de mostaza.
+      canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
+  fr:
+    title: Yojou Sprunki Mustard
+    description: >-
+      Un Mod parodique qui subvertit l’univers Sprunki : tout vire au « 
+      moutarde » — visuels monochromes, voix frénétiques et ambiance décalée.
+    meta:
+      title: Yojou Sprunki Mustard - Jouez en ligne
+      description: >-
+        Personnages jaunes, interface tordue et nouvelles touches horrifiques — 
+        un terrain de jeu pour expérimenter.
+      canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
+  de:
+    title: Yojou Sprunki Mustard
+    description: >-
+      Yojou Sprunki Mustard, dieser Parodie-Mod, stürzt die Sprunki-Welt
+      vollständig um, wobei alle Charaktere von einer mysteriösen Sauce
+      zerfressen werden
+    meta:
+      title: Yojou Sprunki Mustard - Spiel Yojou Sprunki Mustard Online
+      description: >-
+        Yojou Sprunki Mustard, dieser Parodie-Mod, stürzt die Sprunki-Welt
+        vollständig um, wobei alle Charaktere von einer mysteriösen Sauce
+        zerfressen werden
+      canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
+  ja:
+    title: Yojou Sprunki Mustard
+    description: >-
+      Yojou Sprunki Mustardは、このパロディModがSprunki世界を完全に転覆させ、
+      すべてのキャラクターが神秘的な「マスタードソース」に侵食されています
+    meta:
+      title: Yojou Sprunki Mustard - Yojou Sprunki Mustard をオンラインでプレイ
+      description: >-
+        Yojou Sprunki Mustardは、このパロディModがSprunki世界を完全に転覆させ、
+        すべてのキャラクターが神秘的な「マスタードソース」に侵食されています
+      canonical: 'https://www.playfiddlebops.com/ja/yojou-sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
+  ko:
+    title: 요조우 스프런키 머스타드
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 요조우 스프런키 머스타드 - 요조우 스프런키 머스타드 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/yojou-sprunki-mustard/'
+      ogImage: 'https://www.playfiddlebops.com/yojou-sprunki-mustard.png'
 ---
 
 ## What Exactly Happened to Yojou Sprunki Mustard?

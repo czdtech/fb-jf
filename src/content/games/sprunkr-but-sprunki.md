@@ -7,17 +7,17 @@ description: >-
   only experience the classic gameplay of Sprunkr, but also immerse yourself in
   the visual and auditory feast of Sprunki style.
 image: /sprunkr-but-sprunki.png
-iframe: https://turbowarp.org/1113707117/embed
+iframe: 'https://turbowarp.org/1113707117/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunkr But Sprunki - Play Sprunkr But Sprunki Online
   description: >-
     Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod,
     replacing the existing characters with beloved Sprunki figures. You can not
     only experience the classic gameplay of Sprunkr, but also immerse yourself
     in the visual and auditory feast of Sprunki style.
-  canonical: https://www.playfiddlebops.com/sprunkr-but-sprunki/
-  ogImage: https://www.playfiddlebops.com/sprunkr-but-sprunki.png
+  canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
 seo:
   title: Sprunkr But Sprunki - Play Sprunkr But Sprunki Online
   description: >-
@@ -26,12 +26,12 @@ seo:
     only experience the classic gameplay of Sprunkr, but also immerse yourself
     in the visual and auditory feast of Sprunki style.
   keywords: Sprunkr But Sprunki
-  canonical: https://www.playfiddlebops.com/sprunkr-but-sprunki/
-  ogImage: https://www.playfiddlebops.com/sprunkr-but-sprunki.png
+  canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
   schema:
     name: Sprunkr But Sprunki - Play Sprunkr But Sprunki Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunkr-but-sprunki/
+    url: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
 rating:
   score: 4.5
   maxScore: 5
@@ -42,6 +42,95 @@ breadcrumb:
   current: Sprunkr But Sprunki
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunkr But Sprunki
+    description: >-
+      Sprunkr But Sprunki Mod is a creative twist on the original Sprunkr mod,
+      replacing the existing characters with beloved Sprunki figures. You can
+      not only experience the classic gameplay of Sprunkr, but also immerse
+      yourself in the visual and auditory feast of Sprunki style.
+    meta: *ref_0
+  zh:
+    title: Sprunkr But Sprunki
+    description: >-
+      Sprunkr But Sprunki 模组是原版 Sprunkr 模组的创意变体， 用深受喜爱的 Sprunki
+      角色替换了现有角色。你不仅可以体验 Sprunkr 的经典游戏玩法，还能沉浸在 Sprunki 风格的视听盛宴中。
+    meta:
+      title: Sprunkr But Sprunki - 在线玩 Sprunkr But Sprunki
+      description: >-
+        Sprunkr But Sprunki 模组是原版 Sprunkr 模组的创意变体， 用深受喜爱的 Sprunki
+        角色替换了现有角色。你不仅可以体验 Sprunkr 的经典游戏玩法，还能沉浸在 Sprunki 风格的视听盛宴中。
+      canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
+  es:
+    title: Sprunkr But Sprunki
+    description: >-
+      Sprunkr But Sprunki Mod es un giro creativo en el mod original Sprunkr,
+      reemplazando los personajes existentes con figuras queridas de Sprunki. No
+      solo puedes experimentar la jugabilidad clásica de Sprunkr, sino también
+      sumergirte en el banquete visual y auditivo del estilo Sprunki.
+    meta:
+      title: Sprunkr But Sprunki - Juega Sprunkr But Sprunki Online
+      description: >-
+        Sprunkr But Sprunki Mod es un giro creativo en el mod original Sprunkr,
+        reemplazando los personajes existentes con figuras queridas de Sprunki.
+        No solo puedes experimentar la jugabilidad clásica de Sprunkr, sino
+        también sumergirte en el banquete visual y auditivo del estilo Sprunki.
+      canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
+  fr:
+    title: Sprunkr But Sprunki
+    description: >-
+      Un Mod créatif qui remplace les personnages de Sprunkr par des figures 
+      Sprunki : gameplay classique, esthétique revisitée.
+    meta:
+      title: Sprunkr But Sprunki - Jouez en ligne
+      description: >-
+        Redécouvrez les mécaniques de Sprunkr avec des personnages Sprunki — 
+        visuels lumineux et sound design dynamique.
+      canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
+  de:
+    title: Sprunkr But Sprunki
+    description: >-
+      Sprunkr But Sprunki Mod ist ein kreativer Twist auf den ursprünglichen
+      Sprunkr-Mod, der die bestehenden Charaktere durch geliebte Sprunki-Figuren
+      ersetzt. Du kannst nicht nur das klassische Gameplay von Sprunkr erleben,
+      sondern dich auch in das visuelle und auditive Fest des Sprunki-Stils
+      vertiefen.
+    meta:
+      title: Sprunkr But Sprunki - Spiel Sprunkr But Sprunki Online
+      description: >-
+        Sprunkr But Sprunki Mod ist ein kreativer Twist auf den ursprünglichen
+        Sprunkr-Mod, der die bestehenden Charaktere durch geliebte
+        Sprunki-Figuren ersetzt. Du kannst nicht nur das klassische Gameplay von
+        Sprunkr erleben, sondern dich auch in das visuelle und auditive Fest des
+        Sprunki-Stils vertiefen.
+      canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
+  ja:
+    title: Sprunkr But Sprunki
+    description: >-
+      Sprunkr But Sprunki Modは、元のSprunkr Modに創造的なひねりを加えたもので、
+      既存のキャラクターを愛されるSprunkiフィギュアに置き換えます。 Sprunkrのクラシックなゲームプレイを体験するだけでなく、
+      Sprunkiスタイルの視覚的・聴覚的饗宴に没入することができます。
+    meta:
+      title: Sprunkr But Sprunki - Sprunkr But Sprunki をオンラインでプレイ
+      description: >-
+        Sprunkr But Sprunki Modは、元のSprunkr Modに創造的なひねりを加えたもので、
+        既存のキャラクターを愛されるSprunkiフィギュアに置き換えます。 Sprunkrのクラシックなゲームプレイを体験するだけでなく、
+        Sprunkiスタイルの視覚的・聴覚的饗宴に没入することができます。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunkr-but-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
+  ko:
+    title: 스프런커 벗 스프런키
+    description: 스프런커와 스프런키의 특별한 조합입니다.
+    meta:
+      title: 스프런커 벗 스프런키 - 스프런커 벗 스프런키 온라인 플레이
+      description: 스프런커와 스프런키의 특별한 조합입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunkr-but-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/sprunkr-but-sprunki.png'
 ---
 
 ## What is Sprunkr But Sprunki Mod?

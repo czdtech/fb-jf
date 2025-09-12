@@ -6,15 +6,15 @@ description: >-
   it's an innovative attempt to break the rules. It injects dynamic character
   movements and unpredictable interactions into the vibrant Sprunki gameplay.
 image: /sprunki-interactive-beta.png
-iframe: https://turbowarp.org/1090663998/embed
+iframe: 'https://turbowarp.org/1090663998/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Interactive Beta - Play Sprunki Interactive Beta Online
   description: >-
     Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game,
     it
-  canonical: https://www.playfiddlebops.com/sprunki-interactive-beta/
-  ogImage: https://www.playfiddlebops.com/sprunki-interactive-beta.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
 seo:
   title: Sprunki Interactive BETA - Play Sprunki Interactive BETA Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     movements and unpredictable interactions into the vibrant Sprunki gameplay,
     completely subverting the familiar world.
   keywords: Sprunki Interactive BETA
-  canonical: https://www.playfiddlebops.com/sprunki-interactive-beta/
-  ogImage: https://www.playfiddlebops.com/sprunki-interactive-beta.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
   schema:
     name: Sprunki Interactive BETA - Play Sprunki Interactive BETA Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-interactive-beta/
+    url: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
 rating:
   score: 4
   maxScore: 5
@@ -39,6 +39,73 @@ breadcrumb:
   current: Sprunki Interactive BETA
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Interactive Beta
+    description: >-
+      Sprunki Interactive BETA is not just a simple upgrade to the Sprunki game,
+      it's an innovative attempt to break the rules. It injects dynamic
+      character movements and unpredictable interactions into the vibrant
+      Sprunki gameplay.
+    meta: *ref_0
+  zh:
+    title: Sprunki Interactive Beta
+    description: Sprunki Interactive BETA 不仅仅是对 Sprunki 游戏的简单升级，它
+    meta:
+      title: Sprunki Interactive Beta - 在线玩 Sprunki Interactive Beta
+      description: Sprunki Interactive BETA 不仅仅是对 Sprunki 游戏的简单升级，它
+      canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
+  es:
+    title: Sprunki Interactive Beta
+    description: >-
+      Sprunki Interactive BETA no es solo una actualización simple del juego
+      Sprunki, es
+    meta:
+      title: Sprunki Interactive Beta - Jugar Sprunki Interactive Beta Online
+      description: >
+        Sprunki Interactive BETA no es solo una actualización simple del juego
+        Sprunki, es
+      canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
+  fr:
+    title: Sprunki Interactive Beta
+    description: >-
+      Sprunki Interactive BETA n'est pas qu'une simple mise à niveau du jeu
+      Sprunki, c'est
+    meta:
+      title: Sprunki Interactive Beta - Jouer à Sprunki Interactive Beta en Ligne
+      description: >-
+        Sprunki Interactive BETA n'est pas qu'une simple mise à niveau du jeu
+        Sprunki, c'est
+      canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
+  de:
+    title: Sprunki Interactive Beta
+    description: >
+      Sprunki Interactive Beta ist eine experimentelle Version mit erweiterten
+      interaktiven Features und Beta-Funktionen für erweiterte Musikkreation.
+    meta:
+      title: Sprunki Interactive Beta - Beta Musikspiel
+      description: Experimentelle Sprunki-Version mit Beta-Features
+      canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
+  ja:
+    title: Sprunki Interactive Beta
+    description: Sprunki Interactive BETAはSprunkiゲームの単純なアップグレードではなく、
+    meta:
+      title: Sprunki Interactive Beta - Sprunki Interactive Betaをオンラインでプレイ
+      description: Sprunki Interactive BETAはSprunkiゲームの単純なアップグレードではなく、
+      canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
+  ko:
+    title: 스프런키 인터랙티브 베타
+    description: 스프런키 인터랙티브 베타는 새로운 기능들을 테스트할 수 있는 베타 버전입니다.
+    meta:
+      title: 스프런키 인터랙티브 베타 - 스프런키 인터랙티브 베타 온라인 플레이
+      description: 스프런키 인터랙티브 베타는 새로운 기능들을 테스트할 수 있는 베타 버전입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-interactive-beta/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-interactive-beta.png'
 ---
 
 ## What is Sprunki Interactive BETA?

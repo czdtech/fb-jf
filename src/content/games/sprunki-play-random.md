@@ -6,29 +6,29 @@ description: >-
   like challenges and exploration, then Sprunki Play Random is definitely for
   you!
 image: /sprunki-play-random.png
-iframe: https://turbowarp.org/1148555262/embed
+iframe: 'https://turbowarp.org/1148555262/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Play Random - Play Sprunki Play Random Online
   description: >-
     Sprunki Play Random is a music creation game full of surprises and fun. If
     you like challenges and exploration, then Sprunki Play Random is definitely
     for you!
-  canonical: https://www.playfiddlebops.com/sprunki-play-random/
-  ogImage: https://www.playfiddlebops.com/sprunki-play-random.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
 seo:
   title: Sprunki Play Random - Play Sprunki Play Random Online
   description: >-
     Sprunki Play Random is a music creation game full of surprises and fun. If
     you like challenges and exploration, then Sprunki Play Random is definitely
     for you!
-  keywords: Sprunki Play Random, Sprunki Play Random online
-  canonical: https://www.playfiddlebops.com/sprunki-play-random/
-  ogImage: https://www.playfiddlebops.com/sprunki-play-random.png
+  keywords: 'Sprunki Play Random, Sprunki Play Random online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
   schema:
     name: Sprunki Play Random - Play Sprunki Play Random Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-play-random/
+    url: 'https://www.playfiddlebops.com/sprunki-play-random/'
 rating:
   score: 4.5
   maxScore: 5
@@ -39,6 +39,92 @@ breadcrumb:
   current: Sprunki Play Random
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Play Random
+    description: >-
+      Sprunki Play Random is a music creation game full of surprises and fun. If
+      you like challenges and exploration, then Sprunki Play Random is
+      definitely for you!
+    meta: *ref_0
+  zh:
+    title: Sprunki Play Random
+    description: >-
+      Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random
+      绝对适合你！
+    meta:
+      title: Sprunki Play Random - 在线玩 Sprunki Play Random
+      description: >-
+        Sprunki Play Random 是一款充满惊喜和乐趣的音乐创作游戏。如果你喜欢挑战和探索，那么 Sprunki Play Random
+        绝对适合你！
+      canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
+  es:
+    title: Sprunki Play Random
+    description: >
+      Sprunki Play Random es un juego de creación musical lleno de sorpresas y
+      diversión. Si te gustan los desafíos y la exploración, ¡entonces Sprunki
+      Play Random definitivamente es para ti!
+    meta:
+      title: Sprunki Play Random - Juega Sprunki Play Random Online
+      description: >
+        Sprunki Play Random es un juego de creación musical lleno de sorpresas y
+        diversión. Si te gustan los desafíos y la exploración, ¡entonces Sprunki
+        Play Random definitivamente es para ti!
+      canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
+  fr:
+    title: Sprunki Play Random
+    description: >-
+      Sprunki Play Random est un jeu de création musicale plein de surprises et
+      de plaisir. Si vous aimez les défis et l'exploration, alors Sprunki Play
+      Random est définitivement pour vous !
+    meta:
+      title: Sprunki Play Random - Jouez à Sprunki Play Random en Ligne
+      description: >-
+        Sprunki Play Random est un jeu de création musicale plein de surprises
+        et de plaisir. Si vous aimez les défis et l'exploration, alors Sprunki
+        Play Random est définitivement pour vous !
+      canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
+  de:
+    title: Sprunki Play Random
+    description: >-
+      Sprunki Play Random ist ein Musikerstellungsspiel voller Überraschungen
+      und Spaß. Wenn Sie Herausforderungen und Erkundung mögen, dann ist Sprunki
+      Play Random definitiv etwas für Sie!
+    meta:
+      title: Sprunki Play Random - Sprunki Play Random Online spielen
+      description: >-
+        Sprunki Play Random ist ein Musikerstellungsspiel voller Überraschungen
+        und Spaß. Wenn Sie Herausforderungen und Erkundung mögen, dann ist
+        Sprunki Play Random definitiv etwas für Sie!
+      canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
+  ja:
+    title: Sprunki Play Random
+    description: >-
+      Sprunki Play Randomは驚きと楽しさに満ちた音楽制作ゲームです。 挑戦と探索が好きなら、Sprunki Play
+      Randomは間違いなくあなたにぴったりです！
+    meta:
+      title: Sprunki Play Random - Sprunki Play Random をオンラインでプレイ
+      description: >-
+        Sprunki Play Randomは驚きと楽しさに満ちた音楽制作ゲームです。 挑戦と探索が好きなら、Sprunki Play
+        Randomは間違いなくあなたにぴったりです！
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-play-random/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
+  ko:
+    title: 스프런키 플레이 랜덤
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 플레이 랜덤 - 스프런키 플레이 랜덤 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-play-random/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-play-random.png'
 ---
 
 ## Introducing to Sprunki Play Random

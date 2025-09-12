@@ -6,16 +6,16 @@ description: >-
   reimagines the classic Incredibox Sprunki gameplay by integrating the
   whimsical and object-themed aesthetics of Battle for Dream Island (BFDI). 
 image: /sprunki-mod-bfdi.png
-iframe: https://turbowarp.org/1087434086/embed
+iframe: 'https://turbowarp.org/1087434086/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Mod BFDI - Play Sprunki Mod BFDI Online
   description: >-
     The Sprunki Mod BFDI, also known as Sprunki Battle for Dream Island,
     reimagines the classic Incredibox Sprunki gameplay by integrating the
     whimsical and object-themed aesthetics of Battle for Dream Island (BFDI). 
-  canonical: https://www.playfiddlebops.com/sprunki-mod-BFDI/
-  ogImage: https://www.playfiddlebops.com/sprunki-mod-BFDI.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
 seo:
   title: Sprunki Mod BFDI - Play Sprunki Mod BFDI Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     reimagines the classic Incredibox Sprunki gameplay by integrating the
     whimsical and object-themed aesthetics of Battle for Dream Island (BFDI). 
   keywords: Sprunki Mod BFDI
-  canonical: https://www.playfiddlebops.com/sprunki-mod-BFDI/
-  ogImage: https://www.playfiddlebops.com/sprunki-mod-bfdi.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-mod-bfdi.png'
   schema:
     name: Sprunki Mod BFDI - Play Sprunki Mod BFDI Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-mod-BFDI/
+    url: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
 rating:
   score: 4.2
   maxScore: 5
@@ -39,6 +39,100 @@ breadcrumb:
   current: Sprunki Mod BFDI
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Mod BFDI
+    description: >-
+      The Sprunki Mod BFDI, also known as Sprunki Battle for Dream Island,
+      reimagines the classic Incredibox Sprunki gameplay by integrating the
+      whimsical and object-themed aesthetics of Battle for Dream Island (BFDI). 
+    meta: *ref_0
+  zh:
+    title: Sprunki Mod BFDI
+    description: >-
+      Sprunki Mod BFDI，也称为 Sprunki Battle for Dream Island，通过整合 Battle for Dream
+      Island（BFDI）的奇幻和物体主题美学，重新构想了经典的 Incredibox Sprunki 玩法。
+    meta:
+      title: Sprunki Mod BFDI - 在线玩 Sprunki Mod BFDI
+      description: >-
+        Sprunki Mod BFDI，也称为 Sprunki Battle for Dream Island，通过整合 Battle for
+        Dream Island（BFDI）的奇幻和物体主题美学，重新构想了经典的 Incredibox Sprunki 玩法。
+      canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
+  es:
+    title: Sprunki Mod BFDI
+    description: >-
+      El Sprunki Mod BFDI, también conocido como Sprunki Battle for Dream
+      Island, reinventa la jugabilidad clásica de Incredibox Sprunki al integrar
+      la estética caprichosa y temática de objetos de Battle for Dream Island
+      (BFDI).
+    meta:
+      title: Sprunki Mod BFDI - Juega Sprunki Mod BFDI Online
+      description: >-
+        El Sprunki Mod BFDI, también conocido como Sprunki Battle for Dream
+        Island, reinventa la jugabilidad clásica de Incredibox Sprunki al
+        integrar la estética caprichosa y temática de objetos de Battle for
+        Dream Island (BFDI).
+      canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
+  fr:
+    title: Sprunki Mod BFDI
+    description: >-
+      Le Sprunki Mod BFDI, également connu sous le nom de Sprunki Battle for
+      Dream Island, réinvente le gameplay classique d'Incredibox Sprunki en
+      intégrant l'esthétique fantaisiste et thématique d'objets de Battle for
+      Dream Island (BFDI).
+    meta:
+      title: Sprunki Mod BFDI - Jouez à Sprunki Mod BFDI en Ligne
+      description: >-
+        Le Sprunki Mod BFDI, également connu sous le nom de Sprunki Battle for
+        Dream Island, réinvente le gameplay classique d'Incredibox Sprunki en
+        intégrant l'esthétique fantaisiste et thématique d'objets de Battle for
+        Dream Island (BFDI).
+      canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
+  de:
+    title: Sprunki Mod BFDI
+    description: >-
+      Der Sprunki Mod BFDI, auch bekannt als Sprunki Battle for Dream Island,
+      überarbeitet das klassische Incredibox Sprunki Gameplay durch die
+      Integration der skurrilen und objektthematischen Ästhetik von Battle for
+      Dream Island (BFDI).
+    meta:
+      title: Sprunki Mod BFDI - Sprunki Mod BFDI Online spielen
+      description: >-
+        Der Sprunki Mod BFDI, auch bekannt als Sprunki Battle for Dream Island,
+        überarbeitet das klassische Incredibox Sprunki Gameplay durch die
+        Integration der skurrilen und objektthematischen Ästhetik von Battle for
+        Dream Island (BFDI).
+      canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
+  ja:
+    title: Sprunki Mod BFDI
+    description: >-
+      Sprunki Mod BFDI（Sprunki Battle for Dream Islandとも呼ばれる）は、Battle for Dream
+      Island（BFDI）の幻想的でオブジェクトテーマの美学を統合することで、クラシックなIncredibox
+      Sprunkiゲームプレイを再構想しています。
+    meta:
+      title: Sprunki Mod BFDI - Sprunki Mod BFDIをオンラインでプレイ
+      description: >-
+        Sprunki Mod BFDI（Sprunki Battle for Dream Islandとも呼ばれる）は、Battle for
+        Dream Island（BFDI）の幻想的でオブジェクトテーマの美学を統合することで、クラシックなIncredibox
+        Sprunkiゲームプレイを再構想しています。
+      canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
+  ko:
+    title: 스프런키 모드 BFDI
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 모드 BFDI - 스프런키 모드 BFDI 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-mod-BFDI/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-mod-BFDI.png'
 ---
 
 ## What is Sprunki Mod BFDI?
