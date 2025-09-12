@@ -2,9 +2,9 @@ import { z, defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 
 const gamesCollection = defineCollection({
-  loader: glob({ 
-    pattern: ["*.md", "**/*.md"], 
-    base: "./src/content/games" 
+  loader: glob({
+    pattern: ["*.md", "**/*.md"],
+    base: "./src/content/games",
   }),
   schema: z
     .object({
@@ -63,15 +63,19 @@ const staticDataCollection = defineCollection({
   loader: glob({ pattern: "**/*.json", base: "./src/content/staticData" }),
   schema: z.object({
     navigation: z.object({
-      main: z.array(z.object({
-        label: z.string(),
-        url: z.string()
-      })),
-      languages: z.array(z.object({
-        code: z.string(),
-        url: z.string(),
-        label: z.string()
-      }))
+      main: z.array(
+        z.object({
+          label: z.string(),
+          url: z.string(),
+        }),
+      ),
+      languages: z.array(
+        z.object({
+          code: z.string(),
+          url: z.string(),
+          label: z.string(),
+        }),
+      ),
     }),
     homepage: z.object({
       meta: z.object({
@@ -79,49 +83,106 @@ const staticDataCollection = defineCollection({
         description: z.string(),
         keywords: z.string(),
         canonical: z.string().optional(),
-        ogImage: z.string().optional()
+        ogImage: z.string().optional(),
       }),
       hero: z.object({
         title: z.string(),
         description: z.string(),
-        mainGame: z.object({
-          iframe: z.string(),
-          backgroundImage: z.string()
-        }).optional()
+        mainGame: z
+          .object({
+            iframe: z.string(),
+            backgroundImage: z.string(),
+          })
+          .optional(),
       }),
-      soundSamples: z.array(z.object({
-        title: z.string(),
-        image: z.string(),
-        audio: z.string(),
-        category: z.string()
-      })),
-      videos: z.array(z.object({
-        name: z.string(),
-        description: z.string(),
-        thumbnailUrl: z.string(),
-        uploadDate: z.string(),
-        embedUrl: z.string(),
-        contentUrl: z.string(),
-        publisher: z.string()
-      })).optional()
+      soundSamples: z.array(
+        z.object({
+          title: z.string(),
+          image: z.string(),
+          audio: z.string(),
+          category: z.string(),
+        }),
+      ),
+      videos: z
+        .array(
+          z.object({
+            name: z.string(),
+            description: z.string(),
+            thumbnailUrl: z.string(),
+            uploadDate: z.string(),
+            embedUrl: z.string(),
+            contentUrl: z.string(),
+            publisher: z.string(),
+          }),
+        )
+        .optional(),
     }),
-    seoTemplates: z.object({
-      gamePage: z.object({
-        titleTemplate: z.string(),
-        descriptionTemplate: z.string(),
-        ogImageTemplate: z.string(),
-        canonicalTemplate: z.string(),
-        structuredData: z.object({
-          "@context": z.string(),
-          "@type": z.string(),
-          name: z.string(),
-          alternateName: z.string(),
-          url: z.string(),
-          description: z.string()
-        })
+    seoTemplates: z
+      .object({
+        gamePage: z.object({
+          titleTemplate: z.string(),
+          descriptionTemplate: z.string(),
+          ogImageTemplate: z.string(),
+          canonicalTemplate: z.string(),
+          structuredData: z.object({
+            "@context": z.string(),
+            "@type": z.string(),
+            name: z.string(),
+            alternateName: z.string(),
+            url: z.string(),
+            description: z.string(),
+          }),
+        }),
       })
-    }).optional()
-  })
+      .optional(),
+  }),
+});
+
+// 法务页面内容集合
+const legalCollection = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/legal" }),
+  schema: z.object({
+    privacy: z.object({
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        lastUpdated: z.string(),
+      }),
+      tableOfContents: z.array(
+        z.object({
+          id: z.string(),
+          label: z.string(),
+        }),
+      ),
+      sections: z.array(
+        z.object({
+          id: z.string(),
+          title: z.string(),
+          content: z.string(),
+        }),
+      ),
+    }),
+    terms: z.object({
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        lastUpdated: z.string(),
+      }),
+      tableOfContents: z.array(
+        z.object({
+          id: z.string(),
+          label: z.string(),
+        }),
+      ),
+      sections: z.array(
+        z.object({
+          id: z.string(),
+          title: z.string(),
+          content: z.string(),
+        }),
+      ),
+    }),
+  }),
 });
 
 // UI界面翻译内容集合
@@ -376,10 +437,12 @@ const i18nUICollection = defineCollection({
     faq: z.object({
       title: z.string(),
       description: z.string(),
-      items: z.array(z.object({
-        question: z.string(),
-        answer: z.string(),
-      })),
+      items: z.array(
+        z.object({
+          question: z.string(),
+          answer: z.string(),
+        }),
+      ),
     }),
     // 错误页面相关翻译
     error: z.object({
@@ -406,11 +469,13 @@ const i18nUICollection = defineCollection({
       features: z.object({
         defaultTitle: z.string(),
         defaultDescription: z.string(),
-        defaults: z.array(z.object({
-          icon: z.string(),
-          title: z.string(),
-          description: z.string(),
-        })),
+        defaults: z.array(
+          z.object({
+            icon: z.string(),
+            title: z.string(),
+            description: z.string(),
+          }),
+        ),
       }),
       howToPlay: z.object({
         defaultTitle: z.string(),
@@ -432,4 +497,5 @@ export const collections = {
   games: gamesCollection,
   i18nUI: i18nUICollection,
   staticData: staticDataCollection,
+  legal: legalCollection,
 };
