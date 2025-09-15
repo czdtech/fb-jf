@@ -3,6 +3,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
 
@@ -14,11 +15,11 @@ const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) 
 const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 
-const hreflangLinks = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
-  code: code === 'en' ? 'x-default' : code,
-  url: getAbsoluteLocaleUrl(code as SupportedLocale, '/404'),
-  label
-}))
+const hreflangLinks = generateHreflangLinks(
+  Object.entries(LOCALE_NAMES).map(([code, label]) => ({ code, label })),
+  '/404',
+  'https://www.playfiddlebops.com'
+)
 
 // Meta data for 404 page (localized)
 const meta = {

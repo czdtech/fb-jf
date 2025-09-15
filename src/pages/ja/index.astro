@@ -146,57 +146,10 @@ const structuredData = {
   <Footer />
 </BaseLayout>
 
-<script type="module" is:inline>
-  const scheduleLoad = () => {
-    const section = document.querySelector('.sound-samples-section');
-    if (!section) return;
-
-    const loadModules = async () => {
-      try {
-        const [notesMod] = await Promise.all([
-          import('/src/scripts/music-notes-animation.js'),
-          import('/src/scripts/sound-sample-player.js'),
-        ]);
-        const { musicNotesAnimation } = notesMod;
-
-        let last = 0;
-        section.addEventListener('click', (e) => {
-          const now = Date.now();
-          if (now - last < 200) return;
-          last = now;
-          musicNotesAnimation?.createClickAnimation?.(e, {
-            noteCount: Math.floor(Math.random() * 3) + 1,
-            staggerDelay: 100,
-            duration: 1200,
-          });
-        }, { passive: true });
-      } catch (err) {
-        console.warn('[ja/index] 延迟加载交互脚本失败', err);
-      }
-    };
-
-    if ('IntersectionObserver' in window) {
-      const io = new IntersectionObserver((entries) => {
-        if (entries.some((en) => en.isIntersecting)) {
-          io.disconnect();
-          loadModules();
-        }
-      }, { rootMargin: '200px' });
-      io.observe(section);
-    } else if ('requestIdleCallback' in window) {
-      // @ts-ignore
-      requestIdleCallback(() => loadModules());
-    } else {
-      setTimeout(() => loadModules(), 1);
-    }
-  };
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', scheduleLoad);
-  } else {
-    scheduleLoad();
-  }
-</script>
+<script type="module">
+    import { initHomepage } from '@/scripts/pages/homepage.js';
+    initHomepage();
+  </script>
 
 <style>
   /* Minimal custom styles - most styling now handled by Tailwind utilities */

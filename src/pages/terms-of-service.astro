@@ -3,15 +3,16 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
 
 // 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: `https://www.playfiddlebops.com/terms-of-service/`,
-  label: lang.label,
-}))
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/terms-of-service',
+  'https://www.playfiddlebops.com'
+)
 
 // Meta data for terms page
 const meta = {

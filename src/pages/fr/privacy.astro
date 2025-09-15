@@ -3,658 +3,85 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: `https://www.playfiddlebops.com${lang.code === 'en' ? '' : '/' + lang.code}/privacy/`,
-  label: lang.label,
-}))
+// 获取当前语言
+const locale = 'fr'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const privacyData = legalContent?.data.privacy
+
+if (!privacyData) {
+  throw new Error(`Privacy content not found for locale: ${locale}`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/privacy',
+  'https://www.playfiddlebops.com'
+)
 
 // Meta data for privacy page
 const meta = {
-  title: "Politique de confidentialité | FiddleBops",
-  description: "Découvrez comment FiddleBops collecte, utilise et protège vos informations personnelles. Notre politique de confidentialité complète explique nos pratiques de données.",
-  canonical: "https://www.playfiddlebops.com/fr/privacy/",
+  title: privacyData.meta.title,
+  description: privacyData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/privacy/`,
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
-  robots: "index, follow"
+  robots: "noindex, nofollow"
 }
 ---
 
 <BaseLayout
   meta={meta}
-  lang="fr"
+  lang={locale}
   hreflang={hreflangLinks}
 >
   <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
-    currentLang="fr"
-    currentPath="/fr/privacy/"
+    currentLang={locale}
+    currentPath="/privacy/"
   />
 
-  <main class="privacy-page">
-    <!-- Hero Section -->
-    <section class="privacy-hero section">
-      <div class="container">
-        <div class="privacy-hero-content">
-          <!-- 面包屑导航 -->
-          <nav class="breadcrumb" aria-label="Navigation de ruta">
-            <a href="/fr/" class="breadcrumb-link">
-              <i class="fas fa-home"></i>
-              <span>Accueil</span>
-            </a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">Politique de confidentialité</span>
-          </nav>
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{privacyData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {privacyData.meta.lastUpdated}</p>
+      </header>
 
-          <div class="hero-content">
-            <h1 class="privacy-title heading-display">
-              <span class="title-main">Politique de</span>
-              <span class="title-accent">Confidentialité</span>
-            </h1>
-            <p class="privacy-subtitle body-large">
-              Nous respectons votre vie privée et nous nous engageons à protéger vos informations personnelles.
-              Découvrez nos pratiques de données et vos droits.
-            </p>
-            <div class="last-updated">
-              <i class="fas fa-calendar-alt"></i>
-              <span>Dernière mise à jour : 10 février 2025</span>
-            </div>
-          </div>
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {privacyData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
 
-          <!-- 装饰性图标 -->
-          <div class="privacy-icons">
-            <div class="privacy-icon"><i class="fas fa-shield-alt"></i></div>
-            <div class="privacy-icon"><i class="fas fa-lock"></i></div>
-            <div class="privacy-icon"><i class="fas fa-user-shield"></i></div>
-          </div>
-        </div>
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {privacyData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
       </div>
-    </section>
-
-    <!-- Privacy Content Section -->
-    <section class="privacy-content section">
-      <div class="container">
-        <div class="content-wrapper">
-
-          <!-- Navigation Menu -->
-          <aside class="privacy-nav glass">
-            <h3>Table des matières</h3>
-            <ul>
-              <li><a href="#introduction">Introduction</a></li>
-              <li><a href="#definitions">Définitions</a></li>
-              <li><a href="#collecte-donnees">Collecte de Données</a></li>
-              <li><a href="#utilisation-donnees">Utilisation des Données</a></li>
-              <li><a href="#partage-donnees">Partage des Données</a></li>
-              <li><a href="#securite-donnees">Sécurité des Données</a></li>
-              <li><a href="#vos-droits">Vos Droits</a></li>
-              <li><a href="#contact">Contact</a></li>
-            </ul>
-          </aside>
-
-          <!-- Main Content -->
-          <article class="privacy-article glass">
-
-            <section id="introduction">
-              <h2>Introduction</h2>
-              <p>La présente Politique de confidentialité décrit nos politiques et procédures sur la collecte, l'utilisation et la divulgation de Vos informations lorsque Vous utilisez le Service et Vous informe de Vos droits à la vie privée et de la manière dont la loi Vous protège.</p>
-              <p>Nous utilisons Vos données personnelles pour fournir et améliorer le Service. En utilisant le Service, Vous acceptez la collecte et l'utilisation des informations conformément à la présente Politique de confidentialité.</p>
-            </section>
-
-            <section id="definitions">
-              <h2>Interprétation et définitions</h2>
-              <h3>Interprétation</h3>
-              <p>Les mots dont la lettre initiale est en majuscule ont des significations définies dans les conditions suivantes. Les définitions suivantes ont la même signification, qu'elles apparaissent au singulier ou au pluriel.</p>
-
-              <h3>Définitions</h3>
-              <p>Aux fins de la présente Politique de confidentialité :</p>
-              <ul>
-                <li><strong>Compte</strong> désigne un compte unique créé pour Vous afin d'accéder à Notre Service ou à des parties de Notre Service.</li>
-                <li><strong>Affilié</strong> désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où "contrôle" signifie la propriété de 50 % ou plus des actions, des participations ou d'autres titres habilités à voter pour l'élection des administrateurs ou d'autres autorités de gestion.</li>
-                <li><strong>Société</strong> (désignée dans le présent accord par les termes "la Société", "Nous", "Notre" ou "Nos") fait référence à FiddleBops.</li>
-                <li><strong>Cookies</strong> sont de petits fichiers qui sont placés sur Votre ordinateur, appareil mobile ou tout autre appareil par un site Web, contenant les détails de Votre historique de navigation sur ce site Web, parmi ses nombreuses utilisations.</li>
-                <li><strong>Pays</strong> fait référence à : New York, États-Unis</li>
-                <li><strong>Appareil</strong> désigne tout appareil pouvant accéder au Service, tel qu'un ordinateur, un téléphone portable ou une tablette numérique.</li>
-                <li><strong>Données personnelles</strong> désigne toute information se rapportant à une personne physique identifiée ou identifiable.</li>
-                <li><strong>Service</strong> fait référence au Site Web.</li>
-                <li><strong>Fournisseur de services</strong> désigne toute personne physique ou morale qui traite les données pour le compte de la Société.</li>
-                <li><strong>Site Web</strong> fait référence à FiddleBops, accessible à partir de <a href="https://www.playfiddlebops.com/" target="_blank" rel="external noopener">https://www.playfiddlebops.com/</a></li>
-                <li><strong>Vous</strong> désigne la personne accédant ou utilisant le Service, ou la société ou autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.</li>
-              </ul>
-            </section>
-
-            <section id="collecte-donnees">
-              <h2>Collecte et utilisation de vos données personnelles</h2>
-              <h3>Types de données collectées</h3>
-
-              <h4>Données personnelles</h4>
-              <p>Lors de l'utilisation de Notre Service, Nous pouvons Vous demander de Nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour Vous contacter ou Vous identifier. Les informations personnellement identifiables peuvent inclure, sans toutefois s'y limiter :</p>
-              <ul>
-                <li>Données d'utilisation</li>
-              </ul>
-
-              <h4>Données d'utilisation</h4>
-              <p>Les données d'utilisation sont collectées automatiquement lors de l'utilisation du Service.</p>
-              <p>Les données d'utilisation peuvent inclure des informations telles que l'adresse de protocole Internet (par exemple, l'adresse IP) de Votre appareil, le type de navigateur, la version du navigateur, les pages de Notre Service que Vous visitez, la date et l'heure de Votre visite, le temps passé sur ces pages, les identifiants uniques d'appareil et autres données de diagnostic.</p>
-              <p>Lorsque Vous accédez au Service par ou via un appareil mobile, Nous pouvons collecter automatiquement certaines informations, y compris, mais sans s'y limiter, le type d'appareil mobile que Vous utilisez, l'identifiant unique de Votre appareil mobile, l'adresse IP de Votre appareil mobile, Votre système d'exploitation mobile, le type de navigateur Internet mobile que Vous utilisez, les identifiants uniques d'appareil et autres données de diagnostic.</p>
-
-              <h4>Technologies de suivi et cookies</h4>
-              <p>Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur Notre Service et stocker certaines informations. Les technologies de suivi utilisées sont les balises, les tags et les scripts pour collecter et suivre les informations et pour améliorer et analyser Notre Service.</p>
-
-              <div class="info-box">
-                <i class="fas fa-info-circle"></i>
-                <div>
-                  <h5>Avis sur les Cookies</h5>
-                  <p>Nous utilisons à la fois des Cookies de Session et Persistants pour la fonctionnalité essentielle du site web, l'analyse et l'amélioration de votre expérience utilisateur.</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="utilisation-donnees">
-              <h2>Utilisation de Vos données personnelles</h2>
-              <p>La Société peut utiliser les Données personnelles aux fins suivantes :</p>
-              <ul>
-                <li><strong>Pour fournir et maintenir notre Service</strong>, y compris pour surveiller l'utilisation de notre Service.</li>
-                <li><strong>Pour gérer Votre Compte :</strong> pour gérer Votre inscription en tant qu'utilisateur du Service.</li>
-                <li><strong>Pour l'exécution d'un contrat :</strong> le développement, respect et réalisation du contrat d'achat des produits, articles ou services que Vous avez achetés.</li>
-                <li><strong>Pour Vous contacter :</strong> Pour Vous contacter par e-mail, appels téléphoniques, SMS ou autres formes équivalentes de communication électronique.</li>
-                <li><strong>Pour Vous fournir</strong> des nouvelles, offres spéciales et informations générales sur d'autres biens, services et événements que Nous proposons.</li>
-                <li><strong>Pour gérer Vos demandes :</strong> Pour répondre à et gérer Vos demandes à Nous.</li>
-                <li><strong>Pour les transferts d'entreprises :</strong> Nous pouvons utiliser Vos informations pour évaluer ou mener une fusion, cession, restructuration, réorganisation, dissolution, ou autre vente.</li>
-                <li><strong>Pour d'autres fins</strong>: Nous pouvons utiliser Vos informations pour d'autres fins, telles que l'analyse des données, identification des tendances d'usage, détermination de l'efficacité de nos campagnes promotionnelles.</li>
-              </ul>
-            </section>
-
-            <section id="partage-donnees">
-              <h2>Divulgation de Vos données personnelles</h2>
-              <h3>Transactions commerciales</h3>
-              <p>Si la Société est impliquée dans une fusion, acquisition ou vente d'actifs, Vos Données personnelles peuvent être transférées. Nous Vous aviserons avant que Vos Données personnelles ne soient transférées et ne soient soumises à une Politique de confidentialité différente.</p>
-
-              <h3>Application de la loi</h3>
-              <p>Dans certaines circonstances, la Société peut être tenue de divulguer Vos Données personnelles si la loi l'exige ou en réponse à des demandes valides des autorités publiques.</p>
-
-              <div class="warning-box">
-                <i class="fas fa-exclamation-triangle"></i>
-                <div>
-                  <h5>Note importante</h5>
-                  <p>Nous ne vendrons jamais, ne louerons jamais ou n'échangerons jamais vos informations personnelles à des tiers à des fins de marketing.</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="securite-donnees">
-              <h2>Sécurité de Vos données personnelles</h2>
-              <p>La sécurité de Vos Données personnelles est importante pour Nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique, n'est sécurisée à 100 %. Bien que Nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger Vos Données personnelles, Nous ne pouvons garantir leur sécurité absolue.</p>
-            </section>
-
-            <section id="vos-droits">
-              <h2>Vos droits de confidentialité</h2>
-              <p>Vous pouvez mettre à jour, modifier ou supprimer Vos informations à tout moment en Nous contactant. Vous pouvez également avoir certains droits concernant vos informations personnelles sous les lois de confidentialité applicables.</p>
-
-              <div class="rights-grid">
-                <div class="right-item">
-                  <i class="fas fa-eye"></i>
-                  <h4>Droit d'accès</h4>
-                  <p>Vous pouvez demander l'accès à vos données personnelles</p>
-                </div>
-                <div class="right-item">
-                  <i class="fas fa-edit"></i>
-                  <h4>Droit de correction</h4>
-                  <p>Vous pouvez demander la correction des données inexactes</p>
-                </div>
-                <div class="right-item">
-                  <i class="fas fa-trash"></i>
-                  <h4>Droit d'effacement</h4>
-                  <p>Vous pouvez demander la suppression de vos données</p>
-                </div>
-                <div class="right-item">
-                  <i class="fas fa-ban"></i>
-                  <h4>Droit d'opposition</h4>
-                  <p>Vous pouvez vous opposer à certains traitements de données</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="contact">
-              <h2>Nous contacter</h2>
-              <p>Si vous avez des questions concernant la présente Politique de confidentialité, Vous pouvez Nous contacter :</p>
-              <div class="contact-info">
-                <div class="contact-item">
-                  <i class="fas fa-envelope"></i>
-                  <span>chongzhidatech@gmail.com</span>
-                </div>
-                <div class="contact-item">
-                  <i class="fas fa-globe"></i>
-                  <span><a href="https://www.playfiddlebops.com/">www.playfiddlebops.com</a></span>
-                </div>
-              </div>
-            </section>
-
-          </article>
-        </div>
-      </div>
-    </section>
+    </article>
   </main>
 
-  <Footer />
+  <Footer
+    locale={locale}
+  />
 </BaseLayout>
-
-<style>
-  /* ===== PRIVACY POLICY PAGE STYLES ===== */
-
-  /* Page Background */
-  body {
-    background: var(--hero-main-bg);
-    min-height: 100vh;
-  }
-
-  .privacy-page {
-    background: transparent;
-  }
-
-  /* Privacy Hero Section */
-  .privacy-hero {
-    background: var(--hero-main-bg);
-    color: var(--color-text);
-    padding: var(--space-16) 0 var(--space-8);
-    padding-top: calc(80px + var(--space-8));
-    position: relative;
-    overflow: hidden;
-  }
-
-  .privacy-hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--hero-texture-bg);
-    opacity: var(--hero-texture-opacity);
-    pointer-events: none;
-  }
-
-  .privacy-hero-content {
-    position: relative;
-    z-index: 10;
-    text-align: center;
-  }
-
-  /* Breadcrumb Navigation */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: var(--space-2);
-    margin-bottom: var(--space-6);
-    font-size: var(--font-size-sm);
-    justify-content: center;
-  }
-
-  .breadcrumb-link {
-    display: flex;
-    align-items: center;
-    gap: var(--space-1);
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: all var(--duration-200) var(--ease-in-out);
-    padding: var(--space-1) var(--space-2);
-    border-radius: var(--border-radius-md);
-  }
-
-  .breadcrumb-link:hover {
-    color: var(--color-primary-700);
-    background: rgba(147, 51, 234, 0.1);
-  }
-
-  .breadcrumb-separator {
-    color: var(--color-gray-400);
-    font-weight: 500;
-  }
-
-  .breadcrumb-current {
-    color: var(--color-gray-600);
-    font-weight: 500;
-  }
-
-  /* Hero Content */
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-
-  .privacy-title {
-    margin-bottom: var(--space-6);
-    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  }
-
-  .title-main {
-    display: block;
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .title-accent {
-    display: block;
-    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .privacy-subtitle {
-    margin-bottom: var(--space-6);
-    color: var(--color-text-muted);
-  }
-
-  .last-updated {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-2);
-    background: rgba(147, 51, 234, 0.1);
-    padding: var(--space-2) var(--space-4);
-    border-radius: var(--border-radius-md);
-    color: var(--color-primary-600);
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-medium);
-  }
-
-  /* Privacy Icons */
-  .privacy-icons {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    pointer-events: none;
-    z-index: 1;
-  }
-
-  .privacy-icon {
-    position: absolute;
-    font-size: 3rem;
-    color: rgba(147, 51, 234, 0.1);
-    animation: float-icons 10s ease-in-out infinite;
-  }
-
-  .privacy-icon:nth-child(1) {
-    left: 10%;
-    top: 20%;
-    animation-delay: 0s;
-  }
-
-  .privacy-icon:nth-child(2) {
-    right: 10%;
-    top: 30%;
-    animation-delay: 2s;
-  }
-
-  .privacy-icon:nth-child(3) {
-    left: 15%;
-    top: 70%;
-    animation-delay: 4s;
-  }
-
-  @keyframes float-icons {
-    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
-    25% { transform: translateY(-10px) rotate(2deg); opacity: 0.15; }
-    50% { transform: translateY(-20px) rotate(-1deg); opacity: 0.1; }
-    75% { transform: translateY(-10px) rotate(1deg); opacity: 0.15; }
-  }
-
-  /* Content Section */
-  .privacy-content {
-    background: transparent;
-  }
-
-  .content-wrapper {
-    display: grid;
-    grid-template-columns: 300px 1fr;
-    gap: var(--space-12);
-    align-items: start;
-  }
-
-  /* Navigation Menu */
-  .privacy-nav {
-    position: sticky;
-    top: calc(80px + var(--space-4));
-    padding: var(--space-6);
-    border-radius: var(--border-radius-xl);
-  }
-
-  .privacy-nav h3 {
-    margin-bottom: var(--space-4);
-    color: var(--color-text);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  .privacy-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .privacy-nav li {
-    margin-bottom: var(--space-2);
-  }
-
-  .privacy-nav a {
-    display: block;
-    padding: var(--space-2) var(--space-3);
-    color: var(--color-text-muted);
-    text-decoration: none;
-    border-radius: var(--border-radius-md);
-    transition: all var(--duration-200) var(--ease-in-out);
-    font-size: var(--font-size-sm);
-  }
-
-  .privacy-nav a:hover {
-    color: var(--color-primary-600);
-    background: rgba(147, 51, 234, 0.1);
-    transform: translateX(4px);
-  }
-
-  /* Article Content */
-  .privacy-article {
-    padding: var(--space-8);
-    border-radius: var(--border-radius-xl);
-    line-height: 1.7;
-  }
-
-  .privacy-article h2 {
-    color: var(--color-text);
-    margin-top: var(--space-8);
-    margin-bottom: var(--space-4);
-    font-size: var(--font-size-2xl);
-    font-weight: var(--font-weight-semibold);
-    padding-bottom: var(--space-2);
-    border-bottom: 2px solid var(--color-primary-600);
-  }
-
-  .privacy-article h2:first-child {
-    margin-top: 0;
-  }
-
-  .privacy-article h3 {
-    color: var(--color-text);
-    margin-top: var(--space-6);
-    margin-bottom: var(--space-3);
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .privacy-article h4 {
-    color: var(--color-text);
-    margin-top: var(--space-4);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .privacy-article h5 {
-    color: var(--color-text);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-base);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .privacy-article p {
-    margin-bottom: var(--space-4);
-    color: var(--color-text-muted);
-  }
-
-  .privacy-article ul {
-    margin-bottom: var(--space-4);
-    padding-left: var(--space-6);
-  }
-
-  .privacy-article li {
-    margin-bottom: var(--space-2);
-    color: var(--color-text-muted);
-  }
-
-  .privacy-article a {
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: color var(--duration-200) var(--ease-in-out);
-  }
-
-  .privacy-article a:hover {
-    color: var(--color-primary-700);
-    text-decoration: underline;
-  }
-
-  .privacy-article strong {
-    color: var(--color-text);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  /* Info Boxes */
-  .info-box, .warning-box {
-    display: flex;
-    gap: var(--space-3);
-    padding: var(--space-4);
-    border-radius: var(--border-radius-md);
-    margin: var(--space-6) 0;
-  }
-
-  .info-box {
-    background: rgba(59, 130, 246, 0.1);
-    border-left: 4px solid #3b82f6;
-  }
-
-  .warning-box {
-    background: rgba(245, 158, 11, 0.1);
-    border-left: 4px solid #f59e0b;
-  }
-
-  .info-box i, .warning-box i {
-    font-size: var(--font-size-xl);
-    margin-top: var(--space-1);
-  }
-
-  .info-box i {
-    color: #3b82f6;
-  }
-
-  .warning-box i {
-    color: #f59e0b;
-  }
-
-  /* Rights Grid */
-  .rights-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: var(--space-6);
-    margin: var(--space-6) 0;
-  }
-
-  .right-item {
-    text-align: center;
-    padding: var(--space-6);
-    background: rgba(147, 51, 234, 0.05);
-    border-radius: var(--border-radius-lg);
-    transition: all var(--duration-200) var(--ease-in-out);
-  }
-
-  .right-item:hover {
-    transform: translateY(-4px);
-    background: rgba(147, 51, 234, 0.1);
-  }
-
-  .right-item i {
-    font-size: 2rem;
-    color: var(--color-primary-600);
-    margin-bottom: var(--space-3);
-  }
-
-  .right-item h4 {
-    margin-bottom: var(--space-2);
-    color: var(--color-text);
-  }
-
-  .right-item p {
-    margin: 0;
-    font-size: var(--font-size-sm);
-    color: var(--color-text-muted);
-  }
-
-  /* Contact Info */
-  .contact-info {
-    margin-top: var(--space-4);
-  }
-
-  .contact-item {
-    display: flex;
-    align-items: center;
-    gap: var(--space-3);
-    margin-bottom: var(--space-3);
-    color: var(--color-text-muted);
-  }
-
-  .contact-item i {
-    color: var(--color-primary-600);
-    font-size: var(--font-size-lg);
-  }
-
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .content-wrapper {
-      grid-template-columns: 1fr;
-      gap: var(--space-8);
-    }
-
-    .privacy-nav {
-      position: static;
-      order: 2;
-    }
-
-    .privacy-article {
-      padding: var(--space-6);
-    }
-
-    .privacy-hero {
-      padding: var(--space-12) 0 var(--space-6);
-    }
-
-    .breadcrumb {
-      margin-bottom: var(--space-4);
-    }
-
-    .rights-grid {
-      grid-template-columns: 1fr;
-      gap: var(--space-4);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .privacy-article {
-      padding: var(--space-4);
-    }
-
-    .privacy-title {
-      font-size: var(--font-size-3xl);
-    }
-  }
-</style>

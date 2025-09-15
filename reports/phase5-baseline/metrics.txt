@@ -1,0 +1,21 @@
+=== Code Metrics ===
+Total TS/TSX/Astro lines: 31438
+Content files: 474
+Inline scripts: 0
+
+=== Top 10 Largest Files ===
+1073 src/components/GameHero.astro
+857 src/components/SoundSample.astro
+813 src/utils/url-service.ts
+773 src/pages/terms-of-service.astro
+731 src/pages/fr/terms-of-service.astro
+731 src/pages/es/terms-of-service.astro
+731 src/pages/de/terms-of-service.astro
+730 src/pages/ko/terms-of-service.astro
+730 src/pages/ja/terms-of-service.astro
+661 src/pages/de/privacy.astro
+
+=== Package Count ===
+Total dependencies: 38
+Production deps: 16
+Dev deps: 4

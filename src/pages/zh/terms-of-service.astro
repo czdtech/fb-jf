@@ -1,447 +1,87 @@
-import NAV from "../../components/legacy/nav.astro"
-import '@/styles/design-tokens.css';
-import '@/styles/components.css';
 ---
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>服务条款 | FiddleBops</title>
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
-    <!-- 设计系统样式已通过前置 import 引入并由 Astro 打包 -->
+const { navigation } = extractedData
 
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"></noscript>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/zh/terms-of-service/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-    </style>
-<script is:inline>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
+// 获取当前语言
+const locale = 'zh'
 
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const termsData = legalContent?.data.terms
 
-});
-</script>
-<!-- 已移除页面内重复的 GA/Ads 注入，统一由 BaseLayout 管理（PROD 注入，DEV 禁用外链） -->
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/zh/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-         <button class="nav-toggle" aria-label="切换导航">☰</button>
-        <nav class="nav-menu">
-            <ul>
-                <li><a href="/zh/">首页</a></li>
-                <NAV />
-            </ul>
-        </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/terms-of-service/">English</option>
-    <option data-lang="zh" data-url="/zh/terms-of-service/">简体中文</option>
-    <option data-lang="es" data-url="/es/terms-of-service/">Español</option>
-    <option data-lang="fr" data-url="/fr/terms-of-service/">Français</option>
-    <option data-lang="de" data-url="/de/terms-of-service/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/terms-of-service/">日本語</option>
-    <option data-lang="ko" data-url="/ko/terms-of-service/">한국어</option>
-    </select>
-    </div>
-</header>
+if (!termsData) {
+  throw new Error(`Terms content not found for locale: ${locale}`)
+}
 
-    <main>
-      <div class="page">
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/terms-of-service',
+  'https://www.playfiddlebops.com'
+)
 
-        <div class="header">
-            <div class="container">
-                <p class="title"></p>
-            </div>
-        </div>
+// Meta data for terms page
+const meta = {
+  title: termsData.meta.title,
+  description: termsData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/terms-of-service/`,
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "noindex, nofollow"
+}
+---
 
+<BaseLayout
+  meta={meta}
+  lang={locale}
+  hreflang={hreflangLinks}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang={locale}
+    currentPath="/terms-of-service/"
+  />
 
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{termsData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {termsData.meta.lastUpdated}</p>
+      </header>
 
-        <div class="translations-content-container">
-            <div class="container">
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {termsData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
 
-
-                <div class="tab-content translations-content-item en visible" id="en">
-
-                  <h1 data-custom-class="title">服务条款</h1>
-                  <p data-custom-class="subtitle"><strong>上次更新</strong> 2025年2月10日</p>
-                  <br>
-                  <h2 data-custom-class="heading_1">法律条款协议</h2>
-                  <a name="_6aa3gkhykvst"></a>
-                  <p data-custom-class="body_text">
-                  我们是
-                  <bdt class="question">playfiddlebops</bdt>。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  我们运营网站
-                  <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">http://www.playfiddlebops.com</a>
-                  （以下简称“<strong>网站</strong>”），以及任何其他引用或链接到这些法律条款的相关产品和服务（以下简称“<strong>法律条款</strong>”）（统称为“<strong>服务</strong>”）。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  您可以通过电子邮件联系我们：
-                  <bdt class="question">chongzhidatech@gmail.com</bdt>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  这些法律条款构成您（无论是个人还是代表实体）（以下简称“<strong>您</strong>”）与我们之间就您访问和使用服务而达成的具有法律约束力的协议。您同意，通过访问服务，您已阅读、理解并同意受所有这些法律条款的约束。<strong>如果您不同意所有这些法律条款，则您被明确禁止使用服务，并且必须立即停止使用。</strong>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  不时发布在服务上的补充条款和条件或文件在此通过引用明确纳入本协议。我们保留自行决定不时更改或修改这些法律条款的权利。我们将通过更新这些法律条款的“上次更新”日期来提醒您任何更改，并且您放弃收到每次此类更改的具体通知的任何权利。您有责任定期查看这些法律条款，以随时了解更新。您将受到任何修订后的法律条款中的更改的约束，并且将被视为已意识到并已接受，并且通过在发布此类修订后的法律条款之后继续使用服务，接受这些法律条款中的变更。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  这些服务面向至少18岁的用户。 不允许18岁以下的人使用或注册这些服务。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  我们建议您打印一份这些法律条款的副本以作记录。
-                  </p>
-
-                  <h2 data-custom-class="heading_1">目录</h2>
-                  <p><a href="#services">1. 我们的服务</a></p>
-                  <p><a href="#ip">2. 知识产权</a></p>
-                  <p><a href="#userreps">3. 用户声明</a></p>
-                  <p><a href="#prohibited">4. 禁止的活动</a></p>
-                  <p><a href="#ugc">5. 用户生成的内容</a></p>
-                  <p><a href="#license">6. 内容许可</a></p>
-                  <p><a href="#thirdparty">7. 第三方网站和内容</a></p>
-                  <p><a href="#advertisers">8. 广告商</a></p>
-                  <p><a href="#sitemanage">9. 服务管理</a></p>
-                  <p><a href="#ppyes">10. 隐私政策</a></p>
-                  <p><a href="#terms">11. 期限和终止</a></p>
-                  <p><a href="#modifications">12. 修改和中断</a></p>
-                  <p><a href="#law">13. 适用法律</a></p>
-                  <p><a href="#disputes">14. 争议解决</a></p>
-                  <p><a href="#corrections">15. 更正</a></p>
-                  <p><a href="#disclaimer">16. 免责声明</a></p>
-                  <p><a href="#liability">17. 责任限制</a></p>
-                  <p><a href="#indemnification">18. 赔偿</a></p>
-                  <p><a href="#userdata">19. 用户数据</a></p>
-                  <p><a href="#electronic">20. 电子通讯、交易和签名</a></p>
-                  <p><a href="#misc">21. 其他</a></p>
-                  <p><a href="#contact">22. 联系我们</a></p>
-
-                  <a name="_b6y29mp52qvx"></a>
-
-                  <h2 data-custom-class="heading_1" id="services">1. 我们的服务</h2>
-
-                  <p data-custom-class="body_text">
-                  使用服务时提供的信息不适用于在任何司法管辖区或国家/地区分发给任何人或实体，或供其使用，如果此类分发或使用违反法律或法规，或使我们受到该司法管辖区或国家/地区的任何注册要求。因此，那些选择从其他地点访问服务的人员应自行主动进行访问，并应全权负责遵守当地法律（如果当地法律适用且在当地法律适用的范围内）。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  这些服务并非旨在遵守特定行业的法规（健康保险流通与责任法案 (HIPAA)、联邦信息安全管理法案 (FISMA) 等），因此，如果您的互动会受到此类法律的约束，则您不得使用这些服务。您不得以违反格莱姆-里奇-比利雷法案 (GLBA) 的方式使用这些服务。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ip">2. 知识产权</h2>
-
-                  <h3 data-custom-class="heading_2">我们的知识产权</h3>
-                  <p data-custom-class="body_text">
-                  我们是服务中所有知识产权的所有者或被许可人，包括服务中的所有源代码、数据库、功能、软件、网站设计、音频、视频、文本、照片和图形（统称为“内容”），以及其中包含的商标、服务标志和徽标（“标志”）。
-                  </p>
-                  <p data-custom-class="body_text">
-                  我们的内容和标志受美国和世界各地的版权和商标法（以及各种其他知识产权和不正当竞争法）和条约的保护。
-                  </p>
-                  <p data-custom-class="body_text">
-                  内容和标志是在服务中或通过服务“按原样”提供的，仅供您个人、非商业用途或内部商业目的使用。
-                  </p>
-
-                  <h3 data-custom-class="heading_2">您对我们服务的使用</h3>
-                  <p data-custom-class="body_text">
-                  在您遵守这些法律条款（包括以下<a data-custom-class="link" href="#prohibited">禁止的活动</a>部分）的前提下，我们授予您一项非排他性、不可转让、可撤销的许可，以：
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">访问服务；以及</li>
-                      <li data-custom-class="body_text">下载或打印您已正确获得访问权限的任何部分内容的副本，</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  仅供您个人、非商业用途或内部商业目的使用。
-                  </p>
-                  <p data-custom-class="body_text">
-                  除非本节或我们法律条款的其他地方另有规定，未经我们事先明确书面许可，不得以任何商业目的复制、复制、聚合、重新发布、上传、发布、公开展示、编码、翻译、传输、分发、出售、许可或以其他方式利用服务的任何部分以及任何内容或标志。
-                  </p>
-                  <p data-custom-class="body_text">
-                  如果您希望以不同于本节或我们法律条款的其他地方规定的方式使用服务、内容或标志，请将您的请求发送至：chongzhidatech@gmail.com。如果我们曾经授予您发布、复制或公开展示我们服务或内容的任何部分的许可，您必须将我们标识为服务、内容或标志的所有者或许可人，并确保在发布、复制或展示我们的内容时显示或可见任何版权或所有权声明。
-                  </p>
-                  <p data-custom-class="body_text">
-                  我们保留未明确授予您的关于服务、内容和标志的所有权利。
-                  </p>
-                  <p data-custom-class="body_text">
-                  任何违反这些知识产权的行为都将构成对我们法律条款的重大违反，并且您使用我们服务的权利将立即终止。
-                  </p>
-
-                  <h3 data-custom-class="heading_2">您的提交</h3>
-                  <p data-custom-class="body_text">
-                  在使用我们的服务之前，请仔细阅读本节和<a data-custom-class="link" href="#prohibited">禁止的活动</a>部分，以了解 (a) 您授予我们的权利和 (b) 当您通过服务发布或上传任何内容时您应承担的义务。
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>提交：</strong>通过直接向我们发送关于服务的任何问题、评论、建议、想法、反馈或其他信息（“提交”），您同意将此类提交中的所有知识产权转让给我们。您同意我们应拥有此提交，并有权以任何合法目的（商业或其他目的）不受限制地使用和传播它，而无需向您致谢或补偿。
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>您对您发布或上传的内容负责：</strong>通过通过服务的任何部分向我们发送提交，您：
-                  </p>
-                  <ul>
-                          <li data-custom-class="body_text">确认您已阅读并同意我们的<a data-custom-class="link" href="#prohibited">禁止的活动</a>，并且不会通过服务发布、发送、发布、上传或传输任何非法、骚扰、仇恨、有害、诽谤、淫秽、欺凌、辱骂、歧视、威胁任何人或团体、性暴露、虚假、不准确、欺骗性或误导性的提交；</li>
-                          <li data-custom-class="body_text">在适用法律允许的范围内，放弃对任何此类提交的任何和所有精神权利；</li>
-                          <li data-custom-class="body_text">保证任何此类提交均为您的原创，或者您拥有提交此类提交的必要权利和许可，并且您拥有充分的授权授予我们上述与您的提交相关的权利；以及</li>
-                          <li data-custom-class="body_text">保证并声明您的提交不构成机密信息。</li>
-                      </ul>
-                  <p data-custom-class="body_text">
-                  您对您的提交负全部责任，并且您明确同意因您违反 (a) 本节、(b) 任何第三方的知识产权或 (c) 适用法律而可能遭受的任何和所有损失向我们赔偿。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="userreps">3. 用户声明</h2>
-                  <p data-custom-class="body_text">
-                  通过使用服务，您声明并保证：（1）您具有法律行为能力并且您同意遵守这些法律条款；（2）您不是您所居住司法管辖区的未成年人；（3）您不会通过自动化或非人为方式（无论是通过机器人、脚本或其他方式）访问服务；（4）您不会将服务用于任何非法或未经授权的目的；并且（5）您对服务的使用不会违反任何适用法律或法规。
-                  </p>
-                  <p data-custom-class="body_text">
-                  如果您提供任何不真实、不准确、非最新或不完整的信息，我们有权暂停或终止您的帐户，并拒绝您当前或将来使用服务（或其任何部分）。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="prohibited">4. 禁止的活动</h2>
-                  <p data-custom-class="body_text">
-                  您不得将服务用于除我们提供服务以外的任何目的。除非我们特别认可或批准，否则不得将服务用于任何商业活动。
-                  </p>
-                  <p data-custom-class="body_text">
-                  作为服务用户，您同意不：
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">在未经我们书面许可的情况下，有系统地从服务中检索数据或其他内容，以直接或间接地创建或编译集合、汇编、数据库或目录。</li>
-                      <li data-custom-class="body_text">欺骗、欺诈或误导我们和其他用户，尤其是在任何试图了解敏感帐户信息（如用户密码）的尝试中。</li>
-                      <li data-custom-class="body_text">绕过、禁用或以其他方式干扰服务的安全相关功能，包括防止或限制使用或复制任何内容或强制限制使用服务和/或其中包含的内容的功能。</li>
-                      <li data-custom-class="body_text">贬低、玷污或以其他方式损害我们和/或服务（在我们看来）。</li>
-                      <li data-custom-class="body_text">使用从服务中获得的任何信息来骚扰、虐待或伤害他人。</li>
-                      <li data-custom-class="body_text">不当使用我们的支持服务或提交虚假的虐待或不当行为报告。</li>
-                      <li data-custom-class="body_text">以不符合任何适用法律或法规的方式使用服务。</li>
-                      <li data-custom-class="body_text">未经授权地对服务进行框架或链接。</li>
-                      <li data-custom-class="body_text">上传或传输（或尝试上传或传输）病毒、特洛伊木马或其他材料，包括过度使用大写字母和垃圾邮件（连续发布重复文本），这些材料会干扰任何一方不间断地使用和享受服务，或修改、损害、破坏、更改或干扰服务的使用、特性、功能、操作或维护。</li>
-                      <li data-custom-class="body_text">参与系统的任何自动使用，例如使用脚本发送评论或消息，或使用任何数据挖掘、机器人或类似的数据收集和提取工具。</li>
-                      <li data-custom-class="body_text">从任何内容中删除版权或其他所有权声明。</li>
-                      <li data-custom-class="body_text">尝试冒充其他用户或人或使用其他用户的用户名。</li>
-                      <li data-custom-class="body_text">上传或传输（或尝试上传或传输）任何充当被动或主动信息收集或传输机制的材料，包括但不限于，透明图形交换格式（“gifs”）、1×1像素、网络臭虫、cookie或其他类似设备（有时称为“间谍软件”或“被动收集机制”或“pcms”）。</li>
-                      <li data-custom-class="body_text">干扰、破坏或对服务或连接到服务的网络或服务造成不应有的负担。</li>
-                      <li data-custom-class="body_text">骚扰、打扰、恐吓或威胁我们从事向您提供任何部分服务的任何员工或代理人。</li>
-                      <li data-custom-class="body_text">尝试绕过旨在防止或限制访问服务或服务的任何部分的任何服务措施。</li>
-                      <li data-custom-class="body_text">复制或改编服务的软件，包括但不限于flash、php、html、javascript或其他代码。</li>
-                      <li data-custom-class="body_text">除非适用法律允许，否则对构成服务或以任何方式构成服务一部分的任何软件进行解密、反编译、反汇编或逆向工程。</li>
-                      <li data-custom-class="body_text">除非可能是标准搜索引擎或互联网浏览器使用的结果，否则使用、启动、开发或分发任何自动化系统，包括但不限于任何蜘蛛、机器人、作弊实用程序、抓取工具或离线阅读器，这些自动化系统访问服务，或使用或启动任何未经授权的脚本或其他软件。</li>
-                      <li data-custom-class="body_text">使用购买代理或采购代理在服务上进行购买。</li>
-                      <li data-custom-class="body_text">对服务进行任何未经授权的使用，包括通过电子或其他方式收集用户的用户名和/或电子邮件地址，以发送未经请求的电子邮件，或通过自动方式或以虚假借口创建用户帐户。</li>
-                      <li data-custom-class="body_text">将服务用作与我们竞争的任何努力的一部分，或以其他方式将服务和/或内容用于任何创收活动或商业企业。</li>
-                  </ul>
-
-                  <h2 data-custom-class="heading_1" id="ugc">5. 用户生成的内容</h2>
-                  <p data-custom-class="body_text">
-                  服务不提供用户提交或发布内容的功能。 我们可能会为您提供创建、提交、发布、展示、传输、执行、发布、分发或广播内容和材料给我们或在服务上的机会，包括但不限于文本、文字、视频、音频、照片、图形、评论、建议或个人信息或其他材料（统称为“贡献”）。 贡献可能可以被服务的其他用户和通过第三方网站查看。 因此，您传输的任何贡献都可以根据服务的隐私政策进行处理。 当您创建或提供任何贡献时，您在此声明并保证：
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">您的贡献的创建、分发、传输、公开展示或表演以及访问、下载或复制不侵犯并且不会侵犯任何第三方的所有权，包括但不限于任何第三方的版权、专利、商标、商业秘密或精神权利。</li>
-                      <li data-custom-class="body_text">您是贡献的创建者和所有者，或者拥有必要的许可、权利、同意、免责声明和权限来使用和授权我们、服务和服务的其他用户以服务和这些法律条款所设想的任何方式使用您的贡献。</li>
-                      <li data-custom-class="body_text">您拥有您贡献中每个可识别的个人的书面同意、免责声明和/或许可，以使用每个此类可识别个人的姓名或肖像，从而能够在服务和这些法律条款所设想的任何方式中包含和使用您的贡献。</li>
-                      <li data-custom-class="body_text">您的贡献不是虚假的、不准确的或误导性的。</li>
-                      <li data-custom-class="body_text">您的贡献不是未经请求或未经授权的广告、宣传材料、金字塔计划、连锁信、垃圾邮件、大量邮件或其他形式的招揽。</li>
-                      <li data-custom-class="body_text">您的贡献不是淫秽的、下流的、好色的、污秽的、暴力的、骚扰性的、诽谤性的、中伤性的或以其他方式令人反感的（由我们确定）。</li>
-                      <li data-custom-class="body_text">您的贡献不会嘲笑、嘲弄、贬低、恐吓或虐待任何人。</li>
-                      <li data-custom-class="body_text">您的贡献未用于骚扰或威胁（在这些术语的法律意义上）任何其他人，并且不会助长对特定个人或人群的暴力行为。</li>
-                      <li data-custom-class="body_text">您的贡献不违反任何适用的法律、法规或规则。</li>
-                      <li data-custom-class="body_text">您的贡献不侵犯任何第三方的隐私或公开权。</li>
-                      <li data-custom-class="body_text">您的贡献不违反任何关于儿童色情制品的适用法律，或以其他方式旨在保护未成年人的健康或福祉的适用法律。</li>
-                      <li data-custom-class="body_text">您的贡献不包括任何与种族、民族血统、性别、性偏好或身体残疾相关的冒犯性评论。</li>
-                      <li data-custom-class="body_text">您的贡献不会以其他方式违反或链接到违反这些法律条款的任何条款或任何适用法律或法规的材料。</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  任何违反上述规定的服务使用都违反了这些法律条款，并可能导致（除其他事项外）终止或暂停您使用服务的权利。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="license">6. 内容许可</h2>
-                  <p data-custom-class="body_text">
-                  您和服务部门同意，我们可以按照隐私政策的条款和您的选择（包括设置）访问、存储、处理和使用您提供的任何信息和个人数据。
-                  </p>
-                  <p data-custom-class="body_text">
-                  通过提交关于服务的建议或其他反馈，您同意我们可以使用和分享此类反馈用于任何目的，而无需向您支付报酬。
-                  </p>
-                  <p data-custom-class="body_text">
-                  我们不主张对您的贡献拥有任何所有权。 您保留对您的所有贡献以及与您的贡献相关的任何知识产权或其他所有权的所有权。 我们对您在服务任何区域提供的贡献中的任何陈述或声明概不负责。 您对您对服务的贡献负全部责任，并且您明确同意免除我们任何及所有责任，并避免对我们采取任何与您的贡献相关的法律行动。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="thirdparty">7. 第三方网站和内容</h2>
-                  <p data-custom-class="body_text">
-                  服务可能包含（或者您可能会通过该网站发送）到其他网站（“第三方网站”）的链接，以及属于或源自第三方的文章、照片、文本、图形、图片、设计、音乐、声音、视频、信息、应用程序、软件和其他内容或项目（“第三方内容”）。 我们不会调查、监控或检查此类第三方网站和第三方内容的准确性、适当性或完整性，并且我们不对通过服务访问的任何第三方网站或发布在服务上、通过服务提供的或从服务安装的任何第三方内容负责，包括第三方网站或第三方内容中包含的内容、准确性、冒犯性、观点、可靠性、隐私惯例或其他政策。 包含、链接到或允许使用或安装任何第三方网站或任何第三方内容并不意味着我们对此的批准或认可。 如果您决定离开服务并访问第三方网站或使用或安装任何第三方内容，您将自行承担风险，并且您应该意识到这些法律条款不再适用。 您应该查看任何您从服务导航到的网站或与您从服务使用或安装的任何应用程序相关的适用条款和政策，包括隐私和数据收集惯例。 您通过第三方网站进行的任何购买都将通过其他网站和来自其他公司，并且我们对此类完全是您和适用的第三方之间的购买概不负责。 您同意并承认我们不认可在第三方网站上提供的产品或服务，并且您应使我们免受因您购买此类产品或服务造成的任何损害。 此外，您应使我们免受您遭受的任何损失或因任何第三方内容或与第三方网站的任何联系相关的或以任何方式导致的任何损害。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="advertisers">8. 广告商</h2>
-                  <p data-custom-class="body_text">
-                  我们允许广告商在服务的某些区域（例如侧边栏广告或横幅广告）展示他们的广告和其他信息。 我们只是提供放置此类广告的空间，并且我们与广告商没有其他关系。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="sitemanage">9. 服务管理</h2>
-                  <p data-custom-class="body_text">
-                  我们保留权利但没有义务：（1）监控服务是否存在违反这些法律条款的行为；（2）对任何我们自行决定违反法律或这些法律条款的人员采取适当的法律行动，包括但不限于向执法部门报告此类用户；（3）自行决定且不受限制地拒绝、限制访问、限制可用性或禁用（在技术上可行的范围内）您的任何贡献或其任何部分；（4）自行决定且不受限制地，通知或承担责任，从服务中删除或以其他方式禁用所有大小过大或以任何方式对我们的系统造成负担的文件和内容；以及（5）以旨在保护我们的权利和财产并促进服务正常运行的方式管理服务。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ppyes">10. 隐私政策</h2>
-                  <p data-custom-class="body_text">
-                  我们关心数据隐私和安全。请查看我们的隐私政策：<strong><a href="https://www.playfiddlebops.com/privacy/" target="_blank" data-custom-class="link">https://www.playfiddlebops.com/privacy/</a></strong>。 通过使用服务，您同意受我们的隐私政策的约束，该政策已纳入这些法律条款。 请注意，这些服务托管在美国。 如果您从世界上任何其他地区访问服务，而这些地区的法律或其他要求管辖个人数据的收集、使用或披露，这些法律或要求与美国适用的法律不同，那么通过您继续使用服务，您正在将您的数据传输到美国，并且您明确同意将您的数据传输到美国并在美国进行处理。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="terms">11. 期限和终止</h2>
-                  <p data-custom-class="body_text">
-                  当您使用服务时，这些法律条款将保持完全有效。 在不限制这些法律条款的任何其他规定的情况下，我们保留权利，自行决定且不另行通知或承担责任，拒绝任何人访问和使用服务（包括阻止某些 IP 地址），无论出于任何原因或没有原因，包括但不限于违反这些法律条款中包含的任何声明、保证或承诺或任何适用的法律或法规。 我们可以随时自行决定终止您对服务的使用或参与，或删除您发布的任何内容或信息，恕不另行通知。
-                  </p>
-                  <p data-custom-class="body_text">
-                  如果我们因任何原因终止或暂停您的帐户，则禁止您以您的名义、虚假或借来的名义或任何第三方的名义注册和创建新帐户，即使您可能代表第三方行事。 除了终止或暂停您的帐户外，我们保留采取适当法律行动的权利，包括但不限于寻求民事、刑事和禁令补救。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="modifications">12. 修改和中断</h2>
-                  <p data-custom-class="body_text">
-                  我们保留随时或出于任何原因自行决定更改、修改或删除服务内容的权利，恕不另行通知。 但是，我们没有义务更新我们服务上的任何信息。 对于服务的任何修改、价格变更、暂停或中断，我们不对您或任何第三方负责。
-                  </p>
-                  <p data-custom-class="body_text">
-                  我们无法保证服务始终可用。 我们可能会遇到硬件、软件或其他问题，或者需要执行与服务相关的维护，从而导致中断、延迟或错误。 我们保留随时或出于任何原因更改、修订、更新、暂停、中断或以其他方式修改服务的权利，恕不另行通知。 您同意，对于因您在服务停机或中断期间无法访问或使用服务而造成的任何损失、损害或不便，我们概不负责。 这些法律条款中的任何内容均不得解释为有义务我们维护和支持服务或提供任何与之相关的更正、更新或发布。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="law">13. 适用法律</h2>
-                  <p data-custom-class="body_text">
-                  这些法律条款和您对服务的使用受州法律管辖并根据州法律解释，这些法律适用于在州内缔结并完全履行的协议，而不考虑其法律冲突原则。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disputes">14. 争议解决</h2>
-                  <h3 data-custom-class="heading_2">非正式协商</h3>
-                  <p data-custom-class="body_text">
-                  为了加快解决与这些法律条款相关的任何争议、争议或索赔（每个“争议”和统称为“争议”）并控制其成本，这些争议由您或我们（单独地为“一方”，统称为“双方”）提出，双方同意首先尝试非正式地协商任何争议（除了以下明确规定的争议）至少三十 (30) 天，然后再提起仲裁。 此类非正式协商自一方书面通知另一方后开始。
-                  </p>
-                  <h3 data-custom-class="heading_2">有约束力的仲裁</h3>
-                  <p data-custom-class="body_text">
-                  因这些法律条款的各方之间的关系引起的任何争议应由一名仲裁员裁决，该仲裁员将按照欧洲仲裁法院的仲裁和内部规则进行选择，该法院是斯特拉斯堡欧洲仲裁中心的一部分，并在申请仲裁时有效，并且采纳本条款即构成接受。 仲裁地点应为法国巴黎。 诉讼语言应为法语。 适用的实体法规则应为法国法律。
-                  </p>
-                  <h3 data-custom-class="heading_2">限制</h3>
-                  <p data-custom-class="body_text">
-                  双方同意，任何仲裁应仅限于双方之间的个人争议。 在法律允许的最大范围内，(a) 任何仲裁不得与任何其他诉讼合并； (b) 任何争议均无权或无权以集体诉讼为基础进行仲裁或利用集体诉讼程序； 并且 (c) 任何争议均无权或无权以假定的代表身份代表公众或任何其他人提出。
-                  </p>
-                  <h3 data-custom-class="heading_2">非正式协商和仲裁的例外情况</h3>
-                  <p data-custom-class="body_text">
-                  双方同意，以下争议不受上述关于非正式协商有约束力的仲裁的规定的约束：(a) 寻求执行或保护或关于一方任何知识产权的有效性的任何争议； (b) 与盗窃、盗版、侵犯隐私或未经授权的使用相关的或由此引起的任何争议； 并且 (c) 任何禁令救济的请求。 如果发现本条款是非法的或不可执行的，则任何一方均不会选择仲裁属于发现为非法的或不可执行的本条款部分的任何争议，并且此类争议应由上述管辖权列出的法院内的有管辖权的法院裁决，并且各方同意服从该法院的个人管辖权。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="corrections">15. 更正</h2>
-                  <p data-custom-class="body_text">
-                  服务上可能包含印刷错误、不准确或遗漏的信息，包括描述、定价、可用性和各种其他信息。 我们保留随时更正任何错误、不准确或遗漏的权利，并在不事先通知的情况下更改或更新服务上的信息。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disclaimer">16. 免责声明</h2>
-                  <p data-custom-class="body_text">
-                  服务按“原样”和“可用”提供。 您同意您对服务的使用将由您自行承担风险。 在法律允许的最大范围内，我们否认与服务和您对其的使用相关的所有保证，无论是明示的还是暗示的，包括但不限于适销性、特定用途适用性和非侵权的暗示保证。 我们不对服务内容的准确性或完整性或链接到服务的任何网站或移动应用程序的内容作出任何保证或陈述，并且我们不对以下任何情况承担任何责任或义务：(1) 内容和材料中的错误、失误或不准确；(2) 因您访问和使用服务而导致的任何性质的人身伤害或财产损失；(3) 任何未经授权访问或使用我们的安全服务器和/或其中存储的任何和所有个人信息和/或财务信息；(4) 任何中断或停止传输到或来自服务；(5) 可能由任何第三方传输到或通过服务的任何错误、病毒、特洛伊木马或类似物；和/或 (6) 任何内容和材料中的任何错误或遗漏，或因使用通过服务发布、传输或以其他方式提供的任何内容而造成的任何类型的任何损失或损害。 我们不对任何第三方通过服务、任何超链接网站或任何横幅或其他广告中提供的任何网站或移动应用程序宣传或提供的任何产品或服务进行保证、认可、担保或承担责任，并且我们不会参与或以任何方式负责监控您与产品或服务的任何第三方提供商之间的任何交易。 与通过任何媒介或在任何环境中购买产品或服务一样，您应使用您的最佳判断并在适当情况下谨慎行事。
-
-                  </p>
-                  <h2 data-custom-class="heading_1" id="liability">17. 责任限制</h2>
-                  <p data-custom-class="body_text">
-                  在任何情况下，我们或我们的董事、员工或代理人均不对您或任何第三方因您使用服务而导致的任何直接、间接、后果性、惩戒性、附带性、特殊或惩罚性损害赔偿（包括利润损失、收入损失、数据丢失或其他损害）负责，即使我们已被告知此类损害的可能性。 某些美国州法律和国际法律不允许限制暗示保证或排除或限制某些损害。 如果这些法律适用于您，则上述部分或全部免责声明或限制可能不适用于您，并且您可能拥有其他权利。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="indemnification">18. 赔偿</h2>
-                  <p data-custom-class="body_text">
-                  您同意为我们辩护、赔偿并使我们免受损害，包括我们的子公司、关联公司以及我们所有各自的高级职员、代理人、合伙人和员工，因任何第三方因以下原因或由此引起的任何损失、损害、责任、索赔或要求（包括合理的律师费和支出）而提出：(1) 使用服务；(2) 违反这些法律条款；(3) 您违反了这些法律条款中规定的任何声明和保证；(4) 您侵犯了第三方的权利，包括但不限于知识产权； 或 (5) 对通过服务与您联系的服务的任何其他用户进行的任何公开有害行为。 尽管有上述规定，我们保留自行承担对您需要赔偿我们的任何事项的独家辩护和控制权的权利，并且您同意在您承担费用的情况下与我们对这些索赔的辩护进行合作。 一旦知悉任何此类受此赔偿约束的索赔、诉讼或程序，我们将尽合理努力通知您。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="userdata">19. 用户数据</h2>
-                  <p data-custom-class="body_text">
-                  我们将维护您传输到服务的某些数据，以便管理服务的性能，以及与您使用服务相关的数据。 尽管我们执行定期例行数据备份，但您对您传输的所有数据或与您使用服务进行的任何活动相关的所有数据负全部责任。 您同意我们对任何此类数据的任何丢失或损坏不承担任何责任，并且您在此放弃因任何此类数据的丢失或损坏而针对我们提起的任何诉讼权利。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="electronic">20. 电子通讯、交易和签名</h2>
-                  <p data-custom-class="body_text">
-                  访问服务、向我们发送电子邮件和填写在线表格构成电子通讯。 您同意接收电子通讯，并且您同意我们以电子方式通过电子邮件和在服务上向您提供的所有协议、通知、披露和其他通讯满足任何法律要求，即此类通讯应采用书面形式。 您在此同意使用电子签名、合同、订单和其他记录，以及电子交付由我们或通过服务发起或完成的通知、政策和交易记录。您在此放弃任何法规、规章、规则、条例或任何管辖区的其他法律下的任何权利或要求，这些法规、规章、规则、条例或法律要求原始签名或交付或保留非电子记录，或通过电子手段以外的任何手段支付款项或授予信贷。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="misc">21. 其他</h2>
-                  <p data-custom-class="body_text">
-                  这些法律条款以及我们发布在服务上或关于服务的任何政策或运营规则构成您与我们之间的完整协议和谅解。 我们未能行使或执行这些法律条款的任何权利或规定不应构成对此类权利或规定的放弃。 这些法律条款在法律允许的最大范围内有效。 我们可以随时将我们的任何或全部权利和义务转让给他人。 我们不对超出我们合理控制范围的任何原因造成的任何损失、损害、延误或未能采取行动负责或承担责任。 如果这些法律条款的任何规定或部分规定被确定为非法、无效或不可执行，则该规定或部分规定应视为可与这些法律条款分离，并且不影响任何剩余规定的有效性和可执行性。 您与我们之间不会因这些法律条款或使用服务而建立任何合资企业、合伙企业、雇佣关系或代理关系。 您同意这些法律条款不会因我们起草它们而被解释为不利于我们。 您在此放弃您可能拥有的任何基于这些法律条款的电子形式以及双方未能签署执行这些法律条款的任何和所有抗辩。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="contact">22. 联系我们</h2>
-                  <p data-custom-class="body_text">
-                  为了解决有关服务的投诉或接收有关使用服务的更多信息，请通过以下方式联系我们：chongzhidatech@gmail.com
-                  </p>
-                </div>
-
-
-            </div>
-        </div>
-        <!-- content end -->
-
-
-    </div>
-    </main>
-
-    <footer>
-      <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/zh/privacy/">隐私策略</a></li>
-                  <li><a href="/zh/terms-of-service/">服务条款</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. 版权所有。</p>
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {termsData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
       </div>
-    </footer>
-    <script>
-      function goToLink(event: Event) {
-        const select = event.target as HTMLSelectElement | null;
-        if (!select) return;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
+    </article>
+  </main>
 
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-
-
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+  <Footer
+    locale={locale}
+  />
+</BaseLayout>

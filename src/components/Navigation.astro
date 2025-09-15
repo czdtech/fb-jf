@@ -15,12 +15,12 @@ export interface Props {
   locale?: SupportedLocale;
 }
 
-const { 
-  navigation: legacyNavigation, 
-  languages: legacyLanguages, 
-  currentLang: legacyCurrentLang, 
+const {
+  navigation: legacyNavigation,
+  languages: legacyLanguages,
+  currentLang: legacyCurrentLang,
   currentPath = '/',
-  locale 
+  locale
 } = Astro.props;
 
 // 获取当前语言 - 使用Astro官方i18n系统
@@ -30,48 +30,39 @@ const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) 
 const translation = await getTranslation(currentLocale);
 const uiText = translation.ui;
 
-// 生成导航链接 - 手动构建多语言URL（解决getRelativeLocaleUrl问题）
-const buildLocaleUrl = (locale: string, path: string): string => {
-  // 确保path以/开头
-  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
-  
-  // 英文使用根路径，其他语言使用语言前缀
-  if (locale === 'en') {
-    return normalizedPath;
-  } else {
-    const result = `/${locale}${normalizedPath}`;
-    return result;
-  }
+// Helper to ensure trailing slash consistency with existing behavior
+const withTrailingSlash = (url: string): string => {
+  return url.endsWith('/') ? url : `${url}/`;
 };
 
 // 如果有legacyNavigation，使用其标签但重新生成URL
-const navigationItems = legacyNavigation ? 
+const navigationItems = legacyNavigation ?
   legacyNavigation.map((item, index) => {
     const paths = ['/', '/games', '/new-games', '/popular-games', '/trending-games'];
     return {
       label: item.label,
-      url: buildLocaleUrl(currentLocale, paths[index] || '/'),
+      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, paths[index] || '/')),
     };
   }) : [
     {
       label: uiText?.navigation?.home || 'Home',
-      url: buildLocaleUrl(currentLocale, '/'),
+      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/')),
     },
     {
       label: uiText?.navigation?.allGames || 'ALL Games',
-      url: buildLocaleUrl(currentLocale, '/games'),
+      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/games')),
     },
     {
-      label: uiText?.navigation?.newGames || 'New Games', 
-      url: buildLocaleUrl(currentLocale, '/new-games'),
+      label: uiText?.navigation?.newGames || 'New Games',
+      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/new-games')),
     },
     {
       label: uiText?.navigation?.popularGames || 'Popular Games',
-      url: buildLocaleUrl(currentLocale, '/popular-games'),
+      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/popular-games')),
     },
     {
       label: uiText?.navigation?.trendingGames || 'Trending Games',
-      url: buildLocaleUrl(currentLocale, '/trending-games'),
+      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/trending-games')),
     }
   ];
 
@@ -80,7 +71,7 @@ const navigationItems = legacyNavigation ?
 <header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-sm safe-area-top">
   <div class="responsive-container flex min-h-[64px] items-center py-2 safe-area-left safe-area-right">
     <!-- Logo with enhanced touch target -->
-    <a href={buildLocaleUrl(currentLocale, '/')} class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
+    <a href={withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/'))} class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
       <span
         class="text-xl font-bold"
         style="
@@ -102,11 +93,11 @@ const navigationItems = legacyNavigation ?
         {navigationItems.map((item) => {
           // 为了正确比较当前页面，我们需要处理路径匹配
           // currentPath 可能是 /zh/games/ 而 item.url 是 /zh/games
-          const isCurrentPage = currentPath === item.url || 
-            currentPath === `${item.url}/` || 
-            `${currentPath}/` === item.url || 
+          const isCurrentPage = currentPath === item.url ||
+            currentPath === `${item.url}/` ||
+            `${currentPath}/` === item.url ||
             currentPath.replace(/\/$/, '') === item.url.replace(/\/$/, '');
-            
+
           return (
             <a
               href={item.url}

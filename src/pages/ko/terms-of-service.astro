@@ -3,728 +3,85 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: lang.code === 'en' ? `https://www.playfiddlebops.com/terms-of-service/` : `https://www.playfiddlebops.com/${lang.code}/terms-of-service/`,
-  label: lang.label,
-}))
+// 获取当前语言
+const locale = 'ko'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const termsData = legalContent?.data.terms
+
+if (!termsData) {
+  throw new Error(`Terms content not found for locale: ${locale}`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/terms-of-service',
+  'https://www.playfiddlebops.com'
+)
 
 // Meta data for terms page
 const meta = {
-  title: "서비스 약관 | FiddleBops",
-  description: "당사의 서비스 약관을 읽어보세요. FiddleBops 사용에 관한 규칙과 가이드라인을 이해하고, 사용자로서의 권리와 책임을 알아보세요.",
-  canonical: "https://www.playfiddlebops.com/ko/terms-of-service/",
+  title: termsData.meta.title,
+  description: termsData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/terms-of-service/`,
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
-  robots: "index, follow"
+  robots: "noindex, nofollow"
 }
 ---
 
 <BaseLayout
   meta={meta}
-  lang="ko"
+  lang={locale}
   hreflang={hreflangLinks}
 >
   <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
-    currentLang="ko"
+    currentLang={locale}
     currentPath="/terms-of-service/"
   />
 
-  <main class="terms-page">
-    <!-- Hero Section -->
-    <section class="terms-hero section">
-      <div class="container">
-        <div class="terms-hero-content">
-          <!-- 면包屑导航 -->
-          <nav class="breadcrumb" aria-label="경로 네비게이션">
-            <a href="/ko/" class="breadcrumb-link">
-              <i class="fas fa-home"></i>
-              <span>홈</span>
-            </a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">서비스 약관</span>
-          </nav>
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{termsData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {termsData.meta.lastUpdated}</p>
+      </header>
 
-          <div class="hero-content">
-            <h1 class="terms-title heading-display">
-              <span class="title-main">서비스</span>
-              <span class="title-accent">약관</span>
-            </h1>
-            <p class="terms-subtitle body-large">
-              서비스를 사용하기 전에 이 서리스 약관을 주의 깊게 읽어보세요.
-              FiddleBops를 사용하면 이 서비스 약관에 동의하는 것입니다.
-            </p>
-            <div class="last-updated">
-              <i class="fas fa-calendar-alt"></i>
-              <span>최종 업데이트: 2025년 2월 10일</span>
-            </div>
-          </div>
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {termsData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
 
-          <!-- 装饰性图标 -->
-          <div class="terms-icons">
-            <div class="terms-icon"><i class="fas fa-gavel"></i></div>
-            <div class="terms-icon"><i class="fas fa-balance-scale"></i></div>
-            <div class="terms-icon"><i class="fas fa-handshake"></i></div>
-          </div>
-        </div>
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {termsData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
       </div>
-    </section>
-
-    <!-- Terms Content Section -->
-    <section class="terms-content section">
-      <div class="container">
-        <div class="content-wrapper">
-
-          <!-- Navigation Menu -->
-          <aside class="terms-nav glass">
-            <h3>목차</h3>
-            <ul>
-              <li><a href="#agreement">법적 조건에 대한 동의</a></li>
-              <li><a href="#services">저희 서비스</a></li>
-              <li><a href="#ip">지적 재산권</a></li>
-              <li><a href="#userreps">사용자 진술</a></li>
-              <li><a href="#prohibited">금지된 활동</a></li>
-              <li><a href="#ugc">사용자 생성 기여</a></li>
-              <li><a href="#privacy">개인정보처리방침</a></li>
-              <li><a href="#termination">기간 및 해지</a></li>
-              <li><a href="#disclaimer">면책 조항</a></li>
-              <li><a href="#liability">책임 제한</a></li>
-              <li><a href="#contact">문의하기</a></li>
-            </ul>
-          </aside>
-
-          <!-- Main Content -->
-          <article class="terms-article glass">
-
-            <section id="agreement">
-              <h2>법적 조건에 대한 동의</h2>
-                  <a name="_6aa3gkhykvst"></a>
-                  <p data-custom-class="body_text">
-                  저희는
-                  <bdt class="question">playfiddlebops</bdt>입니다.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  저희는 웹사이트
-                  <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">http://www.playfiddlebops.com</a>
-                  ("<strong>사이트</strong>")뿐만 아니라, 이러한 법적 조건을 참조하거나 링크하는 기타 관련 제품 및 서비스("<strong>법적 조건</strong>")(총칭하여 "<strong>서비스</strong>")를 운영합니다.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  이메일로 문의하실 수 있습니다.
-                  <bdt class="question">chongzhidatech@gmail.com</bdt>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  이러한 법적 조건은 귀하(개인적으로 또는 법인을 대신하여)(이하 "<strong>귀하</strong>")와 서비스에 대한 귀하의 접근 및 사용에 관하여 체결되는 법적 구속력이 있는 계약을 구성합니다. 귀하는 서비스에 접근함으로써 이러한 모든 법적 조건을 읽고 이해했으며 이에 구속되는 것에 동의합니다. <strong>이러한 모든 법적 조건에 동의하지 않는 경우, 귀하는 서비스를 사용할 수 없으며 즉시 사용을 중단해야 합니다.</strong>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  서비스에 수시로 게시될 수 있는 추가 약관 또는 문서는 참조로 본 문서에 명시적으로 통합됩니다. 저희는 자체 재량에 따라 이러한 법적 조건을 수시로 변경하거나 수정할 권리를 보유합니다. 저희는 이러한 법적 조건의 "최종 업데이트" 날짜를 업데이트하여 변경 사항을 알려드리며, 귀하는 각 변경 사항에 대한 구체적인 통지를 받을 권리를 포기합니다. 업데이트 내용을 계속 확인하려면 이러한 법적 조건을 정기적으로 검토하는 것이 귀하의 책임입니다. 귀하는 수정된 법적 조건이 게시된 날짜 이후에 서비스를 계속 사용함으로써 수정된 법적 조건의 변경 사항에 구속되며, 인지하고 수락한 것으로 간주됩니다.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  본 서비스는 최소 18세 이상의 사용자를 대상으로 합니다. 18세 미만의 사람은 본 서비스를 사용하거나 등록할 수 없습니다.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  귀하의 기록을 위해 이러한 법적 조건의 사본을 인쇄하는 것이 좋습니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1">목차</h2>
-                  <p><a href="#services">1. 저희 서비스</a></p>
-                  <p><a href="#ip">2. 지적 재산권</a></p>
-                  <p><a href="#userreps">3. 사용자 진술</a></p>
-                  <p><a href="#prohibited">4. 금지된 활동</a></p>
-                  <p><a href="#ugc">5. 사용자 생성 기여</a></p>
-                  <p><a href="#license">6. 기여 라이선스</a></p>
-                  <p><a href="#thirdparty">7. 제3자 웹사이트 및 콘텐츠</a></p>
-                  <p><a href="#advertisers">8. 광고주</a></p>
-                  <p><a href="#sitemanage">9. 서비스 관리</a></p>
-                  <p><a href="#ppyes">10. 개인정보처리방침</a></p>
-                  <p><a href="#terms">11. 기간 및 해지</a></p>
-                  <p><a href="#modifications">12. 수정 및 중단</a></p>
-                  <p><a href="#law">13. 준거법</a></p>
-                  <p><a href="#disputes">14. 분쟁 해결</a></p>
-                  <p><a href="#corrections">15. 수정</a></p>
-                  <p><a href="#disclaimer">16. 면책 조항</a></p>
-                  <p><a href="#liability">17. 책임 제한</a></p>
-                  <p><a href="#indemnification">18. 면책</a></p>
-                  <p><a href="#userdata">19. 사용자 데이터</a></p>
-                  <p><a href="#electronic">20. 전자 통신, 거래 및 서명</a></p>
-                  <p><a href="#misc">21. 기타</a></p>
-                  <p><a href="#contact">22. 문의하기</a></p>
-
-                  <a name="_b6y29mp52qvx"></a>
-
-                  <h2 data-custom-class="heading_1" id="services">1. 저희 서비스</h2>
-
-                  <p data-custom-class="body_text">
-                  서비스를 사용할 때 제공되는 정보는 해당 배포 또는 사용이 법률 또는 규정에 위배되거나 해당 관할권 또는 국가 내에서 등록 요구 사항을 저희에게 적용하는 관할권 또는 국가 내에서 개인 또는 법인에 배포하거나 사용하기 위한 것이 아닙니다. 따라서 다른 위치에서 서비스에 접근하기로 선택한 사람은 자신의 주도하에 그렇게 하며, 해당 지역 법률이 적용되는 경우 해당 지역 법률을 준수할 책임은 전적으로 본인에게 있습니다.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  본 서비스는 특정 산업별 규정(건강 보험 양도 및 책임에 관한 법률(HIPAA), 연방 정보 보안 관리법(FISMA) 등)을 준수하도록 맞춤화되지 않았으므로, 귀하의 상호 작용이 그러한 법률의 적용을 받는 경우 본 서비스를 사용할 수 없습니다. 귀하는 Gramm-Leach-Bliley Act(GLBA)를 위반하는 방식으로 본 서비스를 사용할 수 없습니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ip">2. 지적 재산권</h2>
-
-                  <h3 data-custom-class="heading_2">저희의 지적 재산</h3>
-                  <p data-custom-class="body_text">
-                  저희는 서비스의 모든 소스 코드, 데이터베이스, 기능, 소프트웨어, 웹사이트 디자인, 오디오, 비디오, 텍스트, 사진 및 그래픽(총칭하여 "콘텐츠")뿐만 아니라, 그 안에 포함된 상표, 서비스 마크 및 로고("마크")를 포함하여 저희 서비스의 모든 지적 재산권의 소유자 또는 라이선스 소유자입니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  저희의 콘텐츠 및 마크는 미국 및 전 세계의 저작권 및 상표법(및 기타 다양한 지적 재산권 및 불공정 경쟁법) 및 조약에 의해 보호됩니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  콘텐츠 및 마크는 귀하의 개인적, 비상업적 사용 또는 내부 비즈니스 목적으로만 "있는 그대로" 서비스 내에서 또는 서비스를 통해 제공됩니다.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">귀하의 서비스 이용</h3>
-                  <p data-custom-class="body_text">
-                  아래의 <a data-custom-class="link" href="#prohibited">금지된 활동</a> 섹션을 포함하여 이러한 법적 조건을 준수하는 것을 조건으로, 저희는 귀하에게 다음과 같은 비독점적, 양도 불가능, 취소 가능한 라이선스를 부여합니다.
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">서비스에 접근</li>
-                      <li data-custom-class="body_text">귀하가 적절하게 접근 권한을 획득한 콘텐츠의 일부 사본을 다운로드하거나 인쇄</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  귀하의 개인적, 비상업적 사용 또는 내부 비즈니스 목적으로만 사용합니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  본 섹션 또는 법적 조건의 다른 곳에 명시된 경우를 제외하고, 저희의 명시적인 사전 서면 허가 없이 서비스의 어떤 부분과 어떤 콘텐츠 또는 마크도 복사, 복제, 집계, 재 게시, 업로드, 게시, 공개적으로 표시, 인코딩, 번역, 전송, 배포, 판매, 라이선스 또는 기타 방식으로 상업적 목적으로 이용할 수 없습니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  귀하가 본 섹션 또는 법적 조건의 다른 곳에 명시된 것 이외의 방식으로 서비스, 콘텐츠 또는 마크를 사용하려는 경우, chongzhidatech@gmail.com으로 요청서를 보내주십시오. 저희가 귀하에게 저희 서비스 또는 콘텐츠의 일부를 게시, 복제 또는 공개적으로 표시할 수 있는 권한을 부여하는 경우, 귀하는 저희를 서비스, 콘텐츠 또는 마크의 소유자 또는 라이선스 제공자로 식별해야 하며, 저희 콘텐츠 게시, 복제 또는 표시 시 저작권 또는 소유권 고지가 표시되거나 보이도록 해야 합니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  저희는 서비스, 콘텐츠 및 마크에 대한 귀하에게 명시적으로 부여되지 않은 모든 권리를 보유합니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  이러한 지적 재산권의 위반은 저희의 법적 조건의 중대한 위반을 구성하며 귀하의 서비스 이용 권한은 즉시 종료됩니다.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">귀하의 제출물</h3>
-                  <p data-custom-class="body_text">
-                  저희 서비스 이용 전에 본 섹션과 <a data-custom-class="link" href="#prohibited">금지된 활동</a> 섹션을 주의 깊게 검토하여 (a) 귀하가 저희에게 제공하는 권리 및 (b) 귀하가 서비스를 통해 콘텐츠를 게시하거나 업로드할 때 귀하가 갖는 의무를 이해하십시오.
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>제출물:</strong> 서비스에 대한 질문, 의견, 제안, 아이디어, 피드백 또는 기타 정보("제출물")를 저희에게 직접 보내는 것은 그러한 제출물에 대한 모든 지적 재산권을 저희에게 양도하는 데 동의하는 것입니다. 귀하는 저희가 이 제출물을 소유하고 귀하에 대한 승인 또는 보상 없이 상업적 또는 기타 합법적인 목적으로 해당 제출물을 무제한으로 사용하고 배포할 권리를 가진다는 데 동의합니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>귀하는 귀하가 게시하거나 업로드하는 것에 대한 책임이 있습니다:</strong> 서비스의 어떤 부분을 통해서든 제출물을 저희에게 보내는 것은 다음과 같습니다.
-                  </p>
-                  <ul>
-                          <li data-custom-class="body_text">귀하는 귀하가 저희의 <a data-custom-class="link" href="#prohibited">금지된 활동</a>을 읽고 동의했으며 불법적이거나, 괴롭히거나, 혐오적이거나, 해롭거나, 명예를 훼손하거나, 외설적이거나, 괴롭히거나, 학대하거나, 차별적이거나, 누구에게나 또는 집단에게 위협적이거나, 성적으로 노골적이거나, 허위이거나, 부정확하거나, 기만적이거나, 오해의 소지가 있는 제출물을 게시, 전송, 게시, 업로드 또는 전송하지 않을 것임을 확인합니다.</li>
-                          <li data-custom-class="body_text">해당 법률에서 허용하는 범위 내에서 그러한 제출물에 대한 모든 저작인격권을 포기합니다.</li>
-                          <li data-custom-class="body_text">그러한 제출물이 귀하에게 원본이거나 귀하가 그러한 제출물을 제출하는 데 필요한 권리 및 라이선스를 가지고 있고, 저희에게 귀하의 제출물과 관련하여 위에 언급된 권리를 부여할 전적인 권한이 있음을 보증합니다.</li>
-                          <li data-custom-class="body_text">귀하의 제출물이 기밀 정보를 구성하지 않음을 보증하고 진술합니다.</li>
-                      </ul>
-                  <p data-custom-class="body_text">
-                  귀하는 귀하의 제출물에 대해 전적으로 책임을 지며, (a) 본 섹션, (b) 제3자의 지적 재산권 또는 (c) 해당 법률을 위반하여 발생할 수 있는 모든 손실에 대해 저희에게 배상하는 데 명시적으로 동의합니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="userreps">3. 사용자 진술</h2>
-                  <p data-custom-class="body_text">
-                  본 서비스를 이용함으로써 귀하는 다음을 진술하고 보증합니다. (1) 귀하는 법적 능력이 있으며 이러한 법적 조건을 준수하는 데 동의합니다. (2) 귀하는 거주 관할 구역에서 미성년자가 아닙니다. (3) 귀하는 봇, 스크립트 또는 기타 방법을 통해 자동화되거나 비인간적인 수단으로 본 서비스에 접근하지 않습니다. (4) 귀하는 불법적이거나 승인되지 않은 목적으로 본 서비스를 사용하지 않습니다. (5) 귀하의 본 서비스 이용은 해당 법률 또는 규정을 위반하지 않습니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  귀하가 사실이 아니거나, 부정확하거나, 최신이 아니거나, 불완전한 정보를 제공하는 경우, 저희는 귀하의 계정을 일시 중지 또는 해지하고, 현재 또는 미래의 모든 서비스 이용(또는 그 일부)을 거부할 권리가 있습니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="prohibited">4. 금지된 활동</h2>
-                  <p data-custom-class="body_text">
-                  귀하는 저희가 서비스를 제공하는 목적 이외의 다른 목적으로 서비스를 접근하거나 사용할 수 없습니다. 저희가 특별히 보증하거나 승인한 경우를 제외하고는 상업적 노력과 관련하여 서비스를 사용할 수 없습니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  본 서비스의 사용자로서 귀하는 다음에 동의하지 않습니다.
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">저희의 서면 허가 없이 컬렉션, 컴파일레이션, 데이터베이스 또는 디렉토리를 직간접적으로 생성하거나 컴파일하기 위해 서비스에서 데이터 또는 기타 콘텐츠를 체계적으로 검색합니다.</li>
-                      <li data-custom-class="body_text">특히 사용자 비밀번호와 같은 민감한 계정 정보를 알아내려는 시도에서 저희와 다른 사용자를 속이거나, 사기치거나, 오도합니다.</li>
-                      <li data-custom-class="body_text">콘텐츠 사용 또는 복사를 방지하거나 제한하는 기능 또는 서비스 및/또는 그 안에 포함된 콘텐츠 사용에 대한 제한을 시행하는 기능을 포함하여 서비스의 보안 관련 기능을 우회, 비활성화 또는 다른 방식으로 방해합니다.</li>
-                      <li data-custom-class="body_text">저희와/또는 서비스를 폄하하거나, 손상시키거나, 다른 방식으로 해를 끼칩니다.</li>
-                      <li data-custom-class="body_text">다른 사람을 괴롭히거나, 학대하거나, 해를 끼치기 위해 서비스에서 얻은 정보를 사용합니다.</li>
-                      <li data-custom-class="body_text">저희의 지원 서비스를 부적절하게 사용하거나 학대 또는 비행에 대한 허위 보고서를 제출합니다.</li>
-                      <li data-custom-class="body_text">해당 법률 또는 규정과 일치하지 않는 방식으로 서비스를 사용합니다.</li>
-                      <li data-custom-class="body_text">서비스에 대한 무단 프레이밍 또는 링크에 참여합니다.</li>
-                      <li data-custom-class="body_text">바이러스, 트로이 목마 또는 기타 자료(과도한 대문자 사용 및 스팸(반복적인 텍스트를 계속 게시)을 포함)를 업로드하거나 전송(또는 업로드하거나 전송하려고 시도)합니다. 이는 당사자의 서비스의 중단 없는 사용 및 향유를 방해하거나 서비스의 사용, 특성, 기능, 운영 또는 유지 관리를 수정, 손상, 중단, 변경 또는 방해합니다.</li>
-                      <li data-custom-class="body_text">댓글이나 메시지를 보내기 위해 스크립트를 사용하거나 데이터 마이닝, 로봇 또는 유사한 데이터 수집 및 추출 도구를 사용하는 등 시스템의 자동화된 사용에 참여합니다.</li>
-                      <li data-custom-class="body_text">콘텐츠에서 저작권 또는 기타 소유권 고지를 삭제합니다.</li>
-                      <li data-custom-class="body_text">다른 사용자 또는 사람을 사칭하거나 다른 사용자의 사용자 이름을 사용하려고 시도합니다.</li>
-                      <li data-custom-class="body_text">수동적 또는 능동적인 정보 수집 또는 전송 메커니즘으로 작용하는 모든 자료(명확한 그래픽 교환 형식("gifs"), 1×1 픽셀, 웹 버그, 쿠키 또는 기타 유사한 장치("스파이웨어" 또는 "수동적 수집 메커니즘" 또는 "pcms"라고도 함)를 포함하되 이에 국한되지 않음)를 업로드하거나 전송(또는 업로드하거나 전송하려고 시도)합니다.</li>
-                      <li data-custom-class="body_text">서비스 또는 서비스에 연결된 네트워크 또는 서비스에 간섭하거나, 방해하거나, 부당한 부담을 줍니다.</li>
-                      <li data-custom-class="body_text">귀하에게 서비스의 일부를 제공하는 데 참여하는 저희 직원 또는 대리인을 괴롭히거나, 성가시게 하거나, 협박하거나, 위협합니다.</li>
-                      <li data-custom-class="body_text">서비스에 대한 접근 또는 서비스의 일부에 대한 접근을 방지하거나 제한하도록 설계된 서비스의 조치를 우회하려고 시도합니다.</li>
-                      <li data-custom-class="body_text">플래시, php, html, 자바스크립트 또는 기타 코드를 포함하되 이에 국한되지 않고 서비스의 소프트웨어를 복사하거나 적용합니다.</li>
-                      <li data-custom-class="body_text">해당 법률에서 허용하는 경우를 제외하고는 서비스를 구성하거나 어떤 식으로든 서비스의 일부를 구성하는 소프트웨어를 해독, 디컴파일, 디스어셈블 또는 리버스 엔지니어링합니다.</li>
-                      <li data-custom-class="body_text">표준 검색 엔진 또는 인터넷 브라우저 사용의 결과일 수 있는 경우를 제외하고는 서비스에 접근하는 스파이더, 로봇, 치트 유틸리티, 스크래퍼 또는 오프라인 리더를 포함하되 이에 국한되지 않고 자동화된 시스템을 사용, 실행, 개발 또는 배포하거나, 승인되지 않은 스크립트 또는 기타 소프트웨어를 사용하거나 실행합니다.</li>
-                      <li data-custom-class="body_text">서비스에서 구매하기 위해 구매 에이전트 또는 구매 대행사를 이용합니다.</li>
-                      <li data-custom-class="body_text">요청하지 않은 이메일을 보내기 위해 전자적 또는 기타 수단으로 사용자의 사용자 이름 및/또는 이메일 주소를 수집하거나 자동화된 수단으로 또는 허위 구실로 사용자 계정을 생성하는 것을 포함하여 서비스의 무단 사용을 합니다.</li>
-                      <li data-custom-class="body_text">저희와 경쟁하기 위한 노력의 일환으로 서비스를 사용하거나 수익을 창출하는 노력 또는 상업적 기업을 위해 서비스 및/또는 콘텐츠를 사용하는 등 서비스를 사용합니다.</li>
-                  </ul>
-
-                  <h2 data-custom-class="heading_1" id="ugc">5. 사용자 생성 기여</h2>
-                  <p data-custom-class="body_text">
-                  본 서비스는 사용자가 콘텐츠를 제출하거나 게시할 수 있는 기능을 제공하지 않습니다. 저희는 귀하에게 텍스트, 글쓰기, 비디오, 오디오, 사진, 그래픽, 댓글, 제안 또는 개인 정보 또는 기타 자료(총칭하여 "기여")를 포함하되 이에 국한되지 않고, 콘텐츠 및 자료를 저희에게 또는 서비스에 생성, 제출, 게시, 표시, 전송, 수행, 출판, 배포 또는 방송할 수 있는 기회를 제공할 수 있습니다. 기여는 서비스의 다른 사용자와 제3자 웹사이트를 통해 볼 수 있습니다. 따라서 귀하가 전송하는 기여는 서비스의 개인정보처리방침에 따라 처리될 수 있습니다. 기여를 생성하거나 제공할 때 귀하는 이에 따라 다음 사항을 진술하고 보증합니다.
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">귀하의 기여에 대한 생성, 배포, 전송, 공개적 표시 또는 실행, 그리고 접근, 다운로드 또는 복사가 제3자의 재산적 권리(제3자의 저작권, 특허, 상표, 영업 비밀 또는 저작인격권을 포함하되 이에 국한되지 않음)를 침해하지 않으며 침해하지 않을 것입니다.</li>
-                      <li data-custom-class="body_text">귀하는 기여의 창작자 및 소유자이거나, 저희, 서비스 및 서비스의 다른 사용자가 본 서비스와 이러한 법적 조건에서 고려하는 방식으로 귀하의 기여를 사용할 수 있도록 허가하고 사용할 수 있는 데 필요한 라이선스, 권리, 동의, 해제 및 허가를 가지고 있습니다.</li>
-                      <li data-custom-class="body_text">귀하는 귀하의 기여에 있는 식별 가능한 각 개인의 이름 또는 초상을 사용하여 서비스와 이러한 법적 조건에서 고려하는 방식으로 귀하의 기여를 포함하고 사용할 수 있도록 하기 위해 식별 가능한 각 개인의 서면 동의, 해제 및/또는 허가를 받았습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 허위이거나, 부정확하거나, 오해의 소지가 있지 않습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 요청하지 않았거나 승인하지 않은 광고, 홍보 자료, 피라미드 방식, 연쇄 편지, 스팸, 대량 우편 또는 기타 형태의 권유가 아닙니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 외설적이거나, 상스럽거나, 음란하거나, 더럽거나, 폭력적이거나, 괴롭히거나, 명예를 훼손하거나, 중상모략하거나, 다른 방식으로 불쾌하지 않습니다(저희가 결정).</li>
-                      <li data-custom-class="body_text">귀하의 기여는 누구도 조롱하거나, 조롱하거나, 경멸하거나, 협박하거나, 학대하지 않습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 다른 사람을 괴롭히거나 위협하는 데 사용되지 않으며(그러한 용어의 법적 의미에서) 특정 개인 또는 집단에 대한 폭력을 조장하지 않습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 해당 법률, 규정 또는 규칙을 위반하지 않습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 제3자의 개인 정보 또는 퍼블리시티 권리를 침해하지 않습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 아동 포르노그래피에 관한 해당 법률을 위반하지 않거나 미성년자의 건강 또는 복지를 보호하기 위한 것입니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여에는 인종, 출신 국가, 성별, 성적 취향 또는 신체적 장애와 관련된 공격적인 의견이 포함되어 있지 않습니다.</li>
-                      <li data-custom-class="body_text">귀하의 기여는 이러한 법적 조건 또는 해당 법률 또는 규정의 조항을 위반하거나 위반하는 자료에 연결하지 않습니다.</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  전술한 사항을 위반하는 서비스의 사용은 이러한 법적 조건을 위반하는 것이며 무엇보다도 귀하의 서비스 이용 권리를 해지하거나 정지할 수 있습니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="license">6. 기여 라이선스</h2>
-                  <p data-custom-class="body_text">
-                  귀하와 서비스는 저희가 귀하가 개인정보처리방침의 조건과 귀하의 선택(설정 포함)에 따라 제공하는 모든 정보와 개인 데이터에 접근, 저장, 처리 및 사용할 수 있다는 데 동의합니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  서비스에 대한 제안이나 기타 피드백을 제출함으로써 귀하는 저희가 귀하에 대한 보상 없이 모든 목적을 위해 그러한 피드백을 사용하고 공유할 수 있다는 데 동의합니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  저희는 귀하의 기여에 대한 소유권을 주장하지 않습니다. 귀하는 귀하의 모든 기여와 귀하의 기여와 관련된 모든 지적 재산권 또는 기타 소유권에 대한 모든 소유권을 보유합니다. 저희는 서비스의 모든 영역에서 귀하가 제공하는 기여의 진술 또는 표현에 대해 책임을 지지 않습니다. 귀하는 서비스에 대한 귀하의 기여에 대해 전적으로 책임을 지며 귀하는 귀하의 기여와 관련하여 저희에 대한 모든 책임을 면제하고 저희에 대한 법적 조치를 삼가겠다는 데 명시적으로 동의합니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="thirdparty">7. 제3자 웹사이트 및 콘텐츠</h2>
-                  <p data-custom-class="body_text">
-                  서비스에는 다른 웹사이트("제3자 웹사이트") 링크와 기사, 사진, 텍스트, 그래픽, 그림, 디자인, 음악, 사운드, 비디오, 정보, 애플리케이션, 소프트웨어 및 제3자에 속하거나 출처가 있는 기타 콘텐츠 또는 항목("제3자 콘텐츠")이 포함될 수 있습니다(또는 귀하는 사이트를 통해 전송될 수 있습니다). 그러한 제3자 웹사이트 및 제3자 콘텐츠는 저희가 정확성, 적절성 또는 완전성에 대해 조사, 모니터링 또는 확인하지 않으며, 저희는 서비스를 통해 접근한 제3자 웹사이트 또는 서비스에 게시, 서비스를 통해 사용 가능하거나 서비스에서 설치한 제3자 콘텐츠(제3자 웹사이트 또는 제3자 콘텐츠에 포함된 콘텐츠, 정확성, 불쾌감, 의견, 신뢰성, 개인정보처리방침 또는 기타 정책 포함)에 대해 책임을 지지 않습니다. 제3자 웹사이트 또는 제3자 콘텐츠의 사용 또는 설치를 포함하거나, 링크하거나, 허용하는 것은 저희의 승인 또는 보증을 의미하지 않습니다. 귀하가 서비스를 떠나 제3자 웹사이트에 접근하거나 제3자 콘텐츠를 사용 또는 설치하기로 결정하는 경우, 귀하는 자신의 책임하에 그렇게 하는 것이며 이러한 법적 조건이 더 이상 적용되지 않는다는 점에 유의해야 합니다. 귀하는 서비스에서 이동하는 웹사이트 또는 귀하가 서비스에서 사용하거나 설치하는 애플리케이션과 관련된 해당 약관 및 정책(개인 정보 및 데이터 수집 관행 포함)을 검토해야 합니다. 귀하가 제3자 웹사이트를 통해 하는 모든 구매는 다른 웹사이트와 다른 회사를 통해 이루어지며, 저희는 귀하와 해당 제3자 간에 배타적으로 이루어지는 그러한 구매와 관련하여 어떠한 책임도 지지 않습니다. 귀하는 저희가 제3자 웹사이트에서 제공되는 제품 또는 서비스를 보증하지 않으며 귀하는 그러한 제품 또는 서비스 구매로 인해 발생한 피해로부터 저희를 무해하게 만들기로 동의하고 인정합니다. 또한 귀하는 귀하가 입은 손실 또는 제3자 콘텐츠 또는 제3자 웹사이트와의 접촉과 관련된 또는 그로 인해 발생하는 귀하에게 발생한 피해로부터 저희를 무해하게 만듭니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="advertisers">8. 광고주</h2>
-                  <p data-custom-class="body_text">
-                  저희는 광고주가 사이드바 광고 또는 배너 광고와 같은 서비스의 특정 영역에 광고 및 기타 정보를 표시하도록 허용합니다. 저희는 그러한 광고를 게재할 공간만 제공하며 광고주와는 다른 관계가 없습니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="sitemanage">9. 서비스 관리</h2>
-                  <p data-custom-class="body_text">
-                  저희는 권리를 보유하지만 의무는 없습니다. (1) 본 서비스가 이러한 법적 조건을 위반하는지 모니터링합니다. (2) 저희의 단독 재량으로 법률 또는 이러한 법적 조건을 위반하는 모든 사람에 대해 적절한 법적 조치를 취합니다. 여기에는 해당 사용자를 법 집행 기관에 신고하는 것이 포함되지만 이에 국한되지 않습니다. (3) 저희의 단독 재량과 제한 없이 귀하의 기여 또는 그 일부를 거부, 접근 제한, 이용 제한 또는 비활성화합니다(기술적으로 가능한 범위 내에서). (4) 저희의 단독 재량과 제한 없이 고지 또는 책임 없이 크기가 과도하거나 어떤 식으로든 저희 시스템에 부담을 주는 모든 파일과 콘텐츠를 서비스에서 제거하거나 다른 방식으로 비활성화합니다. (5) 저희의 권리와 재산을 보호하고 서비스의 적절한 기능을 촉진하도록 설계된 방식으로 서비스를 관리합니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ppyes">10. 개인정보처리방침</h2>
-                  <p data-custom-class="body_text">
-                  저희는 데이터 개인 정보 보호 및 보안에 관심을 기울이고 있습니다. 저희의 개인정보처리방침: <strong><a href="https://www.playfiddlebops.com/privacy/" target="_blank" data-custom-class="link">https://www.playfiddlebops.com/privacy/</a></strong>를 검토하십시오. 서비스를 이용함으로써 귀하는 이러한 법적 조건에 통합된 개인정보처리방침에 구속되는 데 동의합니다. 서비스는 미국에서 호스팅된다는 점에 유의하십시오. 개인 데이터 수집, 이용 또는 공개를 관리하는 법률 또는 기타 요구 사항이 미국의 해당 법률과 다른 세계의 다른 지역에서 서비스에 접근하는 경우, 귀하가 서비스를 계속 이용함으로써 귀하는 귀하의 데이터를 미국으로 전송하는 것이며 미국에서 귀하의 데이터를 전송하고 처리하는 데 명시적으로 동의하는 것입니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="terms">11. 기간 및 해지</h2>
-                  <p data-custom-class="body_text">
-                  귀하가 서비스를 이용하는 동안 이러한 법적 조건은 완전히 유효합니다. 이러한 법적 조건의 다른 조항을 제한하지 않고 저희는 자체 재량에 따라 통지 또는 책임 없이, 이유 여하를 불문하고 누구에게나 서비스에 대한 접근 및 이용을 거부할 권리(특정 IP 주소 차단 포함)를 보유합니다. 여기에는 이러한 법적 조건 또는 해당 법률 또는 규정에 포함된 진술, 보증 또는 약정의 위반이 포함되지만 이에 국한되지 않습니다. 저희는 언제든지 단독 재량으로 통지 없이 귀하의 서비스 이용 또는 참여를 해지하거나 귀하가 게시한 콘텐츠 또는 정보를 삭제할 수 있습니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  어떤 이유로든 귀하의 계정을 해지하거나 정지하는 경우, 귀하는 귀하의 이름, 가짜 또는 빌린 이름 또는 제3자의 이름으로 새 계정을 등록하고 생성하는 것이 금지됩니다. 귀하가 제3자를 대신하여 행동하는 경우에도 마찬가지입니다. 귀하의 계정을 해지하거나 정지하는 것 외에도, 저희는 민사, 형사 및 금지 명령 구제를 추구하는 것을 포함하되 이에 국한되지 않고 적절한 법적 조치를 취할 권리를 보유합니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="modifications">12. 수정 및 중단</h2>
-                  <p data-custom-class="body_text">
-                  저희는 언제든지 또는 어떤 이유로든 단독 재량으로 통지 없이 서비스 내용을 변경, 수정 또는 제거할 권리를 보유합니다. 그러나 저희는 서비스에 대한 정보를 업데이트할 의무가 없습니다. 서비스의 수정, 가격 변경, 중단 또는 중단에 대해 귀하 또는 제3자에게 책임을 지지 않습니다.
-                  </p>
-                  <p data-custom-class="body_text">
-                  저희는 서비스가 항상 사용 가능하다는 것을 보장할 수 없습니다. 저희는 하드웨어, 소프트웨어 또는 기타 문제로 인해 중단, 지연 또는 오류가 발생할 수 있거나 서비스와 관련된 유지 관리를 수행해야 할 수 있습니다. 저희는 언제든지 또는 어떤 이유로든 통지 없이 서비스를 변경, 수정, 업데이트, 일시 중단, 중단 또는 다른 방식으로 수정할 권리를 보유합니다. 귀하는 서비스 중단 또는 중단 시간 동안 서비스에 접근하거나 사용할 수 없어서 발생하는 손실, 손해 또는 불편에 대해 저희가 어떠한 책임도 지지 않는다는 데 동의합니다. 이러한 법적 조건의 어떤 내용도 저희가 서비스를 유지 관리하고 지원하거나 이와 관련하여 수정, 업데이트 또는 릴리스를 제공할 의무가 있는 것으로 해석되지 않습니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="law">13. 준거법</h2>
-                  <p data-custom-class="body_text">
-                  이러한 법적 조건 및 귀하의 서비스 이용은 주 법률에 따라 규율되고 해석되며, 이는 법률 충돌 원칙을 고려하지 않고 주 내에서 체결되고 완전히 수행될 계약에 적용되는 법률입니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disputes">14. 분쟁 해결</h2>
-                  <h3 data-custom-class="heading_2">비공식 협상</h3>
-                  <p data-custom-class="body_text">
-                  이러한 법적 조건과 관련된 분쟁, 논쟁 또는 청구(각각 "분쟁" 및 총칭하여 "분쟁")에 대한 해결을 가속화하고 비용을 관리하기 위해, 귀하 또는 저희(개별적으로 "당사자" 및 총칭하여 "당사자") 중 한쪽에서 제기한 경우 당사자는 먼저 중재를 시작하기 전에 분쟁(아래에 명시적으로 제공된 분쟁 제외)을 최소 30일 동안 비공식적으로 협상하려고 시도하는 데 동의합니다. 그러한 비공식 협상은 일방 당사자가 상대방에게 서면 통지를 하면 시작됩니다.
-                  </p>
-                  <h3 data-custom-class="heading_2">구속력 있는 중재</h3>
-                  <p data-custom-class="body_text">
-                  이러한 법적 조건의 당사자 간의 관계에서 발생하는 분쟁은 스트라스부르에 본사를 두고 유럽 중재 센터의 일부인 유럽 중재 재판소의 중재 및 내부 규칙에 따라 선택될 중재인 1인이 결정합니다. 이는 중재 신청이 제기될 당시에 효력이 있으며, 이 조항의 채택은 수락을 구성합니다. 중재지는 프랑스 파리로 합니다. 소송 언어는 프랑스어로 합니다. 실체법의 해당 규칙은 프랑스 법률로 합니다.
-                  </p>
-                  <h3 data-custom-class="heading_2">제한 사항</h3>
-                  <p data-custom-class="body_text">
-                  당사자는 모든 중재가 개별 당사자 간의 분쟁으로 제한된다는 데 동의합니다. 법률에서 허용하는 최대한의 범위 내에서 (a) 어떠한 중재도 다른 절차와 결합되지 않습니다. (b) 집단 소송 기반으로 분쟁을 중재하거나 집단 소송 절차를 활용할 권리 또는 권한이 없습니다. (c) 일반 대중 또는 다른 사람을 대신하여 주장되는 대리인 자격으로 분쟁을 제기할 권리 또는 권한이 없습니다.
-                  </p>
-                  <h3 data-custom-class="heading_2">비공식 협상 및 중재에 대한 예외</h3>
-                  <p data-custom-class="body_text">
-                  당사자는 다음 분쟁이 비공식 협상 구속력 있는 중재에 관한 위의 조항의 적용을 받지 않는다는 데 동의합니다. (a) 당사자의 지적 재산권의 유효성을 시행하거나 보호하거나 관련시키려는 분쟁. (b) 절도, 저작권 침해, 사생활 침해 또는 무단 사용과 관련된 분쟁 또는 이로 인해 발생하는 분쟁. (c) 금지 명령 구제를 위한 청구. 이 조항이 불법적이거나 시행 불가능한 것으로 판명되는 경우, 어느 당사자도 불법적이거나 시행 불가능한 것으로 판명된 이 조항의 해당 부분에 해당하는 분쟁을 중재하도록 선택하지 않으며, 해당 분쟁은 위에 나열된 관할 구역 내의 관할 법원에서 결정되며 당사자는 해당 법원의 대인 관할권에 복종하는 데 동의합니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="corrections">15. 수정</h2>
-                  <p data-custom-class="body_text">
-                  서비스에는 설명, 가격, 이용 가능 여부 및 다양한 기타 정보를 포함하여 오타, 부정확성 또는 누락이 포함된 정보가 있을 수 있습니다. 저희는 언제든지 사전 통지 없이 오류, 부정확성 또는 누락을 수정하고 서비스에 대한 정보를 변경하거나 업데이트할 권리를 보유합니다.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disclaimer">16. 면책 조항</h2>
-                  <p data-custom-class="body_text">
-                  본 서비스는 "있는 그대로" 및 "사용 가능한" 상태로 제공됩니다. 귀하는 귀하의 서비스 이용이 귀하의 단독 위험으로 이루어진다는 데 동의합니다. 법률에서 허용하는 최대 한도 내에서 저희는 상품성, 특정 목적에의 적합성 및 비침해에 대한 묵시적 보증을 포함하되 이에 국한되지 않고 서비스 및 귀하의 서비스 이용과 관련하여 명시적이든 묵시적이든 모든 보증을 부인합니다. 저희는 서비스 콘텐츠의 정확성 또는 완전성 또는 서비스에 연결된 웹사이트 또는 모바일 애플리케이션의 콘텐츠에 대해 보증 또는 진술을 하지 않으며 (1) 콘텐츠 및 자료의 오류, 실수 또는 부정확성, (2) 서비스에 대한 귀하의 접근 및 이용으로 인해 발생하는 모든 성격의 개인 상해 또는 재산 피해, (3) 당사의 보안 서버 및/또는 그 안에 저장된 모든 개인 정보 및/또는 금융 정보에 대한 무단 접근 또는 이용, (4) 서비스와의 송수신 중단 또는 중단, (5) 제3자가 서비스를 통해 전송할 수 있는 버그, 바이러스, 트로이 목마 또는 이와 유사한 것, 및/또는 (6) 콘텐츠 게시, 전송 또는 다른 방식으로 제공된 콘텐츠 사용의 결과로 발생하는 모든 종류의 손실 또는 손해에 대해 책임을 지지 않습니다. 저희는 제3자가 서비스, 하이퍼링크된 웹사이트 또는 배너 또는 기타 광고에 게재된 웹사이트 또는 모바일 애플리케이션을 통해 광고하거나 제공하는 제품 또는 서비스에 대해 보증, 보증 또는 책임을 지지 않으며 저희는 귀하와 제품 또는 서비스의 제3자 제공자 간의 거래를 모니터링하는 당사자 또는 책임자가 되지 않습니다. 모든 매체 또는 환경을 통해 제품 또는 서비스를 구매할 때와 마찬가지로 귀하는 최고의 판단력을 사용하고 적절한 경우 주의를 기울여야 합니다.
-
-                  </p>
-                  <h2 data-custom-class="heading_1" id="liability">17. 책임 제한</h2>
-                  <p data-custom-class="body_text">
-                  어떠한 경우에도 저희 또는 저희의 이사, 직원 또는 대리인은 귀하에게 본 서비스 이용으로 인해 발생하는 직접적, 간접적, 결과적, 징벌적, 부수적, 특별 또는 징벌적 손해(그러한 손해의 가능성에 대해 저희가 알고 있었더라도 손실된 이익, 손실된 수익, 데이터 손실 또는 기타 손해 포함)에 대해 책임을 지지 않습니다. 특정 미국 주 법률 및 국제 법률에서는 묵시적 보증에 대한 제한 또는 특정 손해의 배제 또는 제한을 허용하지 않습니다. 이러한 법률이 귀하에게 적용되는 경우 위의 면책 조항 또는 제한의 일부 또는 전부가 귀하에게 적용되지 않을 수 있으며 귀하는 추가 권리를 가질 수 있습니다.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="indemnification">18. 면책</h2>
-                  <p data-custom-class="body_text">
-                  귀하는 자회사를 포함한 저희, 계열사 및 저희의 각 임원, 대리인, 파트너 및 직원을 변호하고, 면책하고, 해를 입지 않도록 하는 데 동의합니다. 이는 합당한 변호사 비용 및 경비를 포함하여 다음으로 인해 또는 그로 인해 제3자가 제기한 손실, 손해, 책임, 청구 또는 요구에 해당됩니다. (1) 서비스 이용 (2) 이러한 법적 조건의 위반 (3) 이러한 법적 조건에 명시된 귀하의 진술 및 보증의 위반 (4) 지적 재산권을 포함하되 이에 국한되지 않고 제3자의 권리를 위반하거나, (5) 서비스를 통해 귀하가 연결한 서비스의 다른 사용자에게 행한 명백한 유해 행위. 전술한 사항에도 불구하고 저희는 귀하가 저희에게 배상해야 하는 모든 문제에 대한 독점적인 변호 및 통제를 귀하의 비용으로 맡을 권리를 보유하며 귀하는 이러한 청구에 대한 저희의 변호에 귀하의 비용으로 협조하는 데 동의합니다. 저희는 인지하게 되면 본 면책의 대상이 되는 그러한 청구, 소송 또는 절차에 대해 귀하에게 알리기 위해 합리적인 노력을 기울일 것입니다.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="userdata">19. 사용자 데이터</h2>
-                  <p data-custom-class="body_text">
-                  저희는 서비스 성능을 관리할 목적으로 귀하가 서비스에 전송하는 특정 데이터와 귀하의 서비스 이용과 관련된 데이터를 유지합니다. 저희가 정기적인 데이터 백업을 수행하지만 귀하는 귀하가 전송하는 모든 데이터 또는 귀하가 서비스를 이용하여 수행한 활동과 관련된 모든 데이터에 대해 전적으로 책임을 집니다. 귀하는 그러한 데이터의 손실 또는 손상에 대해 저희가 귀하에게 책임을 지지 않는다는 데 동의하며 귀하는 이로써 그러한 데이터의 손실 또는 손상으로 인해 발생하는 저희에 대한 소송 권리를 포기합니다.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="electronic">20. 전자 통신, 거래 및 서명</h2>
-                  <p data-custom-class="body_text">
-                  서비스 방문, 저희에게 이메일 보내기, 온라인 양식 작성은 전자 통신을 구성합니다. 귀하는 전자 통신을 받는 데 동의하며 저희가 전자적으로 이메일과 서비스를 통해 귀하에게 제공하는 모든 계약, 통지, 공개 및 기타 통신이 그러한 통신이 서면으로 이루어져야 한다는 법적 요건을 충족하는 데 동의합니다. 귀하는 이에 따라 전자 서명, 계약, 주문 및 기타 기록의 사용과 저희 또는 서비스를 통해 시작하거나 완료한 거래의 통지, 정책 및 기록의 전자적 전달에 동의합니다. 귀하는 이에 따라 원래 서명 또는 비전자 기록의 전달 또는 보유, 또는 전자적 수단이 아닌 다른 수단으로 지불 또는 신용 공여를 요구하는 관할 구역의 법령, 규정, 규칙, 조례 또는 기타 법률에 따른 권리 또는 요구 사항을 포기합니다.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="misc">21. 기타</h2>
-                  <p data-custom-class="body_text">
-                  이러한 법적 조건 및 저희가 서비스에 게시하거나 서비스와 관련하여 게시하는 모든 정책 또는 운영 규칙은 귀하와 저희 간의 완전한 합의 및 이해를 구성합니다. 이러한 법적 조건의 권리 또는 조항을 행사하거나 시행하지 않아도 그러한 권리 또는 조항을 포기하는 것으로 해석되지 않습니다. 이러한 법적 조건은 법률에서 허용하는 최대한의 범위 내에서 효력을 발휘합니다. 저희는 언제든지 저희의 권리 및 의무의 일부 또는 전부를 다른 사람에게 양도할 수 있습니다. 저희는 합리적인 통제를 벗어난 원인으로 인한 손실, 손해, 지연 또는 행동 실패에 대해 책임을 지지 않습니다. 이러한 법적 조건의 조항 또는 조항의 일부가 불법적이거나, 무효이거나, 시행 불가능한 것으로 확인되는 경우 해당 조항 또는 조항의 일부는 이러한 법적 조건에서 분리 가능한 것으로 간주되며 나머지 조항의 유효성 및 시행 가능성에 영향을 미치지 않습니다. 이러한 법적 조건 또는 서비스 이용의 결과로 귀하와 저희 사이에 합작 투자, 파트너십, 고용 또는 대리 관계가 성립되지 않습니다. 귀하는 이러한 법적 조건이 저희가 초안을 작성했기 때문에 저희에게 불리하게 해석되지 않는다는 데 동의합니다. 귀하는 이에 따라 이러한 법적 조건의 전자 형식과 당사자들이 이러한 법적 조건을 실행하기 위해 서명하지 않았다는 점에 근거하여 가질 수 있는 모든 방어권을 포기합니다.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="contact">22. 문의하기</h2>
-                  <p data-custom-class="body_text">
-                  서비스에 대한 불만을 해결하거나 서비스 이용에 대한 자세한 정보를 받으려면 chongzhidatech@gmail.com으로 문의하십시오.
-                  </p>
-          </article>
-        </div>
-      </div>
-    </section>
+    </article>
   </main>
 
-  <Footer />
+  <Footer
+    locale={locale}
+  />
 </BaseLayout>
-
-<style>
-  /* ===== TERMS OF SERVICE PAGE STYLES ===== */
-
-  /* Page Background */
-  body {
-    background: var(--hero-main-bg);
-    min-height: 100vh;
-  }
-
-  .terms-page {
-    background: transparent;
-  }
-
-  /* Terms Hero Section */
-  .terms-hero {
-    background: var(--hero-main-bg);
-    color: var(--color-text);
-    padding: var(--space-16) 0 var(--space-8);
-    padding-top: calc(80px + var(--space-8));
-    position: relative;
-    overflow: hidden;
-  }
-
-  .terms-hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--hero-texture-bg);
-    opacity: var(--hero-texture-opacity);
-    pointer-events: none;
-  }
-
-  .terms-hero-content {
-    position: relative;
-    z-index: 10;
-    text-align: center;
-  }
-
-  /* Breadcrumb Navigation */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: var(--space-2);
-    margin-bottom: var(--space-6);
-    font-size: var(--font-size-sm);
-    justify-content: center;
-  }
-
-  .breadcrumb-link {
-    display: flex;
-    align-items: center;
-    gap: var(--space-1);
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: all var(--duration-200) var(--ease-in-out);
-    padding: var(--space-1) var(--space-2);
-    border-radius: var(--border-radius-md);
-  }
-
-  .breadcrumb-link:hover {
-    color: var(--color-primary-700);
-    background: rgba(147, 51, 234, 0.1);
-  }
-
-  .breadcrumb-separator {
-    color: var(--color-gray-400);
-    font-weight: 500;
-  }
-
-  .breadcrumb-current {
-    color: var(--color-gray-600);
-    font-weight: 500;
-  }
-
-  /* Hero Content */
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-
-  .terms-title {
-    margin-bottom: var(--space-6);
-    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  }
-
-  .title-main {
-    display: block;
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .title-accent {
-    display: block;
-    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .terms-subtitle {
-    margin-bottom: var(--space-6);
-    color: var(--color-text-muted);
-  }
-
-  .last-updated {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-2);
-    background: rgba(147, 51, 234, 0.1);
-    padding: var(--space-2) var(--space-4);
-    border-radius: var(--border-radius-md);
-    color: var(--color-primary-600);
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-medium);
-  }
-
-  /* Terms Icons */
-  .terms-icons {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    pointer-events: none;
-    z-index: 1;
-  }
-
-  .terms-icon {
-    position: absolute;
-    font-size: 3rem;
-    color: rgba(147, 51, 234, 0.1);
-    animation: float-icons 12s ease-in-out infinite;
-  }
-
-  .terms-icon:nth-child(1) {
-    left: 10%;
-    top: 20%;
-    animation-delay: 0s;
-  }
-
-  .terms-icon:nth-child(2) {
-    right: 10%;
-    top: 30%;
-    animation-delay: 3s;
-  }
-
-  .terms-icon:nth-child(3) {
-    left: 15%;
-    top: 70%;
-    animation-delay: 6s;
-  }
-
-  @keyframes float-icons {
-    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
-    25% { transform: translateY(-10px) rotate(2deg); opacity: 0.15; }
-    50% { transform: translateY(-20px) rotate(-1deg); opacity: 0.1; }
-    75% { transform: translateY(-10px) rotate(1deg); opacity: 0.15; }
-  }
-
-  /* Content Section */
-  .terms-content {
-    background: transparent;
-  }
-
-  .content-wrapper {
-    display: grid;
-    grid-template-columns: 300px 1fr;
-    gap: var(--space-12);
-    align-items: start;
-  }
-
-  /* Navigation Menu */
-  .terms-nav {
-    position: sticky;
-    top: calc(80px + var(--space-4));
-    padding: var(--space-6);
-    border-radius: var(--border-radius-xl);
-  }
-
-  .terms-nav h3 {
-    margin-bottom: var(--space-4);
-    color: var(--color-text);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  .terms-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .terms-nav li {
-    margin-bottom: var(--space-2);
-  }
-
-  .terms-nav a {
-    display: block;
-    padding: var(--space-2) var(--space-3);
-    color: var(--color-text-muted);
-    text-decoration: none;
-    border-radius: var(--border-radius-md);
-    transition: all var(--duration-200) var(--ease-in-out);
-    font-size: var(--font-size-sm);
-  }
-
-  .terms-nav a:hover {
-    color: var(--color-primary-600);
-    background: rgba(147, 51, 234, 0.1);
-    transform: translateX(4px);
-  }
-
-  /* Article Content */
-  .terms-article {
-    padding: var(--space-8);
-    border-radius: var(--border-radius-xl);
-    line-height: 1.7;
-  }
-
-  .terms-article h2 {
-    color: var(--color-text);
-    margin-top: var(--space-8);
-    margin-bottom: var(--space-4);
-    font-size: var(--font-size-2xl);
-    font-weight: var(--font-weight-semibold);
-    padding-bottom: var(--space-2);
-    border-bottom: 2px solid var(--color-primary-600);
-  }
-
-  .terms-article h2:first-child {
-    margin-top: 0;
-  }
-
-  .terms-article h3 {
-    color: var(--color-text);
-    margin-top: var(--space-6);
-    margin-bottom: var(--space-3);
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article h4 {
-    color: var(--color-text);
-    margin-top: var(--space-4);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article h5 {
-    color: var(--color-text);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-base);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article p {
-    margin-bottom: var(--space-4);
-    color: var(--color-text-muted);
-  }
-
-  .terms-article ul {
-    margin-bottom: var(--space-4);
-    padding-left: var(--space-6);
-  }
-
-  .terms-article li {
-    margin-bottom: var(--space-2);
-    color: var(--color-text-muted);
-  }
-
-  .terms-article a {
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: color var(--duration-200) var(--ease-in-out);
-  }
-
-  .terms-article a:hover {
-    color: var(--color-primary-700);
-    text-decoration: underline;
-  }
-
-  .terms-article strong {
-    color: var(--color-text);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .content-wrapper {
-      grid-template-columns: 1fr;
-      gap: var(--space-8);
-    }
-
-    .terms-nav {
-      position: static;
-      order: 2;
-    }
-
-    .terms-article {
-      padding: var(--space-6);
-    }
-
-    .terms-hero {
-      padding: var(--space-12) 0 var(--space-6);
-    }
-
-    .breadcrumb {
-      margin-bottom: var(--space-4);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .terms-article {
-      padding: var(--space-4);
-    }
-
-    .terms-title {
-      font-size: var(--font-size-3xl);
-    }
-  }
-</style>

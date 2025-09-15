@@ -242,60 +242,65 @@ export function initCritical() {
 - 示例：`src/pages/zh/privacy.astro`、`src/pages/zh/terms-of-service.astro` 尾部内联脚本合并进 `critical.js`。
 
 ## Phase 4｜页面与路由简化（第 4 天）
-### 4.1 动态页面收敛（文件：`src/pages/[...slug].astro`）
-- 直接依赖 `getCollection('games')` 与 `translations[locale]`，避免中间服务层。
-```astro
----
-import { getCollection } from 'astro:content'
-import Layout from '@/layouts/BaseLayout.astro'
+### 4.0 基线更新
+- 以 Phase 3 产物为新基线：重采集 SEO/DOM/文本/脚本清单，保存到 `reports/*-baseline-phase3.*`。
 
-export async function getStaticPaths() {
-  const games = await getCollection('games')
-  const locales = ['en','zh','es','fr','de','ja','ko']
-  return games.flatMap(game => locales.map(locale => ({
-    params: { slug: locale === 'en' ? game.data.slug : `${locale}/${game.data.slug}` },
-    props: { game, locale }
-  })))
-}
+### 4.1 简化游戏详情页实现（对外零变化）
+- 文件：`src/pages/[...slug].astro`
+- 目标：保持 URL、canonical/hreflang、JSON‑LD、正文与相关游戏区块输出与基线一致。
+- 做法：
+  - 继续使用 `getCollection('games')` + 已有 i18n 兼容层取数；页面只做取数与渲染。
+  - 若仍有 `UrlService` 依赖，可用 `deriveBaseSlug/localizedPath` 等价替换；如风险高则保持 UrlService（薄壳）。
+  - 将列表/映射等数据整形逻辑迁入轻量 util，页面主体减少分支与杂项逻辑。
+- 验收：英文与非英文各 1 个详情页的 head、正文、JSON‑LD、相关游戏 HTML 片段与基线一致。
 
-const { game, locale } = Astro.props
-const t = game.data.translations[locale] || game.data.translations.en
----
-<Layout title={t.meta?.title} description={t.meta?.description}>
-  <h1>{t.title}</h1>
-  <p>{t.description}</p>
-  <iframe src={game.data.iframe} />
-</Layout>
-```
+### 4.2 拆分重型组件为内部子块（外观不变）
+- 目标组件：
+  - `src/components/GameHero.astro`（~1000+ 行）
+  - `src/components/SoundSample.astro`（~800+ 行）
+- 做法：
+  - 提取内部片段到 `src/components/game/sections/*`；
+  - 父组件对外 props、容器 DOM 与 CSS 类名不变；
+  - 不改变任何可见输出（理想为字节级一致，至少标签/类名/文本一致）。
+- 产出：将编译后页面中相关片段的 HTML 对比写入 `reports/phase4-markup-diff.md`。
 
-### 4.2 复杂度阈值（策略）
-- 单文件 < 100 行、单函数 < 20 行为目标；超过阈值优先拆分或删除冗余路径。
-- 不进行“为抽象而抽象”的通用化；具体问题具体代码。
+### 4.3 法务页彻底模板化收口（如仍有遗留）
+- 将剩余语言的隐私/条款正文迁至 content（MD/JSON），页面仅做读取与渲染；
+- set:html 仅渲染仓库内受控内容；
+- 输出必须与基线逐字一致（文本哈希比对）。
 
-建议的体量削减手段（结合仓库现状）
-- `terms-of-service.astro`/`privacy.astro` 多语言重复：改成“模板 + 内容集合”，单页预计 < 80 行。
-- `GameHero.astro`、`SoundSample.astro`（>800 行）：拆为“视图+UI块”，减少每文件体积并提升可删除性。
+### 4.4 死代码清理（仅零引用时）
+- 候选：`src/lib/content-simple` 与 demo/验证页；
+- 检查：`rg -n "(content-simple|SimpleContentManager)" src` → 0 后再删；
+- 删除前后均需构建通过。
+
+### 4.5 度量与门禁
+- 构建与预览通过；四条红线全量对比通过；
+- 输出：行数与热点文件体量变化榜（前 10 大文件），`reports/phase4-verification.md`；
+- 建议提交：
+  - `refactor(game): simplify [...slug] with preserved output`
+  - `refactor(components): split GameHero/SoundSample without altering markup`
+  - `chore: phase4 verification (no external diffs)`
 
 ## Phase 5｜依赖与最终清理（第 5 天）
-### 5.1 依赖清理
-```bash
-# 识别未引用包（示例，可按需替换为本地工具）
-# 手动审阅 import 与 package.json，再执行：
-npm uninstall <unused-packages>
-npm prune
-```
+### 5.0 基线更新
+- 以 Phase 4 产物为新基线，重采集对比数据。
 
-### 5.2 质量与度量
-```bash
-# 代码行数（目标 < 7,000 行）
-find src -type f \( -name "*.ts" -o -name "*.tsx" -o -name "*.astro" \) -print0 | xargs -0 wc -l | tail -n1
+### 5.1 依赖清理（谨慎）
+- 列出候选未用包并用 `rg -n` 逐个交叉验证；
+- 执行：`npm uninstall <unused-packages> && npm prune`；
+- 构建与冒烟必须通过。
 
-# 内容文件数（目标 ~ 68 个游戏内容）
-find src/content/games -maxdepth 1 -type f -name "*.md" | wc -l
+### 5.2 移除演示/测试遗留（零引用才删）
+- 候选：`src/pages/content-demo.astro`、`src/pages/content-manager-verification.astro`、仅验证被移除子系统的测试；
+- 删除前 `rg` 证明零命中；删除后构建通过。
 
-# 构建验证
-npm run build && npm run preview
-```
+### 5.3 最终度量与文档
+- 目标：行数显著下降；内容结构稳定；`is:inline`=0；SEO/文本/样式/URL 不变；
+- 更新 CLAUDE.md/README 的“最终结构与运维说明”（含回滚指引）。
+
+### 5.4 终验报告
+- 产出 `reports/final-verification.md`：四条红线对比、度量汇总（行数/构建时长/内容文件数）、主要变更清单与回滚策略。
 
 ## 验收标准（Done 定义）
 - 路由与主要页面端到端可用（首页、/games、任一游戏详情、各语言首页）。

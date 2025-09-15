@@ -3,729 +3,85 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: lang.code === 'en' ? `https://www.playfiddlebops.com/terms-of-service/` : `https://www.playfiddlebops.com/${lang.code}/terms-of-service/`,
-  label: lang.label,
-}))
+// 获取当前语言
+const locale = 'fr'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const termsData = legalContent?.data.terms
+
+if (!termsData) {
+  throw new Error(`Terms content not found for locale: ${locale}`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/terms-of-service',
+  'https://www.playfiddlebops.com'
+)
 
 // Meta data for terms page
 const meta = {
-  title: "Conditions d'utilisation | FiddleBops",
-  description: "Lisez nos Conditions d'utilisation pour comprendre les règles et directives d'utilisation de FiddleBops. Découvrez vos droits et responsabilités en tant qu'utilisateur.",
-  canonical: "https://www.playfiddlebops.com/fr/terms-of-service/",
+  title: termsData.meta.title,
+  description: termsData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/terms-of-service/`,
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
-  robots: "index, follow"
+  robots: "noindex, nofollow"
 }
 ---
 
 <BaseLayout
   meta={meta}
-  lang="fr"
+  lang={locale}
   hreflang={hreflangLinks}
 >
   <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
-    currentLang="fr"
+    currentLang={locale}
     currentPath="/terms-of-service/"
   />
 
-  <main class="terms-page">
-    <!-- Hero Section -->
-    <section class="terms-hero section">
-      <div class="container">
-        <div class="terms-hero-content">
-          <!-- 面包屑导航 -->
-          <nav class="breadcrumb" aria-label="面包屑导航">
-            <a href="/fr/" class="breadcrumb-link">
-              <i class="fas fa-home"></i>
-              <span>Accueil</span>
-            </a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">Conditions de Service</span>
-          </nav>
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{termsData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {termsData.meta.lastUpdated}</p>
+      </header>
 
-          <div class="hero-content">
-            <h1 class="terms-title heading-display">
-              <span class="title-main">Conditions de</span>
-              <span class="title-accent">Service</span>
-            </h1>
-            <p class="terms-subtitle body-large">
-              Veuillez lire attentivement ces conditions avant d'utiliser nos services.
-              En utilisant FiddleBops, vous acceptez ces conditions d'utilisation.
-            </p>
-            <div class="last-updated">
-              <i class="fas fa-calendar-alt"></i>
-              <span>Dernière mise à jour : 10 février 2025</span>
-            </div>
-          </div>
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {termsData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
 
-          <!-- 装饰性图标 -->
-          <div class="terms-icons">
-            <div class="terms-icon"><i class="fas fa-gavel"></i></div>
-            <div class="terms-icon"><i class="fas fa-balance-scale"></i></div>
-            <div class="terms-icon"><i class="fas fa-handshake"></i></div>
-          </div>
-        </div>
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {termsData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
       </div>
-    </section>
-
-    <!-- Terms Content Section -->
-    <section class="terms-content section">
-      <div class="container">
-        <div class="content-wrapper">
-
-          <!-- Navigation Menu -->
-          <aside class="terms-nav glass">
-            <h3>Table des Matières</h3>
-            <ul>
-              <li><a href="#agreement">Accord aux Conditions</a></li>
-              <li><a href="#services">Nos Services</a></li>
-              <li><a href="#ip">Propriété Intellectuelle</a></li>
-              <li><a href="#userreps">Déclarations d'Utilisateur</a></li>
-              <li><a href="#prohibited">Activités Interdites</a></li>
-              <li><a href="#ugc">Contributions d'Utilisateur</a></li>
-              <li><a href="#privacy">Politique de Confidentialité</a></li>
-              <li><a href="#termination">Résiliation</a></li>
-              <li><a href="#disclaimer">Avis de Non-responsabilité</a></li>
-              <li><a href="#liability">Limitations de Responsabilité</a></li>
-              <li><a href="#contact">Nous Contacter</a></li>
-            </ul>
-          </aside>
-
-          <!-- Main Content -->
-          <article class="terms-article glass">
-
-            <section id="agreement">
-              <h2>Acceptation de nos Conditions Juridiques</h2>
-                  <a name="_6aa3gkhykvst"></a>
-                  <p data-custom-class="body_text">
-                  Nous sommes
-                  <bdt class="question">playfiddlebops</bdt>.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Nous exploitons le site Web
-                  <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">http://www.playfiddlebops.com</a>
-                  (le « <strong>Site</strong> »), ainsi que tout autre produit et service connexe qui se réfère ou renvoie à ces conditions juridiques (les « <strong>Conditions juridiques</strong> ») (collectivement, les « <strong>Services</strong> »).
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Vous pouvez nous contacter par e-mail à
-                  <bdt class="question">chongzhidatech@gmail.com</bdt>.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Ces conditions juridiques constituent un accord juridiquement contraignant conclu entre vous, que ce soit personnellement ou au nom d'une entité (« <strong>vous</strong> »), concernant votre accès et votre utilisation des Services. Vous acceptez qu'en accédant aux Services, vous avez lu, compris et accepté d'être lié par toutes ces conditions juridiques. <strong>Si vous n'êtes pas d'accord avec toutes ces conditions juridiques, il vous est expressément interdit d'utiliser les Services et vous devez immédiatement cesser de les utiliser.</strong>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Les conditions générales ou documents supplémentaires qui peuvent être publiés sur les Services de temps à autre sont expressément incorporés aux présentes par référence. Nous nous réservons le droit, à notre seule discrétion, d'apporter des changements ou des modifications à ces conditions juridiques de temps à autre. Nous vous informerons de tout changement en mettant à jour la date de « dernière mise à jour » de ces conditions juridiques, et vous renoncez à tout droit de recevoir un avis spécifique de chacun de ces changements. Il est de votre responsabilité de consulter périodiquement ces conditions juridiques pour rester informé des mises à jour. Vous serez soumis aux changements apportés à toute condition juridique révisée, et serez réputé en avoir pris connaissance et les avoir acceptés, en continuant à utiliser les Services après la date de publication de ces conditions juridiques révisées.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Les Services sont destinés aux utilisateurs âgés d'au moins 18 ans. Les personnes de moins de 18 ans ne sont pas autorisées à utiliser les Services ou à s'y inscrire.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Nous vous recommandons d'imprimer une copie de ces conditions juridiques pour vos dossiers.
-                  </p>
-
-                  <h2 data-custom-class="heading_1">TABLE DES MATIÈRES</h2>
-                  <p><a href="#services">1. NOS SERVICES</a></p>
-                  <p><a href="#ip">2. DROITS DE PROPRIÉTÉ INTELLECTUELLE</a></p>
-                  <p><a href="#userreps">3. DÉCLARATIONS DE L'UTILISATEUR</a></p>
-                  <p><a href="#prohibited">4. ACTIVITÉS INTERDITES</a></p>
-                  <p><a href="#ugc">5. CONTRIBUTIONS GÉNÉRÉES PAR LES UTILISATEURS</a></p>
-                  <p><a href="#license">6. LICENCE DE CONTRIBUTION</a></p>
-                  <p><a href="#thirdparty">7. SITES WEB ET CONTENU DE TIERS</a></p>
-                  <p><a href="#advertisers">8. ANNONCEURS</a></p>
-                  <p><a href="#sitemanage">9. GESTION DES SERVICES</a></p>
-                  <p><a href="#ppyes">10. POLITIQUE DE CONFIDENTIALITÉ</a></p>
-                  <p><a href="#terms">11. DURÉE ET RÉSILIATION</a></p>
-                  <p><a href="#modifications">12. MODIFICATIONS ET INTERRUPTIONS</a></p>
-                  <p><a href="#law">13. DROIT APPLICABLE</a></p>
-                  <p><a href="#disputes">14. RÈGLEMENT DES DIFFÉRENDS</a></p>
-                  <p><a href="#corrections">15. CORRECTIONS</a></p>
-                  <p><a href="#disclaimer">16. AVIS DE NON-RESPONSABILITÉ</a></p>
-                  <p><a href="#liability">17. LIMITATIONS DE RESPONSABILITÉ</a></p>
-                  <p><a href="#indemnification">18. INDEMNISATION</a></p>
-                  <p><a href="#userdata">19. DONNÉES DE L'UTILISATEUR</a></p>
-                  <p><a href="#electronic">20. COMMUNICATIONS ÉLECTRONIQUES, TRANSACTIONS ET SIGNATURES</a></p>
-                  <p><a href="#misc">21. DIVERS</a></p>
-                  <p><a href="#contact">22. NOUS CONTACTER</a></p>
-
-                  <a name="_b6y29mp52qvx"></a>
-
-                  <h2 data-custom-class="heading_1" id="services">1. NOS SERVICES</h2>
-
-                  <p data-custom-class="body_text">
-                  Les informations fournies lors de l'utilisation des Services ne sont pas destinées à être distribuées ou utilisées par une personne ou une entité dans une juridiction ou un pays où une telle distribution ou utilisation serait contraire à la loi ou à la réglementation ou qui nous soumettrait à une exigence d'enregistrement dans cette juridiction ou ce pays. En conséquence, les personnes qui choisissent d'accéder aux Services à partir d'autres endroits le font de leur propre initiative et sont seules responsables du respect des lois locales, si et dans la mesure où les lois locales sont applicables.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Les Services ne sont pas conçus pour se conformer aux réglementations spécifiques à l'industrie (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.). Par conséquent, si vos interactions sont soumises à de telles lois, vous ne pouvez pas utiliser les Services. Vous ne pouvez pas utiliser les Services d'une manière qui violerait le Gramm-Leach-Bliley Act (GLBA).
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ip">2. DROITS DE PROPRIÉTÉ INTELLECTUELLE</h2>
-
-                  <h3 data-custom-class="heading_2">Notre propriété intellectuelle</h3>
-                  <p data-custom-class="body_text">
-                  Nous sommes le propriétaire ou le licencié de tous les droits de propriété intellectuelle de nos Services, y compris tous les codes sources, bases de données, fonctionnalités, logiciels, conceptions de sites Web, éléments audio, vidéos, textes, photographies et graphiques des Services (collectivement, le « Contenu »), ainsi que les marques de commerce, marques de service et logos qui y sont contenus (les « Marques »).
-                  </p>
-                  <p data-custom-class="body_text">
-                  Notre Contenu et nos Marques sont protégés par les lois sur le droit d'auteur et les marques de commerce (et diverses autres lois sur la propriété intellectuelle et la concurrence déloyale) et les traités aux États-Unis et dans le monde entier.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Le Contenu et les Marques sont fournis dans ou par le biais des Services « en l'état » pour votre usage personnel et non commercial ou à des fins commerciales internes uniquement.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">Votre utilisation de nos Services</h3>
-                  <p data-custom-class="body_text">
-                  Sous réserve de votre respect des présentes conditions juridiques, y compris la section <a data-custom-class="link" href="#prohibited">Activités interdites</a> ci-dessous, nous vous accordons une licence non exclusive, non transférable et révocable pour :
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">accéder aux Services ; et</li>
-                      <li data-custom-class="body_text">télécharger ou imprimer une copie de toute partie du Contenu à laquelle vous avez correctement accédé,</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  uniquement pour votre usage personnel et non commercial ou à des fins commerciales internes.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Sauf disposition contraire dans cette section ou ailleurs dans nos conditions juridiques, aucune partie des Services et aucun Contenu ou Marque ne peut être copié, reproduit, agrégé, republié, téléchargé, publié, affiché publiquement, encodé, traduit, transmis, distribué, vendu, concédé sous licence ou autrement exploité à des fins commerciales quelles qu'elles soient, sans notre autorisation écrite préalable expresse.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Si vous souhaitez utiliser les Services, le Contenu ou les Marques autrement que comme indiqué dans cette section ou ailleurs dans nos conditions juridiques, veuillez adresser votre demande à : chongzhidatech@gmail.com. Si nous vous accordons un jour la permission de publier, reproduire ou afficher publiquement une partie de nos Services ou de notre Contenu, vous devez nous identifier comme les propriétaires ou les concédants de licence des Services, du Contenu ou des Marques et vous assurer que tout avis de droit d'auteur ou de propriété apparaît ou est visible lors de la publication, de la reproduction ou de l'affichage de notre Contenu.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Nous nous réservons tous les droits qui ne vous sont pas expressément accordés sur les Services, le Contenu et les Marques.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Toute violation de ces droits de propriété intellectuelle constituera une violation substantielle de nos conditions juridiques et votre droit d'utiliser nos Services sera immédiatement résilié.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">Vos soumissions</h3>
-                  <p data-custom-class="body_text">
-                  Veuillez consulter attentivement cette section et la section <a data-custom-class="link" href="#prohibited">Activités interdites</a> avant d'utiliser nos Services afin de comprendre (a) les droits que vous nous accordez et (b) les obligations que vous avez lorsque vous publiez ou téléchargez du contenu via les Services.
-                  </p>
-                  <p data-custom-class="body_text">
-                  **Soumissions :** en nous envoyant directement toute question, commentaire, suggestion, idée, feedback ou autre information sur les Services (« Soumissions »), vous acceptez de nous céder tous les droits de propriété intellectuelle sur ces Soumissions. Vous acceptez que nous soyons propriétaires de cette Soumission et que nous ayons le droit de l'utiliser et de la diffuser sans restriction à des fins licites, commerciales ou autres, sans reconnaissance ni compensation envers vous.
-                  </p>
-                  <p data-custom-class="body_text">
-                  **Vous êtes responsable de ce que vous publiez ou téléchargez :** en nous envoyant des Soumissions via une partie quelconque des Services, vous :
-                  </p>
-                  <ul>
-                          <li data-custom-class="body_text">confirmez que vous avez lu et que vous êtes d'accord avec nos <a data-custom-class="link" href="#prohibited">Activités interdites</a> et que vous ne publierez, n'enverrez, ne publierez, ne téléchargerez ni ne transmettrez via les Services aucune Soumission illégale, harcelante, haineuse, nuisible, diffamatoire, obscène, intimidante, abusive, discriminatoire, menaçante pour toute personne ou groupe, sexuellement explicite, fausse, inexacte, trompeuse ou mensongère ;</li>
-                          <li data-custom-class="body_text">dans la mesure permise par la loi applicable, renoncez à tout droit moral sur une telle Soumission ;</li>
-                          <li data-custom-class="body_text">garantissez que toute Soumission de ce type est originale pour vous ou que vous disposez des droits et licences nécessaires pour soumettre ces Soumissions et que vous avez toute l'autorité pour nous accorder les droits susmentionnés concernant vos Soumissions ; et</li>
-                          <li data-custom-class="body_text">garantissez et déclarez que vos Soumissions ne constituent pas des informations confidentielles.</li>
-                      </ul>
-                  <p data-custom-class="body_text">
-                  Vous êtes seul responsable de vos Soumissions et vous acceptez expressément de nous rembourser toutes les pertes que nous pourrions subir en raison de votre violation de (a) cette section, (b) des droits de propriété intellectuelle d'un tiers ou (c) de la loi applicable.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="userreps">3. DÉCLARATIONS DE L'UTILISATEUR</h2>
-                  <p data-custom-class="body_text">
-                  En utilisant les Services, vous déclarez et garantissez que : (1) vous avez la capacité juridique et vous acceptez de vous conformer à ces conditions juridiques ; (2) vous n'êtes pas mineur dans la juridiction dans laquelle vous résidez ; (3) vous n'accéderez pas aux Services par des moyens automatisés ou non humains, que ce soit par le biais d'un robot, d'un script ou autre ; (4) vous n'utiliserez pas les Services à des fins illégales ou non autorisées ; et (5) votre utilisation des Services ne violera aucune loi ou réglementation applicable.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Si vous fournissez des informations fausses, inexactes, obsolètes ou incomplètes, nous avons le droit de suspendre ou de résilier votre compte et de refuser toute utilisation actuelle ou future des Services (ou toute partie de ceux-ci).
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="prohibited">4. ACTIVITÉS INTERDITES</h2>
-                  <p data-custom-class="body_text">
-                  Vous ne pouvez pas accéder aux Services ou les utiliser à des fins autres que celles pour lesquelles nous les mettons à disposition. Les Services ne peuvent pas être utilisés dans le cadre d'activités commerciales, à l'exception de celles qui sont spécifiquement approuvées ou avalisées par nous.
-                  </p>
-                  <p data-custom-class="body_text">
-                  En tant qu'utilisateur des Services, vous acceptez de ne pas :
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">récupérer systématiquement des données ou d'autres contenus des Services pour créer ou compiler, directement ou indirectement, une collection, une compilation, une base de données ou un répertoire sans notre autorisation écrite.</li>
-                      <li data-custom-class="body_text">tromper, frauder ou induire en erreur nous et les autres utilisateurs, en particulier dans toute tentative d'apprendre des informations de compte sensibles telles que les mots de passe des utilisateurs.</li>
-                      <li data-custom-class="body_text">contourner, désactiver ou interférer de toute autre manière avec les fonctionnalités liées à la sécurité des Services, y compris les fonctionnalités qui empêchent ou restreignent l'utilisation ou la copie de tout contenu ou appliquent des limitations à l'utilisation des Services et/ou du contenu qui y est contenu.</li>
-                      <li data-custom-class="body_text">déprécier, ternir ou nuire de toute autre manière, à notre avis, à nous et/ou aux Services.</li>
-                      <li data-custom-class="body_text">utiliser toute information obtenue des Services afin de harceler, d'abuser ou de nuire à une autre personne.</li>
-                      <li data-custom-class="body_text">utiliser de manière inappropriée nos services d'assistance ou soumettre de faux rapports d'abus ou d'inconduite.</li>
-                      <li data-custom-class="body_text">utiliser les Services d'une manière incompatible avec les lois ou réglementations applicables.</li>
-                      <li data-custom-class="body_text">se livrer à un cadrage ou à une liaison non autorisée des Services.</li>
-                      <li data-custom-class="body_text">télécharger ou transmettre (ou tenter de télécharger ou de transmettre) des virus, des chevaux de Troie ou d'autres éléments, y compris l'utilisation excessive de lettres majuscules et le spam (publication continue de textes répétitifs), qui interfèrent avec l'utilisation et la jouissance ininterrompues des Services par toute partie ou modifient, altèrent, perturbent, altèrent ou interfèrent avec l'utilisation, les caractéristiques, les fonctions, le fonctionnement ou la maintenance des Services.</li>
-                      <li data-custom-class="body_text">se livrer à toute utilisation automatisée du système, comme l'utilisation de scripts pour envoyer des commentaires ou des messages, ou l'utilisation d'exploration de données, de robots ou d'outils similaires de collecte et d'extraction de données.</li>
-                      <li data-custom-class="body_text">supprimer l'avis de droit d'auteur ou autres droits de propriété de tout contenu.</li>
-                      <li data-custom-class="body_text">tenter d'usurper l'identité d'un autre utilisateur ou d'une autre personne ou utiliser le nom d'utilisateur d'un autre utilisateur.</li>
-                      <li data-custom-class="body_text">télécharger ou transmettre (ou tenter de télécharger ou de transmettre) tout élément qui agit comme un mécanisme de collecte ou de transmission d'informations passif ou actif, y compris, sans limitation, les formats d'échange graphique clairs (« gifs »), les pixels 1×1, les bogues Web, les cookies ou autres dispositifs similaires (parfois appelés « logiciels espions » ou « mécanismes de collecte passive » ou « pcms »).</li>
-                      <li data-custom-class="body_text">interférer, perturber ou créer une charge excessive sur les Services ou les réseaux ou services connectés aux Services.</li>
-                      <li data-custom-class="body_text">harceler, ennuyer, intimider ou menacer l'un de nos employés ou agents engagés dans la fourniture d'une partie quelconque des Services à votre intention.</li>
-                      <li data-custom-class="body_text">tenter de contourner toute mesure des Services conçue pour empêcher ou restreindre l'accès aux Services, ou à une partie quelconque des Services.</li>
-                      <li data-custom-class="body_text">copier ou adapter le logiciel des Services, y compris, mais sans s'y limiter, flash, php, html, javascript ou autre code.</li>
-                      <li data-custom-class="body_text">sauf dans la mesure permise par la loi applicable, déchiffrer, décompiler, désassembler ou effectuer une ingénierie inverse sur tout logiciel composant ou constituant de quelque manière que ce soit une partie des Services.</li>
-                      <li data-custom-class="body_text">sauf si cela peut résulter de l'utilisation standard d'un moteur de recherche ou d'un navigateur Internet, utiliser, lancer, développer ou distribuer tout système automatisé, y compris, sans limitation, tout robot d'indexation, robot, utilitaire de triche, extracteur de données ou lecteur hors ligne qui accède aux Services, ou utiliser ou lancer tout script non autorisé ou autre logiciel.</li>
-                      <li data-custom-class="body_text">utiliser un agent d'achat ou un agent d'approvisionnement pour effectuer des achats sur les Services.</li>
-                      <li data-custom-class="body_text">faire toute utilisation non autorisée des Services, y compris la collecte de noms d'utilisateur et/ou d'adresses électroniques d'utilisateurs par des moyens électroniques ou autres dans le but d'envoyer des courriels non sollicités, ou la création de comptes d'utilisateurs par des moyens automatisés ou sous de faux prétextes.</li>
-                      <li data-custom-class="body_text">utiliser les Services dans le cadre d'un effort pour concurrencer avec nous ou utiliser autrement les Services et/ou le contenu pour toute entreprise commerciale ou lucrative.</li>
-                  </ul>
-
-                  <h2 data-custom-class="heading_1" id="ugc">5. CONTRIBUTIONS GÉNÉRÉES PAR LES UTILISATEURS</h2>
-                  <p data-custom-class="body_text">
-                  Les Services n'offrent pas aux utilisateurs la possibilité de soumettre ou de publier du contenu. Nous pouvons vous donner la possibilité de créer, soumettre, publier, afficher, transmettre, exécuter, publier, distribuer ou diffuser du contenu et du matériel sur les Services, y compris, mais sans s'y limiter, du texte, des écrits, des vidéos, de l'audio, des photographies, des graphiques, des commentaires, des suggestions ou des informations personnelles ou tout autre matériel (collectivement, les « Contributions »). Les Contributions peuvent être consultées par d'autres utilisateurs des Services et via des sites Web tiers. En tant que tel, toute Contribution que vous transmettez peut être traitée conformément à la politique de confidentialité des Services. Lorsque vous créez ou mettez à disposition des Contributions, vous déclarez et garantissez par la présente que :
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">la création, la distribution, la transmission, l'affichage public ou l'exécution, et l'accès, le téléchargement ou la copie de vos Contributions n'enfreignent pas et n'enfreindront pas les droits de propriété, y compris, mais sans s'y limiter, le droit d'auteur, le brevet, la marque de commerce, le secret commercial ou les droits moraux d'un tiers.</li>
-                      <li data-custom-class="body_text">vous êtes le créateur et le propriétaire de vos Contributions ou vous possédez les licences, les droits, les consentements, les décharges et les autorisations nécessaires pour utiliser et nous autoriser, ainsi que les Services et les autres utilisateurs des Services, à utiliser vos Contributions de toute manière envisagée par les Services et ces conditions juridiques.</li>
-                      <li data-custom-class="body_text">vous disposez du consentement écrit, de la décharge et/ou de la permission de toute personne identifiable dans vos Contributions pour utiliser le nom ou la ressemblance de chaque personne identifiable afin de permettre l'inclusion et l'utilisation de vos Contributions de toute manière envisagée par les Services et ces conditions juridiques.</li>
-                      <li data-custom-class="body_text">vos Contributions ne sont pas fausses, inexactes ou trompeuses.</li>
-                      <li data-custom-class="body_text">vos Contributions ne sont pas de la publicité non sollicitée ou non autorisée, du matériel promotionnel, des systèmes pyramidaux, des chaînes de lettres, du spam, des envois de masse ou d'autres formes de sollicitation.</li>
-                      <li data-custom-class="body_text">vos Contributions ne sont pas obscènes, indécentes, lascives, sales, violentes, harcelantes, diffamatoires, calomnieuses ou autrement répréhensibles (tel que déterminé par nous).</li>
-                      <li data-custom-class="body_text">vos Contributions ne ridiculisent, ne se moquent, ne dénigrent, n'intimident ni n'abusent de personne.</li>
-                      <li data-custom-class="body_text">vos Contributions ne sont pas utilisées pour harceler ou menacer (au sens juridique de ces termes) toute autre personne et pour promouvoir la violence contre une personne ou une catégorie de personnes spécifique.</li>
-                      <li data-custom-class="body_text">vos Contributions ne violent aucune loi, réglementation ou règle applicable.</li>
-                      <li data-custom-class="body_text">vos Contributions ne violent pas les droits à la vie privée ou à la publicité d'un tiers.</li>
-                      <li data-custom-class="body_text">vos Contributions ne violent aucune loi applicable concernant la pornographie infantile ou autrement destinées à protéger la santé ou le bien-être des mineurs.</li>
-                      <li data-custom-class="body_text">vos Contributions n'incluent aucun commentaire offensant lié à la race, à l'origine nationale, au sexe, à la préférence sexuelle ou au handicap physique.</li>
-                      <li data-custom-class="body_text">vos Contributions ne violent pas autrement, ou ne renvoient pas à des éléments qui violent, toute disposition des présentes conditions juridiques ou toute loi ou réglementation applicable.</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  Toute utilisation des Services en violation de ce qui précède viole ces conditions juridiques et peut entraîner, entre autres, la résiliation ou la suspension de vos droits d'utilisation des Services.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="license">6. LICENCE DE CONTRIBUTION</h2>
-                  <p data-custom-class="body_text">
-                  Vous et les Services convenez que nous pouvons accéder à, stocker, traiter et utiliser toute information et données personnelles que vous fournissez conformément aux conditions de la politique de confidentialité et à vos choix (y compris les paramètres).
-                  </p>
-                  <p data-custom-class="body_text">
-                  En soumettant des suggestions ou d'autres commentaires concernant les Services, vous acceptez que nous puissions utiliser et partager ces commentaires à toute fin sans compensation pour vous.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Nous ne revendiquons aucune propriété sur vos Contributions. Vous conservez l'entière propriété de toutes vos Contributions et de tous les droits de propriété intellectuelle ou autres droits de propriété associés à vos Contributions. Nous ne sommes pas responsables des déclarations ou représentations contenues dans vos Contributions fournies par vous dans n'importe quelle zone des Services. Vous êtes seul responsable de vos Contributions aux Services et vous acceptez expressément de nous exonérer de toute responsabilité et de vous abstenir de toute action en justice contre nous concernant vos Contributions.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="thirdparty">7. SITES WEB ET CONTENU DE TIERS</h2>
-                  <p data-custom-class="body_text">
-                  Les Services peuvent contenir (ou vous pouvez être envoyé via le Site) des liens vers d'autres sites Web (« Sites Web tiers ») ainsi que des articles, des photographies, du texte, des graphiques, des images, des dessins, de la musique, du son, des vidéos, des informations, des applications, des logiciels et d'autres contenus ou éléments appartenant à des tiers ou provenant de ceux-ci (« Contenu tiers »). Ces Sites Web tiers et ce Contenu tiers ne sont pas étudiés, surveillés ou vérifiés par nos soins quant à leur exactitude, leur pertinence ou leur exhaustivité, et nous ne sommes pas responsables des Sites Web tiers accessibles via les Services ou de tout Contenu tiers publié sur les Services, disponible via les Services ou installé à partir de ceux-ci, y compris le contenu, l'exactitude, le caractère offensant, les opinions, la fiabilité, les pratiques en matière de confidentialité ou les autres politiques des Sites Web tiers ou du Contenu tiers. L'inclusion, la création de liens vers ou l'autorisation d'utiliser ou d'installer des Sites Web tiers ou tout Contenu tiers n'implique pas notre approbation ou notre cautionnement de ceux-ci. Si vous décidez de quitter les Services et d'accéder aux Sites Web tiers ou d'utiliser ou d'installer tout Contenu tiers, vous le faites à vos propres risques, et vous devez être conscient que ces conditions juridiques ne s'appliquent plus. Vous devez consulter les conditions et politiques applicables, y compris les pratiques en matière de confidentialité et de collecte de données, de tout site Web vers lequel vous naviguez à partir des Services ou concernant toute application que vous utilisez ou installez à partir des Services. Tout achat que vous effectuez via des Sites Web tiers se fera via d'autres Sites Web et auprès d'autres sociétés, et nous n'assumons aucune responsabilité en relation avec ces achats qui se font exclusivement entre vous et le tiers concerné. Vous convenez et reconnaissez que nous n'avalisons pas les produits ou services offerts sur les Sites Web tiers et vous nous tiendrez à l'abri de tout préjudice causé par votre achat de ces produits ou services. En outre, vous nous tiendrez à l'abri de toute perte subie par vous ou de tout préjudice causé à vous lié à ou résultant de quelque manière que ce soit de tout Contenu tiers ou de tout contact avec des Sites Web tiers.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="advertisers">8. ANNONCEURS</h2>
-                  <p data-custom-class="body_text">
-                  Nous autorisons les annonceurs à afficher leurs publicités et d'autres informations dans certaines zones des Services, telles que les publicités dans la barre latérale ou les bannières publicitaires. Nous fournissons simplement l'espace pour placer ces publicités, et nous n'avons aucune autre relation avec les annonceurs.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="sitemanage">9. GESTION DES SERVICES</h2>
-                  <p data-custom-class="body_text">
-                  Nous nous réservons le droit, mais pas l'obligation, de : (1) surveiller les Services pour détecter les violations de ces conditions juridiques ; (2) intenter une action en justice appropriée contre toute personne qui, à notre seule discrétion, viole la loi ou ces conditions juridiques, y compris, sans limitation, signaler cet utilisateur aux autorités chargées de l'application de la loi ; (3) à notre seule discrétion et sans limitation, refuser, restreindre l'accès à, limiter la disponibilité de ou désactiver (dans la mesure où cela est technologiquement faisable) toute contribution de votre part ou toute partie de celle-ci ; (4) à notre seule discrétion et sans limitation, avis ou responsabilité, supprimer des Services ou désactiver autrement tous les fichiers et contenus qui sont de taille excessive ou qui sont d'une manière ou d'une autre un fardeau pour nos systèmes ; et (5) gérer autrement les Services d'une manière conçue pour protéger nos droits et notre propriété et pour faciliter le bon fonctionnement des Services.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ppyes">10. POLITIQUE DE CONFIDENTIALITÉ</h2>
-                  <p data-custom-class="body_text">
-                  Nous nous soucions de la confidentialité et de la sécurité des données. Veuillez consulter notre politique de confidentialité : <strong><a href="https://www.playfiddlebops.com/privacy/" target="_blank" data-custom-class="link">https://www.playfiddlebops.com/privacy/</a></strong>. En utilisant les Services, vous acceptez d'être lié par notre politique de confidentialité, qui est intégrée aux présentes conditions juridiques. Veuillez noter que les Services sont hébergés aux États-Unis. Si vous accédez aux Services depuis toute autre région du monde dont les lois ou autres exigences régissent la collecte, l'utilisation ou la divulgation des données personnelles diffèrent des lois applicables aux États-Unis, alors, par votre utilisation continue des Services, vous transférez vos données aux États-Unis, et vous consentez expressément à ce que vos données soient transférées et traitées aux États-Unis.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="terms">11. DURÉE ET RÉSILIATION</h2>
-                  <p data-custom-class="body_text">
-                  Ces conditions juridiques resteront en vigueur et de plein effet pendant que vous utilisez les Services. Sans limiter toute autre disposition des présentes conditions juridiques, nous nous réservons le droit, à notre seule discrétion et sans préavis ni responsabilité, de refuser l'accès et l'utilisation des Services (y compris le blocage de certaines adresses IP) à toute personne pour quelque raison que ce soit ou sans raison, y compris, sans limitation, en cas de violation de toute déclaration, garantie ou engagement contenu dans les présentes conditions juridiques ou de toute loi ou réglementation applicable. Nous pouvons résilier votre utilisation ou votre participation aux Services ou supprimer tout contenu ou information que vous avez publié à tout moment, sans avertissement, à notre seule discrétion.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Si nous résilions ou suspendons votre compte pour quelque raison que ce soit, il vous est interdit de vous inscrire et de créer un nouveau compte sous votre nom, un faux nom ou un nom emprunté, ou le nom d'un tiers, même si vous agissez au nom du tiers. En plus de résilier ou de suspendre votre compte, nous nous réservons le droit d'intenter une action en justice appropriée, y compris, sans limitation, de demander une réparation civile, pénale et par injonction.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="modifications">12. MODIFICATIONS ET INTERRUPTIONS</h2>
-                  <p data-custom-class="body_text">
-                  Nous nous réservons le droit de modifier ou de supprimer le contenu des Services à tout moment ou pour quelque raison que ce soit, à notre seule discrétion et sans préavis. Toutefois, nous n'avons aucune obligation de mettre à jour les informations sur nos Services. Nous ne serons pas responsables envers vous ou un tiers de toute modification, changement de prix, suspension ou interruption des Services.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Nous ne pouvons garantir que les Services seront disponibles à tout moment. Nous pouvons rencontrer des problèmes matériels, logiciels ou autres ou avoir besoin d'effectuer une maintenance liée aux Services, ce qui entraînera des interruptions, des retards ou des erreurs. Nous nous réservons le droit de changer, de réviser, de mettre à jour, de suspendre, d'interrompre ou de modifier autrement les Services à tout moment ou pour quelque raison que ce soit sans préavis. Vous convenez que nous n'avons aucune responsabilité quelle qu'elle soit pour toute perte, dommage ou inconvénient causé par votre incapacité à accéder aux Services ou à les utiliser pendant toute période d'indisponibilité ou d'interruption des Services. Rien dans les présentes conditions juridiques ne sera interprété comme nous obligeant à maintenir et à prendre en charge les Services ou à fournir des corrections, des mises à jour ou des versions en rapport avec ceux-ci.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="law">13. DROIT APPLICABLE</h2>
-                  <p data-custom-class="body_text">
-                  Les présentes conditions juridiques et votre utilisation des Services sont régies par et interprétées conformément aux lois de l'État applicables aux accords conclus et entièrement exécutés dans l'État, sans égard à ses principes de conflit de lois.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disputes">14. RÈGLEMENT DES DIFFÉRENDS</h2>
-                  <h3 data-custom-class="heading_2">Négociations informelles</h3>
-                  <p data-custom-class="body_text">
-                  Afin d'accélérer le règlement et de contrôler le coût de tout différend, controverse ou réclamation  liés à ces conditions juridiques (chacun un « différend » et collectivement, les « différends ») intentés par vous ou par nous (individuellement, une « partie » et collectivement, les « parties »), les parties conviennent d'abord de tenter de négocier tout différend (à l'exception des différends expressément prévus ci-dessous) de manière informelle pendant au moins trente (30) jours avant d'entamer un arbitrage. De telles négociations informelles commencent sur notification écrite d'une partie à l'autre partie.
-                  </p>
-                  <h3 data-custom-class="heading_2">Arbitrage obligatoire</h3>
-                  <p data-custom-class="body_text">
-                  Tout différend découlant des relations entre les parties aux présentes conditions juridiques sera tranché par un arbitre qui sera choisi conformément aux règles d'arbitrage et internes de la Cour européenne d'arbitrage faisant partie du Centre européen d'arbitrage ayant son siège à Strasbourg, et qui sont en vigueur au moment où la demande d'arbitrage est déposée, et dont l'adoption de cette clause constitue l'acceptation. Le siège de l'arbitrage sera Paris, France. La langue de la procédure sera le français. Les règles applicables du droit matériel seront le droit français.
-                  </p>
-                  <h3 data-custom-class="heading_2">Restrictions</h3>
-                  <p data-custom-class="body_text">
-                  Les parties conviennent que tout arbitrage sera limité au différend entre les parties individuellement. Dans toute la mesure permise par la loi, (a) aucun arbitrage ne sera joint à une autre procédure ; (b) il n'existe aucun droit ou pouvoir pour qu'un différend soit arbitré sur une base de recours collectif ou pour utiliser des procédures de recours collectif ; et (c) il n'existe aucun droit ou pouvoir pour qu'un différend soit porté en une capacité de représentation présumée au nom du grand public ou de toute autre personne.
-                  </p>
-                  <h3 data-custom-class="heading_2">Exceptions aux négociations informelles et à l'arbitrage</h3>
-                  <p data-custom-class="body_text">
-                  Les parties conviennent que les différends suivants ne sont pas soumis aux dispositions ci-dessus concernant l'arbitrage obligatoire des négociations informelles : (a) tout différend visant à faire respecter ou à protéger, ou concernant la validité, l'un des droits de propriété intellectuelle d'une partie ; (b) tout différend lié à, ou découlant d'allégations de vol, de piratage, d'atteinte à la vie privée ou d'utilisation non autorisée ; et (c) toute demande d'injonction. Si cette disposition s'avère illégale ou inapplicable, aucune des parties ne choisira d'arbitrer un différend relevant de la partie de cette disposition jugée illégale ou inapplicable, et ce différend sera tranché par un tribunal compétent au sein des tribunaux énumérés pour la juridiction ci-dessus, et les parties conviennent de se soumettre à la compétence personnelle de ce tribunal.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="corrections">15. CORRECTIONS</h2>
-                  <p data-custom-class="body_text">
-                  Il peut y avoir des informations sur les Services qui contiennent des erreurs typographiques, des inexactitudes ou des omissions, y compris des descriptions, des prix, des disponibilités et diverses autres informations. Nous nous réservons le droit de corriger toute erreur, inexactitude ou omission et de modifier ou de mettre à jour les informations sur les Services à tout moment, sans préavis.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disclaimer">16. AVIS DE NON-RESPONSABILITÉ</h2>
-                  <p data-custom-class="body_text">
-                  Les Services sont fournis en l'état et selon leur disponibilité. Vous convenez que votre utilisation des Services se fera à vos seuls risques. Dans toute la mesure permise par la loi, nous déclinons toute garantie, expresse ou implicite, en relation avec les Services et votre utilisation de ceux-ci, y compris, sans limitation, les garanties implicites de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. Nous ne donnons aucune garantie ni ne faisons aucune déclaration concernant l'exactitude ou l'exhaustivité du contenu des Services ou du contenu de tout site Web ou application mobile lié aux Services et nous n'assumerons aucune responsabilité pour (1) les erreurs, les fautes ou les inexactitudes du contenu et des documents, (2) les dommages corporels ou matériels, de quelque nature que ce soit, résultant de votre accès et de votre utilisation des Services, (3) tout accès ou utilisation non autorisée de nos serveurs sécurisés et/ou de toutes les informations personnelles et/ou financières qui y sont stockées, (4) toute interruption ou cessation de transmission vers ou depuis les Services, (5) tout bogue, virus, cheval de Troie ou autre élément similaire qui peut être transmis vers ou via les Services par un tiers, et/ou (6) toute erreur ou omission dans tout contenu et document ou pour toute perte ou dommage de quelque nature que ce soit encouru à la suite de l'utilisation de tout contenu affiché, transmis ou autrement mis à disposition via les Services. Nous ne garantissons, n'avalisons, ne garantissons ni n'assumons la responsabilité de tout produit ou service annoncé ou offert par un tiers via les Services, tout site Web hyperlié ou tout site Web ou application mobile présenté dans une bannière ou autre publicité, et nous ne serons pas partie à ou en aucun cas responsables de la surveillance de toute transaction entre vous et tout fournisseur tiers de produits ou de services. Comme pour l'achat d'un produit ou d'un service par tout moyen ou dans tout environnement, vous devez utiliser votre meilleur jugement et faire preuve de prudence le cas échéant.
-
-                  </p>
-                  <h2 data-custom-class="heading_1" id="liability">17. LIMITATIONS DE RESPONSABILITÉ</h2>
-                  <p data-custom-class="body_text">
-                  En aucun cas, nous ou nos administrateurs, employés ou agents ne serons responsables envers vous ou un tiers de tout dommage direct, indirect, consécutif, exemplaire, accessoire, spécial ou punitif, y compris la perte de profits, la perte de revenus, la perte de données ou d'autres dommages découlant de votre utilisation des Services, même si nous avons été informés de la possibilité de tels dommages. Certaines lois des États américains et lois internationales n'autorisent pas les limitations sur les garanties implicites ou l'exclusion ou la limitation de certains dommages. Si ces lois s'appliquent à vous, certaines ou toutes les exclusions de garantie ou limitations ci-dessus peuvent ne pas s'appliquer à vous, et vous pouvez avoir des droits supplémentaires.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="indemnification">18. INDEMNISATION</h2>
-                  <p data-custom-class="body_text">
-                  Vous acceptez de nous défendre, de nous indemniser et de nous dégager de toute responsabilité, y compris nos filiales, sociétés affiliées et tous nos administrateurs, agents, partenaires et employés respectifs, contre toute perte, dommage, responsabilité, réclamation ou demande, y compris les honoraires et dépenses raisonnables d'avocats, faite par un tiers en raison de ou découlant de : (1) l'utilisation des Services ; (2) la violation des présentes conditions juridiques ; (3) toute violation de vos déclarations et garanties énoncées dans les présentes conditions juridiques ; (4) votre violation des droits d'un tiers, y compris, mais sans s'y limiter, les droits de propriété intellectuelle ; ou (5) tout acte nocif manifeste envers tout autre utilisateur des Services avec lequel vous vous êtes connecté via les Services. Nonobstant ce qui précède, nous nous réservons le droit, à vos frais, d'assumer la défense et le contrôle exclusifs de toute affaire pour laquelle vous êtes tenu de nous indemniser, et vous acceptez de coopérer, à vos frais, à notre défense contre de telles réclamations. Nous déploierons des efforts raisonnables pour vous informer de toute réclamation, action ou procédure qui est soumise à cette indemnisation dès que nous en aurons connaissance.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="userdata">19. DONNÉES DE L'UTILISATEUR</h2>
-                  <p data-custom-class="body_text">
-                  Nous conserverons certaines données que vous transmettez aux Services dans le but de gérer les performances des Services, ainsi que les données relatives à votre utilisation des Services. Bien que nous effectuions des sauvegardes régulières des données, vous êtes seul responsable de toutes les données que vous transmettez ou qui se rapportent à toute activité que vous avez entreprise en utilisant les Services. Vous convenez que nous n'aurons aucune responsabilité envers vous pour toute perte ou corruption de ces données, et vous renoncez par la présente à tout droit d'action contre nous découlant de toute perte ou corruption de ces données.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="electronic">20. COMMUNICATIONS ÉLECTRONIQUES, TRANSACTIONS ET SIGNATURES</h2>
-                  <p data-custom-class="body_text">
-                  La consultation des Services, l'envoi de courriels et le remplissage de formulaires en ligne constituent des communications électroniques. Vous consentez à recevoir des communications électroniques, et vous convenez que tous les accords, avis, divulgations et autres communications que nous vous fournissons électroniquement, par courriel et sur les Services, satisfont à toute exigence légale selon laquelle ces communications doivent être écrites. Vous acceptez par la présente l'utilisation de signatures électroniques, de contrats, de commandes et d'autres documents, ainsi que la livraison électronique d'avis, de politiques et d'enregistrements de transactions initiées ou effectuées par nous ou via les Services. Vous renoncez par la présente à tous les droits ou exigences en vertu de toute loi, réglementation, règle, ordonnance ou autre loi dans toute juridiction qui exige une signature originale ou la livraison ou la conservation d'enregistrements non électroniques, ou aux paiements ou à l'octroi de crédits par tout moyen autre que les moyens électroniques.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="misc">21. DIVERS</h2>
-                  <p data-custom-class="body_text">
-                  Les présentes conditions juridiques et toutes les politiques ou règles de fonctionnement que nous publions sur les Services ou concernant les Services constituent l'intégralité de l'entente entre vous et nous. Notre manquement à exercer ou à faire appliquer tout droit ou disposition des présentes conditions juridiques ne constitue pas une renonciation à ce droit ou à cette disposition. Les présentes conditions juridiques s'appliquent dans toute la mesure permise par la loi. Nous pouvons céder tout ou partie de nos droits et obligations à des tiers à tout moment. Nous ne serons pas responsables de toute perte, dommage, retard ou manquement à agir causé par toute cause hors de notre contrôle raisonnable. Si une disposition ou une partie de disposition des présentes conditions juridiques est jugée illégale, nulle ou inapplicable, cette disposition ou partie de disposition est réputée séparable des présentes conditions juridiques et n'affecte pas la validité et l'applicabilité des dispositions restantes. Il n'existe aucune relation de coentreprise, de partenariat, d'emploi ou d'agence créée entre vous et nous à la suite des présentes conditions juridiques ou de l'utilisation des Services. Vous convenez que les présentes conditions juridiques ne seront pas interprétées contre nous en raison de leur rédaction. Vous renoncez par la présente à tous les moyens de défense que vous pourriez avoir en fonction de la forme électronique des présentes conditions juridiques et de l'absence de signature par les parties aux présentes pour exécuter les présentes conditions juridiques.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="contact">22. NOUS CONTACTER</h2>
-                  <p data-custom-class="body_text">
-                  Afin de résoudre une plainte concernant les Services ou de recevoir de plus amples renseignements concernant l'utilisation des Services, veuillez nous contacter à l'adresse suivante : chongzhidatech@gmail.com
-                  </p>
-
-          </article>
-        </div>
-      </div>
-    </section>
+    </article>
   </main>
 
-  <Footer />
+  <Footer
+    locale={locale}
+  />
 </BaseLayout>
-
-<style>
-  /* ===== TERMS OF SERVICE PAGE STYLES ===== */
-
-  /* Page Background */
-  body {
-    background: var(--hero-main-bg);
-    min-height: 100vh;
-  }
-
-  .terms-page {
-    background: transparent;
-  }
-
-  /* Terms Hero Section */
-  .terms-hero {
-    background: var(--hero-main-bg);
-    color: var(--color-text);
-    padding: var(--space-16) 0 var(--space-8);
-    padding-top: calc(80px + var(--space-8));
-    position: relative;
-    overflow: hidden;
-  }
-
-  .terms-hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--hero-texture-bg);
-    opacity: var(--hero-texture-opacity);
-    pointer-events: none;
-  }
-
-  .terms-hero-content {
-    position: relative;
-    z-index: 10;
-    text-align: center;
-  }
-
-  /* Breadcrumb Navigation */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: var(--space-2);
-    margin-bottom: var(--space-6);
-    font-size: var(--font-size-sm);
-    justify-content: center;
-  }
-
-  .breadcrumb-link {
-    display: flex;
-    align-items: center;
-    gap: var(--space-1);
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: all var(--duration-200) var(--ease-in-out);
-    padding: var(--space-1) var(--space-2);
-    border-radius: var(--border-radius-md);
-  }
-
-  .breadcrumb-link:hover {
-    color: var(--color-primary-700);
-    background: rgba(147, 51, 234, 0.1);
-  }
-
-  .breadcrumb-separator {
-    color: var(--color-gray-400);
-    font-weight: 500;
-  }
-
-  .breadcrumb-current {
-    color: var(--color-gray-600);
-    font-weight: 500;
-  }
-
-  /* Hero Content */
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-
-  .terms-title {
-    margin-bottom: var(--space-6);
-    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  }
-
-  .title-main {
-    display: block;
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .title-accent {
-    display: block;
-    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .terms-subtitle {
-    margin-bottom: var(--space-6);
-    color: var(--color-text-muted);
-  }
-
-  .last-updated {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-2);
-    background: rgba(147, 51, 234, 0.1);
-    padding: var(--space-2) var(--space-4);
-    border-radius: var(--border-radius-md);
-    color: var(--color-primary-600);
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-medium);
-  }
-
-  /* Terms Icons */
-  .terms-icons {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    pointer-events: none;
-    z-index: 1;
-  }
-
-  .terms-icon {
-    position: absolute;
-    font-size: 3rem;
-    color: rgba(147, 51, 234, 0.1);
-    animation: float-icons 12s ease-in-out infinite;
-  }
-
-  .terms-icon:nth-child(1) {
-    left: 10%;
-    top: 20%;
-    animation-delay: 0s;
-  }
-
-  .terms-icon:nth-child(2) {
-    right: 10%;
-    top: 30%;
-    animation-delay: 3s;
-  }
-
-  .terms-icon:nth-child(3) {
-    left: 15%;
-    top: 70%;
-    animation-delay: 6s;
-  }
-
-  @keyframes float-icons {
-    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
-    25% { transform: translateY(-10px) rotate(2deg); opacity: 0.15; }
-    50% { transform: translateY(-20px) rotate(-1deg); opacity: 0.1; }
-    75% { transform: translateY(-10px) rotate(1deg); opacity: 0.15; }
-  }
-
-  /* Content Section */
-  .terms-content {
-    background: transparent;
-  }
-
-  .content-wrapper {
-    display: grid;
-    grid-template-columns: 300px 1fr;
-    gap: var(--space-12);
-    align-items: start;
-  }
-
-  /* Navigation Menu */
-  .terms-nav {
-    position: sticky;
-    top: calc(80px + var(--space-4));
-    padding: var(--space-6);
-    border-radius: var(--border-radius-xl);
-  }
-
-  .terms-nav h3 {
-    margin-bottom: var(--space-4);
-    color: var(--color-text);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  .terms-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .terms-nav li {
-    margin-bottom: var(--space-2);
-  }
-
-  .terms-nav a {
-    display: block;
-    padding: var(--space-2) var(--space-3);
-    color: var(--color-text-muted);
-    text-decoration: none;
-    border-radius: var(--border-radius-md);
-    transition: all var(--duration-200) var(--ease-in-out);
-    font-size: var(--font-size-sm);
-  }
-
-  .terms-nav a:hover {
-    color: var(--color-primary-600);
-    background: rgba(147, 51, 234, 0.1);
-    transform: translateX(4px);
-  }
-
-  /* Article Content */
-  .terms-article {
-    padding: var(--space-8);
-    border-radius: var(--border-radius-xl);
-    line-height: 1.7;
-  }
-
-  .terms-article h2 {
-    color: var(--color-text);
-    margin-top: var(--space-8);
-    margin-bottom: var(--space-4);
-    font-size: var(--font-size-2xl);
-    font-weight: var(--font-weight-semibold);
-    padding-bottom: var(--space-2);
-    border-bottom: 2px solid var(--color-primary-600);
-  }
-
-  .terms-article h2:first-child {
-    margin-top: 0;
-  }
-
-  .terms-article h3 {
-    color: var(--color-text);
-    margin-top: var(--space-6);
-    margin-bottom: var(--space-3);
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article h4 {
-    color: var(--color-text);
-    margin-top: var(--space-4);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article h5 {
-    color: var(--color-text);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-base);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article p {
-    margin-bottom: var(--space-4);
-    color: var(--color-text-muted);
-  }
-
-  .terms-article ul {
-    margin-bottom: var(--space-4);
-    padding-left: var(--space-6);
-  }
-
-  .terms-article li {
-    margin-bottom: var(--space-2);
-    color: var(--color-text-muted);
-  }
-
-  .terms-article a {
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: color var(--duration-200) var(--ease-in-out);
-  }
-
-  .terms-article a:hover {
-    color: var(--color-primary-700);
-    text-decoration: underline;
-  }
-
-  .terms-article strong {
-    color: var(--color-text);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .content-wrapper {
-      grid-template-columns: 1fr;
-      gap: var(--space-8);
-    }
-
-    .terms-nav {
-      position: static;
-      order: 2;
-    }
-
-    .terms-article {
-      padding: var(--space-6);
-    }
-
-    .terms-hero {
-      padding: var(--space-12) 0 var(--space-6);
-    }
-
-    .breadcrumb {
-      margin-bottom: var(--space-4);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .terms-article {
-      padding: var(--space-4);
-    }
-
-    .terms-title {
-      font-size: var(--font-size-3xl);
-    }
-  }
-</style>

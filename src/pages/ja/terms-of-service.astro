@@ -3,728 +3,85 @@ import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
 import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
 
-// 多语言配置
-const hreflangLinks = navigation.languages.map((lang: any) => ({
-  code: lang.code === 'en' ? 'x-default' : lang.code,
-  url: lang.code === 'en' ? `https://www.playfiddlebops.com/terms-of-service/` : `https://www.playfiddlebops.com/${lang.code}/terms-of-service/`,
-  label: lang.label,
-}))
+// 获取当前语言
+const locale = 'ja'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const termsData = legalContent?.data.terms
+
+if (!termsData) {
+  throw new Error(`Terms content not found for locale: ${locale}`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/terms-of-service',
+  'https://www.playfiddlebops.com'
+)
 
 // Meta data for terms page
 const meta = {
-  title: "利用規約 | FiddleBops",
-  description: "私たちの利用規約をお読みください。FiddleBopsの使用に関するルールとガイドラインを理解し、ユーザーとしての権利と責任を知りましょう。",
-  canonical: "https://www.playfiddlebops.com/ja/terms-of-service/",
+  title: termsData.meta.title,
+  description: termsData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/terms-of-service/`,
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
-  robots: "index, follow"
+  robots: "noindex, nofollow"
 }
 ---
 
 <BaseLayout
   meta={meta}
-  lang="ja"
+  lang={locale}
   hreflang={hreflangLinks}
 >
   <Navigation
     navigation={navigation.main}
     languages={navigation.languages}
-    currentLang="ja"
+    currentLang={locale}
     currentPath="/terms-of-service/"
   />
 
-  <main class="terms-page">
-    <!-- Hero Section -->
-    <section class="terms-hero section">
-      <div class="container">
-        <div class="terms-hero-content">
-          <!-- 面包屑导航 -->
-          <nav class="breadcrumb" aria-label="パンくずナビゲーション">
-            <a href="/ja/" class="breadcrumb-link">
-              <i class="fas fa-home"></i>
-              <span>ホーム</span>
-            </a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">利用規約</span>
-          </nav>
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{termsData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {termsData.meta.lastUpdated}</p>
+      </header>
 
-          <div class="hero-content">
-            <h1 class="terms-title heading-display">
-              <span class="title-main">利用</span>
-              <span class="title-accent">規約</span>
-            </h1>
-            <p class="terms-subtitle body-large">
-              サービスをご利用いただく前に、この利用規約をよくお読みください。
-              FiddleBopsを使用することで、この利用規約に同意したことになります。
-            </p>
-            <div class="last-updated">
-              <i class="fas fa-calendar-alt"></i>
-              <span>最終更新日: 2025年2月10日</span>
-            </div>
-          </div>
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {termsData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
 
-          <!-- 装饰性图标 -->
-          <div class="terms-icons">
-            <div class="terms-icon"><i class="fas fa-gavel"></i></div>
-            <div class="terms-icon"><i class="fas fa-balance-scale"></i></div>
-            <div class="terms-icon"><i class="fas fa-handshake"></i></div>
-          </div>
-        </div>
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {termsData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
       </div>
-    </section>
-
-    <!-- Terms Content Section -->
-    <section class="terms-content section">
-      <div class="container">
-        <div class="content-wrapper">
-
-          <!-- Navigation Menu -->
-          <aside class="terms-nav glass">
-            <h3>目次</h3>
-            <ul>
-              <li><a href="#agreement">法的条件への同意</a></li>
-              <li><a href="#services">当社のサービス</a></li>
-              <li><a href="#ip">知的財産権</a></li>
-              <li><a href="#userreps">ユーザーの表明</a></li>
-              <li><a href="#prohibited">禁止行為</a></li>
-              <li><a href="#ugc">ユーザー生成コンテンツ</a></li>
-              <li><a href="#privacy">プライバシーポリシー</a></li>
-              <li><a href="#termination">終了</a></li>
-              <li><a href="#disclaimer">免責事項</a></li>
-              <li><a href="#liability">責任の制限</a></li>
-              <li><a href="#contact">お問い合わせ</a></li>
-            </ul>
-          </aside>
-
-          <!-- Main Content -->
-          <article class="terms-article glass">
-
-            <section id="agreement">
-              <h2>法的条件への合意</h2>
-                  <a name="_6aa3gkhykvst"></a>
-                  <p data-custom-class="body_text">
-                  私たちは
-                  <bdt class="question">playfiddlebops</bdt>です。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  当社は、ウェブサイト
-                  <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">http://www.playfiddlebops.com</a>
-                  （以下「<strong>サイト</strong>」といいます）および、これらの法的条件を参照またはリンクするその他の関連製品およびサービス（以下「<strong>法的条件</strong>」といいます）（総称して「<strong>サービス</strong>」といいます）を運営しています。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  電子メールでのお問い合わせ先は
-                  <bdt class="question">chongzhidatech@gmail.com</bdt>です。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  これらの法的条件は、お客様（個人として、または事業体を代表して）（以下「<strong>お客様</strong>」といいます）と当社との間で、お客様のサービスへのアクセスおよび利用に関して締結される、法的拘束力のある合意を構成します。お客様は、サービスにアクセスすることにより、これらの法的条件をすべて読み、理解し、拘束されることに同意するものとします。<strong>これらの法的条件のすべてに同意しない場合は、サービスの利用は明示的に禁止されており、直ちに利用を中止する必要があります。</strong>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  サービスに随時掲載される可能性のある追加の条件またはドキュメントは、参照により本契約に明示的に組み込まれるものとします。当社は、これらの法的条件を随時変更または修正する権利を、独自の裁量で留保します。法的条件の「最終更新日」を更新することにより、変更についてお客様に通知するものとし、お客様は各変更について個別の通知を受け取る権利を放棄するものとします。更新について常に把握するために、これらの法的条件を定期的に確認する責任はお客様にあります。変更された法的条件の掲載後にお客様がサービスを継続して利用することにより、変更された法的条件の変更に拘束され、認識し、受け入れたものとみなされます。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  本サービスは、18歳以上の方を対象としています。18歳未満の方は、本サービスを利用したり、登録したりすることはできません。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  お客様の記録のために、これらの法的条件のコピーを印刷することをお勧めします。
-                  </p>
-
-                  <h2 data-custom-class="heading_1">目次</h2>
-                  <p><a href="#services">1. 当社のサービス</a></p>
-                  <p><a href="#ip">2. 知的財産権</a></p>
-                  <p><a href="#userreps">3. ユーザーの表明</a></p>
-                  <p><a href="#prohibited">4. 禁止行為</a></p>
-                  <p><a href="#ugc">5. ユーザー生成コンテンツ</a></p>
-                  <p><a href="#license">6. 寄稿ライセンス</a></p>
-                  <p><a href="#thirdparty">7. 第三者のウェブサイトとコンテンツ</a></p>
-                  <p><a href="#advertisers">8. 広告主</a></p>
-                  <p><a href="#sitemanage">9. サービス管理</a></p>
-                  <p><a href="#ppyes">10. プライバシーポリシー</a></p>
-                  <p><a href="#terms">11. 期間と終了</a></p>
-                  <p><a href="#modifications">12. 変更と中断</a></p>
-                  <p><a href="#law">13. 準拠法</a></p>
-                  <p><a href="#disputes">14. 紛争解決</a></p>
-                  <p><a href="#corrections">15. 修正</a></p>
-                  <p><a href="#disclaimer">16. 免責事項</a></p>
-                  <p><a href="#liability">17. 責任の制限</a></p>
-                  <p><a href="#indemnification">18. 補償</a></p>
-                  <p><a href="#userdata">19. ユーザーデータ</a></p>
-                  <p><a href="#electronic">20. 電子通信、取引、署名</a></p>
-                  <p><a href="#misc">21. その他</a></p>
-                  <p><a href="#contact">22. お問い合わせ</a></p>
-
-                  <a name="_b6y29mp52qvx"></a>
-
-                  <h2 data-custom-class="heading_1" id="services">1. 当社のサービス</h2>
-
-                  <p data-custom-class="body_text">
-                  本サービスを利用する際に提供される情報は、そのような頒布または利用が法律または規制に違反する場合、またはそのような管轄区域または国における登録要件が当社に適用される可能性がある管轄区域または国において、いかなる人または事業体への頒布または利用を意図したものではありません。したがって、他の場所から本サービスにアクセスすることを選択する方は、自身の判断で行うものとし、現地の法律が適用される範囲において、現地の法律を遵守する責任を単独で負うものとします。
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  本サービスは、業界固有の規制（医療保険の携行性と責任に関する法律（HIPAA）、連邦情報セキュリティ管理法（FISMA）など）を遵守するように調整されていません。そのため、お客様のやり取りがそのような法律の対象となる場合は、本サービスを利用することはできません。グラム・リーチ・ブライリー法（GLBA）に違反する方法で本サービスを利用することはできません。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ip">2. 知的財産権</h2>
-
-                  <h3 data-custom-class="heading_2">当社の知的財産</h3>
-                  <p data-custom-class="body_text">
-                  当社は、本サービス内のすべてのソースコード、データベース、機能、ソフトウェア、ウェブサイトデザイン、オーディオ、ビデオ、テキスト、写真、およびグラフィック（総称して「コンテンツ」）を含む、当社のサービスにおけるすべての知的財産権の所有者またはライセンシーであり、それらに含まれる商標、サービスマーク、およびロゴ（「マーク」）も同様です。
-                  </p>
-                  <p data-custom-class="body_text">
-                  当社のコンテンツとマークは、米国および世界中の著作権法および商標法（およびその他のさまざまな知的財産権および不正競争防止法）および条約によって保護されています。
-                  </p>
-                  <p data-custom-class="body_text">
-                  コンテンツとマークは、お客様の個人的な、非商業的な使用または内部事業目的のみのために、「現状のまま」で本サービスにおいてまたは本サービスを通じて提供されます。
-                  </p>
-
-                  <h3 data-custom-class="heading_2">本サービスの利用</h3>
-                  <p data-custom-class="body_text">
-                  以下の<a data-custom-class="link" href="#prohibited">禁止行為</a>のセクションを含む、お客様がこれらの法的条件を遵守することを条件として、当社はお客様に以下の非独占的、譲渡不可能、取消可能なライセンスを付与します。
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">本サービスへのアクセス</li>
-                      <li data-custom-class="body_text">お客様が正当にアクセス権を取得したコンテンツの一部のコピーをダウンロードまたは印刷すること</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  お客様の個人的な、非商業的な使用または内部事業目的のみのため。
-                  </p>
-                  <p data-custom-class="body_text">
-                  本セクションまたは当社の法的条件の他の箇所に記載されている場合を除き、当社の明示的な事前の書面による許可なしに、本サービスのいかなる部分およびいかなるコンテンツまたはマークも、商業目的のためにいかなる方法であれ、コピー、複製、集約、再公開、アップロード、掲載、公に表示、エンコード、翻訳、送信、配布、販売、ライセンス供与、またはその他の方法で利用することはできません。
-                  </p>
-                  <p data-custom-class="body_text">
-                  本セクションまたは当社の法的条件の他の箇所に記載されている方法以外の方法で本サービス、コンテンツ、またはマークを利用したい場合は、chongzhidatech@gmail.comまでお問い合わせください。当社がお客様に本サービスまたはコンテンツの一部を掲載、複製、または公に表示する許可を与えた場合は、お客様は当社を本サービス、コンテンツ、またはマークの所有者またはライセンサーとして特定し、コンテンツの掲載、複製、または表示時に著作権または所有権に関する表示が表示されるか、または見えるようにする必要があります。
-                  </p>
-                  <p data-custom-class="body_text">
-                  当社は、本サービス、コンテンツ、およびマークに対するお客様に明示的に付与されていないすべての権利を留保します。
-                  </p>
-                  <p data-custom-class="body_text">
-                  これらの知的財産権の違反は、当社の法的条件の重大な違反を構成し、お客様の当社サービスを利用する権利は直ちに終了します。
-                  </p>
-
-                  <h3 data-custom-class="heading_2">お客様の投稿</h3>
-                  <p data-custom-class="body_text">
-                  当社のサービスを利用する前に、本セクションと<a data-custom-class="link" href="#prohibited">禁止行為</a>のセクションを注意深く確認して、（a）お客様が当社に与える権利および（b）お客様が本サービスを通じてコンテンツを投稿またはアップロードする際の義務を理解してください。
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>投稿：</strong>本サービスに関する質問、コメント、提案、アイデア、フィードバック、またはその他の情報（「投稿」）を当社に直接送信することにより、お客様は、そのような投稿におけるすべての知的財産権を当社に譲渡することに同意するものとします。お客様は、当社がこの投稿を所有し、お客様への通知または補償なしに、商業目的またはその他の目的を問わず、あらゆる合法的な目的のためにその無制限の使用および頒布を行う権利を有することに同意するものとします。
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>お客様は投稿またはアップロードするものに責任があります：</strong>お客様は本サービスのどの部分からでも投稿を送信することにより：
-                  </p>
-                  <ul>
-                          <li data-custom-class="body_text">お客様は当社の<a data-custom-class="link" href="#prohibited">禁止行為</a>を読み、同意したこと、および違法、嫌がらせ、憎悪、有害、中傷、わいせつ、いじめ、虐待的、差別的、誰かまたはグループへの脅迫的、性的に露骨、虚偽、不正確、欺瞞的、または誤解を招くような投稿を本サービスを通じて投稿、送信、公開、アップロード、または送信しないことを確認します。</li>
-                          <li data-custom-class="body_text">適用される法律で許可されている範囲で、そのような投稿に対するすべての著作者人格権を放棄します。</li>
-                          <li data-custom-class="body_text">そのような投稿がお客様のオリジナルであること、またはお客様がそのような投稿を送信するために必要な権利およびライセンスを持っていること、およびお客様が当社に投稿に関連する上記の権利を付与する完全な権限を持っていることを保証します。</li>
-                          <li data-custom-class="body_text">お客様の投稿が機密情報に当たらないことを保証し、表明します。</li>
-                      </ul>
-                  <p data-custom-class="body_text">
-                  お客様はご自身の投稿に対して単独で責任を負い、(a) 本セクション、(b) 第三者の知的財産権、または (c) 適用される法律のお客様による違反により当社が被る可能性のある一切の損失について当社に払い戻すことに明示的に同意するものとします。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="userreps">3. ユーザーの表明</h2>
-                  <p data-custom-class="body_text">
-                  本サービスを利用することにより、お客様は以下を表明および保証するものとします。(1) お客様は法的能力を有し、これらの法的条件を遵守することに同意します。(2) お客様は、お客様が居住する管轄区域において未成年者ではありません。(3) お客様は、ボット、スクリプト、またはその他の手段を介して、自動化された手段または非人間的な手段を通じて本サービスにアクセスしません。(4) お客様は、違法または不正な目的で本サービスを利用しません。(5) お客様による本サービスの利用は、適用される法律または規制に違反しません。
-                  </p>
-                  <p data-custom-class="body_text">
-                  お客様が虚偽、不正確、最新でない、または不完全な情報を提供した場合、当社はお客様のアカウントを一時停止または削除し、現在または将来のあらゆるサービス（またはその一部）の利用を拒否する権利を有します。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="prohibited">4. 禁止行為</h2>
-                  <p data-custom-class="body_text">
-                  お客様は、当社が本サービスを利用できるようにする目的以外には、本サービスにアクセスしたり、利用したりすることはできません。当社が特に承認または承認したものを除き、商業的取り組みに関連して本サービスを利用することはできません。
-                  </p>
-                  <p data-custom-class="body_text">
-                  本サービスのユーザーとして、お客様は以下を行わないことに同意します。
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">当社からの書面による許可なしに、本サービスから体系的にデータまたはその他のコンテンツを取得して、直接的または間接的に、コレクション、コンピレーション、データベース、またはディレクトリを作成またはコンパイルすること。</li>
-                      <li data-custom-class="body_text">特に、ユーザーパスワードなどの機密性の高いアカウント情報を入手しようとする試みにおいて、当社および他のユーザーを欺瞞、詐欺、または誤解させること。</li>
-                      <li data-custom-class="body_text">コンテンツの使用またはコピーを防止または制限する機能、または本サービスおよび/またはそれに含まれるコンテンツの使用に対する制限を実施する機能など、本サービスのセキュリティ関連機能を回避、無効化、またはその他の方法で妨害すること。</li>
-                      <li data-custom-class="body_text">当社の意見において、当社および/または本サービスを中傷、汚名、またはその他の方法で損害を与えること。</li>
-                      <li data-custom-class="body_text">別の人を嫌がらせ、虐待、または危害を加えるために、本サービスから取得した情報を使用すること。</li>
-                      <li data-custom-class="body_text">当社のサポートサービスを不適切に利用したり、虐待または不正行為の虚偽の報告書を提出したりすること。</li>
-                      <li data-custom-class="body_text">適用される法律または規制に準拠しない方法で本サービスを利用すること。</li>
-                      <li data-custom-class="body_text">本サービスの不正なフレーミングまたはリンクに従事すること。</li>
-                      <li data-custom-class="body_text">ウィルス、トロイの木馬、またはその他のマテリアル（過剰な大文字の使用およびスパム（反復テキストの継続的な掲載）を含む）をアップロードまたは送信（またはアップロードまたは送信しようとすること）すること。これは、当事者が本サービスの中断のない使用および享受を妨害したり、本サービスの利用、特性、機能、運営、またはメンテナンスを修正、損害、中断、変更、または妨害するものです。</li>
-                      <li data-custom-class="body_text">コメントまたはメッセージを送信するためにスクリプトを使用したり、データマイニング、ロボット、または同様のデータ収集および抽出ツールを使用したりするなど、システムの自動使用に従事すること。</li>
-                      <li data-custom-class="body_text">コンテンツから著作権またはその他の所有権表示を削除すること。</li>
-                      <li data-custom-class="body_text">別のユーザーまたは人を偽装しようとしたり、別のユーザーのユーザー名を使用したりすること。</li>
-                      <li data-custom-class="body_text">受動的または能動的な情報収集または送信メカニズムとして機能するマテリアル（クリアグラフィック交換フォーマット（「gif」）、1×1ピクセル、ウェブバグ、Cookie、またはその他の類似のデバイス（「スパイウェア」または「受動的な収集メカニズム」または「pcms」と呼ばれることもあります）を含むが、これらに限定されない）をアップロードまたは送信（またはアップロードまたは送信しようとすること）。</li>
-                      <li data-custom-class="body_text">本サービスまたは本サービスに接続されたネットワークまたはサービスに干渉、中断、または過度の負担をかけること。</li>
-                      <li data-custom-class="body_text">お客様に本サービスの一部を提供する従業員またはエージェントを嫌がらせ、困らせ、脅迫、または脅迫すること。</li>
-                      <li data-custom-class="body_text">本サービスへのアクセス、または本サービスの任意の部分へのアクセスを防止または制限するように設計された本サービスの措置を回避しようとすること。</li>
-                      <li data-custom-class="body_text">flash、php、html、javascript、またはその他のコードを含むが、これらに限定されない、本サービスのソフトウェアをコピーまたは適合させること。</li>
-                      <li data-custom-class="body_text">適用される法律で許可されている場合を除き、本サービスを構成する、または何らかの方法で本サービスの一部を構成するソフトウェアを解読、逆コンパイル、逆アセンブル、またはリバースエンジニアリングすること。</li>
-                      <li data-custom-class="body_text">標準的な検索エンジンまたはインターネットブラウザの使用の結果である場合を除き、本サービスにアクセスするスパイダー、ロボット、チートユーティリティ、スクレーパー、またはオフラインリーダーを含むが、これらに限定されない、自動化されたシステムを使用、起動、開発、または配布すること、または不正なスクリプトまたはその他のソフトウェアを使用または起動すること。</li>
-                      <li data-custom-class="body_text">本サービスで購買を行うためにバイヤーエージェントまたは購買エージェントを使用すること。</li>
-                      <li data-custom-class="body_text">本サービスを不正に使用すること。これには、未承諾の電子メールを送信する目的で、電子的またはその他の手段によってユーザーのユーザー名および/または電子メールアドレスを収集すること、または自動化された手段によってまたは虚偽の口実の下にユーザーアカウントを作成することが含まれます。</li>
-                      <li data-custom-class="body_text">当社と競合する取り組みの一環として本サービスを使用すること、または収益を生み出す取り組みまたは商業企業のために本サービスおよび/またはコンテンツを使用すること。</li>
-                  </ul>
-
-                  <h2 data-custom-class="heading_1" id="ugc">5. ユーザー生成コンテンツ</h2>
-                  <p data-custom-class="body_text">
-                  本サービスは、ユーザーがコンテンツを送信または投稿することを許可していません。当社は、テキスト、ライティング、ビデオ、オーディオ、写真、グラフィック、コメント、提案、または個人情報もしくはその他のマテリアル（総称して「コンテンツ」といいます）を含むが、これらに限定されない、コンテンツおよびマテリアルを作成、送信、投稿、表示、送信、実行、公開、配布、またはブロードキャストする機会をお客様に提供する場合があります。コンテンツは、本サービスの他のユーザーおよび第三者のウェブサイトを通じて閲覧できる場合があります。そのため、お客様が送信するコンテンツは、本サービスのプライバシーポリシーに従って扱われる場合があります。コンテンツを作成または利用可能にする場合、お客様は、以下を表明および保証するものとします。
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">お客様のコンテンツの作成、配布、送信、公的展示、またはパフォーマンス、およびアクセス、ダウンロード、またはコピーは、いかなる第三者の財産権（第三者の著作権、特許、商標、企業秘密、または著作者人格権を含むが、これらに限定されない）も侵害せず、また侵害することもありません。</li>
-                      <li data-custom-class="body_text">お客様は、お客様のコンテンツの作成者および所有者であるか、または本サービスおよび当社、本サービス、および本サービスの他のユーザーにお客様のコンテンツを本サービスおよびこれらの法的条件によって意図された方法で使用する許可を与えるために必要なライセンス、権利、同意、リリース、および許可を有しています。</li>
-                      <li data-custom-class="body_text">お客様は、お客様のコンテンツ内の識別可能な各個人の氏名または肖像を使用するために、識別可能な各個人の書面による同意、リリース、および/または許可を有しており、本サービスおよびこれらの法的条件によって意図された方法で、お客様のコンテンツを含めたり、使用したりすることができます。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、虚偽、不正確、または誤解を招くものではありません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、未承諾または不正な広告、宣伝資料、ねずみ講、チェーンレター、スパム、大量メール、またはその他の勧誘の形式ではありません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、わいせつ、下品、みだら、不潔、暴力的、ハラスメント的、名誉毀損的、中傷的、またはその他の点で好ましくないものではありません（当社が決定するとおり）。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、誰かを嘲笑、嘲弄、軽蔑、脅迫、または虐待するものではありません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、他の人を（これらの用語の法的意味で）嫌がらせたり、脅迫したり、特定の人または人々の集団に対する暴力を助長するために使用されていません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、適用される法律、規制、または規則に違反していません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、第三者のプライバシーまたはパブリシティ権を侵害していません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、児童ポルノに関する適用される法律に違反しておらず、または未成年者の健康または幸福を保護することを意図したものではありません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツには、人種、国籍、性別、性的指向、または身体的ハンディキャップに関連する不快なコメントが含まれていません。</li>
-                      <li data-custom-class="body_text">お客様のコンテンツは、これらの法的条件のいずれかの条項、または適用される法律もしくは規制に違反しておらず、または違反する素材にリンクしていません。</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  上記に違反した本サービスの利用は、これらの法的条件に違反するものであり、とりわけお客様による本サービスの利用の権利の終了または一時停止につながる可能性があります。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="license">6. 寄稿ライセンス</h2>
-                  <p data-custom-class="body_text">
-                  お客様および本サービスは、お客様がプライバシーポリシーの条件およびお客様の選択（設定を含む）に従って提供する情報および個人データに、当社がアクセス、保存、処理、および利用できることに同意するものとします。
-                  </p>
-                  <p data-custom-class="body_text">
-                  本サービスに関する提案またはその他のフィードバックを送信することにより、お客様は当社がお客様への補償なしにあらゆる目的でそのようなフィードバックを使用および共有できることに同意するものとします。
-                  </p>
-                  <p data-custom-class="body_text">
-                  当社は、お客様のコンテンツに対する所有権を主張しません。 お客様は、お客様のすべてのコンテンツおよびお客様のコンテンツに関連する知的財産権またはその他の所有権のすべての所有権を保持します。 当社は、本サービスのいずれかのエリアでお客様が提供するコンテンツのステートメントまたは表明について責任を負いません。 お客様は、本サービスに対するお客様のコンテンツに対して単独で責任を負い、お客様は当社をあらゆる責任から明示的に免除し、お客様のコンテンツに関する当社に対する訴訟を控えることに明示的に同意します。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="thirdparty">7. 第三者のウェブサイトとコンテンツ</h2>
-                  <p data-custom-class="body_text">
-                  本サービスには、（または、サイト経由でお客様に送信される可能性があります）他のウェブサイト（「第三者のウェブサイト」）へのリンク、および第三者に帰属する記事、写真、テキスト、グラフィック、画像、デザイン、音楽、サウンド、ビデオ、情報、アプリケーション、ソフトウェア、およびその他のコンテンツまたは項目（「第三者のコンテンツ」）が含まれている場合があります。そのような第三者のウェブサイトおよび第三者のコンテンツは、当社によって調査、監視、または正確性、適切性、または完全性について確認されておらず、当社は、本サービスを介してアクセスされた第三者のウェブサイト、または本サービスに掲載、本サービスを介して利用可能、もしくは本サービスからインストールされた第三者のコンテンツ（第三者のウェブサイトまたは第三者のコンテンツに含まれるコンテンツ、正確性、攻撃性、意見、信頼性、プライバシー慣行、またはその他のポリシーを含む）について責任を負いません。第三者のウェブサイトまたは第三者のコンテンツの使用またはインストールを含めること、リンクすること、または許可することは、当社による承認または支持を意味するものではありません。お客様が本サービスを離れて第三者のウェブサイトにアクセスすることにした場合、または第三者のコンテンツを使用もしくはインストールする場合は、お客様ご自身の責任で行い、これらの法的条件はもはや適用されないことに注意する必要があります。お客様は、本サービスから移動するウェブサイト、または本サービスから利用もしくはインストールするアプリケーションに関連する、プライバシーおよびデータ収集慣行を含む、適用される条件およびポリシーを確認する必要があります。お客様が第三者のウェブサイトを通じて行う購入は、他のウェブサイトを介して行われ、他の企業から行われるものであり、当社はお客様と適用される第三者との間でのみ行われるそのような購入に関して一切の責任を負いません。お客様は、当社が第三者のウェブサイトで提供される製品またはサービスを推奨しておらず、お客様がそのような製品またはサービスを購入することによって引き起こされた損害について当社に責任を問わないことに同意し、認めるものとします。さらに、お客様は、第三者のコンテンツまたは第三者のウェブサイトとの接触に関連するまたはその結果として生じるお客様が被った損失またはお客様に引き起こされた損害から当社に責任を問わないものとします。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="advertisers">8. 広告主</h2>
-                  <p data-custom-class="body_text">
-                  当社は、広告主が本サービスの特定のエリア（サイドバー広告やバナー広告など）に広告やその他の情報を表示することを許可しています。当社は、そのような広告を掲載するためのスペースを提供するだけであり、広告主とは他の関係はありません。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="sitemanage">9. サービス管理</h2>
-                  <p data-custom-class="body_text">
-                  当社は、以下を行う権利を有しますが、義務はありません。(1) 本サービスがこれらの法的条件に違反していないかを監視すること。(2) 当社の独自の裁量において、法律またはこれらの法的条件に違反している者に対して適切な法的措置を講じること。これには、そのようなユーザーを法執行機関に通報すること（ただし、これに限定されません）が含まれます。(3) 当社の独自の裁量および制限なしに、お客様のコンテンツまたはその一部を拒否、アクセス制限、利用制限、または無効化（技術的に可能な範囲で）すること。(4) 当社の独自の裁量および制限なしに、通知または責任を負うことなく、サイズが過剰であるか、当社のシステムに何らかの形で負担をかけているすべてのファイルとコンテンツを本サービスから削除またはその他の方法で無効化すること。(5) 当社の権利および財産を保護し、本サービスが適切に機能するように設計された方法で本サービスを管理すること。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ppyes">10. プライバシーポリシー</h2>
-                  <p data-custom-class="body_text">
-                  当社は、データのプライバシーとセキュリティを重視しています。当社のプライバシーポリシー: <strong><a href="https://www.playfiddlebops.com/privacy/" target="_blank" data-custom-class="link">https://www.playfiddlebops.com/privacy/</a></strong> をご確認ください。本サービスを利用することにより、お客様は当社のプライバシーポリシー（これらの法的条件に組み込まれています）に拘束されることに同意するものとします。本サービスは米国でホストされていることにご注意ください。個人データの収集、利用、または開示を管理する法律またはその他の要件が、米国の適用法とは異なる世界の他の地域から本サービスにアクセスする場合、お客様が本サービスを継続して利用することにより、お客様はご自身のデータを米国に転送しており、米国にお客様のデータを転送して処理することに明示的に同意するものとします。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="terms">11. 期間と終了</h2>
-                  <p data-custom-class="body_text">
-                  お客様が本サービスを利用している間、これらの法的条件は完全に効力を有するものとします。これらの法的条件の他の規定を制限することなく、当社は、独自の裁量により、通知または責任を負うことなく、理由の如何を問わず、または理由を問わず、誰に対しても本サービスへのアクセスおよび利用を拒否する権利（特定のIPアドレスのブロックを含む）を留保します。これには、これらの法的条件または適用される法律もしくは規制に含まれる表明、保証、または契約の違反が含まれますが、これらに限定されません。当社は、独自の裁量により、警告なしにお客様の本サービスの利用もしくは参加を終了するか、またはお客様が投稿したコンテンツもしくは情報をいつでも削除することができます。
-                  </p>
-                  <p data-custom-class="body_text">
-                  当社が何らかの理由でお客様のアカウントを停止または削除した場合、お客様は、お客様の名前、偽名もしくは借り名、または第三者の名前で新しいアカウントを登録して作成することを禁じられます。お客様が第三者の代理として行動している場合でも同様です。お客様のアカウントの停止または削除に加えて、当社は、民事訴訟、刑事訴訟、および差し止めによる救済の追求を含むが、これらに限定されない、適切な法的措置を講じる権利を留保します。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="modifications">12. 変更と中断</h2>
-                  <p data-custom-class="body_text">
-                  当社は、いつでもまたは何らかの理由で、独自の裁量により、予告なしに本サービスの内容を変更、修正、または削除する権利を留保します。ただし、当社は本サービスの情報を更新する義務はありません。本サービスの変更、価格変更、停止、または中断について、当社はお客様または第三者に対して責任を負いません。
-                  </p>
-                  <p data-custom-class="body_text">
-                  当社は、本サービスが常に利用可能であることを保証することはできません。当社は、ハードウェア、ソフトウェア、またはその他の問題が発生する可能性があり、または本サービスに関連するメンテナンスを実行する必要があり、中断、遅延、またはエラーが発生する可能性があります。当社は、いつでもまたは何らかの理由で、予告なしに本サービスを変更、修正、更新、中断、中止、またはその他の方法で変更する権利を留保します。お客様は、本サービスのダウンタイムまたは中止中にお客様が本サービスにアクセスまたは利用できないことによって生じた損失、損害、または不便について、当社が一切責任を負わないことに同意するものとします。これらの法的条件のいずれも、当社に本サービスを維持およびサポートすること、またはそれに関連する修正、更新、またはリリースを提供することを義務付けるものと解釈されません。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="law">13. 準拠法</h2>
-                  <p data-custom-class="body_text">
-                  これらの法的条件およびお客様による本サービスの利用は、州の法律に準拠し、同法に従って解釈されます。同法は、州内で締結され、完全に履行される合意に適用される法律であり、その法の抵触に関する原則は考慮されません。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disputes">14. 紛争解決</h2>
-                  <h3 data-custom-class="heading_2">非公式交渉</h3>
-                  <p data-custom-class="body_text">
-                  これらの法的条件に関連する紛争、論争、または請求（それぞれを「紛争」といい、総称して「紛争」といいます）の解決を迅速化し、その費用を管理するために、お客様または当社（個別に「当事者」といい、総称して「当事者」といいます）のいずれかによって提起された場合、当事者はまず、仲裁を開始する前に、紛争（以下に明示的に規定されている紛争を除く）を少なくとも30日間非公式に交渉することを試みることに同意します。そのような非公式交渉は、一方の当事者から他方の当事者への書面による通知により開始されます。
-                  </p>
-                  <h3 data-custom-class="heading_2">拘束力のある仲裁</h3>
-                  <p data-custom-class="body_text">
-                  これらの法的条件の当事者間の関係から生じる紛争は、ストラスブールに所在地を有し、仲裁センターである欧州仲裁裁判所の一部である欧州仲裁裁判所の仲裁および内部規則に従って選択される1人の仲裁人によって決定されるものとします。仲裁の適用が提出された時点で有効であり、この条項の採用はその受け入れを構成します。仲裁地は、フランスのパリとします。訴訟の言語はフランス語とします。実体法の適用可能な規則は、フランスの法律とします。
-                  </p>
-                  <h3 data-custom-class="heading_2">制限</h3>
-                  <p data-custom-class="body_text">
-                  当事者は、仲裁が個々の当事者間の紛争に限定されることに同意します。法律で認められる最大限の範囲で、（a）仲裁は他の手続きと統合されません。（b）集団訴訟に基づいて紛争を仲裁したり、集団訴訟手続きを利用したりする権利または権限はありません。（c）一般大衆またはその他の人を代表して申し立てられた代表的な立場で紛争を提起する権利または権限はありません。
-                  </p>
-                  <h3 data-custom-class="heading_2">非公式交渉および仲裁の例外</h3>
-                  <p data-custom-class="body_text">
-                  当事者は、以下の紛争は、非公式交渉拘束力のある仲裁に関する上記の規定の対象とならないことに同意します。（a）当事者の知的財産権のいずれかを執行または保護すること、またはその有効性に関すること。（b）窃盗、著作権侵害、プライバシーの侵害、または不正使用の申し立てに関連する、または起因する紛争。（c）差し止めによる救済の請求。この規定が違法または執行不能であることが判明した場合、いずれの当事者も、違法または執行不能であることが判明した本規定の部分に該当する紛争を仲裁することを選択しません。そのような紛争は、上記の管轄について記載されている裁判所内の管轄権を有する裁判所によって決定されるものとし、当事者はその裁判所の対人管轄権に服することに同意するものとします。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="corrections">15. 修正</h2>
-                  <p data-custom-class="body_text">
-                  本サービスには、説明、価格、可用性、およびその他さまざまな情報を含む、タイプミス、不正確さ、または脱落を含む情報が含まれている場合があります。当社は、エラー、不正確さ、または脱落を修正し、いつでも予告なしに本サービスの情報を変更または更新する権利を留保します。
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disclaimer">16. 免責事項</h2>
-                  <p data-custom-class="body_text">
-                  本サービスは、「現状有姿」かつ「利用可能」な状態で提供されます。お客様は、本サービスの利用がお客様ご自身の責任で行われることに同意するものとします。法律で認められる最大限の範囲で、当社は、本サービスおよびその利用に関連して、明示的か黙示的かを問わず、すべての保証（商品性、特定目的への適合性、および権利侵害がないことの黙示的な保証を含むが、これらに限定されない）を否認します。当社は、本サービスのコンテンツまたは本サービスにリンクされたウェブサイトもしくはモバイルアプリケーションのコンテンツの正確性または完全性について保証または表明を行うものではありません。また、当社は、(1) コンテンツおよび資料のエラー、ミス、または不正確さ、(2) お客様による本サービスへのアクセスおよび利用に起因するいかなる性質の人身傷害または物的損害、(3) 当社のセキュリティ保護されたサーバーおよび/またはそこに保存されているすべての個人情報および/または金融情報への不正アクセスまたは利用、(4) 本サービスへのまたは本サービスからの送信の中断または停止、(5) 第三者によって本サービスを通じて送信される可能性のあるバグ、ウィルス、トロイの木馬など、および/または (6) コンテンツおよび資料におけるエラーまたは脱落、または本サービスを介して投稿、送信、またはその他の方法で利用可能にされたコンテンツの使用の結果として発生するあらゆる種類の損失または損害について、一切の責任または義務を負わないものとします。当社は、本サービス、ハイパーリンクされたウェブサイト、またはバナーやその他の広告に掲載されているウェブサイトもしくはモバイルアプリケーションを介して第三者が宣伝または提供する製品またはサービスについて、保証、保証、または責任を負うものではなく、当社はお客様と製品またはサービスの第三者プロバイダーとの間のいかなる取引も監視する当事者または責任者にはなりません。あらゆる媒体または環境を通じて製品またはサービスを購入する場合と同様に、お客様はご自身の最良の判断を下し、必要に応じて注意を払う必要があります。
-
-                  </p>
-                  <h2 data-custom-class="heading_1" id="liability">17. 責任の制限</h2>
-                  <p data-custom-class="body_text">
-                  いかなる場合においても、当社または当社の取締役、従業員、もしくは代理人は、お客様または第三者に対し、逸失利益、収益の損失、データの損失、またはその他の損害（そのような損害の可能性について当社が知らされていた場合でも、本サービスのお客様による利用から生じるもの）を含む、直接的、間接的、結果的、懲罰的、付随的、特別、または懲罰的な損害について責任を負わないものとします。米国の特定の州法および国際法では、黙示的な保証の制限、または特定の損害の除外もしくは制限が認められていません。これらの法律がお客様に適用される場合、上記の免責事項または制限の一部または全部がお客様に適用されない可能性があり、お客様は追加の権利を有する可能性があります。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="indemnification">18. 補償</h2>
-                  <p data-custom-class="body_text">
-                  お客様は、当社の関連会社および子会社、および当社のそれぞれの役員、代理人、パートナー、および従業員を含め、当社を防御し、補償し、免責することに同意するものとします。これは、(1) 本サービスの利用、(2) これらの法的条件の違反、(3) これらの法的条件に記載されているお客様による表明および保証の違反、(4) お客様による第三者の権利の侵害（知的財産権を含むが、これに限定されない）、または (5) 本サービスを通じてお客様が接続した本サービスの他のユーザーに対する明らかな有害行為に起因または関連して第三者が行った、損失、損害、責任、請求、または要求（合理的な弁護士費用および経費を含む）に対して行われます。上記にかかわらず、当社はお客様が当社を補償するために必要な事項について、お客様の費用で独占的な弁護および管理を引き受ける権利を留保し、お客様はこれらの請求に対する当社の弁護に協力することに同意するものとします。当社は、その存在を知った場合、本補償の対象となるそのような請求、訴訟、または手続きについてお客様に通知するために合理的な努力を払うものとします。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="userdata">19. ユーザーデータ</h2>
-                  <p data-custom-class="body_text">
-                  当社は、お客様が本サービスに送信する特定のデータを、本サービスのパフォーマンスを管理する目的、およびお客様による本サービスの利用に関連するデータを維持します。当社はデータの定期的なバックアップを実行しますが、お客様は、お客様が送信するすべてのデータ、またはお客様が本サービスを利用して行った活動に関連するすべてのデータに対して単独で責任を負います。お客様は、当社がそのようなデータの損失または破損に対して一切の責任を負わないことに同意するものとし、お客様はここに、そのようなデータの損失または破損から生じる当社に対する訴訟の権利を放棄するものとします。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="electronic">20. 電子通信、取引、署名</h2>
-                  <p data-custom-class="body_text">
-                  本サービスへのアクセス、当社への電子メールの送信、およびオンラインフォームの完了は、電子通信を構成します。お客様は、電子通信を受信することに同意し、電子メールおよび本サービス上で当社がお客様に提供するすべての契約、通知、開示、およびその他の通信が、そのような通信が書面で行われるという法的要件を満たすことに同意するものとします。お客様は、これにより、電子署名、契約、注文、およびその他の記録、および当社によってまたは本サービスを通じて開始または完了した取引の通知、ポリシー、および記録の電子的配信の使用に同意するものとします。お客様はここに、原本の署名または非電子記録の配信もしくは保持、または電子的な手段以外の手段による支払もしくは信用供与を必要とする管轄区域における法律、規則、条例、またはその他の法律に基づく権利または要件を放棄するものとします。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="misc">21. その他</h2>
-                  <p data-custom-class="body_text">
-                  これらの法的条件、および当社によって本サービス上または本サービスに関して掲載されたポリシーまたは運営規則は、お客様と当社との間の完全な合意および理解を構成します。これらの法的条件の権利または条項を行使または執行しなかった場合でも、そのような権利または条項の放棄とはみなされないものとします。これらの法的条件は、法律で認められる最大限の範囲で効力を発揮します。当社は、いつでも当社の権利および義務の一部または全部を他者に譲渡することができます。当社は、当社の合理的な制御を超えた原因によって引き起こされた損失、損害、遅延、または行動不能について責任を負わないものとします。これらの法的条件の条項または条項の一部が違法、無効、または執行不能であると判断された場合、その条項または条項の一部はこれらの法的条件から分離可能とみなされ、残りの条項の有効性および執行可能性に影響を与えるものではありません。これらの法的条件または本サービスの利用の結果として、お客様と当社との間に合弁事業、パートナーシップ、雇用、または代理関係は成立しません。お客様は、これらの法的条件が当社によって起草されたことを理由に、当社に不利に解釈されないことに同意するものとします。お客様はここに、これらの法的条件の電子形式に基づいて、および本法的条件を実行するための当事者による署名の欠如に基づいて、お客様が持つ可能性のあるすべての抗弁を放棄するものとします。
-                  </p>
-                  <h2 data-custom-class="heading_1" id="contact">22. お問い合わせ</h2>
-                  <p data-custom-class="body_text">
-                  本サービスに関する苦情を解決するため、または本サービスの利用に関する詳細情報を受け取るには、chongzhidatech@gmail.com までご連絡ください。
-                  </p>
-          </article>
-        </div>
-      </div>
-    </section>
+    </article>
   </main>
 
-  <Footer />
+  <Footer
+    locale={locale}
+  />
 </BaseLayout>
-
-<style>
-  /* ===== TERMS OF SERVICE PAGE STYLES ===== */
-
-  /* Page Background */
-  body {
-    background: var(--hero-main-bg);
-    min-height: 100vh;
-  }
-
-  .terms-page {
-    background: transparent;
-  }
-
-  /* Terms Hero Section */
-  .terms-hero {
-    background: var(--hero-main-bg);
-    color: var(--color-text);
-    padding: var(--space-16) 0 var(--space-8);
-    padding-top: calc(80px + var(--space-8));
-    position: relative;
-    overflow: hidden;
-  }
-
-  .terms-hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: var(--hero-texture-bg);
-    opacity: var(--hero-texture-opacity);
-    pointer-events: none;
-  }
-
-  .terms-hero-content {
-    position: relative;
-    z-index: 10;
-    text-align: center;
-  }
-
-  /* Breadcrumb Navigation */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: var(--space-2);
-    margin-bottom: var(--space-6);
-    font-size: var(--font-size-sm);
-    justify-content: center;
-  }
-
-  .breadcrumb-link {
-    display: flex;
-    align-items: center;
-    gap: var(--space-1);
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: all var(--duration-200) var(--ease-in-out);
-    padding: var(--space-1) var(--space-2);
-    border-radius: var(--border-radius-md);
-  }
-
-  .breadcrumb-link:hover {
-    color: var(--color-primary-700);
-    background: rgba(147, 51, 234, 0.1);
-  }
-
-  .breadcrumb-separator {
-    color: var(--color-gray-400);
-    font-weight: 500;
-  }
-
-  .breadcrumb-current {
-    color: var(--color-gray-600);
-    font-weight: 500;
-  }
-
-  /* Hero Content */
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-
-  .terms-title {
-    margin-bottom: var(--space-6);
-    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  }
-
-  .title-main {
-    display: block;
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .title-accent {
-    display: block;
-    background: linear-gradient(45deg, var(--color-primary-600) 0%, var(--color-primary-700) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .terms-subtitle {
-    margin-bottom: var(--space-6);
-    color: var(--color-text-muted);
-  }
-
-  .last-updated {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-2);
-    background: rgba(147, 51, 234, 0.1);
-    padding: var(--space-2) var(--space-4);
-    border-radius: var(--border-radius-md);
-    color: var(--color-primary-600);
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-medium);
-  }
-
-  /* Terms Icons */
-  .terms-icons {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    pointer-events: none;
-    z-index: 1;
-  }
-
-  .terms-icon {
-    position: absolute;
-    font-size: 3rem;
-    color: rgba(147, 51, 234, 0.1);
-    animation: float-icons 12s ease-in-out infinite;
-  }
-
-  .terms-icon:nth-child(1) {
-    left: 10%;
-    top: 20%;
-    animation-delay: 0s;
-  }
-
-  .terms-icon:nth-child(2) {
-    right: 10%;
-    top: 30%;
-    animation-delay: 3s;
-  }
-
-  .terms-icon:nth-child(3) {
-    left: 15%;
-    top: 70%;
-    animation-delay: 6s;
-  }
-
-  @keyframes float-icons {
-    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
-    25% { transform: translateY(-10px) rotate(2deg); opacity: 0.15; }
-    50% { transform: translateY(-20px) rotate(-1deg); opacity: 0.1; }
-    75% { transform: translateY(-10px) rotate(1deg); opacity: 0.15; }
-  }
-
-  /* Content Section */
-  .terms-content {
-    background: transparent;
-  }
-
-  .content-wrapper {
-    display: grid;
-    grid-template-columns: 300px 1fr;
-    gap: var(--space-12);
-    align-items: start;
-  }
-
-  /* Navigation Menu */
-  .terms-nav {
-    position: sticky;
-    top: calc(80px + var(--space-4));
-    padding: var(--space-6);
-    border-radius: var(--border-radius-xl);
-  }
-
-  .terms-nav h3 {
-    margin-bottom: var(--space-4);
-    color: var(--color-text);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  .terms-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .terms-nav li {
-    margin-bottom: var(--space-2);
-  }
-
-  .terms-nav a {
-    display: block;
-    padding: var(--space-2) var(--space-3);
-    color: var(--color-text-muted);
-    text-decoration: none;
-    border-radius: var(--border-radius-md);
-    transition: all var(--duration-200) var(--ease-in-out);
-    font-size: var(--font-size-sm);
-  }
-
-  .terms-nav a:hover {
-    color: var(--color-primary-600);
-    background: rgba(147, 51, 234, 0.1);
-    transform: translateX(4px);
-  }
-
-  /* Article Content */
-  .terms-article {
-    padding: var(--space-8);
-    border-radius: var(--border-radius-xl);
-    line-height: 1.7;
-  }
-
-  .terms-article h2 {
-    color: var(--color-text);
-    margin-top: var(--space-8);
-    margin-bottom: var(--space-4);
-    font-size: var(--font-size-2xl);
-    font-weight: var(--font-weight-semibold);
-    padding-bottom: var(--space-2);
-    border-bottom: 2px solid var(--color-primary-600);
-  }
-
-  .terms-article h2:first-child {
-    margin-top: 0;
-  }
-
-  .terms-article h3 {
-    color: var(--color-text);
-    margin-top: var(--space-6);
-    margin-bottom: var(--space-3);
-    font-size: var(--font-size-xl);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article h4 {
-    color: var(--color-text);
-    margin-top: var(--space-4);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article h5 {
-    color: var(--color-text);
-    margin-bottom: var(--space-2);
-    font-size: var(--font-size-base);
-    font-weight: var(--font-weight-medium);
-  }
-
-  .terms-article p {
-    margin-bottom: var(--space-4);
-    color: var(--color-text-muted);
-  }
-
-  .terms-article ul {
-    margin-bottom: var(--space-4);
-    padding-left: var(--space-6);
-  }
-
-  .terms-article li {
-    margin-bottom: var(--space-2);
-    color: var(--color-text-muted);
-  }
-
-  .terms-article a {
-    color: var(--color-primary-600);
-    text-decoration: none;
-    transition: color var(--duration-200) var(--ease-in-out);
-  }
-
-  .terms-article a:hover {
-    color: var(--color-primary-700);
-    text-decoration: underline;
-  }
-
-  .terms-article strong {
-    color: var(--color-text);
-    font-weight: var(--font-weight-semibold);
-  }
-
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    .content-wrapper {
-      grid-template-columns: 1fr;
-      gap: var(--space-8);
-    }
-
-    .terms-nav {
-      position: static;
-      order: 2;
-    }
-
-    .terms-article {
-      padding: var(--space-6);
-    }
-
-    .terms-hero {
-      padding: var(--space-12) 0 var(--space-6);
-    }
-
-    .breadcrumb {
-      margin-bottom: var(--space-4);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .terms-article {
-      padding: var(--space-4);
-    }
-
-    .terms-title {
-      font-size: var(--font-size-3xl);
-    }
-  }
-</style>

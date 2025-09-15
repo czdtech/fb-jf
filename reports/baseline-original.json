@@ -1,0 +1,206 @@
+{
+  "dist/index.html": {
+    "path": "dist/index.html",
+    "title": "FiddleBops - Play FiddleBops Incredibox Game",
+    "description": "Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.",
+    "canonical": "https://www.playfiddlebops.com/",
+    "hreflangs": [
+      {
+        "lang": "de",
+        "href": "https://www.playfiddlebops.com/de/"
+      },
+      {
+        "lang": "es",
+        "href": "https://www.playfiddlebops.com/es/"
+      },
+      {
+        "lang": "fr",
+        "href": "https://www.playfiddlebops.com/fr/"
+      },
+      {
+        "lang": "ja",
+        "href": "https://www.playfiddlebops.com/ja/"
+      },
+      {
+        "lang": "ko",
+        "href": "https://www.playfiddlebops.com/ko/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/"
+      },
+      {
+        "lang": "zh",
+        "href": "https://www.playfiddlebops.com/zh/"
+      }
+    ]
+  },
+  "dist/games/index.html": {
+    "path": "dist/games/index.html",
+    "title": "FiddleBops - Play FiddleBops Incredibox Game",
+    "description": "Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.",
+    "canonical": "https://www.playfiddlebops.com/games/",
+    "hreflangs": [
+      {
+        "lang": "de",
+        "href": "https://www.playfiddlebops.com/de/games/"
+      },
+      {
+        "lang": "es",
+        "href": "https://www.playfiddlebops.com/es/games/"
+      },
+      {
+        "lang": "fr",
+        "href": "https://www.playfiddlebops.com/fr/games/"
+      },
+      {
+        "lang": "ja",
+        "href": "https://www.playfiddlebops.com/ja/games/"
+      },
+      {
+        "lang": "ko",
+        "href": "https://www.playfiddlebops.com/ko/games/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/games/"
+      },
+      {
+        "lang": "zh",
+        "href": "https://www.playfiddlebops.com/zh/games/"
+      }
+    ]
+  },
+  "dist/zh/index.html": {
+    "path": "dist/zh/index.html",
+    "title": "FiddleBops - 玩FiddleBops Incredibox游戏",
+    "description": "使用Fiddlebops创作独特音乐！这个受Incredibox启发的粉丝项目，让你自由混合搭配各种声音来创作个性化音轨。",
+    "canonical": "https://www.playfiddlebops.com/zh/",
+    "hreflangs": [
+      {
+        "lang": "de",
+        "href": "https://www.playfiddlebops.com/de/"
+      },
+      {
+        "lang": "es",
+        "href": "https://www.playfiddlebops.com/es/"
+      },
+      {
+        "lang": "fr",
+        "href": "https://www.playfiddlebops.com/fr/"
+      },
+      {
+        "lang": "ja",
+        "href": "https://www.playfiddlebops.com/ja/"
+      },
+      {
+        "lang": "ko",
+        "href": "https://www.playfiddlebops.com/ko/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/"
+      },
+      {
+        "lang": "zh",
+        "href": "https://www.playfiddlebops.com/zh/"
+      }
+    ]
+  },
+  "dist/zh/games/index.html": {
+    "path": "dist/zh/games/index.html",
+    "title": "FiddleBops - 玩FiddleBops Incredibox游戏",
+    "description": "使用Fiddlebops创作独特音乐！这个受Incredibox启发的粉丝项目，让你自由混合搭配各种声音来创作个性化音轨。",
+    "canonical": "https://www.playfiddlebops.com/zh/games/",
+    "hreflangs": [
+      {
+        "lang": "de",
+        "href": "https://www.playfiddlebops.com/de/games/"
+      },
+      {
+        "lang": "es",
+        "href": "https://www.playfiddlebops.com/es/games/"
+      },
+      {
+        "lang": "fr",
+        "href": "https://www.playfiddlebops.com/fr/games/"
+      },
+      {
+        "lang": "ja",
+        "href": "https://www.playfiddlebops.com/ja/games/"
+      },
+      {
+        "lang": "ko",
+        "href": "https://www.playfiddlebops.com/ko/games/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/games/"
+      },
+      {
+        "lang": "zh",
+        "href": "https://www.playfiddlebops.com/zh/games/"
+      }
+    ]
+  },
+  "dist/privacy/index.html": {
+    "path": "dist/privacy/index.html",
+    "title": "Privacy Policy | FiddleBops",
+    "description": "Learn about how FiddleBops collects, uses, and protects your personal information. Our comprehensive privacy policy explains our data practices.",
+    "canonical": "https://www.playfiddlebops.com/privacy/",
+    "hreflangs": [
+      {
+        "lang": "de",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      },
+      {
+        "lang": "es",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      },
+      {
+        "lang": "fr",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      },
+      {
+        "lang": "ja",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      },
+      {
+        "lang": "ko",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      },
+      {
+        "lang": "zh",
+        "href": "https://www.playfiddlebops.com/privacy/"
+      }
+    ]
+  },
+  "dist/sprunki-dandys-world/index.html": {
+    "path": "dist/sprunki-dandys-world/index.html",
+    "title": "Sprunki Dandy&#39;s World - Play Sprunki Dandy&#39;s World Online",
+    "description": "Sprunki Dandy's World is a unique game that combines music, art, and storytelling. Here, you can unleash your creativity and create your own musical world.",
+    "canonical": "https://www.playfiddlebops.com/sprunki-dandys-world/",
+    "hreflangs": [
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/sprunki-dandys-world/"
+      }
+    ]
+  },
+  "dist/zh/sprunki-dandys-world/index.html": {
+    "path": "dist/zh/sprunki-dandys-world/index.html",
+    "title": "Sprunki Dandy&#39;s World 🎮 免费在线玩 | 奇幻音乐创作游戏",
+    "description": "Sprunki Dandy's World奇幻音乐游戏免费在线体验！融合音乐、艺术和故事，独特角色设计，创建你的专属音乐世界！\n",
+    "canonical": "https://www.playfiddlebops.com/zh/sprunki-dandys-world/",
+    "hreflangs": [
+      {
+        "lang": "x-default",
+        "href": "https://www.playfiddlebops.com/sprunki-dandys-world/"
+      }
+    ]
+  }
+}

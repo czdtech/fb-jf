@@ -1,0 +1,29 @@
+=== SEO Baseline ===
+Page: dist/index.html
+<title>FiddleBops - Play FiddleBops Incredibox Game</title>
+https://www.playfiddlebops.com/tw.jpg
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+Hreflang count: 1
+Script tags: 9
+
+Page: dist/sprunki-phase-1/index.html
+<title>Sprunki Phase 1 - Play Sprunki Phase 1 Online</title>
+https://www.playfiddlebops.com//sprunki-phase-1.png
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+Hreflang count: 1
+Script tags: 7
+
+Page: dist/zh/index.html
+<title>FiddleBops - 玩FiddleBops Incredibox游戏</title>
+https://www.playfiddlebops.com/tw.jpg
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+Hreflang count: 1
+Script tags: 9
+
+Page: dist/zh/sprunki-phase-1/index.html
+<title>Sprunki Phase 1 - 免费在线玩音乐创作游戏</title>
+https://www.playfiddlebops.com//sprunki-phase-1.png
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+Hreflang count: 1
+Script tags: 7
+

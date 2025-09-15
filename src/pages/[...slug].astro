@@ -1,6 +1,5 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
@@ -11,34 +10,33 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import AudioPlayer from '@/components/audio/AudioPlayer.astro'
 
-// 导入数据和工具
+// Import utilities
 import extractedData from '@/data/extracted-data.json'
 import { generateGameHreflangLinks } from '@/utils/hreflang'
-import { generateAllLocalesGamePaths, getLocalizedGameContent, extractLocaleFromPath } from '@/utils/i18n'
-import { extractBaseSlug, getGameLocalizedPath } from '@/utils/url-service'
 import { getTranslation, SUPPORTED_LOCALES } from '@/i18n/utils'
+import {
+  getGameMetadata,
+  generateGamePaths,
+  getRelatedGames,
+  buildGameStructuredData
+} from '@/utils/game-helpers'
 import type { ExtractedData } from '@/types/game'
-import UrlService from '@/utils/url-service'
 
 const { navigation } = extractedData as ExtractedData
-
-// 基础站点域名（统一 canonical 基准域，去除末尾斜杠）
-// Astro.site 会根据环境自动返回正确的 URL (dev/prod)
 const SITE_URL = Astro.site.toString().replace(/\/$/, '');
 
 export async function getStaticPaths() {
   console.log('🔍 [...slug].astro getStaticPaths() called...');
-  
+
   const allGames = await getCollection('games');
   const paths: Array<{
     params: { slug: string };
     props: { game: CollectionEntry<'games'>; locale: string };
   }> = [];
 
-  // 获取所有英文游戏作为基础
+  // Get English games as base
   const englishGames = allGames.filter(game => {
     const gameId = game.id.replace(/\.md$/, '');
-    // 英文游戏：文件在根目录，不包含'/'，且不以语言代码开头
     const isRootGame = !gameId.includes('/');
     const hasLanguagePrefix = /^(zh|es|fr|de|ja|ko)-/.test(gameId);
     return isRootGame && !hasLanguagePrefix;
@@ -46,497 +44,213 @@ export async function getStaticPaths() {
 
   console.log(`📊 Found ${englishGames.length} English games`);
 
-  // 为每个英文游戏生成所有语言的路径
-  for (const englishGame of englishGames) {
-    // 提取基础slug（去除可能的语言前缀）
-    const fullSlug = englishGame.data.slug || englishGame.id.replace(/\.md$/, '');
-    const baseSlug = extractBaseSlug(fullSlug);
-    
-    // 为每种语言生成路径
-    for (const locale of SUPPORTED_LOCALES) {
-      let gameToUse = englishGame;
-      
-      // 如果不是英文，尝试找到对应的本地化版本
-      if (locale !== 'en') {
-        const expectedPath = `${locale}/${baseSlug}`;
-        const localizedGame = allGames.find(game => {
-          const gameId = game.id.replace(/\.md$/, '');
-          const gameSlug = game.data.slug;
-          
-          // 匹配文件路径或slug格式（与getLocalizedGameContent保持一致）
-          return gameId === expectedPath || gameSlug === `${locale}-${baseSlug}`;
-        });
-        
-        if (localizedGame) {
-          gameToUse = localizedGame;
-          console.log(`✅ Using localized game for ${locale}: ${localizedGame.id} (title: "${localizedGame.data.title}")`);
-        } else {
-          console.log(`⚠️ No ${locale} version found for ${baseSlug}, using English version`);
-        }
-      } else {
-        // 英文路径必须使用英文游戏
-        console.log(`✅ Using English game for ${locale}: ${englishGame.id} (title: "${englishGame.data.title}")`);
-      }
+  // Generate paths for all locales
+  for (const game of englishGames) {
+    const baseSlug = game.data.slug || game.id.replace(/\.md$/, '');
+    const gamePaths = generateGamePaths(baseSlug);
 
-      // 构建路径：英文为基础slug，其他语言为 {locale}/{baseSlug}
-      const urlPath = locale === 'en' ? baseSlug : `${locale}/${baseSlug}`;
-
+    for (const { locale, slug } of gamePaths) {
       paths.push({
-        params: { slug: urlPath },
-        props: { game: gameToUse, locale }
+        params: { slug },
+        props: { game, locale }
       });
     }
   }
 
-  // 过滤掉一些静态页面，避免冲突
-  const staticPages = ['privacy', 'terms-of-service', '404', 'index', 'games'];
-  const filteredPaths = paths.filter(p => {
-    const slug = p.params.slug;
-    return !staticPages.some(page => slug === page || slug.endsWith(`/${page}`));
-  });
-
-  console.log(`📊 Generated ${filteredPaths.length} total game paths`);
-  
-  // Debug: show a few Chinese paths
-  const chinesePaths = filteredPaths.filter(p => p.params.slug.startsWith('zh/'));
-  console.log(`📊 Chinese paths: ${chinesePaths.length}`);
-  chinesePaths.slice(0, 3).forEach((path, i) => {
-    console.log(`  ${i + 1}. ${path.params.slug} → ${path.props.game.id} (${path.props.locale})`);
-  });
-
-  return filteredPaths;
+  console.log(`✅ Generated ${paths.length} paths`);
+  return paths;
 }
 
-// 从URL参数获取完整slug和解析语言
-const fullSlug = Astro.params.slug as string;
-const urlSegments = fullSlug.split('/');
+const { slug } = Astro.params;
+const { game, locale } = Astro.props;
 
-// 确定当前语言和基础slug
-let currentLocale: string;
-let baseSlug: string;
+// Get localized metadata
+const metadata = getGameMetadata(game, locale);
+const translation = await getTranslation(locale);
+const uiText = translation.ui;
 
-if (SUPPORTED_LOCALES.includes(urlSegments[0]) && urlSegments[0] !== 'en') {
-  // 路径格式：zh/sprunki-retake
-  currentLocale = urlSegments[0];
-  baseSlug = urlSegments.slice(1).join('/');
-} else {
-  // 路径格式：sprunki-retake (英文)
-  currentLocale = 'en';
-  baseSlug = fullSlug;
-}
-
-// 保持URL驱动的语言检测，不被Astro.currentLocale覆盖
-// URL路径是用户意图的明确表达，必须优先于浏览器语言偏好
-// currentLocale = Astro.currentLocale || currentLocale; // 移除此覆盖逻辑
-
-console.log(`🔍 Processing fullSlug: ${fullSlug}, locale: ${currentLocale}, baseSlug: ${baseSlug}`);
-
-// 获取游戏数据
-const { game: initialGame, locale: propsLocale } = Astro.props as { 
-  game: CollectionEntry<'games'>; 
-  locale: string 
-};
-
-let game = initialGame;
-
-// 如果有必要，重新加载正确的游戏内容
-if (propsLocale !== currentLocale) {
-  try {
-    const localizedGame = await getLocalizedGameContent(baseSlug, currentLocale);
-    if (localizedGame) {
-      game = localizedGame;
-    }
-  } catch (error) {
-    console.error(`❌ Error loading game content for ${baseSlug} in ${currentLocale}:`, error);
-  }
-}
-
-if (!game) {
-  throw new Error(`Game not found: ${baseSlug} for locale ${currentLocale}`);
-}
-
-console.log(`✅ Game loaded: ${game.id} for ${currentLocale}`);
-
-const { Content } = await render(game);
-const gameData = { ...(game.data), slug: game.data.slug || baseSlug };
-const extendedData = gameData;
-
-// 获取当前语言的翻译内容
-const translation = await getTranslation(currentLocale);
-const gameTexts = translation.ui?.game || {};
-
-// Fetch and prepare related games - 优先显示当前语言的游戏
+// Get all games for related section
 const allGames = await getCollection('games');
-const relatedGames = allGames
-  .filter((g: CollectionEntry<'games'>) => {
-    // 同类别且非当前游戏
-    if (g.data.category !== gameData.category || g.id === game.id) {
-      return false;
-    }
-    
-    // 根据当前语言过滤相关游戏
-    const gameId = g.id.replace(/\.md$/, '');
-    if (currentLocale === 'en') {
-      // 英文游戏: 文件在根目录且不包含语言前缀
-      const isRootGame = !gameId.includes('/');
-      const hasLanguagePrefix = /^(zh|es|fr|de|ja|ko)-/.test(gameId);
-      return isRootGame && !hasLanguagePrefix;
-    } else {
-      // 其他语言游戏: 匹配Astro ID格式或文件路径格式
-      return gameId.startsWith(`${currentLocale}-`) || gameId.startsWith(`${currentLocale}/`);
-    }
-  })
-  .slice(0, 4)
-  .map((g: CollectionEntry<'games'>) => {
-    // 使用UrlService标准化游戏数据
-    const normalizedData = UrlService.normalizeGameData(g);
-    return {
-      ...g.data,
-      slug: normalizedData.baseSlug,
-    };
-  });
+const relatedGames = await getRelatedGames(game, allGames, locale);
 
-// 统一的hreflang生成 - 仅为存在翻译的语言生成链接
-const hreflangLinks = await generateGameHreflangLinks(navigation?.languages || [], baseSlug)
+// Generate URLs
+const canonicalUrl = locale === 'en'
+  ? `${SITE_URL}/${game.data.slug}/`
+  : `${SITE_URL}/${locale}/${game.data.slug}/`;
 
-// 规范化 ogImage（确保绝对URL）
-const rawOgImage = extendedData.seo?.ogImage || gameData.meta?.ogImage || gameData.image || '/tw.jpg'
-const normalizedOgImage = rawOgImage?.startsWith('http') ? rawOgImage : `${SITE_URL}${rawOgImage.startsWith('/') ? '' : '/'}${rawOgImage}`
+// Generate hreflang links
+const hreflangLinks = await generateGameHreflangLinks(
+  SUPPORTED_LOCALES.map(code => ({ code, label: '' })),
+  game.data.slug,
+  SITE_URL
+);
 
-// SEO配置 - 多语言支持的 canonical URL
-const canonicalPath = getGameLocalizedPath(baseSlug, currentLocale);
-const meta = {
-  title: extendedData.seo?.title || gameData.meta?.title || `${gameData.title} - Play ${gameData.title} Online | FiddleBops`,
-  description: extendedData.seo?.description || gameData.meta?.description || `Play ${gameData.title} online for free! ${gameData.description || 'Experience this amazing music creation game.'}`,
-  keywords: extendedData.seo?.keywords || gameData.title,
-  canonical: `${SITE_URL}${canonicalPath}`,
-  ogImage: normalizedOgImage,
-}
+// Build structured data
+const structuredData = buildGameStructuredData(game, locale, SITE_URL);
 
-// 增强的结构化数据（@graph：VideoGame/SoftwareApplication + BreadcrumbList）
-const gameTypeNode = {
-  '@type': 'VideoGame',
-  name: gameData.title,
-  description: meta.description,
-  url: meta.canonical,
-  image: gameData.image ? (gameData.image.startsWith('http') ? gameData.image : `${SITE_URL}${gameData.image}`) : undefined,
-  screenshot: gameData.image ? (gameData.image.startsWith('http') ? gameData.image : `${SITE_URL}${gameData.image}`) : undefined,
-  genre: gameData.category ? [String(gameData.category)] : undefined,
-  applicationCategory: 'Game',
-  operatingSystem: 'Web',
-  ...(extendedData.rating && {
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: extendedData.rating.score,
-      bestRating: extendedData.rating.maxScore,
-      ratingCount: extendedData.rating.votes,
-    },
-  }),
-  potentialAction: gameData.iframe
-    ? {
-        '@type': 'PlayAction',
-        target: gameData.iframe,
-      }
-    : undefined,
+// Page meta
+const pageMeta = {
+  title: metadata.meta?.title || metadata.title,
+  description: metadata.meta?.description || metadata.description,
+  keywords: metadata.keywords,
+  canonical: canonicalUrl,
+  ogImage: `${SITE_URL}/${game.data.image}`
 };
 
-// 若缺关键字段时退化为 SoftwareApplication（保底）
-if (!gameData.image && gameTypeNode['@type'] === 'VideoGame') {
-  gameTypeNode['@type'] = 'SoftwareApplication';
-}
-
-const breadcrumbNode = {
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    {
-      '@type': 'ListItem',
-      position: 1,
-      name: 'Home',
-      item: `${SITE_URL}/`,
-    },
-    {
-      '@type': 'ListItem',
-      position: 2,
-      name: 'Games',
-      item: `${SITE_URL}/games/`,
-    },
-    {
-      '@type': 'ListItem',
-      position: 3,
-      name: gameData.title,
-      item: meta.canonical,
-    },
-  ],
-};
-
-const structuredData = {
-  '@context': 'https://schema.org',
-  '@graph': [
-    gameTypeNode,
-    breadcrumbNode,
-    ...(extendedData.seo?.schema ? [extendedData.seo.schema] : []),
-  ],
-};
-
-// 获取当前语言的默认游戏特色和步骤
-const defaultFeatures = translation.ui?.game?.features?.defaults || [
-  { icon: '🎵', title: 'Rich Music Creation', description: 'Create unique musical compositions with diverse sound elements' },
-  { icon: '🎭', title: 'Character Variety', description: 'Choose from a wide range of animated characters, each with unique sounds' },
-  { icon: '🔄', title: 'Creative Freedom', description: 'Unlimited possibilities for mixing and matching sounds' },
-  { icon: '💫', title: 'Visual Effects', description: 'Stunning animations and effects that react to your music' }
-];
-
-const defaultSteps = translation.ui?.game?.howToPlay?.defaults || [
-  'Choose your favorite characters from the selection',
-  'Drag and drop them onto the stage to start creating',
-  'Experiment with different combinations to find your perfect mix',
-  'Save and share your musical masterpiece with friends'
-];
+// Render markdown content (if any)
+const hasContent = game.body && game.body.trim().length > 0;
 ---
 
 <BaseLayout
-  meta={meta}
+  meta={pageMeta}
+  lang={locale}
   hreflang={hreflangLinks}
   structuredData={structuredData}
-  lang={currentLocale}
 >
   <Navigation
-    languages={navigation.languages}
-    currentLang={currentLocale}
-    currentPath={canonicalPath}
-    locale={currentLocale}
+    locale={locale}
+    currentPath={`/${slug}/`}
   />
 
-  <!-- 游戏Hero区域 -->
-  <GameHero
-    game={gameData}
-    rating={extendedData.rating}
-    pageType={extendedData.pageType}
-  />
+  <main id="main-content" class="min-h-screen" role="main">
+    <!-- Game Hero Section -->
+    <GameHero
+      game={game}
+      locale={locale}
+      title={metadata.title}
+      description={metadata.description}
+    />
 
-  <main class="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
-    <div class="responsive-container container-standard py-12">
+    <!-- Main Game Container -->
+    <div class="container mx-auto px-4 py-8">
+      <div class="grid lg:grid-cols-3 gap-8">
+        <!-- Game Iframe -->
+        <div class="lg:col-span-2">
+          <Card class="overflow-hidden">
+            <CardContent class="p-0">
+              <div class="game-iframe-container relative w-full" style="padding-bottom: 56.25%;">
+                <iframe
+                  src={game.data.iframe}
+                  class="absolute top-0 left-0 w-full h-full rounded-lg"
+                  title={metadata.title}
+                  frameborder="0"
+                  allowfullscreen
+                  loading="lazy"
+                ></iframe>
+              </div>
+            </CardContent>
+          </Card>
 
-      <!-- 游戏特色区域 -->
-      <section class="mb-16">
-        <div class="text-center mb-12">
-          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
-            <span class="text-purple-600">✨</span>
-            {gameTexts.sections?.features || translation.ui?.sections?.features || translation.ui?.game?.sections?.features || 'Game Features'}
-          </h2>
-          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            {gameTexts.features?.defaultDescription || translation.ui?.game?.features?.defaultDescription || 'Discover what makes this game special'}
-          </p>
+          <!-- Game Description -->
+          <Card class="mt-6">
+            <CardHeader>
+              <CardTitle class="text-2xl">
+                {uiText?.game?.about || 'About this game'}
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-muted-foreground leading-relaxed">
+                {metadata.description}
+              </p>
+
+            </CardContent>
+          </Card>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {(extendedData.features || gameTexts.features?.defaults || translation.ui?.game?.features?.defaults || defaultFeatures).map((feature: any, index: number) => (
-            <Card className="h-full hover:shadow-lg transition-shadow duration-300">
-              <CardContent className="p-6 text-center">
-                <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
-                <h3 class="text-lg font-semibold text-gray-900 mb-2">
-                  {typeof feature === 'string' ? feature : feature.title}
-                </h3>
-                {typeof feature !== 'string' && feature.description && (
-                  <p class="text-gray-600 text-sm">{feature.description}</p>
-                )}
-              </CardContent>
-            </Card>
-          ))}
-        </div>
-      </section>
+        <!-- Sidebar -->
+        <div class="lg:col-span-1 space-y-6">
+          <!-- Game Info Card -->
+          <Card>
+            <CardHeader>
+              <CardTitle>{uiText?.game?.info || 'Game Info'}</CardTitle>
+            </CardHeader>
+            <CardContent class="space-y-4">
+              <div>
+                <h4 class="font-semibold mb-2">{uiText?.game?.category || 'Category'}</h4>
+                <Badge variant="secondary" class="capitalize">
+                  {game.data.category}
+                </Badge>
+              </div>
 
-      <!-- 游戏玩法区域 -->
-      <section class="mb-16">
-        <div class="text-center mb-12">
-          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
-            <span class="text-purple-600">🎮</span>
-            {gameTexts.sections?.howToPlay || translation.ui?.game?.sections?.howToPlay || 'How to Play'}
-          </h2>
-          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-            {gameTexts.howToPlay?.defaultTitle || translation.ui?.game?.howToPlay?.defaultTitle || 'Master the art of music creation'}
-          </p>
-        </div>
-
-        <Card className="max-w-4xl mx-auto">
-          <CardContent className="p-8">
-            <div class="space-y-6">
-              {(extendedData.howToPlay || gameTexts.howToPlay?.defaults || translation.ui?.game?.howToPlay?.defaults || defaultSteps).map((step: any, index: number) => (
-                <div class="flex gap-6 items-start">
-                  <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
-                    {index + 1}
-                  </div>
-                  <div class="flex-grow pt-2">
-                    <p class="text-gray-700 text-lg">{typeof step === 'string' ? step : step.title || step.description}</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </CardContent>
-        </Card>
-      </section>
-
-      <!-- 游戏截图/媒体预览区域 -->
-      {(extendedData.screenshots || extendedData.gallery) && (
-        <section class="mb-16">
-          <div class="text-center mb-12">
-            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
-              <span class="text-purple-600">📸</span>
-              {gameTexts.sections?.screenshots || translation.ui?.game?.sections?.screenshots || 'Game Screenshots'}
-            </h2>
-            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              {gameTexts.media?.screenshotsTitle || translation.ui?.game?.media?.screenshotsTitle || 'Take a look at the gameplay experience'}
-            </p>
-          </div>
-
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
-            {(extendedData.screenshots || extendedData.gallery || [gameData.image]).map((screenshot: any, index: number) => (
-              <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 group">
-                <CardContent className="p-0">
-                  <div class="relative aspect-video overflow-hidden">
-                    <img
-                      src={typeof screenshot === 'string' ? screenshot : screenshot.url || gameData.image}
-                      alt={`${gameData.title} screenshot ${index + 1}`}
-                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                      loading="lazy"
-                    />
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    <div class="absolute bottom-4 left-4 right-4 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      <p class="text-sm font-medium">
-                        {typeof screenshot === 'object' && screenshot.caption
-                          ? screenshot.caption
-                          : `${gameData.title} - Screenshot ${index + 1}`
-                        }
-                      </p>
-                    </div>
-                  </div>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
-        </section>
-      )}
-      {extendedData.audio && (
-        <section class="mb-16">
-          <div class="text-center mb-12">
-            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
-              <span class="text-purple-600">🎵</span>
-              {gameTexts.media?.musicPreviewTitle || translation.ui?.game?.media?.musicPreviewTitle || 'Game Music Preview'}
-            </h2>
-            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-              {gameTexts.media?.musicPreviewDescription || translation.ui?.game?.media?.musicPreviewDescription || 'Experience the immersive soundtrack'}
-            </p>
-          </div>
-
-          <div class="max-w-2xl mx-auto">
-            <AudioPlayer
-              audioSrc={extendedData.audio}
-              title={`${gameData.title} - Game Music`}
-              className="shadow-lg"
-            />
-          </div>
-        </section>
-      )}
-
-      <!-- 详细内容区域 -->
-      <section class="mb-16">
-        <Card className="max-w-4xl mx-auto shadow-lg">
-          <CardHeader className="bg-gradient-to-r from-purple-50 to-pink-50 border-b">
-            <div class="flex items-center gap-4">
-              <div class="text-purple-600 text-3xl">📖</div>
-              <CardTitle className="text-3xl text-gray-900">{gameTexts.sections?.about?.replace('{title}', gameData.title) || `About ${gameData.title}`}</CardTitle>
-            </div>
-            <div class="flex items-center gap-2 mt-4">
-              <Badge variant="secondary" className="bg-purple-100 text-purple-700 hover:bg-purple-200">
-                {gameData.category}
-              </Badge>
-              {extendedData.rating && (
-                <div class="flex items-center gap-1 text-yellow-500">
-                  {Array.from({ length: 5 }, (_, i) => (
-                    <span class={`text-lg ${i < Math.floor(extendedData.rating.score) ? 'text-yellow-400' : 'text-gray-300'}`}>
-                      ⭐
-                    </span>
-                  ))}
-                  <span class="text-sm text-gray-600 ml-2">({extendedData.rating.votes} reviews)</span>
+              {game.data.rating && (
+                <div>
+                  <h4 class="font-semibold mb-2">{uiText?.game?.rating || 'Rating'}</h4>
+                  <GameRating rating={game.data.rating} />
                 </div>
               )}
-            </div>
-          </CardHeader>
-          <CardContent className="prose prose-lg max-w-none p-8">
-            <Content />
-          </CardContent>
-        </Card>
-      </section>
 
-      <!-- 相关游戏区域 -->
-      {relatedGames.length > 0 && (
-        <section>
-          <div class="text-center mb-12">
-            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
-              <span class="text-purple-600">🎯</span>
-              {gameTexts.sections?.relatedGames || translation.ui?.game?.sections?.relatedGames || 'More Games Like This'}
-            </h2>
-            <p class="text-xl text-gray-600">
-              {gameTexts.navigation?.continueJourney || translation.ui?.game?.navigation?.continueJourney || 'Continue your musical journey'}
-            </p>
-          </div>
+              {game.data.features && (
+                <div>
+                  <h4 class="font-semibold mb-2">{uiText?.game?.features || 'Features'}</h4>
+                  <ul class="space-y-1 text-sm text-muted-foreground">
+                    {game.data.features.map((feature: string) => (
+                      <li class="flex items-start">
+                        <span class="mr-2">•</span>
+                        <span>{feature}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </CardContent>
+          </Card>
 
-          <GameGrid games={relatedGames} variant="featured" showTitle={false} />
-        </section>
-      )}
+          <!-- Audio Player if exists -->
+          {game.data.audio && (
+            <Card>
+              <CardHeader>
+                <CardTitle>{uiText?.game?.soundtrack || 'Soundtrack'}</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <AudioPlayer
+                  src={game.data.audio}
+                  title={metadata.title}
+                />
+              </CardContent>
+            </Card>
+          )}
+
+          <!-- How to Play -->
+          <Card>
+            <CardHeader>
+              <CardTitle>{uiText?.game?.howToPlay || 'How to Play'}</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <ol class="space-y-2 text-sm text-muted-foreground">
+                <li>1. {uiText?.game?.step1 || 'Click on characters to add sounds'}</li>
+                <li>2. {uiText?.game?.step2 || 'Mix different beats to create music'}</li>
+                <li>3. {uiText?.game?.step3 || 'Experiment with combinations'}</li>
+                <li>4. {uiText?.game?.step4 || 'Have fun creating!'}</li>
+              </ol>
+            </CardContent>
+          </Card>
+        </div>
+      </div>
     </div>
+
+    <!-- Related Games -->
+    {relatedGames.length > 0 && (
+      <section class="py-12 bg-muted/50">
+        <div class="container mx-auto px-4">
+          <h2 class="text-3xl font-bold mb-8 text-center">
+            {uiText?.game?.related || 'Related Games'}
+          </h2>
+          <GameGrid games={relatedGames} locale={locale} />
+        </div>
+      </section>
+    )}
   </main>
 
   <Footer />
 </BaseLayout>
 
 <style>
-  /* Prose styling for markdown content */
-  .prose :global(ul) {
-    @apply list-none p-0 my-6 flex flex-col gap-3;
+  .game-iframe-container {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 0.5rem;
   }
 
-  .prose :global(ul li) {
-    @apply bg-gradient-to-r from-purple-50 to-white border border-purple-200 rounded-lg p-4 transition-all duration-300 hover:shadow-md hover:border-purple-300 hover:bg-gradient-to-r hover:from-purple-100 hover:to-white;
-  }
-
-  .prose :global(strong) {
-    @apply font-bold text-purple-700 bg-purple-50 px-2 py-1 rounded border border-purple-200;
-  }
-
-  .prose :global(h2) {
-    @apply text-2xl font-bold text-gray-900 my-6 flex items-center border-l-4 border-purple-600 pl-4;
-  }
-
-  .prose :global(p) {
-    @apply mb-4 text-gray-700 text-lg leading-relaxed;
-  }
-
-  .prose :global(p:first-of-type) {
-    @apply text-xl font-medium text-gray-800;
-  }
-
-  .prose :global(h3) {
-    @apply text-xl font-semibold text-gray-800 mt-6 mb-3;
-  }
-
-  .prose :global(h4) {
-    @apply text-lg font-medium text-gray-800 mt-4 mb-2;
-  }
-
-  .prose :global(blockquote) {
-    @apply border-l-4 border-blue-500 bg-blue-50 p-4 my-6 rounded-r-lg italic text-gray-700;
-  }
-
-  .prose :global(code) {
-    @apply bg-gray-100 text-gray-800 px-2 py-1 rounded font-mono text-sm;
-  }
-
-  .prose :global(pre) {
-    @apply bg-gray-900 text-gray-100 p-6 rounded-lg overflow-x-auto my-6;
-  }
-
-  .prose :global(pre code) {
-    @apply bg-transparent p-0 text-gray-100;
+  .game-iframe-container iframe {
+    border: none;
   }
 </style>
