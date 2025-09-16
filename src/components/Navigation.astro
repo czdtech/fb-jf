@@ -1,130 +1,157 @@
 ---
 import type { NavigationItem, Language } from '@/types';
-import { getTranslation, type SupportedLocale } from '@/i18n/utils';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import LanguageSelector from './LanguageSelector.astro';
 import MobileSheetNav from './MobileSheetNav';
 
 export interface Props {
-  // 保持向后兼容的Props接口
   navigation?: NavigationItem[];
   languages?: Language[];
   currentLang?: string;
   currentPath?: string;
-  // 新增i18n支持
-  locale?: SupportedLocale;
 }
 
 const {
-  navigation: legacyNavigation,
-  languages: legacyLanguages,
-  currentLang: legacyCurrentLang,
-  currentPath = '/',
-  locale
+  navigation,
+  languages,
+  currentLang = 'en',
+  currentPath = '/'
 } = Astro.props;
 
-// 获取当前语言 - 使用Astro官方i18n系统
-const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || locale || (legacyCurrentLang as SupportedLocale) || 'en';
-
-// 获取翻译内容
-const translation = await getTranslation(currentLocale);
-const uiText = translation.ui;
-
-// Helper to ensure trailing slash consistency with existing behavior
-const withTrailingSlash = (url: string): string => {
+// 生成默认导航链接，使用Astro官方i18n系统
+const buildLocaleUrl = (locale: string, path: string): string => {
+  const url = getRelativeLocaleUrl(locale, path);
   return url.endsWith('/') ? url : `${url}/`;
 };
 
-// 如果有legacyNavigation，使用其标签但重新生成URL
-const navigationItems = legacyNavigation ?
-  legacyNavigation.map((item, index) => {
-    const paths = ['/', '/games', '/new-games', '/popular-games', '/trending-games'];
-    return {
-      label: item.label,
-      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, paths[index] || '/')),
-    };
-  }) : [
-    {
-      label: uiText?.navigation?.home || 'Home',
-      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/')),
-    },
-    {
-      label: uiText?.navigation?.allGames || 'ALL Games',
-      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/games')),
-    },
-    {
-      label: uiText?.navigation?.newGames || 'New Games',
-      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/new-games')),
-    },
-    {
-      label: uiText?.navigation?.popularGames || 'Popular Games',
-      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/popular-games')),
-    },
-    {
-      label: uiText?.navigation?.trendingGames || 'Trending Games',
-      url: withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/trending-games')),
-    }
-  ];
+// 使用提供的导航项或生成默认导航
+const navItems = navigation || [
+  {
+    label: 'Home',
+    url: buildLocaleUrl(currentLang, '/'),
+  },
+  {
+    label: 'All Games',
+    url: buildLocaleUrl(currentLang, '/games'),
+  },
+  {
+    label: 'New Games',
+    url: buildLocaleUrl(currentLang, '/new-games'),
+  },
+  {
+    label: 'Popular',
+    url: buildLocaleUrl(currentLang, '/popular-games'),
+  },
+  {
+    label: 'Trending',
+    url: buildLocaleUrl(currentLang, '/trending-games'),
+  },
+];
 
+// 使用提供的语言列表或默认值
+const langs = languages || [
+  { code: 'en', label: 'English' },
+  { code: 'zh', label: '中文' },
+  { code: 'es', label: 'Español' },
+  { code: 'fr', label: 'Français' },
+  { code: 'de', label: 'Deutsch' },
+  { code: 'ja', label: '日本語' },
+  { code: 'ko', label: '한국어' },
+];
+
+// 确定激活状态
+const isActive = (url: string): boolean => {
+  const normalizedPath = currentPath.endsWith('/') ? currentPath : `${currentPath}/`;
+  const normalizedUrl = url.endsWith('/') ? url : `${url}/`;
+  return normalizedPath === normalizedUrl;
+};
 ---
 
-<header class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 shadow-sm safe-area-top">
-  <div class="responsive-container flex min-h-[64px] items-center py-2 safe-area-left safe-area-right">
-    <!-- Logo with enhanced touch target -->
-    <a href={withTrailingSlash(getRelativeLocaleUrl(currentLocale, '/'))} class="mr-6 flex items-center space-x-2 touch-target min-h-[44px] py-2">
-      <span
-        class="text-xl font-bold"
-        style="
-          background: var(--gradient-primary);
-          -webkit-background-clip: text;
-          background-clip: text;
-          color: transparent;
-          -webkit-text-fill-color: transparent;
-          display: inline-block;
-        "
-      >
-        FiddleBops
-      </span>
-    </a>
-
-    <!-- Desktop Navigation using shadcn/ui NavigationMenu -->
-    <div class="hidden md:flex md:flex-1 md:min-w-0 overflow-x-auto">
-      <nav class="flex flex-nowrap items-center gap-1 whitespace-nowrap">
-        {navigationItems.map((item) => {
-          // 为了正确比较当前页面，我们需要处理路径匹配
-          // currentPath 可能是 /zh/games/ 而 item.url 是 /zh/games
-          const isCurrentPage = currentPath === item.url ||
-            currentPath === `${item.url}/` ||
-            `${currentPath}/` === item.url ||
-            currentPath.replace(/\/$/, '') === item.url.replace(/\/$/, '');
-
-          return (
-            <a
-              href={item.url}
-              aria-current={isCurrentPage ? 'page' : undefined}
-              class={`touch-target inline-flex h-10 min-h-[44px] w-max items-center justify-center rounded-none px-4 py-2 text-sm font-medium border-b-2 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background ${
-                isCurrentPage
-                  ? 'text-foreground border-primary'
-                  : 'text-muted-foreground border-transparent hover:text-foreground hover:border-primary/50'
-              }`}
+<nav
+  class="sticky top-0 z-30 w-full bg-white/80 backdrop-blur-xl border-b border-gray-200/20 shadow-[0_1px_3px_0_rgb(0,0,0,0.02)]"
+  aria-label="Main navigation"
+>
+  <div class="px-4 sm:px-6 lg:px-8">
+    <div class="relative flex h-14 items-center justify-between">
+      <div class="flex items-center flex-1">
+        <div class="flex items-center space-x-6">
+          <a
+            href={buildLocaleUrl(currentLang, '/')}
+            class="flex items-center space-x-2 group"
+          >
+            <svg
+              class="w-7 h-7 text-indigo-600 group-hover:scale-110 transition-transform duration-200"
+              viewBox="0 0 32 32"
+              fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg"
             >
-              {item.label}
-            </a>
-          );
-        })}
-      </nav>
-    </div>
+              <path d="M16 2L4 8v8c0 7.18 4.82 13.88 12 15.84C23.18 29.88 28 23.18 28 16V8l-12-6z"/>
+              <path
+                d="M16 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 10c-2.65 0-8 1.33-8 4v2h16v-2c0-2.67-5.35-4-8-4z"
+                fill="white"
+                opacity="0.9"
+              />
+            </svg>
+            <span class="text-lg font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">
+              FiddleBops
+            </span>
+          </a>
 
-    <div class="flex items-center justify-end space-x-3 shrink-0 ml-auto pl-2 relative z-10">
-      <!-- Desktop Language Selector -->
-      <div class="hidden md:flex">
-        <LanguageSelector currentPath={currentPath || '/'} />
+          <div class="hidden md:block ml-4">
+            <nav aria-label="Main menu">
+              <ul class="flex items-center space-x-1 overflow-x-auto whitespace-nowrap scrollbar-hide">
+                {
+                  navItems.map((item) => (
+                    <li>
+                      <a
+                        href={item.url}
+                        class:list={[
+                          "px-3 py-2 text-[13px] font-medium rounded-lg transition-all duration-200",
+                          isActive(item.url)
+                            ? "text-indigo-700 bg-indigo-100/50"
+                            : "text-gray-600 hover:text-gray-900 hover:bg-gray-100/50"
+                        ]}
+                        aria-current={isActive(item.url) ? 'page' : undefined}
+                      >
+                        {item.label}
+                      </a>
+                    </li>
+                  ))
+                }
+              </ul>
+            </nav>
+          </div>
+        </div>
       </div>
 
-      <!-- Mobile: shadcn/ui Sheet Drawer -->
-      <div class="md:hidden">
-        <MobileSheetNav navigation={navigationItems} languages={legacyLanguages || []} currentPath={currentPath || '/'} client:only="react" />
+      <div class="hidden md:flex items-center space-x-3">
+        <LanguageSelector
+          languages={langs}
+          currentLang={currentLang}
+          currentPath={currentPath}
+        />
+      </div>
+
+      <div class="md:hidden flex items-center">
+        <MobileSheetNav
+          client:load
+          navigation={navItems}
+          languages={langs}
+          currentLang={currentLang}
+          currentPath={currentPath}
+        />
       </div>
     </div>
   </div>
-</header>
+</nav>
+
+<style>
+  /* Hide scrollbar but keep functionality */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+</style>
