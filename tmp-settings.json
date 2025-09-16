@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-7nKlMp63IE2eRPrrY2Rq4IJOFxtLXrxV",
+    "ANTHROPIC_BASE_URL": "https://share-api.packycode.com",
+    "NO_PROXY": "*.packycode.com,share-api.packycode.com,share-api-cf-pro.packycode.com,share-api-hk-cn2.packycode.com"
+  },
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Grep(*)",
+      "Glob(*)"
+    ],
+    "deny": []
+  },
+  "model": "opus",
+  "outputStyle": "dual-architect",
+  "feedbackSurveyState": {
+    "lastShownTime": 1754106444935
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ~/.claude/quality-system/scripts/prompt-validator.sh",
+            "timeout": 2
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ~/.claude/quality-system/scripts/quality-check.sh",
+            "timeout": 60
+          }
+        ]
+      },
+      {
+        "matcher": "NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ~/.claude/quality-system/scripts/quality-check.sh",
+            "timeout": 60
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ~/.claude/quality-system/scripts/command-guard.sh",
+            "timeout": 2
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ~/.claude/quality-system/scripts/task-summary.sh",
+            "timeout": 3
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ~/.claude/quality-system/hooks/session-start.sh >/dev/null 2>&1",
+            "timeout": 2
+          }
+        ]
+      }
+    ]
+  }
+}

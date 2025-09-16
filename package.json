@@ -16,7 +16,12 @@
     "i18n:check": "npm run i18n:validate",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "visual:worktrees": "node scripts/visual-worktrees.mjs",
+    "visual:build": "node scripts/visual-build.mjs",
+    "visual:diff": "node scripts/visual-diff.mjs",
+    "visual:select": "node scripts/visual-diff-select.mjs",
+    "visual:all": "npm run visual:worktrees && npm run visual:build && npm run visual:diff"
   },
   "dependencies": {
     "@astrojs/react": "^4.3.0",

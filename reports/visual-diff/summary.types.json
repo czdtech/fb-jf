@@ -1,0 +1,122 @@
+[
+  {
+    "route": "/",
+    "pixels": 15498636,
+    "mismatched": 82259,
+    "ratio": 0.005307499318004501
+  },
+  {
+    "route": "/zh/",
+    "pixels": 15107960,
+    "mismatched": 8262,
+    "ratio": 0.0005468640372360001
+  },
+  {
+    "route": "/games/",
+    "pixels": 8659809,
+    "mismatched": 479039,
+    "ratio": 0.055317501806333144
+  },
+  {
+    "route": "/zh/games/",
+    "pixels": 7502072,
+    "mismatched": 7625,
+    "ratio": 0.0010163858731294501
+  },
+  {
+    "route": "/games/2/",
+    "pixels": 8659809,
+    "mismatched": 892063,
+    "ratio": 0.10301185626611395
+  },
+  {
+    "route": "/popular-games/",
+    "pixels": 2349520,
+    "mismatched": 126056,
+    "ratio": 0.05365180973134938
+  },
+  {
+    "route": "/trending-games/",
+    "pixels": 7034900,
+    "mismatched": 643958,
+    "ratio": 0.0915376195823679
+  },
+  {
+    "route": "/new-games/",
+    "pixels": 2349520,
+    "mismatched": 0,
+    "ratio": 0
+  },
+  {
+    "route": "/zh/popular-games/",
+    "pixels": 2349520,
+    "mismatched": 0,
+    "ratio": 0
+  },
+  {
+    "route": "/zh/trending-games/",
+    "pixels": 7034900,
+    "mismatched": 224356,
+    "ratio": 0.031891853473396924
+  },
+  {
+    "route": "/zh/new-games/",
+    "pixels": 2349520,
+    "mismatched": 5172,
+    "ratio": 0.0022013006912050123
+  },
+  {
+    "route": "/sprunki-dandys-world/",
+    "pixels": 8671368,
+    "mismatched": 4903,
+    "ratio": 0.0005654240484315739
+  },
+  {
+    "route": "/zh/sprunki-dandys-world/",
+    "pixels": 7873624,
+    "mismatched": 47,
+    "ratio": 0.000005969296984463571
+  },
+  {
+    "route": "/sprunki-phase-1/",
+    "pixels": 8321672,
+    "mismatched": 1629,
+    "ratio": 0.00019575393021979237
+  },
+  {
+    "route": "/zh/sprunki-phase-1/",
+    "pixels": 7635940,
+    "mismatched": 8699,
+    "ratio": 0.0011392179613773812
+  },
+  {
+    "route": "/privacy/",
+    "pixels": 8271130,
+    "mismatched": 0,
+    "ratio": 0
+  },
+  {
+    "route": "/zh/privacy/",
+    "pixels": 7686482,
+    "mismatched": 549484,
+    "ratio": 0.071487060010028
+  },
+  {
+    "route": "/terms-of-service/",
+    "pixels": 11154756,
+    "mismatched": 0,
+    "ratio": 0
+  },
+  {
+    "route": "/zh/terms-of-service/",
+    "pixels": 10642506,
+    "mismatched": 786259,
+    "ratio": 0.07387912207895396
+  },
+  {
+    "route": "/404.html",
+    "pixels": 2632282,
+    "mismatched": 0,
+    "ratio": 0
+  }
+]
