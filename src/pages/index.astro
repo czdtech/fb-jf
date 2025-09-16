@@ -164,9 +164,59 @@ const structuredData = {
     - 当 `.sound-samples-section` 接近视窗时再动态加载脚本
     - 仅在该区块内绑定点击音符动画（节流）
   -->
-  <script type="module">
-    import { initHomepage } from '@/scripts/pages/homepage.js';
-    initHomepage();
+  <script type="module" is:inline>
+    const scheduleLoad = () => {
+      const section = document.querySelector('.sound-samples-section');
+      if (!section) return;
+
+      const loadModules = async () => {
+        try {
+          const [notesMod] = await Promise.all([
+            import('/src/scripts/music-notes-animation.js'),
+            // 音频管理器脚本具有副作用：初始化卡片事件，无需导出
+            import('/src/scripts/sound-sample-player.js'),
+          ]);
+          const { musicNotesAnimation } = notesMod;
+
+          // 仅在声音示例区块内绑定点击动画，避免全局监听
+          let last = 0;
+          section.addEventListener('click', (e) => {
+            const now = Date.now();
+            if (now - last < 200) return;
+            last = now;
+            musicNotesAnimation?.createClickAnimation?.(e, {
+              noteCount: Math.floor(Math.random() * 3) + 1,
+              staggerDelay: 100,
+              duration: 1200,
+            });
+          }, { passive: true });
+        } catch (err) {
+          console.warn('[index] 延迟加载交互脚本失败', err);
+        }
+      };
+
+      if ('IntersectionObserver' in window) {
+        const io = new IntersectionObserver((entries) => {
+          if (entries.some((en) => en.isIntersecting)) {
+            io.disconnect();
+            loadModules();
+          }
+        }, { rootMargin: '200px' });
+        io.observe(section);
+      } else if ('requestIdleCallback' in window) {
+        // 兜底：空闲时加载
+        // @ts-ignore
+        requestIdleCallback(() => loadModules());
+      } else {
+        setTimeout(() => loadModules(), 1);
+      }
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', scheduleLoad);
+    } else {
+      scheduleLoad();
+    }
   </script>
 
 <style>

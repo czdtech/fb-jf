@@ -140,9 +140,12 @@ const htmlDir = getLanguageDirection(lang as any);
     {import.meta.env.PROD && !isLegalPage && (
       <>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-        <script type="module">
-          import { initAnalytics } from '@/scripts/analytics.js';
-          initAnalytics();
+        <script is:inline>
+          // Google Analytics (生产环境)
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9JME3P55QJ');
         </script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733" crossorigin="anonymous"></script>
         <meta name="google-adsense-account" content="ca-pub-1444054360166733" />
@@ -151,9 +154,15 @@ const htmlDir = getLanguageDirection(lang as any);
 
     <!-- 开发环境占位符 -->
     {import.meta.env.DEV && (
-      <script type="module">
-        import { initCritical } from '@/scripts/critical.js';
-        initCritical();
+      <script is:inline>
+        // 开发环境 - 分析和广告代码占位符
+        console.log('🔧 开发模式：分析和广告代码已禁用');
+
+        // 模拟 gtag 函数防止错误
+        window['dataLayer'] = window['dataLayer'] || [];
+        window['gtag'] = function() {
+          console.log('📊 [DEV] gtag 调用:', arguments);
+        };
       </script>
     )}
 
@@ -195,7 +204,7 @@ const htmlDir = getLanguageDirection(lang as any);
     )}
 
         <!-- 全局错误处理器 -->
-    <script type="module" data-is-prod={import.meta.env.PROD}>
+    <script type="module" is:inline data-is-prod={import.meta.env.PROD}>
       import { GlobalErrorHandler } from '@/scripts/global-error-handler.js';
 
       // 从 data 属性获取环境变量（防御性编程）
@@ -215,7 +224,7 @@ const htmlDir = getLanguageDirection(lang as any);
     </script>
 
     <!-- 可访问性管理器 -->
-    <script type="module">
+    <script type="module" is:inline>
       import { AccessibilityManager } from '@/scripts/accessibility-manager.js';
 
       // 初始化可访问性管理器
@@ -236,7 +245,7 @@ const htmlDir = getLanguageDirection(lang as any);
     </script>
 
     <!-- 设计系统交互脚本 -->
-    <script type="module">
+    <script type="module" is:inline>
       import '@/scripts/interactions.js'
     </script>
 
