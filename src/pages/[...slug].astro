@@ -88,6 +88,22 @@ const hreflangLinks = await generateGameHreflangLinks(
 // Build structured data
 const structuredData = buildGameStructuredData(game, locale, SITE_URL);
 
+// Default features for games
+const defaultFeatures = [
+  { icon: '🎵', title: 'Rich Music Creation', description: 'Create unique musical compositions with diverse sound elements' },
+  { icon: '🎭', title: 'Character Variety', description: 'Choose from a wide range of animated characters, each with unique sounds' },
+  { icon: '🔄', title: 'Creative Freedom', description: 'Unlimited possibilities for mixing and matching sounds' },
+  { icon: '💫', title: 'Visual Effects', description: 'Stunning animations and effects that react to your music' }
+];
+
+// Default play steps
+const defaultSteps = [
+  'Choose your favorite characters from the selection',
+  'Drag and drop them onto the stage to start creating',
+  'Experiment with different combinations to find your perfect mix',
+  'Save and share your musical masterpiece with friends'
+];
+
 // Page meta
 const pageMeta = {
   title: metadata.meta?.title || metadata.title,
@@ -112,7 +128,7 @@ const hasContent = game.body && game.body.trim().length > 0;
     currentPath={`/${slug}/`}
   />
 
-  <main id="main-content" class="min-h-screen" role="main">
+  <main id="main-content" class="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50" role="main">
     <!-- Game Hero Section -->
     <GameHero
       game={game}
@@ -122,7 +138,7 @@ const hasContent = game.body && game.body.trim().length > 0;
     />
 
     <!-- Main Game Container -->
-    <div class="container mx-auto px-4 py-8">
+    <div class="container mx-auto px-4 py-12">
       <div class="grid lg:grid-cols-3 gap-8">
         <!-- Game Iframe -->
         <div class="lg:col-span-2">
@@ -152,7 +168,6 @@ const hasContent = game.body && game.body.trim().length > 0;
               <p class="text-muted-foreground leading-relaxed">
                 {metadata.description}
               </p>
-
             </CardContent>
           </Card>
         </div>
@@ -181,7 +196,7 @@ const hasContent = game.body && game.body.trim().length > 0;
 
               {game.data.features && (
                 <div>
-                  <h4 class="font-semibold mb-2">{uiText?.game?.features || 'Features'}</h4>
+                  <h4 class="font-semibold mb-2">Features</h4>
                   <ul class="space-y-1 text-sm text-muted-foreground">
                     {game.data.features.map((feature: string) => (
                       <li class="flex items-start">
@@ -199,7 +214,7 @@ const hasContent = game.body && game.body.trim().length > 0;
           {game.data.audio && (
             <Card>
               <CardHeader>
-                <CardTitle>{uiText?.game?.soundtrack || 'Soundtrack'}</CardTitle>
+                <CardTitle>Soundtrack</CardTitle>
               </CardHeader>
               <CardContent>
                 <AudioPlayer
@@ -213,28 +228,176 @@ const hasContent = game.body && game.body.trim().length > 0;
           <!-- How to Play -->
           <Card>
             <CardHeader>
-              <CardTitle>{uiText?.game?.howToPlay || 'How to Play'}</CardTitle>
+              <CardTitle>How to Play</CardTitle>
             </CardHeader>
             <CardContent>
               <ol class="space-y-2 text-sm text-muted-foreground">
-                <li>1. {uiText?.game?.step1 || 'Click on characters to add sounds'}</li>
-                <li>2. {uiText?.game?.step2 || 'Mix different beats to create music'}</li>
-                <li>3. {uiText?.game?.step3 || 'Experiment with combinations'}</li>
-                <li>4. {uiText?.game?.step4 || 'Have fun creating!'}</li>
+                <li>1. Click on characters to add sounds</li>
+                <li>2. Mix different beats to create music</li>
+                <li>3. Experiment with combinations</li>
+                <li>4. Have fun creating!</li>
               </ol>
             </CardContent>
           </Card>
         </div>
       </div>
+
+      <!-- Game Features Section -->
+      <section class="mt-16">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+            <span class="text-purple-600">✨</span>
+            Game Features
+          </h2>
+          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+            Discover what makes this game special
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {(game.data.features || defaultFeatures).map((feature: any) => (
+            <Card class="h-full hover:shadow-lg transition-shadow duration-300">
+              <CardContent class="p-6 text-center">
+                <div class="text-4xl mb-4">{typeof feature === 'string' ? '🎵' : feature.icon}</div>
+                <h3 class="text-lg font-semibold text-gray-900 mb-2">
+                  {typeof feature === 'string' ? feature : feature.title}
+                </h3>
+                {typeof feature !== 'string' && feature.description && (
+                  <p class="text-gray-600 text-sm">{feature.description}</p>
+                )}
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      <!-- How to Play Section (Detailed) -->
+      <section class="mt-16">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+            <span class="text-purple-600">🎮</span>
+            How to Play
+          </h2>
+          <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+            Master the art of music creation
+          </p>
+        </div>
+
+        <Card class="max-w-4xl mx-auto">
+          <CardContent class="p-8">
+            <div class="space-y-6">
+              {(game.data.howToPlay || defaultSteps).map((step: any, index: number) => (
+                <div class="flex gap-6 items-start">
+                  <div class="flex-shrink-0 w-12 h-12 bg-purple-600 text-white rounded-full flex items-center justify-center font-bold text-lg">
+                    {index + 1}
+                  </div>
+                  <div class="flex-grow pt-2">
+                    <p class="text-gray-700 text-lg">{typeof step === 'string' ? step : step.title || step.description}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </CardContent>
+        </Card>
+      </section>
+
+      <!-- Game Screenshots Section (if available) -->
+      {game.data.screenshots && game.data.screenshots.length > 0 && (
+        <section class="mt-16">
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">📸</span>
+              Game Screenshots
+            </h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+              Take a look at the gameplay experience
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+            {game.data.screenshots.map((screenshot: any, index: number) => (
+              <Card class="overflow-hidden hover:shadow-xl transition-all duration-300 group">
+                <CardContent class="p-0">
+                  <div class="relative aspect-video overflow-hidden">
+                    <img
+                      src={typeof screenshot === 'string' ? screenshot : screenshot.url}
+                      alt={`${metadata.title} screenshot ${index + 1}`}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      loading="lazy"
+                    />
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Audio Preview Section (if exists) -->
+      {game.data.audio && (
+        <section class="mt-16">
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">🎵</span>
+              Game Music Preview
+            </h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+              Experience the immersive soundtrack
+            </p>
+          </div>
+
+          <div class="max-w-2xl mx-auto">
+            <AudioPlayer
+              src={game.data.audio}
+              title={`${metadata.title} - Game Music`}
+            />
+          </div>
+        </section>
+      )}
+
+      <!-- Detailed Content Section -->
+      {hasContent && (
+        <section class="mt-16">
+          <Card class="max-w-4xl mx-auto shadow-lg">
+            <CardHeader class="bg-gradient-to-r from-purple-50 to-pink-50 border-b">
+              <div class="flex items-center gap-4">
+                <div class="text-purple-600 text-3xl">📖</div>
+                <CardTitle class="text-3xl text-gray-900">About {metadata.title}</CardTitle>
+              </div>
+              <div class="flex items-center gap-2 mt-4">
+                <Badge variant="secondary" class="bg-purple-100 text-purple-700 hover:bg-purple-200">
+                  {game.data.category}
+                </Badge>
+                {game.data.rating && (
+                  <div class="flex items-center gap-1 text-yellow-500">
+                    <GameRating rating={game.data.rating} />
+                  </div>
+                )}
+              </div>
+            </CardHeader>
+            <CardContent class="prose prose-lg max-w-none p-8">
+              <!-- Markdown content would go here if available -->
+              <div set:html={hasContent ? game.body : metadata.description} />
+            </CardContent>
+          </Card>
+        </section>
+      )}
     </div>
 
     <!-- Related Games -->
     {relatedGames.length > 0 && (
-      <section class="py-12 bg-muted/50">
+      <section class="py-16 bg-gradient-to-b from-gray-50 to-white">
         <div class="container mx-auto px-4">
-          <h2 class="text-3xl font-bold mb-8 text-center">
-            {uiText?.game?.related || 'Related Games'}
-          </h2>
+          <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center gap-4">
+              <span class="text-purple-600">🎯</span>
+              More Games Like This
+            </h2>
+            <p class="text-xl text-gray-600">
+              Continue your musical journey with these similar games
+            </p>
+          </div>
           <GameGrid games={relatedGames} locale={locale} />
         </div>
       </section>
@@ -252,5 +415,55 @@ const hasContent = game.body && game.body.trim().length > 0;
 
   .game-iframe-container iframe {
     border: none;
+  }
+
+  /* Prose styling for markdown content */
+  .prose :global(ul) {
+    @apply list-none p-0 my-6 flex flex-col gap-3;
+  }
+
+  .prose :global(ul li) {
+    @apply relative pl-8;
+  }
+
+  .prose :global(ul li::before) {
+    @apply absolute left-0 top-2 w-5 h-5 bg-purple-600 rounded-full flex items-center justify-center text-white text-xs;
+    content: "✓";
+  }
+
+  .prose :global(h2) {
+    @apply text-3xl font-bold text-gray-900 mt-8 mb-4 flex items-center gap-3;
+  }
+
+  .prose :global(h3) {
+    @apply text-xl font-semibold text-gray-800 mt-6 mb-3;
+  }
+
+  .prose :global(p) {
+    @apply text-gray-700 leading-relaxed mb-4;
+  }
+
+  .prose :global(a) {
+    @apply text-purple-600 hover:text-purple-700 underline;
+  }
+
+  .prose :global(strong) {
+    @apply font-bold text-gray-900;
+  }
+
+  /* Feature cards animation */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  section {
+    animation: fadeInUp 0.6s ease-out;
   }
 </style>
