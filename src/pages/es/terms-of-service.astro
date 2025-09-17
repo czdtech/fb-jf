@@ -2,6 +2,7 @@
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
+import LegalPage from '@/components/legal/LegalPage.astro'
 import extractedData from '@/data/extracted-data.json'
 import { getEntry } from 'astro:content'
 import { generateHreflangLinks } from '@/utils/hreflang'
@@ -45,41 +46,14 @@ const meta = {
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang={locale}
-    currentPath="/terms-of-service/"
+    currentPath={`/${locale}/terms-of-service/`}
   />
 
-  <main class="responsive-container flex-1 py-8">
-    <article class="mx-auto max-w-4xl">
-      <header class="mb-8">
-        <h1 class="text-4xl font-bold mb-4">{termsData.meta.title}</h1>
-        <p class="text-gray-600">Last Updated: {termsData.meta.lastUpdated}</p>
-      </header>
-
-      <!-- Table of Contents -->
-      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
-        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
-        <ul class="space-y-2">
-          {termsData.tableOfContents.map((item: any) => (
-            <li>
-              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
-                {item.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-
-      <!-- Content Sections -->
-      <div class="space-y-8">
-        {termsData.sections.map((section: any) => (
-          <section id={section.id} class="scroll-mt-20">
-            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
-            <div class="prose max-w-none" set:html={section.content} />
-          </section>
-        ))}
-      </div>
-    </article>
-  </main>
+  <LegalPage
+    locale={locale}
+    kind="terms"
+    currentPath={`/${locale}/terms-of-service/`}
+  />
 
   <Footer
     locale={locale}
