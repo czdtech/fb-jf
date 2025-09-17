@@ -52,6 +52,23 @@ const gamesCollection = defineCollection({
         .optional(),
       pageType: z.string().optional(),
       isDemo: z.boolean().optional(),
+      // 新增可选的多语言翻译字段
+      translations: z
+        .record(
+          z.string(), // locale key
+          z.object({
+            title: z.string().optional(),
+            description: z.string().optional(),
+            meta: z
+              .object({
+                title: z.string().optional(),
+                description: z.string().optional(),
+                keywords: z.string().optional(),
+              })
+              .optional(),
+          }),
+        )
+        .optional(),
     })
     .passthrough(),
 });
