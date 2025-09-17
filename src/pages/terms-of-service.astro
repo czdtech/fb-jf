@@ -2,10 +2,23 @@
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
+import LegalPage from '@/components/legal/LegalPage.astro'
 import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
 import { generateHreflangLinks } from '@/utils/hreflang'
 
 const { navigation } = extractedData
+
+// 获取当前语言
+const locale = 'en'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const termsData = legalContent?.data.terms
+
+if (!termsData) {
+  throw new Error(`Terms content not found for locale: ${locale}`)
+}
 
 // 多语言配置
 const hreflangLinks = generateHreflangLinks(
@@ -16,8 +29,8 @@ const hreflangLinks = generateHreflangLinks(
 
 // Meta data for terms page
 const meta = {
-  title: "Terms of Service | FiddleBops",
-  description: "Read our Terms of Service to understand the rules and guidelines for using FiddleBops. Learn about your rights and responsibilities as a user.",
+  title: termsData.meta.title,
+  description: termsData.meta.description,
   canonical: "https://www.playfiddlebops.com/terms-of-service/",
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
   robots: "index, follow"
@@ -36,252 +49,11 @@ const meta = {
     currentPath="/terms-of-service/"
   />
 
-  <main class="terms-page">
-    <!-- Hero Section -->
-    <section class="terms-hero section">
-      <div class="responsive-container container-narrow">
-        <div class="terms-hero-content">
-          <!-- 面包屑导航 -->
-          <nav class="breadcrumb" aria-label="面包屑导航">
-            <a href="/" class="breadcrumb-link">
-              <i class="fas fa-home"></i>
-              <span>Home</span>
-            </a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">Terms of Service</span>
-          </nav>
-
-          <div class="hero-content">
-            <h1 class="terms-title heading-display">
-              <span class="title-main">Terms of</span>
-              <span class="title-accent">Service</span>
-            </h1>
-            <p class="terms-subtitle body-large">
-              Please read these terms carefully before using our services.
-              By using FiddleBops, you agree to these terms and conditions.
-            </p>
-            <div class="last-updated">
-              <i class="fas fa-calendar-alt"></i>
-              <span>Last updated: February 10, 2025</span>
-            </div>
-          </div>
-
-          <!-- 装饰性图标 -->
-          <div class="terms-icons">
-            <div class="terms-icon"><i class="fas fa-gavel"></i></div>
-            <div class="terms-icon"><i class="fas fa-balance-scale"></i></div>
-            <div class="terms-icon"><i class="fas fa-handshake"></i></div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Terms Content Section -->
-    <section class="terms-content section">
-      <div class="responsive-container container-narrow">
-        <div class="content-wrapper">
-
-          <!-- Navigation Menu -->
-          <aside class="terms-nav glass">
-            <h3>Table of Contents</h3>
-            <ul>
-              <li><a href="#agreement">Agreement to Terms</a></li>
-              <li><a href="#services">Our Services</a></li>
-              <li><a href="#ip">Intellectual Property</a></li>
-              <li><a href="#userreps">User Representations</a></li>
-              <li><a href="#prohibited">Prohibited Activities</a></li>
-              <li><a href="#ugc">User Contributions</a></li>
-              <li><a href="#privacy">Privacy Policy</a></li>
-              <li><a href="#termination">Termination</a></li>
-              <li><a href="#disclaimer">Disclaimer</a></li>
-              <li><a href="#liability">Liability</a></li>
-              <li><a href="#contact">Contact Us</a></li>
-            </ul>
-          </aside>
-
-          <!-- Main Content -->
-          <article class="terms-article glass">
-
-            <section id="agreement">
-              <h2>Agreement to Our Legal Terms</h2>
-              <p>We are <strong>playfiddlebops</strong>.</p>
-              <p>We operate the website <a href="https://www.playfiddlebops.com" target="_blank" rel="noopener">https://www.playfiddlebops.com</a> (the "<strong>Site</strong>"), as well as any other related products and services that refer or link to these legal terms (the "<strong>Legal Terms</strong>") (collectively, the "<strong>Services</strong>").</p>
-              <p>You can contact us by email at <strong>chongzhidatech@gmail.com</strong></p>
-
-              <div class="important-box">
-                <i class="fas fa-exclamation-circle"></i>
-                <div>
-                  <h5>Important Notice</h5>
-                  <p>These legal terms constitute a legally binding agreement. By accessing the Services, you agree to be bound by all of these Legal Terms. <strong>If you do not agree with all of these legal terms, then you are expressly prohibited from using the services and you must discontinue use immediately.</strong></p>
-                </div>
-              </div>
-
-              <p>The services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the services.</p>
-            </section>
-
-            <section id="services">
-              <h2>Our Services</h2>
-              <p>The information provided when using the services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation.</p>
-              <p>The services are not tailored to comply with industry-specific regulations (HIPAA, FISMA, etc.), so if your interactions would be subjected to such laws, you may not use the services.</p>
-
-              <div class="service-features">
-                <div class="feature-item">
-                  <i class="fas fa-music"></i>
-                  <h4>Music Creation</h4>
-                  <p>Interactive music and rhythm games</p>
-                </div>
-                <div class="feature-item">
-                  <i class="fas fa-gamepad"></i>
-                  <h4>Game Library</h4>
-                  <p>Collection of creative games</p>
-                </div>
-                <div class="feature-item">
-                  <i class="fas fa-users"></i>
-                  <h4>Community</h4>
-                  <p>Share and discover creations</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="ip">
-              <h2>Intellectual Property Rights</h2>
-              <h3>Our Intellectual Property</h3>
-              <p>We are the owner or the licensee of all intellectual property rights in our services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the services (collectively, the "<strong>Content</strong>"), as well as the trademarks, service marks, and logos contained therein (the "<strong>Marks</strong>").</p>
-
-              <h3>Your Use of Our Services</h3>
-              <p>Subject to your compliance with these legal terms, we grant you a non-exclusive, non-transferable, revocable license to:</p>
-              <ul>
-                <li>Access the services; and</li>
-                <li>Download or print a copy of any portion of the content to which you have properly gained access,</li>
-              </ul>
-              <p>Solely for your personal, non-commercial use or internal business purpose.</p>
-
-              <div class="warning-box">
-                <i class="fas fa-copyright"></i>
-                <div>
-                  <h5>Copyright Notice</h5>
-                  <p>No part of the services may be copied, reproduced, or distributed for any commercial purpose without our express prior written permission.</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="userreps">
-              <h2>User Representations</h2>
-              <p>By using the Services, you represent and warrant that:</p>
-              <ul>
-                <li>All registration information you submit will be true, accurate, current, and complete</li>
-                <li>You will maintain the accuracy of such information</li>
-                <li>You have the legal capacity and you agree to comply with these Legal Terms</li>
-                <li>You are not under the age of 18</li>
-                <li>You will not access the Services through automated or non-human means</li>
-                <li>You will not use the Services for any illegal or unauthorized purpose</li>
-                <li>Your use of the Services will not violate any applicable law or regulation</li>
-              </ul>
-            </section>
-
-            <section id="prohibited">
-              <h2>Prohibited Activities</h2>
-              <p>You may not access or use the Services for any purpose other than that for which we make the Services available. The Services may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.</p>
-
-              <div class="prohibited-grid">
-                <div class="prohibited-item">
-                  <i class="fas fa-ban"></i>
-                  <h4>No Spam</h4>
-                  <p>Sending spam or unsolicited messages</p>
-                </div>
-                <div class="prohibited-item">
-                  <i class="fas fa-virus"></i>
-                  <h4>No Malware</h4>
-                  <p>Uploading viruses or malicious code</p>
-                </div>
-                <div class="prohibited-item">
-                  <i class="fas fa-user-slash"></i>
-                  <h4>No Harassment</h4>
-                  <p>Harassing other users</p>
-                </div>
-                <div class="prohibited-item">
-                  <i class="fas fa-shield-virus"></i>
-                  <h4>No Hacking</h4>
-                  <p>Attempting to hack or exploit the system</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="ugc">
-              <h2>User Generated Contributions</h2>
-              <p>The Services may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services.</p>
-
-              <div class="info-box">
-                <i class="fas fa-upload"></i>
-                <div>
-                  <h5>Content Responsibility</h5>
-                  <p>You are solely responsible for any content you post. Ensure your content complies with all applicable laws and our community guidelines.</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="privacy">
-              <h2>Privacy Policy</h2>
-              <p>We care about data privacy and security. Please review our Privacy Policy: <a href="/privacy/" target="_blank">https://www.playfiddlebops.com/privacy/</a>. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms.</p>
-
-              <div class="privacy-link">
-                <a href="/privacy/" class="btn btn-secondary">
-                  <i class="fas fa-shield-alt"></i>
-                  <span>Read Privacy Policy</span>
-                </a>
-              </div>
-            </section>
-
-            <section id="termination">
-              <h2>Term and Termination</h2>
-              <p>These Legal Terms shall remain in full force and effect while you use the Services. We reserve the right to, in our sole discretion and without notice or liability, deny access to and use of the Services to any person for any reason or for no reason, including without limitation for breach of any representation, warranty, or covenant contained in these Legal Terms.</p>
-            </section>
-
-            <section id="disclaimer">
-              <h2>Disclaimer</h2>
-              <p>The Services are provided on an AS-IS and AS-AVAILABLE basis. You agree that your use of the Services will be at your sole risk. To the fullest extent permitted by law, we disclaim all warranties, express or implied, in connection with the Services.</p>
-
-              <div class="disclaimer-box">
-                <i class="fas fa-info-circle"></i>
-                <div>
-                  <h5>No Warranties</h5>
-                  <p>We make no warranties about the accuracy, reliability, completeness, or timeliness of the content, services, software, text, graphics, and links.</p>
-                </div>
-              </div>
-            </section>
-
-            <section id="liability">
-              <h2>Limitations of Liability</h2>
-              <p>In no event will we or our directors, employees, or agents be liable to you or any third party for any direct, indirect, consequential, exemplary, incidental, special, or punitive damages, including lost profit, lost revenue, loss of data, or other damages arising from your use of the Services.</p>
-            </section>
-
-            <section id="contact">
-              <h2>Contact Us</h2>
-              <p>In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:</p>
-
-              <div class="contact-info">
-                <div class="contact-item">
-                  <i class="fas fa-envelope"></i>
-                  <div>
-                    <h5>Email</h5>
-                    <span>chongzhidatech@gmail.com</span>
-                  </div>
-                </div>
-                <div class="contact-item">
-                  <i class="fas fa-globe"></i>
-                  <div>
-                    <h5>Website</h5>
-                    <span><a href="https://www.playfiddlebops.com/">www.playfiddlebops.com</a></span>
-                  </div>
-                </div>
-              </div>
-            </section>
-
-          </article>
-        </div>
-      </div>
-    </section>
-  </main>
+  <LegalPage
+    locale={locale}
+    kind="terms"
+    currentPath="/terms-of-service/"
+  />
 
   <Footer />
 </BaseLayout>
