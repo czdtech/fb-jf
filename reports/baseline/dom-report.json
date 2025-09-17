@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-17T17:20:28.548Z",
+  "pages": {
+    "/": {
+      "name": "Homepage",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "found": 2,
+          "required": false,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/games/": {
+      "name": "Games List",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "found": 2,
+          "required": false,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/privacy/": {
+      "name": "Privacy Page",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "found": 0,
+          "required": false,
+          "status": "WARN"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/zh/": {
+      "name": "Chinese Homepage",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "found": 2,
+          "required": false,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "found": 1,
+          "required": true,
+          "status": "PASS"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total": 12,
+    "passed": 11,
+    "failed": 0,
+    "warnings": 1
+  }
+}
