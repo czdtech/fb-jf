@@ -22,9 +22,10 @@ module.exports = {
   coverageReporters: ["text", "lcov", "html"],
   setupFilesAfterEnv: ["<rootDir>/jest.setup.js"],
   moduleNameMapper: {
-    "^@/(.*)$": "<rootDir>/src/$1",
+    // Put the specific i18n utils mock BEFORE the generic alias to ensure it wins
+    "^@/i18n/utils$": "<rootDir>/src/i18n/__mocks__/utils.ts",
     "^astro:content$": "<rootDir>/src/utils/__mocks__/astro-content.ts",
-    "@/i18n/utils": "<rootDir>/src/i18n/__mocks__/utils.ts",
+    "^@/(.*)$": "<rootDir>/src/$1",
   },
   moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json"],
   coverageThreshold: {
