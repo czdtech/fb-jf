@@ -42,7 +42,10 @@ async function backupContent(): Promise<void> {
   console.log("✅ Backup created at src/content.backup");
 }
 
-async function migrateGames(execute: boolean): Promise<MigrationStats> {
+async function migrateGames(
+  execute: boolean,
+  slugsFilter?: string[],
+): Promise<MigrationStats> {
   const stats: MigrationStats = {
     totalGames: 0,
     processedGames: 0,
@@ -53,7 +56,17 @@ async function migrateGames(execute: boolean): Promise<MigrationStats> {
   };
 
   // 获取所有英文主文件（基础游戏）
-  const baseFiles = await glob("src/content/games/*.md");
+  let baseFiles = await glob("src/content/games/*.md");
+
+  // 如果指定了slugs，过滤文件列表
+  if (slugsFilter && slugsFilter.length > 0) {
+    baseFiles = baseFiles.filter((file) => {
+      const slug = path.basename(file, ".md");
+      return slugsFilter.includes(slug);
+    });
+    console.log(`\n🎯 Filtering to specified slugs: ${slugsFilter.join(", ")}`);
+  }
+
   stats.totalGames = baseFiles.length;
 
   console.log(`\n🎮 Found ${baseFiles.length} base game files`);
@@ -207,6 +220,13 @@ Errors:             ${stats.errors.length}
 async function main() {
   const execute = process.argv.includes("--execute");
 
+  // 解析 --slugs 参数
+  let slugsFilter: string[] | undefined;
+  const slugsIndex = process.argv.indexOf("--slugs");
+  if (slugsIndex > -1 && process.argv[slugsIndex + 1]) {
+    slugsFilter = process.argv[slugsIndex + 1].split(",");
+  }
+
   console.log("🚀 Content Migration Script - Phase 1");
   console.log("=====================================");
   console.log(`Mode: ${execute ? "EXECUTE" : "DRY-RUN"}`);
@@ -217,7 +237,7 @@ async function main() {
   }
 
   // Run migration
-  const stats = await migrateGames(execute);
+  const stats = await migrateGames(execute, slugsFilter);
 
   // Print report
   await printReport(stats, execute);
