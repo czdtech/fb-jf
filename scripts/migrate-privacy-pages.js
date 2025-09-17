@@ -1,4 +1,27 @@
----
+#!/usr/bin/env node
+
+// 批量迁移隐私页到 LegalPage 组件的脚本
+
+import { promises as fs } from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const languages = ["fr", "de", "ja", "ko"];
+
+async function migratePrivacyPage(locale) {
+  const filePath = path.join(
+    __dirname,
+    "..",
+    "src",
+    "pages",
+    locale,
+    "privacy.astro",
+  );
+
+  const newContent = `---
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
@@ -10,14 +33,14 @@ import { generateHreflangLinks } from '@/utils/hreflang'
 const { navigation } = extractedData
 
 // 获取当前语言
-const locale = 'ko'
+const locale = '${locale}'
 
 // 从内容集合加载法务内容
 const legalContent = await getEntry('legal', locale)
 const privacyData = legalContent?.data.privacy
 
 if (!privacyData) {
-  throw new Error(`Privacy content not found for locale: ${locale}`)
+  throw new Error(\`Privacy content not found for locale: \${locale}\`)
 }
 
 // 使用统一的 hreflang 生成工具
@@ -31,7 +54,7 @@ const hreflangLinks = generateHreflangLinks(
 const meta = {
   title: privacyData.meta.title,
   description: privacyData.meta.description,
-  canonical: `https://www.playfiddlebops.com/${locale}/privacy/`,
+  canonical: \`https://www.playfiddlebops.com/\${locale}/privacy/\`,
   ogImage: "https://www.playfiddlebops.com/tw.jpg",
   robots: "noindex, nofollow"
 }
@@ -46,13 +69,13 @@ const meta = {
     navigation={navigation.main}
     languages={navigation.languages}
     currentLang={locale}
-    currentPath={`/${locale}/privacy/`}
+    currentPath={\`/\${locale}/privacy/\`}
   />
 
   <LegalPage
     locale={locale}
     kind="privacy"
-    currentPath={`/${locale}/privacy/`}
+    currentPath={\`/\${locale}/privacy/\`}
   />
 
   <Footer
@@ -415,3 +438,17 @@ const meta = {
     }
   }
 </style>
+`;
+
+  await fs.writeFile(filePath, newContent, "utf-8");
+  console.log(`✅ Migrated ${locale} privacy page`);
+}
+
+async function main() {
+  for (const locale of languages) {
+    await migratePrivacyPage(locale);
+  }
+  console.log("✨ All privacy pages migrated successfully!");
+}
+
+main().catch(console.error);
