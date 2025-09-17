@@ -23,6 +23,7 @@
     "visual:diff": "node scripts/visual-diff.mjs",
     "visual:select": "node scripts/visual-diff-select.mjs",
     "visual:all": "npm run visual:worktrees && npm run visual:build && npm run visual:diff",
+    "dom:validate": "tsx scripts/validate-dom.ts",
     "test": "jest --ci"
   },
   "dependencies": {

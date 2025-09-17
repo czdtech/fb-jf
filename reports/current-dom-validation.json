@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-09-17T20:19:20.291Z",
+  "pages": {
+    "/": {
+      "name": "Homepage",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/games/": {
+      "name": "Games List",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/privacy/": {
+      "name": "Privacy Page",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 0,
+          "status": "SKIP",
+          "exempted": true,
+          "reason": "Legal pages are exempt from social share requirements"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/zh/": {
+      "name": "Chinese Homepage",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total": 12,
+    "passed": 11,
+    "failed": 0,
+    "warnings": 1
+  }
+}
