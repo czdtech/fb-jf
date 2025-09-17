@@ -9,6 +9,9 @@ const projectRoot = path.resolve(__dirname, "..");
 const distPath = path.join(projectRoot, "dist");
 const reportPath = path.join(projectRoot, "reports", "baseline");
 
+// 法务页面路径模式（豁免社交分享检查）
+const LEGAL_PAGE_PATTERN = /^\/(?:[a-z]{2}\/)?(?:privacy|terms-of-service)\/$/;
+
 // 守卫规则配置
 const GUARD_RULES = [
   {
@@ -119,6 +122,27 @@ function runGuards() {
     for (const rule of GUARD_RULES) {
       // 检查规则是否适用于当前页面
       if (!rule.pages.some((p) => page.path.startsWith(p))) {
+        continue;
+      }
+
+      // 法务页面豁免社交分享检查
+      if (
+        rule.name === "Social Share Kit" &&
+        LEGAL_PAGE_PATTERN.test(page.path)
+      ) {
+        const result = {
+          rule: rule.name,
+          selector: rule.selector,
+          found: 0,
+          required: false,
+          status: "SKIP",
+          exempted: true,
+          reason: "Legal pages are exempt from social share requirements",
+        };
+        console.log(`  ➖ ${rule.name}: EXEMPTED (legal page)`);
+        results.summary.passed++;
+        results.summary.total++;
+        pageResults.push(result);
         continue;
       }
 
