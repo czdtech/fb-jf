@@ -18,7 +18,7 @@ import {
   LOCALES,
   deriveBaseSlug as extractBaseSlugInternal,
   localizedPath as getGameLocalizedPathInternal,
-} from "./paths.js";
+} from "./paths";
 
 // 为了保持向后兼容，重新导出SUPPORTED_LOCALES
 const SUPPORTED_LOCALES = LOCALES;
@@ -96,40 +96,6 @@ export interface GeneratedUrl {
 }
 
 // ============================================================================
-// 缓存机制
-// ============================================================================
-
-/**
- * URL生成缓存 - 提升批量操作性能
- */
-const urlCache = new Map<string, GeneratedUrl>();
-const cacheKeyPrefix = "url-cache-";
-const maxCacheSize = 1000;
-
-/**
- * 生成缓存键
- */
-function generateCacheKey(
-  gameData: GameUrlData,
-  options: UrlGenerationOptions,
-): string {
-  return `${cacheKeyPrefix}${gameData.baseSlug}-${options.locale}-${options.forceLocalPath ? "1" : "0"}-${options.absolute ? "1" : "0"}`;
-}
-
-/**
- * 清理缓存（LRU策略）
- */
-function cleanupCache(): void {
-  if (urlCache.size > maxCacheSize) {
-    const keysToDelete = Array.from(urlCache.keys()).slice(
-      0,
-      urlCache.size - maxCacheSize + 100,
-    );
-    keysToDelete.forEach((key) => urlCache.delete(key));
-  }
-}
-
-// ============================================================================
 // 工具函数
 // ============================================================================
 
@@ -138,13 +104,6 @@ function cleanupCache(): void {
  */
 function isExternalUrl(url: string): boolean {
   return url.startsWith("http://") || url.startsWith("https://");
-}
-
-/**
- * 检查URL是否为绝对路径
- */
-function isAbsolutePath(url: string): boolean {
-  return url.startsWith("/");
 }
 
 /**
@@ -188,7 +147,6 @@ export class UrlService {
     errors: ValidationError[];
   } {
     const errors: ValidationError[] = [];
-
     // 优先级: game.slug > game.data?.slug > game.id
     const rawSlug =
       game.slug ||
@@ -204,20 +162,6 @@ export class UrlService {
       });
       return { slug: "", errors };
     }
-
-    // 验证slug格式（基本字符检查）
-    if (
-      !/^[a-zA-Z0-9\-_]+$/.test(rawSlug.replace(/^(zh|es|fr|de|ja|ko)-/, ""))
-    ) {
-      errors.push({
-        code: "INVALID_SLUG_FORMAT",
-        message:
-          "Slug contains invalid characters. Only alphanumeric, hyphens, and underscores allowed",
-        field: "slug",
-        value: rawSlug,
-      });
-    }
-
     return { slug: rawSlug, errors };
   }
 
@@ -264,40 +208,12 @@ export class UrlService {
     const errors: ValidationError[] = [];
     const rawUrl = game.url || game.data?.url;
 
-    if (!rawUrl) {
+    if (!rawUrl || typeof rawUrl !== "string") {
       return { directUrl: undefined, errors };
     }
 
-    if (typeof rawUrl !== "string") {
-      errors.push({
-        code: "INVALID_URL_TYPE",
-        message: "URL must be a string",
-        field: "url",
-        value: typeof rawUrl,
-      });
-      return { directUrl: undefined, errors };
-    }
-
+    // 只接受外部HTTP(S)链接作为directUrl
     if (!isExternalUrl(rawUrl)) {
-      errors.push({
-        code: "INVALID_EXTERNAL_URL",
-        message: "URL must be a valid external URL (http:// or https://)",
-        field: "url",
-        value: rawUrl,
-      });
-      return { directUrl: undefined, errors };
-    }
-
-    // 验证URL格式
-    try {
-      new URL(rawUrl);
-    } catch {
-      errors.push({
-        code: "MALFORMED_URL",
-        message: "URL is not properly formatted",
-        field: "url",
-        value: rawUrl,
-      });
       return { directUrl: undefined, errors };
     }
 
@@ -379,96 +295,40 @@ export class UrlService {
     gameData: GameUrlData,
     options: UrlGenerationOptions,
   ): GeneratedUrl {
-    // 1. 验证输入参数
-    if (!gameData || typeof gameData !== "object") {
-      console.error("⚠️ Invalid gameData provided to generateGameUrl");
+    // 如果有directUrl且未强制使用本地路径，直接返回
+    if (gameData.directUrl && !options.forceLocalPath) {
       return {
-        url: "/error/",
-        isExternal: false,
-        isLocalized: false,
-        baseSlug: "error",
-      };
-    }
-
-    if (!options || !options.locale || typeof options.locale !== "string") {
-      console.error("⚠️ Invalid options provided to generateGameUrl");
-      return {
-        url: "/error/",
-        isExternal: false,
-        isLocalized: false,
-        baseSlug: gameData.baseSlug || "error",
-      };
-    }
-
-    // 2. 检查缓存
-    const cacheKey = generateCacheKey(gameData, options);
-    if (urlCache.has(cacheKey)) {
-      return urlCache.get(cacheKey)!;
-    }
-
-    const {
-      locale,
-      forceLocalPath = false,
-      absolute = false,
-      siteUrl = "",
-    } = options;
-    let result: GeneratedUrl;
-
-    try {
-      // 3. 如果有直接URL且未强制使用本地路径，使用直接URL
-      if (gameData.directUrl && !forceLocalPath) {
-        result = {
-          url: gameData.directUrl,
-          isExternal: true,
-          isLocalized: false,
-          baseSlug: gameData.baseSlug,
-        };
-      } else {
-        // 4. 生成本地化路径
-        const localizedPath = getGameLocalizedPathInternal(
-          gameData.baseSlug,
-          locale,
-        );
-
-        // 5. 处理绝对路径
-        let finalUrl = localizedPath;
-        if (absolute && siteUrl) {
-          const cleanSiteUrl = siteUrl.replace(/\/$/, "");
-          finalUrl = `${cleanSiteUrl}${localizedPath}`;
-        }
-
-        result = {
-          url: finalUrl,
-          isExternal: false,
-          isLocalized: locale !== "en",
-          baseSlug: gameData.baseSlug,
-        };
-      }
-
-      // 6. 缓存结果
-      urlCache.set(cacheKey, result);
-      cleanupCache();
-
-      return result;
-    } catch (error) {
-      console.error("🛑 URL generation failed:", {
-        gameData,
-        options,
-        error,
-      });
-
-      // 错误恢复: 返回基本本地URL
-      const fallbackUrl = `/${gameData.baseSlug}/`;
-      result = {
-        url: fallbackUrl,
-        isExternal: false,
+        url: gameData.directUrl,
+        isExternal: true,
         isLocalized: false,
         baseSlug: gameData.baseSlug,
       };
-
-      return result;
     }
+
+    // 使用baseSlug生成本地路径
+    const localeToUse = SUPPORTED_LOCALES.includes(
+      options.locale as (typeof SUPPORTED_LOCALES)[number],
+    )
+      ? options.locale
+      : "en";
+
+    let path = getGameLocalizedPathInternal(gameData.baseSlug, localeToUse);
+
+    // 处理绝对URL
+    if (options.absolute && options.siteUrl) {
+      const siteUrlClean = options.siteUrl.replace(/\/$/, "");
+      const pathClean = path.startsWith("/") ? path : `/${path}`;
+      path = `${siteUrlClean}${pathClean}`;
+    }
+
+    return {
+      url: path,
+      isExternal: false,
+      isLocalized: localeToUse !== "en",
+      baseSlug: gameData.baseSlug,
+    };
   }
+
   /**
    * 便捷方法：从原始游戏对象生成URL
    * 自动处理数据标准化
@@ -516,7 +376,6 @@ export class UrlService {
     options: Partial<UrlGenerationOptions> = {},
   ): Array<{ game: unknown; url: GeneratedUrl; error?: ValidationError }> {
     if (!Array.isArray(games)) {
-      console.error("⚠️ generateBatchUrls expects an array of games");
       return [];
     }
 
@@ -525,69 +384,29 @@ export class UrlService {
       url: GeneratedUrl;
       error?: ValidationError;
     }> = [];
-    const startTime = Date.now();
 
-    for (let i = 0; i < games.length; i++) {
-      const game = games[i];
-
-      try {
-        const url = this.generateFromGame(game, locale, options);
-        results.push({ game, url });
-      } catch (error) {
-        // 错误隔离：单个失败不影响整个批处理
-        const fallbackUrl: GeneratedUrl = {
-          url: "/error/",
-          isExternal: false,
-          isLocalized: false,
-          baseSlug: "batch-error",
-        };
-
-        results.push({
-          game,
-          url: fallbackUrl,
-          error: {
-            code: "BATCH_GENERATION_FAILED",
-            message: "Failed to generate URL in batch operation",
-            value: error,
-          },
-        });
-      }
-    }
-
-    const endTime = Date.now();
-    if (
-      typeof process !== "undefined" &&
-      process.env.NODE_ENV === "development" &&
-      games.length > 100
-    ) {
-      console.log(
-        `🚀 Batch URL generation: ${games.length} games in ${endTime - startTime}ms`,
-      );
+    for (const game of games) {
+      const url = this.generateFromGame(game, locale, options);
+      results.push({ game, url });
     }
 
     return results;
   }
 
   /**
-   * 清理URL缓存 - 用于内存管理
+   * 清理URL缓存 - 保留以保持兼容性
    */
   static clearCache(): void {
-    urlCache.clear();
-    if (
-      typeof process !== "undefined" &&
-      process.env.NODE_ENV === "development"
-    ) {
-      console.log("🧹 URL cache cleared");
-    }
+    // 缓存已移除，方法保留以保持API兼容
   }
 
   /**
-   * 获取缓存统计信息
+   * 获取缓存统计信息 - 保留以保持兼容性
    */
   static getCacheStats(): { size: number; maxSize: number } {
     return {
-      size: urlCache.size,
-      maxSize: maxCacheSize,
+      size: 0,
+      maxSize: 0,
     };
   }
 }
