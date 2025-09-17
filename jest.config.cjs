@@ -1,10 +1,17 @@
 module.exports = {
-  preset: "ts-jest",
+  preset: "ts-jest/presets/default-esm",
   testEnvironment: "jsdom",
+  extensionsToTreatAsEsm: [".ts"],
   roots: ["<rootDir>/src"],
   testMatch: ["**/__tests__/**/*.test.ts", "**/?(*.)+(spec|test).ts"],
   transform: {
-    "^.+\\.ts$": "ts-jest",
+    "^.+\\.ts$": [
+      "ts-jest",
+      {
+        useESM: true,
+        tsconfig: "tsconfig.json",
+      },
+    ],
   },
   collectCoverageFrom: [
     "src/utils/i18n.ts",
@@ -19,11 +26,6 @@ module.exports = {
     "^astro:content$": "<rootDir>/src/utils/__mocks__/astro-content.ts",
   },
   moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json"],
-  globals: {
-    "ts-jest": {
-      tsconfig: "tsconfig.json",
-    },
-  },
   coverageThreshold: {
     global: {
       branches: 75,
