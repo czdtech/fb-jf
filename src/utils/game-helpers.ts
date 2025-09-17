@@ -8,20 +8,55 @@ import { SUPPORTED_LOCALES } from "@/i18n/utils";
 
 /**
  * Get localized game metadata
+ * 优先从 translations[locale] 读取，如果不存在则回退到基础字段
  */
 export function getGameMetadata(
   game: CollectionEntry<"games">,
   locale: string,
 ) {
   const translations = game.data.translations || {};
-  const localizedData = translations[locale] || translations.en || {};
+  const localizedData = translations[locale];
+
+  // 优先使用 translations[locale]，否则回退到基础字段
+  return {
+    title: localizedData?.title || game.data.title,
+    description: localizedData?.description || game.data.description,
+    meta: {
+      title: localizedData?.meta?.title || game.data.meta.title,
+      description:
+        localizedData?.meta?.description || game.data.meta.description,
+      keywords: localizedData?.meta?.keywords || game.data.meta?.keywords || "",
+      canonical: game.data.meta?.canonical,
+      ogImage: game.data.meta?.ogImage,
+    },
+    keywords: localizedData?.meta?.keywords || game.data.meta?.keywords || "",
+  };
+}
+
+/**
+ * 获取游戏的本地化文本（用于页面渲染）
+ */
+export function getLocalizedText(
+  game: CollectionEntry<"games">,
+  locale: string,
+) {
+  const translations = game.data.translations || {};
+  const localizedData = translations[locale];
 
   return {
-    title: localizedData.title || game.data.title,
-    description: localizedData.description || game.data.description,
-    meta: localizedData.meta || game.data.meta || {},
-    keywords: localizedData.meta?.keywords || game.data.meta?.keywords || "",
+    title: localizedData?.title || game.data.title,
+    description: localizedData?.description || game.data.description,
   };
+}
+
+/**
+ * 获取游戏的本地化元数据（新增辅助函数）
+ */
+export function getLocalizedMeta(
+  game: CollectionEntry<"games">,
+  locale: string,
+) {
+  return getGameMetadata(game, locale);
 }
 
 /**
@@ -59,13 +94,13 @@ export async function getRelatedGames(
     })
     .slice(0, limit);
 
-  // Map to localized data
+  // Map to localized data using updated function
   return related.map((game) => {
-    const metadata = getGameMetadata(game, locale);
+    const localizedText = getLocalizedText(game, locale);
     return {
       slug: game.data.slug,
-      title: metadata.title,
-      description: metadata.description,
+      title: localizedText.title,
+      description: localizedText.description,
       image: game.data.image,
       category: game.data.category,
       url:
