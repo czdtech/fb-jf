@@ -4,7 +4,7 @@ global.performance = {
   mark: jest.fn(),
   measure: jest.fn(),
   getEntriesByType: jest.fn(() => []),
-  getEntriesByName: jest.fn(() => [])
+  getEntriesByName: jest.fn(() => []),
 };
 
 // Mock console methods for cleaner test output
@@ -22,22 +22,20 @@ afterAll(() => {
 });
 
 // Mock window.location for URL tests
-Object.defineProperty(window, 'location', {
-  value: {
-    pathname: '/',
-    href: 'https://www.playfiddlebops.com/',
-    origin: 'https://www.playfiddlebops.com'
-  },
-  writable: true
-});
+delete window.location;
+window.location = {
+  pathname: "/",
+  href: "https://www.playfiddlebops.com/",
+  origin: "https://www.playfiddlebops.com",
+};
 
 // Mock process.memoryUsage for performance tests
-if (typeof process !== 'undefined') {
+if (typeof process !== "undefined") {
   process.memoryUsage = jest.fn(() => ({
     rss: 50 * 1024 * 1024,
     heapTotal: 30 * 1024 * 1024,
     heapUsed: 20 * 1024 * 1024,
     external: 5 * 1024 * 1024,
-    arrayBuffers: 1 * 1024 * 1024
+    arrayBuffers: 1 * 1024 * 1024,
   }));
 }
