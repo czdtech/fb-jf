@@ -24,6 +24,7 @@ module.exports = {
   moduleNameMapper: {
     "^@/(.*)$": "<rootDir>/src/$1",
     "^astro:content$": "<rootDir>/src/utils/__mocks__/astro-content.ts",
+    "@/i18n/utils": "<rootDir>/src/i18n/__mocks__/utils.ts",
   },
   moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json"],
   coverageThreshold: {

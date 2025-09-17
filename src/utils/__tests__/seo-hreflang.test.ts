@@ -263,8 +263,9 @@ describe("SEO元数据和hreflang测试", () => {
         // URL应该以/结尾
         expect(link.url.endsWith("/")).toBe(true);
 
-        // URL不应该包含双斜杠
-        expect(link.url).not.toContain("//");
+        // URL不应该包含双斜杠（除了协议部分）
+        const urlWithoutProtocol = link.url.replace(/^https?:\/\//, "");
+        expect(urlWithoutProtocol).not.toContain("//");
 
         // 非英文URL应该包含正确的语言前缀
         if (link.code !== "x-default") {
