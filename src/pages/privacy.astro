@@ -2,6 +2,7 @@
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Navigation from '@/components/Navigation.astro'
 import Footer from '@/components/Footer.astro'
+import LegalPage from '@/components/legal/LegalPage.astro'
 import extractedData from '@/data/extracted-data.json'
 import { getEntry } from 'astro:content'
 import { generateHreflangLinks } from '@/utils/hreflang'
@@ -48,69 +49,11 @@ const meta = {
     currentPath="/privacy/"
   />
 
-  <main class="privacy-page">
-    <!-- Hero Section -->
-    <section class="privacy-hero section">
-      <div class="responsive-container container-narrow">
-        <div class="privacy-hero-content">
-          <!-- 面包屑导航 -->
-          <nav class="breadcrumb" aria-label="面包屑导航">
-            <a href="/" class="breadcrumb-link">
-              <i class="fas fa-home"></i>
-              <span>Home</span>
-            </a>
-            <span class="breadcrumb-separator">></span>
-            <span class="breadcrumb-current">Privacy Policy</span>
-          </nav>
-
-          <h1>Privacy Policy</h1>
-          <p class="hero-description">
-            We respect your privacy and are committed to protecting your personal information.
-            Learn about our data practices and your rights.
-          </p>
-          <div class="last-updated">
-            <i class="fas fa-calendar-alt"></i>
-            <span>Last updated: {privacyData.meta.lastUpdated}</span>
-          </div>
-        </div>
-
-        <!-- 装饰性图标 -->
-        <div class="privacy-icons">
-          <div class="privacy-icon"><i class="fas fa-shield-alt"></i></div>
-          <div class="privacy-icon"><i class="fas fa-lock"></i></div>
-          <div class="privacy-icon"><i class="fas fa-user-shield"></i></div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Privacy Content Section -->
-    <section class="privacy-content section">
-      <div class="responsive-container container-narrow">
-        <div class="content-wrapper">
-
-          <!-- Navigation Menu -->
-          <aside class="privacy-nav glass">
-            <h3>Table of Contents</h3>
-            <ul>
-              {privacyData.tableOfContents.map((item) => (
-                <li><a href={`#${item.id}`}>{item.label}</a></li>
-              ))}
-            </ul>
-          </aside>
-
-          <!-- Main Content -->
-          <article class="privacy-article glass">
-            {privacyData.sections.map((section) => (
-              <section id={section.id}>
-                <h2>{section.title}</h2>
-                <div set:html={section.content} />
-              </section>
-            ))}
-          </article>
-        </div>
-      </div>
-    </section>
-  </main>
+  <LegalPage
+    locale="en"
+    kind="privacy"
+    currentPath="/privacy/"
+  />
 
   <Footer />
 </BaseLayout>

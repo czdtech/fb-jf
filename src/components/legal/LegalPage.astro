@@ -1,0 +1,129 @@
+---
+import { getEntry } from 'astro:content'
+import extractedData from '@/data/extracted-data.json'
+
+export interface Props {
+  locale: string
+  kind: 'privacy' | 'terms'
+  currentPath: string
+}
+
+const { locale, kind, currentPath } = Astro.props
+const { navigation } = extractedData
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const pageData = kind === 'privacy' ? legalContent?.data.privacy : legalContent?.data.terms
+
+if (!pageData) {
+  throw new Error(`${kind} content not found for locale: ${locale}`)
+}
+
+// 决定面包屑文本
+const breadcrumbText = kind === 'privacy' ? 'Privacy Policy' : 'Terms of Service'
+const homeText = locale === 'en' ? 'Home' : navigation.languages.find((l: any) => l.code === locale)?.label || 'Home'
+---
+
+<main class={`${kind}-page`}>
+  <!-- Hero Section -->
+  <section class={`${kind}-hero section`}>
+    <div class="responsive-container container-narrow">
+      <div class={`${kind}-hero-content`}>
+        <!-- 面包屑导航 -->
+        <nav class="breadcrumb" aria-label="面包屑导航">
+          <a href={locale === 'en' ? '/' : `/${locale}/`} class="breadcrumb-link">
+            <i class="fas fa-home"></i>
+            <span>{homeText}</span>
+          </a>
+          <span class="breadcrumb-separator">></span>
+          <span class="breadcrumb-current">{breadcrumbText}</span>
+        </nav>
+
+        <h1>{pageData.title || breadcrumbText}</h1>
+        <p class="hero-description">
+          {kind === 'privacy'
+            ? 'We respect your privacy and are committed to protecting your personal information. Learn about our data practices and your rights.'
+            : 'Please read these terms carefully before using our services.'}
+        </p>
+        <div class="last-updated">
+          <i class="fas fa-calendar-alt"></i>
+          <span>Last updated: {pageData.meta.lastUpdated}</span>
+        </div>
+      </div>
+
+      <!-- 装饰性图标 -->
+      <div class={`${kind}-icons`}>
+        {kind === 'privacy' ? (
+          <>
+            <div class={`${kind}-icon`}><i class="fas fa-shield-alt"></i></div>
+            <div class={`${kind}-icon`}><i class="fas fa-lock"></i></div>
+            <div class={`${kind}-icon`}><i class="fas fa-user-shield"></i></div>
+          </>
+        ) : (
+          <>
+            <div class={`${kind}-icon`}><i class="fas fa-file-contract"></i></div>
+            <div class={`${kind}-icon`}><i class="fas fa-handshake"></i></div>
+            <div class={`${kind}-icon`}><i class="fas fa-balance-scale"></i></div>
+          </>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <!-- Content Section -->
+  <section class={`${kind}-content section`}>
+    <div class="responsive-container container-narrow">
+      <div class="content-wrapper">
+
+        <!-- Navigation Menu -->
+        <aside class={`${kind}-nav glass`}>
+          <h3>Table of Contents</h3>
+          <ul>
+            {pageData.tableOfContents.map((item: any) => (
+              <li><a href={`#${item.id}`}>{item.label}</a></li>
+            ))}
+          </ul>
+        </aside>
+
+        <!-- Main Content -->
+        <div class={`${kind}-main-content glass`}>
+          {pageData.sections.map((section: any) => (
+            <section id={section.id} class={`${kind}-section`}>
+              <h2>{section.title}</h2>
+              {section.content && <div set:html={section.content} />}
+
+              {section.subsections && section.subsections.map((subsection: any) => (
+                <div class={`${kind}-subsection`}>
+                  <h3>{subsection.title}</h3>
+                  {subsection.content && <div set:html={subsection.content} />}
+
+                  {subsection.list && (
+                    <ul class={`${kind}-list`}>
+                      {subsection.list.map((item: string) => (
+                        <li>{item}</li>
+                      ))}
+                    </ul>
+                  )}
+
+                  {subsection.details && subsection.details.map((detail: any) => (
+                    <div class={`${kind}-detail`}>
+                      <h4>{detail.title}</h4>
+                      {detail.content && <p>{detail.content}</p>}
+                      {detail.list && (
+                        <ul>
+                          {detail.list.map((item: string) => (
+                            <li>{item}</li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </section>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
