@@ -39,48 +39,7 @@ export function validateGameObject(game: any): game is GamePageItem {
  * 计算分页元数据并切片游戏数据（已弃用 - 使用 content.ts 中的统一工具）
  * @deprecated 请使用 @/utils/content 中的 getPaginatedGames
  */
-export function calculatePaginationLegacy(
-  games: GamePageItem[], 
-  currentPage: number
-): PaginationResult & { games: GamePageItem[] } {
-  console.warn('使用了已弃用的 pagination.calculatePagination，请迁移到 content.getPaginatedGames');
-  
-  // 重定向到统一工具
-  const { calculatePagination: unifiedCalc } = require('@/utils/content');
-  const result = unifiedCalc(games.length, currentPage);
-  
-  const validGames = games.filter(validateGameObject);
-  const paginatedGames = validGames.slice(result.startIndex, result.endIndex);
-  
-  return {
-    games: paginatedGames,
-    ...result
-  };
-}
-
-/**
- * 按分类筛选游戏（已弃用 - 使用 content.ts 中的统一工具）
- * @deprecated 请使用 @/utils/content 中的 filterGamesByCategory
- */
-export function filterGamesByCategory(
-  games: any[], 
-  category: string
-): GamePageItem[] {
-  console.warn('使用了已弃用的 pagination.filterGamesByCategory，请迁移到 content.filterGamesByCategory');
-  
-  if (!Array.isArray(games)) {
-    console.warn('filterGamesByCategory: games is not an array');
-    return [];
-  }
-  
-  return games.filter((game: any) => {
-    if (!validateGameObject(game)) {
-      console.warn('Invalid game object found:', game);
-      return false;
-    }
-    return game.data.category === category;
-  });
-}
+// 已移除：calculatePaginationLegacy / filterGamesByCategory（统一在 @/utils/content）
 
 /**
  * Generates pagination URLs for navigation using directory-style format
