@@ -217,4 +217,7 @@ const uniqueId = `audio-player-${Math.random().toString(36).slice(2, 11)}`;
   }
 </style>
 
-<script type="module" src={Astro.resolve('@/scripts/audio/player.js')}></script>
+<script type="module" is:inline>
+  import '@/scripts/audio/player.js';
+  void 0;
+</script>

@@ -69,4 +69,7 @@ const { categories = [], totalGames } = Astro.props;
   </div>
 </div>
 
-<script type="module" src={Astro.resolve('@/scripts/games/filters.js')}></script>
+<script type="module" is:inline>
+  import '@/scripts/games/filters.js';
+  void 0;
+  </script>

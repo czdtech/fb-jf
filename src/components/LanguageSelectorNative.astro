@@ -93,4 +93,7 @@ const { currentLang, languages, className = "", ariaLabel = "Language" } = Astro
   }
 </style>
 
-<script type="module" src={Astro.resolve('@/scripts/lang-selector.js')}></script>
+<script type="module" is:inline>
+  import '@/scripts/lang-selector.js';
+  void 0;
+</script>

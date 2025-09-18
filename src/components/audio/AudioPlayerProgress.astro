@@ -102,4 +102,7 @@ const {
   }
 </style>
 
-<script type="module" src={Astro.resolve('@/scripts/audio/progress-fallback.js')}></script>
+<script type="module" is:inline>
+  import '@/scripts/audio/progress-fallback.js';
+  void 0;
+</script>
