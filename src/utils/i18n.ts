@@ -137,54 +137,27 @@ export async function getLocalizedGameContent(
       );
     }
 
-    let localizedGame: CollectionEntry<"games"> | undefined;
+    // 查找英文基线游戏（支持根目录和 en/ 前缀的兼容性）
+    const englishGame = games.find((game) => {
+      const gameId = game.id.replace(/\.md$/, "");
+      if (gameId === baseSlug) return true;
+      if (gameId === `en/${baseSlug}`) return true;
+      return false;
+    });
 
-    if (locale === "en") {
-      // 英文游戏：在根目录，或历史数据中使用 en/<slug> 的形式
-      localizedGame = games.find((game) => {
-        const gameId = game.id.replace(/\.md$/, "");
-        if (gameId === baseSlug) return true;
-        if (gameId === `en/${baseSlug}`) return true;
-        return false;
-      });
-    } else {
-      // 其他语言游戏：在语言子目录中，使用 {locale}/{baseSlug} 格式
-      const expectedPath = `${locale}/${baseSlug}`;
-      localizedGame = games.find((game) => {
-        const gameId = game.id.replace(/\.md$/, "");
-        const gameSlug = game.data.slug;
-
-        // 匹配文件路径或slug
-        return gameId === expectedPath || gameSlug === `${locale}-${baseSlug}`;
-      });
-    }
-
-    if (localizedGame) {
+    if (englishGame) {
       if (__IS_DEV__) {
-        console.log(`✅ Found localized game for ${locale}: ${localizedGame.id}`);
-        console.log(`📝 Game title: "${localizedGame.data.title}"`);
+        if (locale === "en") {
+          console.log(`✅ Found English game: ${englishGame.id}`);
+        } else {
+          console.log(`✅ Using English baseline with translations for ${locale}: ${englishGame.id}`);
+        }
+        console.log(`📝 Game title: "${englishGame.data.title}"`);
         console.log(
-          `📝 Game description: "${localizedGame.data.description?.substring(0, 100)}..."`,
+          `📝 Game description: "${englishGame.data.description?.substring(0, 100)}..."`,
         );
       }
-      return localizedGame;
-    }
-
-    // Fallback到英文内容
-    if (locale !== "en") {
-      if (__IS_DEV__) {
-        console.log(
-          `⚠️ No ${locale} version found, falling back to English for: ${baseSlug}`,
-        );
-      }
-      const englishGame = games.find((game) => {
-        const gameId = game.id.replace(/\.md$/, "");
-        return gameId === baseSlug || gameId === `en/${baseSlug}`;
-      });
-      if (englishGame && __IS_DEV__) {
-        console.log(`✅ Found English fallback: ${englishGame.id}`);
-      }
-      return englishGame || null;
+      return englishGame;
     }
 
     if (__IS_DEV__) {
