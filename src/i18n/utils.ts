@@ -78,7 +78,7 @@ export async function getTranslation(locale: SupportedLocale, key?: string) {
 
       // 如果指定了key，返回特定的翻译项
       if (key) {
-        const value = getNestedProperty(translationData, key);
+        const value = getProp<typeof translationData>(translationData, key);
         if (value !== undefined) {
           return value;
         }
@@ -114,7 +114,7 @@ export async function getTranslation(locale: SupportedLocale, key?: string) {
         const fallbackData = fallbackEntry.data;
 
         if (key) {
-          const value = getNestedProperty(fallbackData, key);
+          const value = getProp<typeof fallbackData>(fallbackData, key);
           if (value !== undefined) {
             return value;
           }
@@ -260,11 +260,7 @@ function throwTranslationError(
 /**
  * @deprecated Use getProp<T>(obj, path) which returns unknown with better typing
  */
-function getNestedProperty(obj: any, path: string): any {
-  return path.split(".").reduce((current, key) => {
-    return current && current[key] !== undefined ? current[key] : undefined;
-  }, obj);
-}
+// Removed deprecated getNestedProperty; use getProp<T>() instead.
 
 // Typed helper: returns unknown to avoid any-bleed
 export function getProp<T extends object>(obj: T, path: string): unknown {
