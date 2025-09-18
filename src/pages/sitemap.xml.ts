@@ -1,12 +1,11 @@
 import { getCollection } from "astro:content";
 import process from "node:process";
+import { getSiteUrl } from "@/utils/site";
 import { SUPPORTED_LOCALES } from "@/i18n/utils";
 
 // AURA-X: Add - 动态 Sitemap 生成（覆盖多语言首页、游戏列表分页、游戏详情）。Confirmed via 寸止。
 export async function GET() {
-  const SITE_URL = (
-    process?.env?.PUBLIC_SITE_URL || "https://www.playfiddlebops.com"
-  ).replace(/\/$/, "");
+  const SITE_URL = getSiteUrl();
 
   // 语言首页：统一来源
   const langCodes = SUPPORTED_LOCALES;
