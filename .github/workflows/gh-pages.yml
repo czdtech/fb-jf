@@ -45,6 +45,12 @@ jobs:
           # 生产站点 URL（PR 预览也沿用此域，仅用于生成 canonical/hreflang，不影响预览域）
           PUBLIC_SITE_URL: https://www.playfiddlebops.com
 
+      - name: Start preview server
+        run: nohup npm run preview >/dev/null 2>&1 & sleep 2
+
+      - name: DOM validation (preview)
+        run: npm run dom:validate
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

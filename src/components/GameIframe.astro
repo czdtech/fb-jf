@@ -1,5 +1,6 @@
 ---
 import type { Game } from '@/types';
+import { computeSandboxValue } from '@/utils/iframe-security';
 
 export interface Props {
   game?: Game;
@@ -25,30 +26,7 @@ const {
 
 // 安全策略：B 模式（白名单动态放宽）
 // 默认 sandbox 仅包含必要权限；仅当 src 主机名命中白名单时，追加 allow-same-origin
-const iframeWhitelistHosts = [
-  "turbowarp.org",
-  "minijuegos.com",
-  "kdata1.com",
-  // 放宽至所有 Netlify 预览/部署子域
-  "netlify.app",
-];
-
-function isHostnameWhitelisted(urlString: string): boolean {
-  try {
-    if (!urlString) return false;
-    const hostname = new URL(urlString).hostname;
-    return iframeWhitelistHosts.some(
-      (allowed) => hostname === allowed || hostname.endsWith(`.${allowed}`)
-    );
-  } catch {
-    return false;
-  }
-}
-
-const sandboxBase = "allow-scripts allow-forms allow-popups allow-presentation";
-const sandboxValue = isHostnameWhitelisted(src)
-  ? `${sandboxBase} allow-same-origin`
-  : sandboxBase;
+const sandboxValue = computeSandboxValue(src);
 
 // 根据 autoLoad 调整初始样式：
 // - autoLoad: 直接可交互显示
