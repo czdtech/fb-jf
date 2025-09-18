@@ -1,6 +1,11 @@
 import { getCollection, type CollectionEntry } from "astro:content";
 import { SUPPORTED_LOCALES } from "@/i18n/utils";
 
+// Development-only logging flag (avoids import.meta in tests)
+const __IS_DEV__ =
+  (typeof process !== "undefined" && process.env && process.env.NODE_ENV !== "production") ||
+  false;
+
 /**
  * 获取本地化的游戏列表，优先使用指定语言版本
  * 修复：基于统一的slug格式 {locale}/{game-name} 来识别语言
@@ -28,20 +33,21 @@ export async function getLocalizedGamesList(locale: string = "en") {
         return isRootGame && isNotTestGame && !hasLanguagePrefix;
       });
 
-      // Debug: 显示前5个游戏ID结构
-      console.log(`🔍 Sample game IDs (first 5):`);
-      allGames.slice(0, 5).forEach((game) => {
-        const gameId = game.id.replace(/\.md$/, "");
-        console.log(
-          `  - ${game.id} => ${gameId} (includes '/'? ${gameId.includes("/")})`,
-        );
-      });
-
-      // Debug: 显示过滤后的前5个英文游戏
-      console.log(`🎮 Filtered English games (first 5):`);
-      currentLocaleGames.slice(0, 5).forEach((game) => {
-        console.log(`  - ${game.id}`);
-      });
+      if (__IS_DEV__) {
+        // Debug: 显示前5个游戏ID结构
+        console.log(`🔍 Sample game IDs (first 5):`);
+        allGames.slice(0, 5).forEach((game) => {
+          const gameId = game.id.replace(/\.md$/, "");
+          console.log(
+            `  - ${game.id} => ${gameId} (includes '/'? ${gameId.includes("/")})`,
+          );
+        });
+        // Debug: 显示过滤后的前5个英文游戏
+        console.log(`🎮 Filtered English games (first 5):`);
+        currentLocaleGames.slice(0, 5).forEach((game) => {
+          console.log(`  - ${game.id}`);
+        });
+      }
     } else {
       // 其他语言游戏: Astro将zh/file.md处理为zh-file的ID格式
       currentLocaleGames = allGames.filter((game) => {
@@ -51,19 +57,25 @@ export async function getLocalizedGamesList(locale: string = "en") {
       });
     }
 
-    console.log(
-      `🔍 Found ${currentLocaleGames.length} games for locale: ${locale}`,
-    );
-    console.log(`📊 Total games in collection: ${allGames.length}`);
+    if (__IS_DEV__) {
+      console.log(
+        `🔍 Found ${currentLocaleGames.length} games for locale: ${locale}`,
+      );
+      console.log(`📊 Total games in collection: ${allGames.length}`);
+    }
 
     // 仅在真正没有找到游戏时才fallback，并输出调试信息
     if (currentLocaleGames.length === 0 && locale !== "en") {
-      console.log(`⚠️ No games found for ${locale}, fallback to English`);
+      if (__IS_DEV__) {
+        console.log(`⚠️ No games found for ${locale}, fallback to English`);
+      }
       const englishGames = allGames.filter((game) => {
         const gameId = game.id.replace(/\.md$/, "");
         return !gameId.includes("/");
       });
-      console.log(`📊 Using ${englishGames.length} English games as fallback`);
+      if (__IS_DEV__) {
+        console.log(`📊 Using ${englishGames.length} English games as fallback`);
+      }
 
       // P1-5: 即使是fallback，也应用translations覆盖
       return englishGames.map((game) => {
@@ -98,7 +110,12 @@ export async function getLocalizedGamesList(locale: string = "en") {
       };
     });
   } catch (error) {
-    console.error(`Failed to load localized games list for ${locale}:`, error);
+    if (__IS_DEV__) {
+      console.error(
+        `Failed to load localized games list for ${locale}:`,
+        error,
+      );
+    }
     return [];
   }
 }
@@ -114,17 +131,21 @@ export async function getLocalizedGameContent(
   try {
     const games = await getCollection("games");
 
-    console.log(
-      `🔍 Looking for game with baseSlug: ${baseSlug}, locale: ${locale}`,
-    );
+    if (__IS_DEV__) {
+      console.log(
+        `🔍 Looking for game with baseSlug: ${baseSlug}, locale: ${locale}`,
+      );
+    }
 
     let localizedGame: CollectionEntry<"games"> | undefined;
 
     if (locale === "en") {
-      // 英文游戏：在根目录，直接使用baseSlug
+      // 英文游戏：在根目录，或历史数据中使用 en/<slug> 的形式
       localizedGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        return gameId === baseSlug;
+        if (gameId === baseSlug) return true;
+        if (gameId === `en/${baseSlug}`) return true;
+        return false;
       });
     } else {
       // 其他语言游戏：在语言子目录中，使用 {locale}/{baseSlug} 格式
@@ -139,38 +160,46 @@ export async function getLocalizedGameContent(
     }
 
     if (localizedGame) {
-      console.log(`✅ Found localized game for ${locale}: ${localizedGame.id}`);
-      console.log(`📝 Game title: "${localizedGame.data.title}"`);
-      console.log(
-        `📝 Game description: "${localizedGame.data.description?.substring(0, 100)}..."`,
-      );
+      if (__IS_DEV__) {
+        console.log(`✅ Found localized game for ${locale}: ${localizedGame.id}`);
+        console.log(`📝 Game title: "${localizedGame.data.title}"`);
+        console.log(
+          `📝 Game description: "${localizedGame.data.description?.substring(0, 100)}..."`,
+        );
+      }
       return localizedGame;
     }
 
     // Fallback到英文内容
     if (locale !== "en") {
-      console.log(
-        `⚠️ No ${locale} version found, falling back to English for: ${baseSlug}`,
-      );
+      if (__IS_DEV__) {
+        console.log(
+          `⚠️ No ${locale} version found, falling back to English for: ${baseSlug}`,
+        );
+      }
       const englishGame = games.find((game) => {
         const gameId = game.id.replace(/\.md$/, "");
-        return gameId === baseSlug;
+        return gameId === baseSlug || gameId === `en/${baseSlug}`;
       });
-      if (englishGame) {
+      if (englishGame && __IS_DEV__) {
         console.log(`✅ Found English fallback: ${englishGame.id}`);
       }
       return englishGame || null;
     }
 
-    console.log(
-      `❌ No game found for baseSlug: ${baseSlug}, locale: ${locale}`,
-    );
+    if (__IS_DEV__) {
+      console.log(
+        `❌ No game found for baseSlug: ${baseSlug}, locale: ${locale}`,
+      );
+    }
     return null;
   } catch (error) {
-    console.error(
-      `Failed to load game content for ${baseSlug} in ${locale}:`,
-      error,
-    );
+    if (__IS_DEV__) {
+      console.error(
+        `Failed to load game content for ${baseSlug} in ${locale}:`,
+        error,
+      );
+    }
     return null;
   }
 }
@@ -233,7 +262,8 @@ export async function generateEnglishGamePaths(): Promise<
   // 处理英文游戏
   for (const game of englishGames) {
     // 英文游戏的slug就是基础slug（不带语言前缀）
-    const baseSlug = game.data.slug || game.id.replace(/\.md$/, "");
+    const rawSlug = game.data.slug || game.id.replace(/\.md$/, "");
+    const baseSlug = rawSlug.split("/").pop()!;
 
     if (baseSlug) {
       paths.push({
@@ -246,7 +276,9 @@ export async function generateEnglishGamePaths(): Promise<
     }
   }
 
-  console.log(`📊 Generated ${paths.length} English game paths`);
+  if (__IS_DEV__) {
+    console.log(`📊 Generated ${paths.length} English game paths`);
+  }
   return paths;
 }
 
@@ -396,8 +428,8 @@ export async function generateAllLocalesGamePaths(): Promise<
 
     // 为每个英文游戏生成对应语言路径
     for (const englishGame of englishGames) {
-      const baseSlug =
-        englishGame.data.slug || englishGame.id.replace(/\.md$/, "");
+      const raw = englishGame.data.slug || englishGame.id.replace(/\.md$/, "");
+      const baseSlug = raw.split("/").pop()!;
 
       // 查找对应的本地化游戏（通过基础文件名匹配）
       const englishFileName = englishGame.id.replace(/\.md$/, "");

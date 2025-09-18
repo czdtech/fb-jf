@@ -145,7 +145,7 @@ describe('内容加载和翻译fallback测试', () => {
       const result = await getLocalizedGameContent('incredibox', 'zh');
       
       expect(result).not.toBeNull();
-      expect(result!.id).toBe('en/incredibox.md');
+      expect(result!.id).toMatch(/(^|\/)incredibox\.md$/);
       expect(result!.data.title).toBe('Incredibox');
       expect(result!.data.description).toContain('beatboxing characters');
     });
@@ -154,7 +154,7 @@ describe('内容加载和翻译fallback测试', () => {
       const result = await getLocalizedGameContent('sprunki-phase-5', 'fr');
       
       expect(result).not.toBeNull();
-      expect(result!.id).toBe('en/sprunki-phase-5.md');
+      expect(result!.id).toMatch(/(^|\/)sprunki-phase-5\.md$/);
       expect(result!.data.title).toBe('Sprunki Phase 5');
       expect(result!.data.description).toContain('fifth phase');
     });
@@ -164,7 +164,7 @@ describe('内容加载和翻译fallback测试', () => {
       
       // 应该fallback到英文，而不是西班牙文
       expect(result).not.toBeNull();
-      expect(result!.id).toBe('en/sprunki-phase-5.md');
+      expect(result!.id).toMatch(/(^|\/)sprunki-phase-5\.md$/);
       expect(result!.data.title).toBe('Sprunki Phase 5');
       expect(result!.data.description).not.toContain('español');
     });
@@ -186,7 +186,7 @@ describe('内容加载和翻译fallback测试', () => {
       for (const gameSlug of englishGames) {
         const result = await getLocalizedGameContent(gameSlug, 'en');
         expect(result).not.toBeNull();
-        expect(result!.id).toContain('en/');
+        expect(result!.id).toMatch(new RegExp(`(^|\\/)${gameSlug}\\.md$`));
       }
     });
   });

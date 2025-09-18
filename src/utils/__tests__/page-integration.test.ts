@@ -123,7 +123,7 @@ const mockRelatedGames = [
     title: 'Sprunki Phase 5',
     description: 'Latest phase',
     image: '/sprunki-phase-5.png',
-    category: 'popular'
+    category: 'trending'
   }
 ];
 

@@ -52,22 +52,104 @@ const gamesCollection = defineCollection({
         .optional(),
       pageType: z.string().optional(),
       isDemo: z.boolean().optional(),
-      // 新增可选的多语言翻译字段
+      // 新增可选的多语言翻译字段（严格限定到受支持的语言集合）
+      // 说明：使用局部对象而非 record(z.string())，以避免出现非受控的语言键。
+      // 该结构完全可选，并保持向后兼容。
       translations: z
-        .record(
-          z.string(), // locale key
-          z.object({
-            title: z.string().optional(),
-            description: z.string().optional(),
-            meta: z
-              .object({
-                title: z.string().optional(),
-                description: z.string().optional(),
-                keywords: z.string().optional(),
-              })
-              .optional(),
-          }),
-        )
+        .object({
+          en: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          zh: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          es: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          fr: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          de: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          ja: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          ko: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+        })
+        .partial()
         .optional(),
     })
     .passthrough(),

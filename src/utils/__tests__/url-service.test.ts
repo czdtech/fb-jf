@@ -378,6 +378,7 @@ describe("validateGameData", () => {
   it("应该验证外部URL格式", () => {
     const gameWithInvalidUrl = {
       slug: "test",
+      title: "Test",
       url: "/local/path",
     };
 

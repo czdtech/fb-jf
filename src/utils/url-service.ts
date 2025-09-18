@@ -493,26 +493,27 @@ export function validateGameData(game: unknown): {
       });
     }
 
-    if (normalizedData.directUrl) {
+  if (normalizedData.directUrl) {
       try {
-        new URL(normalizedData.directUrl);
+        // 允许本地路径作为“非外链”存在：不计为错误，仅不会作为 directUrl 使用
+        // 仅当提供的是外链且格式非法时，才认定为错误
+        new URL(normalizedData.directUrl, 'https://dummy.local');
         if (!isExternalUrl(normalizedData.directUrl)) {
-          issues.push("directUrl is not a valid external URL");
+          // 本地/相对路径：不视为错误（调用方会忽略 directUrl）
+        } else {
+          // 外链但协议正确；通过
+        }
+      } catch {
+        // 确认是外链且格式非法时才报错；相对路径不报错
+        if (isExternalUrl(normalizedData.directUrl)) {
+          issues.push("directUrl is malformed");
           errors.push({
-            code: "INVALID_EXTERNAL_URL",
-            message: "directUrl must be an external HTTP(S) URL",
+            code: "MALFORMED_URL",
+            message: "directUrl is not a valid URL format",
             field: "directUrl",
             value: normalizedData.directUrl,
           });
         }
-      } catch {
-        issues.push("directUrl is malformed");
-        errors.push({
-          code: "MALFORMED_URL",
-          message: "directUrl is not a valid URL format",
-          field: "directUrl",
-          value: normalizedData.directUrl,
-        });
       }
     }
 

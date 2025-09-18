@@ -15,7 +15,7 @@ import { getCollection } from 'astro:content';
 import { getTranslation, SUPPORTED_LOCALES, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
 import { getLocalizedGamesList } from '@/utils/i18n';
 import { getAbsoluteLocaleUrl } from 'astro:i18n';
-import { generateHomeHreflangLinks } from '@/utils/hreflang';
+import { generateHreflangLinks } from '@/utils/hreflang';
 import extractedData from '@/data/extracted-data.json';
 import { HOMEPAGE_GAME_COUNTS } from '@/config/game-config';
 
@@ -62,7 +62,7 @@ const languages = Object.entries(LOCALE_NAMES).map(([code, label]) => ({
   label,
   url: ''
 }));
-const hreflangLinks = generateHomeHreflangLinks(languages as any, SITE_URL);
+const hreflangLinks = generateHreflangLinks(languages as any, '/', SITE_URL);
 
 // 构建页面meta数据
 const pageMeta = {
