@@ -18,8 +18,8 @@ const {
   currentPath = '/'
 } = Astro.props;
 
-// 生成默认导航链接，使用Astro官方i18n系统
-const buildLocaleUrl = (locale: string, path: string): string => {
+// 使用 Astro 官方 i18n 生成链接，并规范为以斜杠结尾
+const normalizeUrl = (locale: string, path: string): string => {
   const url = getRelativeLocaleUrl(locale, path);
   return url.endsWith('/') ? url : `${url}/`;
 };
@@ -28,23 +28,23 @@ const buildLocaleUrl = (locale: string, path: string): string => {
 const navItems = navigation || [
   {
     label: 'Home',
-    url: buildLocaleUrl(currentLang, '/'),
+    url: normalizeUrl(currentLang, '/'),
   },
   {
     label: 'All Games',
-    url: buildLocaleUrl(currentLang, '/games'),
+    url: normalizeUrl(currentLang, '/games'),
   },
   {
     label: 'New Games',
-    url: buildLocaleUrl(currentLang, '/new-games'),
+    url: normalizeUrl(currentLang, '/new-games'),
   },
   {
     label: 'Popular',
-    url: buildLocaleUrl(currentLang, '/popular-games'),
+    url: normalizeUrl(currentLang, '/popular-games'),
   },
   {
     label: 'Trending',
-    url: buildLocaleUrl(currentLang, '/trending-games'),
+    url: normalizeUrl(currentLang, '/trending-games'),
   },
 ];
 
@@ -76,7 +76,7 @@ const isActive = (url: string): boolean => {
       <div class="flex items-center flex-1">
         <div class="flex items-center space-x-6">
           <a
-            href={buildLocaleUrl(currentLang, '/')}
+            href={normalizeUrl(currentLang, '/')}
             class="flex items-center space-x-2 group"
           >
             <svg
