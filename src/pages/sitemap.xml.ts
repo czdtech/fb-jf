@@ -60,22 +60,33 @@ export async function GET() {
     }
   }
 
-  // 游戏详情页（所有存在的翻译版本都输出）
-  for (const game of games) {
-    const gameId = game.id.replace(/\.md$/, ""); // e.g. 'en/sprunki-retake'
-    const [localePrefix, slug] = gameId.split("/");
-    const normalizedSlug = slug || (game.slug ? game.slug.replace(/\/$/, "") : gameId);
-    const isEnglish = localePrefix === "en" || !slug;
+  // 游戏详情页（基于英文基线生成所有语言版本）
+  // 获取英文基线游戏（不含 '/' 的是英文）
+  const englishGames = games.filter((game) => {
+    const gameId = game.id.replace(/\.md$/, "");
+    return !gameId.includes("/") || gameId.startsWith("en/");
+  });
 
-    const loc = isEnglish
-      ? `${SITE_URL}/${normalizedSlug}/`
-      : `${SITE_URL}/${localePrefix}/${normalizedSlug}/`;
+  // 对每个英文游戏，生成所有语言的 URL
+  for (const game of englishGames) {
+    const gameId = game.id.replace(/\.md$/, "");
+    // 处理 en/ 前缀的情况
+    const baseSlug = gameId.startsWith("en/") ? gameId.substring(3) : gameId;
 
     const lastmod =
       (game.data?.updated as string) ||
       (game.data?.lastUpdated as string) ||
       undefined;
-    urls.push({ loc, lastmod, changefreq: "weekly", priority: "0.8" });
+
+    // 生成所有语言版本的 URL
+    for (const locale of langCodes) {
+      const loc =
+        locale === "en"
+          ? `${SITE_URL}/${baseSlug}/`
+          : `${SITE_URL}/${locale}/${baseSlug}/`;
+
+      urls.push({ loc, lastmod, changefreq: "weekly", priority: "0.8" });
+    }
   }
 
   const body =
