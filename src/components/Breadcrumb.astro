@@ -1,9 +1,11 @@
 ---
+import { getRelativeLocaleUrl } from 'astro:i18n'
 export interface Props {
   breadcrumb: string;
 }
 
 const { breadcrumb } = Astro.props;
+const currentLocale = (Astro.currentLocale as any) || 'en';
 
 // 解析面包屑字符串 "home > Game Name"
 const parts = breadcrumb.split(' > ').map(part => part.trim());
@@ -13,7 +15,7 @@ const parts = breadcrumb.split(' > ').map(part => part.trim());
   {parts.map((part, index) => (
     <>
       {index === 0 ? (
-        <a href="/" style="float:left;">{part}</a>
+        <a href={getRelativeLocaleUrl(currentLocale, '/')} style="float:left;">{part}</a>
       ) : (
         <span>{part}</span>
       )}
