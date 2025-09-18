@@ -70,7 +70,9 @@ export async function getStaticPaths() {
         });
       }
     } catch (error) {
-      console.error(`Error generating ja paths for ${slug}:`, error);
+      if (import.meta.env.DEV) {
+        console.error(`Error generating ja paths for ${slug}:`, error);
+      }
     }
   }
 
@@ -123,6 +125,7 @@ const seoUrls = generateSEOPagination(`/${slug}`, pageNumber, paginationResult.t
 // 调试信息（开发环境）
 if (import.meta.env.DEV) {
   console.log(`[ja/${slug}] currentLocale: ${currentLocale}`);
+}
   console.log(`[ja/${slug}] totalGames: ${totalGames}`);
   console.log(`[ja/${slug}] pageNumber: ${pageNumber}`);
   console.log(`[ja/${slug}] currentPage: ${paginationResult.currentPage}`);

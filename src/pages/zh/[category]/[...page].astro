@@ -24,10 +24,10 @@ const currentLocale: SupportedLocale = 'zh';
 export async function getStaticPaths() {
   const GAME_CATEGORIES = {
     POPULAR: 'popular',
-    TRENDING: 'trending', 
+    TRENDING: 'trending',
     NEW: 'new',
   };
-  
+
   const categories = [
     { slug: 'popular-games', category: GAME_CATEGORIES.POPULAR },
     { slug: 'trending-games', category: GAME_CATEGORIES.TRENDING },
@@ -43,7 +43,7 @@ export async function getStaticPaths() {
       const zhGames = filterGamesByLanguage(allGames, 'zh');
       const categoryGames = filterGamesByCategory(zhGames, category);
       const validGames = categoryGames.filter(validateGameData);
-      
+
       // 使用统一工具获取分页信息
       const paginationData = getPaginatedGames(validGames);
       const totalPages = Math.max(1, paginationData.totalPages);
@@ -52,10 +52,10 @@ export async function getStaticPaths() {
       for (let page = 1; page <= totalPages; page++) {
         // 获取特定页面的数据
         const pageData = getPaginatedGames(validGames, page);
-        
+
         paths.push({
-          params: { 
-            category: slug, 
+          params: {
+            category: slug,
             page: page === 1 ? undefined : page.toString()
           },
           props: {
@@ -70,7 +70,9 @@ export async function getStaticPaths() {
         });
       }
     } catch (error) {
-      console.error(`Error generating zh paths for ${slug}:`, error);
+      if (import.meta.env.DEV) {
+        console.error(`Error generating zh paths for ${slug}:`, error);
+      }
     }
   }
 
@@ -131,7 +133,7 @@ if (import.meta.env.DEV) {
 
 // SEO配置
 const meta = {
-  title: pageNumber === 1 
+  title: pageNumber === 1
     ? `${categoryTitle} - Fiddlebops`
     : `${categoryTitle} - 第${pageNumber}页 - Fiddlebops`,
   description: `${categoryTitle} - ${pageNumber === 1 ? '' : `第${pageNumber}页 - `}Fiddlebops`,
@@ -143,23 +145,23 @@ const meta = {
 };
 ---
 
-<BaseLayout 
+<BaseLayout
   meta={meta}
   lang={currentLocale}
 >
-  <Navigation 
-    navigation={navigation.main} 
+  <Navigation
+    navigation={navigation.main}
     currentLocale={currentLocale}
   />
-  
+
   <main class="main">
     <div class="container">
       <h1 class="page-title">
         {categoryTitle}
       </h1>
-      
+
       {paginationResult.isEmpty ? (
-        <EmptyState 
+        <EmptyState
           category={category}
           title={`没有找到${categoryTitle}`}
           description={`目前没有可用的${categoryTitle.toLowerCase()}。请稍后再查看或浏览其他分类。`}
@@ -168,13 +170,13 @@ const meta = {
         />
       ) : (
         <>
-          <GamesList 
+          <GamesList
             games={paginationResult.games}
             currentLocale={currentLocale}
           />
-          
+
           {paginationResult.totalPages > 1 && (
-            <UnifiedPagination 
+            <UnifiedPagination
               currentPage={paginationResult.currentPage}
               totalPages={paginationResult.totalPages}
               basePath={`/${slug}`}
@@ -186,7 +188,7 @@ const meta = {
       )}
     </div>
   </main>
-  
+
   <Footer currentLocale={currentLocale} />
 </BaseLayout>
 

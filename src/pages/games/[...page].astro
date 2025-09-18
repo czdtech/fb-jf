@@ -39,15 +39,15 @@ interface GamePageItem {
 export async function getStaticPaths() {
   // 直接在函数内定义当前语言
   const locale: SupportedLocale = 'en';
-  
+
   // 获取英文游戏列表
   const localizedGames = await getLocalizedGamesList(locale);
-  
+
   // 格式化游戏数据
   const formattedGames: GamePageItem[] = localizedGames.map((game: any) => {
     const normalizedData = UrlService.normalizeGameData(game);
     const baseSlug = normalizedData.baseSlug;
-    
+
     return {
       slug: baseSlug,
       url: `/${baseSlug}/`, // 英文游戏无语言前缀
@@ -110,7 +110,9 @@ export async function getStaticPaths() {
     });
   }
 
-  console.log(`📊 Generated ${totalPages} English pages with ${totalGames} games for /games/`);
+  if (import.meta.env.DEV) {
+    console.log(`📊 Generated ${totalPages} English pages with ${totalGames} games for /games/`);
+  }
   return paths;
 }
 
@@ -131,7 +133,9 @@ const { page, allGames, locale } = Astro.props as {
   locale: string;
 };
 
-console.log(`🔍 Processing English games page: /games/, page: ${page.currentPage}`);
+if (import.meta.env.DEV) {
+  console.log(`🔍 Processing English games page: /games/, page: ${page.currentPage}`);
+}
 
 // 获取英文翻译
 const translation = await getTranslation(currentLocale);
@@ -194,20 +198,20 @@ const structuredData = {
 };
 
 // 游戏展示数据格式化
-const displayGames = page.data.map((g: any) => ({ 
-  id: g.slug, 
-  slug: g.slug, 
-  title: g.title, 
-  description: g.description || '', 
-  image: g.imageUrl, 
-  iframe: g.iframe || '', 
-  category: g.category || 'popular', 
-  meta: { 
-    title: g.title, 
-    description: g.description || '', 
-    canonical: g.url, 
-    ogImage: g.imageUrl 
-  } 
+const displayGames = page.data.map((g: any) => ({
+  id: g.slug,
+  slug: g.slug,
+  title: g.title,
+  description: g.description || '',
+  image: g.imageUrl,
+  iframe: g.iframe || '',
+  category: g.category || 'popular',
+  meta: {
+    title: g.title,
+    description: g.description || '',
+    canonical: g.url,
+    ogImage: g.imageUrl
+  }
 }));
 ---
 
@@ -229,13 +233,13 @@ const displayGames = page.data.map((g: any) => ({
     <GamesHero
       pageTotal={page.total}
       pageCount={page.lastPage}
-      breadcrumbs={{ 
-        home: ui.navigation?.home || 'Home', 
-        current: ui.navigation?.allGames || 'All Games' 
+      breadcrumbs={{
+        home: ui.navigation?.home || 'Home',
+        current: ui.navigation?.allGames || 'All Games'
       }}
-      title={{ 
-        main: 'All', 
-        accent: ui.navigation?.games || 'Games' 
+      title={{
+        main: 'All',
+        accent: ui.navigation?.games || 'Games'
       }}
       subtitle={ui.hero?.subtitle || `${page.total} amazing music creation experiences`}
     />

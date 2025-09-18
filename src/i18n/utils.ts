@@ -34,7 +34,9 @@ export function getCurrentLocale(url: URL): SupportedLocale {
 
     return DEFAULT_LOCALE;
   } catch (error) {
-    console.warn("Failed to parse current locale from URL", error);
+    if (__IS_DEV__) {
+      console.warn("Failed to parse current locale from URL", error);
+    }
     return DEFAULT_LOCALE;
   }
 }
@@ -42,7 +44,7 @@ export function getCurrentLocale(url: URL): SupportedLocale {
 // 获取本地化路径
 export function getLocalizedPath(
   locale: SupportedLocale,
-  path: string = ""
+  path: string = "",
 ): string {
   if (locale === DEFAULT_LOCALE) {
     return path || "/";
@@ -89,7 +91,12 @@ export async function getTranslation(locale: SupportedLocale, key?: string) {
   } catch (error) {
     // 只在开发环境显示详细错误信息
     if (import.meta.env.DEV) {
-      console.warn(`Failed to load translations for locale "${locale}":`, error);
+      if (__IS_DEV__) {
+        console.warn(
+          `Failed to load translations for locale "${locale}":`,
+          error,
+        );
+      }
     }
   }
 
@@ -98,7 +105,7 @@ export async function getTranslation(locale: SupportedLocale, key?: string) {
     try {
       const fallbackUI = await getCollection("i18nUI");
       const fallbackEntry = fallbackUI.find(
-        (entry) => entry.id === DEFAULT_LOCALE
+        (entry) => entry.id === DEFAULT_LOCALE,
       );
 
       if (fallbackEntry) {
@@ -120,7 +127,9 @@ export async function getTranslation(locale: SupportedLocale, key?: string) {
       }
     } catch (fallbackError) {
       if (import.meta.env.DEV) {
-        console.warn("Failed to load fallback translations:", fallbackError);
+        if (__IS_DEV__) {
+          console.warn("Failed to load fallback translations:", fallbackError);
+        }
       }
     }
   }
@@ -129,75 +138,77 @@ export async function getTranslation(locale: SupportedLocale, key?: string) {
   if (key) {
     return getDefaultTranslation(key);
   }
-  
-  return { 
-    ui: getDefaultUITranslations(), 
-    home: null 
+
+  return {
+    ui: getDefaultUITranslations(),
+    home: null,
   };
 }
 
 // 获取默认翻译值（当所有翻译都失败时的fallback）
 function getDefaultTranslation(key: string): string {
   const defaultTranslations: Record<string, string> = {
-    'navigation.home': 'Home',
-    'navigation.games': 'Games',
-    'navigation.allGames': 'All Games',
-    'navigation.newGames': 'New Games',
-    'navigation.popularGames': 'Popular Games',
-    'navigation.trendingGames': 'Trending Games',
-    'navigation.aboutUs': 'About Us',
-    'navigation.privacy': 'Privacy Policy',
-    'navigation.terms': 'Terms of Service',
-    'navigation.language': 'Language',
-    'common.loading': 'Loading...',
-    'common.error': 'Something went wrong',
-    'common.retry': 'Try Again',
-    'common.back': 'Back',
-    'common.next': 'Next',
-    'common.previous': 'Previous',
-    'common.close': 'Close',
-    'common.menu': 'Menu',
+    "navigation.home": "Home",
+    "navigation.games": "Games",
+    "navigation.allGames": "All Games",
+    "navigation.newGames": "New Games",
+    "navigation.popularGames": "Popular Games",
+    "navigation.trendingGames": "Trending Games",
+    "navigation.aboutUs": "About Us",
+    "navigation.privacy": "Privacy Policy",
+    "navigation.terms": "Terms of Service",
+    "navigation.language": "Language",
+    "common.loading": "Loading...",
+    "common.error": "Something went wrong",
+    "common.retry": "Try Again",
+    "common.back": "Back",
+    "common.next": "Next",
+    "common.previous": "Previous",
+    "common.close": "Close",
+    "common.menu": "Menu",
   };
-  
-  return defaultTranslations[key] || key.split('.').pop() || 'Missing Translation';
+
+  return (
+    defaultTranslations[key] || key.split(".").pop() || "Missing Translation"
+  );
 }
 
 // 获取默认UI翻译结构
 function getDefaultUITranslations() {
   return {
     navigation: {
-      home: 'Home',
-      games: 'Games',
-      allGames: 'All Games',
-      newGames: 'New Games',
-      popularGames: 'Popular Games',
-      trendingGames: 'Trending Games',
-      aboutUs: 'About Us',
-      privacy: 'Privacy Policy',
-      terms: 'Terms of Service',
-      language: 'Language',
+      home: "Home",
+      games: "Games",
+      allGames: "All Games",
+      newGames: "New Games",
+      popularGames: "Popular Games",
+      trendingGames: "Trending Games",
+      aboutUs: "About Us",
+      privacy: "Privacy Policy",
+      terms: "Terms of Service",
+      language: "Language",
     },
     common: {
-      loading: 'Loading...',
-      error: 'Something went wrong',
-      retry: 'Try Again',
-      back: 'Back',
-      next: 'Next',
-      previous: 'Previous',
-      close: 'Close',
-      menu: 'Menu',
+      loading: "Loading...",
+      error: "Something went wrong",
+      retry: "Try Again",
+      back: "Back",
+      next: "Next",
+      previous: "Previous",
+      close: "Close",
+      menu: "Menu",
     },
     meta: {
-      title: 'FiddleBops',
-      description: 'Create amazing music with FiddleBops!',
-      keywords: 'fiddlebops, music games, music creation',
+      title: "FiddleBops",
+      description: "Create amazing music with FiddleBops!",
+      keywords: "fiddlebops, music games, music creation",
     },
   };
 }
 function throwTranslationError(
   locale: SupportedLocale,
   key?: string,
-  fallbackAttempted: boolean = false
+  fallbackAttempted: boolean = false,
 ): never {
   const errorContext = {
     requestedLocale: locale,
@@ -234,7 +245,9 @@ function throwTranslationError(
 
   // 在生产构建中，退出进程以使构建失败
   if (import.meta.env.PROD) {
-    console.error(errorMessage);
+    if (__IS_DEV__) {
+      console.error(errorMessage);
+    }
     process.exit(1);
   }
 
