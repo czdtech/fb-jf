@@ -1,0 +1,336 @@
+---
+import { Card, CardContent } from "@/components/ui/card"
+
+export interface Props {
+  audioSrc: string;
+  title?: string;
+  autoplay?: boolean;
+  showProgress?: boolean;
+  className?: string;
+  useSlider?: boolean;
+  loading?: boolean;
+  showErrorDetails?: boolean;
+}
+
+const {
+  audioSrc,
+  title = "Audio Track",
+  autoplay = false,
+  showProgress = true,
+  className = "",
+  useSlider = false,
+  loading = false,
+  showErrorDetails = false
+} = Astro.props;
+
+const uniqueId = `audio-player-${Math.random().toString(36).slice(2, 11)}`;
+---
+
+<Card
+  className={`audio-player audio-player-card ${className}`}
+  data-audio-id={uniqueId}
+  role="region"
+  aria-labelledby={`audio-title-${uniqueId}`}
+  aria-describedby={showProgress ? `current-time-${uniqueId} duration-${uniqueId}` : undefined}
+>
+  <CardContent className="p-4 sm:p-6">
+    <div class="flex items-center space-x-3 sm:space-x-4">
+      <!-- Play/Pause Controls -->
+      <button
+        type="button"
+        class="audio-play-btn"
+        aria-label="Play/Pause"
+        data-audio-id={uniqueId}
+      >
+        <span class="play-icon">▶</span>
+        <span class="pause-icon hidden">⏸</span>
+      </button>
+
+      <!-- Progress Bar and Time Display -->
+      <div class="flex-1 flex items-center space-x-2 sm:space-x-3">
+        {showProgress && (
+          <div class="audio-progress-container flex-1">
+            <div class="audio-progress-bar" style="width: 0%"></div>
+          </div>
+        )}
+
+        {showProgress && (
+          <div class="audio-time-display">
+            <span class="audio-current-time">0:00</span>
+            <span>/</span>
+            <span class="audio-duration">0:00</span>
+          </div>
+        )}
+      </div>
+    </div>
+
+    <!-- Track Title -->
+    <div class="mt-3">
+      <h3
+        id={`audio-title-${uniqueId}`}
+        class="text-sm font-medium text-foreground truncate"
+      >
+        {title}
+      </h3>
+
+      <!-- Screen reader status -->
+      <div
+        id={`audio-status-${uniqueId}`}
+        class="sr-only"
+        aria-live="polite"
+      >
+        Ready to play
+      </div>
+    </div>
+
+    <!-- Error message (hidden by default) -->
+    <div class="audio-error-message hidden">
+      <span class="audio-error-text">Error loading audio</span>
+    </div>
+
+    <!-- Hidden Audio Element -->
+    <audio
+      id={uniqueId}
+      preload="metadata"
+      class="hidden"
+      {autoplay}
+      aria-label={`Audio player for ${title}`}
+    >
+      <source src={audioSrc} />
+      Your browser does not support the audio element.
+    </audio>
+  </CardContent>
+</Card>
+
+<style>
+  .audio-player-card {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .audio-player-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .audio-player-card.playing {
+    border-color: hsl(var(--primary) / 0.5);
+    box-shadow: 0 0 0 1px hsl(var(--primary) / 0.2), 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .audio-player-card.error {
+    border-color: hsl(var(--destructive) / 0.3);
+    background-color: hsl(var(--destructive) / 0.02);
+  }
+
+  .audio-play-btn {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: hsl(var(--primary));
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+
+  .audio-play-btn:hover {
+    transform: scale(1.1);
+  }
+
+  .audio-play-btn.playing .play-icon {
+    display: none;
+  }
+
+  .audio-play-btn.playing .pause-icon {
+    display: block;
+  }
+
+  .audio-progress-container {
+    height: 4px;
+    background: hsl(var(--muted));
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .audio-progress-bar {
+    height: 100%;
+    background: hsl(var(--primary));
+    transition: width 0.1s;
+  }
+
+  .audio-time-display {
+    display: flex;
+    gap: 4px;
+    font-size: 0.875rem;
+    color: hsl(var(--muted-foreground));
+  }
+
+  .audio-error-message {
+    margin-top: 8px;
+    padding: 8px;
+    background: hsl(var(--destructive) / 0.1);
+    border-radius: 4px;
+    color: hsl(var(--destructive));
+    font-size: 0.875rem;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 640px) {
+    .audio-player-card {
+      margin: 8px 0;
+    }
+
+    .audio-play-btn {
+      width: 40px;
+      height: 40px;
+    }
+  }
+
+  /* High contrast mode */
+  @media (prefers-contrast: high) {
+    .audio-player-card {
+      border-width: 2px;
+    }
+
+    .audio-player-card.playing {
+      border-width: 3px;
+    }
+  }
+
+  /* Focus management */
+  .audio-player-card:focus-within {
+    outline: 2px solid hsl(var(--primary));
+    outline-offset: 2px;
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .audio-player-card,
+    .audio-play-btn {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  // 简化的音频播放器实现
+  class SimpleAudioPlayer {
+    constructor(audioId: string) {
+      const card = document.querySelector(`[data-audio-id="${audioId}"]`);
+      if (!card) return;
+
+      const audio = document.getElementById(audioId) as HTMLAudioElement;
+      const button = card.querySelector('.audio-play-btn') as HTMLElement;
+      const progressBar = card.querySelector('.audio-progress-bar') as HTMLElement;
+      const currentTimeSpan = card.querySelector('.audio-current-time') as HTMLElement;
+      const durationSpan = card.querySelector('.audio-duration') as HTMLElement;
+      const errorMessage = card.querySelector('.audio-error-message') as HTMLElement;
+      const statusElement = card.querySelector(`#audio-status-${audioId}`) as HTMLElement;
+
+      if (!audio || !button) return;
+
+      // Format time helper
+      const formatTime = (seconds: number) => {
+        const mins = Math.floor(seconds / 60);
+        const secs = Math.floor(seconds % 60);
+        return `${mins}:${secs.toString().padStart(2, '0')}`;
+      };
+
+      // Update duration when metadata loads
+      audio.addEventListener('loadedmetadata', () => {
+        if (durationSpan) {
+          durationSpan.textContent = formatTime(audio.duration);
+        }
+      });
+
+      // Update progress
+      audio.addEventListener('timeupdate', () => {
+        if (progressBar) {
+          const percent = (audio.currentTime / audio.duration) * 100;
+          progressBar.style.width = `${percent}%`;
+        }
+        if (currentTimeSpan) {
+          currentTimeSpan.textContent = formatTime(audio.currentTime);
+        }
+      });
+
+      // Handle play/pause
+      button.addEventListener('click', () => {
+        if (audio.paused) {
+          // Stop other players
+          document.querySelectorAll('audio').forEach(a => {
+            if (a !== audio && !a.paused) {
+              a.pause();
+              const otherCard = a.closest('.audio-player-card');
+              const otherButton = otherCard?.querySelector('.audio-play-btn');
+              otherCard?.classList.remove('playing');
+              otherButton?.classList.remove('playing');
+            }
+          });
+
+          audio.play().catch(err => {
+            console.error('Audio play failed:', err);
+            if (errorMessage) {
+              errorMessage.classList.remove('hidden');
+            }
+            card.classList.add('error');
+          });
+
+          card.classList.add('playing');
+          button.classList.add('playing');
+          if (statusElement) {
+            statusElement.textContent = 'Playing';
+          }
+        } else {
+          audio.pause();
+          card.classList.remove('playing');
+          button.classList.remove('playing');
+          if (statusElement) {
+            statusElement.textContent = 'Paused';
+          }
+        }
+      });
+
+      // Handle ended
+      audio.addEventListener('ended', () => {
+        card.classList.remove('playing');
+        button.classList.remove('playing');
+        if (progressBar) {
+          progressBar.style.width = '0%';
+        }
+        if (currentTimeSpan) {
+          currentTimeSpan.textContent = '0:00';
+        }
+        if (statusElement) {
+          statusElement.textContent = 'Ended';
+        }
+      });
+
+      // Handle errors
+      audio.addEventListener('error', () => {
+        if (errorMessage) {
+          errorMessage.classList.remove('hidden');
+        }
+        card.classList.add('error');
+        button.classList.remove('playing');
+        card.classList.remove('playing');
+      });
+    }
+  }
+
+  // Initialize all audio players when DOM is ready
+  document.addEventListener('DOMContentLoaded', () => {
+    const audioCards = document.querySelectorAll('.audio-player-card[data-audio-id]');
+    audioCards.forEach((card) => {
+      const audioId = (card as HTMLElement).dataset.audioId;
+      if (audioId) {
+        new SimpleAudioPlayer(audioId);
+      }
+    });
+  });
+</script>

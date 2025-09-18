@@ -1,0 +1,327 @@
+{
+  "navigation": {
+    "home": "首页",
+    "games": "游戏",
+    "allGames": "所有游戏",
+    "newGames": "新游戏",
+    "popularGames": "热门游戏",
+    "trendingGames": "趋势游戏",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "language": "语言"
+  },
+  "meta": {
+    "title": "FiddleBops - 玩FiddleBops Incredibox游戏",
+    "description": "使用Fiddlebops创作独特音乐！这个受Incredibox启发的粉丝项目，让你自由混合搭配各种声音来创作个性化音轨。",
+    "keywords": "fiddlebops, 音乐游戏, 音乐创作, incredibox, sprunki, 节拍制作, 互动音乐"
+  },
+  "hero": {
+    "title": "欢迎来到Fiddlebops Incredibox！",
+    "subtitle": "开始你的音乐之旅！Fiddlebops是一个受Incredibox启发的粉丝项目。在这里，你可以自由混合搭配各种声音来创作属于你的独特音乐。",
+    "playNow": "立即开始",
+    "learnMore": "了解更多"
+  },
+  "sections": {
+    "howToPlay": "游戏玩法",
+    "newGames": "新游戏",
+    "popularGames": "热门游戏",
+    "trendingGames": "趋势游戏",
+    "about": "关于FiddleBops",
+    "videos": "视频教程",
+    "relatedGames": "相关游戏",
+    "relatedGamesDesc": "发现更多惊人的音乐创作游戏"
+  },
+  "howToPlay": {
+    "description": "拖拽像Garrett（拍肚子节拍）、Green Drum Machine（雪人手鼓）和YTPMV Elf等角色到舞台上，创造搞笑的音乐组合并解锁奖励内容",
+    "quickStart": {
+      "title": "快速开始 - 简单3步！",
+      "subtitle": "30秒内开始创作音乐！",
+      "steps": {
+        "pick": {
+          "title": "选择角色",
+          "description": "从27个搞笑角色中选择，比如Garrett、月亮先生和Skibidi Biden！"
+        },
+        "drag": {
+          "title": "拖拽放置",
+          "description": "将角色拖到舞台上，看Garrett拍他的肚子！"
+        },
+        "create": {
+          "title": "创造混音",
+          "description": "以206 BPM的节拍混合奇异的声音，制作奇妙的音乐！"
+        }
+      }
+    },
+    "characters": {
+      "title": "角色介绍",
+      "beats": "节拍 - Garrett（拍肚子）、Green Drum Machine、月亮先生、Snaire、Combi",
+      "effects": "效果 - YTPMV Elf、Cyborg Throat Singing、Lil' Purp、Braylen、Tina",
+      "melodies": "旋律 - Blues Clues Radio、Marcello、Eucerin、Uncanny Melody、Keisha",
+      "voices": "人声 - Skibidi Biden、Sporbb、Tronic the Chipmunk、Mike、Blue Vest Munchie"
+    },
+    "bonusCharacters": {
+      "title": "奖励角色",
+      "wordsWithFriends": "文字游戏瓦片 - 具有独特动画的特殊奖励角色",
+      "fredFigglehorn": "Fred Figglehorn - 标志性高音YouTube角色",
+      "scrubDaddy": "Scrub Daddy GF - 有个性的清洁用品",
+      "jummbox": "Jummbox & Boykixxer - 通过特殊组合解锁"
+    },
+    "features": {
+      "title": "游戏特色",
+      "bpm": "206 BPM - 保持高能量的快节奏",
+      "jokeMod": "搞笑模式 - 故意荒谬有趣的角色设计",
+      "easyControls": "简单控制 - 经典Incredibox拖放游戏方式",
+      "animations": "特殊动画 - 观看像月亮先生这样的角色变成3D"
+    },
+    "mechanics": {
+      "title": "创作机制",
+      "soundCombination": "声音组合 - 同时混合最多7个角色创造独特节拍",
+      "rhythm": "节拍与时机 - 所有声音自动同步到206 BPM节奏",
+      "loop": "循环重复 - 通过自动节拍匹配创建无缝循环",
+      "explore": "探索实验 - 没有错误的组合，发现隐藏的声音组合！"
+    }
+  },
+  "about": {
+    "description": "发布于2024年11月7日，这个以喜剧为重点的Incredibox模组拥有25个荒谬角色，包括Garrett、月亮先生和Skibidi Biden，以206 BPM的高能节拍创造混乱音乐",
+    "gameInfo": {
+      "title": "🎮 I. FiddleBops 游戏信息",
+      "officialName": "官方名称：",
+      "officialNameValue": "FiddleBops（粉丝制作的Incredibox模组）",
+      "releaseDate": "发布日期：",
+      "releaseDateValue": "2024年11月7日",
+      "bpm": "节拍：",
+      "bpmValue": "206 BPM（半速时为103）",
+      "characterCount": "角色数量：",
+      "characterCountValue": "25个角色（20个主要角色 + 5个奖励角色）",
+      "modType": "模组类型：",
+      "modTypeValue": "具有荒谬角色的\"搞笑\"模组",
+      "creators": "制作者：",
+      "creatorsValue": "Kautaruma, SkyFactorial, BezieAnims, Maddie (Jukebox), RubysArt_, Shackle, radio_cative, personaladventure"
+    },
+    "characterCategories": {
+      "title": "🎭 II. 角色分类",
+      "beats": {
+        "title": "🥁 节拍（5个角色）",
+        "thisIsGarrett": "这是Garrett - 拍肚子产生踢鼓声，张嘴产生军鼓声",
+        "greenDrumMachine": "Green Drum Machine - 带手鼓的圣诞雪人",
+        "mrMoon": "月亮先生 - 苹果\"满月脸\"表情符号，带3D动画",
+        "snaireCombi": "Snaire & Combi - 额外的节奏元素"
+      },
+      "effects": {
+        "title": "🌟 效果（5个角色）",
+        "description": "YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen B. Bothamious I, Tina The Beepboxer",
+        "subtitle": "每个都提供独特的声音效果和氛围元素"
+      },
+      "melodies": {
+        "title": "🎹 旋律（5个角色）",
+        "description": "Blues Clues Radio 2011, Marcello, Eucerin, Uncanny Melody, Keisha",
+        "subtitle": "创造主要旋律线和音乐主题"
+      },
+      "voices": {
+        "title": "🎤 人声（5个角色）",
+        "description": "Skibidi Biden, Sporbb The Animator, Tronic the Chipmunk, Mike Ehrmantraut, Blue Vest Munchie",
+        "subtitle": "人声元素和角色表达"
+      },
+      "bonus": {
+        "title": "🎆 奖励角色（5个特殊）",
+        "description": "Words With Friends Tile, Fred Figglehorn, Scrub Daddy GF, Jummbox, Boykixxer",
+        "subtitle": "通过特殊组合和秘密方法解锁"
+      }
+    },
+    "features": {
+      "title": "🎨 III. 游戏特色与设计",
+      "comedy": {
+        "title": "😂 喜剧导向设计",
+        "description": "故意荒谬的角色名称和设计创造幽默体验。像\"Skibidi Biden\"和\"Scrub Daddy GF\"这样的角色体现了模组的喜剧风格。"
+      },
+      "highEnergy": {
+        "title": "🎵 高能音乐",
+        "description": "206 BPM创造快节奏、充满活力的作品。这个节拍鼓励动态和活泼的音乐创作，不同于传统的Incredibox版本。"
+      },
+      "animations": {
+        "title": "🎪 特殊动画",
+        "description": "角色具有独特动画：Garrett的拍肚子、Green Drum Machine的晃腿、月亮先生的3D变换让角色栩栩如生。"
+      },
+      "antiPiracy": {
+        "title": "🔒 防盗版保护",
+        "description": "该模组包含特殊的防盗版措施，保护创作者的作品并确保通过官方渠道正确分发。"
+      }
+    },
+    "platform": {
+      "title": "🎯 IV. 游戏标签与平台",
+      "categories": {
+        "title": "🏷️ 游戏类别",
+        "description": "音乐创作、节奏、实验、教育、老少皆宜、休闲、单人、创意、喜剧模组"
+      },
+      "access": {
+        "title": "🌐 平台与访问",
+        "mainPlatform": "主平台：",
+        "mainPlatformValue": "playfiddlebops.com（网页浏览器）",
+        "alsoAvailable": "同时可用：",
+        "alsoAvailableValue": "itch.io, Scratch",
+        "price": "价格：",
+        "priceValue": "免费游玩",
+        "noDownload": "无需下载 - 直接在浏览器中游玩"
+      }
+    },
+    "community": {
+      "title": "🌟 V. 热门FiddleBops模组与社区",
+      "mods": {
+        "title": "🎮 社区模组",
+        "fiddlebopsSprunki": "• Fiddlebops but Sprunki - 恐怖主题跨界",
+        "fiddlebopsFix": "• Fiddlebops Fix - 错误修复和改进",
+        "sprunksters": "• Fiddlebops Sprunksters Remix - 新声音组合",
+        "pyramixed": "• Fiddlebops Pyramixed - 埃及主题混音",
+        "exploreMore": "在我们的游戏区域探索更多模组！"
+      },
+      "share": {
+        "title": "🔗 分享您的作品",
+        "joinCommunity": "加入FiddleBops社区！",
+        "youtube": "YouTube：",
+        "youtubeDesc": "上传游戏视频",
+        "tiktok": "TikTok：",
+        "tiktokDesc": "分享短音乐片段",
+        "twitter": "Twitter：",
+        "twitterDesc": "使用 #FiddleBops",
+        "screenRecord": "使用屏幕录制软件捕捉和分享您的音乐杰作！"
+      }
+    }
+  },
+  "games": {
+    "playNow": "立即游玩",
+    "loading": "加载中...",
+    "error": "游戏加载失败",
+    "retry": "重试",
+    "viewMore": "查看更多游戏",
+    "viewAllGames": "查看所有游戏",
+    "noGames": "未找到游戏",
+    "category": "分类",
+    "rating": "评分"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出现了问题",
+    "retry": "重试",
+    "back": "返回",
+    "next": "下一个",
+    "previous": "上一个",
+    "close": "关闭",
+    "menu": "菜单"
+  },
+  "footer": {
+    
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "copyright": "© 2025 FiddleBops. 保留所有权利。",
+    "legal": "法律",
+    "contactUs": "联系我们",
+    "quickLinks": "快速链接",
+    "tagline": "创作音乐，分享快乐",
+    "description": "免费在线音乐创作平台"
+  },
+  "soundSamples": {
+    "title": "探索FiddleBops Incredibox中的不同声音",
+    "description": "聆听正宗的FiddleBops角色声音：来自Garrett和月亮先生的节拍，来自Cyborg Throat Singing的效果，来自Blues Clues Radio 2011的旋律，以及来自Mike Ehrmantraut的人声"
+  },
+  "videos": {
+    "title": "FiddleBops Incredibox游戏视频",
+    "description": "观看带字幕的4K高清FiddleBops完整游戏演示，以及展示所有25个角色及其独特动画的8分钟精彩集锦",
+    "demo": {
+      "title": "🎵 FiddleBops完整演示",
+      "description": "带字幕的4K高清游戏演示"
+    },
+    "highlights": {
+      "title": "🎮 8分钟精彩集锦",
+      "description": "8分钟内展示所有FiddleBops角色"
+    }
+  },
+  "faq": {
+    "title": "❓ 常见问题",
+    "description": "获取关于FiddleBops游戏玩法、角色机制、浏览器兼容性、音乐创作技巧以及如何解锁所有25个角色（包括5个特殊奖励角色）的答案",
+    "items": [
+      {
+        "question": "🎮 什么是FiddleBops Incredibox？",
+        "answer": "FiddleBops是一个受Incredibox启发的粉丝制作项目。在这里，您可以体验音乐混合的乐趣，通过直观的界面创作独特的音乐作品。"
+      },
+      {
+        "question": "💰 FiddleBops Incredibox是免费的吗？",
+        "answer": "是的，FiddleBops Incredibox完全免费。玩家可以在线游玩，无需任何下载。"
+      },
+      {
+        "question": "📱 我需要下载或安装什么吗？",
+        "answer": "无需下载。游戏直接在您的浏览器中运行，支持桌面和移动设备。"
+      },
+      {
+        "question": "🎵 我需要音乐背景吗？",
+        "answer": "完全不需要！FiddleBops Incredibox是为没有音乐背景的人设计的。它更像是一个音乐玩具和创作工具。"
+      },
+      {
+        "question": "🚀 如何开始创作音乐？",
+        "answer": "玩家可以将角色拖拽到舞台上，结合它们的独特声音来创作音乐作品。尝试不同的角色组合来解锁隐藏旋律和奖励内容。"
+      }
+    ]
+  },
+  "error": {
+    "404": {
+      "title": "页面未找到",
+      "message": "您访问的页面不存在。",
+      "backToHome": "返回首页",
+      "suggestionsTitle": "推荐游戏",
+      "suggestionsDescription": "既然来了，不如试试我们最受欢迎的音乐创作游戏？",
+      "originalExperience": "原版FiddleBops体验，功能更完善",
+      "sprunikiExperience": "用多彩的Sprunki角色创造精彩节拍",
+      "incrediboxExperience": "开创一切的经典音乐制作游戏"
+    }
+  },
+  "game": {
+    "sections": {
+      "features": "游戏特色",
+      "howToPlay": "游戏玩法",
+      "screenshots": "游戏截图",
+      "about": "关于 {title}",
+      "relatedGames": "更多相似游戏"
+    },
+    "features": {
+      "defaultTitle": "这款游戏的独特之处？",
+      "defaultDescription": "探索这款游戏的独特魅力",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "丰富音乐创作",
+          "description": "使用多样化音效元素创作独特音乐作品"
+        },
+        {
+          "icon": "🎭",
+          "title": "角色多样性",
+          "description": "从众多动画角色中选择，每个都有独特音效"
+        },
+        {
+          "icon": "🔄",
+          "title": "创作自由",
+          "description": "无限可能的声音混合搭配"
+        },
+        {
+          "icon": "💫",
+          "title": "视觉特效",
+          "description": "随音乐响应的精美动画和特效"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "掌握音乐创作的艺术",
+      "defaults": [
+        "从角色库中选择你喜欢的角色",
+        "拖拽角色到舞台上开始创作",
+        "尝试不同组合找到完美搭配",
+        "保存并与朋友分享你的音乐杰作"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "看看游戏体验",
+      "musicPreviewTitle": "游戏音乐预览",
+      "musicPreviewDescription": "体验沉浸式配乐"
+    },
+    "navigation": {
+      "continueJourney": "继续你的音乐之旅"
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "navigation": {
+    "home": "Home",
+    "games": "Games",
+    "allGames": "All Games",
+    "newGames": "New Games",
+    "popularGames": "Popular Games",
+    "trendingGames": "Trending Games",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "language": "Language"
+  },
+  "meta": {
+    "title": "FiddleBops - Play FiddleBops Incredibox Game",
+    "description": "Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.",
+    "keywords": "fiddlebops, music games, music creation, incredibox, sprunki, beat making, interactive music"
+  },
+  "hero": {
+    "title": "Welcome to Fiddlebops Incredibox!",
+    "subtitle": "Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music.",
+    "playNow": "Play Now",
+    "learnMore": "Learn More"
+  },
+  "sections": {
+    "features": "Game Features",
+    "howToPlay": "How to Play",
+    "newGames": "New Games",
+    "popularGames": "Popular Games",
+    "trendingGames": "Trending Games",
+    "about": "About FiddleBops",
+    "videos": "Video Tutorials",
+    "relatedGames": "Related Games",
+    "relatedGamesDesc": "Discover more amazing music creation games"
+  },
+  "howToPlay": {
+    "description": "Drag characters like Garrett (belly slapping beats), Green Drum Machine (snowwoman bongos), and YTPMV Elf onto the stage to create hilarious musical combinations and unlock bonus content",
+    "quickStart": {
+      "title": "Quick Start - 3 Easy Steps!",
+      "subtitle": "Get creating music in under 30 seconds!",
+      "steps": {
+        "pick": {
+          "title": "Pick Your Characters",
+          "description": "Choose from 27 hilarious characters like Garrett, Mr. Moon, and Skibidi Biden!"
+        },
+        "drag": {
+          "title": "Drag & Drop",
+          "description": "Simply drag characters onto the stage - watch Garrett slap his belly!"
+        },
+        "create": {
+          "title": "Create Chaos",
+          "description": "Mix absurd sounds at 206 BPM for wonderfully weird music!"
+        }
+      }
+    },
+    "characters": {
+      "title": "Meet the Characters",
+      "beats": "<strong>Beats</strong> - Garrett (belly slaps), Green Drum Machine, Mr. Moon, Snaire, Combi",
+      "effects": "<strong>Effects</strong> - YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen, Tina",
+      "melodies": "<strong>Melodies</strong> - Blues Clues Radio, Marcello, Eucerin, Uncanny Melody, Keisha",
+      "voices": "<strong>Voices</strong> - Skibidi Biden, Sporbb, Tronic the Chipmunk, Mike, Blue Vest Munchie"
+    },
+    "bonusCharacters": {
+      "title": "Bonus Characters",
+      "wordsWithFriends": "<strong>Words With Friends Tile</strong> - Special bonus character with unique animations",
+      "fredFigglehorn": "<strong>Fred Figglehorn</strong> - The iconic high-pitched YouTube character",
+      "scrubDaddy": "<strong>Scrub Daddy GF</strong> - A cleaning product with personality",
+      "jummbox": "<strong>Jummbox & Boykixxer</strong> - Unlock through special combinations"
+    },
+    "features": {
+      "title": "Game Features",
+      "bpm": "<strong>206 BPM</strong> - Fast-paced rhythm that keeps the energy high",
+      "jokeMod": "<strong>Joke Mod</strong> - Intentionally absurd and funny character design",
+      "easyControls": "<strong>Easy Controls</strong> - Classic Incredibox drag-and-drop gameplay",
+      "animations": "<strong>Special Animations</strong> - Watch characters like Mr. Moon come alive in 3D"
+    },
+    "mechanics": {
+      "title": "Creation Mechanics",
+      "soundCombination": "<strong>Sound Combination</strong> - Mix up to 7 characters at once to create unique beats",
+      "rhythm": "<strong>Rhythm & Timing</strong> - All sounds sync automatically to the 206 BPM tempo",
+      "loop": "<strong>Loop & Repeat</strong> - Create seamless loops with automatic beat matching",
+      "explore": "<strong>Explore & Experiment</strong> - No wrong combinations - discover hidden sound combos!"
+    }
+  },
+  "about": {
+    "description": "Released November 7, 2024, this comedy-focused Incredibox mod features 25 absurd characters including Garrett, Mr. Moon, and Skibidi Biden, creating chaotic music at an energetic 206 BPM",
+    "gameInfo": {
+      "title": "🎮 I. FiddleBops Game Information",
+      "officialName": "Official Name:",
+      "officialNameValue": "FiddleBops (Fanon Incredibox Mod)",
+      "releaseDate": "Release Date:",
+      "releaseDateValue": "November 7th, 2024",
+      "bpm": "BPM:",
+      "bpmValue": "206 BPM (103 in half-time)",
+      "characterCount": "Character Count:",
+      "characterCountValue": "25 Characters (20 Main + 5 Bonuses)",
+      "modType": "Mod Type:",
+      "modTypeValue": "\"Joke\" Mod with Absurd Characters",
+      "creators": "Creators:",
+      "creatorsValue": "Kautaruma, SkyFactorial, BezieAnims, Maddie (Jukebox), RubysArt_, Shackle, radio_cative, personaladventure"
+    },
+    "characterCategories": {
+      "title": "🎭 II. Character Categories",
+      "beats": {
+        "title": "🥁 Beats (5 Characters)",
+        "thisIsGarrett": "This Is Garrett - Slaps his belly for kick drums and opens mouth for snares",
+        "greenDrumMachine": "Green Drum Machine - Christmas snowwoman with bongo drums",
+        "mrMoon": "Mr. Moon - Apple \"Full Moon Face\" emoji with 3D animation",
+        "snaireCombi": "Snaire & Combi - Additional rhythmic elements"
+      },
+      "effects": {
+        "title": "🌟 Effects (5 Characters)",
+        "description": "YTPMV Elf, Cyborg Throat Singing, Lil' Purp, Braylen B. Bothamious I, Tina The Beepboxer",
+        "subtitle": "Each provides unique sound effects and atmospheric elements"
+      },
+      "melodies": {
+        "title": "🎹 Melodies (5 Characters)",
+        "description": "Blues Clues Radio 2011, Marcello, Eucerin, Uncanny Melody, Keisha",
+        "subtitle": "Create the main melodic lines and musical themes"
+      },
+      "voices": {
+        "title": "🎤 Voices (5 Characters)",
+        "description": "Skibidi Biden, Sporbb The Animator, Tronic the Chipmunk, Mike Ehrmantraut, Blue Vest Munchie",
+        "subtitle": "Vocal elements and character expressions"
+      },
+      "bonus": {
+        "title": "🎆 Bonus Characters (5 Special)",
+        "description": "Words With Friends Tile, Fred Figglehorn, Scrub Daddy GF, Jummbox, Boykixxer",
+        "subtitle": "Unlockable through special combinations and secret methods"
+      }
+    },
+    "features": {
+      "title": "🎨 III. Game Features & Design",
+      "comedy": {
+        "title": "😂 Comedy-Focused Design",
+        "description": "Intentionally absurd character names and designs create a humorous experience. Characters like \"Skibidi Biden\" and \"Scrub Daddy GF\" exemplify the mod's comedic approach."
+      },
+      "highEnergy": {
+        "title": "🎵 High-Energy Music",
+        "description": "206 BPM creates fast-paced, energetic compositions. The tempo encourages dynamic and lively musical creations unlike traditional Incredibox versions."
+      },
+      "animations": {
+        "title": "🎪 Special Animations",
+        "description": "Characters feature unique animations: Garrett's belly slapping, Green Drum Machine's leg dangling, Mr. Moon's 3D transformations bring personalities to life."
+      },
+      "antiPiracy": {
+        "title": "🔒 Anti-Piracy Protection",
+        "description": "The mod includes special anti-piracy measures to protect the creators' work and ensure proper distribution through authorized channels."
+      }
+    },
+    "platform": {
+      "title": "🎯 IV. Game Tags & Platform",
+      "categories": {
+        "title": "🏷️ Game Categories",
+        "description": "Music Creation, Rhythm, Experimental, Educational, Family-Friendly, Casual, Single Player, Creative, Comedy Mod"
+      },
+      "access": {
+        "title": "🌐 Platforms & Access",
+        "mainPlatform": "Main Platform:",
+        "mainPlatformValue": "playfiddlebops.com (Web Browser)",
+        "alsoAvailable": "Also Available:",
+        "alsoAvailableValue": "itch.io, Scratch",
+        "price": "Price:",
+        "priceValue": "Free to Play",
+        "noDownload": "No Download Required - Play directly in browser"
+      }
+    },
+    "community": {
+      "title": "🌟 V. Popular FiddleBops Mods & Community",
+      "mods": {
+        "title": "🎮 Community Mods",
+        "fiddlebopsSprunki": "• Fiddlebops but Sprunki - Horror-themed crossover",
+        "fiddlebopsFix": "• Fiddlebops Fix - Bug fixes and improvements",
+        "sprunksters": "• Fiddlebops Sprunksters Remix - New sound combinations",
+        "pyramixed": "• Fiddlebops Pyramixed - Egyptian-themed remix",
+        "exploreMore": "Explore more mods in our games section!"
+      },
+      "share": {
+        "title": "🔗 Share Your Creations",
+        "joinCommunity": "Join the FiddleBops community!",
+        "youtube": "YouTube:",
+        "youtubeDesc": "Upload gameplay videos",
+        "tiktok": "TikTok:",
+        "tiktokDesc": "Share short music clips",
+        "twitter": "Twitter:",
+        "twitterDesc": "Use #FiddleBops",
+        "screenRecord": "Use screen recording software to capture and share your musical masterpieces!"
+      }
+    }
+  },
+  "soundSamples": {
+    "title": "Explore the Different Sounds in Fiddlebops Incredibox",
+    "description": "Listen to authentic FiddleBops character sounds: Beats from Garrett and Mr. Moon, Effects from Cyborg Throat Singing, Melodies from Blues Clues Radio 2011, and Vocals from Mike Ehrmantraut"
+  },
+  "videos": {
+    "title": "Fiddlebops Incredibox Game Video",
+    "description": "Watch complete FiddleBops gameplay demonstrations in 4K HD with subtitles, plus 8-minute highlight reels showcasing all 25 characters and their unique animations in action",
+    "demo": {
+      "title": "🎵 Fiddlebops Complete Demo",
+      "description": "4K HD gameplay demonstration with subtitles"
+    },
+    "highlights": {
+      "title": "🎮 8-Minute Highlights",
+      "description": "Every FiddleBops character in 8 minutes"
+    }
+  },
+  "faq": {
+    "title": "❓ Frequently Asked Questions",
+    "description": "Get answers about FiddleBops gameplay, character mechanics, browser compatibility, music creation tips, and how to unlock all 25 characters including the 5 special bonus ones",
+    "items": [
+      {
+        "question": "🎮 What is Fiddlebops Incredibox?",
+        "answer": "Fiddlebops is a fan-made project inspired by Incredibox. Here, you can experience the joy of music mixing and create unique musical works through an intuitive interface."
+      },
+      {
+        "question": "💰 Is Fiddlebops Incredibox free?",
+        "answer": "Yes, Fiddlebops Incredibox is completely free. Players can play online without any downloads required."
+      },
+      {
+        "question": "📱 Do I need to download or install anything?",
+        "answer": "No downloads required. The game runs directly in your browser and supports both desktop and mobile devices."
+      },
+      {
+        "question": "🎵 Do I need a music background?",
+        "answer": "Not at all! Fiddlebops Incredibox is designed for people without musical backgrounds. It's more like a musical toy and creative tool."
+      },
+      {
+        "question": "🚀 How do I start creating music?",
+        "answer": "Players can drag characters onto the stage and combine their unique sounds to create musical compositions. Try different character combinations to unlock hidden melodies and bonus content."
+      }
+    ]
+  },
+  "games": {
+    "playNow": "Play Now",
+    "loading": "Loading...",
+    "error": "Failed to load game",
+    "retry": "Try Again",
+    "viewMore": "View More Games",
+    "viewAllGames": "View All Games",
+    "noGames": "No games found",
+    "category": "Category",
+    "rating": "Rating"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "menu": "Menu"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 FiddleBops. All rights reserved.",
+    "legal": "Legal",
+    "contactUs": "Contact Us",
+    "quickLinks": "Quick Links",
+    "tagline": "Create Music, Share Joy",
+    "description": "Free Online Music Creation Platform"
+  },
+  "error": {
+    "404": {
+      "title": "Page Not Found",
+      "message": "The page you are looking for could not be found.",
+      "backToHome": "Return to Homepage",
+      "suggestionsTitle": "Popular Games",
+      "suggestionsDescription": "While you're here, why not try some of our most popular music creation games?",
+      "originalExperience": "The original FiddleBops experience with improved features",
+      "sprunikiExperience": "Create amazing beats with colorful Sprunki characters",
+      "incrediboxExperience": "The classic music creation game that started it all"
+    }
+  },
+  "game": {
+    "sections": {
+      "features": "Game Features",
+      "howToPlay": "How to Play",
+      "screenshots": "Game Screenshots",
+      "about": "About {title}",
+      "relatedGames": "More Games Like This"
+    },
+    "features": {
+      "defaultTitle": "What Makes This Game Special?",
+      "defaultDescription": "Discover what makes this game unique",
+      "defaults": [
+        {
+          "icon": "🎵",
+          "title": "Rich Music Creation",
+          "description": "Create unique musical compositions with diverse sound elements"
+        },
+        {
+          "icon": "🎭",
+          "title": "Character Variety",
+          "description": "Choose from a wide range of animated characters, each with unique sounds"
+        },
+        {
+          "icon": "🔄",
+          "title": "Creative Freedom",
+          "description": "Unlimited possibilities for mixing and matching sounds"
+        },
+        {
+          "icon": "💫",
+          "title": "Visual Effects",
+          "description": "Stunning animations and effects that react to your music"
+        }
+      ]
+    },
+    "howToPlay": {
+      "defaultTitle": "Master the art of music creation",
+      "defaults": [
+        "Choose your favorite characters from the selection",
+        "Drag and drop them onto the stage to start creating",
+        "Experiment with different combinations to find your perfect mix",
+        "Save and share your musical masterpiece with friends"
+      ]
+    },
+    "media": {
+      "screenshotsTitle": "Take a look at the gameplay experience",
+      "musicPreviewTitle": "Game Music Preview",
+      "musicPreviewDescription": "Experience the immersive soundtrack"
+    },
+    "navigation": {
+      "continueJourney": "Continue your musical journey"
+    }
+  }
+}

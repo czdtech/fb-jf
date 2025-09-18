@@ -1,6 +1,7 @@
 ---
 import GameCard from '@/components/GameCard.astro'
 import { getTranslation } from '@/i18n/utils'
+import { getRelativeLocaleUrl } from 'astro:i18n'
 
 interface Props {
   games: {
@@ -34,7 +35,7 @@ const relatedGames = allGames.sort(() => Math.random() - 0.5).slice(0, 6)
         {ui?.sections?.relatedGames || '相关游戏'}
       </h2>
       <p class="section-subtitle">{ui?.sections?.relatedGamesDesc || '发现更多惊人的音乐创作游戏'}</p>
-      <a href="/games/" class="view-all-btn">
+      <a href={getRelativeLocaleUrl(currentLocale, '/games/')} class="view-all-btn">
         <span>{ui?.games?.viewAllGames || '查看所有游戏'}</span>
         <i class="fas fa-arrow-right"></i>
       </a>

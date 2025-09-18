@@ -9,6 +9,7 @@ import EmptyState from '@/components/EmptyState.astro';
 import { getTranslation } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/utils';
 import { generateSEOPagination } from '@/utils/pagination';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 import { filterGamesByLanguage, filterGamesByCategory, getPaginatedGames, validateGameData } from '@/utils/content';
 import extractedData from '@/data/extracted-data.json';
 
@@ -86,7 +87,7 @@ const meta = {
     <div class="container">
       <h1 class="page-title">{categoryTitle}</h1>
       {paginationResult.isEmpty ? (
-        <EmptyState category={category} title={`Keine ${categoryTitle} gefunden`} description={`Derzeit sind keine ${categoryTitle.toLowerCase()} verfügbar. Schauen Sie später wieder vorbei oder erkunden Sie andere Kategorien.`} backButtonText="Alle Spiele anzeigen" backButtonUrl="/de/games/" />
+        <EmptyState category={category} title={`Keine ${categoryTitle} gefunden`} description={`Derzeit sind keine ${categoryTitle.toLowerCase()} verfügbar. Schauen Sie später wieder vorbei oder erkunden Sie andere Kategorien.`} backButtonText="Alle Spiele anzeigen" backButtonUrl={getRelativeLocaleUrl(currentLocale, '/games/')} />
       ) : (
         <>
           <GamesList games={paginationResult.games} currentLocale={currentLocale} />

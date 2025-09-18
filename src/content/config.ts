@@ -2,9 +2,9 @@ import { z, defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 
 const gamesCollection = defineCollection({
-  loader: glob({ 
-    pattern: ["*.md", "**/*.md"], 
-    base: "./src/content/games" 
+  loader: glob({
+    pattern: ["*.md", "**/*.md"],
+    base: "./src/content/games",
   }),
   schema: z
     .object({
@@ -52,6 +52,105 @@ const gamesCollection = defineCollection({
         .optional(),
       pageType: z.string().optional(),
       isDemo: z.boolean().optional(),
+      // 新增可选的多语言翻译字段（严格限定到受支持的语言集合）
+      // 说明：使用局部对象而非 record(z.string())，以避免出现非受控的语言键。
+      // 该结构完全可选，并保持向后兼容。
+      translations: z
+        .object({
+          en: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          zh: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          es: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          fr: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          de: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          ja: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+          ko: z
+            .object({
+              title: z.string().optional(),
+              description: z.string().optional(),
+              meta: z
+                .object({
+                  title: z.string().optional(),
+                  description: z.string().optional(),
+                  keywords: z.string().optional(),
+                })
+                .optional(),
+            })
+            .optional(),
+        })
+        .partial()
+        .optional(),
     })
     .passthrough(),
 });
@@ -63,15 +162,19 @@ const staticDataCollection = defineCollection({
   loader: glob({ pattern: "**/*.json", base: "./src/content/staticData" }),
   schema: z.object({
     navigation: z.object({
-      main: z.array(z.object({
-        label: z.string(),
-        url: z.string()
-      })),
-      languages: z.array(z.object({
-        code: z.string(),
-        url: z.string(),
-        label: z.string()
-      }))
+      main: z.array(
+        z.object({
+          label: z.string(),
+          url: z.string(),
+        }),
+      ),
+      languages: z.array(
+        z.object({
+          code: z.string(),
+          url: z.string(),
+          label: z.string(),
+        }),
+      ),
     }),
     homepage: z.object({
       meta: z.object({
@@ -79,49 +182,106 @@ const staticDataCollection = defineCollection({
         description: z.string(),
         keywords: z.string(),
         canonical: z.string().optional(),
-        ogImage: z.string().optional()
+        ogImage: z.string().optional(),
       }),
       hero: z.object({
         title: z.string(),
         description: z.string(),
-        mainGame: z.object({
-          iframe: z.string(),
-          backgroundImage: z.string()
-        }).optional()
+        mainGame: z
+          .object({
+            iframe: z.string(),
+            backgroundImage: z.string(),
+          })
+          .optional(),
       }),
-      soundSamples: z.array(z.object({
-        title: z.string(),
-        image: z.string(),
-        audio: z.string(),
-        category: z.string()
-      })),
-      videos: z.array(z.object({
-        name: z.string(),
-        description: z.string(),
-        thumbnailUrl: z.string(),
-        uploadDate: z.string(),
-        embedUrl: z.string(),
-        contentUrl: z.string(),
-        publisher: z.string()
-      })).optional()
+      soundSamples: z.array(
+        z.object({
+          title: z.string(),
+          image: z.string(),
+          audio: z.string(),
+          category: z.string(),
+        }),
+      ),
+      videos: z
+        .array(
+          z.object({
+            name: z.string(),
+            description: z.string(),
+            thumbnailUrl: z.string(),
+            uploadDate: z.string(),
+            embedUrl: z.string(),
+            contentUrl: z.string(),
+            publisher: z.string(),
+          }),
+        )
+        .optional(),
     }),
-    seoTemplates: z.object({
-      gamePage: z.object({
-        titleTemplate: z.string(),
-        descriptionTemplate: z.string(),
-        ogImageTemplate: z.string(),
-        canonicalTemplate: z.string(),
-        structuredData: z.object({
-          "@context": z.string(),
-          "@type": z.string(),
-          name: z.string(),
-          alternateName: z.string(),
-          url: z.string(),
-          description: z.string()
-        })
+    seoTemplates: z
+      .object({
+        gamePage: z.object({
+          titleTemplate: z.string(),
+          descriptionTemplate: z.string(),
+          ogImageTemplate: z.string(),
+          canonicalTemplate: z.string(),
+          structuredData: z.object({
+            "@context": z.string(),
+            "@type": z.string(),
+            name: z.string(),
+            alternateName: z.string(),
+            url: z.string(),
+            description: z.string(),
+          }),
+        }),
       })
-    }).optional()
-  })
+      .optional(),
+  }),
+});
+
+// 法务页面内容集合
+const legalCollection = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/legal" }),
+  schema: z.object({
+    privacy: z.object({
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        lastUpdated: z.string(),
+      }),
+      tableOfContents: z.array(
+        z.object({
+          id: z.string(),
+          label: z.string(),
+        }),
+      ),
+      sections: z.array(
+        z.object({
+          id: z.string(),
+          title: z.string(),
+          content: z.string(),
+        }),
+      ),
+    }),
+    terms: z.object({
+      meta: z.object({
+        title: z.string(),
+        description: z.string(),
+        lastUpdated: z.string(),
+      }),
+      tableOfContents: z.array(
+        z.object({
+          id: z.string(),
+          label: z.string(),
+        }),
+      ),
+      sections: z.array(
+        z.object({
+          id: z.string(),
+          title: z.string(),
+          content: z.string(),
+        }),
+      ),
+    }),
+  }),
 });
 
 // UI界面翻译内容集合
@@ -376,10 +536,12 @@ const i18nUICollection = defineCollection({
     faq: z.object({
       title: z.string(),
       description: z.string(),
-      items: z.array(z.object({
-        question: z.string(),
-        answer: z.string(),
-      })),
+      items: z.array(
+        z.object({
+          question: z.string(),
+          answer: z.string(),
+        }),
+      ),
     }),
     // 错误页面相关翻译
     error: z.object({
@@ -406,11 +568,13 @@ const i18nUICollection = defineCollection({
       features: z.object({
         defaultTitle: z.string(),
         defaultDescription: z.string(),
-        defaults: z.array(z.object({
-          icon: z.string(),
-          title: z.string(),
-          description: z.string(),
-        })),
+        defaults: z.array(
+          z.object({
+            icon: z.string(),
+            title: z.string(),
+            description: z.string(),
+          }),
+        ),
       }),
       howToPlay: z.object({
         defaultTitle: z.string(),
@@ -432,4 +596,5 @@ export const collections = {
   games: gamesCollection,
   i18nUI: i18nUICollection,
   staticData: staticDataCollection,
+  legal: legalCollection,
 };

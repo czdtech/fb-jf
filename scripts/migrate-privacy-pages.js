@@ -1,0 +1,454 @@
+#!/usr/bin/env node
+
+// 批量迁移隐私页到 LegalPage 组件的脚本
+
+import { promises as fs } from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const languages = ["fr", "de", "ja", "ko"];
+
+async function migratePrivacyPage(locale) {
+  const filePath = path.join(
+    __dirname,
+    "..",
+    "src",
+    "pages",
+    locale,
+    "privacy.astro",
+  );
+
+  const newContent = `---
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import LegalPage from '@/components/legal/LegalPage.astro'
+import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
+
+const { navigation } = extractedData
+
+// 获取当前语言
+const locale = '${locale}'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const privacyData = legalContent?.data.privacy
+
+if (!privacyData) {
+  throw new Error(\`Privacy content not found for locale: \${locale}\`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/privacy',
+  'https://www.playfiddlebops.com'
+)
+
+// Meta data for privacy page
+const meta = {
+  title: privacyData.meta.title,
+  description: privacyData.meta.description,
+  canonical: \`https://www.playfiddlebops.com/\${locale}/privacy/\`,
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "noindex, nofollow"
+}
+---
+
+<BaseLayout
+  meta={meta}
+  lang={locale}
+  hreflang={hreflangLinks}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang={locale}
+    currentPath={\`/\${locale}/privacy/\`}
+  />
+
+  <LegalPage
+    locale={locale}
+    kind="privacy"
+    currentPath={\`/\${locale}/privacy/\`}
+  />
+
+  <Footer
+    locale={locale}
+  />
+</BaseLayout>
+
+<style>
+  /* ===== PRIVACY POLICY PAGE STYLES ===== */
+
+  /* Page Background */
+  body {
+    background: var(--hero-main-bg);
+    min-height: 100vh;
+  }
+
+  .privacy-page {
+    background: transparent;
+  }
+
+  /* Privacy Hero Section */
+  .privacy-hero {
+    background: var(--hero-main-bg);
+    color: var(--color-text);
+    padding: var(--space-16) 0 var(--space-8);
+    padding-top: calc(80px + var(--space-8));
+    position: relative;
+    overflow: hidden;
+  }
+
+  .privacy-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--hero-texture-bg);
+    opacity: var(--hero-texture-opacity);
+    pointer-events: none;
+  }
+
+  .privacy-hero-content {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+  }
+
+  /* Breadcrumb Navigation */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-bottom: var(--space-6);
+    font-size: var(--font-size-sm);
+    justify-content: center;
+  }
+
+  .breadcrumb-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    color: var(--color-primary-600);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .breadcrumb-link:hover {
+    color: var(--color-primary-700);
+  }
+
+  .breadcrumb-separator {
+    color: var(--color-text-muted);
+  }
+
+  .breadcrumb-current {
+    color: var(--color-text);
+    font-weight: 500;
+  }
+
+  /* Hero Title and Description */
+  .privacy-hero h1 {
+    font-size: var(--font-size-5xl);
+    font-weight: 800;
+    margin-bottom: var(--space-4);
+    background: var(--gradient-text);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero-description {
+    font-size: var(--font-size-lg);
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-4);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .last-updated {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    color: var(--color-text-muted);
+    font-size: var(--font-size-sm);
+  }
+
+  /* Privacy Icons */
+  .privacy-icons {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-8);
+    margin-top: var(--space-8);
+  }
+
+  .privacy-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: var(--radius-full);
+    background: var(--glass-bg);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-size-2xl);
+    color: var(--color-primary-600);
+  }
+
+  /* Content Section */
+  .privacy-content {
+    padding: var(--space-16) 0;
+  }
+
+  .content-wrapper {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: var(--space-8);
+    align-items: flex-start;
+  }
+
+  /* Navigation Menu */
+  .privacy-nav {
+    position: sticky;
+    top: calc(80px + var(--space-4));
+    padding: var(--space-6);
+    border-radius: var(--radius-lg);
+  }
+
+  .privacy-nav h3 {
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    margin-bottom: var(--space-4);
+    color: var(--color-text);
+  }
+
+  .privacy-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .privacy-nav li {
+    margin-bottom: var(--space-2);
+  }
+
+  .privacy-nav a {
+    color: var(--color-text-muted);
+    text-decoration: none;
+    font-size: var(--font-size-sm);
+    transition: color 0.2s;
+    display: block;
+    padding: var(--space-1) 0;
+  }
+
+  .privacy-nav a:hover {
+    color: var(--color-primary-600);
+  }
+
+  /* Main Article */
+  .privacy-article {
+    padding: var(--space-8);
+    border-radius: var(--radius-lg);
+  }
+
+  .privacy-article section {
+    margin-bottom: var(--space-10);
+    scroll-margin-top: calc(80px + var(--space-4));
+  }
+
+  .privacy-article h2 {
+    font-size: var(--font-size-2xl);
+    font-weight: 700;
+    margin-bottom: var(--space-4);
+    color: var(--color-text);
+  }
+
+  .privacy-article h3 {
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-3);
+    color: var(--color-text);
+  }
+
+  .privacy-article h4 {
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-2);
+    color: var(--color-text);
+  }
+
+  .privacy-article p {
+    color: var(--color-text-muted);
+    line-height: 1.7;
+    margin-bottom: var(--space-4);
+  }
+
+  .privacy-article ul,
+  .privacy-article ol {
+    margin-bottom: var(--space-4);
+    padding-left: var(--space-6);
+  }
+
+  .privacy-article li {
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-2);
+    line-height: 1.6;
+  }
+
+  .privacy-article a {
+    color: var(--color-primary-600);
+    text-decoration: underline;
+  }
+
+  .privacy-article a:hover {
+    color: var(--color-primary-700);
+  }
+
+  /* Info and Warning Boxes */
+  .info-box,
+  .warning-box {
+    padding: var(--space-4);
+    border-radius: var(--radius-md);
+    margin: var(--space-6) 0;
+    display: flex;
+    gap: var(--space-3);
+    align-items: flex-start;
+  }
+
+  .info-box {
+    background: var(--color-info-50);
+    border: 1px solid var(--color-info-200);
+  }
+
+  .warning-box {
+    background: var(--color-warning-50);
+    border: 1px solid var(--color-warning-200);
+  }
+
+  .info-box i,
+  .warning-box i {
+    font-size: var(--font-size-xl);
+    flex-shrink: 0;
+  }
+
+  .info-box i {
+    color: var(--color-info-600);
+  }
+
+  .warning-box i {
+    color: var(--color-warning-600);
+  }
+
+  .info-box h5,
+  .warning-box h5 {
+    font-size: var(--font-size-base);
+    font-weight: 600;
+    margin-bottom: var(--space-1);
+  }
+
+  /* Rights Grid */
+  .rights-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-4);
+    margin-top: var(--space-6);
+  }
+
+  .right-item {
+    padding: var(--space-4);
+    background: var(--glass-bg);
+    border-radius: var(--radius-md);
+    text-align: center;
+  }
+
+  .right-item i {
+    font-size: var(--font-size-2xl);
+    color: var(--color-primary-600);
+    margin-bottom: var(--space-2);
+  }
+
+  .right-item h4 {
+    font-size: var(--font-size-base);
+    font-weight: 600;
+    margin-bottom: var(--space-1);
+  }
+
+  .right-item p {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  /* Contact Info */
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+  }
+
+  .contact-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    color: var(--color-text-muted);
+  }
+
+  .contact-item i {
+    color: var(--color-primary-600);
+    width: 20px;
+  }
+
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .content-wrapper {
+      grid-template-columns: 1fr;
+    }
+
+    .privacy-nav {
+      position: relative;
+      top: 0;
+    }
+
+    .privacy-hero h1 {
+      font-size: var(--font-size-3xl);
+    }
+
+    .rights-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .privacy-icons {
+      gap: var(--space-4);
+    }
+
+    .privacy-icon {
+      width: 50px;
+      height: 50px;
+      font-size: var(--font-size-xl);
+    }
+  }
+</style>
+`;
+
+  await fs.writeFile(filePath, newContent, "utf-8");
+  console.log(`✅ Migrated ${locale} privacy page`);
+}
+
+async function main() {
+  for (const locale of languages) {
+    await migratePrivacyPage(locale);
+  }
+  console.log("✨ All privacy pages migrated successfully!");
+}
+
+main().catch(console.error);

@@ -1,5 +1,6 @@
 import { PAGINATION_CONFIG, type PaginationResult, type GamePageItem } from '@/config/pagination';
 import { calculatePagination } from '@/utils/content';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 
 /**
  * 验证并规范化页码参数
@@ -86,33 +87,15 @@ export function generatePaginationUrls(
   basePath: string, 
   currentPage: number, 
   totalPages: number,
-  currentLocale?: string
+  currentLocale: string = 'en'
 ): { prev?: string; next?: string } {
   const urls: { prev?: string; next?: string } = {};
-  
-  // Helper to build localized path
-  const buildLocalizedPath = (path: string) => {
-    if (currentLocale && currentLocale !== 'en') {
-      return `/${currentLocale}${path}`;
-    }
-    return path;
-  };
-  
-  // Previous page URL
   if (currentPage > PAGINATION_CONFIG.MIN_PAGE) {
-    if (currentPage === 2) {
-      // Page 2 goes back to page 1 (no page number in URL)
-      urls.prev = buildLocalizedPath(basePath + '/');
-    } else {
-      urls.prev = buildLocalizedPath(`${basePath}/${currentPage - 1}/`);
-    }
+    urls.prev = buildPageUrl(basePath, currentPage - 1, currentLocale);
   }
-  
-  // Next page URL
   if (currentPage < totalPages) {
-    urls.next = buildLocalizedPath(`${basePath}/${currentPage + 1}/`);
+    urls.next = buildPageUrl(basePath, currentPage + 1, currentLocale);
   }
-  
   return urls;
 }
 
@@ -126,20 +109,11 @@ export function generatePaginationUrls(
 export function buildPageUrl(
   basePath: string, 
   page: number, 
-  currentLocale?: string
+  currentLocale: string = 'en'
 ): string {
-  // Helper to build localized path
-  const buildLocalizedPath = (path: string) => {
-    if (currentLocale && currentLocale !== 'en') {
-      return `/${currentLocale}${path}`;
-    }
-    return path;
-  };
-  
-  if (page === 1) {
-    return buildLocalizedPath(basePath + '/');
-  }
-  return buildLocalizedPath(`${basePath}/${page}/`);
+  const pagePath = page === 1 ? basePath : `${basePath}/${page}`;
+  const url = getRelativeLocaleUrl(currentLocale, pagePath);
+  return url.endsWith('/') ? url : `${url}/`;
 }
 
 /**

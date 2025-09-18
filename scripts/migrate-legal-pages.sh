@@ -1,0 +1,201 @@
+#!/bin/bash
+
+# 迁移法务页面到模板化方式
+
+LOCALES=("zh" "es" "fr" "de" "ja" "ko")
+
+for locale in "${LOCALES[@]}"; do
+  echo "Processing $locale..."
+
+  # Privacy page
+  cat > "src/pages/$locale/privacy.astro" << 'EOF'
+---
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
+
+const { navigation } = extractedData
+
+// 获取当前语言
+const locale = 'LOCALE_PLACEHOLDER'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const privacyData = legalContent?.data.privacy
+
+if (!privacyData) {
+  throw new Error(`Privacy content not found for locale: ${locale}`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/privacy',
+  'https://www.playfiddlebops.com'
+)
+
+// Meta data for privacy page
+const meta = {
+  title: privacyData.meta.title,
+  description: privacyData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/privacy/`,
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "noindex, nofollow"
+}
+---
+
+<BaseLayout
+  meta={meta}
+  lang={locale}
+  hreflang={hreflangLinks}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang={locale}
+    currentPath="/privacy/"
+  />
+
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{privacyData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {privacyData.meta.lastUpdated}</p>
+      </header>
+
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {privacyData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {privacyData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
+      </div>
+    </article>
+  </main>
+
+  <Footer
+    locale={locale}
+  />
+</BaseLayout>
+EOF
+
+  # Replace placeholder with actual locale
+  sed -i "s/LOCALE_PLACEHOLDER/$locale/g" "src/pages/$locale/privacy.astro"
+
+  # Terms of Service page
+  cat > "src/pages/$locale/terms-of-service.astro" << 'EOF'
+---
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import Navigation from '@/components/Navigation.astro'
+import Footer from '@/components/Footer.astro'
+import extractedData from '@/data/extracted-data.json'
+import { getEntry } from 'astro:content'
+import { generateHreflangLinks } from '@/utils/hreflang'
+
+const { navigation } = extractedData
+
+// 获取当前语言
+const locale = 'LOCALE_PLACEHOLDER'
+
+// 从内容集合加载法务内容
+const legalContent = await getEntry('legal', locale)
+const termsData = legalContent?.data.terms
+
+if (!termsData) {
+  throw new Error(`Terms content not found for locale: ${locale}`)
+}
+
+// 使用统一的 hreflang 生成工具
+const hreflangLinks = generateHreflangLinks(
+  navigation.languages.map((lang: any) => ({ code: lang.code, label: lang.label })),
+  '/terms-of-service',
+  'https://www.playfiddlebops.com'
+)
+
+// Meta data for terms page
+const meta = {
+  title: termsData.meta.title,
+  description: termsData.meta.description,
+  canonical: `https://www.playfiddlebops.com/${locale}/terms-of-service/`,
+  ogImage: "https://www.playfiddlebops.com/tw.jpg",
+  robots: "noindex, nofollow"
+}
+---
+
+<BaseLayout
+  meta={meta}
+  lang={locale}
+  hreflang={hreflangLinks}
+>
+  <Navigation
+    navigation={navigation.main}
+    languages={navigation.languages}
+    currentLang={locale}
+    currentPath="/terms-of-service/"
+  />
+
+  <main class="responsive-container flex-1 py-8">
+    <article class="mx-auto max-w-4xl">
+      <header class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{termsData.meta.title}</h1>
+        <p class="text-gray-600">Last Updated: {termsData.meta.lastUpdated}</p>
+      </header>
+
+      <!-- Table of Contents -->
+      <nav class="mb-8 p-6 bg-gray-50 rounded-lg">
+        <h2 class="text-xl font-semibold mb-4">Table of Contents</h2>
+        <ul class="space-y-2">
+          {termsData.tableOfContents.map((item: any) => (
+            <li>
+              <a href={`#${item.id}`} class="text-blue-600 hover:underline">
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <!-- Content Sections -->
+      <div class="space-y-8">
+        {termsData.sections.map((section: any) => (
+          <section id={section.id} class="scroll-mt-20">
+            <h2 class="text-2xl font-semibold mb-4">{section.title}</h2>
+            <div class="prose max-w-none" set:html={section.content} />
+          </section>
+        ))}
+      </div>
+    </article>
+  </main>
+
+  <Footer
+    locale={locale}
+  />
+</BaseLayout>
+EOF
+
+  # Replace placeholder with actual locale
+  sed -i "s/LOCALE_PLACEHOLDER/$locale/g" "src/pages/$locale/terms-of-service.astro"
+
+  echo "✅ Migrated $locale legal pages to template"
+done
+
+echo "🎉 All legal pages migrated successfully!"

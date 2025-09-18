@@ -1,5 +1,6 @@
 ---
 import GameIframe from '@/components/GameIframe.astro'
+import { getRelativeLocaleUrl } from 'astro:i18n'
 
 interface Props {
   game: {
@@ -23,6 +24,7 @@ interface Props {
 }
 
 const { game, rating, pageType } = Astro.props
+const currentLocale = (Astro.currentLocale as any) || 'en'
 ---
 
 
@@ -38,7 +40,7 @@ const { game, rating, pageType } = Astro.props
   <!-- Premium Navigation -->
   <div class="container">
     <nav class="breadcrumb-apple">
-      <a href="/" class="breadcrumb-item">
+      <a href={getRelativeLocaleUrl(currentLocale, '/')} class="breadcrumb-item">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
           <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
         </svg>
