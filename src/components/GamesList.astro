@@ -1,6 +1,7 @@
 ---
 import ResponsivePicture from '@/components/ResponsivePicture.astro'
 import GameCard from './GameCard.astro';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 
 interface Props {
   games: Array<{
@@ -14,9 +15,10 @@ interface Props {
   }>;
   title?: string;
   variant?: 'grid' | 'list' | 'simple';
+  currentLocale?: string;
 }
 
-const { games, title, variant = 'grid' } = Astro.props;
+const { games, title, variant = 'grid', currentLocale = (Astro.currentLocale as any) || 'en' } = Astro.props;
 ---
 
 {title && <h2 class="games-list-title">{title}</h2>}
@@ -83,7 +85,7 @@ const { games, title, variant = 'grid' } = Astro.props;
       const baseSlug = gameSlug.replace(/-[a-z]{2}$/, '');
       return (
         <li>
-          <a href={`/${baseSlug}/`} title={game.data.title}>
+          <a href={getRelativeLocaleUrl(currentLocale, `/${baseSlug}/`)} title={game.data.title}>
             <ResponsivePicture src={game.data.image} alt={game.data.title} width={60} height={60} decoding="async" loading="lazy" class="rounded-md" />
             <div class="title min-h-[44px] flex items-center">{game.data.title}</div>
           </a>
