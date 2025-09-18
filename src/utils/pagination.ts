@@ -3,6 +3,13 @@ import { calculatePagination } from '@/utils/content';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 
 /**
+ * Normalizes a URL to always end with a trailing slash
+ */
+function normalizeTrailingSlash(url: string): string {
+  return url.endsWith('/') ? url : `${url}/`;
+}
+
+/**
  * 验证并规范化页码参数
  * 使用统一的分页配置
  */
@@ -113,7 +120,7 @@ export function buildPageUrl(
 ): string {
   const pagePath = page === 1 ? basePath : `${basePath}/${page}`;
   const url = getRelativeLocaleUrl(currentLocale, pagePath);
-  return url.endsWith('/') ? url : `${url}/`;
+  return normalizeTrailingSlash(url);
 }
 
 /**

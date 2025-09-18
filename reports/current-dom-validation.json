@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-18T10:01:20.516Z",
+  "timestamp": "2025-09-18T16:27:54.625Z",
   "pages": {
     "/": {
       "name": "Homepage",
@@ -8,7 +8,7 @@
           "rule": "Social Share Kit",
           "selector": ".a2a_kit",
           "required": false,
-          "found": 2,
+          "found": 0,
           "status": "PASS"
         },
         {
@@ -34,7 +34,7 @@
           "rule": "Social Share Kit",
           "selector": ".a2a_kit",
           "required": false,
-          "found": 2,
+          "found": 0,
           "status": "PASS"
         },
         {
@@ -88,7 +88,7 @@
           "rule": "Social Share Kit",
           "selector": ".a2a_kit",
           "required": false,
-          "found": 2,
+          "found": 0,
           "status": "PASS"
         },
         {

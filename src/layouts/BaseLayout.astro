@@ -140,12 +140,9 @@ const htmlDir = getLanguageDirection(lang as any);
     {import.meta.env.PROD && !isLegalPage && (
       <>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-        <script is:inline>
-          // Google Analytics (生产环境)
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){window.dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-9JME3P55QJ');
+        <script type="module" is:inline>
+          import { initAnalytics } from '@/scripts/analytics.js';
+          initAnalytics();
         </script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733" crossorigin="anonymous"></script>
         <meta name="google-adsense-account" content="ca-pub-1444054360166733" />
@@ -154,15 +151,9 @@ const htmlDir = getLanguageDirection(lang as any);
 
     <!-- 开发环境占位符 -->
     {import.meta.env.DEV && (
-      <script is:inline>
-        // 开发环境 - 分析和广告代码占位符
-        console.log('🔧 开发模式：分析和广告代码已禁用');
-
-        // 模拟 gtag 函数防止错误
-        window['dataLayer'] = window['dataLayer'] || [];
-        window['gtag'] = function() {
-          console.log('📊 [DEV] gtag 调用:', arguments);
-        };
+      <script type="module" is:inline>
+        import { initCritical } from '@/scripts/critical.js';
+        initCritical();
       </script>
     )}
 

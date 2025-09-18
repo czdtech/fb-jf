@@ -36,12 +36,16 @@ try {
     localizedGames = await getLocalizedGamesList('en');
   }
 } catch (error) {
-  console.error(`Failed to load games for locale ${currentLocale}:`, error);
+  if (import.meta.env.DEV) {
+    console.error(`Failed to load games for locale ${currentLocale}:`, error);
+  }
   // 错误时回退到英文游戏列表
   try {
     localizedGames = await getLocalizedGamesList('en');
   } catch (fallbackError) {
-    console.error('Failed to load fallback English games:', fallbackError);
+    if (import.meta.env.DEV) {
+      console.error('Failed to load fallback English games:', fallbackError);
+    }
     localizedGames = [];
   }
 }
@@ -191,7 +195,9 @@ const structuredData = {
             });
           }, { passive: true });
         } catch (err) {
-          console.warn('[index] 延迟加载交互脚本失败', err);
+          if (import.meta.env.DEV) {
+            console.warn('[index] 延迟加载交互脚本失败', err);
+          }
         }
       };
 

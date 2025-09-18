@@ -29,7 +29,9 @@ export function initHomepage() {
           });
         });
       } catch (error) {
-        console.log("⚠️ 延迟加载失败，但页面仍可正常使用:", error);
+        if (import.meta.env?.DEV) {
+          console.log("⚠️ 延迟加载失败，但页面仍可正常使用:", error);
+        }
       }
     };
 

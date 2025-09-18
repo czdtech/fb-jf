@@ -173,131 +173,14 @@ const currentLocale = (Astro.currentLocale as any) || 'en'
   </div>
 </section>
 
-<script>
-  // Apple-inspired smooth interactions
-  function scrollToGame() {
-    const iframe = document.getElementById('hero-game-iframe')
-    if (iframe) {
-      iframe.scrollIntoView({
-        behavior: 'smooth',
-        block: 'center',
-        inline: 'nearest'
-      })
-      // Add subtle focus state
-      iframe.closest('.preview-container')?.classList.add('focused')
-      setTimeout(() => {
-        iframe.closest('.preview-container')?.classList.remove('focused')
-      }, 2000)
-    }
-  }
-
-  function shareGame() {
-    const shareData = {
-      title: document.title,
-      text: `Experience ${document.querySelector('.game-title-apple')?.textContent} - An incredible music creation game`,
-      url: window.location.href,
-    }
-
-    if (navigator.share && navigator.canShare?.(shareData)) {
-      navigator.share(shareData)
-    } else {
-      // Fallback with elegant animation
-      navigator.clipboard.writeText(window.location.href).then(() => {
-        showToast('Link copied to clipboard')
-      })
-    }
-  }
-
-  function toggleFullscreen() {
-    const container = document.querySelector('.game-content-area')
-    if (container) {
-      if (!document.fullscreenElement) {
-        container.requestFullscreen().catch(err => {
-          console.log('Fullscreen error:', err)
-        })
-      } else {
-        document.exitFullscreen()
-      }
-    }
-  }
-
-  function reloadGame() {
-    const iframe = document.getElementById('hero-game-iframe') as HTMLIFrameElement | null
-    const loadingState = document.querySelector('.game-loading-state') as HTMLElement | null
-
-    if (iframe && loadingState) {
-      loadingState.style.opacity = '1'
-      loadingState.style.pointerEvents = 'auto'
-
-      // 重新加载 iframe
-      iframe.src = iframe.src
-
-      setTimeout(() => {
-        loadingState.style.opacity = '0'
-        loadingState.style.pointerEvents = 'none'
-      }, 1500)
-    }
-  }
-
-  function showToast(message: string) {
-    const toast = document.createElement('div')
-    toast.className = 'apple-toast'
-    toast.textContent = message
-    document.body.appendChild(toast)
-
-    // Animate in
-    requestAnimationFrame(() => {
-      toast.style.transform = 'translateX(-50%) translateY(0)'
-      toast.style.opacity = '1'
-    })
-
-    // Remove after delay
-    setTimeout(() => {
-      toast.style.transform = 'translateX(-50%) translateY(-100%)'
-      toast.style.opacity = '0'
-      setTimeout(() => {
-        document.body.removeChild(toast)
-      }, 300)
-    }, 2500)
-  }
-
-  // Enhanced loading experience
-  document.addEventListener('DOMContentLoaded', () => {
-    const iframe = document.getElementById('hero-game-iframe') as HTMLIFrameElement | null
-    const loadingState = document.querySelector('.game-loading-state') as HTMLElement | null
-
-    if (iframe && loadingState) {
-      iframe.addEventListener('load', () => {
-        setTimeout(() => {
-          if (loadingState) {
-            loadingState.style.opacity = '0'
-            loadingState.style.pointerEvents = 'none'
-          }
-        }, 800) // Allow time for content to render
-      })
-
-      // Timeout fallback
-      setTimeout(() => {
-        if (loadingState && loadingState.style.opacity !== '0') {
-          loadingState.style.opacity = '0'
-          loadingState.style.pointerEvents = 'none'
-        }
-      }, 5000)
-    }
-
-    // Add intersection observer for animations
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animate-in')
-        }
-      })
-    }, { threshold: 0.1 })
-
-    document.querySelectorAll('.hero-info-panel, .hero-preview-panel').forEach((el) => {
-      observer.observe(el)
-    })
-  })
+<script type="module" is:inline>
+  import { initHero } from '@/scripts/hero-utils.js';
+  initHero();
+  // 注意：为保持现有 onclick 兼容，hero-utils 会将相关函数挂到 window 上
+  // window.scrollToGame / window.shareGame / window.toggleFullscreen / window.reloadGame / window.showToast
+  // DOM 加载与动画观察者也在 initHero 内部完成
+  void 0;
+  
 </script>
 
 <style>

@@ -33,7 +33,9 @@ let localizedGames;
 try {
   localizedGames = await getLocalizedGamesList(currentLocale);
 } catch (error) {
-  console.error('[zh/index] 获取游戏列表失败:', error);
+  if (import.meta.env.DEV) {
+    console.error('[zh/index] 获取游戏列表失败:', error);
+  }
   localizedGames = [];
 }
 const popularGames = localizedGames.filter((game: any) => game.data.category === 'popular').slice(0, HOMEPAGE_GAME_COUNTS.popular);

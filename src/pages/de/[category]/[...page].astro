@@ -41,7 +41,9 @@ export async function getStaticPaths() {
         });
       }
     } catch (error) {
-      console.error(`Error generating de paths for ${slug}:`, error);
+      if (import.meta.env.DEV) {
+        console.error(`Error generating de paths for ${slug}:`, error);
+      }
     }
   }
   return paths;
