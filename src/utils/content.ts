@@ -5,6 +5,8 @@
  */
 
 import { getCollection, type CollectionEntry } from 'astro:content';
+// DEV flag for console output; keep production builds quiet
+const __IS_DEV__ = (typeof process !== 'undefined' && process.env && process.env.NODE_ENV !== 'production') || false;
 import { PAGINATION_CONFIG } from '@/config/pagination';
 
 // 支持的语言代码
@@ -70,7 +72,9 @@ export function filterEnglishGames(games: CollectionEntry<'games'>[]): Collectio
     const validation = validateGameIdFormat(game.id);
     
     if (!validation.isValid) {
-      console.warn(`Invalid game ID format: ${game.id} - ${validation.error}`);
+      if (__IS_DEV__) {
+        console.warn(`Invalid game ID format: ${game.id} - ${validation.error}`);
+      }
       return false;
     }
     

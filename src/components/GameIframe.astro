@@ -87,66 +87,10 @@ const iframeStyle = autoLoad
 </div>
 
 {!autoLoad && (
-  <script define:vars={{ iframeId: id, iframeSrc: src }}>
-    let iframeLoaded = false;
-    const iframe = document.getElementById(iframeId);
-    const playButton = document.getElementById("playButton");
-    const container = iframe?.parentElement;
-
-    // 当容器接近视窗时，预先插入 preconnect/dns-prefetch（减少首屏无关连接开销）
-    try {
-      if (iframeSrc && 'IntersectionObserver' in window && container) {
-        const observedOnce = { done: false };
-        const io = new IntersectionObserver((entries) => {
-          if (observedOnce.done) return;
-          if (entries.some((en) => en.isIntersecting)) {
-            observedOnce.done = true;
-            io.disconnect();
-            const origin = new URL(iframeSrc).origin;
-            const link1 = document.createElement('link');
-            link1.rel = 'preconnect';
-            link1.href = origin;
-            document.head.appendChild(link1);
-            const link2 = document.createElement('link');
-            link2.rel = 'dns-prefetch';
-            link2.href = origin;
-            document.head.appendChild(link2);
-          }
-        }, { rootMargin: '200px' });
-        io.observe(container);
-      }
-    } catch (e) {
-      // 忽略非关键失败
-    }
-
-    function loadIframe() {
-      if (!iframeLoaded) {
-        // 隐藏播放按钮和覆盖层
-        const gameCover = document.getElementById("gameCover");
-        if (gameCover) {
-          gameCover.style.opacity = "0";
-          gameCover.style.pointerEvents = "none";
-          setTimeout(() => {
-            gameCover.style.display = "none";
-          }, 300);
-        }
-
-        // 开始加载iframe
-        iframe.src = iframeSrc;
-
-        // 监听iframe加载完成
-        iframe.onload = function() {
-          // 立即显示iframe
-          iframe.style.opacity = "1";
-          iframe.style.pointerEvents = "auto";
-        };
-
-        iframeLoaded = true;
-        iframe.focus();
-      }
-    }
-
-    playButton?.addEventListener("click", loadIframe);
+  <script type="module" is:inline define:vars={{ iframeId: id, iframeSrc: src }}>
+    import { initIframeCover } from '@/scripts/iframe/cover-observer.js';
+    initIframeCover(iframeId, iframeSrc);
+    void 0;
   </script>
 )}
 
