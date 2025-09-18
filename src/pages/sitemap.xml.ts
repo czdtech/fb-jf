@@ -1,5 +1,4 @@
 import { getCollection } from "astro:content";
-import process from "node:process";
 import { getSiteUrl } from "@/utils/site";
 import { SUPPORTED_LOCALES } from "@/i18n/utils";
 
