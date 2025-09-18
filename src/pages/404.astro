@@ -9,7 +9,7 @@ const { navigation } = extractedData
 
 // 多语言配置（动态识别并生成对应语言的 URL）
 import { getTranslation, LOCALE_NAMES, type SupportedLocale } from '@/i18n/utils';
-import { getAbsoluteLocaleUrl } from 'astro:i18n';
+import { getAbsoluteLocaleUrl, getRelativeLocaleUrl } from 'astro:i18n';
 
 const currentLocale: SupportedLocale = (Astro.currentLocale as SupportedLocale) || 'en';
 const translation = await getTranslation(currentLocale);
@@ -50,7 +50,7 @@ const meta = {
         <div class="error-hero-content">
           <!-- 面包屑导航 -->
           <nav class="breadcrumb" aria-label="面包屑导航">
-            <a href="/" class="breadcrumb-link">
+            <a href={getRelativeLocaleUrl(currentLocale, '/')} class="breadcrumb-link">
               <i class="fas fa-home"></i>
               <span>{uiText?.navigation?.home || 'Home'}</span>
             </a>
@@ -69,11 +69,11 @@ const meta = {
             </p>
 
             <div class="error-actions">
-              <a href={getAbsoluteLocaleUrl(currentLocale, '/')} class="btn btn-primary btn-lg">
+              <a href={getRelativeLocaleUrl(currentLocale, '/')} class="btn btn-primary btn-lg">
                 <i class="fas fa-home"></i>
                 <span>{uiText?.error?.['404']?.backToHome || 'Return to Homepage'}</span>
               </a>
-              <a href={getAbsoluteLocaleUrl(currentLocale, '/games')} class="btn btn-secondary btn-lg">
+              <a href={getRelativeLocaleUrl(currentLocale, '/games/')} class="btn btn-secondary btn-lg">
                 <i class="fas fa-gamepad"></i>
                 <span>{uiText?.games?.viewMore || 'Browse Games'}</span>
               </a>
@@ -105,7 +105,7 @@ const meta = {
             <div class="suggestion-icon">🎮</div>
             <h3 class="suggestion-title">FiddleBops Fix</h3>
             <p class="suggestion-description">{uiText?.error?.['404']?.originalExperience || 'The original FiddleBops experience with improved features'}</p>
-            <a href="/fiddlebops-fix/" class="suggestion-link">
+            <a href={getRelativeLocaleUrl(currentLocale, '/fiddlebops-fix/')} class="suggestion-link">
               <span>{uiText?.games?.playNow || 'Play Now'}</span>
               <i class="fas fa-arrow-right"></i>
             </a>
@@ -115,7 +115,7 @@ const meta = {
             <div class="suggestion-icon">🎵</div>
             <h3 class="suggestion-title">Sprunki Retake</h3>
             <p class="suggestion-description">{uiText?.error?.['404']?.sprunikiExperience || 'Create amazing beats with colorful Sprunki characters'}</p>
-            <a href="/sprunki-retake/" class="suggestion-link">
+            <a href={getRelativeLocaleUrl(currentLocale, '/sprunki-retake/')} class="suggestion-link">
               <span>{uiText?.games?.playNow || 'Play Now'}</span>
               <i class="fas fa-arrow-right"></i>
             </a>
@@ -125,7 +125,7 @@ const meta = {
             <div class="suggestion-icon">🎶</div>
             <h3 class="suggestion-title">Incredibox</h3>
             <p class="suggestion-description">{uiText?.error?.['404']?.incrediboxExperience || 'The classic music creation game that started it all'}</p>
-            <a href={getAbsoluteLocaleUrl(currentLocale, '/incredibox')} class="suggestion-link">
+            <a href={getRelativeLocaleUrl(currentLocale, '/incredibox/')} class="suggestion-link">
               <span>{uiText?.games?.playNow || 'Play Now'}</span>
               <i class="fas fa-arrow-right"></i>
             </a>
