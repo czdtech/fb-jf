@@ -6,16 +6,16 @@ description: >-
   iconic themes and visuals of Squid Game with the creative freedom of Sprunki,
   resulting in unprecedented crossover gameplay.
 image: /sprunki-squid-remix.png
-iframe: https://turbowarp.org/1123885023/embed
+iframe: 'https://turbowarp.org/1123885023/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Squid Remix - Play Sprunki Squid Remix Online
   description: >-
     prunki Squid offers a truly unique and thrilling experience. It combines the
     iconic themes and visuals of Squid Game with the creative freedom of
     Sprunki, resulting in unprecedented crossover gameplay.
-  canonical: https://www.playfiddlebops.com/sprunki-squid-remix/
-  ogImage: https://www.playfiddlebops.com/sprunki-squid-remix.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
 seo:
   title: Sprunki Squid Remix - Play Sprunki Squid Remix Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     iconic themes and visuals of Squid Game with the creative freedom of
     Sprunki, resulting in unprecedented crossover gameplay.
   keywords: Sprunki Squid Remix
-  canonical: https://www.playfiddlebops.com/sprunki-squid-remix/
-  ogImage: https://www.playfiddlebops.com/sprunki-squid-remix.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
   schema:
     name: Sprunki Squid Remix - Play Sprunki Squid Remix Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-squid-remix/
+    url: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
 rating:
   score: 4.1
   maxScore: 5
@@ -39,6 +39,94 @@ breadcrumb:
   current: Sprunki Squid Remix
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Squid Remix
+    description: >-
+      prunki Squid offers a truly unique and thrilling experience. It combines
+      the iconic themes and visuals of Squid Game with the creative freedom of
+      Sprunki, resulting in unprecedented crossover gameplay.
+    meta: *ref_0
+  zh:
+    title: Sprunki 鱿鱼游戏重混
+    description: >
+      Sprunki 鱿鱼提供真正独特和刺激的体验。它将鱿鱼游戏的标志性 主题和视觉效果与 Sprunki 的创意自由相结合，产生前所未有的
+      跨界游戏体验。
+    meta:
+      title: Sprunki 鱿鱼游戏重混 - 在线玩 Sprunki 鱿鱼游戏重混
+      description: >
+        Sprunki 鱿鱼提供真正独特和刺激的体验。它将鱿鱼游戏的标志性 主题和视觉效果与 Sprunki 的创意自由相结合，产生前所未有的
+        跨界游戏体验。
+      canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
+  es:
+    title: Sprunki Squid Remix
+    description: >-
+      Sprunki Squid ofrece una experiencia verdaderamente única y emocionante.
+      Combina los temas icónicos y visuales de Squid Game con la libertad
+      creativa de Sprunki, resultando en una jugabilidad de crossover sin
+      precedentes.
+    meta:
+      title: Sprunki Squid Remix - Juega Sprunki Squid Remix Online
+      description: >-
+        Sprunki Squid ofrece una experiencia verdaderamente única y emocionante.
+        Combina los temas icónicos y visuales de Squid Game con la libertad
+        creativa de Sprunki, resultando en una jugabilidad de crossover sin
+        precedentes.
+      canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
+  fr:
+    title: Sprunki Squid Remix
+    description: >-
+      Un crossover sous haute tension : l’univers de Squid Game rencontre la 
+      liberté créative de Sprunki pour une expérience inédite.
+    meta:
+      title: Sprunki Squid Remix - Jouez en ligne
+      description: >-
+        Costumes iconiques, décors emblématiques, ambiance haletante —  composez
+        votre « chanson de survie ».
+      canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
+  de:
+    title: Sprunki Squid Remix
+    description: >-
+      Sprunki Squid bietet eine wirklich einzigartige und aufregende Erfahrung.
+      Es kombiniert die ikonischen Themen und Visuals von Squid Game mit der
+      kreativen Freiheit von Sprunki und resultiert in einem beispiellosen
+      Crossover-Gameplay.
+    meta:
+      title: Sprunki Squid Remix - Spiel Sprunki Squid Remix Online
+      description: >-
+        Sprunki Squid bietet eine wirklich einzigartige und aufregende
+        Erfahrung. Es kombiniert die ikonischen Themen und Visuals von Squid
+        Game mit der kreativen Freiheit von Sprunki und resultiert in einem
+        beispiellosen Crossover-Gameplay.
+      canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
+  ja:
+    title: Sprunki Squid Remix
+    description: >-
+      Sprunki Squidは真にユニークでスリリングな体験を提供します。 Squid
+      Gameの象徴的なテーマとビジュアルとSprunkiの創造的自由を組み合わせ、 前例のないクロスオーバーゲームプレイをもたらします。
+    meta:
+      title: Sprunki Squid Remix - Sprunki Squid Remix をオンラインでプレイ
+      description: >-
+        Sprunki Squidは真にユニークでスリリングな体験を提供します。 Squid
+        Gameの象徴的なテーマとビジュアルとSprunkiの創造的自由を組み合わせ、 前例のないクロスオーバーゲームプレイをもたらします。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-squid-remix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
+  ko:
+    title: 스프런키 스퀴드 리믹스
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 스퀴드 리믹스 - 스프런키 스퀴드 리믹스 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-squid-remix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-squid-remix.png'
 ---
 
 ## What the Heck is Sprunki Squid?

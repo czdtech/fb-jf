@@ -6,16 +6,16 @@ description: >-
   music-making core of Fiddlebops but swaps out all the original characters for
   the iconic Sprunki crew.
 image: /fiddlebops-sprunkbop.png
-iframe: https://turbowarp.org/1114551059/embed
+iframe: 'https://turbowarp.org/1114551059/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online
   description: >-
     Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive
     music-making core of Fiddlebops but swaps out all the original characters
     for the iconic Sprunki crew.
-  canonical: https://www.playfiddlebops.com/fiddlebops-sprunkbop/
-  ogImage: https://www.playfiddlebops.com/fiddlebops-sprunkbop.png
+  canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+  ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
 seo:
   title: Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     music-making core of Fiddlebops but swaps out all the original characters
     for the iconic Sprunki crew.
   keywords: Fiddlebops Sprunkbop
-  canonical: https://www.playfiddlebops.com/fiddlebops-sprunkbop/
-  ogImage: https://www.playfiddlebops.com/fiddlebops-sprunkbop.png
+  canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+  ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
   schema:
     name: Fiddlebops Sprunkbop - Play Fiddlebops Sprunkbop Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/fiddlebops-sprunkbop/
+    url: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
 rating:
   score: 4.1
   maxScore: 5
@@ -39,6 +39,94 @@ breadcrumb:
   current: Fiddlebops Sprunkbop
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Fiddlebops Sprunkbop
+    description: >-
+      Fiddlebops Sprunkbop is an awesome crossover event! It keeps the addictive
+      music-making core of Fiddlebops but swaps out all the original characters
+      for the iconic Sprunki crew.
+    meta: *ref_0
+  zh:
+    title: Fiddlebops Sprunkbop
+    description: >
+      Fiddlebops Sprunkbop 是一个超棒的跨界活动！它保持了 Fiddlebops
+      令人上瘾的音乐制作核心，但将所有原始角色替换为标志性的 Sprunki 团队。
+    meta:
+      title: Fiddlebops Sprunkbop - 在线玩 Fiddlebops Sprunkbop
+      description: >
+        Fiddlebops Sprunkbop 是一个超棒的跨界活动！它保持了 Fiddlebops
+        令人上瘾的音乐制作核心，但将所有原始角色替换为标志性的 Sprunki 团队。
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
+  es:
+    title: Fiddlebops Sprunkbop
+    description: >-
+      Fiddlebops Sprunkbop es un evento de cruce increíble! Mantiene el núcleo
+      adictivo de creación musical de Fiddlebops pero intercambia todos los
+      personajes originales por la icónica tripulación Sprunki.
+    meta:
+      title: Fiddlebops Sprunkbop - Juega Fiddlebops Sprunkbop Online
+      description: >-
+        Fiddlebops Sprunkbop es un evento de cruce increíble! Mantiene el núcleo
+        adictivo de creación musical de Fiddlebops pero intercambia todos los
+        personajes originales por la icónica tripulación Sprunki.
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
+  fr:
+    title: Fiddlebops Sprunkbop
+    description: >-
+      Fiddlebops Sprunkbop est un événement de croisement génial ! Il garde le
+      noyau addictif de création musicale de Fiddlebops mais remplace tous les
+      personnages originaux par l'équipe iconique de Sprunki.
+    meta:
+      title: Fiddlebops Sprunkbop - Jouer à Fiddlebops Sprunkbop en Ligne
+      description: >-
+        Fiddlebops Sprunkbop est un événement de croisement génial ! Il garde le
+        noyau addictif de création musicale de Fiddlebops mais remplace tous les
+        personnages originaux par l'équipe iconique de Sprunki.
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
+  de:
+    title: Fiddlebops Sprunkbop
+    description: >-
+      Fiddlebops Sprunkbop ist ein fantastisches Crossover-Event! Es behält den
+      süchtig machenden Musikgestaltungskern von Fiddlebops bei, tauscht aber
+      alle ursprünglichen Charaktere gegen die ikonische Sprunki-Crew aus.
+    meta:
+      title: Fiddlebops Sprunkbop - Fiddlebops Sprunkbop Online spielen
+      description: >-
+        Fiddlebops Sprunkbop ist ein fantastisches Crossover-Event! Es behält
+        den süchtig machenden Musikgestaltungskern von Fiddlebops bei, tauscht
+        aber alle ursprünglichen Charaktere gegen die ikonische Sprunki-Crew
+        aus.
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
+  ja:
+    title: Fiddlebops Sprunkbop
+    description: >-
+      Fiddlebops Sprunkbopは素晴らしいクロスオーバーイベントです！ Fiddlebopsの中毒性のある音楽制作の核心を維持しながら、
+      すべてのオリジナルキャラクターを象徴的なSprunkiクルーに置き換えています。
+    meta:
+      title: Fiddlebops Sprunkbop - Fiddlebops Sprunkbop をオンラインでプレイ
+      description: >-
+        Fiddlebops Sprunkbopは素晴らしいクロスオーバーイベントです！
+        Fiddlebopsの中毒性のある音楽制作の核心を維持しながら、
+        すべてのオリジナルキャラクターを象徴的なSprunkiクルーに置き換えています。
+      canonical: 'https://www.playfiddlebops.com/ja/fiddlebops-sprunkbop/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
+  ko:
+    title: 피들밥스 스프렁크밥
+    description: >-
+      피들밥스 스프렁크밥은 놀라운 크로스오버 이벤트입니다! 피들밥스의  중독성 있는 음악 제작 핵심은 유지하면서 모든 오리지널 캐릭터를 
+      상징적인 스프렁키 크루로 교체했습니다.
+    meta:
+      title: 피들밥스 스프렁크밥 - 피들밥스 스프렁크밥 온라인 플레이
+      description: >-
+        피들밥스 스프렁크밥은 놀라운 크로스오버 이벤트입니다! 피들밥스의  중독성 있는 음악 제작 핵심은 유지하면서 모든 오리지널
+        캐릭터를  상징적인 스프렁키 크루로 교체했습니다.
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunkbop.png'
 ---
 
 ## What's the Magic Behind Fiddlebops Sprunkbop?

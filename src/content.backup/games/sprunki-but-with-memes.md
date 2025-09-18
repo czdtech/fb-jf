@@ -6,16 +6,16 @@ description: >-
   you want in the sea of memes. Come and join Sprunki but with memes, and use
   your unique musical talents to ignite a meme craze!
 image: /sprunki-but-with-memes.png
-iframe: https://turbowarp.org/1095572358/embed
+iframe: 'https://turbowarp.org/1095572358/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki But With Memes - Play Sprunki But With Memes Online
   description: >-
     Sprunki but with memes is a music game that allows you to create as much as
     you want in the sea of memes. Come and join Sprunki but with memes, and use
     your unique musical talents to ignite a meme craze!
-  canonical: https://www.playfiddlebops.com/sprunki-but-with-memes/
-  ogImage: https://www.playfiddlebops.com/sprunki-but-with-memes.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
 seo:
   title: Sprunki But With Memes - Play Sprunki But With Memes Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     you want in the sea of memes. Come and join Sprunki but with memes, and use
     your unique musical talents to ignite a meme craze!
   keywords: Sprunki But With Memes
-  canonical: https://www.playfiddlebops.com/sprunki-but-with-memes/
-  ogImage: https://www.playfiddlebops.com/sprunki-but-with-memes.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
   schema:
     name: Sprunki But With Memes - Play Sprunki But With Memes Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-but-with-memes/
+    url: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
 rating:
   score: 4.2
   maxScore: 5
@@ -39,6 +39,94 @@ breadcrumb:
   current: Sprunki But With Memes
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki But With Memes
+    description: >-
+      Sprunki but with memes is a music game that allows you to create as much
+      as you want in the sea of memes. Come and join Sprunki but with memes, and
+      use your unique musical talents to ignite a meme craze!
+    meta: *ref_0
+  zh:
+    title: Sprunki But With Memes
+    description: >-
+      Sprunki but with memes 是一款音乐游戏，让你在表情包的海洋中尽情创作。来加入 Sprunki but with
+      memes，用你独特的音乐才华点燃表情包狂潮！
+    meta:
+      title: Sprunki But With Memes - 在线玩 Sprunki But With Memes
+      description: >-
+        Sprunki but with memes 是一款音乐游戏，让你在表情包的海洋中尽情创作。来加入 Sprunki but with
+        memes，用你独特的音乐才华点燃表情包狂潮！
+      canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
+  es:
+    title: Sprunki But With Memes
+    description: >-
+      Sprunki pero con memes es un juego de música que te permite crear tanto
+      como quieras en el mar de memes. Ven y únete a Sprunki pero con memes, y
+      usa tus talentos musicales únicos para encender una locura de memes!
+    meta:
+      title: Sprunki But With Memes - Jugar Sprunki But With Memes Online
+      description: >-
+        Sprunki pero con memes es un juego de música que te permite crear tanto
+        como quieras en el mar de memes. Ven y únete a Sprunki pero con memes, y
+        usa tus talentos musicales únicos para encender una locura de memes!
+      canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
+  fr:
+    title: Sprunki But With Memes
+    description: >-
+      Sprunki but with memes est un jeu musical qui vous permet de créer autant
+      que vous voulez dans la mer de memes. Venez rejoindre Sprunki but with
+      memes, et utilisez vos talents musicaux uniques pour allumer une frénésie
+      de memes !
+    meta:
+      title: Sprunki But With Memes - Jouer à Sprunki But With Memes en Ligne
+      description: >-
+        Sprunki but with memes est un jeu musical qui vous permet de créer
+        autant que vous voulez dans la mer de memes. Venez rejoindre Sprunki but
+        with memes, et utilisez vos talents musicaux uniques pour allumer une
+        frénésie de memes !
+      canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
+  de:
+    title: Sprunki But With Memes
+    description: >
+      Sprunki But With Memes ist eine humorvolle Variation des klassischen
+      Sprunki-Spiels, die populäre Internet-Memes in die Musikkreation einbaut
+      und ein lustiges, unterhaltsames Erlebnis schafft.
+    meta:
+      title: Sprunki But With Memes - Spiele Sprunki But With Memes Online
+      description: >
+        Sprunki But With Memes ist eine humorvolle Variation des klassischen
+        Sprunki-Spiels, die populäre Internet-Memes in die Musikkreation
+        einbaut.
+      canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
+  ja:
+    title: Sprunki But With Memes
+    description: >-
+      Sprunki But With Memesは、ミームの海で思いっきり創作できる音楽ゲームです。Sprunki But With
+      Memesに参加して、あなたのユニークな音楽的才能でミームブームを点火させましょう！
+    meta:
+      title: Sprunki But With Memes - Sprunki But With Memesをオンラインでプレイ
+      description: >-
+        Sprunki But With Memesは、ミームの海で思いっきり創作できる音楽ゲームです。Sprunki But With
+        Memesに参加して、あなたのユニークな音楽的才能でミームブームを点火させましょう！
+      canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
+  ko:
+    title: 스프런키 밈 버전
+    description: >-
+      스프런키 밈 버전은 밈의 바다에서 원하는 만큼 창작할 수 있게 해주는  음악 게임입니다. 스프런키 밈 버전에 참여하고, 독특한 음악적
+      재능으로  밈 열풍을 일으켜보세요!
+    meta:
+      title: 스프런키 밈 버전 - 스프런키 밈 버전 온라인 플레이
+      description: >-
+        스프런키 밈 버전은 밈의 바다에서 원하는 만큼 창작할 수 있게 해주는  음악 게임입니다. 스프런키 밈 버전에 참여하고, 독특한
+        음악적 재능으로  밈 열풍을 일으켜보세요!
+      canonical: 'https://www.playfiddlebops.com/sprunki-but-with-memes/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-but-with-memes.png'
 ---
 
 ## What is Sprunki but with memes?

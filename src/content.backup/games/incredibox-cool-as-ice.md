@@ -6,31 +6,31 @@ description: >-
   and seasonal themes. Dive into this frosty version to experience Incredibox
   like never before, bringing a cool twist to your sound creations.
 image: /incredibox-cool-as-ice.png
-iframe: https://turbowarp.org/1108441752/embed
+iframe: 'https://turbowarp.org/1108441752/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Incredibox Cool As Ice - Play Incredibox Cool As Ice Online
   description: >-
     The Incredibox Cool as Ice Mod is perfect for fans who love both
     music-making and seasonal themes. Dive into this frosty version to
     experience Incredibox like never before, bringing a cool twist to your sound
     creations.
-  canonical: https://www.playfiddlebops.com/incredibox-cool-as-ice/
-  ogImage: https://www.playfiddlebops.com/incredibox-cool-as-ice.png
+  canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+  ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
 seo:
-  title: Incredibox Cool As Ice 🎮 Play Incredibox Cool As Ice Online
+  title: "Incredibox Cool As Ice \U0001F3AE Play Incredibox Cool As Ice Online"
   description: >-
     The Incredibox Cool as Ice Mod is perfect for fans who love both
     music-making and seasonal themes. Dive into this frosty version to
     experience Incredibox like never before, bringing a cool twist to your sound
     creations.
-  keywords: Incredibox Cool As Ice, Incredibox Cool As Ice online
-  canonical: https://www.playfiddlebops.com/incredibox-cool-as-ice/
-  ogImage: https://www.playfiddlebops.com/incredibox-cool-as-ice.png
+  keywords: 'Incredibox Cool As Ice, Incredibox Cool As Ice online'
+  canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+  ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
   schema:
-    name: Incredibox Cool As Ice 🎮 Play Incredibox Cool As Ice Online
+    name: "Incredibox Cool As Ice \U0001F3AE Play Incredibox Cool As Ice Online"
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/incredibox-cool-as-ice/
+    url: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
 rating:
   score: 4.9
   maxScore: 5
@@ -41,6 +41,95 @@ breadcrumb:
   current: Incredibox Cool As Ice
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Incredibox Cool As Ice
+    description: >-
+      The Incredibox Cool as Ice Mod is perfect for fans who love both
+      music-making and seasonal themes. Dive into this frosty version to
+      experience Incredibox like never before, bringing a cool twist to your
+      sound creations.
+    meta: *ref_0
+  zh:
+    title: Incredibox Cool As Ice
+    description: Incredibox Cool as Ice Mod是音乐创作爱好者的冰雪奇缘！体验全新冰霜版本，免费在线创作冰爽节奏，让你的音乐作品酷到没朋友！
+    meta:
+      title: Incredibox Cool As Ice - 免费在线玩冰雪音乐创作游戏
+      description: Incredibox Cool as Ice Mod冰雪音乐创作游戏免费在线玩！20+冰霜角色，独特冬季音效，拖放创作冰爽节奏，解锁隐藏动画！
+      canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
+  es:
+    title: Incredibox Cool As Ice
+    description: >-
+      El Mod Incredibox Cool as Ice es perfecto para fanáticos que aman tanto la
+      creación musical como los temas estacionales. Sumérgete en esta versión
+      helada para experimentar Incredibox como nunca antes, trayendo un giro
+      frío a tus creaciones sonoras.
+    meta:
+      title: Incredibox Cool As Ice - Juega Incredibox Cool As Ice Online
+      description: >-
+        El Mod Incredibox Cool as Ice es perfecto para fanáticos que aman tanto
+        la creación musical como los temas estacionales. Sumérgete en esta
+        versión helada para experimentar Incredibox como nunca antes, trayendo
+        un giro frío a tus creaciones sonoras.
+      canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
+  fr:
+    title: Incredibox Cool As Ice
+    description: >-
+      Le Mod Incredibox Cool as Ice est parfait pour les fans qui aiment à la
+      fois la création musicale et les thèmes saisonniers. Plongez dans cette
+      version glaciale pour vivre Incredibox comme jamais auparavant, apportant
+      une touche cool à vos créations sonores.
+    meta:
+      title: Incredibox Cool As Ice - Jouer à Incredibox Cool As Ice en Ligne
+      description: >-
+        Le Mod Incredibox Cool as Ice est parfait pour les fans qui aiment à la
+        fois la création musicale et les thèmes saisonniers. Plongez dans cette
+        version glaciale pour vivre Incredibox comme jamais auparavant,
+        apportant une touche cool à vos créations sonores.
+      canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
+  de:
+    title: Incredibox Cool As Ice
+    description: >-
+      Die Incredibox Cool as Ice Mod ist perfekt für Fans, die sowohl
+      Musikproduktion als auch saisonale Themen lieben. Tauche ein in diese
+      frostige Version, um Incredibox wie nie zuvor zu erleben und bringe eine
+      coole Wendung in deine Klangkreationen.
+    meta:
+      title: Incredibox Cool As Ice - Spiele Incredibox Cool As Ice Online
+      description: >-
+        Die Incredibox Cool as Ice Mod ist perfekt für Fans, die sowohl
+        Musikproduktion als auch saisonale Themen lieben. Tauche ein in diese
+        frostige Version, um Incredibox wie nie zuvor zu erleben und bringe eine
+        coole Wendung in deine Klangkreationen.
+      canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
+  ja:
+    title: Incredibox Cool As Ice
+    description: >
+      Incredibox Cool as Ice Modは、音楽制作とシーズンテーマの両方を愛するファンに最適です。
+      この雪のようなバージョンに飛び込んで、これまでにないIncrediboxを体験し、 あなたのサウンド創作にクールなツイストをもたらしましょう。
+    meta:
+      title: Incredibox Cool As Ice - Incredibox Cool As Ice をオンラインでプレイ
+      description: >
+        Incredibox Cool as Ice Modは、音楽制作とシーズンテーマの両方を愛するファンに最適です。
+        この雪のようなバージョンに飛び込んで、これまでにないIncrediboxを体験し、 あなたのサウンド創作にクールなツイストをもたらしましょう。
+      canonical: 'https://www.playfiddlebops.com/ja/incredibox-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
+  ko:
+    title: 인크레디박스 쿨 애즈 아이스
+    description: >-
+      인크레디박스 쿨 애즈 아이스 모드는 음악 제작과 계절적 테마를 모두  사랑하는 팬들에게 완벽합니다. 이 서리 내린 버전에 뛰어들어서 
+      지금까지와는 다른 인크레디박스를 경험하고, 사운드 창작에 멋진 트위스트를  가져와보세요.
+    meta:
+      title: 인크레디박스 쿨 애즈 아이스 - 인크레디박스 쿨 애즈 아이스 온라인 플레이
+      description: >-
+        인크레디박스 쿨 애즈 아이스 모드는 음악 제작과 계절적 테마를 모두  사랑하는 팬들에게 완벽합니다. 이 서리 내린 버전에
+        뛰어들어서  지금까지와는 다른 인크레디박스를 경험하고, 사운드 창작에 멋진 트위스트를  가져와보세요.
+      canonical: 'https://www.playfiddlebops.com/incredibox-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-cool-as-ice.png'
 ---
 
 ## Introducing to Incredibox Cool As Ice

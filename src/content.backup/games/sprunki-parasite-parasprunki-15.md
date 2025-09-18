@@ -7,9 +7,9 @@ description: >-
   packed with thrilling elements. It twists the familiar music creation
   experience into a delightfully creepy adventure.
 image: /sprunki-parasite-parasprunki-15.png
-iframe: https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/
+iframe: 'https://kdata1.com/2025/03/paraSprunki-update-15-0-part-222/'
 category: trending
-meta:
+meta: &ref_0
   title: >-
     Sprunki Parasite Parasprunki 15 - Play Sprunki Parasite Parasprunki 15
     Online
@@ -18,8 +18,8 @@ meta:
     you might be used to; it's a fan-made mod by the brilliant mondaymuncher,
     packed with thrilling elements. It twists the familiar music creation
     experience into a delightfully creepy adventure.
-  canonical: https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/
-  ogImage: https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
 seo:
   title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
   description: >-
@@ -28,12 +28,12 @@ seo:
     packed with thrilling elements. It twists the familiar music creation
     experience into a delightfully creepy adventure.
   keywords: Incredibox Sprunksters
-  canonical: https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/
-  ogImage: https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
   schema:
     name: Incredibox Sprunksters - Play Incredibox Sprunksters Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/
+    url: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
 rating:
   score: 4.3
   maxScore: 5
@@ -44,6 +44,115 @@ breadcrumb:
   current: Incredibox Sprunksters
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Parasite Parasprunki 15
+    description: >-
+      Get ready for Sprunki Parasite ParaSprunki 15! This isn't the sunny
+      Sprunki you might be used to; it's a fan-made mod by the brilliant
+      mondaymuncher, packed with thrilling elements. It twists the familiar
+      music creation experience into a delightfully creepy adventure.
+    meta: *ref_0
+  zh:
+    title: Sprunki Parasite Parasprunki 15
+    description: >-
+      准备好迎接 Sprunki Parasite ParaSprunki 15！这不是你可能习惯的阳光明媚的 Sprunki；这是天才
+      mondaymuncher 制作的粉丝 mod，充满了刺激元素。它将熟悉的音乐创作体验扭转成令人愉快的恐怖冒险。
+    meta:
+      title: Sprunki Parasite Parasprunki 15 - 在线玩 Sprunki Parasite Parasprunki 15
+      description: >-
+        准备好迎接 Sprunki Parasite ParaSprunki 15！这不是你可能习惯的阳光明媚的 Sprunki；这是天才
+        mondaymuncher 制作的粉丝 mod，充满了刺激元素。它将熟悉的音乐创作体验扭转成令人愉快的恐怖冒险。
+      canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
+  es:
+    title: Sprunki Parasite Parasprunki 15
+    description: >-
+      ¡Prepárate para Sprunki Parasite ParaSprunki 15! Este no es el Sprunki
+      soleado al que podrías estar acostumbrado; es un mod hecho por fans del
+      brillante mondaymuncher, lleno de elementos emocionantes. Transforma la
+      experiencia familiar de creación musical en una aventura deliciosamente
+      espeluznante.
+    meta:
+      title: >-
+        Sprunki Parasite Parasprunki 15 - Juega Sprunki Parasite Parasprunki 15
+        Online
+      description: >-
+        ¡Prepárate para Sprunki Parasite ParaSprunki 15! Este no es el Sprunki
+        soleado al que podrías estar acostumbrado; es un mod hecho por fans del
+        brillante mondaymuncher, lleno de elementos emocionantes. Transforma la
+        experiencia familiar de creación musical en una aventura deliciosamente
+        espeluznante.
+      canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
+  fr:
+    title: Sprunki Parasite Parasprunki 15
+    description: >-
+      Préparez-vous pour Sprunki Parasite ParaSprunki 15 ! Ce n'est pas le
+      Sprunki ensoleillé auquel vous êtes peut-être habitué ; c'est un mod créé
+      par des fans par le brillant mondaymuncher, bourré d'éléments palpitants.
+      Il transforme l'expérience familière de création musicale en une aventure
+      délicieusement effrayante.
+    meta:
+      title: >-
+        Sprunki Parasite Parasprunki 15 - Jouez à Sprunki Parasite Parasprunki
+        15 en Ligne
+      description: >-
+        Préparez-vous pour Sprunki Parasite ParaSprunki 15 ! Ce n'est pas le
+        Sprunki ensoleillé auquel vous êtes peut-être habitué ; c'est un mod
+        créé par des fans par le brillant mondaymuncher, bourré d'éléments
+        palpitants. Il transforme l'expérience familière de création musicale en
+        une aventure délicieusement effrayante.
+      canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
+  de:
+    title: Sprunki Parasite Parasprunki 15
+    description: >-
+      Machen Sie sich bereit für Sprunki Parasite ParaSprunki 15! Das ist nicht
+      das sonnige Sprunki, das Sie vielleicht gewohnt sind; es ist ein
+      Fan-gemachter Mod vom brillanten mondaymuncher, voller spannender
+      Elemente. Er verwandelt das vertraute Musikerstellungserlebnis in ein
+      entzückend gruseliges Abenteuer.
+    meta:
+      title: >-
+        Sprunki Parasite Parasprunki 15 - Sprunki Parasite Parasprunki 15 Online
+        spielen
+      description: >-
+        Machen Sie sich bereit für Sprunki Parasite ParaSprunki 15! Das ist
+        nicht das sonnige Sprunki, das Sie vielleicht gewohnt sind; es ist ein
+        Fan-gemachter Mod vom brillanten mondaymuncher, voller spannender
+        Elemente. Er verwandelt das vertraute Musikerstellungserlebnis in ein
+        entzückend gruseliges Abenteuer.
+      canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
+  ja:
+    title: Sprunki Parasite Parasprunki 15
+    description: >-
+      Sprunki Parasite ParaSprunki 15の準備をしよう！これは慣れ親しんだ明るいSprunkiではありません。
+      スリリングな要素が詰まった、才能あふれるmondaymuncherによるファン制作Modです。
+      馴染みの音楽制作体験を楽しく気味悪い冒険に変えてくれます。
+    meta:
+      title: >-
+        Sprunki Parasite Parasprunki 15 - Sprunki Parasite Parasprunki 15
+        をオンラインでプレイ
+      description: >-
+        Sprunki Parasite ParaSprunki 15の準備をしよう！これは慣れ親しんだ明るいSprunkiではありません。
+        スリリングな要素が詰まった、才能あふれるmondaymuncherによるファン制作Modです。
+        馴染みの音楽制作体験を楽しく気味悪い冒険に変えてくれます。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-parasite-parasprunki-15/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
+  ko:
+    title: 스프런키 패러사이트 파라스프런키 15
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 패러사이트 파라스프런키 15 - 스프런키 패러사이트 파라스프런키 15 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-parasite-parasprunki-15.png'
 ---
 
 ## What Exactly is Sprunki Parasite ParaSprunki 15?

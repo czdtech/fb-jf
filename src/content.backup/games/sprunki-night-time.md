@@ -7,17 +7,17 @@ description: >-
   night. Come and join Sprunki Night Time, and use your music to light up this
   deep and mysterious night!
 image: /sprunki-night-time.png
-iframe: https://turbowarp.org/1100659044/embed
+iframe: 'https://turbowarp.org/1100659044/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Night Time - Play Sprunki Night Time Online
   description: >-
     Sprunki Night Time takes you into a dark world full of mystery and unknown,
     allowing you to experience a psychedelic musical journey in the silence of
     the night. Come and join Sprunki Night Time, and use your music to light up
     this deep and mysterious night!
-  canonical: https://www.playfiddlebops.com/sprunki-night-time/
-  ogImage: https://www.playfiddlebops.com/sprunki-night-time.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
 seo:
   title: Sprunki Night Time - Play Sprunki Night Time Online
   description: >-
@@ -25,13 +25,13 @@ seo:
     allowing you to experience a psychedelic musical journey in the silence of
     the night. Come and join Sprunki Night Time, and use your music to light up
     this deep and mysterious night!
-  keywords: Sprunki Night Time, Sprunki Night Time online
-  canonical: https://www.playfiddlebops.com/sprunki-night-time/
-  ogImage: https://www.playfiddlebops.com/sprunki-night-time.png
+  keywords: 'Sprunki Night Time, Sprunki Night Time online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
   schema:
     name: Sprunki Night Time - Play Sprunki Night Time Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-night-time/
+    url: 'https://www.playfiddlebops.com/sprunki-night-time/'
 rating:
   score: 4.2
   maxScore: 5
@@ -42,6 +42,99 @@ breadcrumb:
   current: Sprunki Night Time
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Night Time
+    description: >-
+      Sprunki Night Time takes you into a dark world full of mystery and
+      unknown, allowing you to experience a psychedelic musical journey in the
+      silence of the night. Come and join Sprunki Night Time, and use your music
+      to light up this deep and mysterious night!
+    meta: *ref_0
+  zh:
+    title: Sprunki Night Time
+    description: >-
+      Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验迷幻的音乐之旅。来加入 Sprunki Night
+      Time，用你的音乐点亮这深邃神秘的夜晚！
+    meta:
+      title: Sprunki Night Time - 在线玩 Sprunki Night Time
+      description: >-
+        Sprunki Night Time 带你进入一个充满神秘和未知的黑暗世界，让你在夜晚的寂静中体验迷幻的音乐之旅。来加入 Sprunki
+        Night Time，用你的音乐点亮这深邃神秘的夜晚！
+      canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
+  es:
+    title: Sprunki Night Time
+    description: >
+      Sprunki Night Time te lleva a un mundo oscuro lleno de misterio y lo
+      desconocido, permitiéndote experimentar un viaje musical psicodélico en el
+      silencio de la noche. ¡Ven y únete a Sprunki Night Time, y usa tu música
+      para iluminar esta noche profunda y misteriosa!
+    meta:
+      title: Sprunki Night Time - Juega Sprunki Night Time Online
+      description: >
+        Sprunki Night Time te lleva a un mundo oscuro lleno de misterio y lo
+        desconocido, permitiéndote experimentar un viaje musical psicodélico en
+        el silencio de la noche. ¡Ven y únete a Sprunki Night Time, y usa tu
+        música para iluminar esta noche profunda y misteriosa!
+      canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
+  fr:
+    title: Sprunki Night Time
+    description: >-
+      Sprunki Night Time vous emmène dans un monde sombre plein de mystère et
+      d'inconnu, vous permettant de vivre un voyage musical psychédélique dans
+      le silence de la nuit. Venez rejoindre Sprunki Night Time, et utilisez
+      votre musique pour illuminer cette nuit profonde et mystérieuse !
+    meta:
+      title: Sprunki Night Time - Jouez à Sprunki Night Time en Ligne
+      description: >-
+        Sprunki Night Time vous emmène dans un monde sombre plein de mystère et
+        d'inconnu, vous permettant de vivre un voyage musical psychédélique dans
+        le silence de la nuit. Venez rejoindre Sprunki Night Time, et utilisez
+        votre musique pour illuminer cette nuit profonde et mystérieuse !
+      canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
+  de:
+    title: Sprunki Night Time
+    description: >-
+      Sprunki Night Time führt Sie in eine dunkle Welt voller Geheimnisse und
+      Unbekanntem, sodass Sie eine psychedelische musikalische Reise in der
+      Stille der Nacht erleben können. Kommen Sie zu Sprunki Night Time und
+      verwenden Sie Ihre Musik, um diese tiefe und geheimnisvolle Nacht zu
+      erhellen!
+    meta:
+      title: Sprunki Night Time - Sprunki Night Time Online spielen
+      description: >-
+        Sprunki Night Time führt Sie in eine dunkle Welt voller Geheimnisse und
+        Unbekanntem, sodass Sie eine psychedelische musikalische Reise in der
+        Stille der Nacht erleben können. Kommen Sie zu Sprunki Night Time und
+        verwenden Sie Ihre Musik, um diese tiefe und geheimnisvolle Nacht zu
+        erhellen!
+      canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
+  ja:
+    title: Sprunki Night Time
+    description: >-
+      Sprunki Night
+      Timeは、神秘と未知に満ちた暗い世界へあなたを連れて行き、夜の静寂の中でサイケデリックな音楽の旅を体験させます。Sprunki Night
+      Timeに参加して、あなたの音楽でこの深く神秘的な夜を照らしましょう！
+    meta:
+      title: Sprunki Night Time - Sprunki Night Timeをオンラインでプレイ
+      description: >-
+        Sprunki Night
+        Timeは、神秘と未知に満ちた暗い世界へあなたを連れて行き、夜の静寂の中でサイケデリックな音楽の旅を体験させます。Sprunki Night
+        Timeに参加して、あなたの音楽でこの深く神秘的な夜を照らしましょう！
+      canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
+  ko:
+    title: 스프런키 나이트타임
+    description: 밤의 분위기로 가득한 스프런키 게임입니다.
+    meta:
+      title: 스프런키 나이트타임 - 스프런키 나이트타임 온라인 플레이
+      description: 밤의 분위기로 가득한 스프런키 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-night-time/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-night-time.png'
 ---
 
 ## Introducing to Sprunki Night Time

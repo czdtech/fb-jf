@@ -5,16 +5,16 @@ description: >-
   Whether you're an experienced musician or a curious beginner, The Haze
   Pixelbox offers endless fun, sparking creativity with its unique ethnic twist.
 image: /the-haze-pixelbox.png
-iframe: https://turbowarp.org/1020955547/embed
+iframe: 'https://turbowarp.org/1020955547/embed'
 category: new
-meta:
+meta: &ref_0
   title: The Haze Pixelbox - Play The Haze Pixelbox Online
   description: >-
     Whether you're an experienced musician or a curious beginner, The Haze
     Pixelbox offers endless fun, sparking creativity with its unique ethnic
     twist.
-  canonical: https://www.playfiddlebops.com/the-haze-pixelbox/
-  ogImage: https://www.playfiddlebops.com/the-haze-pixelbox.png
+  canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+  ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
 seo:
   title: The Haze Pixelbox - Play The Haze Pixelbox Online
   description: >-
@@ -22,12 +22,12 @@ seo:
     Pixelbox offers endless fun, sparking creativity with its unique ethnic
     twist.
   keywords: The Haze Pixelbox
-  canonical: https://www.playfiddlebops.com/the-haze-pixelbox/
-  ogImage: https://www.playfiddlebops.com/the-haze-pixelbox.png
+  canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+  ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
   schema:
     name: The Haze Pixelbox - Play The Haze Pixelbox Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/the-haze-pixelbox/
+    url: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
 rating:
   score: 3.9
   maxScore: 5
@@ -38,6 +38,82 @@ breadcrumb:
   current: The Haze Pixelbox
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: The Haze Pixelbox
+    description: >-
+      Whether you're an experienced musician or a curious beginner, The Haze
+      Pixelbox offers endless fun, sparking creativity with its unique ethnic
+      twist.
+    meta: *ref_0
+  zh:
+    title: 迷雾像素盒
+    description: 无论你是经验丰富的音乐家还是好奇的初学者，迷雾像素盒都提供无穷乐趣， 以其独特的民族风格激发创造力。
+    meta:
+      title: 迷雾像素盒 - 在线玩迷雾像素盒
+      description: 无论你是经验丰富的音乐家还是好奇的初学者，迷雾像素盒都提供无穷乐趣， 以其独特的民族风格激发创造力。
+      canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+      ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
+  es:
+    title: The Haze Pixelbox
+    description: >-
+      Ya seas un músico experimentado o un principiante curioso, The Haze
+      Pixelbox ofrece diversión sin fin, despertando creatividad con su giro
+      étnico único.
+    meta:
+      title: The Haze Pixelbox - Juega The Haze Pixelbox Online
+      description: >-
+        Ya seas un músico experimentado o un principiante curioso, The Haze
+        Pixelbox ofrece diversión sin fin, despertando creatividad con su giro
+        étnico único.
+      canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+      ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
+  fr:
+    title: The Haze Pixelbox
+    description: >-
+      Une expérience musicale simple et inspirante : idéal pour les débutants 
+      comme pour les musiciens confirmés.
+    meta:
+      title: The Haze Pixelbox - Jouez en ligne
+      description: >-
+        Libérez votre créativité grâce à des sonorités ethniques et des
+        percussions  organiques.
+      canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+      ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
+  de:
+    title: The Haze Pixelbox
+    description: >-
+      Ob du ein erfahrener Musiker oder ein neugieriger Anfänger bist, The Haze
+      Pixelbox bietet endlosen Spaß und weckt Kreativität mit seinem
+      einzigartigen ethnischen Twist.
+    meta:
+      title: The Haze Pixelbox - Spiel The Haze Pixelbox Online
+      description: >-
+        Ob du ein erfahrener Musiker oder ein neugieriger Anfänger bist, The
+        Haze Pixelbox bietet endlosen Spaß und weckt Kreativität mit seinem
+        einzigartigen ethnischen Twist.
+      canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+      ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
+  ja:
+    title: The Haze Pixelbox
+    description: >-
+      経験豊富なミュージシャンでも好奇心旺盛な初心者でも、The Haze Pixelboxは
+      そのユニークな民族的ひねりで創造性を刺激し、無限の楽しさを提供します。
+    meta:
+      title: The Haze Pixelbox - The Haze Pixelbox をオンラインでプレイ
+      description: >-
+        経験豊富なミュージシャンでも好奇心旺盛な初心者でも、The Haze Pixelboxは
+        そのユニークな民族的ひねりで創造性を刺激し、無限の楽しさを提供します。
+      canonical: 'https://www.playfiddlebops.com/ja/the-haze-pixelbox/'
+      ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
+  ko:
+    title: 더 헤이즈 픽셀박스
+    description: 신비한 헤이즈 분위기의 픽셀 스타일 게임입니다.
+    meta:
+      title: 더 헤이즈 픽셀박스 - 더 헤이즈 픽셀박스 온라인 플레이
+      description: 신비한 헤이즈 분위기의 픽셀 스타일 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/the-haze-pixelbox/'
+      ogImage: 'https://www.playfiddlebops.com/the-haze-pixelbox.png'
 ---
 
 ## What's So Special About The Haze Pixelbox?

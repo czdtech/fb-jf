@@ -6,29 +6,29 @@ description: >-
   game that is suitable for puzzle game enthusiasts, casual gamers, and those
   who appreciate unique game experiences.
 image: /sprunki-eggs-mix.png
-iframe: https://turbowarp.org/1102648676/embed
+iframe: 'https://turbowarp.org/1102648676/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Eggs Mix - Play Sprunki Eggs Mix Online
   description: >-
     Sprunki Egg's Mix is a visually stunning, intellectually stimulating puzzle
     game that is suitable for puzzle game enthusiasts, casual gamers, and those
     who appreciate unique game experiences.
-  canonical: https://www.playfiddlebops.com/sprunki-eggs-mix/
-  ogImage: https://www.playfiddlebops.com/sprunki-eggs-mix.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
 seo:
   title: Sprunki Egg's Mix - Play Sprunki Egg's Mix Online
   description: >-
     Sprunki Egg's Mix is a visually stunning, intellectually stimulating puzzle
     game that is suitable for puzzle game enthusiasts, casual gamers, and those
     who appreciate unique game experiences.
-  keywords: Sprunki Egg's Mix, Sprunki Egg's Mix online
-  canonical: https://www.playfiddlebops.com/sprunki-eggs-mix/
-  ogImage: https://www.playfiddlebops.com/sprunki-eggs-mix.png
+  keywords: 'Sprunki Egg''s Mix, Sprunki Egg''s Mix online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
   schema:
     name: Sprunki Egg's Mix - Play Sprunki Egg's Mix Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-eggs-mix/
+    url: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
 rating:
   score: 3.9
   maxScore: 5
@@ -39,6 +39,64 @@ breadcrumb:
   current: Sprunki Egg's Mix
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Eggs Mix
+    description: >-
+      Sprunki Egg's Mix is a visually stunning, intellectually stimulating
+      puzzle game that is suitable for puzzle game enthusiasts, casual gamers,
+      and those who appreciate unique game experiences.
+    meta: *ref_0
+  zh:
+    title: Sprunki Eggs Mix
+    description: Sprunki 彩蛋
+    meta:
+      title: Sprunki Eggs Mix - 在线玩 Sprunki Eggs Mix
+      description: Sprunki 彩蛋
+      canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
+  es:
+    title: Sprunki Eggs Mix
+    description: Sprunki Egg
+    meta:
+      title: Sprunki Eggs Mix - Jugar Sprunki Eggs Mix Online
+      description: Sprunki Egg
+      canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
+  fr:
+    title: Sprunki Eggs Mix
+    description: Sprunki Egg
+    meta:
+      title: Sprunki Eggs Mix - Jouer à Sprunki Eggs Mix en Ligne
+      description: Sprunki Egg
+      canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
+  de:
+    title: Sprunki Eggs Mix
+    description: >
+      Sprunki Eggs Mix ist eine Oster-thematische Variante von Sprunki mit
+      eierbezogenen Charakteren und frühlingshaften Soundeffekten.
+    meta:
+      title: Sprunki Eggs Mix - Spiele Online
+      description: Oster-thematisches Sprunki Musikspiel mit Ei-Charakteren
+      canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
+  ja:
+    title: Sprunki Eggs Mix
+    description: Sprunki Egg
+    meta:
+      title: Sprunki Eggs Mix - Sprunki Eggs Mixをオンラインでプレイ
+      description: Sprunki Egg
+      canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
+  ko:
+    title: 스프런키 에그 믹스
+    description: 스프런키 에그 믹스는 독특한 음악 창작 경험을 제공하는 게임입니다.
+    meta:
+      title: 스프런키 에그 믹스 - 스프런키 에그 믹스 온라인 플레이
+      description: 스프런키 에그 믹스는 독특한 음악 창작 경험을 제공하는 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-eggs-mix/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-eggs-mix.png'
 ---
 
 ## What's So Special About Sprunki Egg's Mix?

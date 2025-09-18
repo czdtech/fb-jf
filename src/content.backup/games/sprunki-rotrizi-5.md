@@ -7,17 +7,17 @@ description: >-
   out among Sprunki mods thanks to its advanced distortion algorithms and
   immersive visuals.
 image: /sprunki-rotrizi-5.png
-iframe: https://turbowarp.org/1126764795/embed
+iframe: 'https://turbowarp.org/1126764795/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Rotrizi 5 - Play Sprunki Rotrizi 5 Online
   description: >-
     Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing experience
     that lets you unleash your creativity and craft electrifying beats. It
     stands out among Sprunki mods thanks to its advanced distortion algorithms
     and immersive visuals.
-  canonical: https://www.playfiddlebops.com/sprunki-rotrizi-5/
-  ogImage: https://www.playfiddlebops.com/sprunki-rotrizi-5.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
 seo:
   title: Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online
   description: >-
@@ -26,12 +26,12 @@ seo:
     stands out among Sprunki mods thanks to its advanced distortion algorithms
     and immersive visuals.
   keywords: Sprunki Rotrizi 5.0
-  canonical: https://www.playfiddlebops.com/sprunki-rotrizi-5/
-  ogImage: https://www.playfiddlebops.com/sprunki-rotrizi-5.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
   schema:
     name: Sprunki Rotrizi 5.0 - Play Sprunki Rotrizi 5.0 Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-rotrizi-5/
+    url: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
 rating:
   score: 4
   maxScore: 5
@@ -42,6 +42,96 @@ breadcrumb:
   current: Sprunki Rotrizi 5.0
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Rotrizi 5
+    description: >-
+      Sprunki Rotrizi 5.0 is an exhilarating free-to-play music-mixing
+      experience that lets you unleash your creativity and craft electrifying
+      beats. It stands out among Sprunki mods thanks to its advanced distortion
+      algorithms and immersive visuals.
+    meta: *ref_0
+  zh:
+    title: Sprunki Rotrizi 5
+    description: >-
+      Sprunki Rotrizi 5.0 是一个令人兴奋的免费音乐混音体验， 让你释放创造力并制作出震撼人心的节拍。凭借先进的失真算法
+      和沉浸式视觉效果，在众多 Sprunki 模组中脱颖而出。
+    meta:
+      title: Sprunki Rotrizi 5 - 在线玩 Sprunki Rotrizi 5
+      description: >-
+        Sprunki Rotrizi 5.0 是一个令人兴奋的免费音乐混音体验， 让你释放创造力并制作出震撼人心的节拍。凭借先进的失真算法
+        和沉浸式视觉效果，在众多 Sprunki 模组中脱颖而出。
+      canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
+  es:
+    title: Sprunki Rotrizi 5
+    description: >-
+      Sprunki Rotrizi 5.0 es una experiencia emocionante y gratuita de mezcla
+      musical que te permite liberar tu creatividad y crear ritmos
+      electrizantes. Se destaca entre los mods de Sprunki gracias a sus
+      algoritmos avanzados de distorsión y visuales inmersivos.
+    meta:
+      title: Sprunki Rotrizi 5 - Juega Sprunki Rotrizi 5 Online
+      description: >-
+        Sprunki Rotrizi 5.0 es una experiencia emocionante y gratuita de mezcla
+        musical que te permite liberar tu creatividad y crear ritmos
+        electrizantes. Se destaca entre los mods de Sprunki gracias a sus
+        algoritmos avanzados de distorsión y visuales inmersivos.
+      canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
+  fr:
+    title: Sprunki Rotrizi 5
+    description: >-
+      Sprunki Rotrizi 5.0 est une expérience de mixage musicale palpitante qui 
+      libère votre créativité grâce à des algorithmes de distorsion avancés et
+      des  visuels immersifs.
+    meta:
+      title: Sprunki Rotrizi 5 - Jouez en ligne
+      description: >-
+        Mixage puissant, couches sonores avancées et effets « glitch » :  entrez
+        dans Sprunki Rotrizi 5.0 et créez des beats électrisants.
+      canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
+  de:
+    title: Sprunki Rotrizi 5
+    description: >-
+      Sprunki Rotrizi 5.0 ist ein aufregendes kostenloses Musikmix-Erlebnis, das
+      dir ermöglicht, deine Kreativität zu entfesseln und elektrisierenden Beats
+      zu erschaffen. Es sticht unter den Sprunki-Mods dank seiner
+      fortschrittlichen Verzerrungsalgorithmen und immersiven Visuals hervor.
+    meta:
+      title: Sprunki Rotrizi 5 - Spiel Sprunki Rotrizi 5 Online
+      description: >-
+        Sprunki Rotrizi 5.0 ist ein aufregendes kostenloses Musikmix-Erlebnis,
+        das dir ermöglicht, deine Kreativität zu entfesseln und elektrisierenden
+        Beats zu erschaffen. Es sticht unter den Sprunki-Mods dank seiner
+        fortschrittlichen Verzerrungsalgorithmen und immersiven Visuals hervor.
+      canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
+  ja:
+    title: Sprunki Rotrizi 5
+    description: >
+      Sprunki Rotrizi 5.0は、あなたの創造性を解き放ち、電撃的なビートを作り出すことができる
+      スリル満点の無料音楽ミキシング体験です。高度な歪みアルゴリズムと 没入感のあるビジュアルにより、Sprunkiモッドの中でも際立っています。
+    meta:
+      title: Sprunki Rotrizi 5 - Sprunki Rotrizi 5 をオンラインでプレイ
+      description: >
+        Sprunki Rotrizi 5.0は、あなたの創造性を解き放ち、電撃的なビートを作り出すことができる
+        スリル満点の無料音楽ミキシング体験です。高度な歪みアルゴリズムと 没入感のあるビジュアルにより、Sprunkiモッドの中でも際立っています。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-rotrizi-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
+  ko:
+    title: 스프런키 로트리지 5
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 로트리지 5 - 스프런키 로트리지 5 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-rotrizi-5/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-rotrizi-5.png'
 ---
 
 ## What's the Deal with Sprunki Rotrizi 5.0?

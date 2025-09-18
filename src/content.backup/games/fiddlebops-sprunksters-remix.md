@@ -6,16 +6,16 @@ description: >-
   rhythm, and visual charm. With its captivating character designs, novel
   sounds, and that super cool 
 image: /fiddlebops-sprunksters-remix.png
-iframe: https://turbowarp.org/1149194527/embed
+iframe: 'https://turbowarp.org/1149194527/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Fiddlebops Sprunksters Remix - Play Fiddlebops Sprunksters Remix Online
   description: >-
     Fiddlebops Sprunksters is an outstanding mod that perfectly blends
     creativity, rhythm, and visual charm. With its captivating character
     designs, novel sounds, and that super cool 
-  canonical: https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/
-  ogImage: https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png
+  canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+  ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
 seo:
   title: Fiddlebops Sprunksters remix - Play Fiddlebops Sprunksters remix Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     creativity, rhythm, and visual charm. With its captivating character
     designs, novel sounds, and that super cool 
   keywords: Fiddlebops Sprunksters remix
-  canonical: https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/
-  ogImage: https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png
+  canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+  ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
   schema:
     name: Fiddlebops Sprunksters remix - Play Fiddlebops Sprunksters remix Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/
+    url: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
 rating:
   score: 4.1
   maxScore: 5
@@ -39,6 +39,92 @@ breadcrumb:
   current: Fiddlebops Sprunksters remix
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Fiddlebops Sprunksters Remix
+    description: >-
+      Fiddlebops Sprunksters is an outstanding mod that perfectly blends
+      creativity, rhythm, and visual charm. With its captivating character
+      designs, novel sounds, and that super cool 
+    meta: *ref_0
+  zh:
+    title: Fiddlebops Sprunksters Remix
+    description: Fiddlebops Sprunksters 是一个出色的模组，完美融合了创意、节奏和视觉魅力。凭借其迷人的角色设计、新颖的声音和那超酷的功能
+    meta:
+      title: Fiddlebops Sprunksters Remix - 在线玩 Fiddlebops Sprunksters Remix
+      description: Fiddlebops Sprunksters 是一个出色的模组，完美融合了创意、节奏和视觉魅力。凭借其迷人的角色设计、新颖的声音和那超酷的功能
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
+  es:
+    title: Fiddlebops Sprunksters Remix
+    description: >-
+      Fiddlebops Sprunksters es un mod excepcional que mezcla perfectamente
+      creatividad, ritmo y encanto visual. Con sus diseños de personajes
+      cautivadores, sonidos novedosos, y eso súper genial
+    meta:
+      title: Fiddlebops Sprunksters Remix - Juega Fiddlebops Sprunksters Remix Online
+      description: >-
+        Fiddlebops Sprunksters es un mod excepcional que mezcla perfectamente
+        creatividad, ritmo y encanto visual. Con sus diseños de personajes
+        cautivadores, sonidos novedosos, y eso súper genial
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
+  fr:
+    title: Fiddlebops Sprunksters Remix
+    description: >-
+      Fiddlebops Sprunksters est un mod exceptionnel qui mélange parfaitement
+      créativité, rythme et charme visuel. Avec ses designs de personnages
+      captivants, ses sons nouveaux, et ce super cool
+    meta:
+      title: >-
+        Fiddlebops Sprunksters Remix - Jouer à Fiddlebops Sprunksters Remix en
+        Ligne
+      description: >-
+        Fiddlebops Sprunksters est un mod exceptionnel qui mélange parfaitement
+        créativité, rythme et charme visuel. Avec ses designs de personnages
+        captivants, ses sons nouveaux, et ce super cool
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
+  de:
+    title: Fiddlebops Sprunksters Remix
+    description: >-
+      Fiddlebops Sprunksters ist eine herausragende Mod, die Kreativität,
+      Rhythmus und visuellen Charme perfekt vereint. Mit fesselnden
+      Charakterdesigns, neuen Klängen und diesem super coolen 
+    meta:
+      title: >-
+        Fiddlebops Sprunksters Remix - Spiele Fiddlebops Sprunksters Remix
+        Online
+      description: >-
+        Fiddlebops Sprunksters ist eine herausragende Mod, die Kreativität,
+        Rhythmus und visuellen Charme perfekt vereint. Mit fesselnden
+        Charakterdesigns, neuen Klängen und diesem super coolen 
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
+  ja:
+    title: Fiddlebops Sprunksters Remix
+    description: >
+      Fiddlebops Sprunksters は、創造性、リズム、視覚的な魅力を完璧に融合させた優れたModです。
+      魅力的なキャラクターデザイン、斬新なサウンド、そして超クールな機能を備えています。
+    meta:
+      title: Fiddlebops Sprunksters Remix - Fiddlebops Sprunksters Remix をオンラインでプレイ
+      description: >
+        Fiddlebops Sprunksters は、創造性、リズム、視覚的な魅力を完璧に融合させた優れたModです。
+        魅力的なキャラクターデザイン、斬新なサウンド、そして超クールな機能を備えています。
+      canonical: 'https://www.playfiddlebops.com/ja/fiddlebops-sprunksters-remix/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
+  ko:
+    title: 피들밥스 스프렁크스터즈 리믹스
+    description: >-
+      피들밥스 스프렁크스터즈는 창의성, 리듬, 비주얼적 매력을 완벽하게  조화시킨 뛰어난 모드입니다. 매혹적인 캐릭터 디자인, 새로운
+      사운드,  그리고 그 엄청나게 멋진
+    meta:
+      title: 피들밥스 스프렁크스터즈 리믹스 - 피들밥스 스프렁크스터즈 리믹스 온라인 플레이
+      description: >-
+        피들밥스 스프렁크스터즈는 창의성, 리듬, 비주얼적 매력을 완벽하게  조화시킨 뛰어난 모드입니다. 매혹적인 캐릭터 디자인, 새로운
+        사운드,  그리고 그 엄청나게 멋진
+      canonical: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix/'
+      ogImage: 'https://www.playfiddlebops.com/fiddlebops-sprunksters-remix.png'
 ---
 
 ## So, What's the Lowdown on Fiddlebops Sprunksters?

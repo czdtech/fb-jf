@@ -6,26 +6,26 @@ description: >-
   storytelling. Here, you can unleash your creativity and create your own
   musical world.
 image: /sprunki-dandys-world.png
-iframe: https://turbowarp.org/1075503895/embed
+iframe: 'https://turbowarp.org/1075503895/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Dandys World - Play Sprunki Dandys World Online
   description: Sprunki Dandy
-  canonical: https://www.playfiddlebops.com/sprunki-dandys-world/
-  ogImage: https://www.playfiddlebops.com/sprunki-dandys-world.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
 seo:
   title: Sprunki Dandy's World - Play Sprunki Dandy's World Online
   description: >-
     Sprunki Dandy's World is a unique game that combines music, art, and
     storytelling. Here, you can unleash your creativity and create your own
     musical world.
-  keywords: Sprunki Dandy's World, Sprunki Dandy's World online
-  canonical: https://www.playfiddlebops.com/sprunki-dandys-world/
-  ogImage: https://www.playfiddlebops.com/sprunki-dandys-world.png
+  keywords: 'Sprunki Dandy''s World, Sprunki Dandy''s World online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
   schema:
     name: Sprunki Dandy's World - Play Sprunki Dandy's World Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-dandys-world/
+    url: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
 rating:
   score: 4.4
   maxScore: 5
@@ -36,6 +36,67 @@ breadcrumb:
   current: Sprunki Dandy's World
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Dandys World
+    description: >-
+      Sprunki Dandy's World is a unique game that combines music, art, and
+      storytelling. Here, you can unleash your creativity and create your own
+      musical world.
+    meta: *ref_0
+  zh:
+    title: Sprunki Dandy's World - 奇幻音乐世界
+    description: Sprunki Dandy's World是一款融合音乐、艺术和故事的独特游戏。在这里，你可以释放创造力，创建属于你自己的音乐世界。
+    meta:
+      title: Sprunki Dandy's World - 免费在线玩奇幻音乐游戏
+      description: Sprunki Dandy's World是一款融合音乐、艺术和故事的独特游戏。在这里，你可以释放创造力，创建属于你自己的音乐世界。
+      canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
+  es:
+    title: Sprunki Dandys World
+    description: Sprunki Dandy
+    meta:
+      title: Sprunki Dandys World - Juega Sprunki Dandys World Online
+      description: Sprunki Dandy
+      canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
+  fr:
+    title: Sprunki Dandys World
+    description: Sprunki Dandy
+    meta:
+      title: Sprunki Dandys World - Jouer à Sprunki Dandys World en Ligne
+      description: Sprunki Dandy
+      canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
+  de:
+    title: Sprunki Dandys World
+    description: >
+      Sprunki Dandys World ist eine faszinierende Crossover-Mod, die Charaktere
+      und Themen aus Dandys World in das Sprunki-Musikkreations-Gameplay
+      integriert.
+    meta:
+      title: Sprunki Dandys World - Spiele Sprunki Dandys World Online
+      description: >
+        Sprunki Dandys World kombiniert die Welten von Sprunki und Dandys World
+        für ein einzigartiges Musikkreations-Abenteuer.
+      canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
+  ja:
+    title: Sprunki Dandys World
+    description: Sprunki Dandy
+    meta:
+      title: Sprunki Dandys World - Sprunki Dandys Worldをオンラインでプレイ
+      description: Sprunki Dandy
+      canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
+  ko:
+    title: 스프런키 댄디즈 월드
+    description: 스프런키 댄디
+    meta:
+      title: 스프런키 댄디즈 월드 - 스프런키 댄디즈 월드 온라인 플레이
+      description: 스프런키 댄디
+      canonical: 'https://www.playfiddlebops.com/sprunki-dandys-world/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-dandys-world.png'
 ---
 
 ## Introducing to Sprunki Dandy's World

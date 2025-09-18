@@ -5,16 +5,16 @@ description: >-
   Say goodbye to the same old sounds! Incredibox Sprunksters brings new samples
   and effects to the table, making your music feel unique and creative.
 image: /incredibox-sprunksters.png
-iframe: https://turbowarp.org/1129395199/embed
+iframe: 'https://turbowarp.org/1129395199/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
   description: >-
     Say goodbye to the same old sounds! Incredibox Sprunksters brings new
     samples and effects to the table, making your music feel unique and
     creative.
-  canonical: https://www.playfiddlebops.com/incredibox-sprunksters/
-  ogImage: https://www.playfiddlebops.com/incredibox-sprunksters.png
+  canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+  ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
 seo:
   title: Incredibox Sprunksters - Play Incredibox Sprunksters Online
   description: >-
@@ -22,12 +22,12 @@ seo:
     samples and effects to the table, making your music feel unique and
     creative.
   keywords: Incredibox Sprunksters
-  canonical: https://www.playfiddlebops.com/incredibox-sprunksters/
-  ogImage: https://www.playfiddlebops.com/incredibox-sprunksters.png
+  canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+  ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
   schema:
     name: Incredibox Sprunksters - Play Incredibox Sprunksters Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/incredibox-sprunksters/
+    url: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
 rating:
   score: 4.3
   maxScore: 5
@@ -38,6 +38,86 @@ breadcrumb:
   current: Incredibox Sprunksters
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Incredibox Sprunksters
+    description: >-
+      Say goodbye to the same old sounds! Incredibox Sprunksters brings new
+      samples and effects to the table, making your music feel unique and
+      creative.
+    meta: *ref_0
+  zh:
+    title: Incredibox Sprunksters
+    description: 告别千篇一律的声音！Incredibox Sprunksters 带来全新的音效采样和特效，让你的音乐感受独特而富有创意。
+    meta:
+      title: Incredibox Sprunksters - 在线玩 Incredibox Sprunksters
+      description: 告别千篇一律的声音！Incredibox Sprunksters 带来全新的音效采样和特效，让你的音乐感受独特而富有创意。
+      canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
+  es:
+    title: Incredibox Sprunksters
+    description: >-
+      ¡Despídete de los mismos sonidos de siempre! Incredibox Sprunksters trae
+      nuevas muestras y efectos a la mesa, haciendo que tu música se sienta
+      única y creativa.
+    meta:
+      title: Incredibox Sprunksters - Juega Incredibox Sprunksters Online
+      description: >-
+        ¡Despídete de los mismos sonidos de siempre! Incredibox Sprunksters trae
+        nuevas muestras y efectos a la mesa, haciendo que tu música se sienta
+        única y creativa.
+      canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
+  fr:
+    title: Incredibox Sprunksters
+    description: >-
+      Fini les mêmes vieux sons ! Incredibox Sprunksters apporte de nouveaux
+      échantillons et effets, rendant votre musique unique et créative.
+    meta:
+      title: Incredibox Sprunksters - Jouer à Incredibox Sprunksters en Ligne
+      description: >-
+        Fini les mêmes vieux sons ! Incredibox Sprunksters apporte de nouveaux
+        échantillons et effets, rendant votre musique unique et créative.
+      canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
+  de:
+    title: Incredibox Sprunksters
+    description: >
+      Verabschiede dich von den immer gleichen Klängen! Incredibox Sprunksters
+      bringt neue Samples und Effekte auf den Tisch und lässt deine Musik
+      einzigartig und kreativ wirken.
+    meta:
+      title: Incredibox Sprunksters - Spiele Incredibox Sprunksters Online
+      description: >
+        Verabschiede dich von den immer gleichen Klängen! Incredibox Sprunksters
+        bringt neue Samples und Effekte auf den Tisch und lässt deine Musik
+        einzigartig und kreativ wirken.
+      canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
+  ja:
+    title: Incredibox Sprunksters
+    description: >-
+      いつものサウンドにさよならを！Incredibox Sprunksters は新しいサンプルと
+      エフェクトをテーブルに持ち込み、あなたの音楽をユニークで創造的に感じさせます。
+    meta:
+      title: Incredibox Sprunksters - Incredibox Sprunksters をオンラインでプレイ
+      description: >-
+        いつものサウンドにさよならを！Incredibox Sprunksters は新しいサンプルと
+        エフェクトをテーブルに持ち込み、あなたの音楽をユニークで創造的に感じさせます。
+      canonical: 'https://www.playfiddlebops.com/ja/incredibox-sprunksters/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
+  ko:
+    title: 인크레디박스 스프렁크스터스
+    description: >-
+      똑같은 오래된 사운드에 작별을 고하세요! 인크레디박스 스프렁크스터스는 새로운 샘플과 효과를  제공하여 여러분의 음악을 독특하고
+      창의적으로 만들어 줍니다.
+    meta:
+      title: 인크레디박스 스프렁크스터스 - 인크레디박스 스프렁크스터스 온라인 플레이
+      description: >-
+        똑같은 오래된 사운드에 작별을 고하세요! 인크레디박스 스프렁크스터스는 새로운 샘플과 효과를  제공하여 여러분의 음악을 독특하고
+        창의적으로 만들어 줍니다.
+      canonical: 'https://www.playfiddlebops.com/incredibox-sprunksters/'
+      ogImage: 'https://www.playfiddlebops.com/incredibox-sprunksters.png'
 ---
 
 ## So, What's the Lowdown on Incredibox Sprunksters?

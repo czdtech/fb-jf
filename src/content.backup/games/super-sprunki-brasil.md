@@ -7,17 +7,17 @@ description: >-
   Sprunki Brasil, and use your music to convey the passion and vitality of
   Brazil to the world!
 image: /super-sprunki-brasil.png
-iframe: https://turbowarp.org/1080827660/embed
+iframe: 'https://turbowarp.org/1080827660/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Super Sprunki Brasil - Play Super Sprunki Brasil Online
   description: >-
     Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your
     musical creativity with the passionate Brazilian flair. Come and join Super
     Sprunki Brasil, and use your music to convey the passion and vitality of
     Brazil to the world!
-  canonical: https://www.playfiddlebops.com/super-sprunki-brasil/
-  ogImage: https://www.playfiddlebops.com/super-sprunki-brasil.png
+  canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+  ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
 seo:
   title: Super Sprunki Brasil V1.3  - Play Super Sprunki Brasil Online
   description: >-
@@ -25,13 +25,13 @@ seo:
     musical creativity with the passionate Brazilian flair. Come and join Super
     Sprunki Brasil, and use your music to convey the passion and vitality of
     Brazil to the world!
-  keywords: Super Sprunki Brasil, Super Sprunki Brasil online
-  canonical: https://www.playfiddlebops.com/super-sprunki-brasil/
-  ogImage: https://www.playfiddlebops.com/super-sprunki-brasil.png
+  keywords: 'Super Sprunki Brasil, Super Sprunki Brasil online'
+  canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+  ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
   schema:
     name: Super Sprunki Brasil V1.3 - Play Super Sprunki Brasil Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/super-sprunki-brasil/
+    url: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
 rating:
   score: 4.3
   maxScore: 5
@@ -42,6 +42,93 @@ breadcrumb:
   current: Super Sprunki Brasil
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Super Sprunki Brasil
+    description: >-
+      Super Sprunki Brasil is an Incredibox Mod that allows you to ignite your
+      musical creativity with the passionate Brazilian flair. Come and join
+      Super Sprunki Brasil, and use your music to convey the passion and
+      vitality of Brazil to the world!
+    meta: *ref_0
+  zh:
+    title: 超级 Sprunki 巴西
+    description: >-
+      超级 Sprunki 巴西是一个 Incredibox 模组，让你用充满激情的巴西风情 点燃你的音乐创造力。来加入超级 Sprunki
+      巴西，用你的音乐向世界传达 巴西的激情与活力！
+    meta:
+      title: 超级 Sprunki 巴西 - 在线玩超级 Sprunki 巴西
+      description: >-
+        超级 Sprunki 巴西是一个 Incredibox 模组，让你用充满激情的巴西风情 点燃你的音乐创造力。来加入超级 Sprunki
+        巴西，用你的音乐向世界传达 巴西的激情与活力！
+      canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+      ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
+  es:
+    title: Super Sprunki Brasil
+    description: >-
+      Super Sprunki Brasil es un Mod de Incredibox que te permite encender tu
+      creatividad musical con el apasionado estilo brasileño. ¡Ven y únete a
+      Super Sprunki Brasil, y usa tu música para transmitir la pasión y
+      vitalidad de Brasil al mundo!
+    meta:
+      title: Super Sprunki Brasil - Juega Super Sprunki Brasil Online
+      description: >-
+        Super Sprunki Brasil es un Mod de Incredibox que te permite encender tu
+        creatividad musical con el apasionado estilo brasileño. ¡Ven y únete a
+        Super Sprunki Brasil, y usa tu música para transmitir la pasión y
+        vitalidad de Brasil al mundo!
+      canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+      ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
+  fr:
+    title: Super Sprunki Brasil
+    description: >-
+      Un Mod Incredibox vibrant inspiré par le Brésil : samba, bossa nova, 
+      couleurs vives et énergie contagieuse.
+    meta:
+      title: Super Sprunki Brasil - Jouez en ligne
+      description: >-
+        Créez des morceaux aux couleurs du Brésil et partagez votre joie 
+        musicale avec le monde.
+      canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+      ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
+  de:
+    title: Super Sprunki Brasil
+    description: >-
+      Super Sprunki Brasil ist ein Incredibox Mod, der es Ihnen ermöglicht, Ihre
+      musikalische Kreativität mit dem leidenschaftlichen brasilianischen Flair
+      zu entfachen. Kommen Sie zu Super Sprunki Brasil und verwenden Sie Ihre
+      Musik, um die Leidenschaft und Vitalität Brasiliens der Welt zu
+      übermitteln!
+    meta:
+      title: Super Sprunki Brasil - Super Sprunki Brasil Online spielen
+      description: >-
+        Super Sprunki Brasil ist ein Incredibox Mod, der es Ihnen ermöglicht,
+        Ihre musikalische Kreativität mit dem leidenschaftlichen brasilianischen
+        Flair zu entfachen. Kommen Sie zu Super Sprunki Brasil und verwenden Sie
+        Ihre Musik, um die Leidenschaft und Vitalität Brasiliens der Welt zu
+        übermitteln!
+      canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+      ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
+  ja:
+    title: Super Sprunki Brasil
+    description: >-
+      Super Sprunki Brasilは、情熱的なブラジルの才能で音楽的創造性に火を点けることができる Incrediblebox
+      Modです。Super Sprunki Brasilに参加して、あなたの音楽でブラジルの 情熱と活力を世界に伝えましょう！
+    meta:
+      title: Super Sprunki Brasil - Super Sprunki Brasil をオンラインでプレイ
+      description: >-
+        Super Sprunki Brasilは、情熱的なブラジルの才能で音楽的創造性に火を点けることができる Incrediblebox
+        Modです。Super Sprunki Brasilに参加して、あなたの音楽でブラジルの 情熱と活力を世界に伝えましょう！
+      canonical: 'https://www.playfiddlebops.com/ja/super-sprunki-brasil/'
+      ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
+  ko:
+    title: 슈퍼 스프런키 브라질
+    description: 브라질 테마의 활기찬 스프런키 게임입니다.
+    meta:
+      title: 슈퍼 스프런키 브라질 - 슈퍼 스프런키 브라질 온라인 플레이
+      description: 브라질 테마의 활기찬 스프런키 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/super-sprunki-brasil/'
+      ogImage: 'https://www.playfiddlebops.com/super-sprunki-brasil.png'
 ---
 
 ## Introducing to Super Sprunki Brasil

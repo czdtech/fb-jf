@@ -7,17 +7,17 @@ description: >-
   Mod, you will see familiar characters appear in unexpected images, and use
   their new sounds and rhythms to create amazing musical works.
 image: /sprunki-swapped-horror.png
-iframe: https://turbowarp.org/1132681434/embed
+iframe: 'https://turbowarp.org/1132681434/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
   description: >-
     Sprunki Swapped Horror is a creative Incredibox Mod that brings a new
     dimension to the game through its innovative character swap mechanism. In
     this Mod, you will see familiar characters appear in unexpected images, and
     use their new sounds and rhythms to create amazing musical works.
-  canonical: https://www.playfiddlebops.com/sprunki-swapped-horror/
-  ogImage: https://www.playfiddlebops.com/sprunki-swapped-horror.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
 seo:
   title: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
   description: >-
@@ -25,13 +25,13 @@ seo:
     dimension to the game through its innovative character swap mechanism. In
     this Mod, you will see familiar characters appear in unexpected images, and
     use their new sounds and rhythms to create amazing musical works.
-  keywords: Sprunki Swapped Horror, Sprunki Swapped Horror online
-  canonical: https://www.playfiddlebops.com/sprunki-swapped-horror/
-  ogImage: https://www.playfiddlebops.com/sprunki-swapped-horror.png
+  keywords: 'Sprunki Swapped Horror, Sprunki Swapped Horror online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
   schema:
     name: Sprunki Swapped Horror - Play Sprunki Swapped Horror Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-swapped-horror/
+    url: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
 rating:
   score: 4.4
   maxScore: 5
@@ -42,6 +42,102 @@ breadcrumb:
   current: Sprunki Swapped Horror
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Swapped Horror
+    description: >-
+      Sprunki Swapped Horror is a creative Incredibox Mod that brings a new
+      dimension to the game through its innovative character swap mechanism. In
+      this Mod, you will see familiar characters appear in unexpected images,
+      and use their new sounds and rhythms to create amazing musical works.
+    meta: *ref_0
+  zh:
+    title: Sprunki 交换恐怖
+    description: >
+      Sprunki 交换恐怖是一个创意的 Incredibox 模组，通过创新的 角色交换机制为游戏带来全新的层面。在这个模组中，你将看到
+      營悉的角色以意想不到的形象出现，并使用他们的新声音和 节奏创作令人惊叹的音乐作品。
+    meta:
+      title: Sprunki 交换恐怖 - 在线玩 Sprunki 交换恐怖
+      description: >
+        Sprunki 交换恐怖是一个创意的 Incredibox 模组，通过创新的 角色交换机制为游戏带来全新的层面。在这个模组中，你将看到
+        營悉的角色以意想不到的形象出现，并使用他们的新声音和 节奏创作令人惊叹的音乐作品。
+      canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
+  es:
+    title: Sprunki Swapped Horror
+    description: >-
+      Sprunki Swapped Horror es un Mod creativo de Incredibox que aporta una
+      nueva dimensión al juego a través de su innovador mecanismo de intercambio
+      de personajes. En este Mod, verás personajes familiares aparecer en
+      imágenes inesperadas, y usarás sus nuevos sonidos y ritmos para crear
+      obras musicales increíbles.
+    meta:
+      title: Sprunki Swapped Horror - Juega Sprunki Swapped Horror Online
+      description: >-
+        Sprunki Swapped Horror es un Mod creativo de Incredibox que aporta una
+        nueva dimensión al juego a través de su innovador mecanismo de
+        intercambio de personajes. En este Mod, verás personajes familiares
+        aparecer en imágenes inesperadas, y usarás sus nuevos sonidos y ritmos
+        para crear obras musicales increíbles.
+      canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
+  fr:
+    title: Sprunki Swapped Horror
+    description: >-
+      Un Mod Incredibox créatif où les personnages échangent leurs rôles : 
+      nouveaux timbres, nouveaux rythmes, nouvelles possibilités.
+    meta:
+      title: Sprunki Swapped Horror - Jouez en ligne
+      description: >-
+        Système d’échange de personnages, paysages sonores renouvelés, 
+        animations revisitées — créez une horreur musicale unique.
+      canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
+  de:
+    title: Sprunki Swapped Horror
+    description: >-
+      Sprunki Swapped Horror ist ein kreativer Incredibox-Mod, der eine neue
+      Dimension zum Spiel durch seinen innovativen Charakter-Tausch-Mechanismus
+      bringt. In diesem Mod wirst du vertraute Charaktere in unerwarteten
+      Bildern erscheinen sehen und ihre neuen Klänge und Rhythmen verwenden, um
+      erstaunliche musikalische Werke zu erschaffen.
+    meta:
+      title: Sprunki Swapped Horror - Spiel Sprunki Swapped Horror Online
+      description: >-
+        Sprunki Swapped Horror ist ein kreativer Incredibox-Mod, der eine neue
+        Dimension zum Spiel durch seinen innovativen
+        Charakter-Tausch-Mechanismus bringt. In diesem Mod wirst du vertraute
+        Charaktere in unerwarteten Bildern erscheinen sehen und ihre neuen
+        Klänge und Rhythmen verwenden, um erstaunliche musikalische Werke zu
+        erschaffen.
+      canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
+  ja:
+    title: Sprunki Swapped Horror
+    description: >-
+      Sprunki Swapped Horrorは、革新的なキャラクター交換メカニクスを通じて
+      ゲームに新しい次元をもたらす創造的なIncrediblebox Modです。 このModでは、馴染みのあるキャラクターが予期しないイメージで現れ、
+      新しいサウンドとリズムを使って素晴らしい音楽作品を作成できます。
+    meta:
+      title: Sprunki Swapped Horror - Sprunki Swapped Horror をオンラインでプレイ
+      description: >-
+        Sprunki Swapped Horrorは、革新的なキャラクター交換メカニクスを通じて
+        ゲームに新しい次元をもたらす創造的なIncrediblebox Modです。
+        このModでは、馴染みのあるキャラクターが予期しないイメージで現れ、 新しいサウンドとリズムを使って素晴らしい音楽作品を作成できます。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-swapped-horror/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
+  ko:
+    title: 스프런키 스왑 호러
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 스왑 호러 - 스프런키 스왑 호러 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-swapped-horror/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-swapped-horror.png'
 ---
 
 ## What is Sprunki Swapped Horror?

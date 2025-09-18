@@ -7,17 +7,17 @@ description: >-
   creativity, allowing you to have fun with music while exploring the darker
   side.
 image: /sprunki-phase-8.png
-iframe: https://turbowarp.org/1110520837/embed
+iframe: 'https://turbowarp.org/1110520837/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Phase 8 - Play Sprunki Phase 8 Online
   description: >-
     Sprunki Phase 8 is a bold experiment that successfully marries music
     creation with horror aesthetics. It offers a platform brimming with mystery
     and creativity, allowing you to have fun with music while exploring the
     darker side.
-  canonical: https://www.playfiddlebops.com/sprunki-phase-8/
-  ogImage: https://www.playfiddlebops.com/sprunki-phase-8.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
 seo:
   title: Sprunki Phase 8 - Play Sprunki Phase 8 Online
   description: >-
@@ -26,12 +26,12 @@ seo:
     and creativity, allowing you to have fun with music while exploring the
     darker side.
   keywords: Sprunki Phase 8
-  canonical: https://www.playfiddlebops.com/sprunki-phase-8/
-  ogImage: https://www.playfiddlebops.com/sprunki-phase-8.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
   schema:
     name: Sprunki Phase 8 - Play Sprunki Phase 8 Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-phase-8/
+    url: 'https://www.playfiddlebops.com/sprunki-phase-8/'
 rating:
   score: 4.2
   maxScore: 5
@@ -42,6 +42,99 @@ breadcrumb:
   current: Sprunki Phase 8
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Phase 8
+    description: >-
+      Sprunki Phase 8 is a bold experiment that successfully marries music
+      creation with horror aesthetics. It offers a platform brimming with
+      mystery and creativity, allowing you to have fun with music while
+      exploring the darker side.
+    meta: *ref_0
+  zh:
+    title: Sprunki Phase 8 - 恐怖音乐新体验
+    description: >
+      Sprunki Phase
+      8是一个大胆的实验，成功将音乐创作与恐怖美学结合。它提供了一个充满神秘和创意的平台，让你在探索黑暗一面的同时享受音乐乐趣。
+    meta:
+      title: Sprunki Phase 8 - 免费在线玩恐怖音乐游戏
+      description: >
+        Sprunki Phase
+        8是一个大胆的实验，成功将音乐创作与恐怖美学结合。它提供了一个充满神秘和创意的平台，让你在探索黑暗一面的同时享受音乐乐趣。
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
+  es:
+    title: Sprunki Phase 8
+    description: >-
+      Sprunki Phase 8 es un experimento audaz que casa exitosamente la creación
+      musical con estética de terror. Ofrece una plataforma rebosante de
+      misterio y creatividad, permitiéndote divertirte con la música mientras
+      exploras el lado más oscuro.
+    meta:
+      title: Sprunki Phase 8 - Juega Sprunki Phase 8 Online
+      description: >-
+        Sprunki Phase 8 es un experimento audaz que casa exitosamente la
+        creación musical con estética de terror. Ofrece una plataforma rebosante
+        de misterio y creatividad, permitiéndote divertirte con la música
+        mientras exploras el lado más oscuro.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
+  fr:
+    title: Sprunki Phase 8
+    description: >-
+      Sprunki Phase 8 est une expérience audacieuse qui marie avec succès la
+      création musicale avec l'esthétique d'horreur. Il offre une plateforme
+      débordante de mystère et de créativité, vous permettant de vous amuser
+      avec la musique tout en explorant le côté sombre.
+    meta:
+      title: Sprunki Phase 8 - Jouer à Sprunki Phase 8 en Ligne
+      description: >-
+        Sprunki Phase 8 est une expérience audacieuse qui marie avec succès la
+        création musicale avec l'esthétique d'horreur. Il offre une plateforme
+        débordante de mystère et de créativité, vous permettant de vous amuser
+        avec la musique tout en explorant le côté sombre.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
+  de:
+    title: Sprunki Phase 8
+    description: >-
+      Sprunki Phase 8 ist ein kühnes Experiment, das erfolgreich Musikerstellung
+      mit Horror-Ästhetik verbindet. Es bietet eine Plattform voller Geheimnis
+      und Kreativität, sodass Sie Spaß mit Musik haben können, während Sie die
+      dunkle Seite erkunden.
+    meta:
+      title: Sprunki Phase 8 - Sprunki Phase 8 Online spielen
+      description: >-
+        Sprunki Phase 8 ist ein kühnes Experiment, das erfolgreich
+        Musikerstellung mit Horror-Ästhetik verbindet. Es bietet eine Plattform
+        voller Geheimnis und Kreativität, sodass Sie Spaß mit Musik haben
+        können, während Sie die dunkle Seite erkunden.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
+  ja:
+    title: Sprunki Phase 8
+    description: >-
+      Sprunki Phase
+      8は、音楽創作とホラー美学を見事に融合させた大胆な実験です。神秘と創造性に満ちたプラットフォームを提供し、ダークサイドを探求しながら音楽を楽しむことができます。
+    meta:
+      title: Sprunki Phase 8 - Sprunki Phase 8をオンラインでプレイ
+      description: >-
+        Sprunki Phase
+        8は、音楽創作とホラー美学を見事に融合させた大胆な実験です。神秘と創造性に満ちたプラットフォームを提供し、ダークサイドを探求しながら音楽を楽しむことができます。
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
+  ko:
+    title: 스프런키 페이즈 8
+    description: >-
+      스프런키 페이즈 8은 음악 창작과 호러 미학을 성공적으로 결합한  대담한 실험입니다. 신비와 창의성으로 가득한 플랫폼을 제공하여, 
+      어두운 면을 탐험하면서 음악으로 재미를 느낄 수 있게 해줍니다.
+    meta:
+      title: 스프런키 페이즈 8 - 스프런키 페이즈 8 온라인 플레이
+      description: >-
+        스프런키 페이즈 8은 음악 창작과 호러 미학을 성공적으로 결합한  대담한 실험입니다. 신비와 창의성으로 가득한 플랫폼을
+        제공하여,  어두운 면을 탐험하면서 음악으로 재미를 느낄 수 있게 해줍니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-phase-8/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-phase-8.png'
 ---
 
 ## What Exactly is Sprunki Phase 8?

@@ -6,16 +6,16 @@ description: >-
   pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will definitely
   brighten your eyes!
 image: /sprunki-like-minecraft.png
-iframe: https://turbowarp.org/1095572358/embed
+iframe: 'https://turbowarp.org/1095572358/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Like Minecraft - Play Sprunki Like Minecraft Online
   description: >-
     Are you both a loyal fan of Incredibox Sprunki and a passionate lover of the
     pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will
     definitely brighten your eyes!
-  canonical: https://www.playfiddlebops.com/sprunki-like-minecraft/
-  ogImage: https://www.playfiddlebops.com/sprunki-like-minecraft.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
 seo:
   title: Sprunki Like Minecraft - Play Sprunki Like Minecraft Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will
     definitely brighten your eyes!
   keywords: Sprunki Like Minecraft
-  canonical: https://www.playfiddlebops.com/sprunki-like-minecraft/
-  ogImage: https://www.playfiddlebops.com/sprunki-like-minecraft.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
   schema:
     name: Sprunki Like Minecraft - Play Sprunki Like Minecraft Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-like-minecraft/
+    url: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
 rating:
   score: 4.6
   maxScore: 5
@@ -39,6 +39,86 @@ breadcrumb:
   current: Sprunki Like Minecraft
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Like Minecraft
+    description: >-
+      Are you both a loyal fan of Incredibox Sprunki and a passionate lover of
+      the pixel world of Minecraft? Then the Sprunki Like Minecraft Mod will
+      definitely brighten your eyes!
+    meta: *ref_0
+  zh:
+    title: Sprunki Like Minecraft
+    description: >-
+      你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的热情爱好者吗？那么 Sprunki Like
+      Minecraft Mod 一定会让你眼前一亮！
+    meta:
+      title: Sprunki Like Minecraft - 在线玩 Sprunki Like Minecraft
+      description: >-
+        你既是 Incredibox Sprunki 的忠实粉丝，又是 Minecraft 像素世界的热情爱好者吗？那么 Sprunki Like
+        Minecraft Mod 一定会让你眼前一亮！
+      canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
+  es:
+    title: Sprunki Like Minecraft
+    description: >-
+      ¿Eres tanto un fanático leal de Incredibox Sprunki como un amante
+      apasionado del mundo pixelado de Minecraft? ¡Entonces el Mod Sprunki Like
+      Minecraft definitivamente iluminará tus ojos!
+    meta:
+      title: Sprunki Like Minecraft - Jugar Sprunki Like Minecraft Online
+      description: >-
+        ¿Eres tanto un fanático leal de Incredibox Sprunki como un amante
+        apasionado del mundo pixelado de Minecraft? ¡Entonces el Mod Sprunki
+        Like Minecraft definitivamente iluminará tus ojos!
+      canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
+  fr:
+    title: Sprunki Like Minecraft
+    description: >-
+      Êtes-vous à la fois un fan fidèle d'Incredibox Sprunki et un passionné du
+      monde pixelisé de Minecraft ? Alors le Mod Sprunki Like Minecraft va
+      définitivement illuminer vos yeux !
+    meta:
+      title: Sprunki Like Minecraft - Jouez à Sprunki Like Minecraft en Ligne
+      description: >-
+        Êtes-vous à la fois un fan fidèle d'Incredibox Sprunki et un passionné
+        du monde pixelisé de Minecraft ? Alors le Mod Sprunki Like Minecraft va
+        définitivement illuminer vos yeux !
+      canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
+  de:
+    title: Sprunki Like Minecraft
+    description: >
+      Sprunki Like Minecraft kombiniert die Musikkreation von Sprunki mit der
+      blockigen Ästhetik und dem Gameplay-Stil von Minecraft.
+    meta:
+      title: Sprunki Like Minecraft - Minecraft-Stil Musikspiel
+      description: Sprunki mit Minecraft-Ästhetik und blockigen Charakteren
+      canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
+  ja:
+    title: Sprunki Like Minecraft
+    description: >-
+      Incredibox
+      Sprunkiの忠実なファンでありながら、Minecraftのピクセル世界の熱狂的な愛好家でもありますか？そんなあなたには、Sprunki Like
+      Minecraft Modが目を輝かせることでしょう！
+    meta:
+      title: Sprunki Like Minecraft - Sprunki Like Minecraftをオンラインでプレイ
+      description: >-
+        Incredibox
+        Sprunkiの忠実なファンでありながら、Minecraftのピクセル世界の熱狂的な愛好家でもありますか？そんなあなたには、Sprunki
+        Like Minecraft Modが目を輝かせることでしょう！
+      canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
+  ko:
+    title: 스프런키 라이크 마인크래프트
+    description: 마인크래프트 스타일의 스프런키 게임입니다.
+    meta:
+      title: 스프런키 라이크 마인크래프트 - 스프런키 라이크 마인크래프트 온라인 플레이
+      description: 마인크래프트 스타일의 스프런키 게임입니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-like-minecraft/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-like-minecraft.png'
 ---
 
 ## What is Sprunki Like Minecraft Mod?

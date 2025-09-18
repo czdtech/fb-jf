@@ -6,29 +6,29 @@ description: >-
   shackles of traditional music games and perfectly combines rhythm with
   personalized character design.
 image: /sprunki-pyramixed.png
-iframe: https://turbowarp.org/1144118565/embed
+iframe: 'https://turbowarp.org/1144118565/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Pyramixed - Play Sprunki Pyramixed Online
   description: >-
     Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks
     the shackles of traditional music games and perfectly combines rhythm with
     personalized character design.
-  canonical: https://www.playfiddlebops.com/sprunki-pyramixed/
-  ogImage: https://www.playfiddlebops.com/sprunki-pyramixed.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
 seo:
   title: Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online
   description: >-
     Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks
     the shackles of traditional music games and perfectly combines rhythm with
     personalized character design.
-  keywords: Sprunki Pyramixed 0.9, Sprunki Pyramixed 0.9 online
-  canonical: https://www.playfiddlebops.com/sprunki-pyramixed/
-  ogImage: https://www.playfiddlebops.com/sprunki-pyramixed-0.9.png
+  keywords: 'Sprunki Pyramixed 0.9, Sprunki Pyramixed 0.9 online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed-0.9.png'
   schema:
     name: Sprunki Pyramixed 0.9 - Play Sprunki Pyramixed 0.9 Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-pyramixed/
+    url: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
 rating:
   score: 4.7
   maxScore: 5
@@ -39,6 +39,88 @@ breadcrumb:
   current: Sprunki Pyramixed 0.9
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Pyramixed
+    description: >-
+      Sprunkgerny Pyramixed 0.9 is an innovative music creation game that breaks
+      the shackles of traditional music games and perfectly combines rhythm with
+      personalized character design.
+    meta: *ref_0
+  zh:
+    title: Sprunki Pyramixed
+    description: Sprunkgerny Pyramixed 0.9 是一款创新的音乐创作游戏，打破了传统音乐游戏的束缚，完美结合了节奏与个性化角色设计。
+    meta:
+      title: Sprunki Pyramixed - 在线玩 Sprunki Pyramixed
+      description: Sprunkgerny Pyramixed 0.9 是一款创新的音乐创作游戏，打破了传统音乐游戏的束缚，完美结合了节奏与个性化角色设计。
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
+  es:
+    title: Sprunki Pyramixed
+    description: >-
+      Sprunkgerny Pyramixed 0.9 es un juego innovador de creación musical que
+      rompe las cadenas de los juegos musicales tradicionales y combina
+      perfectamente el ritmo con el diseño de personajes personalizado.
+    meta:
+      title: Sprunki Pyramixed - Juega Sprunki Pyramixed Online
+      description: >-
+        Sprunkgerny Pyramixed 0.9 es un juego innovador de creación musical que
+        rompe las cadenas de los juegos musicales tradicionales y combina
+        perfectamente el ritmo con el diseño de personajes personalizado.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
+  fr:
+    title: Sprunki Pyramixed
+    description: >-
+      Sprunkgerny Pyramixed 0.9 est un jeu de création musicale innovant qui
+      brise les chaînes des jeux musicaux traditionnels et combine parfaitement
+      le rythme avec le design de personnage personnalisé.
+    meta:
+      title: Sprunki Pyramixed - Jouez à Sprunki Pyramixed en Ligne
+      description: >-
+        Sprunkgerny Pyramixed 0.9 est un jeu de création musicale innovant qui
+        brise les chaînes des jeux musicaux traditionnels et combine
+        parfaitement le rythme avec le design de personnage personnalisé.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
+  de:
+    title: Sprunki Pyramixed
+    description: >-
+      Sprunkgerny Pyramixed 0.9 ist ein innovatives Musikerstellungsspiel, das
+      die Fesseln traditioneller Musikspiele durchbricht und Rhythmus perfekt
+      mit personalisierten Charakterdesigns verbindet.
+    meta:
+      title: Sprunki Pyramixed - Spiel Sprunki Pyramixed Online
+      description: >-
+        Sprunkgerny Pyramixed 0.9 ist ein innovatives Musikerstellungsspiel, das
+        die Fesseln traditioneller Musikspiele durchbricht und Rhythmus perfekt
+        mit personalisierten Charakterdesigns verbindet.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
+  ja:
+    title: Sprunki Pyramixed
+    description: >-
+      Sprunkgerny Pyramixed 0.9は、従来の音楽ゲームの制約を打破し、リズムと
+      個人的なキャラクターデザインを完璧に組み合わせた革新的な音楽制作ゲームです。
+    meta:
+      title: Sprunki Pyramixed - Sprunki Pyramixed をオンラインでプレイ
+      description: >-
+        Sprunkgerny Pyramixed 0.9は、従来の音楽ゲームの制約を打破し、リズムと
+        個人的なキャラクターデザインを完璧に組み合わせた革新的な音楽制作ゲームです。
+      canonical: 'https://www.playfiddlebops.com/ja/sprunki-pyramixed/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
+  ko:
+    title: 스프런키 피라믹스
+    description: >
+      독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+      만들어보세요.
+    meta:
+      title: 스프런키 피라믹스 - 스프런키 피라믹스 온라인 플레이
+      description: >
+        독특한 스프런키 모드로 창의적인 음악 제작과 재미있는 게임플레이를 경험하세요. 새로운 캐릭터와 사운드로 여러분만의 음악 작품을
+        만들어보세요.
+      canonical: 'https://www.playfiddlebops.com/sprunki-pyramixed/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-pyramixed.png'
 ---
 
 ## What is Sprunkgerny Pyramixed 0.9?

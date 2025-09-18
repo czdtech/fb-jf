@@ -5,27 +5,27 @@ description: >-
   Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it
   brings a new perspective to music creation through its unique winter theme.
 image: /sprunki-cool-as-ice.png
-iframe: https://turbowarp.org/1101497138/embed
+iframe: 'https://turbowarp.org/1101497138/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Sprunki Cool As Ice - Play Sprunki Cool As Ice Online
   description: >-
     Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it
     brings a new perspective to music creation through its unique winter theme.
-  canonical: https://www.playfiddlebops.com/sprunki-cool-as-ice/
-  ogImage: https://www.playfiddlebops.com/sprunki-cool-as-ice.png
+  canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
 seo:
   title: Sprunki Cool As Ice - Play Sprunki Cool As Ice Online
   description: >-
     Sprunki: Cool As Ice is a major innovation in the Incredibox family, and it
     brings a new perspective to music creation through its unique winter theme.
-  keywords: Sprunki Cool As Ice, Sprunki Cool As Ice online
-  canonical: https://www.playfiddlebops.com/sprunki-cool-as-ice/
-  ogImage: https://www.playfiddlebops.com/sprunki-cool-as-ice.png
+  keywords: 'Sprunki Cool As Ice, Sprunki Cool As Ice online'
+  canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+  ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
   schema:
     name: Sprunki Cool As Ice - Play Sprunki Cool As Ice Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/sprunki-cool-as-ice/
+    url: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
 rating:
   score: 4.2
   maxScore: 5
@@ -36,6 +36,87 @@ breadcrumb:
   current: Sprunki Cool As Ice
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Sprunki Cool As Ice
+    description: >-
+      Sprunki: Cool As Ice is a major innovation in the Incredibox family, and
+      it brings a new perspective to music creation through its unique winter
+      theme.
+    meta: *ref_0
+  zh:
+    title: Sprunki Cool As Ice
+    description: Sprunki：Cool As Ice 是 Incredibox 家族的重大创新，它通过独特的冬季主题为音乐创作带来新视角。
+    meta:
+      title: Sprunki Cool As Ice - 在线玩 Sprunki Cool As Ice
+      description: Sprunki：Cool As Ice 是 Incredibox 家族的重大创新，它通过独特的冬季主题为音乐创作带来新视角。
+      canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
+  es:
+    title: Sprunki Cool As Ice
+    description: >-
+      Sprunki: Cool As Ice es una innovación importante en la familia
+      Incredibox, y trae una nueva perspectiva a la creación musical a través de
+      su tema único de invierno.
+    meta:
+      title: Sprunki Cool As Ice - Jugar Sprunki Cool As Ice Online
+      description: >-
+        Sprunki: Cool As Ice es una innovación importante en la familia
+        Incredibox, y trae una nueva perspectiva a la creación musical a través
+        de su tema único de invierno.
+      canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
+  fr:
+    title: Sprunki Cool As Ice
+    description: >-
+      Sprunki: Cool As Ice est une innovation majeure dans la famille
+      Incredibox, et il apporte une nouvelle perspective à la création musicale
+      à travers son thème hivernal unique.
+    meta:
+      title: Sprunki Cool As Ice - Jouer à Sprunki Cool As Ice en Ligne
+      description: >-
+        Sprunki: Cool As Ice est une innovation majeure dans la famille
+        Incredibox, et il apporte une nouvelle perspective à la création
+        musicale à travers son thème hivernal unique.
+      canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
+  de:
+    title: Sprunki Cool As Ice
+    description: >
+      Sprunki Cool As Ice ist eine eisige Variante des beliebten Sprunki-Spiels
+      mit winterlichen Themen, gefrorenen Charakteren und frostigen
+      Soundeffekten für eine kühle musikalische Erfahrung.
+    meta:
+      title: Sprunki Cool As Ice - Spiele Sprunki Cool As Ice Online
+      description: >
+        Sprunki Cool As Ice bietet eine eisige Musikkreations-Erfahrung mit
+        winterlichen Charakteren und frostigen Soundeffekten.
+      canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
+  ja:
+    title: Sprunki Cool As Ice
+    description: >-
+      Sprunki: Cool As
+      Iceは、Incrediboxファミリーにおける重要な革新で、ユニークな冬のテーマを通じて音楽創作に新しい視点をもたらします。
+    meta:
+      title: Sprunki Cool As Ice - Sprunki Cool As Iceをオンラインでプレイ
+      description: >-
+        Sprunki: Cool As
+        Iceは、Incrediboxファミリーにおける重要な革新で、ユニークな冬のテーマを通じて音楽創作に新しい視点をもたらします。
+      canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
+  ko:
+    title: 스프런키 쿨 애즈 아이스
+    description: >-
+      스프런키: 쿨 애즈 아이스는 인크레디박스 패밀리의 주요 혁신이며,  독특한 겨울 테마를 통해 음악 창작에 새로운 관점을 가져다
+      줍니다.
+    meta:
+      title: 스프런키 쿨 애즈 아이스 - 스프런키 쿨 애즈 아이스 온라인 플레이
+      description: >-
+        스프런키: 쿨 애즈 아이스는 인크레디박스 패밀리의 주요 혁신이며,  독특한 겨울 테마를 통해 음악 창작에 새로운 관점을 가져다
+        줍니다.
+      canonical: 'https://www.playfiddlebops.com/sprunki-cool-as-ice/'
+      ogImage: 'https://www.playfiddlebops.com/sprunki-cool-as-ice.png'
 ---
 
 ## Introducing to Sprunki Cool As Ice

@@ -6,16 +6,16 @@ description: >-
   the rhythmic creative fun of the Sprunki platform, letting you unleash endless
   creativity while you play.
 image: /mundo-torajo-sprunki.png
-iframe: https://turbowarp.org/1096623350/embed
+iframe: 'https://turbowarp.org/1096623350/embed'
 category: trending
-meta:
+meta: &ref_0
   title: Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online
   description: >-
     This unique Mod cleverly blends the whimsical universe of Mundo Torajo with
     the rhythmic creative fun of the Sprunki platform, letting you unleash
     endless creativity while you play.
-  canonical: https://www.playfiddlebops.com/mundo-torajo-sprunki/
-  ogImage: https://www.playfiddlebops.com/mundo-torajo-sprunki.png
+  canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
 seo:
   title: Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     the rhythmic creative fun of the Sprunki platform, letting you unleash
     endless creativity while you play.
   keywords: Mundo Torajo Sprunki
-  canonical: https://www.playfiddlebops.com/mundo-torajo-sprunki/
-  ogImage: https://www.playfiddlebops.com/mundo-torajo-sprunki.png
+  canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
   schema:
     name: Mundo Torajo Sprunki - Play Mundo Torajo Sprunki Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/mundo-torajo-sprunki/
+    url: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
 rating:
   score: 4
   maxScore: 5
@@ -39,6 +39,89 @@ breadcrumb:
   current: Mundo Torajo Sprunki
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Mundo Torajo Sprunki
+    description: >-
+      This unique Mod cleverly blends the whimsical universe of Mundo Torajo
+      with the rhythmic creative fun of the Sprunki platform, letting you
+      unleash endless creativity while you play.
+    meta: *ref_0
+  zh:
+    title: Mundo Torajo Sprunki
+    description: 这个独特的模组巧妙地将 Mundo Torajo 的奇幻世界与 Sprunki 平台的节奏创作乐趣相结合，让你在游戏中释放无限创意。
+    meta:
+      title: Mundo Torajo Sprunki - 在线玩 Mundo Torajo Sprunki
+      description: 这个独特的模组巧妙地将 Mundo Torajo 的奇幻世界与 Sprunki 平台的节奏创作乐趣相结合，让你在游戏中释放无限创意。
+      canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
+  es:
+    title: Mundo Torajo Sprunki
+    description: >-
+      Este Mod único combina inteligentemente el universo caprichoso de Mundo
+      Torajo con la diversión creativa rítmica de la plataforma Sprunki,
+      permitiéndote liberar creatividad infinita mientras juegas.
+    meta:
+      title: Mundo Torajo Sprunki - Jugar Mundo Torajo Sprunki Online
+      description: >-
+        Este Mod único combina inteligentemente el universo caprichoso de Mundo
+        Torajo con la diversión creativa rítmica de la plataforma Sprunki,
+        permitiéndote liberar creatividad infinita mientras juegas.
+      canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
+  fr:
+    title: Mundo Torajo Sprunki
+    description: >-
+      Ce Mod unique mélange intelligemment l'univers fantaisiste de Mundo Torajo
+      avec le plaisir créatif rythmique de la plateforme Sprunki, vous
+      permettant de libérer une créativité infinie pendant que vous jouez.
+    meta:
+      title: Mundo Torajo Sprunki - Jouer à Mundo Torajo Sprunki en Ligne
+      description: >-
+        Ce Mod unique mélange intelligemment l'univers fantaisiste de Mundo
+        Torajo avec le plaisir créatif rythmique de la plateforme Sprunki, vous
+        permettant de libérer une créativité infinie pendant que vous jouez.
+      canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
+  de:
+    title: Mundo Torajo Sprunki
+    description: >
+      Diese einzigartige Mod verbindet geschickt das fantasievolle Universum von
+      Mundo Torajo mit dem rhythmischen kreativen Spaß der Sprunki-Plattform und
+      lässt dich endlose Kreativität entfesseln, während du spielst.
+    meta:
+      title: Mundo Torajo Sprunki - Spiele Mundo Torajo Sprunki Online
+      description: >
+        Diese einzigartige Mod verbindet geschickt das fantasievolle Universum
+        von Mundo Torajo mit dem rhythmischen kreativen Spaß der
+        Sprunki-Plattform und lässt dich endlose Kreativität entfesseln, während
+        du spielst.
+      canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
+  ja:
+    title: Mundo Torajo Sprunki
+    description: >-
+      このユニークなModは、Mundo
+      Torajoの幻想的な世界とSprunkiプラットフォームのリズミカルで創造的な楽しさを巧みに融合させ、プレイしながら無限の創造性を発揮できるゲームです。
+    meta:
+      title: Mundo Torajo Sprunki - Mundo Torajo Sprunkiをオンラインでプレイ
+      description: >-
+        このユニークなModは、Mundo
+        Torajoの幻想的な世界とSprunkiプラットフォームのリズミカルで創造的な楽しさを巧みに融合させ、プレイしながら無限の創造性を発揮できるゲームです。
+      canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
+  ko:
+    title: 뭀도 토라호 스프렁키
+    description: >
+      이 독특한 모드는 뭀도 토라호의 기발한 세계와 스프렁키 플랫폼의 리드미컬한 창의적 재미를  영리하게 연합하여, 플레이하는 동안 무한한
+      창의력을 발휘할 수 있게 합니다.
+    meta:
+      title: 뭀도 토라호 스프렁키 - 뭀도 토라호 스프렁키 온라인 플레이
+      description: >
+        이 독특한 모드는 뭀도 토라호의 기발한 세계와 스프렁키 플랫폼의 리드미컬한 창의적 재미를  영리하게 연합하여, 플레이하는 동안
+        무한한 창의력을 발휘할 수 있게 합니다.
+      canonical: 'https://www.playfiddlebops.com/mundo-torajo-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/mundo-torajo-sprunki.png'
 ---
 
 ## What Exactly is Mundo Torajo Sprunki?

@@ -3,19 +3,19 @@ slug: pikmin-no-sprunki
 title: Pikmin No Sprunki
 description: >-
   Pikmin No Sprunki is more than just a simple game; it's a creative platform
-  that encourages exploration. It perfectly combines engaging gameplay,
-  diverse mods, and an active community.
+  that encourages exploration. It perfectly combines engaging gameplay, diverse
+  mods, and an active community.
 image: /pikmin-no-sprunki.png
-iframe: https://turbowarp.org/1094087099/embed
+iframe: 'https://turbowarp.org/1094087099/embed'
 category: new
-meta:
+meta: &ref_0
   title: Pikmin No Sprunki - Play Pikmin No Sprunki Online
   description: >-
     Pikmin No Sprunki is more than just a simple game; it's a creative platform
     that encourages exploration. It perfectly combines engaging gameplay,
     diverse mods, and an active community.
-  canonical: https://www.playfiddlebops.com/pikmin-no-sprunki/
-  ogImage: https://www.playfiddlebops.com/pikmin-no-sprunki.png
+  canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
 seo:
   title: Pikmin No Sprunki - Play Pikmin No Sprunki Online
   description: >-
@@ -23,12 +23,12 @@ seo:
     that encourages exploration. It perfectly combines engaging gameplay,
     diverse mods, and an active community, standing out among many free games.
   keywords: Pikmin No Sprunki
-  canonical: https://www.playfiddlebops.com/pikmin-no-sprunki/
-  ogImage: https://www.playfiddlebops.com/pikmin-no-sprunki.png
+  canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+  ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
   schema:
     name: Pikmin No Sprunki - Play Pikmin No Sprunki Online
     alternateName: playfiddlebops.com
-    url: https://www.playfiddlebops.com/pikmin-no-sprunki/
+    url: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
 rating:
   score: 4
   maxScore: 5
@@ -39,6 +39,62 @@ breadcrumb:
   current: Pikmin No Sprunki
 pageType: traditional
 isDemo: false
+translations:
+  en:
+    title: Pikmin No Sprunki
+    description: >-
+      Pikmin No Sprunki is more than just a simple game; it's a creative
+      platform that encourages exploration. It perfectly combines engaging
+      gameplay, diverse mods, and an active community.
+    meta: *ref_0
+  zh:
+    title: Pikmin No Sprunki
+    description: Pikmin No Sprunki 不仅仅是一个简单的游戏；它
+    meta:
+      title: Pikmin No Sprunki - 在线玩 Pikmin No Sprunki
+      description: Pikmin No Sprunki 不仅仅是一个简单的游戏；它
+      canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
+  es:
+    title: Pikmin No Sprunki
+    description: Pikmin No Sprunki es más que solo un juego simple; es
+    meta:
+      title: Pikmin No Sprunki - Jugar Pikmin No Sprunki Online
+      description: Pikmin No Sprunki es más que solo un juego simple; es
+      canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
+  fr:
+    title: Pikmin No Sprunki
+    description: Pikmin No Sprunki est plus qu'un simple jeu ; c'est
+    meta:
+      title: Pikmin No Sprunki - Jouer à Pikmin No Sprunki en Ligne
+      description: Pikmin No Sprunki est plus qu'un simple jeu ; c'est
+      canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
+  de:
+    title: Pikmin No Sprunki
+    description: Pikmin No Sprunki ist mehr als nur ein einfaches Spiel; es
+    meta:
+      title: Pikmin No Sprunki - Spiele Pikmin No Sprunki Online
+      description: Pikmin No Sprunki ist mehr als nur ein einfaches Spiel; es
+      canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
+  ja:
+    title: Pikmin No Sprunki
+    description: Pikmin No Sprunkiは単なるゲーム以上の存在です。
+    meta:
+      title: Pikmin No Sprunki - Pikmin No Sprunkiをオンラインでプレイ
+      description: Pikmin No Sprunkiは単なるゲーム以上の存在です。
+      canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
+  ko:
+    title: 피크민 노 스프렁키
+    description: 피크민 노 스프렁키는 단순한 게임 그 이상입니다;
+    meta:
+      title: 피크민 노 스프렁키 - 피크민 노 스프렁키 온라인 플레이
+      description: 피크민 노 스프렁키는 단순한 게임 그 이상입니다;
+      canonical: 'https://www.playfiddlebops.com/pikmin-no-sprunki/'
+      ogImage: 'https://www.playfiddlebops.com/pikmin-no-sprunki.png'
 ---
 
 ## What Exactly is Pikmin No Sprunki?
