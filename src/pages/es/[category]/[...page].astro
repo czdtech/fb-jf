@@ -11,6 +11,7 @@ import { getTranslation } from '@/i18n/utils';
 import type { SupportedLocale } from '@/i18n/utils';
 import { PAGINATION_CONFIG } from '@/config/pagination';
 import { generateSEOPagination } from '@/utils/pagination';
+import { getRelativeLocaleUrl } from 'astro:i18n';
 import { filterGamesByLanguage, filterGamesByCategory, getPaginatedGames, validateGameData } from '@/utils/content';
 
 // 导入数据
@@ -163,7 +164,7 @@ const meta = {
           title={`No se encontraron ${categoryTitle}`}
           description={`Actualmente no hay ${categoryTitle.toLowerCase()} disponibles. Vuelve más tarde o explora otras categorías.`}
           backButtonText="Ver Todos los Juegos"
-          backButtonUrl="/es/games/"
+          backButtonUrl={getRelativeLocaleUrl(currentLocale, '/games/')}
         />
       ) : (
         <>
