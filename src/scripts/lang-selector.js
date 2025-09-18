@@ -41,3 +41,11 @@ export function initLangSelector() {
   }
 }
 
+// Self-initialize when included via <script type="module" src>
+if (typeof window !== 'undefined') {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initLangSelector, { once: true });
+  } else {
+    initLangSelector();
+  }
+}
