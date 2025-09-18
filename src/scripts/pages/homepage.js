@@ -26,8 +26,9 @@ export function initHomepage() {
           musicNotesAnimation?.createClickAnimation?.(e, {
             noteCount: Math.floor(Math.random() * 3) + 1,
             staggerDelay: 100,
+            duration: 1200,
           });
-        });
+        }, { passive: true });
       } catch (error) {
         if (import.meta.env?.DEV) {
           console.log("⚠️ 延迟加载失败，但页面仍可正常使用:", error);
@@ -35,16 +36,23 @@ export function initHomepage() {
       }
     };
 
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting) {
-          observer.disconnect();
-          loadModules();
-        }
-      },
-      { rootMargin: "200px" },
-    );
-    observer.observe(section);
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          if (entries[0].isIntersecting) {
+            observer.disconnect();
+            loadModules();
+          }
+        },
+        { rootMargin: '200px' },
+      );
+      observer.observe(section);
+    } else if ('requestIdleCallback' in window) {
+      // @ts-ignore
+      requestIdleCallback(() => loadModules());
+    } else {
+      setTimeout(() => loadModules(), 1);
+    }
   };
 
   if (document.readyState === "loading") {

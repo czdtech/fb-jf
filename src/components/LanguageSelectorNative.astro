@@ -93,46 +93,8 @@ const { currentLang, languages, className = "", ariaLabel = "Language" } = Astro
   }
 </style>
 
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const languageSelectors = document.querySelectorAll('.language-selector-native');
-    
-    languageSelectors.forEach(selector => {
-      if (selector instanceof HTMLSelectElement) {
-        // Handle language change
-        selector.addEventListener('change', (e) => {
-          const target = e.target as HTMLSelectElement;
-          const selectedPath = target.value;
-          
-          if (selectedPath) {
-            // Add loading state
-            target.disabled = true;
-            target.style.opacity = '0.7';
-            
-            // Navigate to selected language
-            try {
-              window.location.href = selectedPath;
-            } catch (error) {
-              console.error('Navigation error:', error);
-              // Reset state if navigation fails
-              target.disabled = false;
-              target.style.opacity = '1';
-            }
-          }
-        });
-        
-        // Keyboard navigation support
-        selector.addEventListener('keydown', (e) => {
-          const keyboardEvent = e as KeyboardEvent;
-          
-          // Allow Enter to trigger change
-          if (keyboardEvent.key === 'Enter') {
-            keyboardEvent.preventDefault();
-            const changeEvent = new Event('change', { bubbles: true });
-            selector.dispatchEvent(changeEvent);
-          }
-        });
-      }
-    });
-  });
+<script type="module" is:inline>
+  import { initLangSelector } from '@/scripts/lang-selector.js';
+  initLangSelector();
+  void 0;
 </script>
