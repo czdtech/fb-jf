@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T03:16:21.260Z",
+  "timestamp": "2025-09-19T03:31:46.479Z",
   "pages": {
     "/": {
       "name": "Homepage",
@@ -106,11 +106,115 @@
           "status": "PASS"
         }
       ]
+    },
+    "/popular-games/": {
+      "name": "Popular Games (EN)",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/zh/popular-games/": {
+      "name": "Popular Games (ZH)",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/incredibox/": {
+      "name": "Game Detail (EN incredibox)",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
+    },
+    "/zh/incredibox/": {
+      "name": "Game Detail (ZH incredibox)",
+      "results": [
+        {
+          "rule": "Social Share Kit",
+          "selector": ".a2a_kit",
+          "required": false,
+          "found": 2,
+          "status": "PASS"
+        },
+        {
+          "rule": "Canonical Link",
+          "selector": "link[rel=\"canonical\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        },
+        {
+          "rule": "OG Image Meta",
+          "selector": "meta[property=\"og:image\"]",
+          "required": true,
+          "found": 1,
+          "status": "PASS"
+        }
+      ]
     }
   },
   "summary": {
-    "total": 12,
-    "passed": 11,
+    "total": 24,
+    "passed": 23,
     "failed": 0,
     "warnings": 1
   }

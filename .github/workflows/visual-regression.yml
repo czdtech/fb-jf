@@ -1,0 +1,41 @@
+name: Visual Regression (manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  visual:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+        env:
+          PUBLIC_SITE_URL: https://www.playfiddlebops.com
+
+      - name: Visual worktrees
+        run: npm run visual:worktrees
+
+      - name: Visual build
+        run: npm run visual:build
+
+      - name: Visual diff
+        run: npm run visual:diff
+
+      - name: Upload visual artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: visual-report
+          path: visual-report/**
+

@@ -51,6 +51,12 @@ const PAGES_TO_VALIDATE = [
   { path: "/games/", name: "Games List" },
   { path: "/privacy/", name: "Privacy Page" },
   { path: "/zh/", name: "Chinese Homepage" },
+  // Category pages (en + zh)
+  { path: "/popular-games/", name: "Popular Games (EN)" },
+  { path: "/zh/popular-games/", name: "Popular Games (ZH)" },
+  // Game detail pages (en + zh)
+  { path: "/incredibox/", name: "Game Detail (EN incredibox)" },
+  { path: "/zh/incredibox/", name: "Game Detail (ZH incredibox)" },
 ];
 
 // Critical selectors to check

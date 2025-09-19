@@ -4,13 +4,7 @@
  * - sandbox 值计算（基于白名单放宽 same-origin）
  */
 
-const iframeWhitelistHosts = [
-  "turbowarp.org",
-  "minijuegos.com",
-  "kdata1.com",
-  // 放宽至所有 Netlify 预览/部署子域
-  "netlify.app",
-] as const;
+import { IFRAME_WHITELIST_HOSTS as iframeWhitelistHosts } from '@/config/iframe-allowlist';
 
 export function isHostnameWhitelisted(urlString: string): boolean {
   try {
@@ -28,4 +22,3 @@ export function computeSandboxValue(src: string): string {
   const base = "allow-scripts allow-forms allow-popups allow-presentation";
   return isHostnameWhitelisted(src) ? `${base} allow-same-origin` : base;
 }
-
