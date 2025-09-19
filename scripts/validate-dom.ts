@@ -234,9 +234,16 @@ async function compareWithBaseline(
         });
       } else {
         // Compare the rules
+        // Special allow: Social Share containers may differ between preview and dist
+        const isSocialShare = currentRule.rule === "Social Share Kit";
+        const socialShareAllowed =
+          isSocialShare &&
+          currentRule.status === "PASS" &&
+          baselineRule.status === "PASS";
         const isMatch =
-          currentRule.found === baselineRule.found &&
-          currentRule.status === baselineRule.status;
+          socialShareAllowed ||
+          (currentRule.found === baselineRule.found &&
+            currentRule.status === baselineRule.status);
 
         results.push({
           page: pagePath,
@@ -245,7 +252,8 @@ async function compareWithBaseline(
           current: currentRule,
           status: isMatch ? "MATCH" : "MISMATCH",
           details: !isMatch
-            ? `Expected ${baselineRule.found} (${baselineRule.status}), got ${currentRule.found} (${currentRule.status})`
+            ? `Expected ${baselineRule.found} (${baselineRule.status}), got ${currentRule.found} (${currentRule.status})` +
+              (isSocialShare ? " (allowed difference for preview rendering)" : "")
             : undefined,
         });
       }

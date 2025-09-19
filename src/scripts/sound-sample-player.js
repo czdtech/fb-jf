@@ -3,6 +3,8 @@
 
 import { musicNotesAnimation } from "@/scripts/music-notes-animation.js";
 import { audioErrorHandler } from "@/scripts/audio-error-handler.js";
+import { updateProgressRing } from '@/scripts/sound-sample/progress-ring.js';
+import { setPlaying, setLoading } from '@/scripts/sound-sample/state.js';
 
 if (import.meta.env.DEV) {
   console.log("FiddleBops Audio Player script loaded");
@@ -71,13 +73,9 @@ class FiddleBopsAudioManager {
 
     // 创建事件处理函数并存储引用以便后续清理
     const eventHandlers = {
-      loadstart: () => {
-        button.classList.add("loading");
-        card.classList.add("loading");
-      },
+      loadstart: () => setLoading(card, button, true),
       canplaythrough: () => {
-        button.classList.remove("loading");
-        card.classList.remove("loading");
+        setLoading(card, button, false);
         this.updateDuration(audioId);
       },
       timeupdate: () => {
@@ -113,14 +111,14 @@ class FiddleBopsAudioManager {
     const { button } = elements;
 
     // 创建按钮事件处理函数并存储引用
-    const buttonClickHandler = (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      if (import.meta.env.DEV) {
-        console.log("Play button clicked:", audioId);
-      }
-      this.toggleAudio(audioId);
-    };
+      const buttonClickHandler = (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        if (import.meta.env.DEV) {
+          console.log("Play button clicked:", audioId);
+        }
+        this.toggleAudio(audioId);
+      };
 
     button.addEventListener("click", buttonClickHandler);
 
@@ -141,15 +139,12 @@ class FiddleBopsAudioManager {
 
     if (audio.paused) {
       try {
-        button.classList.add("loading");
-        card.classList.add("loading");
+        setLoading(card, button, true);
 
         await audio.play();
 
-        button.classList.remove("loading");
-        card.classList.remove("loading");
-        button.classList.add("playing");
-        card.classList.add("playing");
+        setLoading(card, button, false);
+        setPlaying(card, button, true);
 
         this.currentlyPlaying = audioId;
 
@@ -175,8 +170,7 @@ class FiddleBopsAudioManager {
     const { audio, card, button } = elements;
 
     audio.pause();
-    button.classList.remove("playing");
-    card.classList.remove("playing");
+    setPlaying(card, button, false);
     this.currentlyPlaying = null;
   }
 
@@ -206,12 +200,7 @@ class FiddleBopsAudioManager {
 
     if (audio.duration) {
       const progress = (audio.currentTime / audio.duration) * 100;
-      const circumference = 175.929; // 2 * π * r (r = 28)
-      const offset = circumference - (progress / 100) * circumference;
-
-      if (progressRing) {
-        progressRing.style.strokeDashoffset = offset;
-      }
+      updateProgressRing(progressRing, progress);
 
       // 更新时间显示
       const currentTimeSpan = card.querySelector(".current-time");

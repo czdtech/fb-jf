@@ -26,7 +26,7 @@ class SimpleAudioPlayer {
     const errorText = /** @type {HTMLElement|null} */(card.querySelector('.audio-error-text'));
     const retryBtn = /** @type {HTMLElement|null} */(card.querySelector('.audio-retry-btn'));
     const statusElement = /** @type {HTMLElement|null} */(card.querySelector(`#audio-status-${audioId}`));
-    const fallbackProgressBar = /** @type {HTMLElement|null} */(card.querySelector('.fallback-progress-bar'));
+  const fallbackProgressBar = /** @type {HTMLElement|null} */(card.querySelector('.fallback-progress-bar'));
 
     if (!audio || !button) return;
 
@@ -56,6 +56,17 @@ class SimpleAudioPlayer {
       if (fallbackProgressBar) fallbackProgressBar.style.width = `${pct}%`;
       if (currentTimeSpan) currentTimeSpan.textContent = formatTime(audio.currentTime);
     });
+
+    // handle seek from fallback progress bar keyboard interaction
+    if (fallbackProgressBar) {
+      fallbackProgressBar.addEventListener('audioSeek', (e) => {
+        // @ts-ignore
+        const percentage = e?.detail?.percentage;
+        if (typeof percentage === 'number' && Number.isFinite(audio.duration)) {
+          audio.currentTime = Math.max(0, Math.min(audio.duration, audio.duration * percentage));
+        }
+      });
+    }
 
     // play/pause
     button.addEventListener('click', (e) => {
@@ -155,4 +166,3 @@ if (typeof window !== 'undefined') {
 }
 
 export {}; // keep as module
-

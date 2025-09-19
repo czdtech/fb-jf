@@ -79,25 +79,58 @@ function initGameFilters() {
     }
   };
 
+  // Initialize from URL
+  const params = new URLSearchParams(location.search);
+  const initTerm = params.get('q') || '';
+  const initCat = params.get('cat') || 'all';
+  const initSort = params.get('sort') || 'featured';
+
+  if (searchInput) searchInput.value = initTerm;
+  if (categorySelect) categorySelect.value = initCat;
+  if (sortSelect) sortSelect.value = initSort;
+
+  // Initial apply
+  filterGames(initTerm.toLowerCase(), initCat);
+  sortGames(initSort);
+  
+  const syncUrl = (term, cat, sort) => {
+    const usp = new URLSearchParams();
+    if (term) usp.set('q', term);
+    if (cat && cat !== 'all') usp.set('cat', cat);
+    if (sort && sort !== 'featured') usp.set('sort', sort);
+    const query = usp.toString();
+    const newUrl = query ? `${location.pathname}?${query}` : location.pathname;
+    history.replaceState(null, '', newUrl);
+  };
+
   // Wire events
   if (searchInput) {
     searchInput.addEventListener('input', (e) => {
       const term = /** @type {HTMLInputElement} */(e.target).value.toLowerCase();
-      filterGames(term, categorySelect?.value);
+      const cat = categorySelect?.value;
+      const sort = sortSelect?.value;
+      filterGames(term, cat);
+      syncUrl(term, cat, sort);
     });
   }
 
   if (categorySelect) {
     categorySelect.addEventListener('change', (e) => {
       const category = /** @type {HTMLSelectElement} */(e.target).value;
-      filterGames((searchInput?.value || '').toLowerCase(), category);
+      const term = (searchInput?.value || '').toLowerCase();
+      const sort = sortSelect?.value;
+      filterGames(term, category);
+      syncUrl(term, category, sort);
     });
   }
 
   if (sortSelect) {
     sortSelect.addEventListener('change', (e) => {
       const sortBy = /** @type {HTMLSelectElement} */(e.target).value;
+      const term = (searchInput?.value || '').toLowerCase();
+      const cat = categorySelect?.value;
       sortGames(sortBy);
+      syncUrl(term, cat, sortBy);
     });
   }
 
@@ -107,8 +140,22 @@ function initGameFilters() {
       if (categorySelect) categorySelect.selectedIndex = 0;
       if (sortSelect) sortSelect.selectedIndex = 0;
       showAllGames();
+      history.replaceState(null, '', location.pathname);
     });
   }
+
+  // Handle back/forward
+  window.addEventListener('popstate', () => {
+    const p = new URLSearchParams(location.search);
+    const term = p.get('q') || '';
+    const cat = p.get('cat') || 'all';
+    const sort = p.get('sort') || 'featured';
+    if (searchInput) searchInput.value = term;
+    if (categorySelect) categorySelect.value = cat;
+    if (sortSelect) sortSelect.value = sort;
+    filterGames(term.toLowerCase(), cat);
+    sortGames(sort);
+  });
 }
 
 // Self-initialize safely
@@ -121,4 +168,3 @@ if (typeof window !== 'undefined') {
 }
 
 export {}; // keep as module
-
