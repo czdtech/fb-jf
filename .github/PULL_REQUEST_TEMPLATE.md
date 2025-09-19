@@ -1,35 +1,33 @@
-## 变更说明
+## Summary
 
-- [ ] 不改变外部行为（URL/DOM/SEO/文案）
-- [ ] 内部重构/优化/清理
+- What changes? Why?
 
-## 门禁结果（请粘贴关键输出）
+## Gates (paste outputs)
 
-```text
-PUBLIC_SITE_URL=https://www.playfiddlebops.com
-
-# Build + Postbuild Guard
-npm run build
-# 期望：Total=12 | Passed=12 | Failed=0 | Warnings=0
-
-# Preview + DOM Validation
-nohup npm run preview >/dev/null 2>&1 & sleep 2
-npm run dom:validate
-# 期望：0 diff，与基线一致；Legal 页 1 项豁免
-
-# Tests
-npm test
-# 期望：233/233 通过
+1. Build + Guards (12/12):
+```
+PUBLIC_SITE_URL=https://www.playfiddlebops.com NODE_ENV=production npm run build
 ```
 
-## 影响面
+2. Preview + DOM Validate (0 fail):
+```
+nohup npm run preview >/dev/null 2>&1 & sleep 2
+npm run dom:validate
+```
 
-- [ ] 仅 JS/TS 内部逻辑
-- [ ] .astro 模板（需强调：不改变 DOM 结构/类名）
-- [ ] 配置/CI/脚本
-- [ ] 文档
+3. Tests (all green):
+```
+PUBLIC_SITE_URL=https://www.playfiddlebops.com npm test
+```
 
-## 回滚策略
+## Invariants Checklist
 
-- 在异常情况下，使用 `phase*-post` 标签作为回滚锚点（见 docs/ROLLBACK.md）。
+- [ ] No changes to URL structure
+- [ ] No DOM/class name changes
+- [ ] No SEO meta changes (canonical/OG/hreflang)
+- [ ] No text/content changes
+
+## Rollback Plan
+
+- Tag/commit to revert to if needed:
 
