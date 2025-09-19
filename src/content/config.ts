@@ -12,12 +12,12 @@ const gamesCollection = defineCollection({
       title: z.string(),
       description: z.string(),
       image: z.string(),
-      iframe: z.string(), // 临时放宽URL验证
+      iframe: z.string().url(),
       category: z.string(),
       meta: z.object({
         title: z.string(),
         description: z.string(),
-        canonical: z.string().optional(), // 临时放宽URL验证
+        canonical: z.string().url().optional(),
         ogImage: z.string().optional(),
       }),
       seo: z
@@ -25,13 +25,13 @@ const gamesCollection = defineCollection({
           title: z.string().optional(),
           description: z.string().optional(),
           keywords: z.string().optional(),
-          canonical: z.string().optional(), // 临时放宽URL验证
+          canonical: z.string().url().optional(),
           ogImage: z.string().optional(),
           schema: z
             .object({
               name: z.string().optional(),
               alternateName: z.string().optional(),
-              url: z.string().optional(), // 临时放宽URL验证
+              url: z.string().url().optional(),
             })
             .optional(),
         })
