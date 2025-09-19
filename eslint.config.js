@@ -10,7 +10,8 @@ export default [
     },
     rules: {
       'no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
-      'no-console': 'off'
+      // Prefer keeping production logs silent; allow warn/error for exceptional paths
+      'no-console': ['warn', { allow: ['warn', 'error'] }]
     }
   }
 ];

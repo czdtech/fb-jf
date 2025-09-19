@@ -146,10 +146,11 @@ const structuredData = {
   <Footer />
 </BaseLayout>
 
-<script type="module">
-    import { initHomepage } from '@/scripts/pages/homepage.js';
-    initHomepage();
-  </script>
+<script type="module" is:inline>
+  import { initHomepage } from '@/scripts/pages/homepage.js';
+  initHomepage();
+  void 0;
+</script>
 
 <style>
   /* Minimal custom styles - most styling now handled by Tailwind utilities */
