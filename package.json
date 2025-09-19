@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "postbuild": "node scripts/guard-postbuild.mjs",
+    "postbuild": "node scripts/guard-postbuild.mjs && tsx scripts/assert-dist-pages.ts",
     "preview": "astro preview",
     "astro": "astro",
     "content:validate": "tsx scripts/validate-content.ts",

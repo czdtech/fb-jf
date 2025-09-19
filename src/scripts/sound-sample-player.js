@@ -5,6 +5,8 @@ import { musicNotesAnimation } from "@/scripts/music-notes-animation.js";
 import { audioErrorHandler } from "@/scripts/audio-error-handler.js";
 import { updateProgressRing } from '@/scripts/sound-sample/progress-ring.js';
 import { setPlaying, setLoading } from '@/scripts/sound-sample/state.js';
+import { wirePlayButton } from '@/scripts/sound-sample/controls.js';
+import { bindWaveform } from '@/scripts/sound-sample/waveform.js';
 
 if (import.meta.env.DEV) {
   console.log("FiddleBops Audio Player script loaded");
@@ -63,6 +65,7 @@ class FiddleBopsAudioManager {
 
         this.setupAudioEvents(audioId);
         this.setupButtonEvents(audioId);
+        this.setupWaveform(audioId);
       }
     });
   }
@@ -111,19 +114,19 @@ class FiddleBopsAudioManager {
     const { button } = elements;
 
     // 创建按钮事件处理函数并存储引用
-      const buttonClickHandler = (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        if (import.meta.env.DEV) {
-          console.log("Play button clicked:", audioId);
-        }
-        this.toggleAudio(audioId);
-      };
+    const unbind = wirePlayButton(button, elements.card, elements.audio, (btn) => {
+      this.currentlyPlaying = audioId;
+      // 使用模块化的音符动画
+      this.musicNotesAnimation.createAnimation(btn);
+    });
+    elements.buttonClickHandler = () => unbind?.();
+  }
 
-    button.addEventListener("click", buttonClickHandler);
-
-    // 存储按钮事件处理函数引用以便清理
-    elements.buttonClickHandler = buttonClickHandler;
+  setupWaveform(audioId) {
+    const elements = this.audioElements.get(audioId);
+    const { card, audio } = elements;
+    const unbind = bindWaveform(card, audio);
+    elements.waveformUnbind = unbind;
   }
 
   async toggleAudio(audioId) {
@@ -275,7 +278,10 @@ class FiddleBopsAudioManager {
 
       // 清理按钮事件监听器
       if (buttonClickHandler) {
-        button.removeEventListener("click", buttonClickHandler);
+        try { buttonClickHandler(); } catch {}
+      }
+      if (elements.waveformUnbind) {
+        try { elements.waveformUnbind(); } catch {}
       }
     });
 
