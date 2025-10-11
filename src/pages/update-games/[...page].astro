@@ -2,6 +2,10 @@
 import NAV from '../nav.astro';
 export function getStaticPaths({ paginate }) {
   const astronautPages = [
+	{ astronaut: ["/grow-a-garden/","/growagarden-min.jpeg","Grow a Garden"] },
+	{ astronaut: ["/99-nights-in-the-forest/","/new-images/99-nights-in-the-forest.webp","99 Nights in the Forest"] },
+	{ astronaut: ["/plants-vs-brainrots/","/new-images/plantsvsbrainrots.jpg","Plants Vs Brainrots"] },
+	{ astronaut: ["/steal-a-brainrot/","/new-images/steal-a-brainrot.webp","Steal a Brainrot"] },
     { astronaut: ["/bejeweled/","/bejeweled.png","Bejeweled"]}, 
     { astronaut: ["/60s-burger-run/","/60s-burger-run.png","60 Seconds Burger Run"]}, 
     { astronaut: ["/crossyroad/","/crossy-road.jpg","Crossy Road"]}, 
@@ -249,7 +253,6 @@ export function getStaticPaths({ paginate }) {
 { astronaut: ["/yummy-taco/","/new-images/yummy-taco.jpg","Yummy Taco"] },
 { astronaut: ["/breaking-the-bank/","/new-images/breaking-the-bank.jpg","Breaking the Bank"] },
 { astronaut: ["/escaping-the-prison/","/new-images/escaping-the-prison.jpg","Escaping the Prison"] },
- 
   ];
 
   // 根据宇航员数组生成页面，每页2项

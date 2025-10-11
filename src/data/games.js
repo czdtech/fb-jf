@@ -312,4 +312,5 @@ export const allGames = [
 	{ astronaut: ["/yummy-taco/","/new-images/yummy-taco.jpg","Yummy Taco"] },
 	{ astronaut: ["/breaking-the-bank/","/new-images/breaking-the-bank.jpg","Breaking the Bank"] },
 	{ astronaut: ["/escaping-the-prison/","/new-images/escaping-the-prison.jpg","Escaping the Prison"] },
+	{ astronaut: ["/plants-vs-brainrots/","/new-images/plantsvsbrainrots.jpg","Plants Vs Brainrots"] },
 ];
