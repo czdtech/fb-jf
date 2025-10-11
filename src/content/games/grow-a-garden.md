@@ -2,7 +2,7 @@
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Grow a Garden"
 description: "Discover the relaxing world of gardening games with our comprehensive guide. Learn the core gameplay of planting, growing, and harvesting, plus get tips and strategies to create your dream garden." 
-iframeSrc: "https://www.playfiddlebops.com/embed/growden/growagarden.embed"
+iframeSrc: "https://growden.io/"
 thumbnail: "/growagarden-min.jpeg"
 urlstr: "grow-a-garden"
 score: "4.9/5  (5065 votes)"
