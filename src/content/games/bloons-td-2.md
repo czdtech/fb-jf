@@ -6,7 +6,7 @@ iframeSrc: "https://1000freegames.github.io/swf/bloons-td-2.html"
 thumbnail: "/new-images/bloons-td-2.jpg"
 urlstr: "bloons-td-2"
 score: "4.9/5  (574 votes)"
-tags: ["Casual", "Strategy"]
+tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 ---

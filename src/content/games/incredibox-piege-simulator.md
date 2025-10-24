@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/887559994/embed"
 thumbnail: "/new-images/incredibox-piege-simulator.png"
 urlstr: "incredibox-piege-simulator"
 score: "4.5/5 (889 votes)"
-tags: ["Music", "Fan-Made", "Simulator"]
+tags: ["music", "fan-Made", "simulator"]
 developer: ""
 releaseDate: 2025-10-10
 ---

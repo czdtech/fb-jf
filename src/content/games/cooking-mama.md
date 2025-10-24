@@ -6,7 +6,7 @@ iframeSrc: "https://ad-freegames.github.io/flash/game/cooking-mama.html"
 thumbnail: "/new-images/cooking-mama.jpg"
 urlstr: "cooking-mama"
 score: "4.4/5  (1078 votes)"
-tags: ["Horror"]
+tags: ["horror"]
 developer: ""
 releaseDate: 2025-08-16
 ---

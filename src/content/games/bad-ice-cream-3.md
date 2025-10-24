@@ -6,7 +6,7 @@ iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210128/
 thumbnail: "/new-images/bad-ice-cream-3.jpg"
 urlstr: "bad-ice-cream-3"
 score: "4.2/5  (660 votes)"
-tags: ["Puzzle", "Casual"]
+tags: ["puzzle", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

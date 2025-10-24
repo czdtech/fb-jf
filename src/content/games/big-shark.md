@@ -6,7 +6,7 @@ iframeSrc: "https://g2.igroutka.ru/lib/crazy/games/big-shark/"
 thumbnail: "/new-images/big-shark.jpg"
 urlstr: "big-shark"
 score: "4.0/5  (372 votes)"
-tags: ["Casual", "Action"]
+tags: ["casual", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

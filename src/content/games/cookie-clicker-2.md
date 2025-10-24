@@ -6,7 +6,7 @@ iframeSrc: "https://games-online.io/game/cake-maker/"
 thumbnail: "/new-images/cookie-clicker-2.jpg"
 urlstr: "cookie-clicker-2"
 score: "4.1/5  (1344 votes)"
-tags: ["Casual", "Clicker"]
+tags: ["casual", "clicker"]
 developer: ""
 releaseDate: 2025-08-16
 ---

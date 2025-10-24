@@ -6,7 +6,7 @@ iframeSrc: "https://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html"
 thumbnail: "/new-images/choir.jpg"
 urlstr: "choir"
 score: "4.1/5  (123 votes)"
-tags: ["Casual", "Music"]
+tags: ["casual", "music"]
 developer: ""
 releaseDate: 2025-08-16
 ---

@@ -222,9 +222,7 @@ header nav ul li a:hover {
    justify-content: space-between;
 }
 
-.game .game-logo{
-  margin-bottom: 10px;
-}
+
 
 .game .game-logo img {
     width: 100px;
@@ -492,25 +490,44 @@ footer .copyright{
         flex-direction: row;
     }
     header .nav-menu {
-        display: none;
+        position: fixed; /* Take out of document flow */
+        top: 0;
+        left: 0;
         width: 100%;
-        padding: 0;
-        margin-top: 10px;
+        height: 100%;
+        background: rgba(54, 72, 105, 0.95); /* Use a background color from the theme */
+        
+        /* Center the content */
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start; /* Align to the top */
+        padding-top: 100px; /* Add padding from the top */
+        align-items: center;
+
+        /* Hide by default */
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+        z-index: 1000;
+        margin-top: 0; /* Reset margin */
     }
     header .nav-menu ul {
       flex-direction: column;
         align-items: center;
+        gap: 20px; /* Use gap for spacing */
     }
      header .nav-menu ul li {
-         margin: 10px 0;
+         margin: 0; /* Reset margin */
      }
      header .nav-toggle {
         display: block;
+        z-index: 1001; /* Ensure toggle is above the overlay */
+        position: relative; /* Needed for z-index to apply */
     }
      .nav-menu.active {
-      display: flex;
-        flex-direction: column;
-    }
+        opacity: 1;
+        visibility: visible;
+     }
 
     .related-grid {
         grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
@@ -620,3 +637,119 @@ footer .copyright{
             z-index: 11; /* Above the iframe */
             border-radius: 5px;
         }
+  .game-iframe-new ul li img, .game-iframe-pop ul li img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+    .game-logo img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .game-logo {
+    background-color: #35466a;
+    border-radius: 10px;
+    overflow: hidden; /* Ensures the image and overlay conform to the border-radius */
+    position: relative; /* Needed for positioning the overlay */
+  }
+
+  .game-logo img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block; /* Removes any extra space below the image */
+  }
+
+  .game a {
+    display: block;
+    text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;
+  }
+
+ .game a:hover {
+    transform: scale(1.05); /* 将浮动改为放大效果 */
+       box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+ }
+
+  .game-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    padding: 8px;
+  }
+
+  .game a:hover .game-overlay {
+    opacity: 1;
+  }
+
+  .game-overlay p {
+    margin: 0;
+    font-size: 12px;
+  }
+    /* Categories grid */
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 15px;
+    }
+    .category-card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+      text-decoration: none;
+      aspect-ratio: 16 / 9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .category-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+    }
+    .category-card-content {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .category-card i {
+      font-size: 30px;
+      color: #424242;
+    }
+    .category-card span {
+      font-size: 20px;
+      color: #212121;
+      text-transform: capitalize;
+    }
+    .category-card:hover span { color: #e65100; }
+
+    /* Responsive: keep consistent with site breakpoints */
+    @media screen and (max-width: 1200px) {
+      .category-grid { grid-template-columns: repeat(4, 1fr); }
+    }
+    @media screen and (max-width: 980px) {
+      .category-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media screen and (max-width: 768px) {
+      .category-grid { grid-template-columns: repeat(2, 1fr); }
+    }

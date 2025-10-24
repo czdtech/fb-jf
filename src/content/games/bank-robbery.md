@@ -6,7 +6,7 @@ iframeSrc: "https://app-183971.games.s3.yandex.net/183971/l0eme2yqkthl0y8stmfuz0
 thumbnail: "/new-images/bank-robbery.jpg"
 urlstr: "bank-robbery"
 score: "4.2/5  (1331 votes)"
-tags: ["FPS", "Action"]
+tags: ["fPS", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

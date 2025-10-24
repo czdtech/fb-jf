@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/980794126/embed"
 thumbnail: "/new-images/incredibox-rave.png"
 urlstr: "incredibox-rave"
 score: "4.7/5 (1888 votes)"
-tags: ["Music", "Rave", "Rhythm"]
+tags: ["music", "rave", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

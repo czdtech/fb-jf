@@ -6,7 +6,7 @@ iframeSrc: "https://rebemanae.github.io/breaking-the-bank/"
 thumbnail: "/new-images/breaking-the-bank.jpg"
 urlstr: "breaking-the-bank"
 score: "4.7/5  (1071 votes)"
-tags: ["Puzzle", "Adventure"]
+tags: ["puzzle", "adventure"]
 developer: ""
 releaseDate: 2025-08-16
 ---

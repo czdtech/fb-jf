@@ -6,7 +6,7 @@ iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/block-champ/"
 thumbnail: "/new-images/block-champ.jpg"
 urlstr: "block-champ"
 score: "4.6/5  (926 votes)"
-tags: ["Puzzle", "Board Game"]
+tags: ["puzzle", "board Game"]
 developer: ""
 releaseDate: 2025-08-16
 ---

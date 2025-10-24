@@ -6,7 +6,7 @@ iframeSrc: "https://app-183000.games.s3.yandex.net/183000/ej1ob1cdiuv0fq3vw88l1k
 thumbnail: "/new-images/cowboys-vs-aliens.jpg"
 urlstr: "cowboys-vs-aliens"
 score: "3.7/5  (1185 votes)"
-tags: ["Action", "Shooter"]
+tags: ["action", "shooting"]
 developer: ""
 releaseDate: 2025-08-16
 ---

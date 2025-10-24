@@ -6,7 +6,7 @@ iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/chess/"
 thumbnail: "/new-images/chess.jpg"
 urlstr: "chess"
 score: "4.0/5  (1497 votes)"
-tags: ["Strategy", "Puzzle", "Classic"]
+tags: ["strategy", "puzzle", "classic"]
 developer: ""
 releaseDate: 2025-08-16
 ---

@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1095206379/embed"
 thumbnail: "/new-images/incredibox-yaboo.png"
 urlstr: "incredibox-yaboo"
 score: "4.5/5 (987 votes)"
-tags: ["Music", "Rhythm"]
+tags: ["music", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

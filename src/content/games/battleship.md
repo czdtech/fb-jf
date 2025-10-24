@@ -6,7 +6,7 @@ iframeSrc: "https://cdn.gamesnacks.com/battleship2/gameCode/index.html"
 thumbnail: "/new-images/battleship.jpg"
 urlstr: "battleship"
 score: "4.4/5  (986 votes)"
-tags: ["Strategy", "Casual"]
+tags: ["strategy", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

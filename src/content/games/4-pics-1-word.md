@@ -3,7 +3,7 @@
 title: "4 Pics 1 Word"
 description: "Here's your chance to play 4 Pics 1 Word Game. Have fun with this one!"
 iframeSrc: "https://previews.customer.envatousercontent.com/files/309288896/index.html"
-thumbnail: "https://play-lh.googleusercontent.com/TWiiqc7uQ_ZEmPS0h_ue1QJIBC6X80rLua5h7_UH9iH_LHjG3zbw2LSb_WQCrLrMHFU=w255"
+thumbnail: "/new-images/4-pics-1-word.jpg"
 urlstr: "4-pics-1-word"
 score: "4.5/5  (144 votes)"
 tags: ["casual", "rhythm"]

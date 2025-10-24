@@ -6,7 +6,7 @@ iframeSrc: "https://bitlifeonline.github.io/class2623/funny-shooter/"
 thumbnail: "/new-images/funny-shooter.jpg"
 urlstr: "funny-shooter"
 score: "5.0/5  (797 votes)"
-tags: ["shooter", "fps"]
+tags: ["shooting", "fps"]
 developer: ""
 releaseDate: 2025-08-16
 ---

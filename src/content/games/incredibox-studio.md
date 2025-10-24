@@ -6,7 +6,7 @@ iframeSrc: "https://turbowarp.org/1013575298/embed"
 thumbnail: "/new-images/incredibox-studio.png"
 urlstr: "incredibox-studio"
 score: "4.8/5 (1842 votes)"
-tags: ["Music", "Sandbox"]
+tags: ["music", "sandbox"]
 developer: ""
 releaseDate: 2025-10-10
 ---

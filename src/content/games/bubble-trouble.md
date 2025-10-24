@@ -6,7 +6,7 @@ iframeSrc: "https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kau
 thumbnail: "/new-images/bubble-trouble.jpg"
 urlstr: "bubble-trouble"
 score: "4.4/5  (203 votes)"
-tags: ["Arcade", "Action"]
+tags: ["arcade", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

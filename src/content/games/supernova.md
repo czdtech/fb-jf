@@ -6,7 +6,7 @@ iframeSrc: "https://rebemanae.github.io/supernova/"
 thumbnail: "/new-images/supernova.jpg"
 urlstr: "supernova"
 score: "4.5/5  (915 votes)"
-tags: ["action", "shooter", "space"]
+tags: ["action", "shooting", "space"]
 developer: ""
 releaseDate: 2025-08-16
 ---

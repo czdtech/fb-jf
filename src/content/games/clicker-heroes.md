@@ -6,7 +6,7 @@ iframeSrc: "https://cdn.clickerheroes.com/gamebuild/"
 thumbnail: "/new-images/clicker-heroes.jpg"
 urlstr: "clicker-heroes"
 score: "3.9/5  (457 votes)"
-tags: ["Clicker", "Casual"]
+tags: ["clicker", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

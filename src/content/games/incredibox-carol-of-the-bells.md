@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/931427102/embed"
 thumbnail: "/new-images/incredibox-carol-of-the-bells.png"
 urlstr: "incredibox-carol-of-the-bells"
 score: "4.9/5 (2890 votes)"
-tags: ["Music", "Christmas", "Rhythm"]
+tags: ["music", "christmas", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

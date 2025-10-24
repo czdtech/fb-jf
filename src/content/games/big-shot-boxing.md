@@ -6,7 +6,7 @@ iframeSrc: "https://rebemanae.github.io/big-shot-boxing/"
 thumbnail: "/new-images/big-shot-boxing.jpg"
 urlstr: "big-shot-boxing"
 score: "4.8/5  (1401 votes)"
-tags: ["Sports", "Action"]
+tags: ["sports", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

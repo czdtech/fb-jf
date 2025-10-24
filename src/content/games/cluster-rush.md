@@ -6,7 +6,7 @@ iframeSrc: "https://clusterrush.io/game/cluster-rush/"
 thumbnail: "/new-images/cluster-rush.jpg"
 urlstr: "cluster-rush"
 score: "4.6/5  (1082 votes)"
-tags: ["Platformer", "Parkour"]
+tags: ["platformer", "parkour"]
 developer: ""
 releaseDate: 2025-08-16
 ---

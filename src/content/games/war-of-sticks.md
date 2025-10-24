@@ -6,7 +6,7 @@ iframeSrc: "https://g.igroutka.ru/games/164/lt2ARJHFBxPb4spD/4/war_of_sticks/"
 thumbnail: "/new-images/war-of-sticks.jpg"
 urlstr: "war-of-sticks"
 score: "4.4/5  (816 votes)"
-tags: ["strategy", "RTS", "stickman"]
+tags: ["strategy", "rTS", "stickman"]
 developer: ""
 releaseDate: 2025-08-16
 ---

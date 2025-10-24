@@ -6,7 +6,7 @@ iframeSrc: "https://app-196716.games.s3.yandex.net/196716/h5h3xwa1kxsz7wcma59tvv
 thumbnail: "/new-images/age-of-war.jpg"
 urlstr: "age-of-war"
 score: "4.5/5  (525 votes)"
-tags: ["Strategy", "Action"]
+tags: ["strategy", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

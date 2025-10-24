@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1110167821/embed"
 thumbnail: "/new-images/incredibox-melophobia.png"
 urlstr: "incredibox-melophobia"
 score: "4.7/5 (1987 votes)"
-tags: ["Music", "Rhythm"]
+tags: ["music", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

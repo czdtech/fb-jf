@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/966510261/embed"
 thumbnail: "/new-images/incredibox-riser.png"
 urlstr: "incredibox-riser"
 score: "4.6/5 (1490 votes)"
-tags: ["Music", "Electronic", "Rhythm"]
+tags: ["music", "electronic", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

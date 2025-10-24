@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1040856097/embed"
 thumbnail: "/new-images/incredibox-instrumentalist.png"
 urlstr: "incredibox-instrumentalist"
 score: "4.8/5 (2045 votes)"
-tags: ["Music", "Sandbox", "Instrumental"]
+tags: ["music", "sandbox", "instrumental"]
 developer: ""
 releaseDate: 2025-10-10
 ---

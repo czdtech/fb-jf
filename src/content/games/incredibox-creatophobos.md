@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1041902515/embed"
 thumbnail: "/new-images/incredibox-creatophobos.png"
 urlstr: "incredibox-creatophobos"
 score: "4.6/5 (1342 votes)"
-tags: ["Music", "Horror"]
+tags: ["music", "horror"]
 developer: ""
 releaseDate: 2025-10-10
 ---

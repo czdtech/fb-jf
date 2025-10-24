@@ -6,7 +6,7 @@ iframeSrc: "https://app-197305.games.s3.yandex.net/197305/ymb675rkal3nz409zur9et
 thumbnail: "/new-images/boxing-random.jpg"
 urlstr: "boxing-random"
 score: "4.1/5  (855 votes)"
-tags: ["Sports", "Physics"]
+tags: ["sports", "physics"]
 developer: ""
 releaseDate: 2025-08-16
 ---

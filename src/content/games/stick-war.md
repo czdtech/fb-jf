@@ -6,7 +6,7 @@ iframeSrc: "https://www.gamenora.com/upload/games/swf/stick_war/"
 thumbnail: "/new-images/stick-war.jpg"
 urlstr: "stick-war"
 score: "3.6/5  (1080 votes)"
-tags: ["strategy", "RTS", "war"]
+tags: ["strategy", "rTS", "war"]
 developer: ""
 releaseDate: 2025-08-16
 ---

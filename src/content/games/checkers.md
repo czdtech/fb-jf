@@ -6,7 +6,7 @@ iframeSrc: "https://app-98054.games.s3.yandex.net/98054/nmrr3mfit1y3qyd35l9zk4d8
 thumbnail: "/new-images/checkers.jpg"
 urlstr: "checkers"
 score: "4.5/5  (596 votes)"
-tags: ["Strategy", "Puzzle"]
+tags: ["strategy", "puzzle"]
 developer: ""
 releaseDate: 2025-08-16
 ---

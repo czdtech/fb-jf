@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/948885978/embed"
 thumbnail: "/new-images/incredibox-beatnik-simulator.png"
 urlstr: "incredibox-beatnik-simulator"
 score: "4.6/5 (1102 votes)"
-tags: ["Music", "Rhythm", "Simulator"]
+tags: ["music", "rhythm", "simulator"]
 developer: ""
 releaseDate: 2025-10-10
 ---

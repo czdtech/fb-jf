@@ -6,7 +6,7 @@ iframeSrc: "https://tiwb.github.io/catmario/"
 thumbnail: "/new-images/cat-mario.jpg"
 urlstr: "cat-mario"
 score: "4.6/5  (1147 votes)"
-tags: ["Platformer", "Casual"]
+tags: ["platformer", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

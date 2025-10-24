@@ -6,7 +6,7 @@ iframeSrc: "https://szhong.4399.com/4399swf//upload_swf/ftp37/gamehwq/20220228/0
 thumbnail: "/new-images/confront.jpg"
 urlstr: "confront"
 score: "4.7/5  (407 votes)"
-tags: ["Casual", "Shooter"]
+tags: ["casual", "shooting"]
 developer: ""
 releaseDate: 2025-08-16
 ---

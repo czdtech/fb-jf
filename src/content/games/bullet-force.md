@@ -6,7 +6,7 @@ iframeSrc: "https://ubg44.github.io/BulletForce/"
 thumbnail: "/new-images/bullet-force.jpg"
 urlstr: "bullet-force"
 score: "3.9/5  (951 votes)"
-tags: ["Action", "Shooter"]
+tags: ["action", "shooting"]
 developer: ""
 releaseDate: 2025-08-16
 ---

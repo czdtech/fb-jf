@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/943197191/embed"
 thumbnail: "/new-images/incredibox-wolfgang.png"
 urlstr: "incredibox-wolfgang"
 score: "4.8/5 (2451 votes)"
-tags: ["Music", "Classical", "Rhythm"]
+tags: ["music", "classical", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

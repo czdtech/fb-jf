@@ -6,7 +6,7 @@ iframeSrc: "https://html5.iclouds.io/baldis-basics/index.html"
 thumbnail: "/new-images/baldis-basics.jpg"
 urlstr: "baldis-basics"
 score: "4.5/5  (781 votes)"
-tags: ["Puzzle", "Horror"]
+tags: ["puzzle", "horror"]
 developer: ""
 releaseDate: 2025-08-16
 ---

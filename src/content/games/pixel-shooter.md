@@ -6,7 +6,7 @@ iframeSrc: "https://a.onlineigry.net/games3/igra-piksel-shuter/index.htm"
 thumbnail: "/new-images/pixel-shooter.jpg"
 urlstr: "pixel-shooter"
 score: "3.9/5  (682 votes)"
-tags: ["shooter", "pixel art", "action"]
+tags: ["shooting", "pixel art", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

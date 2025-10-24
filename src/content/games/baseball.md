@@ -6,7 +6,7 @@ iframeSrc: "https://freeonlinegames.github.io/fourth-of-july-2019.html"
 thumbnail: "/new-images/baseball.jpg"
 urlstr: "baseball"
 score: "4.4/5  (525 votes)"
-tags: ["Casual", "Sports"]
+tags: ["casual", "sports"]
 developer: ""
 releaseDate: 2025-08-16
 ---

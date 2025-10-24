@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/740478297/embed"
 thumbnail: "/new-images/incredibox-xrun-simulator.png"
 urlstr: "incredibox-xrun-simulator"
 score: "4.5/5 (1055 votes)"
-tags: ["Music", "Electronic", "Simulator"]
+tags: ["music", "electronic", "simulator"]
 developer: ""
 releaseDate: 2025-10-10
 ---

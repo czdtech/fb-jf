@@ -6,7 +6,7 @@ iframeSrc: "https://freeonlinegames.github.io/cookie-clicker/"
 thumbnail: "/new-images/cookie-clicker.jpg"
 urlstr: "cookie-clicker"
 score: "4.6/5  (1437 votes)"
-tags: ["Casual", "Clicker"]
+tags: ["casual", "clicker"]
 developer: ""
 releaseDate: 2025-08-16
 ---

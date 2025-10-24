@@ -6,7 +6,7 @@ iframeSrc: "https://bitlifeonline.github.io/class23523/aquaparkio/"
 thumbnail: "/new-images/aquaparkio.jpg"
 urlstr: "aquaparkio"
 score: "4.9/5  (169 votes)"
-tags: ["casual", "Racing"]
+tags: ["casual", "racing"]
 developer: ""
 releaseDate: 2025-08-16
 ---

@@ -6,7 +6,7 @@ iframeSrc: "https://ad-freegames.github.io/flash/game/atari-breakout.html"
 thumbnail: "/new-images/breakout.jpg"
 urlstr: "breakout"
 score: "3.8/5  (494 votes)"
-tags: ["Arcade", "Casual"]
+tags: ["arcade", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

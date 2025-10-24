@@ -6,7 +6,7 @@ iframeSrc: "https://bitlifeonline.github.io/splatoon-3/"
 thumbnail: "/new-images/splatoon-3.jpg"
 urlstr: "splatoon-3"
 score: "4.3/5  (955 votes)"
-tags: ["action", "shooter", "multiplayer"]
+tags: ["action", "shooting", "multiplayer"]
 developer: ""
 releaseDate: 2025-08-16
 ---

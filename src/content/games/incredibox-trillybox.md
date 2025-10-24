@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/907049948/embed"
 thumbnail: "/new-images/incredibox-trillybox.png"
 urlstr: "incredibox-trillybox"
 score: "4.5/5 (999 votes)"
-tags: ["Music", "Hip-Hop", "Rhythm"]
+tags: ["music", "hip-Hop", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

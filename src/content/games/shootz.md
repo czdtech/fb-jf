@@ -6,7 +6,7 @@ iframeSrc: "https://g.igroutka.ru/games/17/9IsudOxakgP0EVKC/shootz/"
 thumbnail: "/new-images/shootz.jpg"
 urlstr: "shootz"
 score: "3.7/5  (1015 votes)"
-tags: ["shooter", "action", "zombies"]
+tags: ["shooting", "action", "zombies"]
 developer: ""
 releaseDate: 2025-08-16
 ---

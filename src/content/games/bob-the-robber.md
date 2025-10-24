@@ -6,7 +6,7 @@ iframeSrc: "https://app-190385.games.s3.yandex.net/190385/i7ty94goiswe8ohxdysos1
 thumbnail: "/new-images/bob-the-robber.jpg"
 urlstr: "bob-the-robber"
 score: "3.7/5  (403 votes)"
-tags: ["Stealth", "Puzzle"]
+tags: ["stealth", "puzzle"]
 developer: ""
 releaseDate: 2025-08-16
 ---

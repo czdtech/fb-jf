@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1108699828/embed"
 thumbnail: "/new-images/incredibox-banana.png"
 urlstr: "incredibox-banana"
 score: "4.4/5 (678 votes)"
-tags: ["Music", "Rhythm"]
+tags: ["music", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

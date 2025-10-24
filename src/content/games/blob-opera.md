@@ -6,7 +6,7 @@ iframeSrc: "https://gacembed.withgoogle.com/blob-opera/"
 thumbnail: "/new-images/blob-opera.jpg"
 urlstr: "blob-opera"
 score: "4.1/5  (617 votes)"
-tags: ["Music", "Casual"]
+tags: ["music", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

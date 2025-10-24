@@ -6,7 +6,7 @@ iframeSrc: "https://st.8games.net/7/8g/igra-ukradi-brejnrot-100-original/"
 thumbnail: "/new-images/steal-a-brainrot.webp"
 urlstr: "steal-a-brainrot"
 score: "4.7/5  (3719 votes)"
-tags: ["Casual", "Action"]
+tags: ["casual", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

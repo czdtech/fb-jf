@@ -6,7 +6,7 @@ iframeSrc: "https://ad-freegames.github.io/flash/game/alien-hominid.html"
 thumbnail: "/new-images/alien-hominid.jpg"
 urlstr: "alien-hominid"
 score: "5.0/5  (126 votes)"
-tags: ["Shooter", "Action"]
+tags: ["shooting", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

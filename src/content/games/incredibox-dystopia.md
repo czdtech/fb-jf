@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1015284026/embed"
 thumbnail: "/new-images/incredibox-dystopia.png"
 urlstr: "incredibox-dystopia"
 score: "4.8/5 (2345 votes)"
-tags: ["Music", "Electronic", "Rhythm"]
+tags: ["music", "electronic", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

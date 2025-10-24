@@ -6,7 +6,7 @@ iframeSrc: "https://webglmath.github.io/basketball-legends/"
 thumbnail: "/new-images/basketball-legends.jpg"
 urlstr: "basketball-legends"
 score: "4.5/5  (832 votes)"
-tags: ["2-Player", "Sports"]
+tags: ["2-Player", "sports"]
 developer: ""
 releaseDate: 2025-08-16
 ---

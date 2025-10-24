@@ -6,7 +6,7 @@ iframeSrc: "https://ams.cdn.arkadiumhosted.com/assets/global/game/ballistic/"
 thumbnail: "/new-images/ballistic.jpg"
 urlstr: "ballistic"
 score: "4.5/5  (764 votes)"
-tags: ["Puzzle", "Casual"]
+tags: ["puzzle", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

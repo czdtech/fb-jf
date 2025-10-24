@@ -6,7 +6,7 @@ iframeSrc: "https://superhotgame.com/superhot-prototype-iframe"
 thumbnail: "/new-images/superhot.jpg"
 urlstr: "superhot"
 score: "3.9/5  (1186 votes)"
-tags: ["shooter", "strategy", "time manipulation"]
+tags: ["shooting", "strategy", "manipulation"]
 developer: ""
 releaseDate: 2025-08-16
 ---

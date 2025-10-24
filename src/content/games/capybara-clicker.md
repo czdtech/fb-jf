@@ -6,7 +6,7 @@ iframeSrc: "https://bitlifeonline.github.io/capybara-clicker/"
 thumbnail: "/new-images/capybara-clicker.jpg"
 urlstr: "capybara-clicker"
 score: "4.4/5  (1397 votes)"
-tags: ["Casual", "Clicker"]
+tags: ["casual", "clicker"]
 developer: ""
 releaseDate: 2025-08-16
 ---

@@ -6,7 +6,7 @@ iframeSrc: "https://turbowarp.org/718091148/embed"
 thumbnail: "/new-images/incredibox-kochari.png"
 urlstr: "incredibox-kochari"
 score: "4.7/5 (2198 votes)"
-tags: ["Music", "Cultural"]
+tags: ["music", "cultural"]
 developer: ""
 releaseDate: 2025-10-10
 ---

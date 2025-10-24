@@ -6,7 +6,7 @@ iframeSrc: "https://turbowarp.org/414716080/embed"
 thumbnail: "/new-images/age-of-war.jpg"
 urlstr: "incredibox-fruity"
 score: "4.5/5  (525 votes)"
-tags: ["Strategy", "Action"]
+tags: ["strategy", "action"]
 developer: ""
 releaseDate: 2025-08-16
 ---

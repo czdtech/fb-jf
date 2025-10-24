@@ -6,7 +6,7 @@ iframeSrc: "https://1000freegames.github.io/swf/bloons-td-4.html"
 thumbnail: "/new-images/bloons-td-4.jpg"
 urlstr: "bloons-td-4"
 score: "4.3/5  (852 votes)"
-tags: ["Casual", "Strategy"]
+tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 ---

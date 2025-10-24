@@ -6,7 +6,7 @@ iframeSrc: "https://html5.gamenora.com/Bloons%20TD%206/"
 thumbnail: "/new-images/bloons-td-6.jpg"
 urlstr: "bloons-td-6"
 score: "4.8/5  (1057 votes)"
-tags: ["Casual", "Strategy"]
+tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 ---

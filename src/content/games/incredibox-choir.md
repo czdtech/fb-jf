@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1034584392/embed"
 thumbnail: "/new-images/incredibox-choir.png"
 urlstr: "incredibox-choir"
 score: "4.6/5 (1254 votes)"
-tags: ["Music", "Vocal", "Casual"]
+tags: ["music", "vocal", "casual"]
 developer: ""
 releaseDate: 2025-10-10
 ---

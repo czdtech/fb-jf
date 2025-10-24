@@ -1,0 +1,64 @@
+---
+// 1. 从我们的“数据库”中导入所有游戏
+import { allGames } from '../data/games.js';
+
+// 2. 定义要随机显示的游戏数量
+const numberOfGamesToShow = 12; // 例如，随机显示12个
+
+// 3. 随机化并挑选游戏的核心逻辑
+//    这段代码会在网站构建时运行
+const shuffledGames = allGames.sort(() => 0.5 - Math.random());
+const randomGames = shuffledGames.slice(0, numberOfGamesToShow);
+---
+
+<section class="games">
+     <div class="container">
+       <h2>Trending Games</h2>
+       <div class="game-grid">
+
+            <div class="game" style="padding:0px">
+              <a href="/steal-a-brainrot/" title="Steal a Brainrot"  style="width:100%;">
+                 <div class="game-logo game-l-2">
+                     <img src="/new-images/steal-a-brainrot.webp" alt="Steal a Brainrot"
+      loading="lazy">
+                 </div>
+                 <p style="font-size:14px;overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">Steal a Brainrot</p>
+              </a>
+            </div>
+
+            <div class="game" style="padding:0px">
+              <a href="/99-nights-in-the-forest/" title="99 Nights in the Forest"  style="width:100%;">
+                 <div class="game-logo game-l-2">
+                     <img src="/new-images/99-nights-in-the-forest.webp" alt="99 Nights in the Forest"
+      loading="lazy">
+                 </div>
+                 <p style="font-size:14px;overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">99 Nights in the Forest</p>
+              </a>
+            </div>
+
+            <div class="game" style="padding:0px">
+              <a href="/grow-a-garden/" title="Grow a Garden"  style="width:100%;">
+                 <div class="game-logo game-l-2">
+                     <img src="/growagarden-min.jpeg" alt="Grow a Garden"
+      loading="lazy">
+                 </div>
+                 <p style="font-size:14px;overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">Grow a Garden</p>
+              </a>
+            </div>
+
+         {randomGames.map(({ astronaut }) => (
+            <div class="game" style="padding:0px">
+              <a href={astronaut[0]} title={astronaut[2]}  style="width:100%;">
+                 <div class="game-logo game-l-2">
+                     <img src={astronaut[1]} alt={astronaut[2]}
+      loading="lazy">
+                 </div>
+                 <p style="font-size:14px;overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{astronaut[2]}</p>
+              </a>
+            </div>
+         ))}
+       </div>
+                 <style>.more{width: 130px;margin: 40px auto 0 auto;border: 1px solid #eee;border-radius: 7px;padding: 10px;text-align: center;color: #fff;font-weight: 900;font-size: 20px;}.more a:hover{color:#fff}</style>
+                 <div class="more"><a href="/update-games/">More Games</a></div>
+            </div>
+        </section>

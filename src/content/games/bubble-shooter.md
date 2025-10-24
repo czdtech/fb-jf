@@ -6,7 +6,7 @@ iframeSrc: "https://www.bubbleshooter-new.com/"
 thumbnail: "/new-images/bubble-shooter.jpg"
 urlstr: "bubble-shooter"
 score: "4.3/5  (1339 votes)"
-tags: ["Casual", "Puzzle"]
+tags: ["casual", "puzzle"]
 developer: ""
 releaseDate: 2025-08-16
 ---

@@ -6,7 +6,7 @@ iframeSrc: "https://playhop.com/dist-app/471072?header=no&utm_source=distrib&utm
 thumbnail: "/new-images/plantsvsbrainrots.jpg"
 urlstr: "plants-vs-brainrots"
 score: "4.6/5  (4375 votes)"
-tags: ["Roblox", "Casual"]
+tags: ["roblox", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

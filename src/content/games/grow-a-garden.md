@@ -6,7 +6,7 @@ iframeSrc: "https://growden.io/"
 thumbnail: "/growagarden-min.jpeg"
 urlstr: "grow-a-garden"
 score: "4.9/5  (5065 votes)"
-tags: ["Simulation", "Casual"]
+tags: ["simulation", "casual"]
 developer: ""
 releaseDate: 2025-08-16
 ---

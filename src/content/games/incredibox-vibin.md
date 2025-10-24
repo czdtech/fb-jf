@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1050468579/embed"
 thumbnail: "/new-images/incredibox-vibin.png"
 urlstr: "incredibox-vibin"
 score: "4.7/5 (1754 votes)"
-tags: ["Music", "Rhythm", "Sandbox"]
+tags: ["music", "rhythm", "sandbox"]
 developer: ""
 releaseDate: 2025-10-10
 ---

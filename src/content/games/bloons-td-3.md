@@ -6,7 +6,7 @@ iframeSrc: "https://1000freegames.github.io/swf/bloons-td-3.html"
 thumbnail: "/new-images/bloons-td-3.jpg"
 urlstr: "bloons-td-3"
 score: "4.9/5  (538 votes)"
-tags: ["Casual", "Strategy"]
+tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 ---

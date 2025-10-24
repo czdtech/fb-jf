@@ -5,7 +5,7 @@ iframeSrc: "https://turbowarp.org/1027156305/embed"
 thumbnail: "/new-images/incredibox-hijinks.png"
 urlstr: "incredibox-hijinks"
 score: "4.7/5 (2250 votes)"
-tags: ["Music", "Rhythm"]
+tags: ["music", "rhythm"]
 developer: ""
 releaseDate: 2025-10-10
 ---

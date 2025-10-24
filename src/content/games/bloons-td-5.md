@@ -6,7 +6,7 @@ iframeSrc: "https://1000freegames.github.io/swf/bloons-tower-defense-5.html"
 thumbnail: "/new-images/bloons-td-5.jpg"
 urlstr: "bloons-td-5"
 score: "3.7/5  (628 votes)"
-tags: ["Casual", "Strategy"]
+tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 ---

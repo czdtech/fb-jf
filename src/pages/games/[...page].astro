@@ -236,9 +236,11 @@ const { page } = Astro.props;
 {page.data.map(({ astronaut }) =>
                    <div class="game" style="padding:0px"><a href={astronaut[0]} title={astronaut[2]} style="width:100%;">
                         <div class="game-logo game-l-2">
-                            <img src={astronaut[1]} alt={astronaut[2]} style="max-height:150px;border-top-right-radius: 10px;border-top-left-radius: 10px;">
-                         </div>
-                        <p style="font-size:14px;overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{astronaut[2]}</p></a>
+                            <img src={astronaut[1]} alt={astronaut[2]} loading="lazy">
+                     <div class="game-overlay">
+                       <p>{astronaut[2]}</p>
+                     </div>
+                         </div></a>
                     </div>)}
 
 

@@ -6,7 +6,7 @@ iframeSrc: "https://ad-freegames.github.io/flash/game/bloons-tower-defense.html"
 thumbnail: "/new-images/bloons-td.jpg"
 urlstr: "bloons-td"
 score: "4.1/5  (812 votes)"
-tags: ["Casual", "Strategy"]
+tags: ["casual", "strategy"]
 developer: ""
 releaseDate: 2025-08-16
 ---

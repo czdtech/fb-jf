@@ -6,7 +6,7 @@ iframeSrc: "https://st.8games.net/7/8g/igra-99-nochej-v-lesu-101-original/"
 thumbnail: "/new-images/99-nights-in-the-forest.webp"
 urlstr: "99-nights-in-the-forest"
 score: "4.7/5  (2765 votes)"
-tags: ["Horror", "Survival"]
+tags: ["horror", "survival"]
 developer: ""
 releaseDate: 2025-08-16
 ---

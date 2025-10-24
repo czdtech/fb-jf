@@ -6,7 +6,7 @@ iframeSrc: "https://app-197304.games.s3.yandex.net/197304/kj9rcykboy6eol5xnn250j
 thumbnail: "/new-images/basket-random.jpg"
 urlstr: "basket-random"
 score: "4.2/5  (284 votes)"
-tags: ["Casual", "Sports"]
+tags: ["casual", "sports"]
 developer: ""
 releaseDate: 2025-08-16
 ---
