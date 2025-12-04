@@ -1,0 +1,279 @@
+---
+import Header from '../components/Header.astro';
+import NewGames from '../components/NewGames.astro';
+import PopularGames from '../components/PopularGames.astro';
+import TrendingGames from '../components/TrendingGames.astro';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swap Sprunkgerny - Play Swap Sprunkgerny Online</title>
+    <meta name="keywords" content="Swap Sprunkgerny, Swap Sprunkgerny online">
+    <meta name="description" content="Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!">
+    <meta name="robots" content="index, follow"/>
+    <link rel="canonical" href="https://www.playfiddlebops.com/swap-sprunkgerny/"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Swap Sprunkgerny - Play Swap Sprunkgerny Online",
+      "alternateName": "playfiddlebops.com",
+      "url": "https://www.playfiddlebops.com/swap-sprunkgerny/",
+      "description": "Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!"
+    }
+    </script>
+
+    <meta property="og:title" content="Swap Sprunkgerny - Play Swap Sprunkgerny Online"/>
+    <meta property="og:description" content="Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!"/>
+    <meta property="og:url" content="https://www.playfiddlebops.com/swap-sprunkgerny/"/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/swap-sprunkgerny.png"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="https://www.playfiddlebops.com/swap-sprunkgerny/"/>
+    <meta name="twitter:title" content="Swap Sprunkgerny - Play Swap Sprunkgerny Online"/>
+    <meta name="twitter:description" content="Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!"/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/swap-sprunkgerny.png"/>
+
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    <link rel="stylesheet" href="/main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+      audio {width:210px}
+      .game-card .game-iframe-sprunki {
+  float:left;
+    width: 69%;
+    margin:0;
+    padding:0;
+     height:600px;
+     background-color:#fff;
+     position: relative;
+     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/swap-sprunkgerny.png);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size:cover;
+}
+      .game .game-l-2 img {
+    width: 100%!important;
+    height:auto;
+    margin: 0 auto;}
+      @media screen and (max-width: 980px){
+        .game-card .game-iframe-sprunki {
+     width:100%;}
+      }
+      @media screen and (max-width: 768px){
+        audio {width: 120px}
+        .game-card .game-iframe-sprunki {
+     height:330px!important;
+}
+
+        }
+    </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+      const navToggle = document.querySelector('.nav-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+    
+      navToggle.addEventListener('click', function() {
+        navMenu.classList.toggle('active');
+      });
+
+    });
+    </script>
+    <script>
+        let iframeLoaded = false; // Track if iframe is loaded
+        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
+        const playButton = document.getElementById("playButton");
+        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
+
+        function loadIframe() {
+            iframe.src = "https://turbowarp.org/1141050651/embed";
+             playButton.style.display = "none"; //Hide button
+            iframeLoaded = true; // Set to true so it's not loaded again
+            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
+
+            gameImageContainer.style.backgroundImage = "none";
+        }
+          playButton.addEventListener("click", loadIframe); // Listen for click
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9JME3P55QJ');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+     crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1444054360166733">
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki">
+                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About Swap Sprunkgerny</h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > Swap Sprunkgerny</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>  4.9/5  (724 votes)</div>
+                    <h3>Introducing to Swap Sprunkgerny</h3>
+    <p>Want to become a music master, creating unique musical works with just your fingers? SWAP SPRUNKGERNY gives you this opportunity! This game not only allows you to control a group of colorful and distinctive characters, but also immerses you in a fun and surprising musical world.</p>
+
+    <h3>What's So Great About SWAP SPRUNKGERNY?</h3>
+
+    <p>Imagine a group of alien creatures standing in front of you, with exaggerated eyes and quirky personalities, waiting for you to bring them to life. And you are the conductor of this orchestra, using your fingers to make them play unique music!</p>
+
+    <h3>The Core Gameplay of SWAP SPRUNKGERNY:</h3>
+
+    <p>The core gameplay of SWAP SPRUNKGERNY is very simple: Drag! Drag! Drag!</p>
+
+    <ol>
+        <li><strong>Drag Characters:</strong> The game has 20 distinctive characters, each with their own unique sound effects. Select a character you like from the buttons at the bottom of the screen, and then drag it to one of the 7 empty spaces at the top of the screen.</li>
+        <li><strong>Activate Music and Dance:</strong> When you put the character in the empty space, they will "come alive", playing their own music and dancing their own dance!</li>
+        <li><strong>Create Exclusive Music:</strong> Different character combinations will produce different musical effects. Feel free to try different combinations and create your own unique melodies!</li>
+    </ol>
+
+    <h3>What Are the Highlights of SWAP SPRUNKGERNY?</h3>
+
+    <ul>
+        <li><strong>Intuitive Operation:</strong> The simple drag and drop operation allows you to easily get started and quickly create your own music works.</li>
+        <li><strong>Free Creation:</strong> Each character has its own unique sound effects and dance moves, you can freely combine them to create a unique musical world.</li>
+        <li><strong>Dynamic Audio-Visual Experience:</strong> As the characters interact, the music will continue to change and the characters' dances will continue to evolve, giving you an immersive audio-visual experience.</li>
+        <li><strong>Endless Surprises:</strong> Each time you play the game, the combination of characters and sounds will be different, always bringing you new surprises.</li>
+    </ul>
+
+    <h3>The Unique Charm of SWAP SPRUNKGERNY:</h3>
+
+    <p>In the world of SWAP SPRUNKGERNY, every action you take directly affects the music and atmosphere. As you place characters in their designated spots, a new, harmonious beat is born. These sounds are full of energy and fun, perfect for a relaxing and enjoyable gaming experience.</p>
+
+    <p>The world of SWAP SPRUNKGERNY is far more than that, it also hides more unexpected surprises... Ready to explore this fun and mysterious musical world?</p>
+
+
+
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+      <div class="container">
+           <nav>
+               <ul>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-service/">Terms of service</a></li>
+                </ul>
+           </nav>
+           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+      function goToLink(event) {
+        const select = event.target;
+        const selectedOption = select.options[select.selectedIndex];
+        const url = selectedOption.getAttribute('data-url');
+        if (url) {
+          window.location.href = url;
+        }
+      }
+  
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select');
+        if (select) {
+          select.addEventListener('change', goToLink);
+  
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang;
+          const options = Array.from(select.options);
+  
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(option =>
+            option.getAttribute('data-lang') === htmlLang
+          );
+  
+          if (currentOption) {
+            currentOption.selected = true;
+          } else {
+            // If no exact match is found, try to find a default option (data-lang="en" or "/")
+            let defaultOption = options.find(option =>
+              option.getAttribute('data-lang') === 'en' // common default
+            );
+  
+            if (!defaultOption) {
+              defaultOption = options.find(option =>
+                option.getAttribute('data-lang') === '/' // older convention
+              );
+            }
+  
+  
+            if (defaultOption) {
+              defaultOption.selected = true;
+            }
+          }
+        }
+      });
+      </script>
+<style>
+/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
+@media screen and (max-width: 980px) {
+    .a2a_floating_style.a2a_vertical_style { display: none; }
+}
+@media screen and (min-width: 980px) {
+    .a2a_floating_style.a2a_default_style { display: none; }
+}
+</style>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</body>
+</html>

@@ -1,5 +1,5 @@
 ---
-import NAV from '../nav.astro';
+import NAV from '../../components/Nav.astro';
 export function getStaticPaths({ paginate }) {
   const astronautPages = [
     { astronaut: ["/grow-a-garden/","/growagarden-min.jpeg","Grow a Garden"] },
@@ -373,7 +373,7 @@ export function getStaticPaths({ paginate }) {
     { astronaut: ["/sprunki-clicker/","/sprunki-clicker-2.png","Sprunki Clicker"]},  
     { astronaut: ["/incredibox/","/Incredibox.png","Incredibox V1-V9"]},
     { astronaut: ["/minecraft-cave-escape/","/minecraft-cave-escape.png","Minecraft Cave Escape"]}, 
-    { astronaut: ["/sprunki-craft/","/Sprunki Craft.jpg","Sprunki Craft"]},
+    { astronaut: ["/sprunki-craft/","/sprunki-craft.jpg","Sprunki Craft"]},
     { astronaut: ["/geometry-dash/","/geometry-dash.png","Geometry Dash"]},
 { astronaut: ["/stealing-the-diamond/","/new-images/stealing-the-diamond.jpg","Stealing The Diamond"] },
 { astronaut: ["/bloons-td-4/","/new-images/bloons-td-4.jpg","Bloons TD 4"] },
@@ -775,7 +775,7 @@ const { page } = Astro.props;
 {page.data.map(({ astronaut }) =>
                    <div class="game" style="padding:0px"><a href={astronaut[0]} title={astronaut[2]} style="width:100%;">
                         <div class="game-logo game-l-2">
-                            <img src={astronaut[1]} alt={astronaut[2]} loading="lazy">
+                            <img src={astronaut[1]} alt={astronaut[2]} loading="lazy" width="300" height="300">
                      <div class="game-overlay">
                        <p>{astronaut[2]}</p>
                      </div>

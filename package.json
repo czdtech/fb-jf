@@ -6,10 +6,30 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "baseline": "node scripts/create-baseline.mjs",
+    "snapshot:after": "node scripts/create-baseline.mjs --after",
+    "snapshot:seo": "node scripts/seo-snapshot.mjs",
+    "snapshot:seo:after": "node scripts/seo-snapshot.mjs --after",
+    "snapshot:sitemap": "node scripts/sitemap-snapshot.mjs",
+    "snapshot:sitemap:after": "node scripts/sitemap-snapshot.mjs --after",
+    "snapshot:urls": "node scripts/url-snapshot.mjs",
+    "snapshot:urls:after": "node scripts/url-snapshot.mjs --after",
+    "compare:seo": "node scripts/seo-compare.mjs",
+    "compare:sitemap": "node scripts/sitemap-compare.mjs",
+    "test": "npm run build && vitest --run",
+    "test:unit": "npm run build && vitest --run",
+    "test:watch": "vitest",
+    "test:ci": "npm run build && vitest --run"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
     "astro": "^5.1.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "cheerio": "^1.1.2",
+    "fast-check": "^4.3.0",
+    "vitest": "^4.0.15"
   }
 }

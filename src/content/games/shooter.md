@@ -4,7 +4,7 @@ title: "Five Nights at Freddy's Shooter (FNAF Shooter)"
 description: "Five Nights at Freddy's Shooter is a horror action game where players fight against animatronic characters from the FNAF universe, using various weapons to survive waves of attacking robots in a shooting gameplay style."
 iframeSrc: "https://bitlifeonline.github.io/fnaf-shooter/"
 thumbnail: "/new-images/shooter.jpg"
-urlstr: "shooting"
+urlstr: "shooter"
 score: "4.1/5  (805 votes)"
 tags: ["horror", "shooting", "action"]
 developer: ""

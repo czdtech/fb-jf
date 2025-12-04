@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "首页",
+    "newGames": "新游戏",
+    "fiddlebopsMod": "Fiddlebops 模组",
+    "incrediboxMod": "Incredibox 模组",
+    "sprunkiMod": "Sprunki 模组"
+  },
+  "game": {
+    "play": "开始游戏",
+    "about": "关于",
+    "howToPlay": "如何游玩",
+    "relatedGames": "相关游戏",
+    "popularGames": "热门游戏",
+    "newGames": "新游戏",
+    "trendingGames": "流行游戏",
+    "exploreGames": "探索游戏"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "readMore": "阅读更多",
+    "home": "首页",
+    "welcomeTitle": "欢迎来到 Fiddlebops Incredibox！",
+    "welcomeDescription": "开始你的音乐之旅！Fiddlebops 是一个受 Incredibox 启发的粉丝项目。在这里，你可以自由混合和匹配各种声音，创作属于你自己的独特音乐。"
+  },
+  "footer": {
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "copyright": "版权所有。",
+    "email": "电子邮件"
+  },
+  "homepage": {
+    "aboutTitle": "关于 Fiddlebops Incredibox",
+    "exploreSoundsTitle": "探索 Fiddlebops Incredibox 中的不同声音",
+    "videoTitle": "Fiddlebops Incredibox 游戏视频",
+    "faqTitle": "关于 Fiddlebops Incredibox 的常见问题"
+  },
+  "languages": {
+    "en": "English",
+    "zh": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어"
+  }
+}

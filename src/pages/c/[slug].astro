@@ -1,7 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import NAV from '../nav.astro';
-import CATEGORIES from '../categories.astro';
+import NAV from '../../components/Nav.astro';
+import CATEGORIES from '../../components/Categories.astro';
 export async function getStaticPaths() {
   const allGames = await getCollection('games');
   // Minimal slugify: convert spaces to hyphens and lowercase
@@ -15,7 +15,12 @@ export async function getStaticPaths() {
     const filteredGames = allGames.filter(game => game.data.tags?.includes(tag));
 
     // Sort games by release date, newest first
-    filteredGames.sort((a, b) => new Date(b.data.releaseDate) - new Date(a.data.releaseDate));
+    // Handle missing releaseDate by defaulting to 0 (oldest)
+    filteredGames.sort((a, b) => {
+      const dateA = a.data.releaseDate ? new Date(a.data.releaseDate).getTime() : 0;
+      const dateB = b.data.releaseDate ? new Date(b.data.releaseDate).getTime() : 0;
+      return dateB - dateA; // Newest first
+    });
 
     const slug = slugify(tag);
     
@@ -33,6 +38,10 @@ type Props = {
 
 const { games, tagName } = Astro.props;
 
+// Generate SEO-friendly description
+const gameCount = games.length;
+const description = `Play ${gameCount} ${tagName} games online for free. Discover the best ${tagName} games including ${games.slice(0, 3).map(g => g.data.title.split(' - ')[0]).join(', ')} and more!`;
+
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -40,9 +49,9 @@ const { games, tagName } = Astro.props;
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{tagName} Games - FiddleBops Game World</title>
-    <meta name="description" content="">
+    <meta name="description" content={description}>
     <meta name="robots" content="index, follow"/>
-    <link rel="canonical" href="https://www.playfiddlebops.com/c/{Astro.params.slug}/"/>
+    <link rel="canonical" href={`https://www.playfiddlebops.com/c/${Astro.params.slug}/`}/>
 
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
     <link rel="stylesheet" href="/main.css">
@@ -164,7 +173,7 @@ const { games, tagName } = Astro.props;
         <div class="game" style="padding:0px">
           <a href={`/${game.slug}`} title={game.data.title} style="width:100%;">
              <div class="game-logo game-l-2">
-                 <img src={game.data.thumbnail} alt={game.data.title} loading="lazy">
+                 <img src={game.data.thumbnail} alt={game.data.title} loading="lazy" width="300" height="300">
                  <div class="game-overlay">
                    <p>{game.data.title}</p>
                  </div>

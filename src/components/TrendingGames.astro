@@ -1,0 +1,53 @@
+---
+// 1. 从我们的"数据库"中导入所有游戏
+import { allGames } from '../data/games.js';
+import GameCard from './GameCard.astro';
+
+// 2. 定义要随机显示的游戏数量
+const numberOfGamesToShow = 47; // 例如，随机显示12个
+
+// 3. 随机化并挑选游戏的核心逻辑
+//    这段代码会在网站构建时运行
+const shuffledGames = allGames.sort(() => 0.5 - Math.random());
+const randomGames = shuffledGames.slice(0, numberOfGamesToShow);
+import CATEGORIES from './Categories.astro';
+---
+
+
+<section class="games">
+     <div class="container">
+       <h2>Trending Games</h2>
+       <div class="game-grid">
+
+            <GameCard 
+              title="Steal a Brainrot"
+              thumbnail="/new-images/steal-a-brainrot.webp"
+              slug="steal-a-brainrot"
+            />
+
+            <GameCard 
+              title="99 Nights in the Forest"
+              thumbnail="/new-images/99-nights-in-the-forest.webp"
+              slug="99-nights-in-the-forest"
+            />
+
+            <GameCard 
+              title="Grow a Garden"
+              thumbnail="/growagarden-min.jpeg"
+              slug="grow-a-garden"
+            />
+
+         {randomGames.map(({ astronaut }) => (
+            <GameCard 
+              title={astronaut[2]}
+              thumbnail={astronaut[1]}
+              slug={astronaut[0].replace('/', '')}
+            />
+         ))}
+       </div>
+       <style>.more{width: 130px;margin: 40px auto 0 auto;border: 1px solid #eee;border-radius: 7px;padding: 10px;text-align: center;color: #fff;font-weight: 900;font-size: 20px;}.more a:hover{color:#fff}</style>
+       <div class="more"><a href="/update-games/">More Games</a></div>
+    </div>
+</section>
+
+<CATEGORIES />

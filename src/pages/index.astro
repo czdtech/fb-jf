@@ -1,207 +1,85 @@
 ---
-import NewGames from './new-games.astro';
-import PopularGames from './popular-games.astro';
-import IndexTrendingGames from './index-trending-games.astro';
-import NAV from './nav.astro';
-import Common from './common.astro';
-import CATEGORIES from './categories.astro';
+/**
+ * Homepage - FiddleBops
+ * Refactored to use BaseLayout component
+ * 
+ * Requirements: 7.1, 7.5
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewGames from '../components/NewGames.astro';
+import PopularGames from '../components/PopularGames.astro';
+import IndexTrendingGames from '../components/IndexTrendingGames.astro';
+import Common from '../components/Common.astro';
+import CATEGORIES from '../components/Categories.astro';
+
+// SEO data for homepage
+const title = 'FiddleBops - Play FiddleBops Incredibox Game';
+const description = 'Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.';
+const canonicalUrl = 'https://www.playfiddlebops.com/';
+
+// JSON-LD structured data
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Game",
+  "name": "FiddleBops - Play FiddleBops Incredibox Game",
+  "alternateName": "playfiddlebops.com",
+  "url": "https://www.playfiddlebops.com/",
+  "description": description
+};
+
+// Hreflang links for multi-language support
+const hreflangLinks = [
+  { lang: 'x-default', url: 'https://www.playfiddlebops.com/' },
+  { lang: 'en', url: 'https://www.playfiddlebops.com/' },
+  { lang: 'zh-CN', url: 'https://www.playfiddlebops.com/zh/' },
+  { lang: 'de', url: 'https://www.playfiddlebops.com/de/' },
+  { lang: 'fr', url: 'https://www.playfiddlebops.com/fr/' },
+  { lang: 'es', url: 'https://www.playfiddlebops.com/es/' },
+  { lang: 'ja', url: 'https://www.playfiddlebops.com/ja/' },
+  { lang: 'ko', url: 'https://www.playfiddlebops.com/ko/' }
+];
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FiddleBops - Play FiddleBops Incredibox Game</title>
-    <meta name="description" content="Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.">
-    <meta name="robots" content="index, follow"/>
-    <link rel="canonical" href="https://www.playfiddlebops.com/"/>
-    <link rel="alternate" hreflang="x-default" href="https://www.playfiddlebops.com/" />
-    <link rel="alternate" hreflang="en" href="https://www.playfiddlebops.com/" />
-    <link rel="alternate" hreflang="zh-CN" href="https://www.playfiddlebops.com/zh/" />
-    <link rel="alternate" hreflang="de" href="https://www.playfiddlebops.com/de/" />
-    <link rel="alternate" hreflang="fr" href="https://www.playfiddlebops.com/fr/" />
-    <link rel="alternate" hreflang="es" href="https://www.playfiddlebops.com/es/" />
-    <link rel="alternate" hreflang="ja" href="https://www.playfiddlebops.com/ja/" />
-    <link rel="alternate" hreflang="ko" href="https://www.playfiddlebops.com/ko/" />
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Game",
-      "name": "FiddleBops - Play FiddleBops Incredibox Game",
-      "alternateName": "playfiddlebops.com",
-      "url": "https://www.playfiddlebops.com/",
-      "description": "Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks."
-    }
-    </script>
-    
-    <meta property="og:title" content="FiddleBops - Play FiddleBops Incredibox Game"/>
-    <meta property="og:description" content="Create your unique music with Fiddlebops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks."/>
-    <meta property="og:url" content="https://www.playfiddlebops.com"/>
-    <meta property="og:site_name" content="FiddleBops"/>
-    <meta property="og:locale" content="en_US"/>
-    <meta property="og:image" content="https://www.playfiddlebops.com/tw.jpg"/>
-    <meta property="og:type" content="website"/>
 
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content="https://www.playfiddlebops.com"/>
-    <meta name="twitter:title" content="FiddleBops - Play FiddleBops Incredibox Game"/>
-    <meta name="twitter:description" content="Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks."/>
-    <meta name="twitter:image" content="https://www.playfiddlebops.com/tw.jpg"/>
-
-    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
-    <link rel="stylesheet" href="/main.css">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <style>
-.video-container {
-    margin: 30px auto 0;
-    border: 3px solid var(--tertiary-dark);
-    border-radius: 4px;
-    height:400px
-}
-.video-container iframe {
-    width: 45%;
-    height: 100%;
-    float: left;
-    margin:0 30px;
-}
-      audio {width:210px}
-.game-card .game-iframe-sprunki {
-  float:left;
-    width: 69%;
-    margin:0;
-    padding:0;
-     height:600px;
-     background-color:#fff;
-     position: relative;
-     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/tw.jpg);
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-size:cover;
-}
-      .game .game-l-2 img {
-    width: 100%!important;
-    height:auto;
-    margin: 0 auto;}
-      @media screen and (max-width: 980px){
-        .game-card .game-iframe-sprunki {
-     width:100%;}
-      }
-      @media screen and (max-width: 768px){
-        audio {width: 120px}
-        .game-card .game-iframe-sprunki {
-     height:330px!important;
-}
-.video-container {
-    height:300px
-}
-.video-container iframe {
-    width: 94%;
-    height: 100%;
-    padding: 0px;
-    margin: 20px;
-}
-.game-info{display:none}
-    footer .container{display:block}
-        }
-    </style>
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-      const navToggle = document.querySelector('.nav-toggle');
-      const navMenu = document.querySelector('.nav-menu');
-    
-      navToggle.addEventListener('click', function() {
-        navMenu.classList.toggle('active');
-      });
-
-    });
-    </script>
-    <script>
-        let iframeLoaded = false; // Track if iframe is loaded
-        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
-        const playButton = document.getElementById("playButton");
-        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
-
-        function loadIframe() {
-            iframe.src = "https://fiddlebops-49o.pages.dev/";
-             playButton.style.display = "none"; //Hide button
-            iframeLoaded = true; // Set to true so it's not loaded again
-            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
-
-            gameImageContainer.style.backgroundImage = "none";
-        }
-          playButton.addEventListener("click", loadIframe); // Listen for click
-    </script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
-     crossorigin="anonymous"></script>
-<meta name="google-adsense-account" content="ca-pub-1444054360166733">
-</head>
-<body>
-    <header>
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage="https://www.playfiddlebops.com/tw.jpg"
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={hreflangLinks}
+  lang="en"
+  additionalStyles={['/styles/homepage.css']}
+  showHeader={true}
+  showFooter={true}
+  showEmail={true}
+>
+    <section class="hero">
         <div class="container">
-            <div class="logo">
-                <h1><a href="/">Fiddle<span class="light">Bops</span></a></h1>
-            </div>
-             <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
-            <nav class="nav-menu">
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <NAV />
-                </ul>
-            </nav>
-      <select style="float:right;">
-        <option data-lang="en" data-url="/">English</option>
-        <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
-        <option data-lang="es" data-url="/es/">Español</option>
-        <option data-lang="fr" data-url="/fr/">Français</option>
-        <option data-lang="de" data-url="/de/">Deutsch</option>
-        <option data-lang="ja" data-url="/ja/">日本語</option>
-        <option data-lang="ko" data-url="/ko/">한국어</option>
-        </select>
-        </div>
-    </header>
-
-    <main>
-        <section class="hero">
-            <div class="container">
-                <div class="game-card">
-                    <div class="game-info" id="paly">
-                        <h2>Welcome to Fiddlebops Incredibox!</h2>
-                        <p>Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music.</p>
-                    </div>
-
-<PopularGames />
-                   <div class="game-iframe-sprunki">
-                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
-                        <button id="playButton">Play</button>
-                    </div>
-<NewGames />
-
+            <div class="game-card">
+                <div class="game-info" id="paly">
+                    <h2>Welcome to Fiddlebops Incredibox!</h2>
+                    <p>Start your musical journey! Fiddlebops is a fan-made project inspired by Incredibox. Here, you can freely mix and match various sounds to create your own unique music.</p>
                 </div>
 
+                <PopularGames />
+                <div class="game-iframe-sprunki">
+                    <iframe id="fiddlebops-iframe" src="" allowtransparency="true" allowfullscreen width="100%" height="100%"></iframe>
+                    <button id="playButton">Play</button>
+                </div>
+                <NewGames />
             </div>
-        </section>
+        </div>
+    </section>
 
-<IndexTrendingGames />
+    <IndexTrendingGames />
     <Common />
     <CATEGORIES />
-          <section class="about" id="about">
-            <div class="container">
-              <h2>About Fiddlebops Incredibox</h2>
-              <div class="about-content">
+    <section class="about" id="about">
+        <div class="container">
+            <h2>About Fiddlebops Incredibox</h2>
+            <div class="about-content">
     <h3>I. Fiddlebops Basic Information & Gameplay</h3>
     <p><strong>Game Name:</strong> Fiddlebops</p>
     <p><strong>Genre/Tags:</strong> Music Creation, Rhythm, Experimental, Educational, Family Friendly, Casual, Singleplayer, Creative</p>
@@ -284,267 +162,189 @@ import CATEGORIES from './categories.astro';
         <li><strong>Experience Recommendation:</strong> Try the web version first; download desktop version for smoother/offline play.</li>
     </ul>
 
-                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="games">
-            <div class="container">
-              <h2>Explore the Different Sounds in Fiddlebops Incredibox</h2>
-                 <div class="game-grid">
-                   <div class="game">
-                        <div class="game-logo">
-                            <img src="./img-1.png" alt="Beat 1">
-                         </div>
-                        <p>Beat 1</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/beat1.wav" type="audio/wav"></audio>
+    <section class="games">
+        <div class="container">
+            <h2>Explore the Different Sounds in Fiddlebops Incredibox</h2>
+            <div class="game-grid">
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-1.png" alt="Beat 1" loading="lazy" width="150" height="150">
                     </div>
-                    <div class="game">
-                      <div class="game-logo">
-                         <img src="./img-2.png" alt="Beat 3">
-                      </div>
-                        <p>Beat 3</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/beat3.wav" type="audio/wav"></audio>
+                    <p>Beat 1</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/beat1.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-2.png" alt="Beat 3" loading="lazy" width="150" height="150">
                     </div>
-                     <div class="game">
-                       <div class="game-logo">
-                           <img src="./img-3.png" alt="Beat 5">
-                      </div>
-                        <p>Beat 5</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/beat5.wav" type="audio/wav"></audio>
+                    <p>Beat 3</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/beat3.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-3.png" alt="Beat 5" loading="lazy" width="150" height="150">
                     </div>
-                    <div class="game">
-                       <div class="game-logo">
-                         <img src="./img-4.png" alt="Effect 3">
-                       </div>
-                        <p>Effect 3</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/effect3.wav" type="audio/wav"></audio>
+                    <p>Beat 5</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/beat5.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-4.png" alt="Effect 3" loading="lazy" width="150" height="150">
                     </div>
-                     <div class="game">
-                        <div class="game-logo">
-                          <img src="./img-5.png" alt="Effect 4">
-                        </div>
-                        <p>Effect 4</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/effect4.wav" type="audio/wav"></audio>
+                    <p>Effect 3</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/effect3.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-5.png" alt="Effect 4" loading="lazy" width="150" height="150">
                     </div>
-                    <div class="game">
-                       <div class="game-logo">
-                         <img src="./img-6.png" alt="Effect 5">
-                       </div>
-                        <p>Effect 5</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/effect5.wav" type="audio/wav"></audio>
+                    <p>Effect 4</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/effect4.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-6.png" alt="Effect 5" loading="lazy" width="150" height="150">
                     </div>
-                    <div class="game">
-                       <div class="game-logo">
-                         <img src="./img-7.png" alt="Voice 2">
-                       </div>
-                        <p>Voice 2</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/voice2.wav" type="audio/wav"></audio>
+                    <p>Effect 5</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/effect5.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-7.png" alt="Voice 2" loading="lazy" width="150" height="150">
                     </div>
-                    <div class="game">
-                        <div class="game-logo">
-                             <img src="./img-8.png" alt="Voice 3">
-                         </div>
-                        <p>Voice 3</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/voice3.wav" type="audio/wav"></audio>
+                    <p>Voice 2</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/voice2.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-8.png" alt="Voice 3" loading="lazy" width="150" height="150">
                     </div>
-                     <div class="game">
-                       <div class="game-logo">
-                           <img src="./img-9.png" alt="Voice 5">
-                       </div>
-                        <p>Voice 5</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/voice5.wav" type="audio/wav"></audio>
+                    <p>Voice 3</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/voice3.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-9.png" alt="Voice 5" loading="lazy" width="150" height="150">
                     </div>
-                    <div class="game">
-                         <div class="game-logo">
-                            <img src="./img-10.png" alt="Bonus 1">
-                         </div>
-                        <p>Bonus 1</p>
-                        <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/bonus1.wav" type="audio/wav"></audio>
-                   </div>
-                 </div>
+                    <p>Voice 5</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/voice5.wav" type="audio/wav"></audio>
+                </div>
+                <div class="game">
+                    <div class="game-logo">
+                        <img src="./img-10.png" alt="Bonus 1" loading="lazy" width="150" height="150">
+                    </div>
+                    <p>Bonus 1</p>
+                    <audio controls="" preload="metadata" class="w-[100px] max-w-full" crossorigin="anonymous"><source src="https://www.playfiddlebops.com/bonus1.wav" type="audio/wav"></audio>
+                </div>
             </div>
+        </div>
+    </section>
 
-        </section>
-          <section class="game-video about">
-            <div class="container">
-              <h2>Fiddlebops Incredibox Game Video</h2>
+    <section class="game-video about">
+        <div class="container">
+            <h2>Fiddlebops Incredibox Game Video</h2>
             <div class="video-container">
-                 <iframe src="https://www.youtube.com/embed/4Oj-dVLSA70" title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                 <iframe src="https://www.youtube.com/embed/JlMa-fRBOwE" title="Every Incredibox Fiddlebops in 8 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
-<div style="clear:both"></div>
+                <iframe src="https://www.youtube.com/embed/4Oj-dVLSA70" title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/JlMa-fRBOwE" title="Every Incredibox Fiddlebops in 8 Minutes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
+                <div style="clear:both"></div>
             </div>
+        </div>
+        <div style="clear:both"></div>
+    </section>
+
+    <div style="clear:both"></div>
+
+    <section class="about" id="faq">
+        <div class="container">
+            <h2>FAQ About Fiddlebops Incredibox</h2>
+            <div class="about-content">
+                <h3>What is the Fiddlebops Incredibox Game?</h3>
+                <p>
+                    The Fiddlebops game is a fan-made project inspired by Incredibox. Here, you can experience the fun of mixing sounds and create unique musical pieces through an intuitive interface.
+                </p>
             </div>
-<div style="clear:both"></div>
-        </section>
-<div style="clear:both"></div>
-          <section class="about" id="faq">
-            <div class="container">
-              <h2>FAQ About Fiddlebops Incredibox</h2>
-              <div class="about-content">
-                  <h3>What is the Fiddlebops Incredibox Game?</h3>
-                     <p>
-                       The Fiddlebops game is a fan-made project inspired by Incredibox. Here, you can experience the fun of mixing sounds and create unique musical pieces through an intuitive interface.
-                    </p>
-                 </div>
 
-                 <div class="about-content">
-                   <h3>Is the Fiddlebops Incredibox Free?</h3>
-                     <p>
-                       Yes, the Fiddlebops Incrediboxis completely free. Players can play online without downloading.
-                     </p>
-                 </div>
-
-                  <div class="about-content">
-                   <h3>Fiddlebops Incredibox Is There a Need to Download or Install?</h3>
-                     <p>
-                        No. The game runs directly in your browser and supports both desktop and mobile devices.
-                     </p>
-                  </div>
-
-                  <div class="about-content">
-                   <h3>Do I need a musical background to play Fiddlebops Incredibox?</h3>
-                     <p>
-                        Not at all! Fiddlebops Incredibox is designed precisely so that people without a musical background can easily create music. It's more like a sound toy and creative tool.
-                     </p>
-                  </div>
-
-                  <div class="about-content">
-                   <h3>How Do I Start Creating Music in the Fiddlebops Incredibox?</h3>
-                     <p>
-                        Players can start by dragging characters onto the stage, combining their unique sounds into a musical piece. Experimenting with different character combinations can unlock hidden melodies and bonus content.
-                     </p>
-                  </div>
-
-                  <div class="about-content">
-                   <h3>Is the Game Suitable for Music Enthusiasts?</h3>
-                     <p>
-                        Absolutely!《Fiddlebops》 provides a platform full of creativity and fun for music enthusiasts.
-                     </p>
-                  </div>
-
-                  <div class="about-content">
-                   <h3>Does the Game Support Multiplayer Collaboration?</h3>
-                     <p>
-                        Yes, players can collaborate with others in real-time to co-create music.
-                     </p>
-                  </div>
-
+            <div class="about-content">
+                <h3>Is the Fiddlebops Incredibox Free?</h3>
+                <p>
+                    Yes, the Fiddlebops Incrediboxis completely free. Players can play online without downloading.
+                </p>
             </div>
-        </section>
- <section class="about comment">
- <div class="container">
- <div class="about-content">
-<script src="https://giscus.app/client.js"
-        data-repo="nom74100/giscus-comment"
-        data-repo-id="R_kgDOOmg4aQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOOmg4ac4Cp6AJ"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script></div></div>
-        </section>
-    </main>
 
-    <footer>
-      <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/privacy/">Privacy Policy</a></li>
-                  <li><a href="/terms-of-service/">Terms of service</a></li>
-                </ul>
-           </nav>
-           <p class="copyright" style="text-align: left;">© 2025 Fiddlebops. All rights reserved.</p>
-           <p style="text-align: left;margin-top:0">E-mail: chongzhidatech@gmail.com</p>
-      </div>
-    </footer>
+            <div class="about-content">
+                <h3>Fiddlebops Incredibox Is There a Need to Download or Install?</h3>
+                <p>
+                    No. The game runs directly in your browser and supports both desktop and mobile devices.
+                </p>
+            </div>
+
+            <div class="about-content">
+                <h3>Do I need a musical background to play Fiddlebops Incredibox?</h3>
+                <p>
+                    Not at all! Fiddlebops Incredibox is designed precisely so that people without a musical background can easily create music. It's more like a sound toy and creative tool.
+                </p>
+            </div>
+
+            <div class="about-content">
+                <h3>How Do I Start Creating Music in the Fiddlebops Incredibox?</h3>
+                <p>
+                    Players can start by dragging characters onto the stage, combining their unique sounds into a musical piece. Experimenting with different character combinations can unlock hidden melodies and bonus content.
+                </p>
+            </div>
+
+            <div class="about-content">
+                <h3>Is the Game Suitable for Music Enthusiasts?</h3>
+                <p>
+                    Absolutely!《Fiddlebops》 provides a platform full of creativity and fun for music enthusiasts.
+                </p>
+            </div>
+
+            <div class="about-content">
+                <h3>Does the Game Support Multiplayer Collaboration?</h3>
+                <p>
+                    Yes, players can collaborate with others in real-time to co-create music.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="about comment">
+        <div class="container">
+            <div class="about-content">
+                <script src="https://giscus.app/client.js"
+                    data-repo="nom74100/giscus-comment"
+                    data-repo-id="R_kgDOOmg4aQ"
+                    data-category="Announcements"
+                    data-category-id="DIC_kwDOOmg4ac4Cp6AJ"
+                    data-mapping="pathname"
+                    data-strict="0"
+                    data-reactions-enabled="1"
+                    data-emit-metadata="0"
+                    data-input-position="bottom"
+                    data-theme="preferred_color_scheme"
+                    data-lang="en"
+                    data-loading="lazy"
+                    crossorigin="anonymous"
+                    async>
+                </script>
+            </div>
+        </div>
+    </section>
+
+    <!-- Iframe loader script for homepage game -->
     <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-<style>
-/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
-@media screen and (max-width: 980px) {
-    .a2a_floating_style.a2a_vertical_style { display: none; }
-}
-@media screen and (min-width: 980px) {
-    .a2a_floating_style.a2a_default_style { display: none; }
-}
-</style>
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
-
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
-</div>
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
-</div>
-
-<script defer src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</body>
-</html>
+        import { initIframeLoader } from '../scripts/iframe-loader.ts';
+        
+        // Initialize iframe loader for the homepage Fiddlebops game
+        initIframeLoader({
+            iframeId: 'fiddlebops-iframe',
+            playButtonId: 'playButton',
+            containerSelector: '.game-iframe-sprunki',
+            iframeSrc: 'https://fiddlebops-49o.pages.dev/'
+        });
+    </script>
+</BaseLayout>

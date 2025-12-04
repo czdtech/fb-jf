@@ -1,0 +1,292 @@
+---
+import Header from '../components/Header.astro';
+import NewGames from '../components/NewGames.astro';
+import PopularGames from '../components/PopularGames.astro';
+import TrendingGames from '../components/TrendingGames.astro';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprunki Play Random - Play Sprunki Play Random Online</title>
+    <meta name="keywords" content="Sprunki Play Random, Sprunki Play Random online">
+    <meta name="description" content="Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you!">
+    <meta name="robots" content="index, follow"/>
+
+    <link rel="canonical" href="https://www.playfiddlebops.com/sprunki-play-random/"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Sprunki Play Random - Play Sprunki Play Random Online",
+      "alternateName": "playfiddlebops.com",
+      "url": "https://www.playfiddlebops.com/sprunki-play-random/",
+      "description": "Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you!"
+    }
+    </script>
+
+    <meta property="og:title" content="Sprunki Play Random - Play Sprunki Play Random Online "/>
+    <meta property="og:description" content="Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you!"/>
+    <meta property="og:url" content="https://www.playfiddlebops.com/sprunki-play-random/"/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/sprunki-play-random.png"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="https://www.playfiddlebops.com/sprunki-play-random/"/>
+    <meta name="twitter:title" content="Sprunki Play Random - Play Sprunki Play Random Online "/>
+    <meta name="twitter:description" content="Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you!"/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/sprunki-play-random.png"/>
+
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    <link rel="stylesheet" href="/main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+      audio {width:210px}
+.game-card .game-iframe-sprunki {
+  float:left;
+    width: 69%;
+    margin:0;
+    padding:0;
+     height:600px;
+     background-color:#fff;
+     position: relative;
+     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3)), url(/sprunki-play-random.png);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size:cover;
+}
+      .game .game-l-2 img {
+    width: 100%!important;
+    height:auto;
+    margin: 0 auto;}
+      @media screen and (max-width: 980px){
+        .game-card .game-iframe-sprunki {
+     width:100%;}
+      }
+      @media screen and (max-width: 768px){
+        audio {width: 120px}
+        .game-card .game-iframe-sprunki {
+     height:330px!important;
+}
+
+        }
+    </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+      const navToggle = document.querySelector('.nav-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+    
+      navToggle.addEventListener('click', function() {
+        navMenu.classList.toggle('active');
+      });
+
+    });
+    </script>
+    <script>
+        let iframeLoaded = false; // Track if iframe is loaded
+        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
+        const playButton = document.getElementById("playButton");
+        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
+
+        function loadIframe() {
+            iframe.src = "https://turbowarp.org/1148555262/embed";
+             playButton.style.display = "none"; //Hide button
+            iframeLoaded = true; // Set to true so it's not loaded again
+            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
+
+            gameImageContainer.style.backgroundImage = "none";
+        }
+          playButton.addEventListener("click", loadIframe); // Listen for click
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9JME3P55QJ');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+     crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1444054360166733">
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki">
+                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About Sprunki Play Random</h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > Sprunki Play Random</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>   4.5/5  (614 votes)</div>
+                  <h3>Introducing to Sprunki Play Random</h3>
+    <p>Sprunki Play Random is a music creation game full of surprises and fun. If you like challenges and exploration, then Sprunki Play Random is definitely for you! Come and join Sprunki Play Random, let the random sounds ignite your musical inspiration and create unique musical works!</p>
+
+    <h3>What's So Magical About Sprunki Play Random?</h3>
+
+    <p>Simply put, Sprunki Play Random turns music creation into an adventure full of unknowns. You never know what sound the next character will make, and all you need to do is use these random sounds to create unique musical works!</p>
+  <hr>
+    <h3>How to Play Sprunki Play Random?</h3>
+
+    <p>The operation is very simple, you can easily do it with a mouse or finger:</p>
+
+    <ul>
+        <li><strong>Mouse/Touch:</strong> Click/Touch and drag the character onto the stage.</li>
+        <li><strong>Move Characters:</strong> Drag characters to switch different sounds.</li>
+        <li><strong>Remove Characters:</strong> Double click/double tap to remove characters from the stage.</li>
+        <li><strong>Menu:</strong> Click the menu icon to save, restart, or share your work.</li>
+    </ul>
+
+    <h3>Start Your Random Music Journey:</h3>
+
+    <ol>
+        <li><strong>Click Play:</strong> Click the play button to enter the random music creation stage.</li>
+        <li><strong>Drag & Drop:</strong> Choose a character from the panel at the bottom of the screen and drag them onto the stage to start their looped sound.</li>
+        <li><strong>Embrace Randomness:</strong> The game will randomly assign different sound effects to each character, and you can't predict what they will sound like.</li>
+        <li><strong>Mix & Match:</strong> Arrange the characters in different combinations to create unique beats.</li>
+        <li><strong>Unlock Bonuses:</strong> Explore hidden sound combinations that trigger special animations and bonus tracks!</li>
+    </ol>
+  <hr>
+    <h3>Tips for Playing Sprunki Play Random:</h3>
+
+    <ul>
+        <li><strong>Try Different Arrangements:</strong> The position of the characters affects the final sound effect, be bold and try to find the most suitable arrangement!</li>
+        <li><strong>Focus on Balance:</strong> Combine beats, melodies, and vocals to create a richer musical work.</li>
+        <li><strong>Listen Carefully:</strong> Pay attention to the subtle differences between different sounds, some sound combinations can unlock hidden rewards!</li>
+        <li><strong>Start with Fewer Characters:</strong> Build your music with fewer characters first, so you can better control the overall effect.</li>
+        <li><strong>Replay to Discover Secrets:</strong> Random sounds make each game full of surprises, keep replaying to discover hidden Easter eggs!</li>
+    </ul>
+
+    <h3>Highlights of Sprunki Play Random:</h3>
+
+    <ul>
+        <li><strong>Unique Randomness:</strong> Each creation is a brand new experience, making you always full of expectations.</li>
+        <li><strong>Simple and Easy-to-Use Operation:</strong> Continues the classic gameplay of Incredibox, allowing you to easily get started.</li>
+        <li><strong>Full of Exploration Fun:</strong> Discover hidden sound combinations, unlock special animations and bonus tracks, making your creation process full of surprises.</li>
+    </ul>
+
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+      <div class="container">
+           <nav>
+               <ul>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-service/">Terms of service</a></li>
+                </ul>
+           </nav>
+           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+      function goToLink(event) {
+        const select = event.target;
+        const selectedOption = select.options[select.selectedIndex];
+        const url = selectedOption.getAttribute('data-url');
+        if (url) {
+          window.location.href = url;
+        }
+      }
+  
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select');
+        if (select) {
+          select.addEventListener('change', goToLink);
+  
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang;
+          const options = Array.from(select.options);
+  
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(option =>
+            option.getAttribute('data-lang') === htmlLang
+          );
+  
+          if (currentOption) {
+            currentOption.selected = true;
+          } else {
+            // If no exact match is found, try to find a default option (data-lang="en" or "/")
+            let defaultOption = options.find(option =>
+              option.getAttribute('data-lang') === 'en' // common default
+            );
+  
+            if (!defaultOption) {
+              defaultOption = options.find(option =>
+                option.getAttribute('data-lang') === '/' // older convention
+              );
+            }
+  
+  
+            if (defaultOption) {
+              defaultOption.selected = true;
+            }
+          }
+        }
+      });
+      </script>
+<style>
+/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
+@media screen and (max-width: 980px) {
+    .a2a_floating_style.a2a_vertical_style { display: none; }
+}
+@media screen and (min-width: 980px) {
+    .a2a_floating_style.a2a_default_style { display: none; }
+}
+</style>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</body>
+</html>

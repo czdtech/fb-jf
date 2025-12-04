@@ -1,0 +1,191 @@
+---
+/**
+ * GameLayout Component
+ * Layout for Content Collection game pages ([gameSlug].astro)
+ * 
+ * Uses SEOHead, BaseHead, Analytics components
+ * Maintains identical HTML output to existing pages for SEO preservation
+ * 
+ * Requirements: 2.1, 2.2, 2.3, 2.4, 4.5
+ */
+import SEOHead from '../components/SEOHead.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Analytics from '../components/Analytics.astro';
+import Footer from '../components/Footer.astro';
+import StarRating from '../components/StarRating.astro';
+
+// Import existing page components (maintain backward compatibility)
+import Header from '../components/Header.astro';
+import PopularGames from '../components/PopularGames.astro';
+import NewGames from '../components/NewGames.astro';
+import TrendingGames from '../components/TrendingGames.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl: string;
+  thumbnail: string;
+  iframeSrc: string;
+  score?: string;
+  tags?: string[];
+  lang?: string;
+  hasFullscreen?: boolean;
+}
+
+const { 
+  title, 
+  description, 
+  canonicalUrl, 
+  thumbnail, 
+  iframeSrc, 
+  score,
+  tags,
+  lang = 'en',
+  hasFullscreen = true
+} = Astro.props;
+
+// Use the title as-is from content (already includes "Play X Online" format)
+const pageTitle = title;
+
+// Build keywords from tags (SEO best practice) or fallback to title
+// Legacy pages used curated keywords like "Sprunki Retake, Sprunki Retake online"
+const keywords = tags && tags.length > 0 ? tags.join(', ') : title;
+
+// Generate JSON-LD structured data matching existing format
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Game",
+  "name": pageTitle,
+  "alternateName": "playfiddlebops.com",
+  "url": canonicalUrl,
+  "description": description
+};
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+    <BaseHead />
+    <SEOHead
+      title={pageTitle}
+      description={description}
+      canonicalUrl={canonicalUrl}
+      keywords={keywords}
+      ogImage={thumbnail}
+      jsonLd={jsonLd}
+    />
+    <link rel="stylesheet" href="/styles/components.css">
+    <Analytics />
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki" style={`--bg-image: url(${thumbnail})`} >
+                    {hasFullscreen && (
+                      <button id="fullscreen-btn" title="Toggle Fullscreen">
+                          <i class="fa-solid fa-expand"></i>
+                      </button>
+                    )}
+                    <iframe id="fiddlebops-iframe" src="" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About {title} </h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > {title}</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>   {score}</div>
+
+<slot />
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <Footer />
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="/"></a>
+</div>
+
+<!-- Store iframe config as data attributes for the module to read -->
+<div id="game-config" 
+     data-iframe-src={iframeSrc} 
+     data-has-fullscreen={hasFullscreen.toString()}
+     style="display: none;">
+</div>
+
+<script>
+  import { initFullscreen, showFullscreenButton } from '../scripts/index.ts';
+  
+  document.addEventListener('DOMContentLoaded', () => {
+    // Read config from data attributes
+    const configEl = document.getElementById('game-config');
+    if (!configEl) return;
+    
+    const iframeSrc = configEl.dataset.iframeSrc || '';
+    const hasFullscreen = configEl.dataset.hasFullscreen === 'true';
+    
+    // Initialize iframe loader with fullscreen support
+    const iframe = document.getElementById('fiddlebops-iframe');
+    const playButton = document.getElementById('playButton');
+    const gameContainer = document.querySelector('.game-iframe-sprunki');
+    
+    if (playButton && iframe && gameContainer && iframeSrc) {
+      playButton.addEventListener('click', () => {
+        iframe.src = iframeSrc;
+        playButton.style.display = 'none';
+        iframe.focus();
+        gameContainer.style.backgroundImage = 'none';
+        
+        // Show fullscreen button after iframe loads
+        if (hasFullscreen) {
+          showFullscreenButton('fullscreen-btn');
+        }
+      });
+    }
+    
+    // Initialize fullscreen functionality if enabled
+    if (hasFullscreen) {
+      initFullscreen({
+        buttonId: 'fullscreen-btn',
+        containerSelector: '.game-iframe-sprunki'
+      });
+    }
+  });
+</script>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+</body>
+</html>

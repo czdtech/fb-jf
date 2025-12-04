@@ -1,0 +1,48 @@
+---
+import { Image } from 'astro:assets';
+
+interface Props {
+  title: string;
+  thumbnail: string;
+  slug: string;
+  description?: string;
+  loading?: 'lazy' | 'eager';
+}
+
+const { title, thumbnail, slug, description, loading = 'lazy' } = Astro.props;
+
+// Determine if thumbnail is a local or remote image
+const isRemote = thumbnail.startsWith('http://') || thumbnail.startsWith('https://');
+const isAbsolutePath = thumbnail.startsWith('/');
+
+// For local images, we need to handle them differently
+// Remote images and absolute paths (public folder) can be used directly
+---
+
+<div class="game" style="padding:0px">
+  <a href={`/${slug}/`} title={title} style="width:100%;">
+    <div class="game-logo game-l-2">
+      {isRemote || isAbsolutePath ? (
+        <img 
+          src={thumbnail} 
+          alt={title} 
+          loading={loading}
+          width="300"
+          height="300"
+        />
+      ) : (
+        <Image 
+          src={thumbnail} 
+          alt={title} 
+          loading={loading}
+          width={300}
+          height={300}
+          format="webp"
+        />
+      )}
+      <div class="game-overlay">
+        <p>{title}</p>
+      </div>
+    </div>
+  </a>
+</div>

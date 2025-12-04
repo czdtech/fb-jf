@@ -1,10 +1,10 @@
 ---
-import NAV from '../nav.astro';
-import CATEGORIES from '../categories.astro';
+import NAV from '../../components/Nav.astro';
+import CATEGORIES from '../../components/Categories.astro';
 export function getStaticPaths({ paginate }) {
   const astronautPages = [
     { astronaut: ["/incredibox/","/Incredibox.png","Incredibox V1-V9"]},
-    { astronaut: ["/incredibox-yellow-colorbox/","/Incredibox Yellow Colorbox.png","Incredibox Yellow Colorbox"]},
+    { astronaut: ["/incredibox-yellow-colorbox/","/incredibox-yellow-colorbox.png","Incredibox Yellow Colorbox"]},
     { astronaut: ["/incredibox-banana/","/new-images/incredibox-banana.png","Incredibox Banana"] },
     { astronaut: ["/incredibox-beatnik-simulator/","/new-images/incredibox-beatnik-simulator.png","Incredibox Beatnik Simulator"] },
     { astronaut: ["/incredibox-carol-of-the-bells/","/new-images/incredibox-carol-of-the-bells.png","Incredibox Carol Of The Bells"] },
@@ -30,9 +30,9 @@ export function getStaticPaths({ paginate }) {
     { astronaut: ["/infiltrating-the-airship/","/new-images/infiltrating-the-airship.jpg","Infiltrating The Airship"] },
     { astronaut: ["/incredibox-donki-abgerny/","/incredibox-donki-abgerny.png","Incredibox Donki Abgerny"]},
     { astronaut: ["/incredibox-sprunksters/","/incredibox-sprunksters.png","Incredibox Sprunksters"]},
-    { astronaut: ["/incredibox-sprinkle/","/Incredibox Sprinkle.png","Incredibox Sprinkle"]},
-    { astronaut: ["/incredibox-shatter-sprunk/","/Incredibox Shatter Sprunk.png","Incredibox Shatter Sprunk"]},
-    { astronaut: ["/incredibox-cool-as-ice/","/Incredibox Cool As Ice.png","Incredibox Cool As Ice"]},
+    { astronaut: ["/incredibox-sprinkle/","/incredibox-sprinkle.png","Incredibox Sprinkle"]},
+    { astronaut: ["/incredibox-shatter-sprunk/","/incredibox-shatter-sprunk.png","Incredibox Shatter Sprunk"]},
+    { astronaut: ["/incredibox-cool-as-ice/","/incredibox-cool-as-ice.png","Incredibox Cool As Ice"]},
   ];
 
   // 根据宇航员数组生成页面，每页2项
@@ -195,7 +195,7 @@ const { page } = Astro.props;
                    <div class="game" style="padding:0px">
                    <a href={astronaut[0]} title={astronaut[2]} style="width:100%;">
                         <div class="game-logo game-l-2">
-                            <img src={astronaut[1]} alt={astronaut[2]} loading="lazy">
+                            <img src={astronaut[1]} alt={astronaut[2]} loading="lazy" width="300" height="300">
                      <div class="game-overlay">
                        <p>{astronaut[2]}</p>
                      </div>

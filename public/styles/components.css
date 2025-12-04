@@ -1,0 +1,136 @@
+/**
+ * Component Styles
+ * Extracted from inline styles in Astro components and static game pages
+ * 
+ * Requirements: 3.2, 3.3, 7.1, 7.2
+ */
+
+/* Import CSS Variables */
+@import url('/styles/variables.css');
+
+/* ==========================================================================
+   Game Iframe Container Styles
+   Used by: GameLayout.astro, static game pages
+   ========================================================================== */
+
+audio {
+  width: 210px;
+}
+
+.game-card .game-iframe-sprunki {
+  float: left;
+  width: 69%;
+  margin: 0;
+  padding: 0;
+  height: 600px;
+  background-color: var(--color-bg-white, #fff);
+  position: relative;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3)), var(--bg-image);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.game .game-l-2 img {
+  width: 100% !important;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* ==========================================================================
+   Fullscreen Button Styles
+   Used by: GameLayout.astro, incredibox.astro
+   ========================================================================== */
+
+#fullscreen-btn {
+  position: absolute;
+  top: var(--spacing-md, 10px);
+  right: var(--spacing-md, 10px);
+  z-index: var(--z-index-overlay, 10);
+  background-color: var(--color-overlay, rgba(0, 0, 0, 0.6));
+  color: var(--color-text-white, white);
+  border: none;
+  border-radius: var(--radius-md, 5px);
+  cursor: pointer;
+  padding: var(--spacing-sm, 8px) var(--spacing-md, 12px);
+  font-size: 16px;
+  display: none;
+}
+
+#fullscreen-btn:hover {
+  background-color: var(--color-overlay-dark, rgba(0, 0, 0, 0.8));
+}
+
+/* ==========================================================================
+   Iframe Styles
+   ========================================================================== */
+
+iframe {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================================================
+   AddToAny Social Share Styles
+   Used by: GameLayout.astro, static game pages
+   ========================================================================== */
+
+/* Hide AddToAny vertical share bar on mobile */
+@media screen and (max-width: 980px) {
+  .a2a_floating_style.a2a_vertical_style {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .a2a_floating_style.a2a_default_style {
+    display: none;
+  }
+}
+
+/* ==========================================================================
+   Responsive Styles for Game Iframe
+   ========================================================================== */
+
+@media screen and (max-width: 980px) {
+  .game-card .game-iframe-sprunki {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  audio {
+    width: 120px;
+  }
+  
+  .game-card .game-iframe-sprunki {
+    height: 330px !important;
+  }
+}
+
+/* ==========================================================================
+   Star Rating Component Styles
+   Used by: StarRating.astro, static game pages
+   ========================================================================== */
+
+.stars {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.star-icon {
+  flex-shrink: 0;
+}
+
+.score-text {
+  margin-left: 4px;
+}
+
+/* ==========================================================================
+   Breadcrumb Navigation Styles
+   Used by: static game pages
+   ========================================================================== */
+
+.about-content > p > a[href="/"] {
+  float: left;
+}

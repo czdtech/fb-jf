@@ -3,7 +3,7 @@ title: "Daily Sudoku"
 description: "A new Sudoku puzzle every day to challenge your logic. Fill the 9x9 grid so each row, column, and 3x3 box contains the digits 1 to 9 without repetition."
 iframeSrc: "https://4j6utu2p6fklg.h5games.usercontent.goog/v/6qh61gl4k3ado/"
 thumbnail: "/new-images/daily-sudoku-2.png"
-urlstr: "daily-sudoku"
+urlstr: "daily-sudoku-2"
 score: "4.8/5  (3550 votes)"
 tags: ["puzzle", "thinky", "casual"]
 developer: ""
@@ -40,4 +40,3 @@ Daily Sudoku provides a fresh, classic Sudoku puzzle for you to solve every sing
 
 *   **Q: Why should I use the "Notes" feature?**
     *   **A:** For easy puzzles, you might not need it. But for medium to hard puzzles, it's almost impossible to keep all the possibilities in your head. Making notes is a fundamental technique for systematically solving complex Sudoku puzzles.
-

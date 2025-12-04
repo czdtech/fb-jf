@@ -1,0 +1,286 @@
+---
+import Header from '../components/Header.astro';
+import NewGames from '../components/NewGames.astro';
+import PopularGames from '../components/PopularGames.astro';
+import TrendingGames from '../components/TrendingGames.astro';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprunki Pyramixed - Play Sprunki Pyramixed Online</title>
+    <meta name="keywords" content="Sprunki Pyramixed">
+    <meta name="description" content="Sprunki Pyramixed is a fantastic music creation platform that cleverly balances ease of use with depth, allowing everyone to enjoy the fun of making music.">
+    <meta name="robots" content="index, follow"/>
+
+    <link rel="canonical" href="https://www.playfiddlebops.com/sprunki-pyramixed-version/"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Sprunki Pyramixed - Play Sprunki Pyramixed Online",
+      "alternateName": "playfiddlebops.com",
+      "url": "https://www.playfiddlebops.com/sprunki-pyramixed-version/",
+      "description": "Sprunki Pyramixed is a fantastic music creation platform that cleverly balances ease of use with depth, allowing everyone to enjoy the fun of making music."
+    }
+    </script>
+
+    <meta property="og:title" content="Sprunki Pyramixed - Play Sprunki Pyramixed Online "/>
+    <meta property="og:description" content="Sprunki Pyramixed is a fantastic music creation platform that cleverly balances ease of use with depth, allowing everyone to enjoy the fun of making music."/>
+    <meta property="og:url" content="https://www.playfiddlebops.com/sprunki-pyramixed-version/"/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/sprunki-pyramixed-version.png"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="https://www.playfiddlebops.com/sprunki-pyramixed-version/"/>
+    <meta name="twitter:title" content="Sprunki Pyramixed - Play Sprunki Pyramixed Online "/>
+    <meta name="twitter:description" content="Sprunki Pyramixed is a fantastic music creation platform that cleverly balances ease of use with depth, allowing everyone to enjoy the fun of making music."/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/sprunki-pyramixed-version.png"/>
+
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    <link rel="stylesheet" href="/main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+      audio {width:210px}
+.game-card .game-iframe-sprunki {
+  float:left;
+    width: 69%;
+    margin:0;
+    padding:0;
+     height:600px;
+     background-color:#fff;
+     position: relative;
+     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3)), url(/sprunki-pyramixed-version.png);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size:cover;
+}
+      .game .game-l-2 img {
+    width: 100%!important;
+    height:auto;
+    margin: 0 auto;}
+      @media screen and (max-width: 980px){
+        .game-card .game-iframe-sprunki {
+     width:100%;}
+      }
+      @media screen and (max-width: 768px){
+        audio {width: 120px}
+        .game-card .game-iframe-sprunki {
+     height:330px!important;
+}
+        }
+    </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+      const navToggle = document.querySelector('.nav-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+    
+      navToggle.addEventListener('click', function() {
+        navMenu.classList.toggle('active');
+      });
+
+    });
+    </script>
+    <script>
+        let iframeLoaded = false; // Track if iframe is loaded
+        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
+        const playButton = document.getElementById("playButton");
+        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
+
+        function loadIframe() {
+            iframe.src = "https://turbowarp.org/1133167510/embed";
+             playButton.style.display = "none"; //Hide button
+            iframeLoaded = true; // Set to true so it's not loaded again
+            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
+
+            gameImageContainer.style.backgroundImage = "none";
+        }
+          playButton.addEventListener("click", loadIframe); // Listen for click
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9JME3P55QJ');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+     crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1444054360166733">
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki">
+                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About Sprunki Pyramixed</h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > Sprunki Pyramixed</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>   4.0/5  (254 votes)</div>
+
+<p>Ready to enter a new realm of music creation that's both deep and incredibly fun? Say hello to Sprunki Pyramixed! This innovative platform masterfully blends sophisticated sound design with intuitive, engaging gameplay. Whether you're a complete music newbie or a seasoned composer, you'll find your creative happy place right here.</p>
+
+    <h3>So, What's This Sprunki Pyramixed Thing All About?</h3>
+
+    <p>Imagine you're not just dragging notes around, but actually building your own musical pyramid using unique sound elements as your blocks. Sprunki Pyramixed is exactly that kind of inspiring creative journey. It offers a thoughtfully designed interface and a rich sound library, providing an environment where you can freely express yourself and let your musical creativity flow naturally.</p>
+
+    <h3>Wondering How to Rock Sprunki Pyramixed? It's Actually Simple:</h3>
+
+    <ol>
+        <li><strong>Find Your "Sound Bricks":</strong> Explore the cast of characters in Sprunki Pyramixed! Each one represents a unique sonic element, forming the foundation of your musical creation.</li>
+        <li><strong>Start "Building" Your Mix:</strong> Like constructing a pyramid, skillfully combine different sound elements. Experiment with various sound patterns and arrangements – you'll discover unique musical harmonies and endless possibilities within Sprunki Pyramixed!</li>
+        <li><strong>Polish Your "Sonic Wonder":</strong> Don't rush to finish! Take your time fine-tuning and enhancing your musical piece until it perfectly represents your artistic vision. Sprunki Pyramixed encourages continuous exploration.</li>
+        <li><strong>Show Off Your Masterpiece:</strong> When you're happy with your musical pyramid, don't forget to share it with fellow music lovers in the vibrant Sprunki Pyramixed community!</li>
+    </ol>
+
+    <h3>What Makes Sprunki Pyramixed So Special?</h3>
+
+    <ul>
+        <li><strong>Massive & Unique Sound Library:</strong> Sprunki Pyramixed boasts a vast collection of distinctive sounds and musical elements, adding incredible detail and potential to your compositions.</li>
+        <li><strong>Character Companions with Personality:</strong> Interact with characters full of unique personalities who contribute their signature sounds, adding color to your creative process.</li>
+        <li><strong>Intuitive Mixing Interface:</strong> Even if you're new to this, Sprunki Pyramixed's refined mixing system makes it effortless to build complex harmonies and multi-layered compositions.</li>
+        <li><strong>Active Community Connection:</strong> Join the Sprunki Pyramixed family, connect with other musicians, share ideas, and explore the limitless musical possibilities together.</li>
+        <li><strong>Accessible Yet Deep:</strong> Sprunki Pyramixed provides an easy entry point for beginners while maintaining enough depth for sophisticated musical exploration for seasoned players.</li>
+    </ul>
+
+    <h3>Some Tips for Playing Sprunki Pyramixed:</h3>
+
+    <ul>
+        <li><strong>Start Simple:</strong> Begin with fundamental patterns and gradually add complexity as you master the tools and discover new musical horizons within Sprunki Pyramixed.</li>
+        <li><strong>Experiment Freely:</strong> The joy of Sprunki Pyramixed is in the exploration! Dive into various sound combinations and arrangements to uncover exciting musical possibilities.</li>
+        <li><strong>Seek Inspiration:</strong> Check out what other creators in the Sprunki Pyramixed community are making! Learning from their works can spark fresh ideas for your own musical journey.</li>
+        <li><strong>Value the Journey:</strong> Most importantly, enjoy the process! Let your creativity flow naturally as you explore and have fun with musical expression in Sprunki Pyramixed.</li>
+    </ul>
+
+    <h3>Wrapping It Up:</h3>
+
+    <p>Sprunki Pyramixed is a fantastic music creation platform that cleverly balances ease of use with depth, allowing everyone to enjoy the fun of making music. Whether you're just looking to play around or get serious about composing, Sprunki Pyramixed has got you covered. Come join this vibrant community and start building your own sonic wonder today!</p>
+
+
+
+
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+      <div class="container">
+           <nav>
+               <ul>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-service/">Terms of service</a></li>
+                </ul>
+           </nav>
+           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+      function goToLink(event) {
+        const select = event.target;
+        const selectedOption = select.options[select.selectedIndex];
+        const url = selectedOption.getAttribute('data-url');
+        if (url) {
+          window.location.href = url;
+        }
+      }
+  
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select');
+        if (select) {
+          select.addEventListener('change', goToLink);
+  
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang;
+          const options = Array.from(select.options);
+  
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(option =>
+            option.getAttribute('data-lang') === htmlLang
+          );
+  
+          if (currentOption) {
+            currentOption.selected = true;
+          } else {
+            // If no exact match is found, try to find a default option (data-lang="en" or "/")
+            let defaultOption = options.find(option =>
+              option.getAttribute('data-lang') === 'en' // common default
+            );
+  
+            if (!defaultOption) {
+              defaultOption = options.find(option =>
+                option.getAttribute('data-lang') === '/' // older convention
+              );
+            }
+  
+  
+            if (defaultOption) {
+              defaultOption.selected = true;
+            }
+          }
+        }
+      });
+      </script>
+<style>
+/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
+@media screen and (max-width: 980px) {
+    .a2a_floating_style.a2a_vertical_style { display: none; }
+}
+@media screen and (min-width: 980px) {
+    .a2a_floating_style.a2a_default_style { display: none; }
+}
+</style>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+</body>
+</html>

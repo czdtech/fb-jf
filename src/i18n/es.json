@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "newGames": "Juegos Nuevos",
+    "fiddlebopsMod": "Mod Fiddlebops",
+    "incrediboxMod": "Mod Incredibox",
+    "sprunkiMod": "Mod Sprunki"
+  },
+  "game": {
+    "play": "Jugar",
+    "about": "Acerca de",
+    "howToPlay": "Cómo Jugar",
+    "relatedGames": "Juegos Relacionados",
+    "popularGames": "Juegos Populares",
+    "newGames": "Juegos Nuevos",
+    "trendingGames": "Juegos en Tendencia",
+    "exploreGames": "Explorar Juegos"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "readMore": "Leer Más",
+    "home": "inicio",
+    "welcomeTitle": "¡Bienvenido a Fiddlebops Incredibox!",
+    "welcomeDescription": "¡Comienza tu viaje musical! Fiddlebops es un proyecto de fans inspirado en Incredibox. Aquí puedes mezclar y combinar libremente varios sonidos para crear tu propia música única."
+  },
+  "footer": {
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de servicio",
+    "copyright": "Todos los derechos reservados.",
+    "email": "Correo electrónico"
+  },
+  "homepage": {
+    "aboutTitle": "Acerca de Fiddlebops Incredibox",
+    "exploreSoundsTitle": "Explora los Diferentes Sonidos en Fiddlebops Incredibox",
+    "videoTitle": "Video del Juego Fiddlebops Incredibox",
+    "faqTitle": "Preguntas Frecuentes sobre Fiddlebops Incredibox"
+  },
+  "languages": {
+    "en": "English",
+    "zh": "简体中文",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어"
+  }
+}

@@ -1,0 +1,37 @@
+---
+/**
+ * Footer Component
+ * Reusable footer with navigation links and copyright
+ * 
+ * @prop {number} year - Copyright year, defaults to current year
+ * @prop {string} siteName - Site name for copyright, defaults to "FiddleBops"
+ * @prop {string} email - Contact email address
+ * @prop {boolean} showEmail - Whether to show email address
+ */
+interface Props {
+  year?: number;
+  siteName?: string;
+  email?: string;
+  showEmail?: boolean;
+}
+
+const { 
+  year = 2025, 
+  siteName = 'FiddleBops',
+  email = 'chongzhidatech@gmail.com',
+  showEmail = false
+} = Astro.props;
+---
+
+<footer>
+  <div class="container">
+    <nav>
+      <ul>
+        <li><a href="/privacy/">Privacy Policy</a></li>
+        <li><a href="/terms-of-service/">Terms of service</a></li>
+      </ul>
+    </nav>
+    <p class="copyright" style="text-align: left;">© {year} {siteName}. All rights reserved.</p>
+    {showEmail && <p style="text-align: left;margin-top:0">E-mail: {email}</p>}
+  </div>
+</footer>

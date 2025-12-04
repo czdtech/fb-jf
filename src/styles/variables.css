@@ -1,0 +1,150 @@
+/**
+ * CSS Custom Properties (Design Tokens)
+ * 
+ * This file defines the design system variables for the FiddleBops website.
+ * All colors, spacing, typography, and other design tokens are centralized here.
+ */
+
+:root {
+  /* ===========================================
+   * COLOR PALETTE
+   * =========================================== */
+  
+  /* Primary Colors - Orange theme */
+  --color-primary: #ff9800;
+  --color-primary-light: #ffb74d;
+  --color-primary-dark: #f57c00;
+  --color-primary-darker: #e65100;
+  
+  /* Secondary Colors - Deep orange/red accents */
+  --color-secondary: #ff7043;
+  --color-secondary-dark: #e64a19;
+  --color-accent-red: #ef5350;
+  --color-accent-red-dark: #c62828;
+  
+  /* Success/Action Colors */
+  --color-success: #4caf50;
+  --color-success-dark: #388e3c;
+  
+  /* Background Colors */
+  --color-bg-primary: #364869;
+  --color-bg-light: #fff8e1;
+  --color-bg-white: #fff;
+  --color-bg-gray: #f3f3f3;
+  --color-bg-card: #fcfcfc;
+  --color-bg-dark: #35466a;
+  
+  /* Text Colors */
+  --color-text-primary: #333;
+  --color-text-dark: #212121;
+  --color-text-gray: #424242;
+  --color-text-muted: #757575;
+  --color-text-light: #ccc;
+  --color-text-white: #fff;
+  
+  /* Link Colors */
+  --color-link: orange;
+  --color-link-hover: #333;
+  --color-link-footer-hover: #ffc107;
+  
+  /* Border Colors */
+  --color-border: #ddd;
+  --color-border-light: #eee;
+  
+  /* Overlay Colors */
+  --color-overlay: rgba(0, 0, 0, 0.6);
+  --color-overlay-dark: rgba(0, 0, 0, 0.7);
+  --color-overlay-button: rgba(0, 0, 0, 0.5);
+  --color-nav-overlay: rgba(54, 72, 105, 0.95);
+  
+  /* Shadow Colors */
+  --color-shadow: rgba(0, 0, 0, 0.2);
+  --color-shadow-hover: rgba(0, 0, 0, 0.2);
+  --color-focus-shadow: rgba(255, 152, 0, 0.5);
+
+  /* ===========================================
+   * SPACING SCALE
+   * =========================================== */
+  --spacing-xs: 5px;
+  --spacing-sm: 8px;
+  --spacing-md: 10px;
+  --spacing-lg: 15px;
+  --spacing-xl: 20px;
+  --spacing-2xl: 30px;
+  --spacing-3xl: 50px;
+
+  /* ===========================================
+   * TYPOGRAPHY
+   * =========================================== */
+  
+  /* Font Families */
+  --font-family-primary: 'Poppins', sans-serif;
+  --font-family-icons: "Font Awesome 6 Free";
+  
+  /* Font Sizes */
+  --font-size-xs: 0.8em;
+  --font-size-sm: 12px;
+  --font-size-base: 1em;
+  --font-size-md: 14px;
+  --font-size-lg: 1.2em;
+  --font-size-xl: 1.5em;
+  --font-size-2xl: 2em;
+  --font-size-3xl: 3em;
+  
+  /* Font Weights */
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+  --font-weight-icon: 900;
+
+  /* ===========================================
+   * LAYOUT
+   * =========================================== */
+  --container-max-width: 1200px;
+  --header-height: auto;
+  
+  /* ===========================================
+   * BORDER RADIUS
+   * =========================================== */
+  --radius-sm: 3px;
+  --radius-md: 5px;
+  --radius-lg: 10px;
+  --radius-xl: 15px;
+
+  /* ===========================================
+   * TRANSITIONS
+   * =========================================== */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+
+  /* ===========================================
+   * SHADOWS
+   * =========================================== */
+  --shadow-sm: 0 2px 4px var(--color-shadow);
+  --shadow-md: 0 6px 16px var(--color-shadow);
+  --shadow-lg: 0 8px 16px var(--color-shadow-hover);
+  --shadow-focus: 0 0 5px var(--color-focus-shadow);
+
+  /* ===========================================
+   * Z-INDEX SCALE
+   * =========================================== */
+  --z-index-overlay: 10;
+  --z-index-button: 11;
+  --z-index-nav: 1000;
+  --z-index-nav-toggle: 1001;
+
+  /* ===========================================
+   * ASPECT RATIOS
+   * =========================================== */
+  --aspect-ratio-video: 16 / 9;
+  --aspect-ratio-thumbnail: 4 / 3;
+
+  /* ===========================================
+   * GRID
+   * =========================================== */
+  --grid-gap: 15px;
+  --grid-min-card: 200px;
+  --grid-min-card-sm: 120px;
+  --grid-min-related: 150px;
+  --grid-min-related-sm: 100px;
+}

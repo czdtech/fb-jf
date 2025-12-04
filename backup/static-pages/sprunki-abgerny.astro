@@ -1,0 +1,271 @@
+---
+import Header from '../components/Header.astro';
+import NewGames from '../components/NewGames.astro';
+import PopularGames from '../components/PopularGames.astro';
+import TrendingGames from '../components/TrendingGames.astro';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprunki Abgerny - Play Sprunki Abgerny Online</title>
+    <meta name="keywords" content="Sprunki Abgerny">
+    <meta name="description" content="Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures.">
+    <meta name="robots" content="index, follow"/>
+
+    <link rel="canonical" href="https://www.playfiddlebops.com/sprunki-abgerny/"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Sprunki Abgerny - Play Sprunki Abgerny Online",
+      "alternateName": "playfiddlebops.com",
+      "url": "https://www.playfiddlebops.com/sprunki-abgerny/",
+      "description": "Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures."
+    }
+    </script>
+
+    <meta property="og:title" content="Sprunki Abgerny - Play Sprunki Abgerny Online "/>
+    <meta property="og:description" content="Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures."/>
+    <meta property="og:url" content="https://www.playfiddlebops.com/sprunki-abgerny/"/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/sprunki-abgerny.png"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="https://www.playfiddlebops.com/sprunki-abgerny/"/>
+    <meta name="twitter:title" content="Sprunki Abgerny - Play Sprunki Abgerny Online "/>
+    <meta name="twitter:description" content="Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures."/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/sprunki-abgerny.png"/>
+
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    <link rel="stylesheet" href="/main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+      audio {width:210px}
+.game-card .game-iframe-sprunki {
+  float:left;
+    width: 69%;
+    margin:0;
+    padding:0;
+     height:600px;
+     background-color:#fff;
+     position: relative;
+     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3)), url(/sprunki-abgerny.png);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size:cover;
+}
+      .game .game-l-2 img {
+    width: 100%!important;
+    height:auto;
+    margin: 0 auto;}
+      @media screen and (max-width: 980px){
+        .game-card .game-iframe-sprunki {
+     width:100%;}
+      }
+      @media screen and (max-width: 768px){
+        audio {width: 120px}
+        .game-card .game-iframe-sprunki {
+     height:330px!important;
+}
+
+        }
+    </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+      const navToggle = document.querySelector('.nav-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+    
+      navToggle.addEventListener('click', function() {
+        navMenu.classList.toggle('active');
+      });
+
+    });
+    </script>
+    <script>
+        let iframeLoaded = false; // Track if iframe is loaded
+        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
+        const playButton = document.getElementById("playButton");
+        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
+
+        function loadIframe() {
+            iframe.src = "https://turbowarp.org/1095335052/embed";
+             playButton.style.display = "none"; //Hide button
+            iframeLoaded = true; // Set to true so it's not loaded again
+            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
+
+            gameImageContainer.style.backgroundImage = "none";
+        }
+          playButton.addEventListener("click", loadIframe); // Listen for click
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9JME3P55QJ');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+     crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1444054360166733">
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki">
+                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About Sprunki Abgerny</h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > Sprunki Abgerny</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>   3.9/5  (132 votes)</div>
+
+
+    <h3>What's So Special About Sprunki Abgerny?</h3>
+
+    <p>Sprunki Abgerny isn't just a regular music game, it's a tribute to ancient cultures and an exploration of the endless possibilities of music. Here, you can not only create music, but also feel the heritage and fusion of cultures.</p>
+
+    <h3>The Core Gameplay of Sprunki Abgerny:</h3>
+
+    <ul>
+        <li><strong>Become a Tribal Leader:</strong> Lead your tribe of beatboxers and use your musical talent to make them play awe-inspiring melodies.</li>
+        <li><strong>Explore Primal Sounds:</strong> The game is full of tribal rhythms, didgeridoos, and soulful chants, allowing you to fully experience the charm of Australian Aboriginal music.</li>
+        <li><strong>Showcase Your Creativity:</strong> Unleash your creativity with a variety of unique sound effects and percussive elements, creating unique musical works.</li>
+    </ul>
+
+    <h3>In the world of Sprunki Abgerny:</h3>
+
+    <ul>
+        <li>The design and sound of each character is deeply influenced by the essence of Australian Aboriginal culture, making you feel like you are in an ancient tribe.</li>
+        <li>You will have endless combinations to create your own musical masterpiece.</li>
+        <li>You can share your works with friends and family to jointly feel the charm of music.</li>
+    </ul>
+
+    <p><strong>Whether you're an experienced musician or a curious beginner, Sprunki Abgerny offers endless fun, sparking creativity with its unique ethnic twist. Come and join Sprunki Abgerny, and awaken the primal musical soul with ancient beats!</strong></p>
+
+
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+      <div class="container">
+           <nav>
+               <ul>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-service/">Terms of service</a></li>
+                </ul>
+           </nav>
+           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+      function goToLink(event) {
+        const select = event.target;
+        const selectedOption = select.options[select.selectedIndex];
+        const url = selectedOption.getAttribute('data-url');
+        if (url) {
+          window.location.href = url;
+        }
+      }
+  
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select');
+        if (select) {
+          select.addEventListener('change', goToLink);
+  
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang;
+          const options = Array.from(select.options);
+  
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(option =>
+            option.getAttribute('data-lang') === htmlLang
+          );
+  
+          if (currentOption) {
+            currentOption.selected = true;
+          } else {
+            // If no exact match is found, try to find a default option (data-lang="en" or "/")
+            let defaultOption = options.find(option =>
+              option.getAttribute('data-lang') === 'en' // common default
+            );
+  
+            if (!defaultOption) {
+              defaultOption = options.find(option =>
+                option.getAttribute('data-lang') === '/' // older convention
+              );
+            }
+  
+  
+            if (defaultOption) {
+              defaultOption.selected = true;
+            }
+          }
+        }
+      });
+      </script>
+<style>
+/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
+@media screen and (max-width: 980px) {
+    .a2a_floating_style.a2a_vertical_style { display: none; }
+}
+@media screen and (min-width: 980px) {
+    .a2a_floating_style.a2a_default_style { display: none; }
+}
+</style>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</body>
+</html>

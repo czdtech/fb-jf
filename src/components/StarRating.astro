@@ -1,0 +1,49 @@
+---
+/**
+ * StarRating Component
+ * Displays a star rating with filled and empty stars
+ * 
+ * @prop {number} rating - Number of filled stars (0-5), default is 4
+ * @prop {number} maxStars - Maximum number of stars to display, default is 5
+ * @prop {string} score - Optional score text to display after stars
+ * @prop {number} size - Size of each star in pixels, default is 16
+ */
+interface Props {
+  rating?: number;
+  maxStars?: number;
+  score?: string;
+  size?: number;
+}
+
+const { 
+  rating = 4, 
+  maxStars = 5, 
+  score,
+  size = 16 
+} = Astro.props;
+
+const filledColor = '#ffd223';
+const emptyColor = '#9E9E9E';
+---
+
+<div class="stars">
+  {Array.from({ length: maxStars }, (_, i) => {
+    const isFilled = i < rating;
+    const color = isFilled ? filledColor : emptyColor;
+    return (
+      <svg 
+        width={size} 
+        viewBox="0 -960 960 960" 
+        height={size} 
+        xmlns="http://www.w3.org/2000/svg" 
+        style={`--backgroundColor: ${color}; --hoverColor: ${color}; fill: ${color};`}
+        class="star-icon"
+      >
+        <path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path>
+      </svg>
+    );
+  })}
+  {score && <span class="score-text">{score}</span>}
+</div>
+
+<!-- Styles are in public/styles/components.css -->

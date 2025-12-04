@@ -1,0 +1,81 @@
+---
+/**
+ * SEOHead Component
+ * Renders all SEO-related meta tags in a consistent format
+ * Output format matches existing pages exactly for SEO preservation
+ * 
+ * Uses relative paths internally, resolves to absolute URLs for meta tags (Requirements: 7.3)
+ */
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl: string;
+  keywords?: string;
+  ogImage?: string;
+  ogType?: string;
+  twitterCard?: string;
+  jsonLd?: object;
+  hreflangLinks?: Array<{lang: string; url: string}>;
+  noindex?: boolean;
+}
+
+// Default image path (relative)
+const DEFAULT_OG_IMAGE = '/tw.jpg';
+
+const {
+  title,
+  description,
+  canonicalUrl,
+  keywords,
+  ogImage = DEFAULT_OG_IMAGE,
+  ogType = 'website',
+  twitterCard = 'summary_large_image',
+  jsonLd,
+  hreflangLinks = [],
+  noindex = false
+} = Astro.props;
+
+// Resolve relative image paths to absolute URLs for social media meta tags
+// Social media crawlers require absolute URLs
+const resolveImageUrl = (imagePath: string): string => {
+  // If already absolute URL, return as-is
+  if (imagePath.startsWith('http://') || imagePath.startsWith('https://')) {
+    return imagePath;
+  }
+  // Resolve relative path using site config
+  const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://www.playfiddlebops.com';
+  const cleanPath = imagePath.startsWith('/') ? imagePath : `/${imagePath}`;
+  return `${siteUrl}${cleanPath}`;
+};
+
+const resolvedOgImage = resolveImageUrl(ogImage);
+---
+
+<title>{title}</title>
+{keywords && <meta name="keywords" content={keywords} />}
+<meta name="description" content={description} />
+<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
+
+<link rel="canonical" href={canonicalUrl} />
+
+{jsonLd && (
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+)}
+
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonicalUrl} />
+<meta property="og:site_name" content="FiddleBops" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:image" content={resolvedOgImage} />
+<meta property="og:type" content={ogType} />
+
+<meta name="twitter:card" content={twitterCard} />
+<meta name="twitter:site" content={canonicalUrl} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={resolvedOgImage} />
+
+{hreflangLinks.map(link => (
+  <link rel="alternate" hreflang={link.lang} href={link.url} />
+))}

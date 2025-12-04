@@ -1,0 +1,50 @@
+---
+/**
+ * Header Component
+ * Site header with navigation and language selector
+ * 
+ * Requirements: 2.1, 4.4, 4.5
+ */
+---
+
+<header>
+    <div class="container">
+        <div class="logo">
+            <h1><a href="/">Fiddle<span class="light">Bops</span></a></h1>
+        </div>
+        <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
+        <nav class="nav-menu">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/update-games/">New Games</a></li>
+                <li><a href="/fiddlebops-mod/">Fiddlebops Mod</a></li>
+                <li><a href="/incredibox-mod/">Incredibox Mod</a></li>
+                <li><a href="/sprunki-mod/">Sprunki Mod</a></li>
+            </ul>
+        </nav>
+        <select class="language-select" style="float:right;">
+            <option data-lang="en" data-url="/">English</option>
+            <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
+            <option data-lang="es" data-url="/es/">Español</option>
+            <option data-lang="fr" data-url="/fr/">Français</option>
+            <option data-lang="de" data-url="/de/">Deutsch</option>
+            <option data-lang="ja" data-url="/ja/">日本語</option>
+            <option data-lang="ko" data-url="/ko/">한국어</option>
+        </select>
+    </div>
+</header>
+
+<script>
+  import { initNavToggle, initLanguageSwitcher } from '../scripts/index.ts';
+  
+  // Initialize nav toggle for mobile navigation
+  initNavToggle({
+    toggleSelector: '.nav-toggle',
+    menuSelector: '.nav-menu'
+  });
+  
+  // Initialize language switcher
+  initLanguageSwitcher({
+    selectSelector: '.language-select'
+  });
+</script>

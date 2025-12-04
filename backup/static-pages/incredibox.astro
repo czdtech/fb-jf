@@ -1,0 +1,284 @@
+---
+import Header from '../components/Header.astro';
+import NewGames from '../components/NewGames.astro';
+import PopularGames from '../components/PopularGames.astro';
+import TrendingGames from '../components/TrendingGames.astro';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incredibox - Play Incredibox Online</title>
+    <meta name="keywords" content="Incredibox, Incredibox online">
+    <meta name="description" content="Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages.">
+    <meta name="robots" content="index, follow"/>
+    <link rel="canonical" href="https://www.playfiddlebops.com/incredibox/"/>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "Incredibox - Play Incredibox Online",
+      "alternateName": "playfiddlebops.com",
+      "url": "https://www.playfiddlebops.com/incredibox/",
+      "description": "Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages."
+    }
+    </script>
+
+    <meta property="og:title" content="Incredibox - Play Incredibox Online"/>
+    <meta property="og:description" content="Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages."/>
+    <meta property="og:url" content="https://www.playfiddlebops.com/incredibox/"/>
+    <meta property="og:site_name" content="FiddleBops"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:image" content="https://www.playfiddlebops.com/Incredibox.png"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="https://www.playfiddlebops.com/incredibox/"/>
+    <meta name="twitter:title" content="Incredibox - Play Incredibox Online"/>
+    <meta name="twitter:description" content="Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages."/>
+    <meta name="twitter:image" content="https://www.playfiddlebops.com/Incredibox.png"/>
+
+    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
+    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="/styles/components.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+      .game-card .game-iframe-sprunki {
+        --bg-image: url(/Incredibox.png);
+        background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), var(--bg-image);
+      }
+    </style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const navToggle = document.querySelector('.nav-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+
+    navToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('active');
+    });
+  });
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+      const iframe = document.getElementById("fiddlebops-iframe");
+      const playButton = document.getElementById("playButton");
+      const gameContainer = document.querySelector(".game-iframe-sprunki");
+      const fullscreenBtn = document.getElementById("fullscreen-btn");
+      const fullscreenIcon = fullscreenBtn.querySelector('i');
+
+      if (playButton && iframe && gameContainer && fullscreenBtn) {
+
+          function loadIframe() {
+              iframe.src = "https://nom74100.github.io/in-box/";
+              playButton.style.display = "none";
+              iframe.focus();
+              gameContainer.style.backgroundImage = "none";
+              fullscreenBtn.style.display = "block"; 
+          }
+          playButton.addEventListener("click", loadIframe);
+
+          fullscreenBtn.addEventListener('click', () => {
+              if (document.fullscreenElement) {
+                  document.exitFullscreen();
+              } else {
+                  gameContainer.requestFullscreen();
+              }
+          });
+
+          document.addEventListener('fullscreenchange', () => {
+              if (document.fullscreenElement) {
+                  fullscreenIcon.classList.remove('fa-expand');
+                  fullscreenIcon.classList.add('fa-compress');
+              } else {
+                  fullscreenIcon.classList.remove('fa-compress');
+                  fullscreenIcon.classList.add('fa-expand');
+              }
+          });
+      }
+  });
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9JME3P55QJ');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1444054360166733"
+     crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1444054360166733">
+</head>
+<body>
+<Header/>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="game-card">
+                    <div class="game-info" id="paly">
+                    </div>
+<PopularGames />
+                   <div class="game-iframe-sprunki">
+                      <button id="fullscreen-btn" title="Toggle Fullscreen">
+                        <i class="fa-solid fa-expand"></i>
+                    </button>
+                    <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
+                        <button id="playButton">Play</button>
+                    </div>
+<NewGames />
+                </div>
+            </div>
+        </section>
+<TrendingGames />
+          <section class="about" id="about">
+            <div class="container">
+              <h2>About Incredibox</h2>
+              <div class="about-content">
+                  <p><a href="/" style="float:left;">home</a> > Incredibox</p>
+                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>  4.9/5  (724 votes)</div>
+                    <h3>Introducing to Incredibox</h3>
+    <p>Want to create your own exclusive hit song with a group of quirky beatboxers? Incredibox can make your dream come true! This game is part game, part music creation tool, and offers musical fun for people of all ages. Today, let's step into the world of Incredibox and explore its various versions, gameplay mechanics, so you can easily get started and play a musical carnival at your fingertips!</p>
+
+    <h3>How to Play Incredibox?</h3>
+
+    <p>Incredibox's core gameplay is delightfully simple:</p>
+
+    <ol>
+        <li><strong>Choose Characters:</strong> You'll see a group of cute beatboxers, each representing a different sound or musical element.</li>
+        <li><strong>Drag and Drop:</strong> Drag and drop various icons onto these characters, assigning them different sounds to create rhythmic melodies.</li>
+        <li><strong>Create:</strong> Feel free to try different combinations, discover unique beats, and create your own musical masterpiece!</li>
+    </ol>
+  <hr>
+    <h3>What Are the Different Versions of Incredibox?</h3>
+
+    <p>While the core gameplay remains the same, each Incredibox version has its own unique characters, sounds, and themes. Here's a rundown of the most popular versions:</p>
+
+    <ul>
+        <li><strong>V1 Alpha:</strong> The beginning of it all! Classic beatboxing style with jazz and funk influences. You can hear scratches, human beatboxing, and deep basslines.</li>
+        <li><strong>V2 Little Miss:</strong> The style is cuter and the style is more relaxed! The characters are cute, and the sounds are mainly a cappella and beatboxing, focusing on vocal elements such as whistles, tongue trills, and scat singing.</li>
+        <li><strong>V3 Sunrise:</strong> Ready for a tropical trip? V3 has a bright and cheerful atmosphere, with steel drums, marimbas, and xylophones, making your works full of summer island style.</li>
+        <li><strong>V4 The Love:</strong> As you can see, V4 focuses on romantic themes. Soulful vocals, acoustic guitars, and smooth saxophones are the perfect choices for creating love songs and moving ballads.</li>
+        <li><strong>V5 Brazil:</strong> V5 ignites your passion with vibrant Brazilian music! Explosive rhythms and rich percussion instruments (such as cuicas, pandeiros, and berimbaus) allow you to be instantly immersed in the sea of samba.</li>
+        <li><strong>V6 Alive:</strong> V6 takes you into nature! Flutes, didgeridoos, handpans and other instruments blend perfectly with natural sound effects such as bird chirping and flowing water, creating a peaceful and natural soundscape.</li>
+        <li><strong>V7 Jeevan:</strong> Take a musical journey to India! V7 incorporates traditional Indian instruments such as the sitar and tabla, making your music full of exotic charm.</li>
+        <li><strong>V8 Dystopia:</strong> Ready to welcome dark and industrial sounds? V8 has heavy bass, distorted guitars, and electronic synthesizers, which are most suitable for creating dark and avant-garde beats.</li>
+        <li><strong>V9 Wekiddy:</strong> Let yourself go and have fun! V9 uses a cartoon theme and various quirky sound effects (such as laser beams, robots, and funny vocals) to let you create interesting and nonsensical beats.</li>
+    <li><strong>Orin Ayo:</strong> This special version is launched by Incredibox in cooperation with the MIT Scratch programming platform. You can learn programming knowledge while enjoying the fun of music creation!</li>
+    </ul>
+  <hr>
+    <h3>Incredibox Tips:</h3>
+
+    <ul>
+        <li><strong>Experiment boldly:</strong> Don't be afraid to try different combinations, you may find unexpected surprises!</li>
+        <li><strong>Listen carefully:</strong> Pay attention to how different sounds blend together to create a sense of rhythm.</li>
+        <li><strong>Start gradually:</strong> If you are a novice, start with simple loops and then gradually increase the complexity.</li>
+        <li><strong>Use repetition:</strong> Repeating certain sounds can create catchy melodies.</li>
+        <li><strong>Share:</strong> After creating a satisfactory work, don't forget to share it with your friends!</li>
+    </ul>
+
+    <h3>Conclusion:</h3>
+
+    <p>With its intuitive gameplay, vibrant graphics, and endless creative possibilities, Incredibox brings endless fun to music lovers and aspiring beatboxers. What are you waiting for? Come and unleash your inner musical genius!</p>
+
+
+
+                 </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+      <div class="container">
+           <nav>
+               <ul>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-service/">Terms of service</a></li>
+                </ul>
+           </nav>
+           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+      function goToLink(event) {
+        const select = event.target;
+        const selectedOption = select.options[select.selectedIndex];
+        const url = selectedOption.getAttribute('data-url');
+        if (url) {
+          window.location.href = url;
+        }
+      }
+  
+      // Add event listener
+      document.addEventListener('DOMContentLoaded', () => {
+        const select = document.querySelector('select');
+        if (select) {
+          select.addEventListener('change', goToLink);
+  
+          // Set current language based on the <html> tag's lang attribute
+          const htmlLang = document.documentElement.lang;
+          const options = Array.from(select.options);
+  
+          // Try to find an option that exactly matches the lang attribute
+          const currentOption = options.find(option =>
+            option.getAttribute('data-lang') === htmlLang
+          );
+  
+          if (currentOption) {
+            currentOption.selected = true;
+          } else {
+            // If no exact match is found, try to find a default option (data-lang="en" or "/")
+            let defaultOption = options.find(option =>
+              option.getAttribute('data-lang') === 'en' // common default
+            );
+  
+            if (!defaultOption) {
+              defaultOption = options.find(option =>
+                option.getAttribute('data-lang') === '/' // older convention
+              );
+            }
+  
+  
+            if (defaultOption) {
+              defaultOption.selected = true;
+            }
+          }
+        }
+      });
+      </script>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_x"></a>
+<a class="a2a_button_reddit"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
+</div>
+
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</body>
+</html>
