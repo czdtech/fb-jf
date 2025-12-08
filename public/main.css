@@ -117,6 +117,59 @@ header nav ul li a:hover {
     display: block;
 }
 
+/* Header language selector */
+.language-select {
+    float: right;
+}
+
+/* Utility class for clearing floats */
+.clear-both {
+    clear: both;
+}
+
+/* ===========================================
+ * PAGE SECTIONS (PRIVACY / TERMS / 404)
+ * =========================================== */
+.tab-content {
+    background-color: var(--color-bg-card, #fcfcfc);
+    padding: var(--spacing-2xl, 30px) var(--spacing-xl, 20px);
+    border-radius: var(--radius-xl, 15px);
+    margin-bottom: var(--spacing-xl, 20px);
+}
+
+.error-404 .tab-content {
+    padding: var(--spacing-4xl, 80px) var(--spacing-xl, 20px);
+}
+
+.page .title {
+    color: var(--color-text-white, #fff);
+}
+
+/* ===========================================
+ * SOCIAL SHARE (AddToAny)
+ * =========================================== */
+.a2a_floating_style.a2a_default_style {
+    bottom: 0;
+    right: 0;
+}
+
+.a2a_floating_style.a2a_vertical_style {
+    left: 0;
+    top: 150px;
+}
+
+@media screen and (max-width: 980px) {
+    .a2a_floating_style.a2a_vertical_style {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 980px) {
+    .a2a_floating_style.a2a_default_style {
+        display: none;
+    }
+}
+
 /* ===========================================
  * HERO SECTION
  * =========================================== */
@@ -351,6 +404,39 @@ header nav ul li a:hover {
 
 .game button:hover {
     background-color: var(--color-success-dark);
+}
+
+/* ===========================================
+ * PAGINATION
+ * =========================================== */
+.pagination {
+    width: 100%;
+    text-align: center;
+    padding: var(--spacing-sm);
+    margin: var(--spacing-2xl) 0;
+}
+
+.pagination .current {
+    display: inline-block;
+    min-width: 40px;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: var(--radius-sm);
+    margin: var(--spacing-xs);
+    background: var(--color-text-muted);
+    color: var(--color-text-white);
+    border: 1px solid var(--color-text-muted);
+}
+
+.pagination a {
+    display: inline-block;
+    min-width: 40px;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: var(--radius-sm);
+    margin: var(--spacing-xs);
+    background: var(--color-bg-white);
+    color: var(--color-text-dark);
+    border: 1px solid var(--color-text-dark);
+    text-decoration: none;
 }
 
 /* ===========================================

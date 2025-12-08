@@ -1,0 +1,51 @@
+---
+locale: de
+urlstr: comfy-farm
+title: '[DE] Comfy Farm'
+description: >-
+  [DE] Welcome to Comfy Farm! Plant seeds, water your crops, and harvest them
+  for profit. Protect your plants from pests and use your earnings to upgrade
+  and expand your very own cozy farm.
+iframeSrc: 'https://comfyfarm.h5games.usercontent.goog/v/73m7i3ndifhg0/'
+thumbnail: /new-images/comfy-farm.png
+tags:
+  - casual
+  - strategy
+  - clicker
+score: 4.3/5  (2000 votes)
+releaseDate: 2025-10-17T00:00:00.000Z
+---
+
+
+
+
+### Detailed Game Introduction
+
+Comfy Farm is a charming and relaxing farming simulation game where you get to build and manage your own virtual farm. The goal is to transform a small plot of land into a thriving agricultural enterprise. You'll plant seeds, water your crops, harvest them for profit, and protect them from pests. Use your earnings to buy new seeds and valuable upgrades to automate and expand your comfy farm.
+
+### Gameplay Strategy & Walkthrough
+
+1.  **[DE]** **The Farming Cycle:** The core of the game is the planting and harvesting cycle. Click on an empty plot to prepare it, plant a seed, and then water it. After a set amount of time, the crop will be ready to harvest, earning you money.
+2.  **[DE]** **Pest Patrol:** Be vigilant! Pests like crows and flies will periodically appear and try to eat your crops. You must quickly click on them to scare them away before they damage your harvest.
+3.  **[DE]** **Invest in Upgrades:** Reinvest your profits wisely. Upgrades are key to growing your farm. Buying a sprinkler will automate watering, and a scarecrow will help deter pests, freeing you up to manage a larger farm.
+4.  **[DE]** **Expand Your Land:** As you earn more money, you can purchase new plots of land. Expanding your farm allows you to plant more crops simultaneously, dramatically increasing your income potential.
+
+### Controls Guide
+
+The game is played entirely with mouse clicks or taps.
+
+*   **[DE]** **Plant/Water/Harvest:** Click on a plot of land to perform the next logical action (till, plant, water, or harvest).
+*   **[DE]** **Scare Pests:** Click directly on any pest that appears on your farm to get rid of it.
+*   **[DE]** **Buy Upgrades:** Click on the upgrade icons (like the sprinkler or scarecrow) to purchase them.
+
+### Frequently Asked Questions (FAQ)
+
+*   **[DE]** **Q: How do I make money faster?**
+    *   **[DE]** **A:** Plant as many crops as you can and harvest them as soon as they are ready. As you unlock more expensive seeds, plant those, as they typically yield a higher profit, even if they take longer to grow.
+
+*   **[DE]** **Q: What is the best upgrade to get first?**
+    *   **[DE]** **A:** The sprinkler is an excellent first upgrade. It automates the watering process, saving you a lot of time and clicks, and allowing you to manage more plots эффекტიvely.
+
+*   **[DE]** **Q: Why did one of my plants disappear?**
+    *   **[DE]** **A:** A pest probably got to it! You need to be quick to click on any crows or flies that appear over your crops to prevent them from being eaten.
+

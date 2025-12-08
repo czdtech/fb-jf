@@ -1,0 +1,70 @@
+---
+locale: ja
+urlstr: metal-guns-fury
+title: '[JA TRANSLATION NEEDED] Metal Guns Fury'
+description: >-
+  [JA TRANSLATION NEEDED] Metal Guns Fury is a run‑and‑gun arcade — dodge
+  bullets, manage weapons, and blast through waves with crisp movement.
+iframeSrc: 'https://2fr3rldr11rpg.h5games.usercontent.goog/v/2pn2tgakfpecg/'
+thumbnail: /new-images/metal-guns-fury.jpg
+tags:
+  - action
+  - shooting
+score: 4.1/5  (2012 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+
+### Detailed Game Introduction
+
+[JA TRANSLATION NEEDED] Metal Guns Fury is a side‑scrolling run‑and‑gun in the spirit of arcade classics. Swap between rifles/shotguns/rockets, rescue hostages for power‑ups, and clear arenas packed with soldiers, turrets, and light vehicles. Clean jumps, slide‑dodges, and ammo discipline separate stable clears from messy deaths.
+
+### Gameplay Strategy & Walkthrough
+
+[JA TRANSLATION NEEDED] 1.  Target priority: Turrets and rockets first; basic grunts later.
+[JA TRANSLATION NEEDED] 2.  Movement layering: Jump over low fire, slide under high arcs, then counter.
+[JA TRANSLATION NEEDED] 3.  Ammo economy: Burst fire, conserve rockets for multi‑targets/boss armor.
+[JA TRANSLATION NEEDED] 4.  Power‑ups: Route rescues to refresh HP/ammo before boss gates.
+[JA TRANSLATION NEEDED] 5.  Boss patterns: Read phases; punish windows rather than face‑tank.
+
+### Controls Guide
+
+- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
+
+### Frequently Asked Questions (FAQ)
+
+- Q: I get shredded in crossfire.
+  
+[JA TRANSLATION NEEDED]   A: Clear one lane at a time, abuse cover edges, and avoid standing mid‑screen.
+
+- Q: Ammo runs dry on bosses.
+  
+[JA TRANSLATION NEEDED]   A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
+
+- Q: Which weapon is best?
+  
+
+
+
+
+
+- Q: I get shredded in crossfire.
+### よくある質問（FAQ）
+- Move: Arrows/WASD; Shoot: J/Click; Jump: K/Space; Grenade/Ability: L/E (varies); Swap: Q.
+### コントロールガイド
+- Boss patterns: Read phases; punish windows rather than face‑tank.
+[JA TRANSLATION NEEDED]   A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
+
+
+
+
+
+
+A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.
+- Q: Which weapon is best?
+A: Save heavy ammo for armor breaks; use burst fire on adds to conserve.
+- Q: Ammo runs dry on bosses.
+
+
+A: Shotgun for close packs, rifle for mid‑range, rockets for heavies.

@@ -1,0 +1,69 @@
+---
+locale: ja
+urlstr: hexamind
+title: '[JA TRANSLATION NEEDED] HexaMind'
+description: >-
+  [JA TRANSLATION NEEDED] HexaMind is a hex‑grid logic puzzler — place tiles,
+  satisfy adjacency rules, and manage parity across honeycomb layouts.
+iframeSrc: 'https://518ndvi54l1n0.h5games.usercontent.goog/v/608gefgjbkc88/'
+thumbnail: /new-images/hexamind.png
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2066 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+### Detailed Game Introduction
+
+[JA TRANSLATION NEEDED] HexaMind plays on a hexagonal grid with rules about what may touch: colors, numbers, or symbols must satisfy adjacency constraints (e.g., no equal neighbors, or sums along rays). The six‑direction geometry enables rich deductions through fan‑shaped lines and rings.
+
+### Gameplay Strategy & Walkthrough
+
+[JA TRANSLATION NEEDED] 1.  Constraint hotspots: Start at cells with the most neighbors or strictest rules.
+[JA TRANSLATION NEEDED] 2.  Ring logic: Use ring sums or color counts around a center to bound candidates.
+[JA TRANSLATION NEEDED] 3.  Ray scans: Scan along axial directions for parity/sequence constraints.
+[JA TRANSLATION NEEDED] 4.  Contradiction seeds: Try a candidate on a tight cell and backtrack on conflict.
+[JA TRANSLATION NEEDED] 5.  Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+
+### Controls Guide
+
+- Tap to place values/colors; toggle pencil marks; undo/redo.
+
+### Frequently Asked Questions (FAQ)
+
+- Q: I’m stuck — where to look?
+  
+[JA TRANSLATION NEEDED]   A: Revisit high‑degree nodes and ring totals; combine ring and ray constraints.
+
+- Q: Is guessing required?
+  
+[JA TRANSLATION NEEDED]   A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
+
+- Q: How is it different from square‑grid puzzles?
+  
+
+
+
+
+
+- Q: I’m stuck — where to look?
+### よくある質問（FAQ）
+- Tap to place values/colors; toggle pencil marks; undo/redo.
+### コントロールガイド
+- Pencil rigor: Maintain clean candidate notes to avoid circular mistakes.
+[JA TRANSLATION NEEDED]   A: Six neighbors create stronger ring/ray reasoning that square grids lack.
+
+
+
+
+
+
+A: Six neighbors create stronger ring/ray reasoning that square grids lack.
+- Q: How is it different from square‑grid puzzles?
+A: Good sets allow logical solves; when needed, make shallow, reversible assumptions.
+- Q: Is guessing required?
+
+
+A: Six neighbors create stronger ring/ray reasoning that square grids lack.

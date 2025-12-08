@@ -1,31 +1,32 @@
 /**
  * **Feature: comprehensive-improvement, Property 3: Iframe Source Extraction**
  * **Validates: Requirements 1.3**
- * 
+ *
  * Property-based tests to verify that iframe sources are correctly extracted
  * from static game pages during migration.
- * 
- * Property: For any migrated game page, the frontmatter iframeSrc field SHALL
- * contain a valid URL that matches the original iframe src attribute.
+ *
+ * Note: 在当前重构后的项目中，src/pages 下已经不再有静态游戏页面，
+ * 所以涉及真实页面的属性测试会在没有静态页面时直接跳过，只对
+ * 抽象函数行为做单元测试。
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
 import * as fc from 'fast-check';
 import * as fs from 'fs';
 import * as path from 'path';
+import matter from 'gray-matter';
 
-// Import the extraction functions
-// Note: We need to use dynamic import for ESM modules
+// 动态导入 ESM 模块
 let extractIframeSrc: (content: string) => string | null;
 let extractGameDataFromContent: (content: string, filePath: string) => any;
 let generateMarkdown: (data: any) => string;
 
-const PAGES_DIR = path.join(process.cwd(), 'src/pages');
+const PAGES_DIR = path.join(process.cwd(), 'src', 'pages');
 
-// Files that are NOT game pages
+// 非游戏页面
 const EXCLUDED_FILES = [
   '[gameSlug].astro',
-  '[gameSlug].astro.backup',
+  '_[gameSlug].astro.backup',
   '404.astro',
   'index.astro',
   'privacy.astro',
@@ -40,30 +41,34 @@ const EXCLUDED_FILES = [
   'categories.astro',
 ];
 
-let staticGamePages: { path: string; content: string; slug: string }[] = [];
+interface StaticGamePage {
+  path: string;
+  content: string;
+  slug: string;
+}
+
+let staticGamePages: StaticGamePage[] = [];
 
 beforeAll(async () => {
-  // Dynamically import the ESM modules
   const parseModule = await import('../../scripts/parse-static-page.mjs');
   const generateModule = await import('../../scripts/generate-game-md.mjs');
-  
+
   extractIframeSrc = parseModule.extractIframeSrc;
   extractGameDataFromContent = parseModule.extractGameDataFromContent;
   generateMarkdown = generateModule.generateMarkdown;
-  
-  // Load all static game pages
+
   if (fs.existsSync(PAGES_DIR)) {
     const entries = fs.readdirSync(PAGES_DIR, { withFileTypes: true });
-    
+
     for (const entry of entries) {
       if (entry.isDirectory()) continue;
       if (!entry.name.endsWith('.astro')) continue;
       if (EXCLUDED_FILES.includes(entry.name)) continue;
-      
+
       const filePath = path.join(PAGES_DIR, entry.name);
       const content = fs.readFileSync(filePath, 'utf-8');
       const slug = entry.name.replace('.astro', '');
-      
+
       staticGamePages.push({ path: filePath, content, slug });
     }
   }
@@ -71,12 +76,6 @@ beforeAll(async () => {
 
 describe('Migration Script Tests', () => {
   describe('Property 3: Iframe Source Extraction', () => {
-    /**
-     * **Feature: comprehensive-improvement, Property 3: Iframe Source Extraction**
-     * 
-     * Property: For any static game page with an iframe.src assignment,
-     * extractIframeSrc SHALL return a valid URL string (absolute or relative path).
-     */
     it('should extract valid iframe URLs from all static game pages', () => {
       if (staticGamePages.length === 0) {
         console.warn('⚠️ SKIPPED: No static game pages found');
@@ -88,16 +87,15 @@ describe('Migration Script Tests', () => {
       fc.assert(
         fc.property(pageArb, (page) => {
           const iframeSrc = extractIframeSrc(page.content);
-          
-          // If the page has an iframe.src assignment, it should be extracted
-          const hasIframeSrcAssignment = /iframe\.src\s*=\s*["']([^"']+)["']/i.test(page.content);
-          
+
+          const hasIframeSrcAssignment =
+            /iframe\.src\s*=\s*["']([^"']+)["']/i.test(page.content);
+
           if (hasIframeSrcAssignment) {
             expect(iframeSrc).not.toBeNull();
             expect(typeof iframeSrc).toBe('string');
             expect(iframeSrc!.length).toBeGreaterThan(0);
-            
-            // Should be either a valid absolute URL or a relative path
+
             const isRelativePath = iframeSrc!.startsWith('/');
             const isAbsoluteUrl = (() => {
               try {
@@ -107,17 +105,14 @@ describe('Migration Script Tests', () => {
                 return false;
               }
             })();
-            
+
             expect(isRelativePath || isAbsoluteUrl).toBe(true);
           }
         }),
-        { numRuns: Math.min(100, staticGamePages.length) }
+        { numRuns: Math.min(100, staticGamePages.length) },
       );
     });
 
-    /**
-     * Property: Extracted iframeSrc should match the original iframe.src value
-     */
     it('should extract the exact iframe URL from the source', () => {
       if (staticGamePages.length === 0) {
         console.warn('⚠️ SKIPPED: No static game pages found');
@@ -128,23 +123,21 @@ describe('Migration Script Tests', () => {
 
       fc.assert(
         fc.property(pageArb, (page) => {
-          // Extract the expected URL directly from the content
-          const match = page.content.match(/iframe\.src\s*=\s*["']([^"']+)["']/i);
-          
+          const match = page.content.match(
+            /iframe\.src\s*=\s*["']([^"']+)["']/i,
+          );
+
           if (match) {
             const expectedUrl = match[1].trim();
             const extractedUrl = extractIframeSrc(page.content);
-            
+
             expect(extractedUrl).toBe(expectedUrl);
           }
         }),
-        { numRuns: Math.min(100, staticGamePages.length) }
+        { numRuns: Math.min(100, staticGamePages.length) },
       );
     });
 
-    /**
-     * Property: extractGameDataFromContent should produce valid game data
-     */
     it('should extract complete game data from static pages', () => {
       if (staticGamePages.length === 0) {
         console.warn('⚠️ SKIPPED: No static game pages found');
@@ -156,26 +149,22 @@ describe('Migration Script Tests', () => {
       fc.assert(
         fc.property(pageArb, (page) => {
           const gameData = extractGameDataFromContent(page.content, page.path);
-          
-          // Required fields should be present
+
           expect(gameData.slug).toBe(page.slug);
           expect(typeof gameData.title).toBe('string');
           expect(typeof gameData.description).toBe('string');
           expect(Array.isArray(gameData.tags)).toBe(true);
-          
-          // If page has iframe, iframeSrc should be extracted
-          const hasIframeSrcAssignment = /iframe\.src\s*=\s*["']([^"']+)["']/i.test(page.content);
+
+          const hasIframeSrcAssignment =
+            /iframe\.src\s*=\s*["']([^"']+)["']/i.test(page.content);
           if (hasIframeSrcAssignment) {
             expect(gameData.iframeSrc).toBeTruthy();
           }
         }),
-        { numRuns: Math.min(100, staticGamePages.length) }
+        { numRuns: Math.min(100, staticGamePages.length) },
       );
     });
 
-    /**
-     * Property: Generated markdown should contain the extracted iframeSrc
-     */
     it('should preserve iframeSrc in generated markdown', () => {
       if (staticGamePages.length === 0) {
         console.warn('⚠️ SKIPPED: No static game pages found');
@@ -187,16 +176,14 @@ describe('Migration Script Tests', () => {
       fc.assert(
         fc.property(pageArb, (page) => {
           const gameData = extractGameDataFromContent(page.content, page.path);
-          
+
           if (gameData.iframeSrc) {
             const markdown = generateMarkdown(gameData);
-            
-            // The markdown should contain the iframeSrc in frontmatter
             expect(markdown).toContain('iframeSrc:');
             expect(markdown).toContain(gameData.iframeSrc);
           }
         }),
-        { numRuns: Math.min(100, staticGamePages.length) }
+        { numRuns: Math.min(100, staticGamePages.length) },
       );
     });
   });
@@ -264,17 +251,24 @@ describe('Migration Script Tests', () => {
         tags: ['game', 'test'],
         content: '### About\n\nTest content',
       };
-      
+
       const markdown = generateMarkdown(data);
-      
+
+      // 基本结构
       expect(markdown).toContain('---');
-      expect(markdown).toContain('title: "Test Game"');
-      expect(markdown).toContain('description: "A test game"');
-      expect(markdown).toContain('iframeSrc: "https://example.com/game"');
-      expect(markdown).toContain('thumbnail: "/test.png"');
-      expect(markdown).toContain('tags: ["game", "test"]');
-      expect(markdown).toContain('### About');
-      expect(markdown).toContain('Test content');
+
+      // 解析 frontmatter 并验证字段值
+      const parsed = matter(markdown);
+      expect(parsed.data.title).toBe('Test Game');
+      expect(parsed.data.description).toBe('A test game');
+      expect(parsed.data.iframeSrc).toBe('https://example.com/game');
+      expect(parsed.data.thumbnail).toBe('/test.png');
+      expect(parsed.data.urlstr).toBe('test-game');
+      expect(parsed.data.tags).toEqual(['game', 'test']);
+
+      // 内容部分保留结构
+      expect(parsed.content).toContain('### About');
+      expect(parsed.content).toContain('Test content');
     });
 
     it('should escape special characters in YAML strings', () => {
@@ -288,9 +282,9 @@ describe('Migration Script Tests', () => {
         tags: ['game'],
         content: '',
       };
-      
+
       const markdown = generateMarkdown(data);
-      
+
       // Should properly escape quotes and colons
       expect(markdown).toContain('title: "Game: The \\"Best\\" One"');
     });
@@ -307,10 +301,11 @@ describe('Migration Script Tests', () => {
         score: '4.5/5 (100 votes)',
         content: '',
       };
-      
+
       const markdown = generateMarkdown(data);
-      
-      expect(markdown).toContain('score: "4.5/5 (100 votes)"');
+      const parsed = matter(markdown);
+
+      expect(parsed.data.score).toBe('4.5/5 (100 votes)');
     });
   });
 });

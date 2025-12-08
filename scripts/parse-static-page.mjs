@@ -165,10 +165,7 @@ export function extractContent(content) {
  */
 export function htmlToMarkdown(html) {
   let md = html;
-  
-  // Remove extra whitespace
-  md = md.replace(/\s+/g, ' ');
-  
+
   // Convert headings
   md = md.replace(/<h1[^>]*>(.*?)<\/h1>/gi, '\n# $1\n');
   md = md.replace(/<h2[^>]*>(.*?)<\/h2>/gi, '\n## $1\n');
@@ -212,6 +209,9 @@ export function htmlToMarkdown(html) {
   
   // Clean up multiple newlines
   md = md.replace(/\n{3,}/g, '\n\n');
+
+  // Normalize spaces within lines (preserve intentional line breaks)
+  md = md.replace(/[ \t]+/g, ' ');
   
   // Trim whitespace
   md = md.trim();

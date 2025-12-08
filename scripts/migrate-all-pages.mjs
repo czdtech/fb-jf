@@ -28,7 +28,7 @@ const DEFAULT_OUTPUT_DIR = 'src/content/games';
 // Files that are NOT game pages (components, special pages, etc.)
 const EXCLUDED_FILES = [
   '[gameSlug].astro',
-  '[gameSlug].astro.backup',
+  '_[gameSlug].astro.backup',
   '404.astro',
   'index.astro',
   'privacy.astro',

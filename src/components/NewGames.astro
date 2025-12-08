@@ -1,10 +1,41 @@
+---
+import { useTranslations, getLocaleFromLangAttr, getLocalizedPath } from '../i18n/utils';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props as Props;
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
+---
 
 <div class="game-iframe-new">
-  <h3>&#9658; New Games</h3>
+  <h3>&#9658; {t('game.newGames', 'New Games')}</h3>
   <ul>
-   <li><a href="https://www.playfiddlebops.com/steal-a-brainrot/" title="Steal a Brainrot"><img src="/new-images/steal-a-brainrot.webp" alt="Steal a Brainrot" loading="lazy" width="150" height="150"><div class="title">Steal a Brainrot</div></a></li>
-   <li><a href="https://www.playfiddlebops.com/99-nights-in-the-forest/" title="99 Nights in the Forest"><img src="/new-images/99-nights-in-the-forest.webp" alt="99 Nights in the Forest" loading="lazy" width="150" height="150"><div class="title">99 Nights in the Forest</div></a></li>
-   <li><a href="https://www.playfiddlebops.com/grow-a-garden/" title="Grow a Garden"><img src="/growagarden-min.jpeg" alt="Grow a Garden" loading="lazy" width="150" height="150"><div class="title">Grow a Garden</div></a></li>
-   <li><a href="https://www.playfiddlebops.com/incredibox/" title="Incredibox"><img src="/Incredibox.png" alt="Incredibox" loading="lazy" width="150" height="150"><div class="title">Incredibox v1 - v9</div></a></li>
+    <li>
+      <a href={getLocalizedPath('steal-a-brainrot/', locale)} title="Steal a Brainrot">
+        <img src="/new-images/steal-a-brainrot.webp" alt="Steal a Brainrot" loading="lazy" width="150" height="150">
+        <div class="title">Steal a Brainrot</div>
+      </a>
+    </li>
+    <li>
+      <a href={getLocalizedPath('99-nights-in-the-forest/', locale)} title="99 Nights in the Forest">
+        <img src="/new-images/99-nights-in-the-forest.webp" alt="99 Nights in the Forest" loading="lazy" width="150" height="150">
+        <div class="title">99 Nights in the Forest</div>
+      </a>
+    </li>
+    <li>
+      <a href={getLocalizedPath('grow-a-garden/', locale)} title="Grow a Garden">
+        <img src="/growagarden-min.jpeg" alt="Grow a Garden" loading="lazy" width="150" height="150">
+        <div class="title">Grow a Garden</div>
+      </a>
+    </li>
+    <li>
+      <a href={getLocalizedPath('incredibox/', locale)} title="Incredibox">
+        <img src="/Incredibox.png" alt="Incredibox" loading="lazy" width="150" height="150">
+        <div class="title">Incredibox v1 - v9</div>
+      </a>
+    </li>
   </ul>
 </div>

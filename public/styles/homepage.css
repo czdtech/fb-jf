@@ -56,6 +56,31 @@ audio {
 }
 
 /* ===========================================
+ * COMPACT GAME CARDS (HOMEPAGE / TRENDING)
+ * =========================================== */
+.game--compact {
+    padding: 0;
+}
+
+.game--compact > a {
+    display: block;
+    width: 100%;
+}
+
+.game__title--ellipsis {
+    font-size: 14px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.game--mod img {
+    max-height: 150px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+/* ===========================================
  * ADDTOANY SOCIAL SHARING
  * =========================================== */
 @media screen and (max-width: 980px) {

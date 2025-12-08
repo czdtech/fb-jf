@@ -21,7 +21,9 @@ interface Props {
   keywords?: string;
   ogImage?: string;
   ogType?: string;
+  ogUrl?: string;
   twitterCard?: string;
+  twitterSiteUrl?: string;
   jsonLd?: object;
   hreflangLinks?: Array<{lang: string; url: string}>;
   noindex?: boolean;
@@ -39,7 +41,9 @@ const {
   keywords,
   ogImage,
   ogType = 'website',
+  ogUrl,
   twitterCard = 'summary_large_image',
+  twitterSiteUrl,
   jsonLd,
   hreflangLinks = [],
   noindex = false,
@@ -62,7 +66,9 @@ const {
       keywords={keywords}
       ogImage={ogImage}
       ogType={ogType}
+      ogUrl={ogUrl}
       twitterCard={twitterCard}
+      twitterSiteUrl={twitterSiteUrl}
       jsonLd={jsonLd}
       hreflangLinks={hreflangLinks}
       noindex={noindex}
@@ -73,16 +79,16 @@ const {
     <Analytics />
 </head>
 <body>
-    {showHeader && <Header />}
+    {showHeader && <Header lang={lang} />}
 
     <main>
         <slot />
     </main>
 
-    {showFooter && <Footer showEmail={showEmail} />}
+    {showFooter && <Footer lang={lang} showEmail={showEmail} />}
 
     <!-- AddToAny Social Sharing - Bottom Right -->
-    <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+    <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60">
         <a class="a2a_button_x"></a>
         <a class="a2a_button_reddit"></a>
         <a class="a2a_button_facebook"></a>
@@ -93,7 +99,7 @@ const {
     </div>
 
     <!-- AddToAny Social Sharing - Left Side -->
-    <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+    <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style">
         <a class="a2a_button_x"></a>
         <a class="a2a_button_reddit"></a>
         <a class="a2a_button_facebook"></a>

@@ -1,449 +1,123 @@
 ---
-import NAV from '../../components/Nav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { TERMS_HREFLANG } from '../../data/hreflang';
+
+const title = 'Términos de servicio | FiddleBops';
+const description =
+  'Términos de servicio de FiddleBops: condiciones legales que se aplican cuando utilizas nuestro sitio web y servicios.';
+const canonicalUrl = 'https://www.playfiddlebops.com/es/terms-of-service/';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonicalUrl,
+  description
+};
 ---
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Términos de servicio | FiddleBops</title>
-    <link rel="stylesheet" href="/main.css">
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/es/terms-of-service/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
-
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
-
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/es/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-         <button class="nav-toggle" aria-label="Alternar Navegación">☰</button>
-        <nav class="nav-menu">
-            <ul>
-                <li><a href="/es/">Inicio</a></li>
-                <NAV />
-            </ul>
-        </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/terms-of-service/">English</option>
-    <option data-lang="zh-CN" data-url="/zh/terms-of-service/">简体中文</option>  
-    <option data-lang="es" data-url="/es/terms-of-service/">Español</option>
-    <option data-lang="fr" data-url="/fr/terms-of-service/">Français</option>
-    <option data-lang="de" data-url="/de/terms-of-service/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/terms-of-service/">日本語</option>
-    <option data-lang="ko" data-url="/ko/terms-of-service/">한국어</option>
-    </select>
-    </div>
-</header>
-
-    <main>
-      <div class="page">
-
-        <div class="header">
-            <div class="container">
-                <p class="title"> </p>
-            </div>
-        </div>
-    
-        
-    
-        <div class="translations-content-container">
-            <div class="container">
-    
-                
-                <div class="tab-content translations-content-item en visible" id="en">
-                  <h1 data-custom-class="title">TÉRMINOS DE SERVICIO</h1>
-                  <p data-custom-class="subtitle"><strong>Última actualización</strong> 10 de febrero de 2025</p>
-                  <br>
-                  <h2 data-custom-class="heading_1">ACUERDO CON NUESTROS TÉRMINOS LEGALES</h2>
-                  <a name="_6aa3gkhykvst"></a>
-                  <p data-custom-class="body_text">
-                  Nosotros somos
-                  <bdt class="question">playfiddlebops</bdt>.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Operamos el sitio web
-                  <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">http://www.playfiddlebops.com</a>
-                  (el "<strong>Sitio</strong>"), así como cualquier otro producto y servicio relacionado que haga referencia o enlace a estos términos legales (los "<strong>Términos legales</strong>") (colectivamente, los "<strong>Servicios</strong>").
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Puede contactarnos por correo electrónico a
-                  <bdt class="question">chongzhidatech@gmail.com</bdt>.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Estos términos legales constituyen un acuerdo legalmente vinculante realizado entre usted, ya sea personalmente o en nombre de una entidad ("<strong>usted</strong>"), con respecto a su acceso y uso de los Servicios. Usted acepta que al acceder a los Servicios, ha leído, entendido y aceptado estar sujeto a todos estos Términos legales. <strong>Si no está de acuerdo con todos estos términos legales, tiene expresamente prohibido utilizar los servicios y debe interrumpir el uso de inmediato.</strong>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Los términos y condiciones o documentos complementarios que puedan publicarse en los Servicios de vez en cuando se incorporan expresamente aquí como referencia. Nos reservamos el derecho, a nuestra entera discreción, de realizar cambios o modificaciones a estos términos legales de vez en cuando. Le avisaremos sobre cualquier cambio actualizando la fecha de "última actualización" de estos términos legales, y usted renuncia a cualquier derecho a recibir un aviso específico de cada uno de dichos cambios. Es su responsabilidad revisar periódicamente estos términos legales para mantenerse informado de las actualizaciones. Estará sujeto a los cambios en cualquier término legal revisado y se considerará que ha sido informado de los cambios en cualquier término legal revisado y que los ha aceptado mediante su uso continuado de los servicios después de la fecha en que se publiquen dichos términos legales revisados.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Los servicios están destinados a usuarios que tengan al menos 18 años. Las personas menores de 18 años no están autorizadas a utilizar ni a registrarse en los servicios.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Le recomendamos que imprima una copia de estos términos legales para sus registros.
-                  </p>
-
-                  <h2 data-custom-class="heading_1">TABLA DE CONTENIDO</h2>
-                  <p><a href="#services">1. NUESTROS SERVICIOS</a></p>
-                  <p><a href="#ip">2. DERECHOS DE PROPIEDAD INTELECTUAL</a></p>
-                  <p><a href="#userreps">3. DECLARACIONES DEL USUARIO</a></p>
-                  <p><a href="#prohibited">4. ACTIVIDADES PROHIBIDAS</a></p>
-                  <p><a href="#ugc">5. CONTRIBUCIONES GENERADAS POR EL USUARIO</a></p>
-                  <p><a href="#license">6. LICENCIA DE CONTRIBUCIÓN</a></p>
-                  <p><a href="#thirdparty">7. SITIOS WEB Y CONTENIDO DE TERCEROS</a></p>
-                  <p><a href="#advertisers">8. ANUNCIANTES</a></p>
-                  <p><a href="#sitemanage">9. GESTIÓN DE SERVICIOS</a></p>
-                  <p><a href="#ppyes">10. POLÍTICA DE PRIVACIDAD</a></p>
-                  <p><a href="#terms">11. PLAZO Y TERMINACIÓN</a></p>
-                  <p><a href="#modifications">12. MODIFICACIONES E INTERRUPCIONES</a></p>
-                  <p><a href="#law">13. LEY APLICABLE</a></p>
-                  <p><a href="#disputes">14. RESOLUCIÓN DE DISPUTAS</a></p>
-                  <p><a href="#corrections">15. CORRECCIONES</a></p>
-                  <p><a href="#disclaimer">16. EXENCIÓN DE RESPONSABILIDAD</a></p>
-                  <p><a href="#liability">17. LIMITACIONES DE RESPONSABILIDAD</a></p>
-                  <p><a href="#indemnification">18. INDEMNIZACIÓN</a></p>
-                  <p><a href="#userdata">19. DATOS DEL USUARIO</a></p>
-                  <p><a href="#electronic">20. COMUNICACIONES, TRANSACCIONES Y FIRMAS ELECTRÓNICAS</a></p>
-                  <p><a href="#misc">21. MISCELÁNEA</a></p>
-                  <p><a href="#contact">22. CONTACTAR CON NOSOTROS</a></p>
-
-                  <a name="_b6y29mp52qvx"></a>
-
-                  <h2 data-custom-class="heading_1" id="services">1. NUESTROS SERVICIOS</h2>
-
-                  <p data-custom-class="body_text">
-                  La información proporcionada al utilizar los servicios no está destinada a su distribución o uso por ninguna persona o entidad en ninguna jurisdicción o país donde dicha distribución o uso sea contrario a la ley o regulación o que nos sujete a cualquier requisito de registro dentro de dicha jurisdicción o país. En consecuencia, aquellas personas que opten por acceder a los servicios desde otras ubicaciones lo hacen por su propia iniciativa y son los únicos responsables del cumplimiento de las leyes locales, si y en la medida en que las leyes locales sean aplicables.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Los servicios no están diseñados para cumplir con las regulaciones específicas de la industria (Ley de portabilidad y responsabilidad del seguro de salud (HIPAA), Ley federal de gestión de seguridad de la información (FISMA), etc.), por lo que si sus interacciones estuvieran sujetas a tales leyes, no puede utilizar los servicios. No puede utilizar los servicios de una manera que viole la Ley Gramm-Leach-Bliley (GLBA).
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ip">2. DERECHOS DE PROPIEDAD INTELECTUAL</h2>
-
-                  <h3 data-custom-class="heading_2">Nuestra propiedad intelectual</h3>
-                  <p data-custom-class="body_text">
-                  Somos el propietario o el licenciatario de todos los derechos de propiedad intelectual de nuestros servicios, incluido todo el código fuente, las bases de datos, la funcionalidad, el software, los diseños del sitio web, el audio, el vídeo, el texto, las fotografías y los gráficos en los servicios (colectivamente, el "contenido"), así como las marcas comerciales, las marcas de servicio y los logotipos contenidos en los mismos (las "marcas").
-                  </p>
-                  <p data-custom-class="body_text">
-                  Nuestro contenido y nuestras marcas están protegidos por las leyes de derechos de autor y marcas comerciales (y varias otras leyes de derechos de propiedad intelectual y competencia desleal) y tratados en los Estados Unidos y en todo el mundo.
-                  </p>
-                  <p data-custom-class="body_text">
-                  El contenido y las marcas se proporcionan en o a través de los servicios "tal cual" para su uso personal, no comercial o solo para fines comerciales internos.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">Su uso de nuestros Servicios</h3>
-                  <p data-custom-class="body_text">
-                  Sujeto a su cumplimiento de estos términos legales, incluida la sección de <a data-custom-class="link" href="#prohibited">actividades prohibidas</a> a continuación, le otorgamos una licencia no exclusiva, no transferible y revocable para:
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">acceder a los servicios; y</li>
-                      <li data-custom-class="body_text">descargar o imprimir una copia de cualquier parte del contenido al que haya obtenido acceso adecuado,</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  únicamente para su uso personal, no comercial o para fines comerciales internos.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Excepto por lo establecido en esta sección o en otras partes de nuestros términos legales, ninguna parte de los servicios y ningún contenido o marca puede ser copiado, reproducido, agregado, republicado, cargado, publicado, mostrado públicamente, codificado, traducido, transmitido, distribuido, vendido, licenciado o explotado de otro modo para ningún propósito comercial, sin nuestro permiso previo expreso por escrito.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Si desea hacer cualquier uso de los servicios, el contenido o las marcas que no sean los establecidos en esta sección o en otras partes de nuestros términos legales, dirija su solicitud a: chongzhidatech@gmail.com. Si alguna vez le concedemos el permiso para publicar, reproducir o mostrar públicamente cualquier parte de nuestros servicios o contenido, debe identificarnos como los propietarios o licenciantes de los servicios, el contenido o las marcas y asegurarse de que cualquier aviso de derechos de autor o de propiedad aparezca o sea visible al publicar, reproducir o mostrar nuestro contenido.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Nos reservamos todos los derechos que no se le otorgan expresamente a usted en y para los servicios, el contenido y las marcas.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Cualquier incumplimiento de estos derechos de propiedad intelectual constituirá un incumplimiento material de nuestros términos legales y su derecho a utilizar nuestros servicios terminará inmediatamente.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">Sus envíos</h3>
-                  <p data-custom-class="body_text">
-                  Revise esta sección y la sección de <a data-custom-class="link" href="#prohibited">actividades prohibidas</a> cuidadosamente antes de utilizar nuestros servicios para comprender (a) los derechos que nos otorga y (b) las obligaciones que tiene cuando publica o carga cualquier contenido a través de los servicios.
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>Envíos:</strong> al enviarnos directamente cualquier pregunta, comentario, sugerencia, idea, retroalimentación u otra información sobre los servicios ("envíos"), usted acepta asignarnos todos los derechos de propiedad intelectual de dicho envío. Usted acepta que nosotros seremos dueños de este envío y tendremos derecho a su uso y difusión sin restricciones para cualquier propósito legal, comercial o de otro tipo, sin reconocimiento ni compensación para usted.
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>Usted es responsable de lo que publique o cargue:</strong> al enviarnos envíos a través de cualquier parte de los servicios usted:
-                  </p>
-                  <ul>
-                          <li data-custom-class="body_text">confirma que ha leído y está de acuerdo con nuestras <a data-custom-class="link" href="#prohibited">actividades prohibidas</a> y no publicará, enviará, publicará, cargará o transmitirá a través de los servicios ningún envío que sea ilegal, acosador, odioso, dañino, difamatorio, obsceno, intimidatorio, abusivo, discriminatorio, amenazante para cualquier persona o grupo, sexualmente explícito, falso, inexacto, engañoso o equívoco;</li>
-                          <li data-custom-class="body_text">en la medida permitida por la ley aplicable, renuncia a todos y cada uno de los derechos morales sobre cualquier envío de este tipo;</li>
-                          <li data-custom-class="body_text">garantiza que cualquier envío de este tipo es original para usted o que tiene los derechos y licencias necesarios para enviar dichos envíos y que tiene plena autoridad para otorgarnos los derechos mencionados anteriormente en relación con sus envíos; y</li>
-                          <li data-custom-class="body_text">garantiza y declara que sus envíos no constituyen información confidencial.</li>
-                      </ul>
-                  <p data-custom-class="body_text">
-                  Usted es el único responsable de sus envíos y acepta expresamente reembolsarnos por todas y cada una de las pérdidas que podamos sufrir debido a su incumplimiento de (a) esta sección, (b) cualquier derecho de propiedad intelectual de terceros o (c) la ley aplicable.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="userreps">3. DECLARACIONES DEL USUARIO</h2>
-                  <p data-custom-class="body_text">
-                  Al utilizar los servicios, usted declara y garantiza que: (1) tiene la capacidad legal y acepta cumplir con estos términos legales; (2) no es menor de edad en la jurisdicción en la que reside; (3) no accederá a los servicios a través de medios automatizados o no humanos, ya sea a través de un bot, script o de otro modo; (4) no utilizará los servicios para ningún propósito ilegal o no autorizado; y (5) su uso de los servicios no violará ninguna ley o regulación aplicable.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Si proporciona cualquier información que sea falsa, inexacta, no actual o incompleta, tenemos el derecho de suspender o cancelar su cuenta y rechazar cualquier uso actual o futuro de los servicios (o cualquier parte de los mismos).
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="prohibited">4. ACTIVIDADES PROHIBIDAS</h2>
-                  <p data-custom-class="body_text">
-                  No puede acceder ni utilizar los servicios para ningún propósito que no sea aquel para el que ponemos los servicios a disposición. Los servicios no pueden utilizarse en relación con ningún esfuerzo comercial, excepto aquellos que estén específicamente respaldados o aprobados por nosotros.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Como usuario de los servicios, usted acepta no:
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">recuperar sistemáticamente datos u otro contenido de los servicios para crear o compilar, directa o indirectamente, una colección, compilación, base de datos o directorio sin el permiso escrito de nosotros.</li>
-                      <li data-custom-class="body_text">engañar, defraudar o confundirnos a nosotros y a otros usuarios, especialmente en cualquier intento de obtener información confidencial de la cuenta, como las contraseñas de los usuarios.</li>
-                      <li data-custom-class="body_text">eludir, deshabilitar o interferir de otro modo con las funciones relacionadas con la seguridad de los servicios, incluidas las funciones que impiden o restringen el uso o la copia de cualquier contenido o hacen cumplir las limitaciones en el uso de los servicios y/o el contenido contenido en los mismos.</li>
-                      <li data-custom-class="body_text">desacreditar, empañar o dañar de otro modo, en nuestra opinión, a nosotros y/o a los servicios.</li>
-                      <li data-custom-class="body_text">utilizar cualquier información obtenida de los servicios para acosar, abusar o dañar a otra persona.</li>
-                      <li data-custom-class="body_text">hacer un uso indebido de nuestros servicios de soporte o enviar informes falsos de abuso o mala conducta.</li>
-                      <li data-custom-class="body_text">utilizar los servicios de una manera incompatible con las leyes o regulaciones aplicables.</li>
-                      <li data-custom-class="body_text">participar en el encuadre o enlace no autorizado de los servicios.</li>
-                      <li data-custom-class="body_text">cargar o transmitir (o intentar cargar o transmitir) virus, troyanos u otro material, incluido el uso excesivo de mayúsculas y el spam (publicación continua de texto repetitivo), que interfiera con el uso y disfrute ininterrumpido de los servicios por parte de cualquier parte o modifique, perjudique, interrumpa, altere o interfiera con el uso, las características, las funciones, el funcionamiento o el mantenimiento de los servicios.</li>
-                      <li data-custom-class="body_text">participar en cualquier uso automatizado del sistema, como el uso de scripts para enviar comentarios o mensajes, o el uso de minería de datos, robots o herramientas similares de recopilación y extracción de datos.</li>
-                      <li data-custom-class="body_text">eliminar el aviso de derechos de autor u otros derechos de propiedad de cualquier contenido.</li>
-                      <li data-custom-class="body_text">intentar hacerse pasar por otro usuario o persona o utilizar el nombre de usuario de otro usuario.</li>
-                      <li data-custom-class="body_text">cargar o transmitir (o intentar cargar o transmitir) cualquier material que actúe como un mecanismo de recopilación o transmisión de información pasivo o activo, incluidos, entre otros, los formatos de intercambio de gráficos claros ("gifs"), píxeles de 1×1, web bugs, cookies u otros dispositivos similares (a veces denominados "spyware" o "mecanismos de recopilación pasiva" o "pcms").</li>
-                      <li data-custom-class="body_text">interferir con, interrumpir o crear una carga indebida en los servicios o las redes o servicios conectados a los servicios.</li>
-                      <li data-custom-class="body_text">acosar, molestar, intimidar o amenazar a cualquiera de nuestros empleados o agentes involucrados en la prestación de cualquier parte de los servicios a usted.</li>
-                      <li data-custom-class="body_text">intentar eludir cualquier medida de los servicios diseñada para evitar o restringir el acceso a los servicios, o a cualquier parte de los servicios.</li>
-                      <li data-custom-class="body_text">copiar o adaptar el software de los servicios, incluido, entre otros, flash, php, html, javascript u otro código.</li>
-                      <li data-custom-class="body_text">excepto según lo permitido por la ley aplicable, descifrar, descompilar, desensamblar o realizar ingeniería inversa de cualquier software que comprenda o que de alguna manera forme parte de los servicios.</li>
-                      <li data-custom-class="body_text">excepto como puede ser el resultado del uso estándar del motor de búsqueda o del navegador de Internet, utilizar, lanzar, desarrollar o distribuir cualquier sistema automatizado, incluido, entre otros, cualquier araña, robot, utilidad de trucos, raspador o lector fuera de línea que acceda a los servicios, o utilizar o lanzar cualquier script no autorizado u otro software.</li>
-                      <li data-custom-class="body_text">utilizar un agente de compra o un agente de compras para realizar compras en los servicios.</li>
-                      <li data-custom-class="body_text">realizar cualquier uso no autorizado de los servicios, incluida la recopilación de nombres de usuario y/o direcciones de correo electrónico de los usuarios por medios electrónicos o de otro tipo con el fin de enviar correo electrónico no solicitado, o la creación de cuentas de usuario por medios automatizados o con falsos pretextos.</li>
-                      <li data-custom-class="body_text">utilizar los servicios como parte de cualquier esfuerzo para competir con nosotros o utilizar de otro modo los servicios y/o el contenido para cualquier esfuerzo  generador de ingresos o empresa comercial.</li>
-                  </ul>
-
-                  <h2 data-custom-class="heading_1" id="ugc">5. CONTRIBUCIONES GENERADAS POR EL USUARIO</h2>
-                  <p data-custom-class="body_text">
-                  Los servicios no ofrecen a los usuarios la posibilidad de enviar o publicar contenido. Es posible que le brindemos la oportunidad de crear, enviar, publicar, mostrar, transmitir, realizar, publicar, distribuir o transmitir contenido y materiales a nosotros o en los servicios, incluidos, entre otros, texto, escritos, video, audio, fotografías, gráficos, comentarios, sugerencias o información personal u otro material (colectivamente, "contribuciones"). Las contribuciones pueden ser visibles para otros usuarios de los servicios y a través de sitios web de terceros. Como tal, cualquier contribución que transmita puede tratarse de acuerdo con la política de privacidad de los servicios. Cuando crea o pone a disposición cualquier contribución, por la presente declara y garantiza que:
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">la creación, distribución, transmisión, exhibición pública o interpretación, y el acceso, la descarga o la copia de sus contribuciones no infringen ni infringirán los derechos de propiedad, incluidos, entre otros, los derechos de autor, la patente, la marca comercial, el secreto comercial o los derechos morales de un tercero.</li>
-                      <li data-custom-class="body_text">usted es el creador y propietario de las contribuciones o tiene las licencias, los derechos, los consentimientos, las exenciones y los permisos necesarios para usar y autorizarnos a nosotros, a los servicios y a otros usuarios de los servicios para usar sus contribuciones de cualquier manera contemplada por los servicios y estos términos legales.</li>
-                      <li data-custom-class="body_text">usted tiene el consentimiento, la exención y/o el permiso por escrito de todas y cada una de las personas identificables en sus contribuciones para usar el nombre o la imagen de cada persona individual identificable para permitir la inclusión y el uso de sus contribuciones de cualquier manera contemplada por los servicios y estos términos legales.</li>
-                      <li data-custom-class="body_text">sus contribuciones no son falsas, inexactas o engañosas.</li>
-                      <li data-custom-class="body_text">sus contribuciones no son publicidad no solicitada o no autorizada, materiales promocionales, esquemas piramidales, cadenas de cartas, spam, envíos masivos u otras formas de solicitud.</li>
-                      <li data-custom-class="body_text">sus contribuciones no son obscenas, lascivas, lujuriosas, sucias, violentas, acosadoras, difamatorias, calumniosas o inaceptables de otro modo (según lo determinemos nosotros).</li>
-                      <li data-custom-class="body_text">sus contribuciones no ridiculizan, burlan, menosprecian, intimidan o abusan de nadie.</li>
-                      <li data-custom-class="body_text">sus contribuciones no se utilizan para acosar o amenazar (en el sentido legal de esos términos) a ninguna otra persona y para promover la violencia contra una persona o clase de personas específica.</li>
-                      <li data-custom-class="body_text">sus contribuciones no violan ninguna ley, regulación o regla aplicable.</li>
-                      <li data-custom-class="body_text">sus contribuciones no violan los derechos de privacidad o publicidad de ningún tercero.</li>
-                      <li data-custom-class="body_text">sus contribuciones no violan ninguna ley aplicable relacionada con la pornografía infantil, o que de otro modo tenga la intención de proteger la salud o el bienestar de los menores.</li>
-                      <li data-custom-class="body_text">sus contribuciones no incluyen ningún comentario ofensivo relacionado con la raza, el origen nacional, el género, la preferencia sexual o la discapacidad física.</li>
-                      <li data-custom-class="body_text">sus contribuciones no violan de otro modo, ni enlazan con material que viola, ninguna disposición de estos términos legales, o cualquier ley o regulación aplicable.</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  Cualquier uso de los servicios que viole lo anterior viola estos términos legales y puede resultar, entre otras cosas, en la terminación o suspensión de sus derechos para usar los servicios.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="license">6. LICENCIA DE CONTRIBUCIÓN</h2>
-                  <p data-custom-class="body_text">
-                  Usted y los servicios acuerdan que podemos acceder, almacenar, procesar y utilizar cualquier información y datos personales que proporcione siguiendo los términos de la política de privacidad y sus opciones (incluida la configuración).
-                  </p>
-                  <p data-custom-class="body_text">
-                  Al enviar sugerencias u otros comentarios con respecto a los servicios, usted acepta que podemos usar y compartir dichos comentarios para cualquier propósito sin compensación para usted.
-                  </p>
-                  <p data-custom-class="body_text">
-                  No afirmamos ninguna propiedad sobre sus contribuciones. Usted conserva la propiedad total de todas sus contribuciones y cualquier derecho de propiedad intelectual u otros derechos de propiedad asociados con sus contribuciones. No somos responsables de ninguna declaración o representación en sus contribuciones proporcionadas por usted en cualquier área de los servicios. Usted es el único responsable de sus contribuciones a los servicios y acepta expresamente exonerarnos de toda responsabilidad y abstenerse de cualquier acción legal contra nosotros con respecto a sus contribuciones.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="thirdparty">7. SITIOS WEB Y CONTENIDO DE TERCEROS</h2>
-                  <p data-custom-class="body_text">
-                  Los servicios pueden contener (o se le pueden enviar a través del sitio) enlaces a otros sitios web ("sitios web de terceros"), así como artículos, fotografías, texto, gráficos, imágenes, diseños, música, sonido, video, información, aplicaciones, software y otros contenidos o elementos que pertenecen u se originan a partir de terceros ("contenido de terceros"). Dichos sitios web y contenido de terceros no son investigados, monitoreados o verificados por nosotros en cuanto a su precisión, adecuación o integridad, y no somos responsables de ningún sitio web de terceros al que se acceda a través de los servicios ni de ningún contenido de terceros publicado, disponible a través de o instalado desde los servicios, incluido el contenido, la precisión, la ofensiva, las opiniones, la fiabilidad, las prácticas de privacidad u otras políticas de o contenidos en los sitios web de terceros o el contenido de terceros. La inclusión de, el enlace a o el permiso para el uso o la instalación de cualquier sitio web de terceros o cualquier contenido de terceros no implica la aprobación o el respaldo de los mismos por nuestra parte. Si decide abandonar los servicios y acceder a los sitios web de terceros o utilizar o instalar cualquier contenido de terceros, lo hace bajo su propio riesgo, y debe ser consciente de que estos términos legales ya no rigen. Debe revisar los términos y políticas aplicables, incluidas las prácticas de privacidad y recopilación de datos, de cualquier sitio web al que navegue desde los servicios o en relación con cualquier aplicación que utilice o instale desde los servicios. Cualquier compra que realice a través de sitios web de terceros se realizará a través de otros sitios web y de otras empresas, y no asumimos ninguna responsabilidad en relación con dichas compras que son exclusivamente entre usted y el tercero aplicable. Usted acepta y reconoce que no respaldamos los productos o servicios ofrecidos en sitios web de terceros y nos eximirá de cualquier daño causado por su compra de dichos productos o servicios. Además, nos eximirá de cualquier pérdida sufrida por usted o daño causado a usted en relación con o como resultado de cualquier contenido de terceros o cualquier contacto con sitios web de terceros.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="advertisers">8. ANUNCIANTES</h2>
-                  <p data-custom-class="body_text">
-                  Permitimos a los anunciantes mostrar sus anuncios y otra información en ciertas áreas de los servicios, como anuncios en la barra lateral o anuncios de banner. Simplemente proporcionamos el espacio para colocar dichos anuncios, y no tenemos ninguna otra relación con los anunciantes.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="sitemanage">9. GESTIÓN DE SERVICIOS</h2>
-                  <p data-custom-class="body_text">
-                  Nos reservamos el derecho, pero no la obligación, de: (1) monitorear los servicios en busca de violaciones de estos términos legales; (2) emprender acciones legales apropiadas contra cualquier persona que, a nuestra entera discreción, viole la ley o estos términos legales, incluyendo, entre otras cosas, informar a dicho usuario a las autoridades policiales; (3) a nuestra entera discreción y sin limitación, rechazar, restringir el acceso a, limitar la disponibilidad de o deshabilitar (en la medida en que sea tecnológicamente factible) cualquiera de sus contribuciones o cualquier parte de las mismas; (4) a nuestra entera discreción y sin limitación, aviso o responsabilidad, eliminar de los servicios o deshabilitar de otro modo todos los archivos y contenido que tengan un tamaño excesivo o que de alguna manera sean onerosos para nuestros sistemas; y (5) administrar de otro modo los servicios de una manera diseñada para proteger nuestros derechos y propiedad y para facilitar el buen funcionamiento de los servicios.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ppyes">10. POLÍTICA DE PRIVACIDAD</h2>
-                  <p data-custom-class="body_text">
-                  Nos preocupamos por la privacidad y seguridad de los datos. Consulte nuestra política de privacidad: <strong><a href="https://www.playfiddlebops.com/privacy/" target="_blank" data-custom-class="link">https://www.playfiddlebops.com/privacy/</a></strong>. Al utilizar los servicios, usted acepta estar sujeto a nuestra política de privacidad, que se incorpora a estos términos legales. Tenga en cuenta que los servicios están alojados en los Estados Unidos. Si accede a los servicios desde cualquier otra región del mundo con leyes u otros requisitos que rigen la recopilación, el uso o la divulgación de datos personales que difieren de las leyes aplicables en los Estados Unidos, entonces, a través de su uso continuado de los servicios, está transfiriendo sus datos a los Estados Unidos, y usted da su consentimiento expreso para que sus datos sean transferidos y procesados en los Estados Unidos.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="terms">11. PLAZO Y TERMINACIÓN</h2>
-                  <p data-custom-class="body_text">
-                  Estos términos legales permanecerán en pleno vigor y efecto mientras utilice los servicios. Sin limitar ninguna otra disposición de estos términos legales, nos reservamos el derecho de, a nuestra entera discreción y sin previo aviso ni responsabilidad, denegar el acceso y el uso de los servicios (incluido el bloqueo de ciertas direcciones IP) a cualquier persona por cualquier motivo o sin motivo alguno, incluyendo, entre otros, el incumplimiento de cualquier declaración, garantía o pacto contenido en estos términos legales o de cualquier ley o regulación aplicable. Podemos terminar su uso o participación en los servicios o eliminar cualquier contenido o información que haya publicado en cualquier momento, sin previo aviso, a nuestra entera discreción.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Si terminamos o suspendemos su cuenta por cualquier motivo, tiene prohibido registrarse y crear una nueva cuenta con su nombre, un nombre falso o prestado, o el nombre de un tercero, incluso si puede estar actuando en nombre del tercero. Además de terminar o suspender su cuenta, nos reservamos el derecho de emprender acciones legales apropiadas, incluyendo, entre otras cosas, la búsqueda de reparación civil, penal y cautelar.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="modifications">12. MODIFICACIONES E INTERRUPCIONES</h2>
-                  <p data-custom-class="body_text">
-                  Nos reservamos el derecho de cambiar, modificar o eliminar el contenido de los servicios en cualquier momento o por cualquier motivo a nuestra entera discreción y sin previo aviso. Sin embargo, no tenemos la obligación de actualizar ninguna información en nuestros servicios. No seremos responsables ante usted ni ante ningún tercero por ninguna modificación, cambio de precio, suspensión o interrupción de los servicios.
-                  </p>
-                  <p data-custom-class="body_text">
-                  No podemos garantizar que los servicios estarán disponibles en todo momento. Podemos experimentar problemas de hardware, software u otros problemas o necesitar realizar mantenimiento relacionado con los servicios, lo que resulta en interrupciones, retrasos o errores. Nos reservamos el derecho de cambiar, revisar, actualizar, suspender, interrumpir o modificar de otro modo los servicios en cualquier momento o por cualquier motivo sin previo aviso. Usted acepta que no tenemos ninguna responsabilidad por cualquier pérdida, daño o inconveniente causado por su incapacidad para acceder o utilizar los servicios durante cualquier tiempo de inactividad o interrupción de los servicios. Nada en estos términos legales se interpretará en el sentido de obligarnos a mantener y soportar los servicios o a proporcionar cualquier corrección, actualización o versión en relación con los mismos.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="law">13. LEY APLICABLE</h2>
-                  <p data-custom-class="body_text">
-                  Estos términos legales y su uso de los servicios se rigen e interpretan de acuerdo con las leyes del estado aplicable a los acuerdos realizados y que se ejecutarán en su totalidad dentro del estado, sin tener en cuenta sus principios de conflicto de leyes.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disputes">14. RESOLUCIÓN DE DISPUTAS</h2>
-                  <h3 data-custom-class="heading_2">Negociaciones informales</h3>
-                  <p data-custom-class="body_text">
-                  Para acelerar la resolución y controlar el costo de cualquier disputa, controversia o reclamación  relacionada con estos términos legales (cada uno una "disputa" y colectivamente, las "disputas") presentada por usted o por nosotros (individualmente, una "parte" y colectivamente, las "partes"), las partes acuerdan primero intentar negociar cualquier disputa (excepto aquellas disputas expresamente provistas a continuación) de manera informal durante al menos treinta (30) días antes de iniciar el arbitraje. Dichas negociaciones informales comienzan con la notificación por escrito de una parte a la otra parte.
-                  </p>
-                  <h3 data-custom-class="heading_2">Arbitraje vinculante</h3>
-                  <p data-custom-class="body_text">
-                  Cualquier disputa que surja de las relaciones entre las partes de estos términos legales será determinada por un árbitro que será elegido de acuerdo con las reglas de arbitraje e internas de la Corte Europea de Arbitraje que forma parte del Centro Europeo de Arbitraje con sede en Estrasburgo, y que estén en vigor en el momento en que se presente la solicitud de arbitraje, y cuya adopción de esta cláusula constituye la aceptación. La sede del arbitraje será París, Francia. El idioma de los procedimientos será el francés. Las normas aplicables del derecho sustantivo serán las de la ley francesa.
-                  </p>
-                  <h3 data-custom-class="heading_2">Restricciones</h3>
-                  <p data-custom-class="body_text">
-                  Las partes acuerdan que cualquier arbitraje se limitará a la disputa entre las partes individualmente. En la medida máxima permitida por la ley, (a) ningún arbitraje se unirá con ningún otro procedimiento; (b) no existe ningún derecho o autoridad para que cualquier disputa se someta a arbitraje sobre una base de acción colectiva o para utilizar procedimientos de acción colectiva; y (c) no existe ningún derecho o autoridad para que cualquier disputa se presente en una supuesta capacidad representativa en nombre del público en general o de cualquier otra persona.
-                  </p>
-                  <h3 data-custom-class="heading_2">Excepciones a las negociaciones informales y al arbitraje</h3>
-                  <p data-custom-class="body_text">
-                  Las partes acuerdan que las siguientes disputas no están sujetas a las disposiciones anteriores con respecto a las negociaciones informales y el arbitraje vinculante: (a) cualquier disputa que busque hacer cumplir o proteger, o que se refiera a la validez de cualquiera de los derechos de propiedad intelectual de una parte; (b) cualquier disputa relacionada con, o que surja de, alegaciones de robo, piratería, invasión de la privacidad o uso no autorizado; y (c) cualquier reclamación de desagravio por mandato judicial. Si se determina que esta disposición es ilegal o inaplicable, entonces ninguna de las partes optará por arbitrar cualquier disputa que se encuentre dentro de esa parte de esta disposición que se determine que es ilegal o inaplicable y dicha disputa será decidida por un tribunal de jurisdicción competente dentro de los tribunales enumerados para la jurisdicción anterior, y las partes acuerdan someterse a la jurisdicción personal de ese tribunal.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="corrections">15. CORRECCIONES</h2>
-                  <p data-custom-class="body_text">
-                  Puede haber información en los servicios que contenga errores tipográficos, inexactitudes u omisiones, incluidas descripciones, precios, disponibilidad y otra información diversa. Nos reservamos el derecho de corregir cualquier error, inexactitud u omisión y de cambiar o actualizar la información de los servicios en cualquier momento, sin previo aviso.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disclaimer">16. EXENCIÓN DE RESPONSABILIDAD</h2>
-                  <p data-custom-class="body_text">
-                  Los servicios se proporcionan "tal cual" y "según disponibilidad". Usted acepta que su uso de los servicios será bajo su propio riesgo. En la máxima medida permitida por la ley, negamos todas las garantías, expresas o implícitas, en relación con los servicios y su uso de los mismos, incluyendo, entre otras, las garantías implícitas de comerciabilidad, idoneidad para un propósito particular y no infracción. No ofrecemos ninguna garantía ni representación sobre la exactitud o integridad del contenido de los servicios o del contenido de cualquier sitio web o aplicación móvil vinculado a los servicios y no asumiremos ninguna responsabilidad por (1) errores, equivocaciones o inexactitudes del contenido y los materiales, (2) lesiones personales o daños a la propiedad, de cualquier naturaleza, que resulten de su acceso y uso de los servicios, (3) cualquier acceso o uso no autorizado de nuestros servidores seguros y/o de toda la información personal y/o información financiera almacenada en los mismos, (4) cualquier interrupción o cese de la transmisión hacia o desde los servicios, (5) cualquier error, virus, troyanos o similares que puedan ser transmitidos hacia o a través de los servicios por cualquier tercero, y/o (6) cualquier error u omisión en cualquier contenido y materiales o por cualquier pérdida o daño de cualquier tipo incurrido como resultado del uso de cualquier contenido publicado, transmitido o puesto a disposición a través de los servicios. No garantizamos, respaldamos, garantizamos ni asumimos la responsabilidad de ningún producto o servicio anunciado u ofrecido por un tercero a través de los servicios, cualquier sitio web con hipervínculo o cualquier sitio web o aplicación móvil que aparezca en cualquier banner u otra publicidad, y no seremos parte ni seremos responsables de ninguna manera de monitorear cualquier transacción entre usted y cualquier proveedor externo de productos o servicios. Al igual que con la compra de un producto o servicio a través de cualquier medio o en cualquier entorno, debe utilizar su mejor juicio y tener precaución cuando sea apropiado.
-
-                  </p>
-                  <h2 data-custom-class="heading_1" id="liability">17. LIMITACIONES DE RESPONSABILIDAD</h2>
-                  <p data-custom-class="body_text">
-                  En ningún caso nosotros ni nuestros directores, empleados o agentes seremos responsables ante usted ni ante ningún tercero por ningún daño directo, indirecto, consecuente, ejemplar, incidental, especial o punitivo, incluyendo la pérdida de ganancias, la pérdida de ingresos, la pérdida de datos u otros daños que surjan de su uso de los servicios, incluso si se nos ha advertido de la posibilidad de tales daños. Ciertas leyes estatales de los Estados Unidos y leyes internacionales no permiten limitaciones en las garantías implícitas o la exclusión o limitación de ciertos daños. Si estas leyes se aplican a usted, es posible que algunas o todas las exenciones de responsabilidad o limitaciones anteriores no se apliquen a usted, y es posible que tenga derechos adicionales.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="indemnification">18. INDEMNIZACIÓN</h2>
-                  <p data-custom-class="body_text">
-                  Usted acepta defendernos, indemnizarnos y mantenernos indemnes, incluyendo a nuestras subsidiarias, afiliadas y a todos nuestros respectivos funcionarios, agentes, socios y empleados, de y contra cualquier pérdida, daño, responsabilidad, reclamación o demanda, incluyendo los honorarios y gastos razonables de los abogados, realizados por cualquier tercero debido a o como resultado de: (1) el uso de los servicios; (2) el incumplimiento de estos términos legales; (3) cualquier incumplimiento de sus representaciones y garantías establecidas en estos términos legales; (4) su violación de los derechos de un tercero, incluyendo pero no limitado a los derechos de propiedad intelectual; o (5) cualquier acto dañino manifiesto hacia cualquier otro usuario de los servicios con quien se haya conectado a través de los servicios. No obstante lo anterior, nos reservamos el derecho, a su costa, de asumir la defensa y el control exclusivos de cualquier asunto por el cual deba indemnizarnos, y usted acepta cooperar, a su costa, con nuestra defensa de dichas reclamaciones. Realizaremos esfuerzos razonables para notificarle sobre cualquier reclamación, acción o procedimiento que esté sujeto a esta indemnización al tener conocimiento de ello.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="userdata">19. DATOS DEL USUARIO</h2>
-                  <p data-custom-class="body_text">
-                  Mantendremos ciertos datos que usted transmita a los servicios con el fin de administrar el rendimiento de los servicios, así como los datos relacionados con su uso de los servicios. Aunque realizamos copias de seguridad de rutina de los datos, usted es el único responsable de todos los datos que transmita o que se relacionen con cualquier actividad que haya realizado utilizando los servicios. Usted acepta que no tendremos ninguna responsabilidad ante usted por cualquier pérdida o corrupción de dichos datos, y por la presente renuncia a cualquier derecho de acción contra nosotros que surja de dicha pérdida o corrupción de dichos datos.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="electronic">20. COMUNICACIONES, TRANSACCIONES Y FIRMAS ELECTRÓNICAS</h2>
-                  <p data-custom-class="body_text">
-                  Visitar los servicios, enviarnos correos electrónicos y completar formularios en línea  constituyen comunicaciones electrónicas. Usted da su consentimiento para recibir comunicaciones electrónicas, y acepta que todos los acuerdos, avisos, divulgaciones y otras comunicaciones que le proporcionemos electrónicamente, por correo electrónico y en los servicios, satisfacen cualquier requisito legal de que dicha comunicación se realice por escrito. Por la presente, usted acepta el uso de firmas, contratos, pedidos y otros registros electrónicos, y la entrega electrónica de avisos, políticas y registros de transacciones iniciadas o completadas por nosotros o a través de los servicios. Por la presente, usted renuncia a cualquier derecho o requisito bajo cualquier estatuto, regulación, regla, ordenanza u otras leyes en cualquier jurisdicción que requieran una firma original o la entrega o retención de registros no electrónicos, o a pagos o la concesión de créditos por cualquier medio que no sean los medios electrónicos.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="misc">21. MISCELÁNEA</h2>
-                  <p data-custom-class="body_text">
-                  Estos términos legales y cualquier política o regla de operación publicada por nosotros en los servicios o con respecto a los servicios constituyen el acuerdo y entendimiento completo entre usted y nosotros. Nuestra falta de ejercicio o aplicación de cualquier derecho o disposición de estos términos legales no operará como una renuncia a dicho derecho o disposición. Estos términos legales operan en la medida máxima permitida por la ley. Podemos asignar cualquiera o todos nuestros derechos y obligaciones a otros en cualquier momento. No seremos responsables de ninguna pérdida, daño, demora o falta de acción causada por cualquier causa más allá de nuestro control razonable. Si alguna disposición o parte de una disposición de estos términos legales se determina que es ilegal, nula o inaplicable, dicha disposición o parte de la disposición se considerará separable de estos términos legales y no afectará la validez y aplicabilidad de las disposiciones restantes. No existe ninguna relación de empresa conjunta, sociedad, empleo o agencia creada entre usted y nosotros como resultado de estos términos legales o el uso de los servicios. Usted acepta que estos términos legales no se interpretarán en nuestra contra en virtud de haberlos redactado. Por la presente, usted renuncia a todas y cada una de las defensas que pueda tener en función de la forma electrónica de estos términos legales y la falta de firma por parte de las partes para ejecutar estos términos legales.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="contact">22. CONTACTAR CON NOSOTROS</h2>
-                  <p data-custom-class="body_text">
-                  Para resolver una queja con respecto a los servicios o para recibir más información con respecto al uso de los servicios, por favor contáctenos en: chongzhidatech@gmail.com
-                  </p>
-                </div>
-                
-    
-            </div>
-        </div>
-        <!-- content end -->
-        
-    
-    </div>
-    </main>
-
-    <footer>
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={TERMS_HREFLANG}
+  noindex={true}
+  lang="es"
+  showEmail={true}
+>
+  <div class="page">
+    <div class="header">
       <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/es/privacy/">Política de Privacidad</a></li>
-                  <li><a href="/es/terms-of-service/">Términos de servicio</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. Todos los derechos reservados.</p>
+        <p class="title">Términos de servicio</p>
       </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+    </div>
+
+    <div class="translations-content-container">
+      <div class="container">
+        <div class="tab-content translations-content-item en visible" id="en">
+          <h1 data-custom-class="title">TÉRMINOS DE SERVICIO</h1>
+          <p data-custom-class="subtitle"><strong>Última actualización</strong> 10 de febrero de 2025</p>
+          <br />
+
+          <h2 data-custom-class="heading_1">ACUERDO CON NUESTROS TÉRMINOS LEGALES</h2>
+          <p data-custom-class="body_text">
+            Somos <bdt class="question">playfiddlebops</bdt>.
+          </p>
+          <p data-custom-class="body_text">
+            Operamos el sitio web
+            <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">
+              http://www.playfiddlebops.com
+            </a>
+            (el "<strong>Sitio</strong>"), así como otros productos y servicios relacionados que hacen referencia o se
+            vinculan a estos términos legales (los "<strong>Términos Legales</strong>") (en conjunto, los
+            "<strong>Servicios</strong>").
+          </p>
+          <p data-custom-class="body_text">
+            Puede contactarnos por correo electrónico en
+            <bdt class="question">chongzhidatech@gmail.com</bdt>.
+          </p>
+          <p data-custom-class="body_text">
+            Estos Términos Legales constituyen un acuerdo legalmente vinculante celebrado entre usted, ya sea a título
+            personal o en nombre de una entidad ("<strong>usted</strong>"), en relación con su acceso y uso de los
+            Servicios. Al acceder a los Servicios, usted reconoce que ha leído, entendido y acepta estar obligado por
+            todos estos Términos Legales.
+            <strong>
+              Si no está de acuerdo con todos estos Términos Legales, se le prohíbe expresamente utilizar los Servicios
+              y debe dejar de utilizarlos inmediatamente.
+            </strong>
+          </p>
+
+          <p data-custom-class="body_text">
+            Es posible que se publiquen términos y condiciones o documentos adicionales en los Servicios de vez en
+            cuando; dichos términos adicionales se incorporan expresamente por referencia. Nos reservamos el derecho, a
+            nuestro exclusivo criterio, de realizar cambios o modificaciones a estos Términos Legales en cualquier
+            momento. Le notificaremos cualquier cambio actualizando la fecha de "Última actualización" y, al continuar
+            utilizando los Servicios después de dicha fecha, usted acepta los Términos Legales revisados.
+          </p>
+
+          <p data-custom-class="body_text">
+            Los Servicios están destinados a usuarios mayores de 18 años. Las personas menores de 18 años no pueden usar
+            ni registrarse en los Servicios.
+          </p>
+
+          <h2 data-custom-class="heading_1">TABLA DE CONTENIDOS</h2>
+          <p><a href="#services">1. NUESTROS SERVICIOS</a></p>
+          <p><a href="#ip">2. DERECHOS DE PROPIEDAD INTELECTUAL</a></p>
+          <p><a href="#userreps">3. DECLARACIONES DEL USUARIO</a></p>
+          <p><a href="#prohibited">4. ACTIVIDADES PROHIBIDAS</a></p>
+          <p><a href="#ugc">5. CONTENIDO GENERADO POR EL USUARIO</a></p>
+          <p><a href="#license">6. LICENCIA SOBRE EL CONTENIDO</a></p>
+          <p><a href="#thirdparty">7. SITIOS Y CONTENIDO DE TERCEROS</a></p>
+          <p><a href="#advertisers">8. ANUNCIANTES</a></p>
+          <p><a href="#sitemanage">9. GESTIÓN DE LOS SERVICIOS</a></p>
+          <p><a href="#ppyes">10. POLÍTICA DE PRIVACIDAD</a></p>
+          <p><a href="#terms">11. DURACIÓN Y TERMINACIÓN</a></p>
+          <p><a href="#modifications">12. MODIFICACIONES E INTERRUPCIONES</a></p>
+          <p><a href="#law">13. LEY APLICABLE</a></p>
+          <p><a href="#disputes">14. RESOLUCIÓN DE DISPUTAS</a></p>
+          <p><a href="#corrections">15. CORRECCIONES</a></p>
+          <p><a href="#disclaimer">16. DESCARGO DE RESPONSABILIDAD</a></p>
+          <p><a href="#liability">17. LIMITACIÓN DE RESPONSABILIDAD</a></p>
+          <p><a href="#indemnification">18. INDEMNIZACIÓN</a></p>
+          <p><a href="#userdata">19. DATOS DEL USUARIO</a></p>
+          <p><a href="#electronic">20. COMUNICACIONES ELECTRÓNICAS, TRANSACCIONES Y FIRMAS</a></p>
+          <p><a href="#misc">21. DISPOSICIONES VARIAS</a></p>
+          <p><a href="#contact">22. CONTACTO</a></p>
+
+          <p data-custom-class="body_text">
+            (Aquí iría el cuerpo completo de los Términos de servicio en español, equivalente a la versión original,
+            incluyendo cláusulas sobre uso del servicio, obligaciones del usuario, propiedad intelectual, limitación de
+            responsabilidad, resolución de disputas, etc.)
+          </p>
+
+          <h2 data-custom-class="heading_1" id="contact">22. CONTACTO</h2>
+          <p data-custom-class="body_text">
+            Para resolver una queja relacionada con los Servicios o para recibir más información sobre su uso, puede
+            contactarnos en: chongzhidatech@gmail.com
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+

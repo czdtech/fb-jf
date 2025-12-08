@@ -1,7 +1,7 @@
 ---
 # Frontmatter: 遵循上面 config.ts 中定义的 schema
 title: "Bubble Trouble"
-description: ""
+description: "Pop bouncing bubbles with your harpoon in this fast-paced arcade action game. Split large bubbles into smaller ones while avoiding contact. Master power-ups and clear all bubbles before time runs out!"
 iframeSrc: "https://app-96647.games.s3.yandex.net/96647/w4h0ydt7quklspc0jxwg9kauaiii2lnx/index.html"
 thumbnail: "/new-images/bubble-trouble.jpg"
 urlstr: "bubble-trouble"

@@ -1,0 +1,65 @@
+---
+locale: ja
+urlstr: reversi-mania
+title: '[JA TRANSLATION NEEDED] Reversi Mania'
+description: >-
+  [JA TRANSLATION NEEDED] Reversi Mania brings classic Othello to your browser —
+  outflank discs, seize corners, and win with smart endgame parity.
+iframeSrc: 'https://reversimania.h5games.usercontent.goog/v/7rhqf6sl8lpf0/'
+thumbnail: /new-images/reversi-mania.png
+tags:
+  - 2 player
+  - thinky
+  - puzzle
+score: 4.4/5  (2231 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+### Detailed Game Introduction
+
+[JA TRANSLATION NEEDED] Reversi Mania is a faithful, fast‑to‑learn implementation of Reversi (also known as Othello). Players take turns placing discs on an 8×8 board to outflank the opponent’s discs in straight lines (horizontal, vertical, or diagonal). Any outflanked discs flip to your color. If a player has no legal move that flips at least one disc, they must pass; the game ends when neither side can move (usually when the board is full). The side with more discs wins.
+
+### Gameplay Strategy & Walkthrough
+
+[JA TRANSLATION NEEDED] 1.  Corners first: Corner discs can never be flipped; securing corners often decides the game.
+[JA TRANSLATION NEEDED] 2.  Avoid “X‑squares” early: The diagonally adjacent squares to corners (X‑squares) often give your opponent an easy corner capture.
+[JA TRANSLATION NEEDED] 3.  Edge stability: Edges are powerful once stabilized; build safely from corners before expanding along the edge.
+[JA TRANSLATION NEEDED] 4.  Mobility over material (early): Keep your options open and deny moves to your opponent; too many early flips can backfire.
+[JA TRANSLATION NEEDED] 5.  Parity (endgame): Aim to move last in the final regions; controlling whether a region has odd/even empties can secure the final swing.
+
+### Controls Guide
+
+- Place a disc: Click or tap a legal square (most implementations highlight valid moves). A legal move must flip at least one opposing disc.
+- Passing: If no legal move exists, the game auto‑passes or prompts you to pass.
+- Modes: Single‑player (vs. AI) or local 2‑player are commonly available.
+
+### Frequently Asked Questions (FAQ)
+
+- What makes a move legal? It must outflank one or more opponent discs in a straight line; all outflanked discs flip.
+- What if neither side can move? The game ends and the side with more discs on the board wins.
+
+### コントロールガイド
+- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
+- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
+
+
+
+
+
+
+
+
+- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
+- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
+- What if neither side can move? The game ends and the side with more discs on the board wins.
+- What makes a move legal? It must outflank one or more opponent discs in a straight line; all outflanked discs flip.
+### よくある質問（FAQ）
+- Modes: Single‑player (vs. AI) or local 2‑player are commonly available.
+
+
+
+
+- Any quick tip for beginners? Don’t over‑flip early; fight for mobility and avoid X‑squares until you can secure corners.
+- Is going first stronger? Initiative helps, but strong play revolves around corners, mobility, and endgame parity.
+- What if neither side can move? The game ends and the side with more discs on the board wins.

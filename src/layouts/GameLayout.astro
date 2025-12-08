@@ -19,8 +19,10 @@ import Header from '../components/Header.astro';
 import PopularGames from '../components/PopularGames.astro';
 import NewGames from '../components/NewGames.astro';
 import TrendingGames from '../components/TrendingGames.astro';
+import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
 
 interface Props {
+  // Game meta
   title: string;
   description: string;
   canonicalUrl: string;
@@ -30,6 +32,11 @@ interface Props {
   tags?: string[];
   lang?: string;
   hasFullscreen?: boolean;
+  hreflangLinks?: Array<{ lang: string; url: string }>;
+  ogUrl?: string;
+  twitterSiteUrl?: string;
+  /** Legacy slug used in URLs, e.g. "grow-a-garden" */
+  slug?: string;
 }
 
 const { 
@@ -41,8 +48,15 @@ const {
   score,
   tags,
   lang = 'en',
-  hasFullscreen = true
+  hasFullscreen = true,
+  hreflangLinks = [],
+  slug,
+  ogUrl,
+  twitterSiteUrl
 } = Astro.props;
+
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
 
 // Use the title as-is from content (already includes "Play X Online" format)
 const pageTitle = title;
@@ -60,6 +74,19 @@ const jsonLd = {
   "url": canonicalUrl,
   "description": description
 };
+
+const LANGUAGE_PREFIXES: Record<string, string> = {
+  'en': '',
+  'zh-CN': '/zh',
+  'es': '/es',
+  'fr': '/fr',
+  'de': '/de',
+  'ja': '/ja',
+  'ko': '/ko'
+};
+
+const prefix = LANGUAGE_PREFIXES[lang] ?? '';
+const homeHref = prefix === '' ? '/' : `${prefix}/`;
 ---
 
 <!DOCTYPE html>
@@ -72,13 +99,16 @@ const jsonLd = {
       canonicalUrl={canonicalUrl}
       keywords={keywords}
       ogImage={thumbnail}
+      ogUrl={ogUrl}
+      twitterSiteUrl={twitterSiteUrl}
+      hreflangLinks={hreflangLinks}
       jsonLd={jsonLd}
     />
     <link rel="stylesheet" href="/styles/components.css">
     <Analytics />
 </head>
 <body>
-<Header/>
+<Header lang={lang}/>
 
     <main>
         <section class="hero">
@@ -86,7 +116,7 @@ const jsonLd = {
                 <div class="game-card">
                     <div class="game-info" id="paly">
                     </div>
-<PopularGames />
+<PopularGames lang={lang} />
                    <div class="game-iframe-sprunki" style={`--bg-image: url(${thumbnail})`} >
                     {hasFullscreen && (
                       <button id="fullscreen-btn" title="Toggle Fullscreen">
@@ -94,19 +124,19 @@ const jsonLd = {
                       </button>
                     )}
                     <iframe id="fiddlebops-iframe" src="" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
-                        <button id="playButton">Play</button>
+                        <button id="playButton">{t('game.play', 'Play')}</button>
                     </div>
-<NewGames />
+<NewGames lang={lang} />
                 </div>
             </div>
         </section>
-<TrendingGames />
+<TrendingGames lang={lang} />
           <section class="about" id="about">
             <div class="container">
-              <h2>About {title} </h2>
+              <h2>{t('game.about', 'About')} {title} </h2>
               <div class="about-content">
-                  <p><a href="/" style="float:left;">home</a> > {title}</p>
-                  <div class="stars"><svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #ffd223; --hoverColor: #ffd223; fill: #ffd223; " class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg> <svg width="16" viewBox="0 -960 960 960" height="16" xmlns="http://www.w3.org/2000/svg" style="--backgroundColor: #9E9E9E;--hoverColor: #9E9E9E;fill: #9E9E9E;" class="svelte-bpq1qa"><path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path></svg>   {score}</div>
+                  <p><a href={homeHref}>{t('common.home', 'home')}</a> > {title}</p>
+                  <StarRating rating={4} maxStars={5} score={score} size={16} />
 
 <slot />
                  </div>
@@ -116,8 +146,8 @@ const jsonLd = {
 
     </main>
 
-    <Footer />
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+    <Footer lang={lang} />
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60">
 
 <a class="a2a_button_x"></a>
 <a class="a2a_button_reddit"></a>
@@ -132,7 +162,7 @@ const jsonLd = {
 <div id="game-config" 
      data-iframe-src={iframeSrc} 
      data-has-fullscreen={hasFullscreen.toString()}
-     style="display: none;">
+     data-game-slug={slug}>
 </div>
 
 <script>
@@ -175,7 +205,7 @@ const jsonLd = {
   });
 </script>
 <!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style">
 <a class="a2a_button_x"></a>
 <a class="a2a_button_reddit"></a>
 <a class="a2a_button_facebook"></a>

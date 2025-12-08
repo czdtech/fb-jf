@@ -7,9 +7,23 @@ interface Props {
   slug: string;
   description?: string;
   loading?: 'lazy' | 'eager';
+  lang?: string;
 }
 
-const { title, thumbnail, slug, description, loading = 'lazy' } = Astro.props;
+const { title, thumbnail, slug, description, loading = 'lazy', lang = 'en' } = Astro.props;
+
+const LANGUAGE_PREFIXES: Record<string, string> = {
+  'en': '',
+  'zh-CN': '/zh',
+  'es': '/es',
+  'fr': '/fr',
+  'de': '/de',
+  'ja': '/ja',
+  'ko': '/ko'
+};
+
+const prefix = LANGUAGE_PREFIXES[lang] ?? '';
+const href = `${prefix}/${slug}/`;
 
 // Determine if thumbnail is a local or remote image
 const isRemote = thumbnail.startsWith('http://') || thumbnail.startsWith('https://');
@@ -19,8 +33,8 @@ const isAbsolutePath = thumbnail.startsWith('/');
 // Remote images and absolute paths (public folder) can be used directly
 ---
 
-<div class="game" style="padding:0px">
-  <a href={`/${slug}/`} title={title} style="width:100%;">
+<div class="game game--compact">
+  <a href={href} title={title}>
     <div class="game-logo game-l-2">
       {isRemote || isAbsolutePath ? (
         <img 

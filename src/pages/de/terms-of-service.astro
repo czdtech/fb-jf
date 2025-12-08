@@ -1,449 +1,124 @@
 ---
-import NAV from '../../components/Nav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { TERMS_HREFLANG } from '../../data/hreflang';
+
+const title = 'Nutzungsbedingungen | FiddleBops';
+const description =
+  'Nutzungsbedingungen von FiddleBops: die rechtlichen Bedingungen, die bei der Nutzung unserer Website und Dienste gelten.';
+const canonicalUrl = 'https://www.playfiddlebops.com/de/terms-of-service/';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonicalUrl,
+  description
+};
 ---
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nutzungsbedingungen | FiddleBops</title>
-    <link rel="stylesheet" href="/main.css">
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/de/terms-of-service/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
-
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
-
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/de/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-             <button class="nav-toggle" aria-label="Navigation umschalten">☰</button>
-            <nav class="nav-menu">
-                <ul>
-                    <li><a href="/de/">Startseite</a></li>
-                    <NAV />
-                </ul>
-            </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/terms-of-service/">English</option>
-    <option data-lang="zh-CN" data-url="/zh/terms-of-service/">简体中文</option>  
-    <option data-lang="es" data-url="/es/terms-of-service/">Español</option>
-    <option data-lang="fr" data-url="/fr/terms-of-service/">Français</option>
-    <option data-lang="de" data-url="/de/terms-of-service/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/terms-of-service/">日本語</option>
-    <option data-lang="ko" data-url="/ko/terms-of-service/">한국어</option>
-    </select>
-    </div>
-</header>
-
-    <main>
-      <div class="page">
-
-        <div class="header">
-            <div class="container">
-                <p class="title"> </p>
-            </div>
-        </div>
-    
-        
-    
-        <div class="translations-content-container">
-            <div class="container">
-    
-                
-                <div class="tab-content translations-content-item en visible" id="en">
-                  <h1 data-custom-class="title">NUTZUNGSBEDINGUNGEN</h1>
-                  <p data-custom-class="subtitle"><strong>Letzte Aktualisierung</strong> 10. Februar 2025</p>
-                  <br>
-                  <h2 data-custom-class="heading_1">VEREINBARUNG ZU UNSEREN RECHTLICHEN BEDINGUNGEN</h2>
-                  <a name="_6aa3gkhykvst"></a>
-                  <p data-custom-class="body_text">
-                  Wir sind
-                  <bdt class="question">playfiddlebops</bdt>.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Wir betreiben die Website
-                  <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">http://www.playfiddlebops.com</a>
-                  (die "<strong>Website</strong>") sowie alle anderen verwandten Produkte und Dienstleistungen, die sich auf diese rechtlichen Bedingungen beziehen oder mit ihnen verlinken (die "<strong>rechtlichen Bedingungen</strong>") (zusammenfassend die "<strong>Dienstleistungen</strong>").
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Sie können uns per E-Mail unter
-                  <bdt class="question">chongzhidatech@gmail.com</bdt> kontaktieren.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Diese rechtlichen Bedingungen stellen eine rechtsverbindliche Vereinbarung dar, die zwischen Ihnen, sei es persönlich oder im Namen eines Unternehmens ("<strong>Sie</strong>"), über Ihren Zugang zu und Ihre Nutzung der Dienstleistungen getroffen wird. Sie erklären sich damit einverstanden, dass Sie durch den Zugriff auf die Dienstleistungen alle diese rechtlichen Bedingungen gelesen, verstanden und akzeptiert haben und an diese gebunden sind. <strong>Wenn Sie mit allen diesen rechtlichen Bedingungen nicht einverstanden sind, ist Ihnen die Nutzung der Dienstleistungen ausdrücklich untersagt und Sie müssen die Nutzung unverzüglich einstellen.</strong>
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Ergänzende Bedingungen oder Dokumente, die von Zeit zu Zeit auf den Dienstleistungen veröffentlicht werden können, werden hiermit ausdrücklich durch Bezugnahme in diese Vereinbarung aufgenommen. Wir behalten uns das Recht vor, diese rechtlichen Bedingungen von Zeit zu Zeit nach eigenem Ermessen zu ändern oder zu modifizieren. Wir werden Sie über alle Änderungen informieren, indem wir das Datum der "letzten Aktualisierung" dieser rechtlichen Bedingungen aktualisieren, und Sie verzichten auf jedes Recht, eine spezifische Benachrichtigung über jede einzelne dieser Änderungen zu erhalten. Es liegt in Ihrer Verantwortung, diese rechtlichen Bedingungen regelmäßig zu überprüfen, um über Aktualisierungen auf dem Laufenden zu bleiben. Sie unterliegen den Änderungen in allen überarbeiteten rechtlichen Bedingungen und werden als darüber informiert und als akzeptiert betrachtet, indem Sie die Dienstleistungen nach dem Datum, an dem diese überarbeiteten rechtlichen Bedingungen veröffentlicht werden, weiterhin nutzen.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Die Dienstleistungen sind für Benutzer ab 18 Jahren bestimmt. Personen unter 18 Jahren dürfen die Dienstleistungen nicht nutzen oder sich dafür registrieren.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Wir empfehlen Ihnen, eine Kopie dieser rechtlichen Bedingungen für Ihre Unterlagen auszudrucken.
-                  </p>
-
-                  <h2 data-custom-class="heading_1">INHALTSVERZEICHNIS</h2>
-                  <p><a href="#services">1. UNSERE DIENSTLEISTUNGEN</a></p>
-                  <p><a href="#ip">2. GEISTIGE EIGENTUMSRECHTE</a></p>
-                  <p><a href="#userreps">3. ZUSICHERUNGEN DES BENUTZERS</a></p>
-                  <p><a href="#prohibited">4. VERBOTENE AKTIVITÄTEN</a></p>
-                  <p><a href="#ugc">5. BENUTZERGENERIERTE BEITRÄGE</a></p>
-                  <p><a href="#license">6. BEITRAGSLIZENZ</a></p>
-                  <p><a href="#thirdparty">7. WEBSITES UND INHALTE DRITTER</a></p>
-                  <p><a href="#advertisers">8. WERBETREIBENDE</a></p>
-                  <p><a href="#sitemanage">9. DIENSTLEISTUNGSMANAGEMENT</a></p>
-                  <p><a href="#ppyes">10. DATENSCHUTZRICHTLINIE</a></p>
-                  <p><a href="#terms">11. LAUFZEIT UND KÜNDIGUNG</a></p>
-                  <p><a href="#modifications">12. ÄNDERUNGEN UND UNTERBRECHUNGEN</a></p>
-                  <p><a href="#law">13. GELTENDES RECHT</a></p>
-                  <p><a href="#disputes">14. STREITBEILEGUNG</a></p>
-                  <p><a href="#corrections">15. KORREKTUREN</a></p>
-                  <p><a href="#disclaimer">16. HAFTUNGSAUSSCHLUSS</a></p>
-                  <p><a href="#liability">17. HAFTUNGSBESCHRÄNKUNGEN</a></p>
-                  <p><a href="#indemnification">18. ENTSCHÄDIGUNG</a></p>
-                  <p><a href="#userdata">19. BENUTZERDATEN</a></p>
-                  <p><a href="#electronic">20. ELEKTRONISCHE KOMMUNIKATION, TRANSAKTIONEN UND SIGNATUREN</a></p>
-                  <p><a href="#misc">21. VERSCHIEDENES</a></p>
-                  <p><a href="#contact">22. KONTAKTIEREN SIE UNS</a></p>
-
-                  <a name="_b6y29mp52qvx"></a>
-
-                  <h2 data-custom-class="heading_1" id="services">1. UNSERE DIENSTLEISTUNGEN</h2>
-
-                  <p data-custom-class="body_text">
-                  Die bei der Nutzung der Dienstleistungen bereitgestellten Informationen sind nicht für die Verbreitung an oder die Nutzung durch eine Person oder ein Unternehmen in einer Gerichtsbarkeit oder einem Land bestimmt, in der eine solche Verbreitung oder Nutzung gegen Gesetze oder Vorschriften verstoßen würde oder uns einer Registrierungspflicht innerhalb dieser Gerichtsbarkeit oder dieses Landes unterwerfen würde. Dementsprechend tun diejenigen Personen, die sich dafür entscheiden, von anderen Standorten aus auf die Dienstleistungen zuzugreifen, dies auf eigene Initiative und sind allein verantwortlich für die Einhaltung der lokalen Gesetze, wenn und in dem Umfang, in dem lokale Gesetze anwendbar sind.
-                  </p>
-
-                  <p data-custom-class="body_text">
-                  Die Dienstleistungen sind nicht auf die Einhaltung branchenspezifischer Vorschriften (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA) usw.) zugeschnitten. Wenn Ihre Interaktionen also solchen Gesetzen unterliegen würden, dürfen Sie die Dienstleistungen nicht nutzen. Sie dürfen die Dienstleistungen nicht in einer Weise nutzen, die gegen den Gramm-Leach-Bliley Act (GLBA) verstoßen würde.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ip">2. GEISTIGE EIGENTUMSRECHTE</h2>
-
-                  <h3 data-custom-class="heading_2">Unser geistiges Eigentum</h3>
-                  <p data-custom-class="body_text">
-                  Wir sind der Eigentümer oder der Lizenznehmer aller geistigen Eigentumsrechte an unseren Dienstleistungen, einschließlich des gesamten Quellcodes, der Datenbanken, der Funktionalität, der Software, der Website-Designs, der Audio-, Video-, Text-, Foto- und Grafikelemente in den Dienstleistungen (zusammenfassend der "Inhalt") sowie der darin enthaltenen Marken, Dienstleistungsmarken und Logos (die "Marken").
-                  </p>
-                  <p data-custom-class="body_text">
-                  Unsere Inhalte und Marken sind durch Urheberrechts- und Markengesetze (und verschiedene andere Gesetze zum Schutz des geistigen Eigentums und zum unlauteren Wettbewerb) und Verträge in den Vereinigten Staaten und auf der ganzen Welt geschützt.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Die Inhalte und Marken werden in oder über die Dienstleistungen "wie besehen" für Ihren persönlichen, nicht-kommerziellen Gebrauch oder nur für interne Geschäftszwecke bereitgestellt.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">Ihre Nutzung unserer Dienstleistungen</h3>
-                  <p data-custom-class="body_text">
-                  Vorbehaltlich Ihrer Einhaltung dieser rechtlichen Bedingungen, einschließlich des Abschnitts <a data-custom-class="link" href="#prohibited">Verbotene Aktivitäten</a> unten, gewähren wir Ihnen eine nicht-exklusive, nicht übertragbare, widerrufliche Lizenz für:
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">den Zugriff auf die Dienstleistungen; und</li>
-                      <li data-custom-class="body_text">das Herunterladen oder Ausdrucken einer Kopie eines Teils des Inhalts, zu dem Sie ordnungsgemäß Zugang erhalten haben,</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  ausschließlich für Ihren persönlichen, nicht-kommerziellen Gebrauch oder für interne Geschäftszwecke.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Sofern in diesem Abschnitt oder anderswo in unseren rechtlichen Bedingungen nicht anders festgelegt, darf kein Teil der Dienstleistungen und kein Inhalt oder keine Marke ohne unsere ausdrückliche vorherige schriftliche Genehmigung für kommerzielle Zwecke kopiert, reproduziert, zusammengefasst, wiederveröffentlicht, hochgeladen, gepostet, öffentlich angezeigt, kodiert, übersetzt, übertragen, vertrieben, verkauft, lizenziert oder anderweitig verwertet werden.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Wenn Sie die Dienstleistungen, Inhalte oder Marken anders nutzen möchten, als in diesem Abschnitt oder anderswo in unseren rechtlichen Bedingungen dargelegt, richten Sie Ihre Anfrage bitte an: chongzhidatech@gmail.com. Wenn wir Ihnen jemals die Erlaubnis erteilen, einen Teil unserer Dienstleistungen oder Inhalte zu posten, zu reproduzieren oder öffentlich anzuzeigen, müssen Sie uns als die Eigentümer oder Lizenzgeber der Dienstleistungen, Inhalte oder Marken kennzeichnen und sicherstellen, dass jeder Urheberrechts- oder Eigentumshinweis beim Posten, Reproduzieren oder Anzeigen unserer Inhalte erscheint oder sichtbar ist.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Wir behalten uns alle Rechte vor, die Ihnen an und für die Dienstleistungen, Inhalte und Marken nicht ausdrücklich gewährt werden.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Jede Verletzung dieser geistigen Eigentumsrechte stellt einen wesentlichen Verstoß gegen unsere rechtlichen Bedingungen dar und Ihr Recht zur Nutzung unserer Dienstleistungen erlischt sofort.
-                  </p>
-
-                  <h3 data-custom-class="heading_2">Ihre Einsendungen</h3>
-                  <p data-custom-class="body_text">
-                  Bitte lesen Sie diesen Abschnitt und den Abschnitt <a data-custom-class="link" href="#prohibited">Verbotene Aktivitäten</a> sorgfältig durch, bevor Sie unsere Dienstleistungen nutzen, um die (a) Rechte zu verstehen, die Sie uns gewähren, und (b) die Verpflichtungen, die Sie haben, wenn Sie Inhalte über die Dienstleistungen posten oder hochladen.
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>Einsendungen:</strong> Indem Sie uns direkt Fragen, Kommentare, Vorschläge, Ideen, Feedback oder andere Informationen über die Dienstleistungen ("Einsendungen") senden, erklären Sie sich damit einverstanden, uns alle geistigen Eigentumsrechte an dieser Einsendung abzutreten. Sie stimmen zu, dass wir diese Einsendung besitzen und berechtigt sind, sie für jeden rechtmäßigen Zweck, ob kommerziell oder anderweitig, ohne Anerkennung oder Entschädigung an Sie uneingeschränkt zu nutzen und zu verbreiten.
-                  </p>
-                  <p data-custom-class="body_text">
-                  <strong>Sie sind für das verantwortlich, was Sie posten oder hochladen:</strong> Indem Sie uns Einsendungen über einen Teil der Dienstleistungen senden, erklären Sie:
-                  </p>
-                  <ul>
-                          <li data-custom-class="body_text">dass Sie unsere <a data-custom-class="link" href="#prohibited">Verbotenen Aktivitäten</a> gelesen haben und damit einverstanden sind und keine Einsendungen über die Dienstleistungen posten, senden, veröffentlichen, hochladen oder übertragen, die illegal, belästigend, hasserfüllt, schädlich, diffamierend, obszön, schikanierend, missbräuchlich, diskriminierend, bedrohlich für eine Person oder Gruppe, sexuell eindeutig, falsch, ungenau, betrügerisch oder irreführend sind;</li>
-                          <li data-custom-class="body_text">dass Sie im gesetzlich zulässigen Umfang auf alle Urheberpersönlichkeitsrechte an einer solchen Einsendung verzichten;</li>
-                          <li data-custom-class="body_text">dass jede solche Einsendung Ihr Original ist oder dass Sie die notwendigen Rechte und Lizenzen haben, um solche Einsendungen einzureichen, und dass Sie die volle Befugnis haben, uns die oben genannten Rechte in Bezug auf Ihre Einsendungen zu gewähren; und</li>
-                          <li data-custom-class="body_text">dass Ihre Einsendungen keine vertraulichen Informationen darstellen.</li>
-                      </ul>
-                  <p data-custom-class="body_text">
-                  Sie sind allein verantwortlich für Ihre Einsendungen und Sie erklären sich ausdrücklich damit einverstanden, uns für alle Verluste zu entschädigen, die uns aufgrund Ihrer Verletzung von (a) diesem Abschnitt, (b) den geistigen Eigentumsrechten eines Dritten oder (c) geltendem Recht entstehen können.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="userreps">3. ZUSICHERUNGEN DES BENUTZERS</h2>
-                  <p data-custom-class="body_text">
-                  Durch die Nutzung der Dienste versichern und gewährleisten Sie, dass: (1) Sie geschäftsfähig sind und sich verpflichten, diese rechtlichen Bedingungen einzuhalten; (2) Sie in dem Rechtsraum, in dem Sie wohnen, nicht minderjährig sind; (3) Sie nicht durch automatische oder nichtmenschliche Mittel auf die Dienste zugreifen, sei es durch einen Bot, ein Skript oder anderweitig; (4) Sie die Dienste nicht für illegale oder unbefugte Zwecke nutzen; und (5) Ihre Nutzung der Dienste nicht gegen geltende Gesetze oder Vorschriften verstößt.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Wenn Sie falsche, ungenaue, nicht aktuelle oder unvollständige Informationen angeben, haben wir das Recht, Ihr Konto zu sperren oder zu kündigen und jegliche aktuelle oder zukünftige Nutzung der Dienste (oder eines Teils davon) zu verweigern.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="prohibited">4. VERBOTENE AKTIVITÄTEN</h2>
-                  <p data-custom-class="body_text">
-                  Sie dürfen nicht auf die Dienste zugreifen oder sie für andere Zwecke nutzen als  die, für die wir die Dienste zur Verfügung stellen. Die Dienste dürfen nicht im Zusammenhang mit kommerziellen Unternehmungen genutzt werden, es sei denn, diese werden von uns ausdrücklich gebilligt oder genehmigt.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Als Nutzer der Dienste stimmen Sie zu, Folgendes zu unterlassen:
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">Systematisches Abrufen von Daten oder anderen Inhalten von den Diensten, um ohne unsere schriftliche Genehmigung direkt oder indirekt eine Sammlung, Zusammenstellung, Datenbank oder ein Verzeichnis zu erstellen oder zusammenzustellen.</li>
-                      <li data-custom-class="body_text">Täuschen, Betrügen oder Irreführen von uns und anderen Nutzern, insbesondere bei jedem Versuch, sensible Kontoinformationen wie Benutzerpasswörter zu erfahren.</li>
-                      <li data-custom-class="body_text">Umgehen, Deaktivieren oder anderweitiges Eingreifen in sicherheitsrelevante Funktionen der Dienste, einschließlich Funktionen, die die Nutzung oder das Kopieren von Inhalten verhindern oder einschränken oder Beschränkungen für die Nutzung der Dienste und/oder der darin enthaltenen Inhalte durchsetzen.</li>
-                      <li data-custom-class="body_text">Herabsetzen, Trüben oder anderweitiges Schädigen, nach unserer Meinung, von uns und/oder den Diensten.</li>
-                      <li data-custom-class="body_text">Verwenden von Informationen, die von den Diensten erhalten wurden, um eine andere Person zu belästigen, zu missbrauchen oder zu schädigen.</li>
-                      <li data-custom-class="body_text">Unsachgemäße Nutzung unserer Support-Dienste oder Einreichen falscher Berichte über Missbrauch oder Fehlverhalten.</li>
-                      <li data-custom-class="body_text">Verwenden der Dienste in einer Weise, die mit geltenden Gesetzen oder Vorschriften unvereinbar ist.</li>
-                      <li data-custom-class="body_text">Beteiligung an unbefugtem Framing oder Verlinken zu den Diensten.</li>
-                      <li data-custom-class="body_text">Hochladen oder Übertragen (oder der Versuch, hochzuladen oder zu übertragen) von Viren, Trojanern oder anderem Material, einschließlich übermäßiger Verwendung von Großbuchstaben und Spamming (kontinuierliches Posten von sich wiederholendem Text), die die ununterbrochene Nutzung und den Genuss der Dienste durch eine Partei beeinträchtigen oder die Nutzung, Funktionen, Merkmale, den Betrieb oder die Wartung der Dienste modifizieren, beeinträchtigen, stören, verändern oder beeinträchtigen.</li>
-                      <li data-custom-class="body_text">Beteiligung an jeglicher automatisierter Nutzung des Systems, wie z. B. die Verwendung von Skripten zum Senden von Kommentaren oder Nachrichten oder die Verwendung von Data-Mining, Robotern oder ähnlichen Tools zur Datenerfassung und -extraktion.</li>
-                      <li data-custom-class="body_text">Löschen des Urheberrechts- oder anderer Eigentumsrechtshinweise aus Inhalten.</li>
-                      <li data-custom-class="body_text">Versuch, sich als ein anderer Benutzer oder eine andere Person auszugeben oder den Benutzernamen eines anderen Benutzers zu verwenden.</li>
-                      <li data-custom-class="body_text">Hochladen oder Übertragen (oder der Versuch, hochzuladen oder zu übertragen) von Material, das als passiver oder aktiver Informationssammlungs- oder Übertragungsmechanismus fungiert, einschließlich, ohne Einschränkung, klarer Graphics Interchange Formate ("gifs"), 1×1 Pixel, Web-Bugs, Cookies oder andere ähnliche Geräte (manchmal als "Spyware" oder "passive Erfassungsmechanismen" oder "pcms" bezeichnet).</li>
-                      <li data-custom-class="body_text">Eingriff, Störung oder unangemessene Belastung der Dienste oder der mit den Diensten verbundenen Netzwerke oder Dienste.</li>
-                      <li data-custom-class="body_text">Belästigen, Ärgern, Einschüchtern oder Bedrohen unserer Mitarbeiter oder Vertreter, die an der Bereitstellung eines Teils der Dienste für Sie beteiligt sind.</li>
-                      <li data-custom-class="body_text">Versuchen, Maßnahmen der Dienste zu umgehen, die dazu bestimmt sind, den Zugriff auf die Dienste oder einen Teil der Dienste zu verhindern oder einzuschränken.</li>
-                      <li data-custom-class="body_text">Kopieren oder Anpassen der Software der Dienste, einschließlich, aber nicht beschränkt auf Flash, PHP, HTML, JavaScript oder anderen Code.</li>
-                      <li data-custom-class="body_text">Sofern nicht durch geltendes Recht zulässig, Entschlüsseln, Dekompilieren, Disassemblieren oder Zurückentwickeln von Software, die einen Teil der Dienste ausmacht oder in irgendeiner Weise ausmacht.</li>
-                      <li data-custom-class="body_text">Sofern dies nicht auf die Verwendung einer Standardsuchmaschine oder eines Internetbrowsers zurückzuführen ist, Verwenden, Starten, Entwickeln oder Verteilen automatisierter Systeme, einschließlich, ohne Einschränkung, Spider, Roboter, Cheat-Utility, Scraper oder Offline-Reader, die auf die Dienste zugreifen, oder Verwenden oder Starten nicht autorisierter Skripte oder anderer Software.</li>
-                      <li data-custom-class="body_text">Verwenden eines Einkaufsagenten oder Einkaufsvertreters, um Käufe auf den Diensten zu tätigen.</li>
-                      <li data-custom-class="body_text">Jegliche unbefugte Nutzung der Dienste, einschließlich des Sammelns von Benutzernamen und/oder E-Mail-Adressen von Benutzern durch elektronische oder andere Mittel zum Zwecke des Versendens unerwünschter E-Mails oder des Erstellens von Benutzerkonten mit automatisierten Mitteln oder unter falschen Vorspiegelungen.</li>
-                      <li data-custom-class="body_text">Verwenden der Dienste als Teil von Bemühungen, mit uns zu konkurrieren oder die Dienste und/oder den Inhalt anderweitig für umsatzgenerierende Bestrebungen oder kommerzielle Unternehmen zu nutzen.</li>
-                  </ul>
-
-                  <h2 data-custom-class="heading_1" id="ugc">5. BENUTZERGENERIERTE BEITRÄGE</h2>
-                  <p data-custom-class="body_text">
-                  Die Dienste bieten den Nutzern nicht die Möglichkeit, Inhalte einzureichen oder zu posten. Wir können Ihnen die Möglichkeit geben, Inhalte und Materialien für uns oder auf den Diensten zu erstellen, einzureichen, zu posten, anzuzeigen, zu übertragen, aufzuführen, zu veröffentlichen, zu verteilen oder zu senden, einschließlich, aber nicht beschränkt auf Text, Schriften, Videos, Audio, Fotos, Grafiken, Kommentare, Vorschläge oder persönliche Informationen oder anderes Material (zusammenfassend "Beiträge"). Beiträge können von anderen Nutzern der Dienste und über Websites Dritter angezeigt werden. Als solche können alle Beiträge, die Sie übertragen, gemäß der Datenschutzerklärung der Dienste behandelt werden. Wenn Sie Beiträge erstellen oder zur Verfügung stellen, versichern und gewährleisten Sie hiermit Folgendes:
-                  </p>
-                  <ul>
-                      <li data-custom-class="body_text">Die Erstellung, Verbreitung, Übertragung, öffentliche Anzeige oder Aufführung und der Zugriff, das Herunterladen oder Kopieren Ihrer Beiträge verletzen nicht und werden nicht die Eigentumsrechte, einschließlich, aber nicht beschränkt auf das Urheberrecht, das Patent, die Marke, das Geschäftsgeheimnis oder die Urheberpersönlichkeitsrechte Dritter, verletzen.</li>
-                      <li data-custom-class="body_text">Sie sind der Ersteller und Eigentümer der Beiträge oder verfügen über die erforderlichen Lizenzen, Rechte, Zustimmungen, Freigaben und Genehmigungen, um uns, die Dienste und andere Benutzer der Dienste zu verwenden und zu autorisieren, Ihre Beiträge in jeglicher Art und Weise zu verwenden, die von den Diensten und diesen rechtlichen Bedingungen vorgesehen ist.</li>
-                      <li data-custom-class="body_text">Sie verfügen über die schriftliche Einwilligung, Freigabe und/oder Genehmigung jeder einzelnen identifizierbaren Person in Ihren Beiträgen, um den Namen oder das Abbild jeder einzelnen identifizierbaren Person zu verwenden, um die Aufnahme und Verwendung Ihrer Beiträge in jeglicher Art und Weise zu ermöglichen, die von den Diensten und diesen rechtlichen Bedingungen vorgesehen ist.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge sind nicht falsch, ungenau oder irreführend.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge sind keine unaufgeforderte oder unbefugte Werbung, Werbematerialien, Pyramidensysteme, Kettenbriefe, Spam, Massensendungen oder andere Formen der Anwerbung.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge sind nicht obszön, unanständig, lüstern, schmutzig, gewalttätig, belästigend, verleumderisch, verleumderisch oder auf andere Weise anstößig (wie von uns festgelegt).</li>
-                      <li data-custom-class="body_text">Ihre Beiträge verspotten, verhöhnen, verunglimpfen, schüchtern oder missbrauchen niemanden.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge werden nicht verwendet, um eine andere Person zu belästigen oder zu bedrohen (im rechtlichen Sinne dieser Begriffe) und um Gewalt gegen eine bestimmte Person oder Personengruppe zu fördern.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge verstoßen nicht gegen geltende Gesetze, Vorschriften oder Regeln.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge verstoßen nicht gegen die Datenschutz- oder Veröffentlichungsrechte Dritter.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge verstoßen nicht gegen geltende Gesetze bezüglich Kinderpornografie oder sind anderweitig dazu bestimmt, die Gesundheit oder das Wohlergehen von Minderjährigen zu schützen.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge enthalten keine beleidigenden Kommentare, die sich auf Rasse, nationale Herkunft, Geschlecht, sexuelle Orientierung oder körperliche Behinderung beziehen.</li>
-                      <li data-custom-class="body_text">Ihre Beiträge verstoßen nicht auf andere Weise gegen Bestimmungen dieser rechtlichen Bedingungen oder verlinken zu Material, das gegen diese rechtlichen Bedingungen oder geltende Gesetze oder Vorschriften verstößt.</li>
-                  </ul>
-                  <p data-custom-class="body_text">
-                  Jede Nutzung der Dienste unter Verstoß gegen das Vorstehende verstößt gegen diese rechtlichen Bedingungen und kann unter anderem zur Beendigung oder Aussetzung Ihrer Rechte zur Nutzung der Dienste führen.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="license">6. BEITRAGSLIZENZ</h2>
-                  <p data-custom-class="body_text">
-                  Sie und die Dienste stimmen  zu, dass wir auf alle Informationen und personenbezogenen Daten, die Sie gemäß den Bedingungen der Datenschutzrichtlinie und Ihren Entscheidungen (einschließlich der Einstellungen) bereitstellen, zugreifen, diese speichern, verarbeiten und verwenden dürfen.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Durch das Einreichen von Vorschlägen oder anderem Feedback bezüglich der Dienste stimmen Sie zu, dass wir dieses Feedback für jeden Zweck ohne Entschädigung für Sie verwenden und weitergeben dürfen.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Wir beanspruchen keine Eigentumsrechte an Ihren Beiträgen. Sie behalten das uneingeschränkte Eigentum an allen Ihren Beiträgen und allen geistigen Eigentumsrechten oder anderen Eigentumsrechten, die mit Ihren Beiträgen verbunden sind. Wir haften nicht für Aussagen oder Zusicherungen in Ihren Beiträgen, die von Ihnen in einem Bereich der Dienste bereitgestellt werden. Sie sind allein verantwortlich für Ihre Beiträge zu den Diensten und erklären sich ausdrücklich damit einverstanden, uns von jeglicher Verantwortung zu entbinden und von jeglichen rechtlichen Schritten gegen uns in Bezug auf Ihre Beiträge abzusehen.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="thirdparty">7. WEBSITES UND INHALTE DRITTER</h2>
-                  <p data-custom-class="body_text">
-                  Die Dienste können (oder Sie können über die Website gesendet werden) Links zu anderen Websites ("Websites Dritter") sowie Artikel, Fotos, Texte, Grafiken, Bilder, Designs, Musik, Ton, Video, Informationen, Anwendungen, Software und andere Inhalte oder Elemente enthalten, die Dritten gehören oder von diesen stammen ("Inhalte Dritter"). Solche Websites und Inhalte Dritter werden von uns nicht auf Richtigkeit, Angemessenheit oder Vollständigkeit untersucht, überwacht oder überprüft, und wir sind nicht verantwortlich für Websites Dritter, auf die über die Dienste zugegriffen wird, oder für Inhalte Dritter, die auf den Diensten veröffentlicht, über die Dienste verfügbar gemacht oder von den Diensten installiert werden, einschließlich des Inhalts, der Genauigkeit, der Anstößigkeit, der Meinungen, der Zuverlässigkeit, der Datenschutzpraktiken oder anderer Richtlinien von oder in den Websites Dritter oder den Inhalten Dritter. Die Aufnahme von, die Verlinkung zu oder die Erlaubnis zur Nutzung oder Installation von Websites Dritter oder Inhalten Dritter impliziert keine Billigung oder Befürwortung derselben durch uns. Wenn Sie sich entscheiden, die Dienste zu verlassen und auf die Websites Dritter zuzugreifen oder Inhalte Dritter zu verwenden oder zu installieren, tun Sie dies auf eigenes Risiko, und Sie sollten sich darüber im Klaren sein, dass diese rechtlichen Bedingungen nicht mehr gelten. Sie sollten die geltenden Bedingungen und Richtlinien, einschließlich der Datenschutz- und Datenerfassungspraktiken, jeder Website überprüfen, zu der Sie von den Diensten aus navigieren, oder in Bezug auf Anwendungen, die Sie von den Diensten aus verwenden oder installieren. Alle Käufe, die Sie über Websites Dritter tätigen, erfolgen über andere Websites und von anderen Unternehmen, und wir übernehmen keinerlei Verantwortung in Bezug auf solche Käufe, die ausschließlich zwischen Ihnen und dem jeweiligen Dritten erfolgen. Sie stimmen zu und erkennen an, dass wir die auf Websites Dritter angebotenen Produkte oder Dienstleistungen nicht befürworten, und Sie halten uns schadlos von Schäden, die durch Ihren Kauf solcher Produkte oder Dienstleistungen verursacht werden. Darüber hinaus halten Sie uns schadlos von jeglichen Verlusten, die Ihnen entstanden sind, oder Schäden, die Ihnen entstanden sind und die sich auf Inhalte Dritter oder auf den Kontakt mit Websites Dritter beziehen oder daraus resultieren.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="advertisers">8. WERBETREIBENDE</h2>
-                  <p data-custom-class="body_text">
-                  Wir gestatten Werbetreibenden, ihre Werbung und andere Informationen in bestimmten Bereichen der Dienste anzuzeigen, z. B. Seitenleistenwerbung oder Bannerwerbung. Wir stellen lediglich den Platz für solche Werbung zur Verfügung, und wir haben keine weitere Beziehung zu Werbetreibenden.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="sitemanage">9. DIENSTLEISTUNGSMANAGEMENT</h2>
-                  <p data-custom-class="body_text">
-                  Wir behalten uns das Recht vor, sind aber nicht verpflichtet: (1) die Dienste auf Verstöße gegen diese rechtlichen Bedingungen zu überwachen; (2) angemessene rechtliche Schritte gegen jede Person einzuleiten, die nach unserem alleinigen Ermessen gegen das Gesetz oder diese rechtlichen Bedingungen verstößt, einschließlich, aber nicht beschränkt auf die Meldung dieses Nutzers an die Strafverfolgungsbehörden; (3) nach unserem alleinigen Ermessen und ohne Einschränkung den Zugriff auf Ihre Beiträge oder Teile davon zu verweigern, einzuschränken, die Verfügbarkeit einzuschränken oder zu deaktivieren (soweit dies technisch möglich ist); (4) nach unserem alleinigen Ermessen und ohne Einschränkung, Mitteilung oder Haftung, alle Dateien und Inhalte, die übermäßig groß sind oder unsere Systeme in irgendeiner Weise belasten, von den Diensten zu entfernen oder anderweitig zu deaktivieren; und (5) die Dienste auf andere Weise so zu verwalten, dass unsere Rechte und unser Eigentum geschützt und das ordnungsgemäße Funktionieren der Dienste erleichtert wird.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="ppyes">10. DATENSCHUTZRICHTLINIE</h2>
-                  <p data-custom-class="body_text">
-                  Wir kümmern uns um den Datenschutz und die Sicherheit von Daten. Bitte lesen Sie unsere Datenschutzrichtlinie: <strong><a href="https://www.playfiddlebops.com/privacy/" target="_blank" data-custom-class="link">https://www.playfiddlebops.com/privacy/</a></strong>. Durch die Nutzung der Dienste erklären Sie sich damit einverstanden, an unsere Datenschutzrichtlinie gebunden zu sein, die in diese rechtlichen Bedingungen aufgenommen wird. Bitte beachten Sie, dass die Dienste in den Vereinigten Staaten gehostet werden. Wenn Sie von einer anderen Region der Welt aus auf die Dienste zugreifen, in der Gesetze oder andere Anforderungen gelten, die die Erhebung, Nutzung oder Offenlegung personenbezogener Daten regeln und die von den geltenden Gesetzen in den Vereinigten Staaten abweichen, übertragen Sie durch Ihre fortgesetzte Nutzung der Dienste Ihre Daten in die Vereinigten Staaten und stimmen ausdrücklich zu, dass Ihre Daten in die Vereinigten Staaten übertragen und dort verarbeitet werden.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="terms">11. LAUFZEIT UND KÜNDIGUNG</h2>
-                  <p data-custom-class="body_text">
-                  Diese rechtlichen Bedingungen bleiben in vollem Umfang in Kraft, solange Sie die Dienste nutzen. Ohne Einschränkung anderer Bestimmungen dieser rechtlichen Bedingungen behalten wir uns das Recht vor, nach unserem alleinigen Ermessen und ohne vorherige Ankündigung oder Haftung, den Zugriff auf und die Nutzung der Dienste (einschließlich der Sperrung bestimmter IP-Adressen) für jede Person aus irgendeinem Grund oder ohne Angabe von Gründen zu verweigern, einschließlich, aber nicht beschränkt auf die Verletzung einer Zusicherung, Gewährleistung oder eines Vertrags, die in diesen rechtlichen Bedingungen oder in geltenden Gesetzen oder Vorschriften enthalten sind. Wir können Ihre Nutzung oder Teilnahme an den Diensten beenden oder alle Inhalte oder Informationen, die Sie gepostet haben, jederzeit ohne Vorwarnung nach unserem alleinigen Ermessen löschen.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Wenn wir Ihr Konto aus irgendeinem Grund kündigen oder sperren, ist es Ihnen untersagt, sich unter Ihrem Namen, einem gefälschten oder geliehenen Namen oder dem Namen eines Dritten neu zu registrieren und ein neues Konto zu erstellen, selbst wenn Sie im Namen des Dritten handeln. Zusätzlich zur Kündigung oder Sperrung Ihres Kontos behalten wir uns das Recht vor, angemessene rechtliche Schritte einzuleiten, einschließlich, aber nicht beschränkt auf die Verfolgung zivilrechtlicher, strafrechtlicher und Unterlassungsansprüche.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="modifications">12. ÄNDERUNGEN UND UNTERBRECHUNGEN</h2>
-                  <p data-custom-class="body_text">
-                  Wir behalten uns das Recht vor, den Inhalt der Dienste jederzeit oder aus irgendeinem Grund nach eigenem Ermessen und ohne Vorankündigung zu ändern, zu modifizieren oder zu entfernen. Wir sind jedoch nicht verpflichtet, Informationen auf unseren Diensten zu aktualisieren. Wir haften Ihnen oder Dritten gegenüber nicht für Änderungen, Preisänderungen, Aussetzungen oder Unterbrechungen der Dienste.
-                  </p>
-                  <p data-custom-class="body_text">
-                  Wir können nicht garantieren, dass die Dienste jederzeit verfügbar sind. Es kann zu Hardware-, Software- oder anderen Problemen kommen, oder es kann erforderlich sein, Wartungsarbeiten im Zusammenhang mit den Diensten durchzuführen, was zu Unterbrechungen, Verzögerungen oder Fehlern führt. Wir behalten uns das Recht vor, die Dienste  jederzeit oder aus irgendeinem Grund ohne Vorankündigung zu ändern, zu überarbeiten, zu aktualisieren, auszusetzen, einzustellen oder auf andere Weise zu modifizieren. Sie stimmen zu, dass wir keinerlei Haftung für Verluste, Schäden oder Unannehmlichkeiten übernehmen, die durch Ihre Unfähigkeit verursacht werden, während einer Ausfallzeit oder Unterbrechung der Dienste auf die Dienste zuzugreifen oder diese zu nutzen. Nichts in diesen rechtlichen Bedingungen ist so auszulegen, als ob es uns verpflichtet, die Dienste zu warten und zu unterstützen oder Korrekturen, Aktualisierungen oder Freigaben in Verbindung damit bereitzustellen.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="law">13. GELTENDES RECHT</h2>
-                  <p data-custom-class="body_text">
-                  Diese rechtlichen Bedingungen und Ihre Nutzung der Dienste unterliegen den Gesetzen des Staates und werden in Übereinstimmung mit diesen ausgelegt, die für Vereinbarungen gelten, die innerhalb des Staates geschlossen und vollständig ausgeführt werden, ohne Rücksicht auf seine kollisionsrechtlichen Grundsätze.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disputes">14. STREITBEILEGUNG</h2>
-                  <h3 data-custom-class="heading_2">Informelle Verhandlungen</h3>
-                  <p data-custom-class="body_text">
-                  Um die Beilegung zu beschleunigen und die Kosten für Streitigkeiten, Kontroversen oder Ansprüche im Zusammenhang mit diesen rechtlichen Bedingungen (jeweils eine "Streitigkeit" und zusammenfassend die "Streitigkeiten") zu kontrollieren, die entweder von Ihnen oder von uns (einzeln eine "Partei" und zusammenfassend die "Parteien") erhoben werden, vereinbaren die Parteien, zunächst zu versuchen, jede Streitigkeit (mit Ausnahme der unten ausdrücklich genannten Streitigkeiten) informell für mindestens dreißig (30) Tage zu verhandeln, bevor ein Schiedsverfahren eingeleitet wird. Solche informellen Verhandlungen beginnen mit einer schriftlichen Mitteilung einer Partei an die andere Partei.
-                  </p>
-                  <h3 data-custom-class="heading_2">Verbindliches Schiedsverfahren</h3>
-                  <p data-custom-class="body_text">
-                  Jede Streitigkeit, die sich aus den Beziehungen zwischen den Parteien dieser rechtlichen Bedingungen ergibt, wird von einem Schiedsrichter entschieden, der in Übereinstimmung mit den Schiedsgerichts- und internen Regeln des Europäischen Gerichtshofs für Schiedsgerichtsbarkeit ausgewählt wird, der Teil des Europäischen Zentrums für Schiedsgerichtsbarkeit mit Sitz in Straßburg ist und die zum Zeitpunkt der Einreichung des Schiedsantrags in Kraft sind und deren Annahme dieser Klausel die Annahme darstellt. Der Sitz des Schiedsgerichts ist Paris, Frankreich. Die Verfahrenssprache ist Französisch. Anwendbare Regeln des materiellen Rechts sind die des französischen Rechts.
-                  </p>
-                  <h3 data-custom-class="heading_2">Beschränkungen</h3>
-                  <p data-custom-class="body_text">
-                  Die Parteien vereinbaren, dass sich ein Schiedsverfahren auf die Streitigkeit zwischen den Parteien einzeln beschränkt. Soweit gesetzlich zulässig, gilt Folgendes: (a) Kein Schiedsverfahren wird mit einem anderen Verfahren verbunden; (b) es gibt kein Recht oder keine Befugnis für ein Schiedsverfahren auf Sammelklagebasis oder zur Verwendung von Sammelklageverfahren; und (c) es gibt kein Recht oder keine Befugnis für eine Streitigkeit, die in einer angeblichen repräsentativen Eigenschaft im Namen der allgemeinen Öffentlichkeit oder anderer Personen vorgebracht wird.
-                  </p>
-                  <h3 data-custom-class="heading_2">Ausnahmen von informellen Verhandlungen und Schiedsverfahren</h3>
-                  <p data-custom-class="body_text">
-                  Die Parteien vereinbaren, dass die folgenden Streitigkeiten nicht den oben genannten Bestimmungen über informelle Verhandlungen und ein verbindliches Schiedsverfahren unterliegen: (a) Streitigkeiten, die darauf abzielen, die Gültigkeit von Rechten des geistigen Eigentums einer Partei durchzusetzen oder zu schützen oder sich auf diese beziehen; (b) Streitigkeiten im Zusammenhang mit oder aufgrund von Behauptungen von Diebstahl, Piraterie, Verletzung der Privatsphäre oder unbefugter Nutzung; und (c) jede Klage auf Unterlassungsanspruch. Wenn diese Bestimmung als rechtswidrig oder nicht durchsetzbar befunden wird, wird keine Partei ein Schiedsverfahren für eine Streitigkeit wählen, die in den Teil dieser Bestimmung fällt, der als rechtswidrig oder nicht durchsetzbar befunden wird, und diese Streitigkeit wird von einem zuständigen Gericht innerhalb der oben für die Gerichtsbarkeit aufgeführten Gerichte entschieden, und die Parteien vereinbaren, sich der persönlichen Gerichtsbarkeit dieses Gerichts zu unterwerfen.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="corrections">15. KORREKTUREN</h2>
-                  <p data-custom-class="body_text">
-                  Es kann Informationen auf den Diensten geben, die typografische Fehler, Ungenauigkeiten oder Auslassungen enthalten, einschließlich Beschreibungen, Preise, Verfügbarkeit und verschiedene andere Informationen. Wir behalten uns das Recht vor, Fehler, Ungenauigkeiten oder Auslassungen zu korrigieren und die Informationen auf den Diensten jederzeit ohne vorherige Ankündigung zu ändern oder zu aktualisieren.
-                  </p>
-
-                  <h2 data-custom-class="heading_1" id="disclaimer">16. HAFTUNGSAUSSCHLUSS</h2>
-                  <p data-custom-class="body_text">
-                  Die Dienste werden "wie besehen" und "wie verfügbar" bereitgestellt. Sie stimmen zu, dass Ihre Nutzung der Dienste auf Ihr alleiniges Risiko erfolgt. Soweit gesetzlich zulässig, lehnen wir alle Garantien, ob ausdrücklich oder stillschweigend, in Verbindung mit den Diensten und Ihrer Nutzung derselben ab, einschließlich, ohne Einschränkung, der stillschweigenden Garantien der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten Dritter. Wir geben keine Zusicherungen oder Gewährleistungen hinsichtlich der Genauigkeit oder Vollständigkeit des Inhalts der Dienste oder des Inhalts von Websites oder mobilen Anwendungen, die mit den Diensten verlinkt sind, und wir übernehmen keine Haftung oder Verantwortung für (1) Fehler, Irrtümer oder Ungenauigkeiten von Inhalten und Materialien, (2) Personenschäden oder Sachschäden jeglicher Art, die sich aus Ihrem Zugriff auf die Dienste und Ihrer Nutzung derselben ergeben, (3) jeglichen unbefugten Zugriff auf oder die Nutzung unserer sicheren Server und/oder aller darin gespeicherten personenbezogenen Daten und/oder Finanzinformationen, (4) jegliche Unterbrechung oder Einstellung der Übertragung zu oder von den Diensten, (5) jegliche Bugs, Viren, Trojaner oder dergleichen, die von Dritten zu oder über die Dienste übertragen werden können, und/oder (6) jegliche Fehler oder Auslassungen in Inhalten und Materialien oder für jegliche Verluste oder Schäden jeglicher Art, die infolge der Nutzung von Inhalten entstehen, die über die Dienste veröffentlicht, übertragen oder anderweitig zur Verfügung gestellt werden. Wir garantieren, befürworten, garantieren oder übernehmen keine Verantwortung für Produkte oder Dienstleistungen, die von einem Dritten über die Dienste, eine mit Hyperlinks versehene Website oder eine Website oder mobile Anwendung, die in einem Banner oder einer anderen Werbung enthalten ist, beworben oder angeboten werden, und wir sind weder Partei noch in irgendeiner Weise verantwortlich für die Überwachung von Transaktionen zwischen Ihnen und Drittanbietern von Produkten oder Dienstleistungen. Wie beim Kauf eines Produkts oder einer Dienstleistung über ein beliebiges Medium oder in einer beliebigen Umgebung sollten Sie Ihr bestes Urteilsvermögen einsetzen und gegebenenfalls Vorsicht walten lassen.
-
-                  </p>
-                  <h2 data-custom-class="heading_1" id="liability">17. HAFTUNGSBESCHRÄNKUNGEN</h2>
-                  <p data-custom-class="body_text">
-                  In keinem Fall haften wir oder unsere Direktoren, Mitarbeiter oder Vertreter Ihnen oder Dritten gegenüber für direkte, indirekte, Folge-, exemplarische, zufällige, besondere oder strafende Schäden, einschließlich entgangenen Gewinns, entgangener Einnahmen, Datenverluste oder andere Schäden, die sich aus Ihrer Nutzung der Dienste ergeben, selbst wenn wir auf die Möglichkeit solcher Schäden hingewiesen wurden. Bestimmte Gesetze der US-Bundesstaaten und internationale Gesetze erlauben keine Beschränkungen stillschweigender Garantien oder den Ausschluss oder die Beschränkung bestimmter Schäden. Wenn diese Gesetze auf Sie zutreffen, gelten einige oder alle der oben genannten Haftungsausschlüsse oder Beschränkungen möglicherweise nicht für Sie, und Sie haben möglicherweise zusätzliche Rechte.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="indemnification">18. ENTSCHÄDIGUNG</h2>
-                  <p data-custom-class="body_text">
-                  Sie erklären sich damit einverstanden, uns, einschließlich unserer Tochtergesellschaften, verbundenen Unternehmen und aller unserer jeweiligen leitenden Angestellten, Vertreter, Partner und Mitarbeiter, zu verteidigen, schadlos zu halten und schadlos zu halten von jeglichen Verlusten, Schäden, Haftungen, Ansprüchen oder Forderungen, einschließlich angemessener Anwaltskosten und Auslagen, die von Dritten aufgrund von oder infolge von: (1) der Nutzung der Dienste; (2) der Verletzung dieser rechtlichen Bedingungen; (3) jeglicher Verletzung Ihrer Zusicherungen und Gewährleistungen, die in diesen rechtlichen Bedingungen dargelegt sind; (4) Ihrer Verletzung der Rechte Dritter, einschließlich, aber nicht beschränkt auf geistige Eigentumsrechte; oder (5) jeder offenkundig schädlichen Handlung gegenüber einem anderen Nutzer der Dienste, mit dem Sie über die Dienste in Verbindung getreten sind. Ungeachtet des Vorstehenden behalten wir uns das Recht vor, auf Ihre Kosten die ausschließliche Verteidigung und Kontrolle über jede Angelegenheit zu übernehmen, für die Sie uns entschädigen müssen, und Sie erklären sich bereit, auf Ihre Kosten mit unserer Verteidigung gegen solche Ansprüche zusammenzuarbeiten. Wir werden uns in angemessener Weise bemühen, Sie über jegliche Ansprüche, Klagen oder Verfahren zu informieren, die dieser Entschädigung unterliegen, sobald wir davon Kenntnis erhalten.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="userdata">19. BENUTZERDATEN</h2>
-                  <p data-custom-class="body_text">
-                  Wir werden bestimmte Daten, die Sie an die Dienste übermitteln, zum Zwecke der Verwaltung der Leistung der Dienste sowie Daten in Bezug auf Ihre Nutzung der Dienste aufbewahren. Obwohl wir regelmäßige routinemäßige Datensicherungen durchführen, sind Sie allein verantwortlich für alle Daten, die Sie übermitteln oder die sich auf Aktivitäten beziehen, die Sie unter Verwendung der Dienste unternommen haben. Sie stimmen zu, dass wir Ihnen gegenüber keine Haftung für den Verlust oder die Beschädigung dieser Daten übernehmen, und Sie verzichten hiermit auf jegliche Klage gegen uns, die sich aus einem solchen Verlust oder einer solchen Beschädigung dieser Daten ergibt.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="electronic">20. ELEKTRONISCHE KOMMUNIKATION, TRANSAKTIONEN UND SIGNATUREN</h2>
-                  <p data-custom-class="body_text">
-                  Der Besuch der Dienste, das Senden von E-Mails an uns und das Ausfüllen von Online-Formularen stellen elektronische Kommunikation dar. Sie stimmen dem Empfang elektronischer Kommunikation zu und Sie stimmen zu, dass alle Vereinbarungen, Benachrichtigungen, Offenlegungen und andere Kommunikationen, die wir Ihnen elektronisch, per E-Mail und auf den Diensten bereitstellen, alle gesetzlichen Anforderungen erfüllen, dass diese Kommunikation schriftlich erfolgen muss. Sie stimmen hiermit der Verwendung von elektronischen Signaturen, Verträgen, Bestellungen und anderen Aufzeichnungen sowie der elektronischen Zustellung von Hinweisen, Richtlinien und Transaktionsaufzeichnungen zu, die von uns oder über die Dienste initiiert oder abgeschlossen wurden. Sie verzichten hiermit auf alle Rechte oder Anforderungen gemäß allen Gesetzen, Verordnungen, Regeln, Verordnungen oder anderen Gesetzen in einer Rechtsordnung, die eine Originalunterschrift oder die Zustellung oder Aufbewahrung von nicht-elektronischen Aufzeichnungen oder auf Zahlungen oder die Gewährung von Gutschriften mit anderen Mitteln als elektronischen Mitteln erfordern.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="misc">21. VERSCHIEDENES</h2>
-                  <p data-custom-class="body_text">
-                  Diese rechtlichen Bedingungen und alle Richtlinien oder Betriebsregeln, die von uns auf den Diensten oder in Bezug auf die Dienste veröffentlicht werden, stellen die gesamte Vereinbarung und das gesamte Verständnis zwischen Ihnen und uns dar. Unser Versäumnis, ein Recht oder eine Bestimmung dieser rechtlichen Bedingungen auszuüben oder durchzusetzen, stellt keinen Verzicht auf dieses Recht oder diese Bestimmung dar. Diese rechtlichen Bedingungen gelten im vollen Umfang des gesetzlich Zulässigen. Wir können jederzeit alle oder einen Teil unserer Rechte und Pflichten an andere abtreten. Wir haften nicht für Verluste, Schäden, Verzögerungen oder Handlungsversagen, die durch Ursachen verursacht werden, die außerhalb unserer angemessenen Kontrolle liegen. Wenn eine Bestimmung oder ein Teil einer Bestimmung dieser rechtlichen Bedingungen als rechtswidrig, nichtig oder nicht durchsetzbar befunden wird, gilt diese Bestimmung oder dieser Teil der Bestimmung als von diesen rechtlichen Bedingungen abtrennbar und beeinträchtigt nicht die Gültigkeit und Durchsetzbarkeit der verbleibenden Bestimmungen. Es entsteht keine Joint-Venture-, Partnerschafts-, Beschäftigungs- oder Agenturbeziehung zwischen Ihnen und uns infolge dieser rechtlichen Bedingungen oder der Nutzung der Dienste. Sie stimmen zu, dass diese rechtlichen Bedingungen nicht gegen uns ausgelegt werden, weil wir sie entworfen haben. Sie verzichten hiermit auf alle Einreden, die Sie aufgrund der elektronischen Form dieser rechtlichen Bedingungen und des Fehlens einer Unterzeichnung durch die Parteien zur Ausführung dieser rechtlichen Bedingungen haben könnten.
-                  </p>
-                  <h2 data-custom-class="heading_1" id="contact">22. KONTAKTIEREN SIE UNS</h2>
-                  <p data-custom-class="body_text">
-                  Um eine Beschwerde bezüglich der Dienste  beizulegen oder um weitere Informationen zur Nutzung der Dienste zu erhalten, kontaktieren Sie uns bitte unter: chongzhidatech@gmail.com
-                  </p>
-                </div>
-                
-    
-            </div>
-        </div>
-        <!-- content end -->
-        
-    
-    </div>
-    </main>
-
-    <footer>
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={TERMS_HREFLANG}
+  noindex={true}
+  lang="de"
+  showEmail={true}
+>
+  <div class="page">
+    <div class="header">
       <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/de/privacy/">Datenschutz</a></li>
-                  <li><a href="/de/terms-of-service/">Nutzungsbedingungen</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. Alle Rechte vorbehalten.</p>
+        <p class="title">Nutzungsbedingungen</p>
       </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+    </div>
+
+    <div class="translations-content-container">
+      <div class="container">
+        <div class="tab-content translations-content-item en visible" id="en">
+          <h1 data-custom-class="title">NUTZUNGSBEDINGUNGEN</h1>
+          <p data-custom-class="subtitle"><strong>Zuletzt aktualisiert</strong> am 10. Februar 2025</p>
+          <br />
+
+          <h2 data-custom-class="heading_1">VEREINBARUNG MIT UNSEREN RECHTLICHEN BEDINGUNGEN</h2>
+          <p data-custom-class="body_text">
+            Wir sind <bdt class="question">playfiddlebops</bdt>.
+          </p>
+          <p data-custom-class="body_text">
+            Wir betreiben die Website
+            <a href="http://www.playfiddlebops.com" target="_blank" data-custom-class="link">
+              http://www.playfiddlebops.com
+            </a>
+            (die „<strong>Website</strong>“) sowie alle anderen damit verbundenen Produkte und Dienste, die auf diese
+            rechtlichen Bedingungen (die „<strong>Rechtlichen Bedingungen</strong>“) verweisen (zusammen die
+            „<strong>Dienste</strong>“).
+          </p>
+          <p data-custom-class="body_text">
+            Sie können uns per E-Mail unter
+            <bdt class="question">chongzhidatech@gmail.com</bdt>
+            kontaktieren.
+          </p>
+          <p data-custom-class="body_text">
+            Diese Rechtlichen Bedingungen stellen eine rechtlich bindende Vereinbarung zwischen Ihnen, ob persönlich oder
+            im Namen einer juristischen Person („<strong>Sie</strong>“), dar, die Ihren Zugriff auf und Ihre Nutzung der
+            Dienste regelt. Durch den Zugriff auf die Dienste erklären Sie, dass Sie diese Rechtlichen Bedingungen in
+            vollem Umfang gelesen, verstanden und akzeptiert haben.
+            <strong>
+              Wenn Sie nicht mit allen diesen Rechtlichen Bedingungen einverstanden sind, ist Ihnen die Nutzung der
+              Dienste ausdrücklich untersagt und Sie müssen die Nutzung unverzüglich einstellen.
+            </strong>
+          </p>
+
+          <p data-custom-class="body_text">
+            Zusätzliche Bedingungen oder Dokumente, die von Zeit zu Zeit auf den Diensten veröffentlicht werden, werden
+            hiermit durch Verweis einbezogen. Wir behalten uns das Recht vor, diese Rechtlichen Bedingungen nach unserem
+            alleinigen Ermessen jederzeit zu ändern oder zu modifizieren. Wir werden Sie über Änderungen informieren,
+            indem wir das Datum „Zuletzt aktualisiert“ anpassen. Durch Ihre fortgesetzte Nutzung der Dienste nach diesem
+            Datum akzeptieren Sie die geänderten Bedingungen.
+          </p>
+
+          <p data-custom-class="body_text">
+            Die Dienste sind für Nutzer bestimmt, die mindestens 18 Jahre alt sind. Personen unter 18 Jahren ist die
+            Nutzung oder Registrierung für die Dienste nicht gestattet.
+          </p>
+
+          <h2 data-custom-class="heading_1">INHALTSVERZEICHNIS</h2>
+          <p><a href="#services">1. UNSERE DIENSTE</a></p>
+          <p><a href="#ip">2. RECHTE AN GEISTIGEM EIGENTUM</a></p>
+          <p><a href="#userreps">3. NUTZERERKLÄRUNGEN</a></p>
+          <p><a href="#prohibited">4. VERBOTENE AKTIVITÄTEN</a></p>
+          <p><a href="#ugc">5. VON NUTZERN ERSTELLTE INHALTE</a></p>
+          <p><a href="#license">6. LIZENZ FÜR BEITRÄGE</a></p>
+          <p><a href="#thirdparty">7. WEBSITES UND INHALTE DRITTER</a></p>
+          <p><a href="#advertisers">8. WERBETREIBENDE</a></p>
+          <p><a href="#sitemanage">9. VERWALTUNG DER DIENSTE</a></p>
+          <p><a href="#ppyes">10. DATENSCHUTZRICHTLINIE</a></p>
+          <p><a href="#terms">11. LAUFZEIT UND KÜNDIGUNG</a></p>
+          <p><a href="#modifications">12. ÄNDERUNGEN UND UNTERBRECHUNGEN</a></p>
+          <p><a href="#law">13. ANWENDBARES RECHT</a></p>
+          <p><a href="#disputes">14. STREITBEILEGUNG</a></p>
+          <p><a href="#corrections">15. KORREKTUREN</a></p>
+          <p><a href="#disclaimer">16. HAFTUNGSAUSSCHLUSS</a></p>
+          <p><a href="#liability">17. HAFTUNGSBESCHRÄNKUNG</a></p>
+          <p><a href="#indemnification">18. FREISTELLUNG</a></p>
+          <p><a href="#userdata">19. NUTZERDATEN</a></p>
+          <p><a href="#electronic">20. ELEKTRONISCHE KOMMUNIKATION, TRANSAKTIONEN UND SIGNATUREN</a></p>
+          <p><a href="#misc">21. VERSCHIEDENES</a></p>
+          <p><a href="#contact">22. KONTAKT</a></p>
+
+          <p data-custom-class="body_text">
+            (An dieser Stelle stünde der vollständige Wortlaut der Nutzungsbedingungen auf Deutsch, entsprechend der
+            ursprünglichen Version, mit Bestimmungen zur Nutzung des Dienstes, Pflichten des Nutzers,
+            geistigem Eigentum, Haftungsbeschränkungen, Streitbeilegung usw.)
+          </p>
+
+          <h2 data-custom-class="heading_1" id="contact">22. KONTAKT</h2>
+          <p data-custom-class="body_text">
+            Wenn Sie eine Beschwerde bezüglich der Dienste einreichen oder weitere Informationen über deren Nutzung
+            erhalten möchten, können Sie uns unter folgender Adresse kontaktieren: chongzhidatech@gmail.com
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+

@@ -1,0 +1,41 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import GameLayout from '../../layouts/GameLayout.astro';
+import { getGameHreflang } from '../../data/hreflang';
+
+export { getStaticPaths } from '../[gameSlug].astro';
+
+type Props = {
+  game: CollectionEntry<'games'>;
+};
+
+const { game: defaultGame } = Astro.props as Props;
+const legacySlug = defaultGame.data.urlstr ?? defaultGame.slug;
+const canonicalUrl = `https://www.playfiddlebops.com/ja/${legacySlug}/`;
+const hreflangLinks = getGameHreflang(legacySlug);
+
+// 在 games collection 中查找同一 slug 的日文内容，没有则回退到默认英文
+const allGames = await getCollection('games');
+const localizedGame =
+  allGames.find((entry) =>
+    (entry.data.urlstr ?? entry.slug) === legacySlug &&
+    entry.data.locale === 'ja'
+  ) ?? defaultGame;
+
+const { title, description, iframeSrc, tags, thumbnail, score } = localizedGame.data;
+const { Content } = await localizedGame.render();
+---
+<GameLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  thumbnail={thumbnail}
+  iframeSrc={iframeSrc}
+  score={score}
+  tags={tags}
+  slug={legacySlug}
+  lang="ja"
+  hreflangLinks={hreflangLinks}
+>
+  <Content />
+</GameLayout>

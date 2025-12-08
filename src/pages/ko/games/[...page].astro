@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { GAMES_HREFLANG } from '../../../data/hreflang';
+import { allGames } from '../../../data/games.js';
+
+export function getStaticPaths({ paginate }) {
+  // 영어 버전과 동일한 allGames 데이터를 사용해 페이징 처리
+  return paginate(allGames, { pageSize: 30 });
+}
+
+// 所有分页数据都在 "page" 参数中传递
+const { page } = Astro.props;
+const prefix = '/ko';
+const title = '전체 게임 - FiddleBops 게임 월드';
+const description =
+  'FiddleBops 게임 월드에 포함된 모든 게임 목록입니다. Incredibox, Sprunki 등 음악 창작 게임을 다운로드 없이 무료로 즐겨보세요.';
+const canonicalUrl = 'https://www.playfiddlebops.com/ko/games/';
+const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: title,
+  alternateName: 'playfiddlebops.com',
+  url: canonicalUrl,
+  description
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={ogImage}
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={GAMES_HREFLANG}
+  lang="ko"
+>
+  <section class="games">
+    <div class="container">
+      <h1>전체 게임</h1>
+      <div class="game-grid">
+        {page.data.map(({ astronaut }) => {
+          const [href, thumbnail, gameTitle] = astronaut;
+          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
+
+          return (
+            <article class="game">
+              <a href={localizedHref} title={gameTitle}>
+                <div class="game-logo game-l-2">
+                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <div class="game-overlay">
+                    <p>{gameTitle}</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+
+      <div class="pagination">
+        {page.url.prev && <a href={page.url.prev}>«</a>}
+        <b class="current">
+          {page.currentPage} / {page.lastPage}
+        </b>
+        {page.url.next && <a href={page.url.next}>»</a>}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,18 +1,21 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import NAV from '../../components/Nav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 import CATEGORIES from '../../components/Categories.astro';
+import { getCategoryHreflang } from '../../data/hreflang';
 export async function getStaticPaths() {
   const allGames = await getCollection('games');
+  // 只使用英文 canonical 游戏作为分类基准，避免各语言版本重复出现在分类列表中
+  const canonicalGames = allGames.filter((game) => game.data.locale === 'en');
   // Minimal slugify: convert spaces to hyphens and lowercase
   const slugify = (s) => s.trim().toLowerCase().replace(/\s+/g, '-');
   
   // Since tags will be consistently lowercase, we can use a simple Set.
-  const uniqueTags = [...new Set(allGames.flatMap(game => game.data.tags || []).filter(Boolean))];
+  const uniqueTags = [...new Set(canonicalGames.flatMap((game) => game.data.tags || []).filter(Boolean))];
 
   return uniqueTags.map(tag => {
     // Filter games that include the current tag.
-    const filteredGames = allGames.filter(game => game.data.tags?.includes(tag));
+    const filteredGames = canonicalGames.filter((game) => game.data.tags?.includes(tag));
 
     // Sort games by release date, newest first
     // Handle missing releaseDate by defaulting to 0 (oldest)
@@ -36,249 +39,79 @@ type Props = {
   tagName: string;
 };
 
-const { games, tagName } = Astro.props;
+const { games, tagName } = Astro.props as Props;
+const slug = Astro.params.slug!;
+const hreflangLinks = getCategoryHreflang(slug);
+
+// 规范化展示用的分类名称（首字母大写）
+const displayTagName = tagName
+  .split(' ')
+  .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+  .join(' ');
 
 // Generate SEO-friendly description
 const gameCount = games.length;
-const description = `Play ${gameCount} ${tagName} games online for free. Discover the best ${tagName} games including ${games.slice(0, 3).map(g => g.data.title.split(' - ')[0]).join(', ')} and more!`;
+const description = `Play ${gameCount} ${displayTagName} games online for free. Discover the best ${displayTagName} games including ${games
+  .slice(0, 3)
+  .map((g) => g.data.title.split(' - ')[0])
+  .join(', ')} and more!`;
+
+const title = `${displayTagName} Games - FiddleBops Game World`;
+const canonicalUrl = `https://www.playfiddlebops.com/c/${slug}/`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: title,
+  description,
+  url: canonicalUrl,
+  itemListElement: games.map((game, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    url: `https://www.playfiddlebops.com/${game.data.urlstr ?? game.slug}/`
+  }))
+};
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{tagName} Games - FiddleBops Game World</title>
-    <meta name="description" content={description}>
-    <meta name="robots" content="index, follow"/>
-    <link rel="canonical" href={`https://www.playfiddlebops.com/c/${Astro.params.slug}/`}/>
 
-    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
-    <link rel="stylesheet" href="/main.css">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <style>
-      audio {width:210px}
-.game-card .game-iframe-sprunki {
-  float:left;
-    width: 69%;
-    margin:0;
-    padding:0;
-     height:600px;
-     background-color:#fff;
-     position: relative;
-     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/tw.jpg);
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-size:cover;
-}
-      .game .game-l-2 img {
-    width: 100%!important;
-    height:auto;
-    margin: 0 auto;}
-      @media screen and (max-width: 980px){
-        .game-card .game-iframe-sprunki {
-     width:100%;}
-      }
-      @media screen and (max-width: 768px){
-        audio {width: 120px}
-        .game-card .game-iframe-sprunki {
-     height:330px!important;
-}
-.game-info{display:none}
-        }
-          .tab-content{background-color:#fcfcfc;padding:80px 30px;border-radius:15px;margin-bottom:20px}
-
-.pagination{width: 100%;text-align: center;padding: 10px;margin:40px 0}
-.pagination b {
-    width:40px;
-    display: inline-block;
-    padding: 8px 10px;
-    border-radius: 5px;
-    margin: 10px 5px;
-    background: #666;
-    color: #fff;
-    border: 1px solid #666;
-}
-
-.pagination a {
-    width:40px;
-    display: inline-block;
-    padding: 8px 10px;
-    border-radius: 5px;
-    margin: 10px 5px;
-    background: #fff;
-    color: #000;
-    border: 1px solid #000;
-    text-decoration: none;
-}
-    </style>
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-      const navToggle = document.querySelector('.nav-toggle');
-      const navMenu = document.querySelector('.nav-menu');
-    
-      navToggle.addEventListener('click', function() {
-        navMenu.classList.toggle('active');
-      });
-
-    });
-    </script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div class="logo">
-                <h1><a href="/">Fiddle<span class="light">Bops</span></a></h1>
-            </div>
-             <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
-            <nav class="nav-menu">
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <NAV />
-                </ul>
-            </nav>
-      <select style="float:right;">
-        <option data-lang="en" data-url="/">English</option>
-        <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
-        <option data-lang="es" data-url="/es/">Español</option>
-        <option data-lang="fr" data-url="/fr/">Français</option>
-        <option data-lang="de" data-url="/de/">Deutsch</option>
-        <option data-lang="ja" data-url="/ja/">日本語</option>
-        <option data-lang="ko" data-url="/ko/">한국어</option>
-        </select>
-        </div>
-    </header>
-
-    <main>
-
-        <section class="games">
-            <div class="container">
-              <h2>{tagName} Games</h2>
-                 <div class="game-grid">
-      {games.map(game => (
-        <div class="game" style="padding:0px">
-          <a href={`/${game.slug}`} title={game.data.title} style="width:100%;">
-             <div class="game-logo game-l-2">
-                 <img src={game.data.thumbnail} alt={game.data.title} loading="lazy" width="300" height="300">
-                 <div class="game-overlay">
-                   <p>{game.data.title}</p>
-                 </div>
-             </div>
-          </a>
-        </div>
-      ))}
-                 </div>
-            </div>
-        </section>
-
-<CATEGORIES />
-
-    </main>
-
-    <footer>
-      <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/privacy/">Privacy Policy</a></li>
-                  <li><a href="/terms-of-service/">Terms of service</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
-      </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={hreflangLinks}
+  lang="en"
+>
+  <section class="games">
+    <div class="container">
+      <h1>{displayTagName} Games</h1>
+      <p>
+        Play {gameCount} {displayTagName} games online for free. Discover top picks and more.
+      </p>
+      <div class="game-grid">
+        {games.map((game) => {
+          const url = `/${game.data.urlstr ?? game.slug}/`;
+          const gameTitle = game.data.title.split(' - ')[0];
+          return (
+            <article class="game">
+              <a href={url}>
+                <div class="game-logo">
+                  <img
+                    src={game.data.thumbnail}
+                    alt={gameTitle}
+                    loading="lazy"
+                    width="300"
+                    height="300"
+                  />
+                </div>
+                <p>{gameTitle}</p>
+              </a>
+            </article>
           );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-<style>
-/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
-@media screen and (max-width: 980px) {
-    .a2a_floating_style.a2a_vertical_style { display: none; }
-}
-@media screen and (min-width: 980px) {
-    .a2a_floating_style.a2a_default_style { display: none; }
-}
-</style>
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+        })}
+      </div>
+    </div>
+  </section>
 
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
-</div>
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
-</div>
-
-<script defer src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</body>
-</html>
+  <CATEGORIES lang="en" />
+</BaseLayout>

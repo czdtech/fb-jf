@@ -1,0 +1,46 @@
+---
+locale: zh
+urlstr: one-line-only-dot-to-dot
+title: '[ZH TRANSLATION NEEDED] One line only: dot to dot'
+description: >-
+  [ZH TRANSLATION NEEDED] One line only: dot to dot is a neat one‑stroke puzzler
+  — draw a single line to cover all dots and segments without retracing.
+iframeSrc: 'https://7n3sql2bqn9eg.h5games.usercontent.goog/v/2br4t62jndh88/'
+thumbnail: /new-images/one-line-only-dot-to-dot.jpg
+tags:
+  - puzzle
+  - thinky
+score: 4.2/5  (2050 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+### Detailed Game Introduction
+
+[ZH TRANSLATION NEEDED] One line only: dot to dot follows the Euler path tradition: connect all points/edges with a single, unbroken stroke. Boards introduce bridges, forced turns, and parity tricks that require careful route planning and backtracking discipline.
+
+### Gameplay Strategy & Walkthrough
+1.  [ZH TRANSLATION NEEDED] Degree count: Start at odd‑degree nodes (0 or 2 exist for Euler trails); they suggest endpoints.
+2.  [ZH TRANSLATION NEEDED] Bridge first: Draw mandatory bridges early so you don’t lock them out later.
+3.  [ZH TRANSLATION NEEDED] Avoid isolating: Don’t complete loops that strand unvisited edges.
+4.  [ZH TRANSLATION NEEDED] Look‑ahead: Test two moves mentally; backtrack early when isolation appears.
+5.  [ZH TRANSLATION NEEDED] Symmetry: Use symmetrical halves to mirror partial routes.
+
+### Controls Guide
+
+- Drag to draw along segments; undo/clear via UI.
+
+### Frequently Asked Questions (FAQ)
+
+- Q: I end one step short — why?
+  
+[ZH TRANSLATION NEEDED]   A: You likely started at a wrong endpoint; try an odd‑degree node instead.
+
+- Q: Are crossings allowed?
+  
+[ZH TRANSLATION NEEDED]   A: Only along provided segments; no freehand crossings.
+
+- Q: Any hint system?
+  
+[ZH TRANSLATION NEEDED]   A: Many builds provide hints or highlight bridges.
+

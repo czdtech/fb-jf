@@ -7,31 +7,59 @@
  * @prop {string} siteName - Site name for copyright, defaults to "FiddleBops"
  * @prop {string} email - Contact email address
  * @prop {boolean} showEmail - Whether to show email address
+ * @prop {string} lang - Current language (for localized links)
  */
+import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
+
 interface Props {
   year?: number;
   siteName?: string;
   email?: string;
   showEmail?: boolean;
+  lang?: string;
 }
 
 const { 
   year = 2025, 
   siteName = 'FiddleBops',
   email = 'chongzhidatech@gmail.com',
-  showEmail = false
+  showEmail = false,
+  lang = 'en'
 } = Astro.props;
+
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
+
+const LANGUAGE_PREFIXES: Record<string, string> = {
+  'en': '',
+  'zh-CN': '/zh',
+  'es': '/es',
+  'fr': '/fr',
+  'de': '/de',
+  'ja': '/ja',
+  'ko': '/ko'
+};
+
+const prefix = LANGUAGE_PREFIXES[lang] ?? '';
+const privacyHref = `${prefix}/privacy/`;
+const termsHref = `${prefix}/terms-of-service/`;
 ---
 
 <footer>
   <div class="container">
     <nav>
       <ul>
-        <li><a href="/privacy/">Privacy Policy</a></li>
-        <li><a href="/terms-of-service/">Terms of service</a></li>
+        <li><a href={privacyHref}>{t('footer.privacyPolicy', 'Privacy Policy')}</a></li>
+        <li><a href={termsHref}>{t('footer.termsOfService', 'Terms of service')}</a></li>
       </ul>
     </nav>
-    <p class="copyright" style="text-align: left;">© {year} {siteName}. All rights reserved.</p>
-    {showEmail && <p style="text-align: left;margin-top:0">E-mail: {email}</p>}
+    <p class="copyright footer-align-left">
+      © {year} {siteName}. {t('footer.copyright', 'All rights reserved.')}
+    </p>
+    {showEmail && (
+      <p class="footer-align-left footer-email">
+        {t('footer.email', 'E-mail')}: {email}
+      </p>
+    )}
   </div>
 </footer>

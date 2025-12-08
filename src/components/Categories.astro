@@ -1,110 +1,130 @@
+---
+interface Props {
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props as Props;
+
+const LANGUAGE_PREFIXES: Record<string, string> = {
+  'en': '',
+  'zh-CN': '/zh',
+  'es': '/es',
+  'fr': '/fr',
+  'de': '/de',
+  'ja': '/ja',
+  'ko': '/ko'
+};
+
+const prefix = LANGUAGE_PREFIXES[lang] ?? '';
+---
+
 <section class="games categories">
   <div class="container">
     <h2>Game Categories</h2>
     <div class="category-grid">
-      <a class="category-card" href="/c/puzzle/" title="puzzle">
+      <a class="category-card" href={`${prefix}/c/puzzle/`} title="puzzle">
         <div class="category-card-content">
           <i class="fa-solid fa-puzzle-piece" aria-hidden="true"></i>
           <span>puzzle</span>
         </div>
       </a>
-      <a class="category-card" href="/c/casual/" title="casual">
+      <a class="category-card" href={`${prefix}/c/casual/`} title="casual">
         <div class="category-card-content">
           <i class="fa-solid fa-face-smile" aria-hidden="true"></i>
           <span>casual</span>
         </div>
       </a>
-      <a class="category-card" href="/c/thinky/" title="thinky">
+      <a class="category-card" href={`${prefix}/c/thinky/`} title="thinky">
         <div class="category-card-content">
           <i class="fa-solid fa-brain" aria-hidden="true"></i>
           <span>thinky</span>
         </div>
       </a>
-      <a class="category-card" href="/c/action/" title="action">
+      <a class="category-card" href={`${prefix}/c/action/`} title="action">
         <div class="category-card-content">
           <i class="fa-solid fa-bolt" aria-hidden="true"></i>
           <span>action</span>
         </div>
       </a>
-      <a class="category-card" href="/c/sports/" title="sports">
+      <a class="category-card" href={`${prefix}/c/sports/`} title="sports">
         <div class="category-card-content">
           <i class="fa-regular fa-futbol" aria-hidden="true"></i>
           <span>sports</span>
         </div>
       </a>
-      <a class="category-card" href="/c/strategy/" title="strategy">
+      <a class="category-card" href={`${prefix}/c/strategy/`} title="strategy">
         <div class="category-card-content">
           <i class="fa-solid fa-chess-knight" aria-hidden="true"></i>
           <span>strategy</span>
         </div>
       </a>
-      <a class="category-card" href="/c/platformer/" title="platformer">
+      <a class="category-card" href={`${prefix}/c/platformer/`} title="platformer">
         <div class="category-card-content">
           <i class="fa-solid fa-shoe-prints" aria-hidden="true"></i>
           <span>platformer</span>
         </div>
       </a>
-      <a class="category-card" href="/c/arcade/" title="arcade">
+      <a class="category-card" href={`${prefix}/c/arcade/`} title="arcade">
         <div class="category-card-content">
           <i class="fa-solid fa-gamepad" aria-hidden="true"></i>
           <span>arcade</span>
         </div>
       </a>
-      <a class="category-card" href="/c/shooting/" title="shooting">
+      <a class="category-card" href={`${prefix}/c/shooting/`} title="shooting">
         <div class="category-card-content">
           <i class="fa-solid fa-crosshairs" aria-hidden="true"></i>
           <span>shooting</span>
         </div>
       </a>
-      <a class="category-card" href="/c/card/" title="card">
+      <a class="category-card" href={`${prefix}/c/card/`} title="card">
         <div class="category-card-content">
           <i class="fa-regular fa-gem" aria-hidden="true"></i>
           <span>card</span>
         </div>
       </a>
-      <a class="category-card" href="/c/rhythm/" title="rhythm">
+      <a class="category-card" href={`${prefix}/c/rhythm/`} title="rhythm">
         <div class="category-card-content">
           <i class="fa-solid fa-drum" aria-hidden="true"></i>
           <span>rhythm</span>
         </div>
       </a>
-      <a class="category-card" href="/c/adventure/" title="adventure">
+      <a class="category-card" href={`${prefix}/c/adventure/`} title="adventure">
         <div class="category-card-content">
           <i class="fa-regular fa-compass" aria-hidden="true"></i>
           <span>adventure</span>
         </div>
       </a>
-      <a class="category-card" href="/c/music/" title="music">
+      <a class="category-card" href={`${prefix}/c/music/`} title="music">
         <div class="category-card-content">
           <i class="fa-solid fa-music" aria-hidden="true"></i>
           <span>music</span>
         </div>
       </a>
-      <a class="category-card" href="/c/clicker/" title="clicker">
+      <a class="category-card" href={`${prefix}/c/clicker/`} title="clicker">
         <div class="category-card-content">
           <i class="fa-regular fa-hand-pointer" aria-hidden="true"></i>
           <span>clicker</span>
         </div>
       </a>
-      <a class="category-card" href="/c/driving/" title="driving">
+      <a class="category-card" href={`${prefix}/c/driving/`} title="driving">
         <div class="category-card-content">
           <i class="fa-solid fa-car" aria-hidden="true"></i>
           <span>driving</span>
         </div>
       </a>
-      <a class="category-card" href="/c/physics/" title="physics">
+      <a class="category-card" href={`${prefix}/c/physics/`} title="physics">
         <div class="category-card-content">
           <i class="fa-solid fa-atom" aria-hidden="true"></i>
           <span>physics</span>
         </div>
       </a>
-      <a class="category-card" href="/c/multiplayer/" title="multiplayer">
+      <a class="category-card" href={`${prefix}/c/multiplayer/`} title="multiplayer">
         <div class="category-card-content">
           <i class="fa-solid fa-users" aria-hidden="true"></i>
           <span>multiplayer</span>
         </div>
       </a>
-      <a class="category-card" href="/c/2-player/" title="2 Player">
+      <a class="category-card" href={`${prefix}/c/2-player/`} title="2 Player">
         <div class="category-card-content">
           <i class="fa-solid fa-cogs" aria-hidden="true"></i>
           <span>2 Player</span>
@@ -113,3 +133,4 @@
     </div>
   </div>
 </section>
+

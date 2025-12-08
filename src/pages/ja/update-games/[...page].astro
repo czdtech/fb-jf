@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { UPDATE_GAMES_HREFLANG } from '../../../data/hreflang';
+export { getStaticPaths } from '../../update-games/[...page].astro';
+
+const { page } = Astro.props;
+const prefix = '/ja';
+const title = '新着ゲーム - FiddleBops ゲームワールド';
+const description =
+  'FiddleBops ゲームワールドに新しく追加されたゲーム一覧です。音楽、パズル、アーケードなど最新タイトルを、ダウンロードなしで無料プレイできます。';
+const canonicalUrl = 'https://www.playfiddlebops.com/new-game/';
+const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: title,
+  alternateName: 'playfiddlebops.com',
+  url: canonicalUrl,
+  description
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={ogImage}
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={UPDATE_GAMES_HREFLANG}
+  lang="ja"
+>
+  <section class="games">
+    <div class="container">
+      <h1>新着ゲーム</h1>
+      <p>
+        FiddleBops に追加された最新ゲームをチェックしてみましょう。
+      </p>
+
+      <div class="game-grid">
+        {page.data.map(({ astronaut }) => {
+          const [href, thumbnail, gameTitle] = astronaut;
+          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
+
+          return (
+            <article class="game">
+              <a href={localizedHref} title={gameTitle}>
+                <div class="game-logo">
+                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                </div>
+                <p>{gameTitle}</p>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+
+      <div class="pagination">
+        {page.url.prev && <a href={page.url.prev}>«</a>}
+        <b class="current">
+          {page.currentPage} / {page.lastPage}
+        </b>
+        {page.url.next && <a href={page.url.next}>»</a>}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

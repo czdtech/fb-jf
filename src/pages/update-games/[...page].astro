@@ -1,5 +1,6 @@
 ---
-import NAV from '../../components/Nav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { UPDATE_GAMES_HREFLANG } from '../../data/hreflang';
 export function getStaticPaths({ paginate }) {
   const astronautPages = [
     { astronaut: ["/grow-a-garden/","/growagarden-min.jpeg","Grow a Garden"] },
@@ -621,272 +622,63 @@ export function getStaticPaths({ paginate }) {
 }
 // 所有分页数据都在 "page" 参数中传递
 const { page } = Astro.props;
+const title = 'New Games - FiddleBops Game World';
+const description =
+  'Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.';
+const canonicalUrl = 'https://www.playfiddlebops.com/new-game/';
+const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: title,
+  alternateName: 'playfiddlebops.com',
+  url: canonicalUrl,
+  description
+};
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>New Games - FiddleBops Game World</title>
-    <meta name="description" content="Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks.">
-    <meta name="robots" content="index, follow"/>
-    <link rel="canonical" href="https://www.playfiddlebops.com/new-game/"/>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Game",
-      "name": "New Games - FiddleBops Game World",
-      "alternateName": "playfiddlebops.com",
-      "url": "https://www.playfiddlebops.com/new-game/",
-      "description": "Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks."
-    }
-    </script>
-    
-    <meta property="og:title" content="New Games - FiddleBops Game World"/>
-    <meta property="og:description" content="Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks."/>
-    <meta property="og:url" content="https://www.playfiddlebops.com/new-game/"/>
-    <meta property="og:site_name" content="FiddleBops"/>
-    <meta property="og:locale" content="en_US"/>
-    <meta property="og:image" content="https://www.playfiddlebops.com/tw.jpg"/>
-    <meta property="og:type" content="website"/>
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={ogImage}
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={UPDATE_GAMES_HREFLANG}
+  lang="en"
+>
+  <section class="games">
+    <div class="container">
+      <h1>New Games</h1>
+      <p>
+        Discover the latest games added to FiddleBops. Play new and updated titles online for free, no
+        download required.
+      </p>
 
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content="https://www.playfiddlebops.com/new-game/"/>
-    <meta name="twitter:title" content="New Games - FiddleBops Game World"/>
-    <meta name="twitter:description" content="Create your unique music with FiddleBops! This fan-made project, inspired by Incredibox, lets you mix and match various sounds to compose personalized tracks."/>
-    <meta name="twitter:image" content="https://www.playfiddlebops.com/tw.jpg"/>
+      <div class="game-grid">
+        {page.data.map(({ astronaut }) => {
+          const [href, thumbnail, gameTitle] = astronaut;
 
-    <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
-    <link rel="stylesheet" href="/main.css">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <style>
-      audio {width:210px}
-.game-card .game-iframe-sprunki {
-  float:left;
-    width: 69%;
-    margin:0;
-    padding:0;
-     height:600px;
-     background-color:#fff;
-     position: relative;
-     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/tw.jpg);
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-size:cover;
-}
-      .game .game-l-2 img {
-    width: 100%!important;
-    height:auto;
-    margin: 0 auto;}
-      @media screen and (max-width: 980px){
-        .game-card .game-iframe-sprunki {
-     width:100%;}
-      }
-      @media screen and (max-width: 768px){
-        audio {width: 120px}
-        .game-card .game-iframe-sprunki {
-     height:330px!important;
-}
-.game-info{display:none}
-        }
-          .tab-content{background-color:#fcfcfc;padding:80px 30px;border-radius:15px;margin-bottom:20px}
-
-.pagination{width: 100%;text-align: center;padding: 10px;margin:40px 0}
-.pagination b {
-    width:40px;
-    display: inline-block;
-    padding: 8px 10px;
-    border-radius: 5px;
-    margin: 10px 5px;
-    background: #666;
-    color: #fff;
-    border: 1px solid #666;
-}
-
-.pagination a {
-    width:40px;
-    display: inline-block;
-    padding: 8px 10px;
-    border-radius: 5px;
-    margin: 10px 5px;
-    background: #fff;
-    color: #000;
-    border: 1px solid #000;
-    text-decoration: none;
-}
-    </style>
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-      const navToggle = document.querySelector('.nav-toggle');
-      const navMenu = document.querySelector('.nav-menu');
-    
-      navToggle.addEventListener('click', function() {
-        navMenu.classList.toggle('active');
-      });
-
-    });
-    </script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div class="logo">
-                <h1><a href="/">Fiddle<span class="light">Bops</span></a></h1>
-            </div>
-             <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
-            <nav class="nav-menu">
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <NAV />
-                </ul>
-            </nav>
-      <select style="float:right;">
-        <option data-lang="en" data-url="/">English</option>
-        <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
-        <option data-lang="es" data-url="/es/">Español</option>
-        <option data-lang="fr" data-url="/fr/">Français</option>
-        <option data-lang="de" data-url="/de/">Deutsch</option>
-        <option data-lang="ja" data-url="/ja/">日本語</option>
-        <option data-lang="ko" data-url="/ko/">한국어</option>
-        </select>
-        </div>
-    </header>
-
-    <main>
-
-        <section class="games">
-            <div class="container">
-              <h2>New Games</h2>
-                 <div class="game-grid">
-{page.data.map(({ astronaut }) =>
-                   <div class="game" style="padding:0px"><a href={astronaut[0]} title={astronaut[2]} style="width:100%;">
-                        <div class="game-logo game-l-2">
-                            <img src={astronaut[1]} alt={astronaut[2]} loading="lazy" width="300" height="300">
-                     <div class="game-overlay">
-                       <p>{astronaut[2]}</p>
-                     </div>
-                         </div>
-                        </a>
-                    </div>)}
-
-
-                 </div>
-            </div>
-        </section>
-<div class="pagination">
-
-<a href={page.url.prev}>«</a>
-<b class="current">{page.currentPage}  / {page.lastPage} </b>
-<a href={page.url.next}>»</a>
-
-</div>
-
-    </main>
-
-    <footer>
-      <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/privacy/">Privacy Policy</a></li>
-                  <li><a href="/terms-of-service/">Terms of service</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. All rights reserved.</p>
-      </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
+          return (
+            <article class="game">
+              <a href={href} title={gameTitle}>
+                <div class="game-logo">
+                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                </div>
+                <p>{gameTitle}</p>
+              </a>
+            </article>
           );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-<style>
-/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
-@media screen and (max-width: 980px) {
-    .a2a_floating_style.a2a_vertical_style { display: none; }
-}
-@media screen and (min-width: 980px) {
-    .a2a_floating_style.a2a_default_style { display: none; }
-}
-</style>
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+        })}
+      </div>
 
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
-</div>
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
-<a class="a2a_button_x"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_whatsapp"></a>
-<a class="a2a_button_linkedin"></a>
-    <a class="a2a_dd" href="https://www.playfiddlebops.com/"></a>
-</div>
-
-<script defer src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</body>
-</html>
+      <div class="pagination">
+        {page.url.prev && <a href={page.url.prev}>«</a>}
+        <b class="current">
+          {page.currentPage} / {page.lastPage}
+        </b>
+        {page.url.next && <a href={page.url.next}>»</a>}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

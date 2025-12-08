@@ -132,3 +132,44 @@ export function getAvailableLocales() {
 export function isValidLocale(locale: string): locale is Locale {
   return locales.includes(locale as Locale);
 }
+
+/**
+ * Map HTML lang attribute (e.g. "zh-CN") or component-level lang props
+ * to our internal Locale codes (e.g. "zh").
+ *
+ * Components like Header, Footer, and GameLayout use values such as
+ * "zh-CN" for the <html lang> attribute, while the i18n system expects
+ * shorter locale codes defined in `locales`.
+ */
+export function getLocaleFromLangAttr(langAttr: string | undefined): Locale {
+  if (!langAttr) return defaultLocale;
+
+  switch (langAttr) {
+    case 'en':
+    case 'en-US':
+    case 'en-GB':
+      return 'en';
+    case 'zh':
+    case 'zh-CN':
+    case 'zh-Hans':
+      return 'zh';
+    case 'es':
+    case 'es-ES':
+    case 'es-MX':
+      return 'es';
+    case 'fr':
+    case 'fr-FR':
+      return 'fr';
+    case 'de':
+    case 'de-DE':
+      return 'de';
+    case 'ja':
+    case 'ja-JP':
+      return 'ja';
+    case 'ko':
+    case 'ko-KR':
+      return 'ko';
+    default:
+      return defaultLocale;
+  }
+}

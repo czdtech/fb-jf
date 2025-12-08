@@ -22,22 +22,18 @@ const {
   size = 16 
 } = Astro.props;
 
-const filledColor = '#ffd223';
-const emptyColor = '#9E9E9E';
 ---
 
 <div class="stars">
   {Array.from({ length: maxStars }, (_, i) => {
     const isFilled = i < rating;
-    const color = isFilled ? filledColor : emptyColor;
     return (
       <svg 
         width={size} 
         viewBox="0 -960 960 960" 
         height={size} 
         xmlns="http://www.w3.org/2000/svg" 
-        style={`--backgroundColor: ${color}; --hoverColor: ${color}; fill: ${color};`}
-        class="star-icon"
+        class={isFilled ? 'star-icon star-icon--filled' : 'star-icon star-icon--empty'}
       >
         <path d="m233-80 65-281L80-550l288-25 112-265 112 265 288 25-218 189 65 281-247-149L233-80Z" shape-rendering="geometricPrecision"></path>
       </svg>

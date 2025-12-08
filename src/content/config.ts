@@ -10,6 +10,8 @@ const gamesCollection = defineCollection({
     thumbnail: z.string(), // 游戏缩略图的路径，必须是字符串 (例如 /thumbnails/game.jpg)
     tags: z.array(z.string()), // 游戏标签，必须是一个字符串数组
     urlstr: z.string(),
+    // 内容语言，用于多语言详情页选择（默认英文）
+    locale: z.enum(['en', 'zh', 'ja', 'es', 'fr', 'de', 'ko']).default('en'),
     // 使用 .optional() 来定义可选字段
     developer: z.string().optional(), // 开发者名称，可选的字符串
     releaseDate: z.date().optional(), // 发布日期，可选的日期对象

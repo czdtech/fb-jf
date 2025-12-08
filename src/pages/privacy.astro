@@ -1,23 +1,30 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { PRIVACY_HREFLANG } from '../data/hreflang';
 
 const title = 'Privacy Policy | FiddleBops';
 const description = 'Privacy Policy for FiddleBops - Learn how we collect, use and protect your personal data when you use our service.';
 const canonicalUrl = 'https://www.playfiddlebops.com/privacy/';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonicalUrl,
+  description
+};
 ---
 
 <BaseLayout
   title={title}
   description={description}
   canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={PRIVACY_HREFLANG}
+  noindex={true}
   lang="en"
   showEmail={true}
 >
-  <style>
-    .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-    .page .title{color:#fff}
-  </style>
-
   <div class="page">
 
         <div class="header">

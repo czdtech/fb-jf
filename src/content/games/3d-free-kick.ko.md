@@ -1,0 +1,42 @@
+---
+locale: ko
+urlstr: 3d-free-kick
+title: '[KO] 3D Free Kick'
+description: >-
+  [KO] 3D Free Kick lets you bend it like a pro — aim the wall, curve the ball,
+  and score stylish set‑pieces.
+iframeSrc: 'https://78b0enfiv98go.h5games.usercontent.goog/v/00acsktd29tjg/'
+thumbnail: /new-images/3d-free-kick.png
+tags:
+  - sports
+  - soccer
+score: 4.1/5  (1866 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+
+
+### Detailed Game Introduction
+
+3D Free Kick focuses on set‑piece mastery: pick a target, curve around the wall, and beat the keeper. Stages vary wall size, keeper reactions, distance, and wind to test precision and shot shaping.
+
+### Gameplay Strategy & Walkthrough
+
+1.  **[KO]** Target corners: High/low corners are hardest to reach for keepers.
+2.  **[KO]** Add controlled curve: Apply just enough spin to clear the wall and dip inside the post.
+3.  **[KO]** Read wind: Offset your aim and spin according to wind direction/strength (if present).
+4.  **[KO]** Mix heights: Flat drives for close range; dipping shots for longer walls.
+5.  **[KO]** Learn keeper tells: Some keepers step early—fake lines and bend late.
+
+### Controls Guide
+
+- Aim: Drag to set direction and height.
+- Power: Control swipe length/hold duration.
+- Curve: Swipe curve or adjust spin slider to apply sidespin/topspin.
+
+### Frequently Asked Questions (FAQ)
+
+- My shots hit the wall—how to fix? Start wider and add a bit more curve; or raise trajectory slightly.
+- Keeper keeps catching—tips? Aim for far post with late curl; vary height to break patterns.
+- Does wind matter? Yes—counter it with opposite‑direction curve and offset aim.

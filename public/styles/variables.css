@@ -9,23 +9,23 @@
   /* ===========================================
    * COLOR PALETTE
    * =========================================== */
-  
+
   /* Primary Colors - Orange theme */
   --color-primary: #ff9800;
   --color-primary-light: #ffb74d;
   --color-primary-dark: #f57c00;
   --color-primary-darker: #e65100;
-  
+
   /* Secondary Colors - Deep orange/red accents */
   --color-secondary: #ff7043;
   --color-secondary-dark: #e64a19;
   --color-accent-red: #ef5350;
   --color-accent-red-dark: #c62828;
-  
+
   /* Success/Action Colors */
   --color-success: #4caf50;
   --color-success-dark: #388e3c;
-  
+
   /* Background Colors */
   --color-bg-primary: #364869;
   --color-bg-light: #fff8e1;
@@ -33,7 +33,7 @@
   --color-bg-gray: #f3f3f3;
   --color-bg-card: #fcfcfc;
   --color-bg-dark: #35466a;
-  
+
   /* Text Colors */
   --color-text-primary: #333;
   --color-text-dark: #212121;
@@ -41,22 +41,22 @@
   --color-text-muted: #757575;
   --color-text-light: #ccc;
   --color-text-white: #fff;
-  
+
   /* Link Colors */
   --color-link: orange;
   --color-link-hover: #333;
   --color-link-footer-hover: #ffc107;
-  
+
   /* Border Colors */
   --color-border: #ddd;
   --color-border-light: #eee;
-  
+
   /* Overlay Colors */
   --color-overlay: rgba(0, 0, 0, 0.6);
   --color-overlay-dark: rgba(0, 0, 0, 0.7);
   --color-overlay-button: rgba(0, 0, 0, 0.5);
   --color-nav-overlay: rgba(54, 72, 105, 0.95);
-  
+
   /* Shadow Colors */
   --color-shadow: rgba(0, 0, 0, 0.2);
   --color-shadow-hover: rgba(0, 0, 0, 0.2);
@@ -72,15 +72,16 @@
   --spacing-xl: 20px;
   --spacing-2xl: 30px;
   --spacing-3xl: 50px;
+  --spacing-4xl: 80px;
 
   /* ===========================================
    * TYPOGRAPHY
    * =========================================== */
-  
+
   /* Font Families */
-  --font-family-primary: 'Poppins', sans-serif;
+  --font-family-primary: "Poppins", sans-serif;
   --font-family-icons: "Font Awesome 6 Free";
-  
+
   /* Font Sizes */
   --font-size-xs: 0.8em;
   --font-size-sm: 12px;
@@ -90,7 +91,7 @@
   --font-size-xl: 1.5em;
   --font-size-2xl: 2em;
   --font-size-3xl: 3em;
-  
+
   /* Font Weights */
   --font-weight-light: 300;
   --font-weight-normal: 400;
@@ -102,7 +103,7 @@
    * =========================================== */
   --container-max-width: 1200px;
   --header-height: auto;
-  
+
   /* ===========================================
    * BORDER RADIUS
    * =========================================== */

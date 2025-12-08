@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { SPRUNKI_MOD_HREFLANG } from '../../../data/hreflang';
+export { getStaticPaths } from '../../sprunki-mod/[...page].astro';
+
+const { page } = Astro.props;
+const prefix = '/es';
+const title = 'Sprunki Mod - Sprunki Game World';
+const description =
+  'Explora mods, spin-offs y versiones especiales inspiradas en Sprunki. Juega gratis en línea, sin descargar.';
+const canonicalUrl = 'https://www.playfiddlebops.com/es/sprunki-mod/';
+const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: title,
+  alternateName: 'playfiddlebops.com',
+  url: canonicalUrl,
+  description
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={ogImage}
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={SPRUNKI_MOD_HREFLANG}
+  lang="es"
+>
+  <section class="games">
+    <div class="container">
+      <h1>Sprunki Mod</h1>
+      <p>
+        Colección de mods, spin-offs y versiones creativas de Sprunki.
+      </p>
+
+      <div class="game-grid">
+        {page.data.map(({ astronaut }) => {
+          const [href, thumbnail, gameTitle] = astronaut;
+          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
+
+          return (
+            <article class="game">
+              <a href={localizedHref} title={gameTitle}>
+                <div class="game-logo game-l-2">
+                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <div class="game-overlay">
+                    <p>{gameTitle}</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+
+      <div class="pagination">
+        {page.url.prev && <a href={page.url.prev}>«</a>}
+        <b class="current">
+          {page.currentPage} / {page.lastPage}
+        </b>
+        {page.url.next && <a href={page.url.next}>»</a>}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -17,8 +17,16 @@
     "snapshot:urls:after": "node scripts/url-snapshot.mjs --after",
     "compare:seo": "node scripts/seo-compare.mjs",
     "compare:sitemap": "node scripts/sitemap-compare.mjs",
-    "test": "npm run build && vitest --run",
-    "test:unit": "npm run build && vitest --run",
+    "baseline:i18n": "node --experimental-strip-types scripts/baseline-i18n-analysis.mts",
+    "validate:i18n": "node --experimental-strip-types scripts/validate-i18n-metadata.mts && node --experimental-strip-types scripts/validate-i18n-structure.mts",
+    "validate:i18n:json": "node --experimental-strip-types scripts/validate-i18n-json-keys.mts",
+    "validate:pages": "node --experimental-strip-types scripts/validate-page-structure.mts",
+    "validate:batch": "node --experimental-strip-types scripts/validate-batch.mts",
+    "generate:stubs": "node --experimental-strip-types scripts/generate-i18n-stubs.mts",
+    "coverage:report": "node --experimental-strip-types scripts/generate-coverage-report.mts",
+    "cleanup:markers": "node --experimental-strip-types scripts/cleanup-i18n-markers.mts",
+    "test": "npm run build && npm run validate:i18n && vitest --run",
+    "test:unit": "npm run build && npm run validate:i18n && vitest --run",
     "test:watch": "vitest",
     "test:ci": "npm run build && vitest --run"
   },
@@ -30,6 +38,7 @@
     "@types/node": "^24.10.1",
     "cheerio": "^1.1.2",
     "fast-check": "^4.3.0",
+    "gray-matter": "^4.0.3",
     "vitest": "^4.0.15"
   }
 }

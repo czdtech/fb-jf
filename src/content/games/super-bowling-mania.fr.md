@@ -1,0 +1,49 @@
+---
+locale: fr
+urlstr: super-bowling-mania
+title: '[FR] Super Bowling Mania'
+description: >-
+  [FR] Lace up your bowling shoes for Super Bowling Mania! Aim for a strike,
+  pick up spares, and compete for the highest score in this realistic bowling
+  game.
+iframeSrc: 'https://2tm5ud1ghg66o.h5games.usercontent.goog/v/6ifi8lgb3gv0g/'
+thumbnail: /new-images/super-bowling-mania.png
+tags:
+  - sports
+  - 2 player
+  - casual
+score: 4.0/5  (1555 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+
+
+### Detailed Game Introduction
+
+Super Bowling Mania brings the classic ten-pin bowling experience to your screen with realistic physics and intuitive controls. Whether you're a seasoned bowler or new to the sport, you can enjoy the thrill of aiming for a perfect strike. The game challenges you to knock down all ten pins in each frame. Score strikes, pick up tricky spares, and aim for a perfect 300 game. With its engaging gameplay, it's a perfect way to enjoy bowling anytime, anywhere.
+
+### Gameplay Strategy & Walkthrough
+
+1.  **[FR]** **Position Your Bowler:** Before you throw, you can typically adjust your starting position on the lane. Moving left or right can help you find the perfect angle to hit the pocket (between the front pin and the one behind it).
+2.  **[FR]** **Set the Power:** A power meter will appear. Try to aim for a consistent power level. Too little power and you won't knock down many pins; too much and the ball might be harder to control.
+3.  **[FR]** **Add Spin (Curve):** Many bowling games allow you to add spin to the ball as you release it. A slight curve can dramatically increase your chances of getting a strike by helping the ball drive through the pins.
+4.  **[FR]** **Picking Up Spares:** If you don't get a strike, you'll need to knock down the remaining pins. Aim carefully for the key pin in the remaining cluster to maximize your chances of clearing the lane.
+
+### Controls Guide
+
+*   **[FR]** **Aiming:** Move the mouse left or right to adjust your position and the initial direction of your throw.
+*   **[FR]** **Power and Release:** Click and hold the mouse button to start the power meter. Release the button at the desired power level to throw the ball.
+*   **[FR]** **Spin/Curve:** While the ball is rolling, you may be able to move the mouse to influence its curve.
+
+### Frequently Asked Questions (FAQ)
+
+*   **[FR]** **Q: How is bowling scored?**
+    *   **[FR]** **A:** A game consists of 10 frames. A strike (all 10 pins on the first ball) gives you 10 points plus a bonus of the pins knocked down on your next two balls. A spare (all 10 pins in two balls) gives you 10 points plus a bonus of the pins from your next one ball.
+
+*   **[FR]** **Q: What is a perfect game?**
+    *   **[FR]** **A:** A perfect game is a score of 300, which is achieved by bowling 12 strikes in a row in a single game.
+
+*   **[FR]** **Q: How do I get more strikes?**
+    *   **[FR]** **A:** The key to getting strikes is consistency. Find a starting position, power level, and spin that works for you and try to replicate it. Aiming for the "pocket" just to the side of the head pin is generally the most effective strategy.
+

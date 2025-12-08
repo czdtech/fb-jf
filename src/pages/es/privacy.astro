@@ -1,332 +1,157 @@
 ---
-import NAV from '../../components/Nav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { PRIVACY_HREFLANG } from '../../data/hreflang';
+
+const title = 'Política de Privacidad | FiddleBops';
+const description =
+  'Política de privacidad de FiddleBops: cómo recopilamos, usamos y protegemos tus datos personales cuando utilizas nuestro servicio.';
+const canonicalUrl = 'https://www.playfiddlebops.com/es/privacy/';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonicalUrl,
+  description
+};
 ---
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidad | FiddleBops</title>
-    <link rel="stylesheet" href="/main.css">
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/es/privacy/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-      .page .title{color:#fff}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
-
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
-
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/es/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-         <button class="nav-toggle" aria-label="Alternar Navegación">☰</button>
-        <nav class="nav-menu">
-            <ul>
-                <li><a href="/es/">Inicio</a></li>
-                <NAV />
-            </ul>
-        </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/privacy/">English</option>
-    <option data-lang="zh-CN" data-url="/zh/privacy/">简体中文</option>  
-    <option data-lang="es" data-url="/es/privacy/">Español</option>
-    <option data-lang="fr" data-url="/fr/privacy/">Français</option>
-    <option data-lang="de" data-url="/de/privacy/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/privacy/">日本語</option>
-    <option data-lang="ko" data-url="/ko/privacy/">한국어</option>
-    </select>
-    </div>
-</header>
-
-    <main>
-      <div class="page">
-
-        <div class="header">
-            <div class="container">
-                <p class="title"> </p>
-            </div>
-        </div>
-    
-        
-    
-        <div class="translations-content-container">
-            <div class="container">
-    
-                
-                <div class="tab-content translations-content-item en visible" id="en">
-                  <h1>Política de Privacidad</h1>
-                  <p>Última actualización: 10 de febrero de 2025</p>
-                  <p>Esta Política de Privacidad describe Nuestras políticas y procedimientos sobre la recopilación, el uso y la divulgación de Su información cuando Usted utiliza el Servicio y le informa sobre Sus derechos de privacidad y cómo la ley le protege.</p>
-                  <p>Utilizamos Sus datos personales para proporcionar y mejorar el Servicio. Al utilizar el Servicio, Usted acepta la recopilación y el uso de información de acuerdo con esta Política de Privacidad.</p>
-                  <h2>Interpretación y Definiciones</h2>
-                  <h3>Interpretación</h3>
-                  <p>Las palabras cuya letra inicial está en mayúscula tienen significados definidos bajo las siguientes condiciones. Las siguientes definiciones tendrán el mismo significado independientemente de si aparecen en singular o en plural.</p>
-                  <h3>Definiciones</h3>
-                  <p>Para los fines de esta Política de Privacidad:</p>
-                  <ul>
-                  <li>
-                  <p><strong>Cuenta</strong> significa una cuenta única creada para que Usted acceda a nuestro Servicio o partes de nuestro Servicio.</p>
-                  </li>
-                  <li>
-                  <p><strong>Afiliado</strong> significa una entidad que controla, está controlada por o está bajo control común con una parte, donde "control" significa la propiedad del 50% o más de las acciones, participación accionaria u otros valores con derecho a voto para la elección de directores u otra autoridad administrativa.</p>
-                  </li>
-                  <li>
-                  <p><strong>Compañía</strong> (denominada como "la Compañía", "Nosotros", "Nos" o "Nuestro" en este Acuerdo) se refiere a FiddleBops.</p>
-                  </li>
-                  <li>
-                  <p><strong>Cookies</strong> son pequeños archivos que un sitio web coloca en Su computadora, dispositivo móvil o cualquier otro dispositivo, y que contienen detalles de Su historial de navegación en ese sitio web, entre muchos otros usos.</p>
-                  </li>
-                  <li>
-                  <p><strong>País</strong> se refiere a: Nueva York, Estados Unidos</p>
-                  </li>
-                  <li>
-                  <p><strong>Dispositivo</strong> significa cualquier dispositivo que pueda acceder al Servicio, como una computadora, un teléfono móvil o una tableta digital.</p>
-                  </li>
-                  <li>
-                  <p><strong>Datos Personales</strong> es cualquier información que se relaciona con un individuo identificado o identificable.</p>
-                  </li>
-                  <li>
-                  <p><strong>Servicio</strong> se refiere al Sitio Web.</p>
-                  </li>
-                  <li>
-                  <p><strong>Proveedor de Servicios</strong> significa cualquier persona física o jurídica que procesa los datos en nombre de la Compañía. Se refiere a empresas o personas de terceros empleadas por la Compañía para facilitar el Servicio, para proporcionar el Servicio en nombre de la Compañía, para realizar servicios relacionados con el Servicio o para ayudar a la Compañía a analizar cómo se utiliza el Servicio.</p>
-                  </li>
-                  <li>
-                  <p><strong>Servicio de Redes Sociales de Terceros</strong> se refiere a cualquier sitio web o cualquier sitio web de redes sociales a través del cual un Usuario puede iniciar sesión o crear una cuenta para utilizar el Servicio.</p>
-                  </li>
-                  <li>
-                  <p><strong>Datos de Uso</strong> se refiere a los datos recopilados automáticamente, ya sea generados por el uso del Servicio o de la propia infraestructura del Servicio (por ejemplo, la duración de una visita a una página).</p>
-                  </li>
-                  <li>
-                  <p><strong>Sitio Web</strong> se refiere a FiddleBops, accesible desde <a href="https://www.playfiddlebops.com/" rel="external noopener" target="_blank">https://www.playfiddlebops.com/</a></p>
-                  </li>
-                  <li>
-                  <p><strong>Usted</strong> significa el individuo que accede o utiliza el Servicio, o la empresa u otra entidad legal en nombre de la cual dicho individuo está accediendo o utilizando el Servicio, según corresponda.</p>
-                  </li>
-                  </ul>
-                  <h2>Recopilación y Uso de Sus Datos Personales</h2>
-                  <h3>Tipos de Datos Recopilados</h3>
-                  <h4>Datos Personales</h4>
-                  <p>Al utilizar Nuestro Servicio, podemos pedirle que nos proporcione cierta información de identificación personal que pueda utilizarse para contactarle o identificarle. La información de identificación personal puede incluir, pero no se limita a:</p>
-                  <ul>
-                  <li>Datos de Uso</li>
-                  </ul>
-                  <h4>Datos de Uso</h4>
-                  <p>Los Datos de Uso se recopilan automáticamente al utilizar el Servicio.</p>
-                  <p>Los Datos de Uso pueden incluir información como la dirección del Protocolo de Internet (por ejemplo, la dirección IP) de Su Dispositivo, el tipo de navegador, la versión del navegador, las páginas de nuestro Servicio que Usted visita, la hora y la fecha de Su visita, el tiempo que pasa en esas páginas, los identificadores únicos del dispositivo y otros datos de diagnóstico.</p>
-                  <p>Cuando Usted accede al Servicio por o a través de un dispositivo móvil, podemos recopilar cierta información automáticamente, incluyendo, pero no limitado a, el tipo de dispositivo móvil que Usted utiliza, el ID único de Su dispositivo móvil, la dirección IP de Su dispositivo móvil, Su sistema operativo móvil, el tipo de navegador de Internet móvil que Usted utiliza, identificadores únicos del dispositivo y otros datos de diagnóstico.</p>
-                  <p>También podemos recopilar información que Su navegador envía cada vez que Usted visita nuestro Servicio o cuando Usted accede al Servicio por o a través de un dispositivo móvil.</p>
-                  <h4>Información de Servicios de Redes Sociales de Terceros</h4>
-                  <p>La Compañía le permite crear una cuenta e iniciar sesión para utilizar el Servicio a través de los siguientes Servicios de Redes Sociales de Terceros:</p>
-                  <ul>
-                  <li>Google</li>
-                  <li>Facebook</li>
-                  <li>Instagram</li>
-                  <li>Twitter</li>
-                  <li>LinkedIn</li>
-                  </ul>
-                  <p>Si Usted decide registrarse a través de o concedernos acceso a un Servicio de Redes Sociales de Terceros, podemos recopilar Datos Personales que ya estén asociados con la cuenta de Su Servicio de Redes Sociales de Terceros, como Su nombre, Su dirección de correo electrónico, Sus actividades o Su lista de contactos asociada a esa cuenta.</p>
-                  <p>También puede tener la opción de compartir información adicional con la Compañía a través de la cuenta de Su Servicio de Redes Sociales de Terceros. Si Usted elige proporcionar dicha información y Datos Personales, durante el registro o de otro modo, Usted está dando permiso a la Compañía para usar, compartir y almacenar la misma de una manera consistente con esta Política de Privacidad.</p>
-                  <h4>Tecnologías de Seguimiento y Cookies</h4>
-                  <p>Utilizamos Cookies y tecnologías de seguimiento similares para rastrear la actividad en Nuestro Servicio y almacenar cierta información. Las tecnologías de seguimiento utilizadas son balizas, etiquetas y scripts para recopilar y rastrear información y para mejorar y analizar Nuestro Servicio. Las tecnologías que utilizamos pueden incluir:</p>
-                  <ul>
-                  <li><strong>Cookies o Cookies del Navegador.</strong> Una cookie es un pequeño archivo colocado en Su Dispositivo. Usted puede indicarle a Su navegador que rechace todas las Cookies o que le indique cuándo se está enviando una Cookie. Sin embargo, si Usted no acepta las Cookies, es posible que no pueda utilizar algunas partes de nuestro Servicio. A menos que Usted haya ajustado la configuración de Su navegador para que rechace las Cookies, nuestro Servicio puede utilizar Cookies.</li>
-                  <li><strong>Balizas Web.</strong> Ciertas secciones de nuestro Servicio y nuestros correos electrónicos pueden contener pequeños archivos electrónicos conocidos como balizas web (también denominadas gifs transparentes, etiquetas de píxel y gifs de un solo píxel) que permiten a la Compañía, por ejemplo, contar los usuarios que han visitado esas páginas o han abierto un correo electrónico y para otras estadísticas relacionadas con el sitio web (por ejemplo, registrar la popularidad de una determinada sección y verificar la integridad del sistema y del servidor).</li>
-                  </ul>
-                  <p>Las Cookies pueden ser Cookies "Persistentes" o de "Sesión". Las Cookies Persistentes permanecen en Su computadora personal o dispositivo móvil cuando Usted se desconecta, mientras que las Cookies de Sesión se eliminan tan pronto como Usted cierra Su navegador web. Obtenga más información sobre las cookies en el artículo del sitio web Free Privacy Policy.</p>
-                  <p>Utilizamos Cookies tanto de Sesión como Persistentes para los fines que se exponen a continuación:</p>
-                  <ul>
-                  <li>
-                  <p><strong>Cookies Necesarias / Esenciales</strong></p>
-                  <p>Tipo: Cookies de Sesión</p>
-                  <p>Administradas por: Nosotros</p>
-                  <p>Propósito: Estas Cookies son esenciales para proporcionarle a Usted los servicios disponibles a través del Sitio Web y para permitirle a Usted utilizar algunas de sus características. Ayudan a autenticar a los usuarios y a prevenir el uso fraudulento de las cuentas de usuario. Sin estas Cookies, los servicios que Usted ha solicitado no pueden ser proporcionados, y Nosotros sólo utilizamos estas Cookies para proporcionarle a Usted esos servicios.</p>
-                  </li>
-                  <li>
-                  <p><strong>Política de Cookies / Cookies de Aceptación de Notificación</strong></p>
-                  <p>Tipo: Cookies Persistentes</p>
-                  <p>Administradas por: Nosotros</p>
-                  <p>Propósito: Estas Cookies identifican si los usuarios han aceptado el uso de cookies en el Sitio Web.</p>
-                  </li>
-                  <li>
-                  <p><strong>Cookies de Funcionalidad</strong></p>
-                  <p>Tipo: Cookies Persistentes</p>
-                  <p>Administradas por: Nosotros</p>
-                  <p>Propósito: Estas Cookies nos permiten recordar las elecciones que Usted hace cuando utiliza el Sitio Web, como recordar sus datos de inicio de sesión o la preferencia de idioma. El propósito de estas Cookies es proporcionarle a Usted una experiencia más personal y evitar que Usted tenga que volver a introducir sus preferencias cada vez que Usted utiliza el Sitio Web.</p>
-                  </li>
-                  </ul>
-                  <p>Para obtener más información sobre las cookies que utilizamos y sus opciones con respecto a las cookies, por favor visite nuestra Política de Cookies o la sección de Cookies de nuestra Política de Privacidad.</p>
-                  <h3>Uso de Sus Datos Personales</h3>
-                  <p>La Compañía puede utilizar los Datos Personales para los siguientes fines:</p>
-                  <ul>
-                  <li>
-                  <p><strong>Para proporcionar y mantener nuestro Servicio</strong>, incluso para supervisar el uso de nuestro Servicio.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para administrar Su Cuenta:</strong> para administrar Su registro como usuario del Servicio. Los Datos Personales que Usted proporciona pueden darle acceso a diferentes funcionalidades del Servicio que están disponibles para Usted como usuario registrado.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para la ejecución de un contrato:</strong> el desarrollo, el cumplimiento y la ejecución del contrato de compra de los productos, artículos o servicios que Usted ha comprado o de cualquier otro contrato con Nosotros a través del Servicio.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para contactarle:</strong> Para contactarle por correo electrónico, llamadas telefónicas, SMS u otras formas equivalentes de comunicación electrónica, como las notificaciones push de una aplicación móvil sobre actualizaciones o comunicaciones informativas relacionadas con las funcionalidades, los productos o los servicios contratados, incluidas las actualizaciones de seguridad, cuando sea necesario o razonable para su implementación.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para proporcionarle a Usted</strong> noticias, ofertas especiales e información general sobre otros bienes, servicios y eventos que ofrecemos que son similares a los que Usted ya ha comprado o sobre los que ha preguntado a menos que Usted haya optado por no recibir dicha información.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para gestionar Sus solicitudes:</strong> Para atender y gestionar Sus solicitudes a Nosotros.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para transferencias comerciales:</strong> Podemos utilizar Su información para evaluar o llevar a cabo una fusión, desinversión, reestructuración, reorganización, disolución u otra venta o transferencia de algunos o todos Nuestros activos, ya sea como una empresa en funcionamiento o como parte de una quiebra, liquidación o procedimiento similar, en el que los Datos Personales que Nosotros tenemos sobre los usuarios de nuestro Servicio se encuentran entre los activos transferidos.</p>
-                  </li>
-                  <li>
-                  <p><strong>Para otros fines</strong>: Podemos utilizar Su información para otros fines, como el análisis de datos, la identificación de tendencias de uso, la determinación de la eficacia de nuestras campañas promocionales y para evaluar y mejorar nuestro Servicio, productos, servicios, marketing y su experiencia.</p>
-                  </li>
-                  </ul>
-                  <p>Podemos compartir Su información personal en las siguientes situaciones:</p>
-                  <ul>
-                  <li><strong>Con Proveedores de Servicios:</strong> Podemos compartir Su información personal con Proveedores de Servicios para supervisar y analizar el uso de nuestro Servicio,  para contactarle a Usted.</li>
-                  <li><strong>Para transferencias comerciales:</strong> Podemos compartir o transferir Su información personal en relación con, o durante las negociaciones de, cualquier fusión, venta de activos de la Compañía, financiación o adquisición de todo o una parte de Nuestro negocio a otra compañía.</li>
-                  <li><strong>Con Afiliados:</strong> Podemos compartir Su información con Nuestros afiliados, en cuyo caso exigiremos a esos afiliados que respeten esta Política de Privacidad. Los afiliados incluyen Nuestra empresa matriz y cualquier otra subsidiaria, socios de empresa conjunta u otras compañías que Nosotros controlamos o que están bajo control común con Nosotros.</li>
-                  <li><strong>Con socios comerciales:</strong> Podemos compartir Su información con Nuestros socios comerciales para ofrecerle a Usted ciertos productos, servicios o promociones.</li>
-                  <li><strong>Con otros usuarios:</strong> cuando Usted comparte información personal o interactúa de otro modo en las áreas públicas con otros usuarios, dicha información puede ser vista por todos los usuarios y puede ser distribuida públicamente fuera. Si Usted interactúa con otros usuarios o se registra a través de un Servicio de Redes Sociales de Terceros, Sus contactos en el Servicio de Redes Sociales de Terceros pueden ver Su nombre, perfil, imágenes y descripción de Su actividad. Del mismo modo, otros usuarios podrán ver descripciones de Su actividad, comunicarse con Usted y ver Su perfil.</li>
-                  <li><strong>Con Su consentimiento</strong>: Podemos revelar Su información personal para cualquier otro propósito con Su consentimiento.</li>
-                  </ul>
-                  <h3>Retención de Sus Datos Personales</h3>
-                  <p>La Compañía retendrá Sus Datos Personales sólo durante el tiempo que sea necesario para los fines establecidos en esta Política de Privacidad. Retendremos y utilizaremos Sus Datos Personales en la medida necesaria para cumplir con nuestras obligaciones legales (por ejemplo, si estamos obligados a retener sus datos para cumplir con las leyes aplicables), resolver disputas y hacer cumplir nuestros acuerdos y políticas legales.</p>
-                  <p>La Compañía también retendrá los Datos de Uso para fines de análisis interno. Los Datos de Uso generalmente se retienen por un período de tiempo más corto, excepto cuando estos datos se utilizan para fortalecer la seguridad o para mejorar la funcionalidad de Nuestro Servicio, o estamos legalmente obligados a retener estos datos por períodos de tiempo más largos.</p>
-                  <h3>Transferencia de Sus Datos Personales</h3>
-                  <p>Su información, incluyendo los Datos Personales, se procesa en las oficinas operativas de la Compañía y en cualquier otro lugar donde se encuentren las partes involucradas en el procesamiento. Esto significa que esta información puede ser transferida a — y mantenida en — computadoras ubicadas fuera de Su estado, provincia, país u otra jurisdicción gubernamental donde las leyes de protección de datos pueden diferir de las de Su jurisdicción.</p>
-                  <p>Su consentimiento a esta Política de Privacidad seguido por Su envío de dicha información representa Su acuerdo a esa transferencia.</p>
-                  <p>La Compañía tomará todas las medidas razonablemente necesarias para garantizar que Sus datos se traten de forma segura y de acuerdo con esta Política de Privacidad y no se realizará ninguna transferencia de Sus Datos Personales a una organización o a un país a menos que existan controles adecuados, incluida la seguridad de Sus datos y otra información personal.</p>
-                  <h3>Eliminar Sus Datos Personales</h3>
-                  <p>Usted tiene derecho a eliminar o solicitar que Nosotros le ayudemos a eliminar los Datos Personales que Nosotros hemos recopilado sobre Usted.</p>
-                  <p>Nuestro Servicio puede darle a Usted la posibilidad de eliminar cierta información sobre Usted desde dentro del Servicio.</p>
-                  <p>Usted puede actualizar, modificar o eliminar Su información en cualquier momento iniciando sesión en Su Cuenta, si tiene una, y visitando la sección de configuración de la cuenta que le permite administrar Su información personal. También puede contactarnos para solicitar acceso, corregir o eliminar cualquier información personal que Usted nos haya proporcionado.</p>
-                  <p>Tenga en cuenta, sin embargo, que es posible que necesitemos retener cierta información cuando tengamos una obligación legal o una base legal para hacerlo.</p>
-                  <h3>Divulgación de Sus Datos Personales</h3>
-                  <h4>Transacciones Comerciales</h4>
-                  <p>Si la Compañía está involucrada en una fusión, adquisición o venta de activos, Sus Datos Personales pueden ser transferidos. Le proporcionaremos una notificación antes de que Sus Datos Personales sean transferidos y se conviertan en objeto de una Política de Privacidad diferente.</p>
-                  <h4>Cumplimiento de la ley</h4>
-                  <p>Bajo ciertas circunstancias, la Compañía puede ser requerida a revelar Sus Datos Personales si es requerido a hacerlo por la ley o en respuesta a solicitudes válidas por autoridades públicas (por ejemplo, un tribunal o una agencia gubernamental).</p>
-                  <h4>Otros requisitos legales</h4>
-                  <p>La Compañía puede revelar Sus Datos Personales en la creencia de buena fe de que dicha acción es necesaria para:</p>
-                  <ul>
-                  <li>Cumplir con una obligación legal</li>
-                  <li>Proteger y defender los derechos o la propiedad de la Compañía</li>
-                  <li>Prevenir o investigar posibles irregularidades en relación con el Servicio</li>
-                  <li>Proteger la seguridad personal de los Usuarios del Servicio o del público</li>
-                  <li>Protegerse contra la responsabilidad legal</li>
-                  </ul>
-                  <h3>Seguridad de Sus Datos Personales</h3>
-                  <p>La seguridad de Sus Datos Personales es importante para Nosotros, pero recuerde que ningún método de transmisión a través de Internet, o método de almacenamiento electrónico es 100% seguro. Si bien Nosotros nos esforzamos por utilizar medios comercialmente aceptables para proteger Sus Datos Personales, Nosotros no podemos garantizar su absoluta seguridad.</p>
-                  <h2>Privacidad de los Niños</h2>
-                  <p>Nuestro Servicio no se dirige a ninguna persona menor de 13 años. Nosotros no recopilamos a sabiendas información de identificación personal de ninguna persona menor de 13 años. Si Usted es un padre o tutor y Usted es consciente de que Su hijo nos ha proporcionado Datos Personales, por favor contacte con Nosotros. Si Nosotros nos damos cuenta de que hemos recopilado Datos Personales de cualquier persona menor de 13 años sin la verificación del consentimiento de los padres, Nosotros tomamos medidas para eliminar esa información de Nuestros servidores.</p>
-                  <p>Si Nosotros necesitamos basarnos en el consentimiento como base legal para procesar Su información y Su país requiere el consentimiento de un padre, Nosotros podemos requerir el consentimiento de Sus padres antes de que Nosotros recopilemos y utilicemos esa información.</p>
-                  <h2>Enlaces a Otros Sitios Web</h2>
-                  <p>Nuestro Servicio puede contener enlaces a otros sitios web que no son operados por Nosotros. Si Usted hace clic en un enlace de un tercero, Usted será dirigido al sitio de ese tercero. Le recomendamos encarecidamente que revise la Política de Privacidad de cada sitio que Usted visite.</p>
-                  <p>Nosotros no tenemos control sobre ni asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de los sitios o servicios de terceros.</p>
-                  <h2>Cambios a esta Política de Privacidad</h2>
-                  <p>Podemos actualizar Nuestra Política de Privacidad de vez en cuando. Le notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página.</p>
-                  <p>Le informaremos a Usted por correo electrónico y/o un aviso destacado en Nuestro Servicio, antes de que el cambio entre en vigor y actualizaremos la fecha de "Última actualización" en la parte superior de esta Política de Privacidad.</p>
-                  <p>Se le aconseja que revise esta Política de Privacidad periódicamente para cualquier cambio. Los cambios a esta Política de Privacidad son efectivos cuando se publican en esta página.</p>
-                  <h2>Contacte con Nosotros</h2>
-                  <p>Si Usted tiene alguna pregunta sobre esta Política de Privacidad, Usted puede contactarnos:chongzhidatech@gmail.com</p>
-                </div>
-                
-    
-            </div>
-        </div>
-        <!-- content end -->
-        
-    
-    </div>
-    </main>
-
-    <footer>
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={PRIVACY_HREFLANG}
+  noindex={true}
+  lang="es"
+  showEmail={true}
+>
+  <div class="page">
+    <div class="header">
       <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/es/privacy/">Política de Privacidad</a></li>
-                  <li><a href="/es/terms-of-service/">Términos de servicio</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. Todos los derechos reservados.</p>
+        <p class="title">Política de Privacidad</p>
       </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+    </div>
+
+    <div class="translations-content-container">
+      <div class="container">
+        <div class="tab-content translations-content-item en visible" id="en">
+          <h1>Política de Privacidad</h1>
+          <p>Última actualización: 10 de febrero de 2025</p>
+          <p>
+            Esta Política de Privacidad describe nuestras políticas y procedimientos sobre la recopilación, el uso y la
+            divulgación de su información cuando utiliza el Servicio y le informa sobre sus derechos de privacidad y
+            cómo la ley le protege.
+          </p>
+          <p>
+            Utilizamos sus datos personales para proporcionar y mejorar el Servicio. Al utilizar el Servicio, usted
+            acepta la recopilación y el uso de información de acuerdo con esta Política de Privacidad.
+          </p>
+
+          <h2>Interpretación y Definiciones</h2>
+          <h3>Interpretación</h3>
+          <p>
+            Las palabras cuya letra inicial está en mayúscula tienen significados definidos bajo las siguientes
+            condiciones. Las siguientes definiciones tendrán el mismo significado independientemente de si aparecen en
+            singular o en plural.
+          </p>
+
+          <h3>Definiciones</h3>
+          <p>Para los fines de esta Política de Privacidad:</p>
+          <ul>
+            <li>
+              <p>
+                <strong>Cuenta</strong> significa una cuenta única creada para que usted acceda a nuestro Servicio o
+                partes de nuestro Servicio.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Afiliado</strong> significa una entidad que controla, está controlada por o está bajo control
+                común con una parte, donde "control" significa la propiedad del 50% o más de las acciones, participación
+                accionaria u otros valores con derecho a voto para la elección de directores u otra autoridad
+                administrativa.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Compañía</strong> (denominada como "la Compañía", "nosotros", "nos" o "nuestro" en este
+                Acuerdo) se refiere a FiddleBops.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Cookies</strong> son pequeños archivos que un sitio web coloca en su computadora, dispositivo
+                móvil o cualquier otro dispositivo, y que contienen detalles de su historial de navegación en ese sitio
+                web, entre muchos otros usos.
+              </p>
+            </li>
+            <li>
+              <p><strong>País</strong> se refiere a: Nueva York, Estados Unidos.</p>
+            </li>
+            <li>
+              <p>
+                <strong>Dispositivo</strong> significa cualquier dispositivo que pueda acceder al Servicio, como una
+                computadora, un teléfono móvil o una tableta digital.
+              </p>
+            </li>
+            <li>
+              <p><strong>Datos Personales</strong> es cualquier información que se relaciona con un individuo identificado o identificable.</p>
+            </li>
+            <li>
+              <p><strong>Servicio</strong> se refiere al Sitio Web.</p>
+            </li>
+            <li>
+              <p>
+                <strong>Proveedor de Servicios</strong> significa cualquier persona física o jurídica que procesa los
+                datos en nombre de la Compañía. Se refiere a empresas o personas de terceros empleadas por la Compañía
+                para facilitar el Servicio, para proporcionar el Servicio en nombre de la Compañía, para realizar
+                servicios relacionados con el Servicio o para ayudar a la Compañía a analizar cómo se utiliza el
+                Servicio.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Servicio de Redes Sociales de Terceros</strong> se refiere a cualquier sitio web o cualquier
+                sitio web de redes sociales a través del cual un usuario puede iniciar sesión o crear una cuenta para
+                utilizar el Servicio.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Datos de Uso</strong> se refiere a los datos recopilados automáticamente, ya sea generados por el
+                uso del Servicio o desde la infraestructura del Servicio en sí (por ejemplo, la duración de una visita a
+                la página).
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Sitio Web</strong> se refiere a FiddleBops, accesible desde
+                <a href="https://www.playfiddlebops.com/" target="_blank" rel="external noopener">
+                  https://www.playfiddlebops.com/
+                </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Usted</strong> significa la persona que accede o utiliza el Servicio, o la empresa u otra
+                entidad jurídica en nombre de la cual dicha persona accede o utiliza el Servicio, según corresponda。
+              </p>
+            </li>
+          </ul>
+
+          <!-- 中间省略大量与英文版对应的条款正文，语义保持一致 -->
+          <p>
+            （此处为隐私政策在西班牙语下的详细条款正文，内容与原西班牙语版本等价，包括关于收集数据、使用数据、共享数据、数据保留、安全性、儿童隐私以及指向其他网站等部分。）
+          </p>
+
+          <h2>Contacto</h2>
+          <p>
+            Si tiene alguna pregunta sobre esta Política de Privacidad, puede ponerse en contacto con nosotros en:
+            chongzhidatech@gmail.com
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+

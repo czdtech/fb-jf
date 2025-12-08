@@ -7,6 +7,7 @@
  */
 import { getCollection, type CollectionEntry } from 'astro:content';
 import GameLayout from '../layouts/GameLayout.astro';
+import { getGameHreflang } from '../data/hreflang';
 
 type Props = {
   game: CollectionEntry<'games'>;
@@ -15,23 +16,31 @@ type Props = {
 export async function getStaticPaths() {
   const allGames = await getCollection('games');
 
-  const paths = allGames.map(game => {
-    const legacySlug = game.data.urlstr ?? game.slug;
+  // 仅使用英文内容作为 canonical 路由的数据源。
+  // 其它语言版本通过 locale 字段区分，不单独生成新的 slug。
+  const paths = allGames
+    .filter((game) => game.data.locale === 'en')
+    .map((game) => {
+      const legacySlug = game.data.urlstr ?? game.slug;
 
-    return {
-      params: {
-        gameSlug: legacySlug,
-      },
-      props: {
-        game,
-      },
-    };
-  });
+      return {
+        params: {
+          gameSlug: legacySlug,
+        },
+        props: {
+          game,
+        },
+      };
+    });
 
   return paths;
 }
 
 const { game } = Astro.props as Props;
+const legacySlug = game.data.urlstr ?? game.slug;
+const canonicalUrl = `https://www.playfiddlebops.com/${legacySlug}/`;
+const hreflangLinks = getGameHreflang(legacySlug);
+
 const { title, description, iframeSrc, tags, thumbnail, score } = game.data;
 const { Content } = await game.render();
 ---
@@ -39,11 +48,14 @@ const { Content } = await game.render();
 <GameLayout
   title={title}
   description={description}
-  canonicalUrl={Astro.url.href}
+  canonicalUrl={canonicalUrl}
   thumbnail={thumbnail}
   iframeSrc={iframeSrc}
   score={score}
   tags={tags}
+  slug={legacySlug}
+  lang="en"
+  hreflangLinks={hreflangLinks}
 >
   <Content />
 </GameLayout>

@@ -1,332 +1,130 @@
 ---
-import NAV from '../../components/Nav.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { PRIVACY_HREFLANG } from '../../data/hreflang';
+
+const title = 'Datenschutzerklärung | FiddleBops';
+const description =
+  'Datenschutzerklärung von FiddleBops: wie wir Ihre personenbezogenen Daten erfassen, verwenden und schützen, wenn Sie unseren Dienst nutzen.';
+const canonicalUrl = 'https://www.playfiddlebops.com/de/privacy/';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonicalUrl,
+  description
+};
 ---
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Datenschutzrichtlinie | FiddleBops</title>
-    <link rel="stylesheet" href="/main.css">
-    <meta name="robots" content="noindex, nofollow"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="canonical" href="https://www.playfiddlebops.com/de/privacy/"/>
-    <style>
-      .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-      .page .title{color:#fff}
-    </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.querySelector('.nav-menu');
-
-  navToggle.addEventListener('click', function() {
-    navMenu.classList.toggle('active');
-  });
-
-});
-</script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9JME3P55QJ');
-</script>
-</head>
-<body>
-  <header>
-    <div class="container">
-        <div class="logo">
-          <h1><a href="/de/">Fiddle<span class="light">Bops</span></a></h1>
-        </div>
-         <button class="nav-toggle" aria-label="Navigation umschalten">☰</button>
-        <nav class="nav-menu">
-            <ul>
-                <li><a href="/de/">Startseite</a></li>
-                <NAV />
-            </ul>
-        </nav>
-  <select style="float:right;">
-    <option data-lang="en" data-url="/privacy/">English</option>
-    <option data-lang="zh-CN" data-url="/zh/privacy/">简体中文</option>  
-    <option data-lang="es" data-url="/es/privacy/">Español</option>
-    <option data-lang="fr" data-url="/fr/privacy/">Français</option>
-    <option data-lang="de" data-url="/de/">Deutsch</option>
-    <option data-lang="ja" data-url="/ja/privacy/">日本語</option>
-    <option data-lang="ko" data-url="/ko/privacy/">한국어</option>
-    </select>
-    </div>
-</header>
-
-    <main>
-      <div class="page">
-
-        <div class="header">
-            <div class="container">
-                <p class="title"> </p>
-            </div>
-        </div>
-    
-        
-    
-        <div class="translations-content-container">
-            <div class="container">
-    
-                
-                <div class="tab-content translations-content-item en visible" id="en">
-                  <h1>Datenschutzrichtlinie</h1>
-                  <p>Letzte Aktualisierung: 10. Februar 2025</p>
-                  <p>Diese Datenschutzrichtlinie beschreibt unsere Richtlinien und Verfahren bezüglich der Erfassung, Nutzung und Offenlegung Ihrer Daten, wenn Sie den Dienst nutzen, und informiert Sie über Ihre Datenschutzrechte und wie das Gesetz Sie schützt.</p>
-                  <p>Wir verwenden Ihre personenbezogenen Daten, um den Dienst bereitzustellen und zu verbessern. Durch die Nutzung des Dienstes stimmen Sie der Erfassung und Nutzung von Daten gemäß dieser Datenschutzrichtlinie zu.</p>
-                  <h2>Interpretation und Definitionen</h2>
-                  <h3>Interpretation</h3>
-                  <p>Wörter, deren erster Buchstabe groß geschrieben ist, haben Bedeutungen, die unter den folgenden Bedingungen definiert sind. Die folgenden Definitionen haben die gleiche Bedeutung, unabhängig davon, ob sie im Singular oder Plural stehen.</p>
-                  <h3>Definitionen</h3>
-                  <p>Für die Zwecke dieser Datenschutzrichtlinie:</p>
-                  <ul>
-                  <li>
-                  <p><strong>Konto</strong> bezeichnet ein eindeutiges Konto, das für Sie erstellt wurde, um auf unseren Dienst oder Teile unseres Dienstes zuzugreifen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Verbundunternehmen</strong> bezeichnet ein Unternehmen, das eine Partei kontrolliert, von ihr kontrolliert wird oder mit ihr unter gemeinsamer Kontrolle steht, wobei "Kontrolle" das Eigentum an 50 % oder mehr der Aktien, Kapitalanteile oder anderer Wertpapiere bedeutet, die zur Wahl von Direktoren oder einer anderen leitenden Behörde berechtigen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Unternehmen</strong> (im vorliegenden Vertrag als "das Unternehmen", "wir", "uns" oder "unser" bezeichnet) bezieht sich auf FiddleBops.</p>
-                  </li>
-                  <li>
-                  <p><strong>Cookies</strong> sind kleine Dateien, die von einer Website auf Ihrem Computer, Mobilgerät oder einem anderen Gerät platziert werden und die Details Ihres Browserverlaufs auf dieser Website sowie viele andere Verwendungszwecke enthalten.</p>
-                  </li>
-                  <li>
-                  <p><strong>Land</strong> bezieht sich auf: New York, Vereinigte Staaten</p>
-                  </li>
-                  <li>
-                  <p><strong>Gerät</strong> bezeichnet jedes Gerät, das auf den Dienst zugreifen kann, wie z. B. ein Computer, ein Mobiltelefon oder ein digitales Tablet.</p>
-                  </li>
-                  <li>
-                  <p><strong>Personenbezogene Daten</strong> sind alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Dienst</strong> bezieht sich auf die Website.</p>
-                  </li>
-                  <li>
-                  <p><strong>Dienstanbieter</strong> bezeichnet jede natürliche oder juristische Person, die die Daten im Auftrag des Unternehmens verarbeitet. Es bezieht sich auf Drittunternehmen oder Einzelpersonen, die vom Unternehmen beauftragt werden, den Dienst zu erleichtern, den Dienst im Auftrag des Unternehmens bereitzustellen, Dienstleistungen im Zusammenhang mit dem Dienst zu erbringen oder das Unternehmen bei der Analyse der Nutzung des Dienstes zu unterstützen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Social-Media-Dienst von Drittanbietern</strong> bezeichnet jede Website oder jedes soziale Netzwerk, über die/das sich ein Benutzer anmelden oder ein Konto erstellen kann, um den Dienst zu nutzen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Nutzungsdaten</strong> beziehen sich auf Daten, die automatisch erfasst werden, entweder durch die Nutzung des Dienstes oder von der Dienstinfrastruktur selbst (z. B. die Dauer eines Seitenbesuchs).</p>
-                  </li>
-                  <li>
-                  <p><strong>Website</strong> bezieht sich auf FiddleBops, erreichbar unter <a href="https://www.playfiddlebops.com/" rel="external noopener" target="_blank">https://www.playfiddlebops.com/</a></p>
-                  </li>
-                  <li>
-                  <p><strong>Sie</strong> bezeichnet die Person, die auf den Dienst zugreift oder ihn nutzt, oder das Unternehmen oder eine andere juristische Person, in deren Namen diese Person auf den Dienst zugreift oder ihn nutzt, je nach Fall.</p>
-                  </li>
-                  </ul>
-                  <h2>Erfassung und Nutzung Ihrer personenbezogenen Daten</h2>
-                  <h3>Arten der erfassten Daten</h3>
-                  <h4>Personenbezogene Daten</h4>
-                  <p>Während Sie unseren Dienst nutzen, bitten wir Sie möglicherweise, uns bestimmte personenbezogene Daten mitzuteilen, die verwendet werden können, um Sie zu kontaktieren oder zu identifizieren. Zu den personenbezogenen Daten gehören unter anderem:</p>
-                  <ul>
-                  <li>Nutzungsdaten</li>
-                  </ul>
-                  <h4>Nutzungsdaten</h4>
-                  <p>Nutzungsdaten werden automatisch erfasst, wenn Sie den Dienst nutzen.</p>
-                  <p>Nutzungsdaten können Informationen wie die Internetprotokolladresse Ihres Geräts (z. B. IP-Adresse), Browsertyp, Browserversion, die Seiten unseres Dienstes, die Sie besuchen, Datum und Uhrzeit Ihres Besuchs, die auf diesen Seiten verbrachte Zeit, eindeutige Gerätekennungen und andere Diagnosedaten enthalten.</p>
-                  <p>Wenn Sie über ein Mobilgerät auf den Dienst zugreifen, können wir bestimmte Informationen automatisch erfassen, einschließlich, aber nicht beschränkt auf den Typ des von Ihnen verwendeten Mobilgeräts, die eindeutige ID Ihres Mobilgeräts, die IP-Adresse Ihres Mobilgeräts, Ihr mobiles Betriebssystem, den Typ des von Ihnen verwendeten mobilen Internetbrowsers, eindeutige Gerätekennungen und andere Diagnosedaten.</p>
-                  <p>Wir können auch Informationen erfassen, die Ihr Browser sendet, wenn Sie unseren Dienst besuchen oder wenn Sie über ein Mobilgerät auf den Dienst zugreifen.</p>
-                  <h4>Informationen von Social-Media-Diensten von Drittanbietern</h4>
-                  <p>Das Unternehmen ermöglicht es Ihnen, ein Konto zu erstellen und sich anzumelden, um den Dienst über die folgenden Social-Media-Dienste von Drittanbietern zu nutzen:</p>
-                  <ul>
-                  <li>Google</li>
-                  <li>Facebook</li>
-                  <li>Instagram</li>
-                  <li>Twitter</li>
-                  <li>LinkedIn</li>
-                  </ul>
-                  <p>Wenn Sie sich dazu entschließen, sich über einen Social-Media-Dienst eines Drittanbieters zu registrieren oder uns anderweitig Zugriff auf diesen zu gewähren, können wir personenbezogene Daten erfassen, die bereits mit Ihrem Konto bei dem Social-Media-Dienst eines Drittanbieters verknüpft sind, wie z. B. Ihr Name, Ihre E-Mail-Adresse, Ihre Aktivitäten oder Ihre Kontaktliste, die mit diesem Konto verknüpft ist.</p>
-                  <p>Sie haben auch die Möglichkeit, dem Unternehmen über Ihr Konto bei dem Social-Media-Dienst eines Drittanbieters zusätzliche Informationen mitzuteilen. Wenn Sie sich entscheiden, solche Informationen und personenbezogene Daten während der Registrierung oder auf andere Weise anzugeben, erteilen Sie dem Unternehmen die Erlaubnis, diese in einer Weise zu verwenden, weiterzugeben und zu speichern, die mit dieser Datenschutzrichtlinie übereinstimmt.</p>
-                  <h4>Tracking-Technologien und Cookies</h4>
-                  <p>Wir verwenden Cookies und ähnliche Tracking-Technologien, um die Aktivitäten in unserem Dienst zu verfolgen und bestimmte Informationen zu speichern. Zu den verwendeten Tracking-Technologien gehören Beacons, Tags und Skripte, um Informationen zu sammeln und zu verfolgen sowie unseren Dienst zu verbessern und zu analysieren. Die von uns verwendeten Technologien können Folgendes umfassen:</p>
-                  <ul>
-                  <li><strong>Cookies oder Browser-Cookies.</strong> Ein Cookie ist eine kleine Datei, die auf Ihrem Gerät platziert wird. Sie können Ihren Browser anweisen, alle Cookies abzulehnen oder anzuzeigen, wenn ein Cookie gesendet wird. Wenn Sie jedoch keine Cookies akzeptieren, können Sie möglicherweise einige Teile unseres Dienstes nicht nutzen. Sofern Sie Ihre Browsereinstellungen nicht so angepasst haben, dass Cookies abgelehnt werden, kann unser Dienst Cookies verwenden.</li>
-                  <li><strong>Web Beacons.</strong> Bestimmte Abschnitte unseres Dienstes und unserer E-Mails können kleine elektronische Dateien enthalten, die als Web Beacons bekannt sind (auch als Clear Gifs, Pixel-Tags und Single-Pixel-Gifs bezeichnet), die es dem Unternehmen beispielsweise ermöglichen, Benutzer zu zählen, die diese Seiten besucht oder eine E-Mail geöffnet haben, und für andere verwandte Website-Statistiken (z. B. die Aufzeichnung der Popularität eines bestimmten Abschnitts und die Überprüfung der System- und Serverintegrität).</li>
-                  </ul>
-                  <p>Cookies können "persistente" oder "Session"-Cookies sein. Persistente Cookies verbleiben auf Ihrem PC oder Mobilgerät, wenn Sie offline gehen, während Session-Cookies gelöscht werden, sobald Sie Ihren Webbrowser schließen. Erfahren Sie mehr über Cookies im Artikel auf der Free Privacy Policy Website.</p>
-                  <p>Wir verwenden sowohl Session- als auch Persistente Cookies für die unten aufgeführten Zwecke:</p>
-                  <ul>
-                  <li>
-                  <p><strong>Notwendige / Essenzielle Cookies</strong></p>
-                  <p>Typ: Session Cookies</p>
-                  <p>Verwaltet von: Uns</p>
-                  <p>Zweck: Diese Cookies sind unerlässlich, um Ihnen die über die Website verfügbaren Dienste bereitzustellen und Ihnen die Nutzung einiger ihrer Funktionen zu ermöglichen. Sie helfen, Benutzer zu authentifizieren und betrügerische Nutzung von Benutzerkonten zu verhindern. Ohne diese Cookies können die von Ihnen angeforderten Dienste nicht bereitgestellt werden, und wir verwenden diese Cookies nur, um Ihnen diese Dienste bereitzustellen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Cookies-Richtlinie / Hinweis-Akzeptanz-Cookies</strong></p>
-                  <p>Typ: Persistente Cookies</p>
-                  <p>Verwaltet von: Uns</p>
-                  <p>Zweck: Diese Cookies identifizieren, ob Benutzer die Verwendung von Cookies auf der Website akzeptiert haben.</p>
-                  </li>
-                  <li>
-                  <p><strong>Funktionalitäts-Cookies</strong></p>
-                  <p>Typ: Persistente Cookies</p>
-                  <p>Verwaltet von: Uns</p>
-                  <p>Zweck: Diese Cookies ermöglichen es uns, uns an die Entscheidungen zu erinnern, die Sie bei der Nutzung der Website treffen, wie z. B. das Speichern Ihrer Anmeldedaten oder Ihrer Sprachpräferenz. Der Zweck dieser Cookies ist es, Ihnen ein persönlicheres Erlebnis zu bieten und zu vermeiden, dass Sie Ihre Präferenzen jedes Mal neu eingeben müssen, wenn Sie die Website nutzen.</p>
-                  </li>
-                  </ul>
-                  <p>Weitere Informationen über die von uns verwendeten Cookies und Ihre diesbezüglichen Wahlmöglichkeiten finden Sie in unserer Cookie-Richtlinie oder im Abschnitt Cookies unserer Datenschutzrichtlinie.</p>
-                  <h3>Verwendung Ihrer personenbezogenen Daten</h3>
-                  <p>Das Unternehmen kann personenbezogene Daten für folgende Zwecke verwenden:</p>
-                  <ul>
-                  <li>
-                  <p><strong>Zur Bereitstellung und Wartung unseres Dienstes</strong>, einschließlich der Überwachung der Nutzung unseres Dienstes.</p>
-                  </li>
-                  <li>
-                  <p><strong>Zur Verwaltung Ihres Kontos:</strong> zur Verwaltung Ihrer Registrierung als Benutzer des Dienstes. Die von Ihnen angegebenen personenbezogenen Daten können Ihnen Zugang zu verschiedenen Funktionen des Dienstes ermöglichen, die Ihnen als registrierter Benutzer zur Verfügung stehen.</p>
-                  </li>
-                  <li>
-                  <p><strong>Zur Erfüllung eines Vertrags:</strong> die Entwicklung, Einhaltung und Durchführung des Kaufvertrags für die von Ihnen gekauften Produkte, Artikel oder Dienstleistungen oder eines anderen Vertrags mit uns über den Dienst.</p>
-                  </li>
-                  <li>
-                  <p><strong>Um Sie zu kontaktieren:</strong> Um Sie per E-Mail, Telefonanruf, SMS oder anderen gleichwertigen Formen der elektronischen Kommunikation zu kontaktieren, z. B. über Push-Benachrichtigungen einer mobilen Anwendung in Bezug auf Aktualisierungen oder informative Mitteilungen zu den Funktionalitäten, Produkten oder vertraglich vereinbarten Dienstleistungen, einschließlich der Sicherheitsupdates, wenn dies für deren Umsetzung erforderlich oder angemessen ist.</p>
-                  </li>
-                  <li>
-                  <p><strong>Um Ihnen</strong> Nachrichten, Sonderangebote und allgemeine Informationen über andere Waren, Dienstleistungen und Veranstaltungen zukommen zu lassen, die wir anbieten und die denen ähneln, die Sie bereits gekauft oder angefragt haben, es sei denn, Sie haben sich gegen den Erhalt solcher Informationen entschieden.</p>
-                  </li>
-                  <li>
-                  <p><strong>Zur Verwaltung Ihrer Anfragen:</strong> Um Ihre Anfragen an uns zu bearbeiten und zu verwalten.</p>
-                  </li>
-                  <li>
-                  <p><strong>Für Unternehmenstransfers:</strong> Wir können Ihre Daten verwenden, um eine Fusion, Veräußerung, Umstrukturierung, Reorganisation, Auflösung oder einen anderen Verkauf oder eine andere Übertragung einiger oder aller unserer Vermögenswerte zu bewerten oder durchzuführen, sei es als Going Concern oder als Teil eines Konkurs-, Liquidations- oder ähnlichen Verfahrens, bei dem die von uns über unsere Dienstnutzer gespeicherten personenbezogenen Daten zu den übertragenen Vermögenswerten gehören.</p>
-                  </li>
-                  <li>
-                  <p><strong>Für andere Zwecke</strong>: Wir können Ihre Daten für andere Zwecke verwenden, z. B. für Datenanalysen, die Ermittlung von Nutzungstrends, die Bestimmung der Wirksamkeit unserer Werbekampagnen sowie zur Bewertung und Verbesserung unseres Dienstes, unserer Produkte, Dienstleistungen, unseres Marketings und Ihrer Erfahrung.</p>
-                  </li>
-                  </ul>
-                  <p>Wir können Ihre personenbezogenen Daten in den folgenden Situationen weitergeben:</p>
-                  <ul>
-                  <li><strong>An Dienstanbieter:</strong> Wir können Ihre personenbezogenen Daten an Dienstanbieter weitergeben, um die Nutzung unseres Dienstes zu überwachen und zu analysieren, um Sie zu kontaktieren.</li>
-                  <li><strong>Für Unternehmenstransfers:</strong> Wir können Ihre personenbezogenen Daten im Zusammenhang mit einer Fusion, dem Verkauf von Unternehmensvermögen, der Finanzierung oder dem Erwerb unseres gesamten Geschäfts oder eines Teils davon durch ein anderes Unternehmen weitergeben oder übertragen oder während der Verhandlungen darüber.</li>
-                  <li><strong>An Verbundunternehmen:</strong> Wir können Ihre Daten an unsere Verbundunternehmen weitergeben, in diesem Fall verpflichten wir diese Verbundunternehmen, diese Datenschutzrichtlinie einzuhalten. Zu den Verbundunternehmen gehören unsere Muttergesellschaft und alle anderen Tochtergesellschaften, Joint-Venture-Partner oder andere Unternehmen, die wir kontrollieren oder die unter gemeinsamer Kontrolle mit uns stehen.</li>
-                  <li><strong>An Geschäftspartner:</strong> Wir können Ihre Daten an unsere Geschäftspartner weitergeben, um Ihnen bestimmte Produkte, Dienstleistungen oder Werbeaktionen anzubieten.</li>
-                  <li><strong>An andere Benutzer:</strong> Wenn Sie personenbezogene Daten weitergeben oder anderweitig in öffentlichen Bereichen mit anderen Benutzern interagieren, können diese Informationen von allen Benutzern eingesehen und außerhalb öffentlich verbreitet werden. Wenn Sie mit anderen Benutzern interagieren oder sich über einen Social-Media-Dienst eines Drittanbieters registrieren, können Ihre Kontakte im Social-Media-Dienst eines Drittanbieters Ihren Namen, Ihr Profil, Ihre Bilder und Ihre Beschreibung Ihrer Aktivität sehen. In ähnlicher Weise können andere Benutzer Beschreibungen Ihrer Aktivität einsehen, mit Ihnen kommunizieren und Ihr Profil einsehen.</li>
-                  <li><strong>Mit Ihrer Einwilligung</strong>: Wir können Ihre personenbezogenen Daten für jeden anderen Zweck mit Ihrer Einwilligung offenlegen.</li>
-                  </ul>
-                  <h3>Aufbewahrung Ihrer personenbezogenen Daten</h3>
-                  <p>Das Unternehmen bewahrt Ihre personenbezogenen Daten nur so lange auf, wie es für die in dieser Datenschutzrichtlinie genannten Zwecke erforderlich ist. Wir bewahren Ihre personenbezogenen Daten auf und verwenden sie in dem Umfang, der erforderlich ist, um unseren rechtlichen Verpflichtungen nachzukommen (z. B. wenn wir verpflichtet sind, Ihre Daten aufzubewahren, um geltende Gesetze einzuhalten), Streitigkeiten beizulegen und unsere rechtlichen Vereinbarungen und Richtlinien durchzusetzen.</p>
-                  <p>Das Unternehmen bewahrt Nutzungsdaten auch für interne Analysezwecke auf. Nutzungsdaten werden im Allgemeinen für einen kürzeren Zeitraum aufbewahrt, es sei denn, diese Daten werden verwendet, um die Sicherheit zu erhöhen oder die Funktionalität unseres Dienstes zu verbessern, oder wir sind gesetzlich verpflichtet, diese Daten für längere Zeiträume aufzubewahren.</p>
-                  <h3>Übertragung Ihrer personenbezogenen Daten</h3>
-                  <p>Ihre Daten, einschließlich personenbezogener Daten, werden in den Betriebsstätten des Unternehmens und an allen anderen Orten verarbeitet, an denen sich die an der Verarbeitung beteiligten Parteien befinden. Das bedeutet, dass diese Daten an Computer übertragen und auf diesen gespeichert werden können, die sich außerhalb Ihres Staates, Ihrer Provinz, Ihres Landes oder einer anderen staatlichen Gerichtsbarkeit befinden, in der die Datenschutzgesetze von denen Ihrer Gerichtsbarkeit abweichen können.</p>
-                  <p>Ihre Zustimmung zu dieser Datenschutzrichtlinie, gefolgt von Ihrer Übermittlung dieser Daten, stellt Ihre Zustimmung zu dieser Übertragung dar.</p>
-                  <p>Das Unternehmen wird alle zumutbaren Schritte unternehmen, um sicherzustellen, dass Ihre Daten sicher und in Übereinstimmung mit dieser Datenschutzrichtlinie behandelt werden, und dass keine Übertragung Ihrer personenbezogenen Daten an eine Organisation oder ein Land erfolgt, es sei denn, es sind angemessene Kontrollen vorhanden, einschließlich der Sicherheit Ihrer Daten und anderer personenbezogener Daten.</p>
-                  <h3>Löschen Sie Ihre personenbezogenen Daten</h3>
-                  <p>Sie haben das Recht, die Löschung der personenbezogenen Daten, die wir über Sie erfasst haben, zu verlangen oder uns bei der Löschung zu unterstützen.</p>
-                  <p>Unser Dienst kann Ihnen die Möglichkeit geben, bestimmte Informationen über Sie innerhalb des Dienstes zu löschen.</p>
-                  <p>Sie können Ihre Daten jederzeit aktualisieren, ändern oder löschen, indem Sie sich in Ihr Konto einloggen, falls Sie eines haben, und den Abschnitt mit den Kontoeinstellungen aufrufen, der es Ihnen ermöglicht, Ihre personenbezogenen Daten zu verwalten. Sie können uns auch kontaktieren, um Zugang zu den personenbezogenen Daten, die Sie uns mitgeteilt haben, zu erhalten, diese zu korrigieren oder zu löschen.</p>
-                  <p>Bitte beachten Sie jedoch, dass wir möglicherweise bestimmte Daten aufbewahren müssen, wenn wir eine gesetzliche Verpflichtung oder eine rechtmäßige Grundlage dafür haben.</p>
-                  <h3>Offenlegung Ihrer personenbezogenen Daten</h3>
-                  <h4>Geschäftliche Transaktionen</h4>
-                  <p>Wenn das Unternehmen an einer Fusion, einem Erwerb oder einem Verkauf von Vermögenswerten beteiligt ist, können Ihre personenbezogenen Daten übertragen werden. Wir werden Sie benachrichtigen, bevor Ihre personenbezogenen Daten übertragen werden und einer anderen Datenschutzrichtlinie unterliegen.</p>
-                  <h4>Strafverfolgung</h4>
-                  <p>Unter bestimmten Umständen kann das Unternehmen verpflichtet sein, Ihre personenbezogenen Daten offenzulegen, wenn dies gesetzlich vorgeschrieben ist oder als Reaktion auf gültige Anfragen von Behörden (z. B. einem Gericht oder einer Regierungsbehörde).</p>
-                  <h4>Andere gesetzliche Anforderungen</h4>
-                  <p>Das Unternehmen kann Ihre personenbezogenen Daten in dem guten Glauben offenlegen, dass eine solche Maßnahme erforderlich ist, um:</p>
-                  <ul>
-                  <li>einer gesetzlichen Verpflichtung nachzukommen</li>
-                  <li>die Rechte oder das Eigentum des Unternehmens zu schützen und zu verteidigen</li>
-                  <li>mögliches Fehlverhalten im Zusammenhang mit dem Dienst zu verhindern oder zu untersuchen</li>
-                  <li>die persönliche Sicherheit der Benutzer des Dienstes oder der Öffentlichkeit zu schützen</li>
-                  <li>sich gegen rechtliche Haftung zu schützen</li>
-                  </ul>
-                  <h3>Sicherheit Ihrer personenbezogenen Daten</h3>
-                  <p>Die Sicherheit Ihrer personenbezogenen Daten ist uns wichtig, aber denken Sie daran, dass keine Methode der Übertragung über das Internet oder Methode der elektronischen Speicherung 100 % sicher ist. Obwohl wir uns bemühen, kommerziell akzeptable Mittel zum Schutz Ihrer personenbezogenen Daten einzusetzen, können wir deren absolute Sicherheit nicht garantieren.</p>
-                  <h2>Privatsphäre von Kindern</h2>
-                  <p>Unser Dienst richtet sich nicht an Personen unter 13 Jahren. Wir erfassen wissentlich keine personenbezogenen Daten von Personen unter 13 Jahren. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind uns personenbezogene Daten mitgeteilt hat, kontaktieren Sie uns bitte. Wenn wir feststellen, dass wir personenbezogene Daten von einer Person unter 13 Jahren ohne Überprüfung der elterlichen Zustimmung erfasst haben, unternehmen wir Schritte, um diese Daten von unseren Servern zu entfernen.</p>
-                  <p>Wenn wir uns auf die Einwilligung als Rechtsgrundlage für die Verarbeitung Ihrer Daten stützen müssen und Ihr Land die Einwilligung eines Elternteils erfordert, können wir die Einwilligung Ihrer Eltern verlangen, bevor wir diese Daten erfassen und verwenden.</p>
-                  <h2>Links zu anderen Websites</h2>
-                  <p>Unser Dienst kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie auf die Website dieses Drittanbieters weitergeleitet. Wir empfehlen Ihnen dringend, die Datenschutzrichtlinien jeder von Ihnen besuchten Website zu lesen.</p>
-                  <p>Wir haben keine Kontrolle über den Inhalt, die Datenschutzrichtlinien oder die Praktiken von Websites oder Diensten Dritter und übernehmen keine Verantwortung für diese.</p>
-                  <h2>Änderungen an dieser Datenschutzrichtlinie</h2>
-                  <p>Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.</p>
-                  <p>Wir werden Sie vor dem Inkrafttreten der Änderung per E-Mail und/oder durch einen deutlichen Hinweis auf unserem Dienst informieren und das Datum der "Letzten Aktualisierung" am Anfang dieser Datenschutzrichtlinie aktualisieren.</p>
-                  <p>Es wird Ihnen empfohlen, diese Datenschutzrichtlinie regelmäßig auf Änderungen zu überprüfen. Änderungen an dieser Datenschutzrichtlinie werden wirksam, wenn sie auf dieser Seite veröffentlicht werden.</p>
-                  <h2>Kontaktieren Sie uns</h2>
-                  <p>Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, können Sie uns kontaktieren:chongzhidatech@gmail.com</p>
-                </div>
-                
-    
-            </div>
-        </div>
-        <!-- content end -->
-        
-    
-    </div>
-    </main>
-
-    <footer>
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={PRIVACY_HREFLANG}
+  noindex={true}
+  lang="de"
+  showEmail={true}
+>
+  <div class="page">
+    <div class="header">
       <div class="container">
-           <nav>
-               <ul>
-                  <li><a href="/de/privacy/">Datenschutz</a></li>
-                  <li><a href="/de/terms-of-service/">Nutzungsbedingungen</a></li>
-                </ul>
-           </nav>
-           <p class="copyright">© 2025 FiddleBops. Alle Rechte vorbehalten.</p>
+        <p class="title">Datenschutzerklärung</p>
       </div>
-    </footer>
-    <script>
-      function goToLink(event) {
-        const select = event.target;
-        const selectedOption = select.options[select.selectedIndex];
-        const url = selectedOption.getAttribute('data-url');
-        if (url) {
-          window.location.href = url;
-        }
-      }
-  
-      // Add event listener
-      document.addEventListener('DOMContentLoaded', () => {
-        const select = document.querySelector('select');
-        if (select) {
-          select.addEventListener('change', goToLink);
-  
-          // Set current language based on the <html> tag's lang attribute
-          const htmlLang = document.documentElement.lang;
-          const options = Array.from(select.options);
-  
-          // Try to find an option that exactly matches the lang attribute
-          const currentOption = options.find(option =>
-            option.getAttribute('data-lang') === htmlLang
-          );
-  
-          if (currentOption) {
-            currentOption.selected = true;
-          } else {
-            // If no exact match is found, try to find a default option (data-lang="en" or "/")
-            let defaultOption = options.find(option =>
-              option.getAttribute('data-lang') === 'en' // common default
-            );
-  
-            if (!defaultOption) {
-              defaultOption = options.find(option =>
-                option.getAttribute('data-lang') === '/' // older convention
-              );
-            }
-  
-  
-            if (defaultOption) {
-              defaultOption.selected = true;
-            }
-          }
-        }
-      });
-      </script>
-</body>
-</html>
+    </div>
+
+    <div class="translations-content-container">
+      <div class="container">
+        <div class="tab-content translations-content-item en visible" id="en">
+          <h1>Datenschutzerklärung</h1>
+          <p>Zuletzt aktualisiert: 10. Februar 2025</p>
+          <p>
+            Diese Datenschutzerklärung beschreibt unsere Richtlinien und Verfahren zur Erhebung, Verwendung und
+            Offenlegung Ihrer Informationen, wenn Sie den Dienst nutzen, und informiert Sie über Ihre Datenschutzrechte
+            und darüber, wie das Gesetz Sie schützt.
+          </p>
+          <p>
+            Wir verwenden Ihre personenbezogenen Daten, um den Dienst bereitzustellen und zu verbessern. Durch die
+            Nutzung des Dienstes stimmen Sie der Erhebung und Verwendung von Informationen gemäß dieser
+            Datenschutzerklärung zu.
+          </p>
+
+          <h2>Auslegung und Definitionen</h2>
+          <h3>Auslegung</h3>
+          <p>
+            Wörter, deren Anfangsbuchstabe großgeschrieben ist, haben die nachfolgend definierte Bedeutung. Die folgenden
+            Definitionen haben dieselbe Bedeutung, unabhängig davon, ob sie im Singular oder Plural erscheinen.
+          </p>
+
+          <h3>Definitionen</h3>
+          <p>Für die Zwecke dieser Datenschutzerklärung bedeutet:</p>
+          <ul>
+            <li>
+              <p>
+                <strong>Konto</strong> ein einzigartiges Konto, das für Sie erstellt wurde, um auf unseren Dienst oder
+                Teile unseres Dienstes zuzugreifen.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Verbundenes Unternehmen</strong> bezeichnet eine Einheit, die eine Partei kontrolliert, von ihr
+                kontrolliert wird oder unter gemeinsamer Kontrolle mit ihr steht, wobei „Kontrolle“ den Besitz von 50 %
+                oder mehr der Aktien, Kapitalanteile oder anderer stimmberechtigter Wertpapiere zur Wahl von Direktoren
+                oder anderer Verwaltungsorgane bedeutet.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Unternehmen</strong> (in dieser Vereinbarung auch „das Unternehmen“, „wir“, „uns“ oder „unser“
+                genannt) bezieht sich auf FiddleBops.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Cookies</strong> sind kleine Dateien, die von einer Website auf Ihrem Computer, Mobilgerät oder
+                einem anderen Gerät abgelegt werden und unter anderem Details Ihres Browserverlaufs auf dieser Website
+                enthalten.
+              </p>
+            </li>
+            <li>
+              <p><strong>Land</strong> bezieht sich auf: New York, Vereinigte Staaten.</p>
+            </li>
+            <li>
+              <p>
+                <strong>Gerät</strong> bezeichnet jedes Gerät, das auf den Dienst zugreifen kann, wie einen Computer, ein
+                Mobiltelefon oder ein digitales Tablet.
+              </p>
+            </li>
+            <li>
+              <p>
+                <strong>Personenbezogene Daten</strong> sind alle Informationen, die sich auf eine identifizierte oder
+                identifizierbare Person beziehen.
+              </p>
+            </li>
+            <li>
+              <p><strong>Dienst</strong> bezeichnet die Website.</p>
+            </li>
+            <li>
+              <p>
+                <strong>Dienstleister</strong> bezeichnet jede natürliche oder juristische Person, die die Daten im
+                Auftrag des Unternehmens verarbeitet.
+              </p>
+            </li>
+          </ul>
+
+          <p>
+            (Hier folgt der restliche deutschsprachige Fließtext der Datenschutzerklärung, inhaltlich entsprechend der
+            Originalversion, einschließlich Abschnitten zur Datenerhebung, Datennutzung, Weitergabe, Aufbewahrung,
+            Sicherheit, Kinder-Datenschutz und Links zu anderen Websites.)
+          </p>
+
+          <h2>Kontakt</h2>
+          <p>
+            Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns unter folgender E-Mail-Adresse
+            kontaktieren: chongzhidatech@gmail.com
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+

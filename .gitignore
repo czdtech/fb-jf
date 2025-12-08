@@ -23,6 +23,9 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
+# editor-specific settings (keep local)
+.vscode/
+
 # AI assistant configuration (environment-specific)
 .kiro/
 .serena/

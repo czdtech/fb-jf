@@ -11,43 +11,70 @@ const numberOfGamesToShow = 47; // 例如，随机显示12个
 const shuffledGames = allGames.sort(() => 0.5 - Math.random());
 const randomGames = shuffledGames.slice(0, numberOfGamesToShow);
 import CATEGORIES from './Categories.astro';
+import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props as Props;
+
+const LANGUAGE_PREFIXES: Record<string, string> = {
+  'en': '',
+  'zh-CN': '/zh',
+  'es': '/es',
+  'fr': '/fr',
+  'de': '/de',
+  'ja': '/ja',
+  'ko': '/ko'
+};
+
+const prefix = LANGUAGE_PREFIXES[lang] ?? '';
+
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
 ---
 
 
 <section class="games">
      <div class="container">
-       <h2>Trending Games</h2>
+       <h2>{t('game.trendingGames', 'Trending Games')}</h2>
        <div class="game-grid">
 
             <GameCard 
               title="Steal a Brainrot"
               thumbnail="/new-images/steal-a-brainrot.webp"
               slug="steal-a-brainrot"
+              lang={lang}
             />
 
             <GameCard 
               title="99 Nights in the Forest"
               thumbnail="/new-images/99-nights-in-the-forest.webp"
               slug="99-nights-in-the-forest"
+              lang={lang}
             />
 
             <GameCard 
               title="Grow a Garden"
               thumbnail="/growagarden-min.jpeg"
               slug="grow-a-garden"
+              lang={lang}
             />
 
          {randomGames.map(({ astronaut }) => (
             <GameCard 
               title={astronaut[2]}
               thumbnail={astronaut[1]}
-              slug={astronaut[0].replace('/', '')}
+              slug={astronaut[0]
+                .replace(/^\/+/, '')   // 去掉所有前导 /
+                .replace(/\/+$/, '')}  // 去掉所有尾部 /
+              lang={lang}
             />
          ))}
        </div>
-       <style>.more{width: 130px;margin: 40px auto 0 auto;border: 1px solid #eee;border-radius: 7px;padding: 10px;text-align: center;color: #fff;font-weight: 900;font-size: 20px;}.more a:hover{color:#fff}</style>
-       <div class="more"><a href="/update-games/">More Games</a></div>
+       <div class="more"><a href={`${prefix}/update-games/`}>{t('game.exploreGames', 'More Games')}</a></div>
     </div>
 </section>
 
-<CATEGORIES />
+<CATEGORIES lang={lang} />

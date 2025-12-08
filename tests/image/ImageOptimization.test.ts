@@ -60,7 +60,9 @@ describe('Property 6: Image Optimization Attributes', () => {
     return images;
   }
 
-  it('should have width, height, and loading attributes on all game thumbnail images', () => {
+  it(
+    'should have width, height, and loading attributes on all game thumbnail images',
+    () => {
     const htmlFiles = findHtmlFiles(distDir);
     
     if (htmlFiles.length === 0) {
@@ -117,7 +119,10 @@ describe('Property 6: Image Optimization Attributes', () => {
       ),
       { numRuns: Math.min(100, htmlFiles.length) }
     );
-  });
+  },
+  // 站点页面数量较多，解析 + property-based 检查较重，适当放宽超时时间
+  30000
+  );
 
   it('should have alt attributes on all images for accessibility', () => {
     const htmlFiles = findHtmlFiles(distDir);

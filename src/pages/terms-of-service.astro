@@ -1,22 +1,30 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { TERMS_HREFLANG } from '../data/hreflang';
 
 const title = 'Terms of Service | FiddleBops';
 const description = 'Terms of Service for FiddleBops - Read our legal terms and conditions for using our services.';
 const canonicalUrl = 'https://www.playfiddlebops.com/terms-of-service/';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonicalUrl,
+  description
+};
 ---
 
 <BaseLayout
   title={title}
   description={description}
   canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={TERMS_HREFLANG}
+  noindex={true}
   lang="en"
   showEmail={true}
 >
-  <style>
-    .tab-content{background-color:#fcfcfc;padding:40px 30px;border-radius:15px;margin-bottom:20px}
-  </style>
-
   <div class="page">
 
         <div class="header">

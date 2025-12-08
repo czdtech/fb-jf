@@ -21,7 +21,7 @@ const OUTPUT_FILE = 'static-pages-baseline.json';
 // Files that are NOT game pages (components, special pages, etc.)
 const EXCLUDED_FILES = [
   '[gameSlug].astro',
-  '[gameSlug].astro.backup',
+  '_[gameSlug].astro.backup',
   '404.astro',
   'index.astro',
   'privacy.astro',

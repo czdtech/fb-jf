@@ -1,0 +1,39 @@
+---
+locale: zh
+urlstr: crossword-puzzles
+title: '[ZH TRANSLATION NEEDED] Crossword Puzzles'
+description: >-
+  [ZH TRANSLATION NEEDED] Crossword Puzzles offers themed crosswords: solve
+  across and down clues to complete each grid.
+iframeSrc: >-
+  https://ams.cdn.arkadiumhosted.com/assets/global/game/best-free-themed-puzzles/
+thumbnail: /new-images/crossword-puzzles.jpg
+tags:
+  - word
+  - puzzle
+score: 4.1/5  (697 votes)
+releaseDate: 2025-08-16T00:00:00.000Z
+---
+
+
+
+### Overview
+[ZH TRANSLATION NEEDED] Crossword Puzzles features themed crossword grids that follow common American‑style rules: fill Across and Down answers so every letter cross‑checks. Themes tie together several long answers in each puzzle. Many hosts provide daily rotations and archives. 
+
+### How to Play
+- Select a clue and type to fill its entry; use crossings to resolve uncertain letters.  
+- Theme entries are usually longer and share a unifying concept—solve these with crossings to unlock large sections. 
+
+### Controls
+- Type A–Z; arrow keys navigate; Backspace deletes; Enter/Tab toggles direction or moves to next clue (site‑dependent). 
+
+### Tips and Strategies
+- Scan for easy fill‑in‑the‑blank clues, plurals, and common abbreviations.  
+- Leverage the theme: once you see the pattern, other themers fall faster.  
+- Use Check/Reveal sparingly if the site tracks time. 
+
+### FAQ
+- Q: Are the puzzles timed?  
+[ZH TRANSLATION NEEDED]   A: Many sites include optional timers and completion stats; check the settings.   
+- Q: Can I play past themes?  
+[ZH TRANSLATION NEEDED]   A: Hosts often keep an archive so you can play previous puzzles. 

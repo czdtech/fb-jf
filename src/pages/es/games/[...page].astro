@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { GAMES_HREFLANG } from '../../../data/hreflang';
+import { allGames } from '../../../data/games.js';
+
+export function getStaticPaths({ paginate }) {
+  // Reuse shared allGames data source, keep list in sync with English version
+  return paginate(allGames, { pageSize: 30 });
+}
+
+// 所有分页数据都在 "page" 参数中传递
+const { page } = Astro.props;
+const prefix = '/es';
+const title = 'Todos los juegos - FiddleBops Game World';
+const description =
+  'Explora la lista completa de juegos de FiddleBops Game World, incluidos Incredibox, Sprunki y otros juegos musicales creativos. Juega gratis en línea, sin descargar.';
+const canonicalUrl = 'https://www.playfiddlebops.com/es/games/';
+const ogImage = 'https://www.playfiddlebops.com/tw.jpg';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Game',
+  name: title,
+  alternateName: 'playfiddlebops.com',
+  url: canonicalUrl,
+  description
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={ogImage}
+  ogType="website"
+  twitterCard="summary_large_image"
+  jsonLd={jsonLd}
+  hreflangLinks={GAMES_HREFLANG}
+  lang="es"
+>
+  <section class="games">
+    <div class="container">
+      <h1>Todos los juegos</h1>
+      <div class="game-grid">
+        {page.data.map(({ astronaut }) => {
+          const [href, thumbnail, gameTitle] = astronaut;
+          const localizedHref = href.startsWith('http') ? href : `${prefix}${href}`;
+
+          return (
+            <article class="game">
+              <a href={localizedHref} title={gameTitle}>
+                <div class="game-logo game-l-2">
+                  <img src={thumbnail} alt={gameTitle} loading="lazy" width="300" height="300" />
+                  <div class="game-overlay">
+                    <p>{gameTitle}</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+
+      <div class="pagination">
+        {page.url.prev && <a href={page.url.prev}>«</a>}
+        <b class="current">
+          {page.currentPage} / {page.lastPage}
+        </b>
+        {page.url.next && <a href={page.url.next}>»</a>}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

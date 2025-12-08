@@ -5,24 +5,48 @@
  * 
  * Requirements: 2.1, 4.4, 4.5
  */
+
+import { useTranslations, getLocaleFromLangAttr } from '../i18n/utils';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = 'en' } = Astro.props as Props;
+
+const locale = getLocaleFromLangAttr(lang);
+const t = useTranslations(locale);
+
+const LANGUAGE_PREFIXES: Record<string, string> = {
+  'en': '',
+  'zh-CN': '/zh',
+  'es': '/es',
+  'fr': '/fr',
+  'de': '/de',
+  'ja': '/ja',
+  'ko': '/ko'
+};
+
+const prefix = LANGUAGE_PREFIXES[lang] ?? '';
+const withPrefix = (path: string) => `${prefix}${path}`;
 ---
 
 <header>
     <div class="container">
         <div class="logo">
-            <h1><a href="/">Fiddle<span class="light">Bops</span></a></h1>
+            <h1><a href={withPrefix('/')}>Fiddle<span class="light">Bops</span></a></h1>
         </div>
         <button class="nav-toggle" aria-label="Toggle Navigation">☰</button>
         <nav class="nav-menu">
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/update-games/">New Games</a></li>
-                <li><a href="/fiddlebops-mod/">Fiddlebops Mod</a></li>
-                <li><a href="/incredibox-mod/">Incredibox Mod</a></li>
-                <li><a href="/sprunki-mod/">Sprunki Mod</a></li>
+                <li><a href={withPrefix('/')}>{t('nav.home', 'Home')}</a></li>
+                <li><a href={withPrefix('/update-games/')}>{t('nav.newGames', 'New Games')}</a></li>
+                <li><a href={withPrefix('/fiddlebops-mod/')}>{t('nav.fiddlebopsMod', 'Fiddlebops Mod')}</a></li>
+                <li><a href={withPrefix('/incredibox-mod/')}>{t('nav.incrediboxMod', 'Incredibox Mod')}</a></li>
+                <li><a href={withPrefix('/sprunki-mod/')}>{t('nav.sprunkiMod', 'Sprunki Mod')}</a></li>
             </ul>
         </nav>
-        <select class="language-select" style="float:right;">
+        <select class="language-select">
             <option data-lang="en" data-url="/">English</option>
             <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
             <option data-lang="es" data-url="/es/">Español</option>

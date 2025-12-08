@@ -45,11 +45,12 @@ function escapeYamlString(value) {
   
   if (needsQuotes) {
     // Use double quotes and escape internal double quotes
-    const escaped = value.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+    const escapedBackslashes = value.replace(/\\/g, '\\\\');
+    const escaped = escapedBackslashes.replace(/"/g, '\\"');
     return `"${escaped}"`;
   }
   
-  return `"${value}"`;
+  return value;
 }
 
 /**

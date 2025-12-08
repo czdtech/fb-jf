@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CATEGORIES from '../../../components/Categories.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getCategoryHreflang } from '../../../data/hreflang';
+
+export { getStaticPaths } from '../../c/[slug].astro';
+
+type Props = {
+  games: CollectionEntry<'games'>[];
+  tagName: string;
+};
+
+const { games, tagName } = Astro.props as Props;
+const slug = Astro.params.slug!;
+const hreflangLinks = getCategoryHreflang(slug);
+
+const displayTagName = tagName
+  .split(' ')
+  .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+  .join(' ');
+
+const gameCount = games.length;
+const description = `Juega en línea gratis a ${gameCount} juegos de ${displayTagName} en FiddleBops Game World, incluyendo ${games
+  .slice(0, 3)
+  .map((g) => g.data.title.split(' - ')[0])
+  .join(', ')} y más.`;
+const title = `Juegos de ${displayTagName} - FiddleBops Game World`;
+const canonicalUrl = `https://www.playfiddlebops.com/es/c/${slug}/`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: title,
+  description,
+  url: canonicalUrl,
+  itemListElement: games.map((game, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    url: `https://www.playfiddlebops.com/${game.data.urlstr ?? game.slug}/`
+  }))
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={hreflangLinks}
+  lang="es"
+>
+  <section class="games">
+    <div class="container">
+      <h1>Juegos de {displayTagName}</h1>
+      <p>
+        Disfruta de {gameCount} juegos de {displayTagName} gratis en línea, listos para jugar al instante.
+      </p>
+      <div class="game-grid">
+        {games.map((game) => {
+          const url = `/es/${game.data.urlstr ?? game.slug}/`;
+          const gameTitle = game.data.title.split(' - ')[0];
+          return (
+            <article class="game">
+              <a href={url}>
+                <div class="game-logo">
+                  <img
+                    src={game.data.thumbnail}
+                    alt={gameTitle}
+                    loading="lazy"
+                    width="300"
+                    height="300"
+                  />
+                </div>
+                <p>{gameTitle}</p>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <CATEGORIES lang="es" />
+</BaseLayout>

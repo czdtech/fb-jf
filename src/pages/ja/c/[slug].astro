@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CATEGORIES from '../../../components/Categories.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getCategoryHreflang } from '../../../data/hreflang';
+
+export { getStaticPaths } from '../../c/[slug].astro';
+
+type Props = {
+  games: CollectionEntry<'games'>[];
+  tagName: string;
+};
+
+const { games, tagName } = Astro.props as Props;
+const slug = Astro.params.slug!;
+const hreflangLinks = getCategoryHreflang(slug);
+
+const displayTagName = tagName
+  .split(' ')
+  .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+  .join(' ');
+
+const gameCount = games.length;
+const description = `FiddleBops Game World で ${gameCount} 個の ${displayTagName} ゲームを無料でオンラインプレイできます。人気作 ${games
+  .slice(0, 3)
+  .map((g) => g.data.title.split(' - ')[0])
+  .join('、')} など。`;
+const title = `${displayTagName} ゲーム - FiddleBops Game World`;
+const canonicalUrl = `https://www.playfiddlebops.com/ja/c/${slug}/`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: title,
+  description,
+  url: canonicalUrl,
+  itemListElement: games.map((game, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    url: `https://www.playfiddlebops.com/${game.data.urlstr ?? game.slug}/`
+  }))
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  jsonLd={jsonLd}
+  hreflangLinks={hreflangLinks}
+  lang="ja"
+>
+  <section class="games">
+    <div class="container">
+      <h1>{displayTagName} ゲーム</h1>
+      <p>
+        全 {gameCount} 個の {displayTagName} 系ゲームをブラウザで今すぐ無料プレイ。
+      </p>
+      <div class="game-grid">
+        {games.map((game) => {
+          const url = `/ja/${game.data.urlstr ?? game.slug}/`;
+          const gameTitle = game.data.title.split(' - ')[0];
+          return (
+            <article class="game">
+              <a href={url}>
+                <div class="game-logo">
+                  <img
+                    src={game.data.thumbnail}
+                    alt={gameTitle}
+                    loading="lazy"
+                    width="300"
+                    height="300"
+                  />
+                </div>
+                <p>{gameTitle}</p>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <CATEGORIES lang="ja" />
+</BaseLayout>

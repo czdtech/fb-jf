@@ -48,90 +48,35 @@ import NAV from '../../components/Nav.astro';
 
     <link rel="icon" href="https://www.playfiddlebops.com/favicon.ico"/>
     <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="/styles/homepage.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <style>
-.video-container {
-    margin: 30px auto 0;
-    border: 3px solid var(--tertiary-dark);
-    border-radius: 4px;
-    height:400px
-}
-.video-container iframe {
-    width: 45%;
-    height: 100%;
-    float: left;
-    margin:0 30px;
-}
-      audio {width:210px}
-.game-card .game-iframe-sprunki {
-  float:left;
-    width: 69%;
-    margin:0;
-    padding:0;
-     height:600px;
-     background-color:#fff;
-     position: relative;
-     background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/tw.jpg);
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-size:cover;
-}
-      .game .game-l-2 img {
-    width: 100%!important;
-    height:auto;
-    margin: 0 auto;}
-      @media screen and (max-width: 980px){
-        .game-card .game-iframe-sprunki {
-     width:100%;}
-      }
-      @media screen and (max-width: 768px){
-        audio {width: 120px}
-        .game-card .game-iframe-sprunki {
-     height:330px!important;
-}
-.video-container {
-    height:300px
-}
-.video-container iframe {
-    width: 94%;
-    height: 100%;
-    padding: 0px;
-    margin: 20px;
-}
-.game-info{display:none}
-        }
-    </style>
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-      const navToggle = document.querySelector('.nav-toggle');
-      const navMenu = document.querySelector('.nav-menu');
-    
-      navToggle.addEventListener('click', function() {
-        navMenu.classList.toggle('active');
+      import { initNavToggle, initLanguageSwitcher } from '../../scripts/index.ts';
+      import { initIframeLoader } from '../../scripts/iframe-loader.ts';
+
+      // 初始化移动端导航
+      initNavToggle({
+        toggleSelector: '.nav-toggle',
+        menuSelector: '.nav-menu'
       });
 
-    });
-    </script>
-    <script>
-        let iframeLoaded = false; // Track if iframe is loaded
-        const iframe = document.getElementById("fiddlebops-iframe"); // Moved outside loadIframe to be accessible
-        const playButton = document.getElementById("playButton");
-        const gameImageContainer = document.querySelector(".game-iframe-sprunki");
+      // 初始化语言切换（西班牙语）
+      initLanguageSwitcher({
+        selectSelector: '.language-select',
+        currentLang: 'es'
+      });
 
-        function loadIframe() {
-            iframe.src = "https://fiddlebops-49o.pages.dev/";
-             playButton.style.display = "none"; //Hide button
-            iframeLoaded = true; // Set to true so it's not loaded again
-            iframe.focus(); // Give focus to iframe for keyboard controls if necessary
-
-            gameImageContainer.style.backgroundImage = "none";
-        }
-          playButton.addEventListener("click", loadIframe); // Listen for click
+      // 初始化首页游戏 iframe 懒加载
+      initIframeLoader({
+        iframeId: 'fiddlebops-iframe',
+        playButtonId: 'playButton',
+        containerSelector: '.game-iframe-sprunki',
+        iframeSrc: 'https://fiddlebops-49o.pages.dev/'
+      });
     </script>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9JME3P55QJ"></script>
@@ -156,10 +101,10 @@ import NAV from '../../components/Nav.astro';
             <nav class="nav-menu">
                 <ul>
                     <li><a href="/es/">Inicio</a></li>
-                    <NAV />
+                    <NAV lang="es" />
                 </ul>
             </nav>
-      <select style="float:right;">
+      <select class="language-select">
         <option data-lang="en" data-url="/">English</option>
         <option data-lang="zh-CN" data-url="/zh/">简体中文</option>  
         <option data-lang="es" data-url="/es/">Español</option>
@@ -179,17 +124,17 @@ import NAV from '../../components/Nav.astro';
                         <h2>¡Bienvenido a Fiddlebops!</h2>
                         <p>¡Comienza tu viaje de creación musical! Fiddlebops es un proyecto hecho por fans inspirado en Incredibox. Aquí, puedes mezclar y combinar libremente varios sonidos para crear tu propia música única.</p>
                     </div>
-<PopularGames />
+          <PopularGames lang="es" />
                    <div class="game-iframe-sprunki">
                     <iframe id="fiddlebops-iframe" src=""  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
-                        <button id="playButton">Play</button>
+            <button id="playButton">Jugar</button>
                     </div>
-<NewGames />
+          <NewGames lang="es" />
 
                 </div>
             </div>
         </section>
-<TrendingGames />
+<TrendingGames lang="es" />
 <section class="about" id="about">
   <div class="container">
     <h2>À propos de Fiddlebops Incredibox</h2>
@@ -438,12 +383,12 @@ import NAV from '../../components/Nav.astro';
             <div class="video-container">
                  <iframe src="https://www.youtube.com/embed/4Oj-dVLSA70" title="Fiddlebops ALL POLOS 4K (WITH SUBTITLES)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                  <iframe src="https://www.youtube.com/embed/JlMa-fRBOwE" title="Every Incredibox Fiddlebops in 8 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
-<div style="clear:both"></div>
+<div class="clear-both"></div>
             </div>
             </div>
-<div style="clear:both"></div>
+<div class="clear-both"></div>
         </section>
-<div style="clear:both"></div>
+<div class="clear-both"></div>
           <section class="about" id="faq">
             <div class="container">
               <h2>Preguntas Frecuentes sobre el Juego Fiddlebops</h2>
@@ -552,16 +497,8 @@ import NAV from '../../components/Nav.astro';
         }
       });
       </script>
-<style>
-/* Hide AddToAny vertical share bar when screen is less than 981 pixels wide */
-@media screen and (max-width: 980px) {
-    .a2a_floating_style.a2a_vertical_style { display: none; }
-}
-@media screen and (min-width: 980px) {
-    .a2a_floating_style.a2a_default_style { display: none; }
-}
-</style>
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60" style="bottom:0px; right:0px;">
+
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" data-a2a-scroll-show="0,60">
 
 <a class="a2a_button_x"></a>
 <a class="a2a_button_reddit"></a>
@@ -572,7 +509,7 @@ import NAV from '../../components/Nav.astro';
     <a class="a2a_dd" href="https://www.playfiddlebops.com/es/"></a>
 </div>
 <!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style">
 <a class="a2a_button_x"></a>
 <a class="a2a_button_reddit"></a>
 <a class="a2a_button_facebook"></a>

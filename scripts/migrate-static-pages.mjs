@@ -25,7 +25,7 @@ const backupDir = path.join(__dirname, '../src/pages-backup');
 // Pages to exclude (not game pages)
 const excludePages = [
   '[gameSlug].astro',
-  '[gameSlug].astro.backup',
+  '_[gameSlug].astro.backup',
   '404.astro',
   'categories.astro',
   'common.astro',

@@ -1,0 +1,43 @@
+---
+locale: de
+urlstr: diwali-lights
+title: '[DE] Diwali Lights'
+description: >-
+  [DE] Diwali Lights is a festive tap‑puzzle — light diyas in patterns, avoid
+  overlaps, and complete glowing designs.
+iframeSrc: 'https://diwalilights.h5games.usercontent.goog/v/5cddqg9lrn3kg/'
+thumbnail: /new-images/diwali-lights.jpg
+tags:
+  - puzzle
+  - casual
+score: 4.1/5  (1835 votes)
+releaseDate: 2025-10-18T00:00:00.000Z
+---
+
+
+
+
+
+### Detailed Game Introduction
+
+Diwali Lights is a holiday‑themed light‑up puzzle. Activate lamps (diyas) in the correct order or pattern to illuminate designs without crossing rules. Later stages add limited moves, switches, and timing.
+
+### Gameplay Strategy & Walkthrough
+
+1.  **[DE]** Understand rules: Some boards restrict overlaps or require sequences—read objectives first.
+2.  **[DE]** Plan routes: Map a path that minimizes backtracking and respects move limits.
+3.  **[DE]** Save toggles: Use switches to open multiple goals at once.
+4.  **[DE]** Visual groups: Solve one motif at a time to simplify the board.
+5.  **[DE]** Retry optimization: Short puzzles reward fast restarts after missteps.
+
+### Controls Guide
+
+- Tap/Click lamps, switches, or tiles per puzzle rules.
+- Undo/Reset if the mode allows.
+
+### Frequently Asked Questions (FAQ)
+
+- I keep failing on move limits—why? Your path wastes steps; redraw a shorter route.
+- Timed boards? Complete motifs near timers first.
+- Are hints available? Often yes; use them sparingly.
+

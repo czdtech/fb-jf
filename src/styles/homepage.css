@@ -53,6 +53,52 @@ audio {
 }
 
 /* ===========================================
+ * COMPACT GAME CARDS (HOMEPAGE / TRENDING)
+ * =========================================== */
+.game--compact {
+    padding: 0;
+}
+
+.game--compact > a {
+    display: block;
+    width: 100%;
+}
+
+.game__title--ellipsis {
+    font-size: var(--font-size-sm);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.game--mod img {
+    max-height: 150px;
+    border-top-right-radius: var(--radius-lg);
+    border-top-left-radius: var(--radius-lg);
+}
+
+/* Shared “More” button style for homepage blocks */
+.more {
+    width: 130px;
+    margin: 40px auto 0;
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    padding: 10px;
+    text-align: center;
+    color: var(--color-text-white);
+    font-weight: var(--font-weight-bold);
+    font-size: 20px;
+}
+
+.more a {
+    color: inherit;
+}
+
+.more a:hover {
+    color: var(--color-text-white);
+}
+
+/* ===========================================
  * ADDTOANY SOCIAL SHARING
  * =========================================== */
 @media screen and (max-width: 980px) {
